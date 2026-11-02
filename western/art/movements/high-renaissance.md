@@ -1,0 +1,37 @@
+# High Renaissance
+
+*c. 1490–1530*
+
+Era: [The Renaissance](../../periods/renaissance.md)
+
+A short peak of balance and harmony centred on Rome, Florence, Milan and Venice, defined by Leonardo, Michelangelo, Raphael and Titian.
+
+## Artists
+
+-  [Giovanni Bellini](../creators/bellini.md) (c. 1430 – 1516)
+-  [Leonardo da Vinci](../creators/leonardo.md) (1452 – 1519)
+-  [Michelangelo Buonarroti](../creators/michelangelo.md) (1475 – 1564)
+-  [Giorgione](../creators/giorgione.md) (c. 1477 – 1510)
+-  [Raphael (Raffaello Sanzio)](../creators/raphael.md) (1483 – 1520)
+-  [Titian (Tiziano Vecellio)](../creators/titian.md) (c. 1488–90 – 1576)
+
+## Key artworks
+
+| Image | Year | Artwork | Artist | Where to see it |
+|---|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg/330px-Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg" width="140" alt="Lady with an Ermine"></a> | c. 1489–91 | **Lady with an Ermine** | [Leonardo da Vinci](../creators/leonardo.md) | Czartoryski Museum (National Museum in Kraków) |
+| <a href="https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/330px-Da_Vinci_Vitruve_Luc_Viatour.jpg" width="140" alt="Vitruvian Man"></a> | c. 1490 | **Vitruvian Man** | [Leonardo da Vinci](../creators/leonardo.md) | Gallerie dell'Accademia, Venice |
+| <a href="https://commons.wikimedia.org/wiki/File:The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg/330px-The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg" width="140" alt="The Last Supper"></a> | c. 1495–98 | **The Last Supper** | [Leonardo da Vinci](../creators/leonardo.md) | Santa Maria delle Grazie, Milan |
+| <a href="https://commons.wikimedia.org/wiki/File:Pieta_de_Michelangelo_-_Vaticano.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pieta_de_Michelangelo_-_Vaticano.jpg/330px-Pieta_de_Michelangelo_-_Vaticano.jpg" width="140" alt="Pietà"></a> | 1498–99 | **Pietà** | [Michelangelo Buonarroti](../creators/michelangelo.md) | St Peter's Basilica, Vatican City |
+| <a href="https://commons.wikimedia.org/wiki/File:%27David%27_by_Michelangelo_Fir_JBU004.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg/330px-%27David%27_by_Michelangelo_Fir_JBU004.jpg" width="140" alt="David"></a> | 1501–04 | **David** | [Michelangelo Buonarroti](../creators/michelangelo.md) | Galleria dell'Accademia, Florence |
+| <a href="https://commons.wikimedia.org/wiki/File:Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/330px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg" width="140" alt="Mona Lisa"></a> | c. 1503–1519 | **Mona Lisa** | [Leonardo da Vinci](../creators/leonardo.md) | Musée du Louvre, Paris |
+| <a href="https://commons.wikimedia.org/wiki/File:Giorgione_-_Das_Gewitter.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Giorgione_-_Das_Gewitter.jpg/330px-Giorgione_-_Das_Gewitter.jpg" width="140" alt="The Tempest"></a> | c. 1506–08 | **The Tempest** | [Giorgione](../creators/giorgione.md) | Gallerie dell'Accademia, Venice |
+| <a href="https://commons.wikimedia.org/wiki/File:Sistine_Chapel_ceiling_02_%28brightened%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sistine_Chapel_ceiling_02_%28brightened%29.jpg/330px-Sistine_Chapel_ceiling_02_%28brightened%29.jpg" width="140" alt="Sistine Chapel Ceiling"></a> | 1508–12 | **Sistine Chapel Ceiling** | [Michelangelo Buonarroti](../creators/michelangelo.md) | Sistine Chapel, Vatican City |
+| <a href="https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/330px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg" width="140" alt="The School of Athens"></a> | 1509–11 | **The School of Athens** | [Raphael (Raffaello Sanzio)](../creators/raphael.md) | Stanza della Segnatura, Apostolic Palace, Vatican City |
+| <a href="https://commons.wikimedia.org/wiki/File:RAFAEL_-_Madonna_Sixtina_%28Gem%C3%A4ldegalerie_Alter_Meister%2C_Dresden%2C_1513-14._%C3%93leo_sobre_lienzo%2C_265_x_196_cm%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RAFAEL_-_Madonna_Sixtina_%28Gem%C3%A4ldegalerie_Alter_Meister%2C_Dresden%2C_1513-14._%C3%93leo_sobre_lienzo%2C_265_x_196_cm%29.jpg/330px-RAFAEL_-_Madonna_Sixtina_%28Gem%C3%A4ldegalerie_Alter_Meister%2C_Dresden%2C_1513-14._%C3%93leo_sobre_lienzo%2C_265_x_196_cm%29.jpg" width="140" alt="Sistine Madonna"></a> | 1512–13 | **Sistine Madonna** | [Raphael (Raffaello Sanzio)](../creators/raphael.md) | Gemäldegalerie Alte Meister, Dresden |
+| <a href="https://commons.wikimedia.org/wiki/File:Tizian_041.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tizian_041.jpg/330px-Tizian_041.jpg" width="140" alt="Assumption of the Virgin"></a> | 1516–18 | **Assumption of the Virgin** | [Titian (Tiziano Vecellio)](../creators/titian.md) | Basilica dei Frari, Venice |
+| <a href="https://commons.wikimedia.org/wiki/File:Last_Judgement_%28Michelangelo%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Last_Judgement_%28Michelangelo%29.jpg/330px-Last_Judgement_%28Michelangelo%29.jpg" width="140" alt="The Last Judgment"></a> | 1536–41 | **The Last Judgment** | [Michelangelo Buonarroti](../creators/michelangelo.md) | Sistine Chapel, Vatican City |
+| <a href="https://commons.wikimedia.org/wiki/File:Tiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg/330px-Tiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg" width="140" alt="Venus of Urbino"></a> | 1538 | **Venus of Urbino** | [Titian (Tiziano Vecellio)](../creators/titian.md) | Uffizi Gallery, Florence |
+
+---
+[← Northern Renaissance](northern-renaissance.md) · [Art](../README.md) · [Mannerism →](mannerism.md)

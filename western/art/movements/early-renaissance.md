@@ -1,0 +1,40 @@
+# Early Italian Renaissance
+
+*c. 1400–1490*
+
+Era: [The Renaissance](../../periods/renaissance.md)
+
+Florence leads a revival of classical antiquity: linear perspective, anatomical study and free-standing sculpture return, funded by patrons such as the Medici.
+
+## Artists
+
+-  [Filippo Brunelleschi](../creators/brunelleschi.md) (1377 – 1446)
+-  [Lorenzo Ghiberti](../creators/ghiberti.md) (1378 – 1455)
+-  [Donatello](../creators/donatello.md) (c. 1386 – 1466)
+-  [Fra Angelico](../creators/fra-angelico.md) (c. 1395 – 1455)
+-  [Masaccio](../creators/masaccio.md) (1401 – 1428)
+-  [Piero della Francesca](../creators/piero.md) (c. 1415 – 1492)
+-  [Giovanni Bellini](../creators/bellini.md) (c. 1430 – 1516)
+-  [Andrea Mantegna](../creators/mantegna.md) (c. 1431 – 1506)
+-  [Sandro Botticelli](../creators/botticelli.md) (c. 1445 – 1510)
+
+## Key artworks
+
+| Image | Year | Artwork | Artist | Where to see it |
+|---|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg/330px-Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg" width="140" alt="Dome of Florence Cathedral"></a> | 1420–36 | **Dome of Florence Cathedral** | [Filippo Brunelleschi](../creators/brunelleschi.md) | Santa Maria del Fiore, Florence |
+| <a href="https://commons.wikimedia.org/wiki/File:Lorenzo_Ghiberti-The_Gates_of_Paradise_-_Original-Museo_dell%27Opera_del_Duomo_%28Florence%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lorenzo_Ghiberti-The_Gates_of_Paradise_-_Original-Museo_dell%27Opera_del_Duomo_%28Florence%29.jpg/330px-Lorenzo_Ghiberti-The_Gates_of_Paradise_-_Original-Museo_dell%27Opera_del_Duomo_%28Florence%29.jpg" width="140" alt="Gates of Paradise"></a> | 1425–52 | **Gates of Paradise** | [Lorenzo Ghiberti](../creators/ghiberti.md) | Museo dell'Opera del Duomo, Florence (copies on the Baptistery) |
+| <a href="https://commons.wikimedia.org/wiki/File:The_Tribute_Money_by_Masaccio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Tribute_Money_by_Masaccio.jpg/330px-The_Tribute_Money_by_Masaccio.jpg" width="140" alt="The Tribute Money"></a> | c. 1425 | **The Tribute Money** | [Masaccio](../creators/masaccio.md) | Brancacci Chapel, Santa Maria del Carmine, Florence |
+| <a href="https://commons.wikimedia.org/wiki/File:Masaccio%2C_trinit%C3%A0.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Masaccio%2C_trinit%C3%A0.jpg/330px-Masaccio%2C_trinit%C3%A0.jpg" width="140" alt="Holy Trinity"></a> | c. 1427 | **Holy Trinity** | [Masaccio](../creators/masaccio.md) | Santa Maria Novella, Florence |
+| <a href="https://commons.wikimedia.org/wiki/File:Donatello%2C_David%2C_bronze%2C_1435-40%2C_Florence%2C_Bargello%2C_detail.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Donatello%2C_David%2C_bronze%2C_1435-40%2C_Florence%2C_Bargello%2C_detail.jpg/330px-Donatello%2C_David%2C_bronze%2C_1435-40%2C_Florence%2C_Bargello%2C_detail.jpg" width="140" alt="David"></a> | c. 1440s | **David** | [Donatello](../creators/donatello.md) | Museo Nazionale del Bargello, Florence |
+| <a href="https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Annunciation.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fra_Angelico_-_Annunciation.jpg/330px-Fra_Angelico_-_Annunciation.jpg" width="140" alt="Annunciation (San Marco)"></a> | c. 1440–45 | **Annunciation (San Marco)** | [Fra Angelico](../creators/fra-angelico.md) | Museo di San Marco, Florence |
+| <a href="https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-_Baptism_of_Christ_-_WGA17595.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Piero_della_Francesca_-_Baptism_of_Christ_-_WGA17595.jpg/330px-Piero_della_Francesca_-_Baptism_of_Christ_-_WGA17595.jpg" width="140" alt="The Baptism of Christ"></a> | c. 1450s | **The Baptism of Christ** | [Piero della Francesca](../creators/piero.md) | National Gallery, London |
+| <a href="https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-_Flagelaci%C3%B3n_de_Cristo%2C_1468-1470_%28Galleria_Nazionale_delle_Marche%2C_Urbino%29.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Piero_della_Francesca_-_Flagelaci%C3%B3n_de_Cristo%2C_1468-1470_%28Galleria_Nazionale_delle_Marche%2C_Urbino%29.png/330px-Piero_della_Francesca_-_Flagelaci%C3%B3n_de_Cristo%2C_1468-1470_%28Galleria_Nazionale_delle_Marche%2C_Urbino%29.png" width="140" alt="The Flagellation of Christ"></a> | c. 1455–60 | **The Flagellation of Christ** | [Piero della Francesca](../creators/piero.md) | Galleria Nazionale delle Marche, Urbino |
+| <a href="https://commons.wikimedia.org/wiki/File:Mantegna_-_Camera_degli_Sposi.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mantegna_-_Camera_degli_Sposi.jpg/330px-Mantegna_-_Camera_degli_Sposi.jpg" width="140" alt="Camera degli Sposi"></a> | 1465–74 | **Camera degli Sposi** | [Andrea Mantegna](../creators/mantegna.md) | Ducal Palace, Mantua |
+| <a href="https://commons.wikimedia.org/wiki/File:Giovanni_Bellini_-_Saint_Francis_in_the_Desert_-_Google_Art_Project.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Giovanni_Bellini_-_Saint_Francis_in_the_Desert_-_Google_Art_Project.jpg/330px-Giovanni_Bellini_-_Saint_Francis_in_the_Desert_-_Google_Art_Project.jpg" width="140" alt="Saint Francis in the Desert"></a> | c. 1475–80 | **Saint Francis in the Desert** | [Giovanni Bellini](../creators/bellini.md) | The Frick Collection, New York |
+| <a href="https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Botticelli-primavera.jpg/330px-Botticelli-primavera.jpg" width="140" alt="Primavera"></a> | c. 1480 | **Primavera** | [Sandro Botticelli](../creators/botticelli.md) | Uffizi Gallery, Florence |
+| <a href="https://commons.wikimedia.org/wiki/File:The_dead_Christ_and_three_mourners%2C_by_Andrea_Mantegna.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_dead_Christ_and_three_mourners%2C_by_Andrea_Mantegna.jpg/330px-The_dead_Christ_and_three_mourners%2C_by_Andrea_Mantegna.jpg" width="140" alt="Lamentation of Christ"></a> | c. 1480 | **Lamentation of Christ** | [Andrea Mantegna](../creators/mantegna.md) | Pinacoteca di Brera, Milan |
+| <a href="https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/330px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg" width="140" alt="The Birth of Venus"></a> | c. 1484–86 | **The Birth of Venus** | [Sandro Botticelli](../creators/botticelli.md) | Uffizi Gallery, Florence |
+
+---
+[← Late Gothic & Proto-Renaissance](proto-renaissance.md) · [Art](../README.md) · [Northern Renaissance →](northern-renaissance.md)

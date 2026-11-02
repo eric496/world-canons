@@ -1,0 +1,1901 @@
+[
+ {
+  "id": "giotto",
+  "name": "Giotto di Bondone",
+  "born": "c. 1267",
+  "died": "1337",
+  "birthplace": "near Florence, Italy",
+  "deathplace": "Florence",
+  "nationality": "Italian",
+  "movements": [
+   "proto-renaissance"
+  ],
+  "bio": "Often called the first great painter of the Renaissance, Giotto gave figures real bulk, weight and human feeling. His fresco cycle in Padua's Scrovegni Chapel set the course of Western narrative painting.",
+  "bio_full": [
+   "Giotto di Bondone was born around 1267 in the Mugello valley near Florence, probably at Colle di Vespignano. According to a famous legend told by Vasari, the painter Cimabue discovered him as a shepherd boy drawing his sheep on a rock and took him on as a pupil. Giotto worked across Italy: in Rome, in Assisi, where the fresco cycle of the life of St Francis in the Upper Church is traditionally but debatably attributed to him, in Padua, Naples and Milan. His greatest surviving work is the fresco cycle of the Scrovegni Chapel in Padua (around 1305). Late in life he was appointed chief architect of Florence Cathedral and designed its bell tower, still known as Giotto's Campanile. He died in Florence in 1337.",
+   "Giotto broke with the flat, stylised conventions of Byzantine painting. He gave his figures real weight and volume, placed them in believable spaces, and showed human emotion with a new directness and dignity, so that sacred stories became human dramas. Dante, Petrarch and Boccaccio praised him in his own time, and Renaissance writers saw him as the artist who began the revival of painting. He is often called the father of Western painting."
+  ]
+ },
+ {
+  "id": "donatello",
+  "name": "Donatello",
+  "born": "c. 1386",
+  "died": "1466",
+  "birthplace": "Florence, Italy",
+  "deathplace": "Florence",
+  "nationality": "Italian",
+  "movements": [
+   "early-renaissance"
+  ],
+  "bio": "The most inventive sculptor of the early Renaissance, Donatello revived the classical nude and free-standing bronze statue. He worked in marble, bronze, wood and terracotta with striking psychological realism.",
+  "bio_full": [
+   "Donato di Niccolò di Betto Bardi, known as Donatello, trained in Ghiberti's bronze workshop before becoming the most inventive sculptor of the 15th century. His early marble saints for Orsanmichele and Florence Cathedral, such as St Mark and St George, gave figures a new psychological life and a believable stance. He also invented rilievo schiacciato ('flattened relief'), creating deep perspective in carving only millimetres deep. His friend and patron was Cosimo de' Medici.",
+   "Donatello revived antique types that had not been made for a thousand years, including the free-standing nude and the bronze equestrian monument (the Gattamelata in Padua, 1453). His late works, such as the gaunt wooden Penitent Magdalene, have a raw intensity that looks ahead to much later art. He was buried near Cosimo in the church of San Lorenzo."
+  ]
+ },
+ {
+  "id": "botticelli",
+  "name": "Sandro Botticelli",
+  "born": "c. 1445",
+  "died": "1510",
+  "birthplace": "Florence, Italy",
+  "deathplace": "Florence",
+  "nationality": "Italian",
+  "movements": [
+   "early-renaissance"
+  ],
+  "bio": "A Florentine painter close to the Medici circle, known for graceful line and mythological subjects drawn from Neoplatonic philosophy. His work fell out of favour for centuries before being rediscovered in the 19th century.",
+  "bio_full": [
+   "Alessandro Filipepi, known as Sandro Botticelli, trained with Fra Filippo Lippi and became one of the favourite painters of the Medici circle under Lorenzo the Magnificent. In 1481–82 he was one of the artists summoned to Rome to fresco the walls of the new Sistine Chapel. He produced altarpieces, portraits, tondos (round paintings) and a long series of drawings illustrating Dante's Divine Comedy.",
+   "Botticelli's art is built on flowing line, graceful elongated figures and a melancholy beauty. His mythological paintings reflect the Neoplatonic philosophy of Lorenzo's circle, in which pagan myth could express Christian and moral truths. In the 1490s the friar Savonarola preached against luxury and pagan art in Florence. Botticelli's later work grows more severe and religious, and he died largely forgotten. The Pre-Raphaelites and Aesthetic movement of the 19th century revived him, and he is now among the most popular painters in the world."
+  ]
+ },
+ {
+  "id": "van-eyck",
+  "name": "Jan van Eyck",
+  "born": "c. 1390",
+  "died": "1441",
+  "birthplace": "probably Maaseik, Low Countries",
+  "deathplace": "Bruges",
+  "nationality": "Flemish",
+  "movements": [
+   "northern-renaissance"
+  ],
+  "bio": "Court painter to the Duke of Burgundy, van Eyck brought oil painting to an unmatched level of luminous detail. His portraits and altarpieces fuse close observation with layered religious symbolism.",
+  "bio_full": [
+   "Jan van Eyck is first recorded working for John of Bavaria in The Hague. From 1425 he was court painter and valet de chambre to Philip the Good, Duke of Burgundy, one of the richest rulers in Europe. Philip valued him highly enough to send him on confidential diplomatic missions, including a voyage to Portugal in 1428–29 to paint the portrait of the duke's prospective bride, Isabella. He settled in Bruges, where he died in 1441. He sometimes signed with the punning motto 'Als ich can' ('As I can').",
+   "Van Eyck did not invent oil paint, as later legend claimed, but he perfected it. By building up thin, translucent glazes he achieved glowing colour and an unprecedented level of detail: individual hairs, reflections in metal and pearls, the texture of fur and brocade. His portraits are among the first independent portraits in Western art, and his religious works pack everyday objects with symbolic meaning. Italian collectors prized his work, and he shaped the whole tradition of Netherlandish painting."
+  ]
+ },
+ {
+  "id": "bosch",
+  "name": "Hieronymus Bosch",
+  "born": "c. 1450",
+  "died": "1516",
+  "birthplace": "'s-Hertogenbosch, Low Countries",
+  "deathplace": "'s-Hertogenbosch",
+  "nationality": "Netherlandish",
+  "movements": [
+   "northern-renaissance"
+  ],
+  "bio": "Bosch painted teeming moral allegories full of hybrid creatures, temptations and punishments. His imagination later made him a hero to the Surrealists.",
+  "bio_full": [
+   "Jheronimus van Aken took the name Bosch from his home town of 's-Hertogenbosch in the Duchy of Brabant, where his family were painters and where he spent almost his whole life. Few documents about him survive. We know that he married into a wealthy family and was a prominent member of the religious Brotherhood of Our Lady, and that his patrons included the Burgundian and Habsburg nobility. Only around 25 paintings are firmly attributed to him today.",
+   "Bosch painted moral and religious allegories crowded with tiny figures, hybrid monsters, strange architecture and burning landscapes, warning of sin, folly and damnation. His meaning has been debated for centuries, with readings ranging from orthodox sermon to secret heresy. Philip II of Spain was an avid collector, which is why the Prado holds many of his greatest works. His teeming imagination influenced Bruegel and, centuries later, was claimed by the Surrealists."
+  ]
+ },
+ {
+  "id": "durer",
+  "name": "Albrecht Dürer",
+  "born": "1471",
+  "died": "1528",
+  "birthplace": "Nuremberg, Holy Roman Empire",
+  "deathplace": "Nuremberg",
+  "nationality": "German",
+  "movements": [
+   "northern-renaissance"
+  ],
+  "bio": "Painter, printmaker and theorist who carried Italian Renaissance ideas north of the Alps. His woodcuts and engravings circulated across Europe and made him the first internationally famous artist through print.",
+  "bio_full": [
+   "Albrecht Dürer was the son of a Hungarian-born goldsmith in Nuremberg, a wealthy imperial city and printing centre. He trained as a goldsmith and then with the painter Michael Wolgemut, travelled as a journeyman, and made two journeys to Italy (1494–95 and 1505–07), where he absorbed Venetian colour and Italian theory. His woodcut series the Apocalypse (1498) made him famous across Europe. He later worked for Emperor Maximilian I and travelled to the Netherlands in 1520–21, leaving a vivid diary of the journey.",
+   "Dürer was painter, draughtsman, engraver, theorist and a shrewd businessman. He published his own prints and protected his famous 'AD' monogram, and late in life he wrote treatises on measurement, fortification and human proportion. He made self-portraiting a serious art and raised printmaking to the level of painting. He was the first northern artist to absorb the Italian Renaissance fully, and he became the model of the artist as intellectual."
+  ]
+ },
+ {
+  "id": "bruegel",
+  "name": "Pieter Bruegel the Elder",
+  "born": "c. 1525",
+  "died": "1569",
+  "birthplace": "probably Breda, Low Countries",
+  "deathplace": "Brussels",
+  "nationality": "Flemish",
+  "movements": [
+   "northern-renaissance"
+  ],
+  "bio": "Bruegel painted peasant life, proverbs and landscapes with humour and humanity. His seasonal landscapes are among the first great pure landscape paintings in Europe.",
+  "bio_full": [
+   "Pieter Bruegel the Elder probably came from the region of Breda. He became a master in the Antwerp painters' guild in 1551 and soon travelled to Italy, crossing the Alps, whose mountain scenery later filled his landscapes. Back in Antwerp he designed prints for the publisher Hieronymus Cock, including Bosch-like moral allegories. In 1563 he married Mayken Coecke, the daughter of his former master, and moved to Brussels. He died there in 1569. His sons Pieter Brueghel the Younger and Jan Brueghel the Elder founded a long dynasty of painters.",
+   "Bruegel painted peasant weddings and dances, children's games, proverbs, biblical scenes set in contemporary Flanders and the cycle of the seasons, with humour, sharp observation and deep humanity. Later legend made him 'Peasant Bruegel', but he was a learned city-dweller who moved in humanist circles and sold to wealthy collectors. His panoramic landscapes and his view of human folly within the vastness of nature are among the most original achievements of 16th-century art."
+  ]
+ },
+ {
+  "id": "leonardo",
+  "name": "Leonardo da Vinci",
+  "born": "1452",
+  "died": "1519",
+  "birthplace": "Vinci, Republic of Florence",
+  "deathplace": "Amboise, France",
+  "nationality": "Italian",
+  "movements": [
+   "high-renaissance"
+  ],
+  "bio": "The archetypal Renaissance polymath: painter, engineer, anatomist and inventor. Fewer than twenty paintings survive, but his soft modelling (sfumato) and psychological depth transformed painting.",
+  "bio_full": [
+   "Leonardo was the illegitimate son of a Florentine notary, born in the hill town of Vinci. He trained in the workshop of Andrea del Verrocchio, where, according to Vasari, the angel he painted in Verrocchio's Baptism of Christ outshone his master's work. In 1482 he moved to Milan in the service of Duke Ludovico Sforza, working as painter, engineer, pageant designer and sculptor of a colossal equestrian monument that was never cast. After the French invaded Milan in 1499 he moved between Florence, Milan and Rome. He spent his last years in France as the guest of King Francis I and died at Amboise in 1519.",
+   "Leonardo finished few paintings, but each changed the art. He invented sfumato, the soft smoky blending of light and shade, and gave his figures inner psychological life. His notebooks, of which around 7,000 pages survive, are written in mirror script. They record studies in anatomy, optics, geology, botany, flight, hydraulics and war machines, based on careful observation centuries ahead of their time. He has become the archetype of the 'Renaissance man'."
+  ]
+ },
+ {
+  "id": "michelangelo",
+  "name": "Michelangelo Buonarroti",
+  "born": "1475",
+  "died": "1564",
+  "birthplace": "Caprese, Republic of Florence",
+  "deathplace": "Rome",
+  "nationality": "Italian",
+  "movements": [
+   "high-renaissance",
+   "mannerism"
+  ],
+  "bio": "Sculptor first, but also painter, architect and poet. His heroic, muscular figures dominate the High Renaissance, and his late work points toward Mannerism.",
+  "bio_full": [
+   "Michelangelo Buonarroti was born in Caprese and raised in Florence. He was briefly apprenticed to the painter Domenico Ghirlandaio and then studied sculpture in the circle of Lorenzo de' Medici. Before he was 30 he had carved the Rome Pietà and the David. Pope Julius II then called him to Rome for a vast tomb project that dragged on for 40 years, and made him paint the Sistine Chapel ceiling. He went on to design the Medici Chapel and Laurentian Library in Florence and, from 1546, served as chief architect of St Peter's Basilica, designing its great dome. He died in Rome in 1564, aged 88.",
+   "Michelangelo saw himself above all as a sculptor who released figures from the stone. His art is centred on the heroic male nude, charged with muscular energy and spiritual struggle, and he also wrote passionate poetry, including sonnets to Vittoria Colonna and Tommaso de' Cavalieri. Contemporaries called him 'il divino'. Vasari's Lives presented him as the summit of all art, and his towering reputation shaped the modern idea of artistic genius."
+  ]
+ },
+ {
+  "id": "raphael",
+  "name": "Raphael (Raffaello Sanzio)",
+  "born": "1483",
+  "died": "1520",
+  "birthplace": "Urbino",
+  "deathplace": "Rome",
+  "nationality": "Italian",
+  "movements": [
+   "high-renaissance"
+  ],
+  "bio": "Raphael synthesised the lessons of Leonardo and Michelangelo into a style of perfect clarity and grace. He ran a large workshop in Rome for the papacy before dying at 37.",
+  "bio_full": [
+   "Raffaello Sanzio was the son of Giovanni Santi, a painter and poet at the cultivated court of Urbino. He was orphaned young and absorbed the graceful style of Pietro Perugino before moving to Florence around 1504, where he studied Leonardo and Michelangelo. In 1508 Julius II brought him to Rome to decorate the papal apartments (the Stanze). Under Leo X he became the most important artist in the city: painter, designer of tapestries for the Sistine Chapel, architect of St Peter's after Bramante, and superintendent of Roman antiquities. He died on his 37th birthday in 1520 and was buried in the Pantheon.",
+   "Raphael's art combines clarity, harmony and grace. His Madonnas became the most beloved religious images in Europe, and his large frescoes organise dozens of figures with effortless balance. He ran an efficient workshop and worked closely with printmakers, so his designs spread widely. For three centuries academies held him up as the model of perfect painting, which is why the 19th-century Pre-Raphaelites defined themselves against him."
+  ]
+ },
+ {
+  "id": "titian",
+  "name": "Titian (Tiziano Vecellio)",
+  "born": "c. 1488–90",
+  "died": "1576",
+  "birthplace": "Pieve di Cadore, Republic of Venice",
+  "deathplace": "Venice",
+  "nationality": "Italian",
+  "movements": [
+   "high-renaissance"
+  ],
+  "bio": "Leader of the Venetian school, Titian built paintings from colour rather than line. His loose late brushwork anticipated painters from Rubens to the Impressionists.",
+  "bio_full": [
+   "Tiziano Vecellio came to Venice from the Alpine town of Pieve di Cadore as a boy. He trained with Giovanni Bellini, worked with Giorgione and, after Bellini's death in 1516, became the city's leading painter. His fame spread across Europe. He painted for the dukes of Ferrara, Mantua and Urbino, and above all for the Emperor Charles V, who made him a Count Palatine and a knight, and for Philip II of Spain. For Philip he painted a series of mythologies he called 'poesie'. He died in Venice in 1576 during a plague epidemic, in his late eighties.",
+   "Titian built his paintings from colour rather than drawing, and he excelled in every genre: altarpieces, mythologies, nudes and portraits that set the pattern for state portraiture. In old age his brushwork became extraordinarily loose. He reportedly painted with his fingers and returned to canvases again and again, creating flickering surfaces that seemed almost unfinished. Rubens, Velázquez, Rembrandt, Delacroix and the Impressionists all learned from him."
+  ]
+ },
+ {
+  "id": "el-greco",
+  "name": "El Greco (Domenikos Theotokopoulos)",
+  "born": "1541",
+  "died": "1614",
+  "birthplace": "Crete (then Venetian)",
+  "deathplace": "Toledo, Spain",
+  "nationality": "Greek-Spanish",
+  "movements": [
+   "mannerism"
+  ],
+  "bio": "Trained as an icon painter in Crete, then in Venice and Rome, El Greco settled in Toledo. His elongated, flickering figures and visionary colour were rediscovered by early modernists.",
+  "bio_full": [
+   "Domenikos Theotokopoulos was born in Candia on Crete, then ruled by Venice, and was already a master painter of icons there. Around 1567 he moved to Venice, where he absorbed Titian and Tintoretto, and then to Rome. In 1577 he went to Spain, hoping for the patronage of Philip II at the Escorial, but the king disliked his work. He settled in Toledo, where he lived until his death in 1614, painting altarpieces, saints and portraits for the city's churches and intellectual elite. He always signed his works in Greek.",
+   "El Greco fused Byzantine spirituality, Venetian colour and Mannerist elongation into one of the most personal styles in art. His figures are flame-like and stretched, set in flickering light and unearthly colours. After his death he was largely dismissed as eccentric. He was rediscovered in the late 19th and early 20th centuries, when artists such as Cézanne, Picasso and the German Expressionists saw him as a forerunner of modern art."
+  ]
+ },
+ {
+  "id": "caravaggio",
+  "name": "Caravaggio (Michelangelo Merisi)",
+  "born": "1571",
+  "died": "1610",
+  "birthplace": "Milan",
+  "deathplace": "Porto Ercole",
+  "nationality": "Italian",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "Caravaggio used street models and dramatic spotlighting (tenebrism) to make sacred scenes startlingly real. His violent life was as famous as his art, and his followers spread his style across Europe.",
+  "bio_full": [
+   "Michelangelo Merisi was born in Milan in 1571 into a family from the nearby town of Caravaggio, which gave him his name. He trained with the Milanese painter Simone Peterzano and arrived in Rome in the early 1590s, poor and unknown. He first made his name with still lifes and half-length paintings of young men, then found a powerful patron in Cardinal Francesco Maria del Monte. His public breakthrough came in 1600 with the Saint Matthew paintings for the Contarelli Chapel. Records show repeated arrests for brawling, carrying weapons and assault. In 1606 he killed Ranuccio Tomassoni in a fight and fled Rome under a death sentence. He worked in Naples, Malta (where he was briefly made a Knight of St John before being imprisoned and expelled), and Sicily. He died in 1610 at Porto Ercole, on his way back to Rome to seek a papal pardon.",
+   "Caravaggio painted saints and biblical figures from ordinary street models, with dirty feet, wrinkled faces and torn clothes, and plunged them into deep shadow cut by a raking spotlight. This dramatic technique is known as tenebrism. His radical realism shocked some patrons, and several altarpieces were rejected. It also inspired a generation of followers across Europe, the Caravaggisti, from Utrecht to Naples and Seville, and transformed Baroque painting."
+  ]
+ },
+ {
+  "id": "artemisia",
+  "name": "Artemisia Gentileschi",
+  "born": "1593",
+  "died": "c. 1656",
+  "birthplace": "Rome",
+  "deathplace": "Naples",
+  "nationality": "Italian",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "One of the most accomplished followers of Caravaggio and the first woman admitted to Florence's Accademia delle Arti del Disegno. She specialised in powerful heroines from the Bible and history.",
+  "bio_full": [
+   "Artemisia Gentileschi was the daughter of the painter Orazio Gentileschi, a follower of Caravaggio, and trained in his Roman studio. In 1611, at about 17, she was raped by the painter Agostino Tassi, her father's collaborator. At the trial that followed in 1612 she was tortured with thumbscrews to test her testimony. Tassi was convicted but barely punished. Soon after, she married and moved to Florence. There she won the patronage of the Medici and in 1616 became the first woman admitted to the Accademia delle Arti del Disegno. She later worked in Rome, Venice, Naples and London, where she joined her father at the court of Charles I around 1638–40, before settling in Naples.",
+   "Artemisia specialised in strong women from the Bible and history: Judith, Susanna, Esther, Cleopatra, Lucretia and Mary Magdalene. She painted them with powerful realism, dramatic light and psychological depth. She was celebrated in her lifetime and then largely forgotten. Feminist art historians rediscovered her from the 1970s on, and major exhibitions, including one at the National Gallery in London in 2020, have established her as one of the great painters of the Baroque."
+  ]
+ },
+ {
+  "id": "rubens",
+  "name": "Peter Paul Rubens",
+  "born": "1577",
+  "died": "1640",
+  "birthplace": "Siegen, Westphalia",
+  "deathplace": "Antwerp",
+  "nationality": "Flemish",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "Painter, diplomat and scholar who ran a huge Antwerp studio. His energetic compositions and fleshy figures define the Flemish Baroque.",
+  "bio_full": [
+   "Peter Paul Rubens was born in Siegen in Germany, where his Protestant father had fled, and grew up in Antwerp after the family returned and converted to Catholicism. After his training he spent 1600–08 in Italy, mainly at the Gonzaga court in Mantua, studying Michelangelo, Titian and ancient sculpture. Back in Antwerp he became court painter to the Habsburg governors Archduke Albert and Isabella and built a grand house and studio, now the Rubenshuis museum. He ran a huge workshop, with assistants such as the young Anthony van Dyck, and produced altarpieces, mythologies, portraits, tapestry designs and vast decorative cycles, including the life of Marie de' Medici (Louvre) and the ceiling of the Banqueting House in Whitehall.",
+   "Rubens was also a highly educated humanist and a diplomat. He helped negotiate peace between Spain and England in 1629–30 and was knighted by both Charles I and Philip IV. His paintings are full of energy, swirling movement, warm colour and abundant flesh, which gave English the word 'Rubenesque'. He was the most influential painter of the northern Baroque, and later painters from Watteau to Delacroix and Renoir looked to him."
+  ]
+ },
+ {
+  "id": "bernini",
+  "name": "Gian Lorenzo Bernini",
+  "born": "1598",
+  "died": "1680",
+  "birthplace": "Naples",
+  "deathplace": "Rome",
+  "nationality": "Italian",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "The supreme sculptor and architect of Baroque Rome, he made marble appear to move, breathe and soften. He also designed the colonnade of St Peter's Square.",
+  "bio_full": [
+   "Gian Lorenzo Bernini was born in Naples, the son of the sculptor Pietro Bernini, and moved to Rome as a child. By his early twenties he had carved a series of dazzling marble groups for Cardinal Scipione Borghese: Pluto and Proserpina, Apollo and Daphne and a David. His great patron Pope Urban VIII put him in charge of St Peter's, where he created the bronze baldacchino over the high altar, the Cathedra Petri, and the vast colonnaded piazza. He also designed the Fountain of the Four Rivers in Piazza Navona, the church of Sant'Andrea al Quirinale and many papal tombs and busts. In 1665 Louis XIV invited him to Paris to design the Louvre, but his plans were not adopted.",
+   "Bernini made marble appear to breathe, soften and move: flesh dimples under fingers, hair streams in the wind, and stone becomes leaves. He fused sculpture, architecture, painting and hidden light into total theatrical experiences, and he also wrote and staged plays. More than any other artist he defined the look of Baroque Rome, and his long rivalry with the architect Francesco Borromini is one of the great stories of art history."
+  ]
+ },
+ {
+  "id": "velazquez",
+  "name": "Diego Velázquez",
+  "born": "1599",
+  "died": "1660",
+  "birthplace": "Seville",
+  "deathplace": "Madrid",
+  "nationality": "Spanish",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "Court painter to Philip IV of Spain, admired for his virtuoso, economical brushwork and penetrating portraits. Manet called him 'the painter of painters'.",
+  "bio_full": [
+   "Diego Velázquez was born in Seville and trained with the painter and theorist Francisco Pacheco, whose daughter Juana he married. His early works include bodegones, kitchen scenes with figures painted with sober realism. In 1623 he became painter to the young King Philip IV in Madrid, where he spent the rest of his career. He took on increasingly important court offices, including palace chamberlain, organising royal events. He travelled to Italy twice, in 1629–31 and 1649–51, studying Titian and the antique and buying art for the royal collection. In 1659 he was admitted to the noble Order of Santiago, and he died in Madrid the following year.",
+   "Velázquez's art moved from early tight realism to an astonishingly free, economical brushwork. Seen up close his paintings dissolve into loose dabs of paint, but from a distance they resolve into silk, lace, flesh and air. He painted kings, the court's jesters and dwarfs, mythologies and the only surviving Spanish female nude of the period, the Rokeby Venus. Manet called him 'the painter of painters'. Goya, the Impressionists, Picasso and Francis Bacon all studied him."
+  ]
+ },
+ {
+  "id": "rembrandt",
+  "name": "Rembrandt van Rijn",
+  "born": "1606",
+  "died": "1669",
+  "birthplace": "Leiden, Dutch Republic",
+  "deathplace": "Amsterdam",
+  "nationality": "Dutch",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "The greatest painter of the Dutch Golden Age, celebrated for dramatic light, deep humanity and a lifelong series of self-portraits. He was also a master etcher.",
+  "bio_full": [
+   "Rembrandt Harmenszoon van Rijn was the son of a Leiden miller. He trained there and briefly in Amsterdam with the history painter Pieter Lastman, then moved permanently to Amsterdam in the early 1630s. The Anatomy Lesson of Dr Nicolaes Tulp (1632) made his name. He married Saskia van Uylenburgh, bought a grand house and collected art and curiosities extravagantly. Saskia died in 1642, the year of The Night Watch, and of their children only their son Titus survived infancy. Lavish spending and the economic climate led to his insolvency in 1656, and he lost his house and collection. His later years were marked by the deaths of his partner Hendrickje Stoffels and of Titus. He died in Amsterdam in 1669.",
+   "Rembrandt was a supreme painter, draughtsman and etcher. His art is famed for dramatic chiaroscuro, rich, sometimes thickly built-up paint and a deep empathy for human emotion, whether in biblical scenes, portraits of Amsterdam burghers or the more than 80 self-portraits in paint, etching and drawing that trace his face from youth to old age. Scholars have long debated attributions, and the Rembrandt Research Project spent decades sorting his works from those of his many pupils."
+  ]
+ },
+ {
+  "id": "vermeer",
+  "name": "Johannes Vermeer",
+  "born": "1632",
+  "died": "1675",
+  "birthplace": "Delft, Dutch Republic",
+  "deathplace": "Delft",
+  "nationality": "Dutch",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "Vermeer painted quiet domestic interiors bathed in pearly daylight. Only about 35 works are attributed to him, and he was largely forgotten until the 19th century.",
+  "bio_full": [
+   "Johannes Vermeer spent his whole life in Delft, where his father was a weaver, innkeeper and art dealer. He joined the painters' Guild of St Luke in 1653 and later served as its head. He married Catharina Bolnes, a Catholic, and they lived in the house of her well-off mother, Maria Thins. They had 15 children, 11 of whom survived him. He seems to have worked slowly, producing perhaps two or three paintings a year, and around 35 survive. In 1672 the French invasion of the Dutch Republic wrecked the art market, and he died in 1675 leaving his family in debt.",
+   "Vermeer painted quiet interiors, mostly of women reading letters, playing music, pouring milk or making lace, by a window that floods the room with soft daylight. He used expensive natural ultramarine, sparkling dots of light (pointillé) and precise perspective, and some scholars believe he used optical devices such as the camera obscura. He was almost forgotten until the French critic Théophile Thoré-Bürger championed him in the 1860s. Today he is one of the most admired painters in the world."
+  ]
+ },
+ {
+  "id": "watteau",
+  "name": "Antoine Watteau",
+  "born": "1684",
+  "died": "1721",
+  "birthplace": "Valenciennes, France",
+  "deathplace": "Nogent-sur-Marne",
+  "nationality": "French",
+  "movements": [
+   "rococo"
+  ],
+  "bio": "Inventor of the fête galante, a scene of elegant figures flirting in dreamy parkland. His wistful mood set the tone for the Rococo.",
+  "bio_full": [
+   "Antoine Watteau was born in Valenciennes, a town recently annexed to France, and arrived in Paris around 1702. He worked for the theatre painter Claude Gillot, who gave him a lifelong love of the commedia dell'arte. He then worked for the decorator Claude Audran, through whom he could study Rubens's Medici cycle in the Luxembourg Palace. He was admitted to the Royal Academy in 1712, although it took him five years to deliver his reception piece. He suffered from tuberculosis, visited London in 1719–20 to consult a doctor, and died in 1721 aged only 36.",
+   "Watteau invented a new genre, the fête galante: elegant men and women in silks lingering in dreamy parks, flirting, making music and dressed as theatre characters. His feathery brushwork, shimmering colour and the faint melancholy beneath the pleasure gave the Rococo its tone. His last great work, the shop sign for the art dealer Gersaint (Berlin), shows paintings being sold and packed. Its scene of Louis XIV's portrait being crated has been read as the end of an era."
+  ]
+ },
+ {
+  "id": "fragonard",
+  "name": "Jean-Honoré Fragonard",
+  "born": "1732",
+  "died": "1806",
+  "birthplace": "Grasse, France",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "rococo"
+  ],
+  "bio": "A brilliant, rapid painter of love scenes and gardens for aristocratic patrons. The French Revolution ended demand for his work.",
+  "bio_full": [
+   "Jean-Honoré Fragonard was born in Grasse in Provence and grew up in Paris. He briefly studied with Chardin and then with Boucher. He won the Prix de Rome in 1752 and spent several years in Italy, sketching the gardens of Roman villas. In 1765 the Academy acclaimed his grand history painting Coresus and Callirhoë, but he then largely abandoned official careers to work for wealthy private clients. His series The Progress of Love, made for Madame du Barry, was returned to him and is now in the Frick Collection, New York.",
+   "Fragonard painted playful scenes of love, gardens, children and reading with dazzling, rapid brushwork, as well as his virtuoso 'fantasy figures', each painted in about an hour. The French Revolution destroyed his aristocratic market. Jacques-Louis David helped him find a post in the administration of the new Louvre museum, but he died in 1806 almost forgotten, and he was rediscovered by 19th-century collectors and painters."
+  ]
+ },
+ {
+  "id": "david",
+  "name": "Jacques-Louis David",
+  "born": "1748",
+  "died": "1825",
+  "birthplace": "Paris",
+  "deathplace": "Brussels",
+  "nationality": "French",
+  "movements": [
+   "neoclassicism"
+  ],
+  "bio": "The leading Neoclassical painter, an active revolutionary and later Napoleon's official painter. He died in exile in Brussels after the Bourbon restoration.",
+  "bio_full": [
+   "Jacques-Louis David was born in Paris in 1748. He trained with Joseph-Marie Vien and, after several failed attempts, won the Prix de Rome in 1774. In Rome (1775–80) he immersed himself in ancient sculpture and Poussin, and his Oath of the Horatii caused a sensation at the Paris Salon of 1785. During the Revolution he became a radical Jacobin deputy to the National Convention, voted for the execution of Louis XVI and staged great public festivals. After Robespierre's fall in 1794 he was imprisoned for a time. He then became the official painter of Napoleon, recording his coronation in a vast canvas (1805–07). After the restoration of the Bourbons he was exiled as a regicide to Brussels, where he died in 1825.",
+   "David was the leader of Neoclassicism. His paintings use clear, sculptural drawing, severe compositions, restrained colour and subjects of civic virtue and self-sacrifice drawn from Greek and Roman history. He also painted penetrating portraits. His studio trained a whole generation, including Gros, Girodet, Gérard and Ingres, and his work shows how art could serve politics and propaganda."
+  ]
+ },
+ {
+  "id": "canova",
+  "name": "Antonio Canova",
+  "born": "1757",
+  "died": "1822",
+  "birthplace": "Possagno, Republic of Venice",
+  "deathplace": "Venice",
+  "nationality": "Italian",
+  "movements": [
+   "neoclassicism"
+  ],
+  "bio": "The most celebrated Neoclassical sculptor, famous for marble of extraordinary smoothness and grace. He also helped recover art looted by Napoleon.",
+  "bio_full": [
+   "Antonio Canova was the grandson of a stonemason in Possagno, in the Venetian foothills. He trained in Venice and moved to Rome in 1781, where his tomb of Pope Clement XIV quickly made him famous. He became the most celebrated sculptor in Europe and worked for popes, the Napoleonic family, Russian tsars and British collectors. His works include Pauline Bonaparte Borghese as Venus Victrix, a colossal nude Napoleon as Mars the Peacemaker (now in Apsley House, London) and the Three Graces. In 1815 the Pope sent him to Paris to negotiate the return of artworks looted by Napoleon, and he was rewarded with a noble title.",
+   "Canova's marble is famous for its almost luminous smoothness, achieved with special polishing and a final wax patina, and for its ideal, graceful figures and delicate balance of sensuality and calm. He is the defining sculptor of Neoclassicism. He designed and paid for a temple in his home town, where he is buried, and his studio models are kept in a museum there."
+  ]
+ },
+ {
+  "id": "ingres",
+  "name": "Jean-Auguste-Dominique Ingres",
+  "born": "1780",
+  "died": "1867",
+  "birthplace": "Montauban, France",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "neoclassicism"
+  ],
+  "bio": "A pupil of David and champion of line over colour, Ingres was the great rival of Delacroix. His portraits and odalisques combine cool precision with sensual distortion.",
+  "bio_full": [
+   "Jean-Auguste-Dominique Ingres was born in Montauban, the son of a decorative artist, and showed early talent for both drawing and the violin. He trained in David's studio in Paris and won the Prix de Rome in 1801. He spent the years 1806–24 in Rome and Florence, often supporting himself by making exquisite portrait drawings of tourists. His Vow of Louis XIII at the Salon of 1824 made him the champion of the classical tradition against Delacroix's Romanticism. He later directed the French Academy in Rome and continued to paint into his eighties, finishing The Turkish Bath in 1862.",
+   "Ingres declared that 'drawing is the probity of art'. His paintings are defined by pure, flowing contour, smooth surfaces and an ideal beauty derived from Raphael and Greek vases, yet he often bent anatomy for the sake of graceful line. His portraits, such as Monsieur Bertin and Madame Moitessier, are among the most compelling of the 19th century. His mix of classicism and sensual distortion influenced Degas, Matisse and Picasso. In French, 'violon d'Ingres' means a hobby, after his love of the violin."
+  ]
+ },
+ {
+  "id": "goya",
+  "name": "Francisco Goya",
+  "born": "1746",
+  "died": "1828",
+  "birthplace": "Fuendetodos, Spain",
+  "deathplace": "Bordeaux, France",
+  "nationality": "Spanish",
+  "movements": [
+   "romanticism"
+  ],
+  "bio": "Court painter to the Spanish crown who became an unsparing witness to war, cruelty and superstition. His late 'Black Paintings' and print series point straight toward modern art.",
+  "bio_full": [
+   "Francisco de Goya was born in Fuendetodos near Zaragoza and trained in Zaragoza and Madrid, with a visit to Italy. He made his name designing cartoons for the Royal Tapestry Factory, cheerful scenes of Spanish life, and rose to become First Court Painter to Charles IV in 1799. A severe illness in 1792–93 left him completely deaf, and his art grew darker and more personal. His print series Los Caprichos (1799) satirised superstition and corruption. The French invasion and the brutal Peninsular War (1808–14) produced his etchings The Disasters of War, published only after his death. In 1819–23 he painted the 'Black Paintings' on the walls of his house outside Madrid, and in 1824 he went into self-imposed exile in Bordeaux, where he died in 1828.",
+   "Goya was a brilliant court portraitist and painter of the Spanish people. He was also an unsparing witness to war, cruelty, madness and the irrational, and he anticipated Romanticism, Expressionism and even Surrealism. His Family of Charles IV, his Majas and his prints made him a crucial link between Velázquez and modern artists such as Manet and Picasso."
+  ]
+ },
+ {
+  "id": "friedrich",
+  "name": "Caspar David Friedrich",
+  "born": "1774",
+  "died": "1840",
+  "birthplace": "Greifswald, Swedish Pomerania",
+  "deathplace": "Dresden",
+  "nationality": "German",
+  "movements": [
+   "romanticism"
+  ],
+  "bio": "The key German Romantic painter, known for solitary figures facing vast, spiritual landscapes. His work fell into obscurity until the early 20th century.",
+  "bio_full": [
+   "Caspar David Friedrich was born in Greifswald on the Baltic coast, then part of Swedish Pomerania. His childhood was marked by loss: his mother died when he was seven, and a brother drowned trying to save him when he fell through the ice. He studied at the Copenhagen Academy and from 1798 settled in Dresden. A prize from Goethe in 1805 and his controversial Tetschen Altarpiece (The Cross in the Mountains, 1808), a landscape used as an altarpiece, brought him attention. In 1810 the Prussian crown prince bought The Monk by the Sea and The Abbey in the Oakwood. After a stroke in 1835 he could barely paint, and he died in poverty and obscurity in 1840.",
+   "Friedrich turned landscape into a vehicle for religious and philosophical meaning: moonrises, Gothic ruins, misty mountains, Baltic shores and frozen seas, often with solitary figures seen from behind (Rückenfiguren) gazing into the infinite. His paintings embody the Romantic sublime and the individual's relationship with nature and God. Forgotten after his death, he was rediscovered in an exhibition in Berlin in 1906, and his influence can be traced to Munch and the Abstract Expressionists."
+  ]
+ },
+ {
+  "id": "turner",
+  "name": "J. M. W. Turner",
+  "born": "1775",
+  "died": "1851",
+  "birthplace": "London",
+  "deathplace": "London",
+  "nationality": "British",
+  "movements": [
+   "romanticism"
+  ],
+  "bio": "Turner dissolved landscape into light, storm and atmosphere. His late canvases were so free that they seemed nearly abstract to contemporaries.",
+  "bio_full": [
+   "Joseph Mallord William Turner was born in Covent Garden, London, the son of a barber. He entered the Royal Academy Schools at 14, exhibited there at 15, and was elected a full Academician in 1802, aged only 26. He travelled tirelessly through Britain and Europe, the Alps, the Rhine and above all Venice, filling hundreds of sketchbooks, and was also a master of watercolour and an important printmaker. Eccentric and secretive, he lived his last years in Chelsea under the name 'Mr Booth'. He died in 1851 and left the nation his studio contents: around 300 oil paintings and some 30,000 works on paper, now mostly at Tate Britain.",
+   "Turner began in the tradition of Claude Lorrain and the Dutch marine painters, but he increasingly dissolved landscape into light, colour, storm, fire, steam and atmosphere. His late works were mocked as incomprehensible by some critics and championed by the young John Ruskin. Turner is seen as a forerunner of Impressionism and even abstraction. Britain's leading contemporary art prize is named after him, and his self-portrait and The Fighting Temeraire appear on the £20 note."
+  ]
+ },
+ {
+  "id": "constable",
+  "name": "John Constable",
+  "born": "1776",
+  "died": "1837",
+  "birthplace": "East Bergholt, Suffolk, England",
+  "deathplace": "London",
+  "nationality": "British",
+  "movements": [
+   "romanticism"
+  ],
+  "bio": "Constable painted the English countryside from direct observation, with fresh skies and flecks of light. He was more admired in France than in Britain during his lifetime.",
+  "bio_full": [
+   "John Constable was born in East Bergholt, Suffolk, the son of a prosperous mill-owner and corn merchant whose mills at Flatford and Dedham stood on the River Stour. He entered the Royal Academy Schools in 1799 but found recognition slowly. His long courtship of Maria Bicknell was opposed by her family until they married in 1816. He spent summers in Hampstead, where he made famous cloud studies in 1821–22, which he called 'skying'. His work won a gold medal in Paris in 1824, but he was elected a full Royal Academician only in 1829, aged 52, the year after Maria's death.",
+   "Constable painted the familiar landscape of the Stour valley ('Constable Country'), Salisbury, Hampstead and Brighton with fresh observation, broken touches of colour, and flecks of white to capture glittering light, which critics called 'Constable's snow'. He made full-size oil sketches for his large 'six-footer' exhibition canvases. He was more admired in France than in England during his lifetime, and he influenced Delacroix, the Barbizon School and the Impressionists."
+  ]
+ },
+ {
+  "id": "gericault",
+  "name": "Théodore Géricault",
+  "born": "1791",
+  "died": "1824",
+  "birthplace": "Rouen, France",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "romanticism"
+  ],
+  "bio": "A pioneer of French Romanticism who turned a contemporary scandal into monumental history painting. He died at 32 after a riding accident.",
+  "bio_full": [
+   "Théodore Géricault was born in Rouen to a wealthy family and became a passionate horseman. He trained with Carle Vernet and Pierre-Narcisse Guérin and made a sensational debut at the 1812 Salon with The Charging Chasseur. After studying in Italy in 1816–17 he devoted 18 months to The Raft of the Medusa, exhibited in 1819. He visited England in 1820–21, painting horse races and the London poor. Around 1822 he painted a series of portraits of the mentally ill for a psychiatrist friend. Riding accidents and illness led to his death in 1824, aged just 32.",
+   "In his short career Géricault rejected the cool idealism of David's school for raw energy, dramatic contrast and contemporary subjects charged with suffering and political meaning. His studies of horses, corpses and severed limbs and his portraits of 'monomaniacs' show a new psychological and physical realism. He opened the way for French Romanticism and for Delacroix, who admired him deeply."
+  ]
+ },
+ {
+  "id": "delacroix",
+  "name": "Eugène Delacroix",
+  "born": "1798",
+  "died": "1863",
+  "birthplace": "Charenton-Saint-Maurice, France",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "romanticism"
+  ],
+  "bio": "Leader of French Romantic painting, devoted to colour, movement and exotic or literary subjects. His handling of colour deeply influenced the Impressionists.",
+  "bio_full": [
+   "Eugène Delacroix was born at Charenton-Saint-Maurice near Paris. Rumours have long suggested that the statesman Talleyrand was his real father. He trained with Pierre-Narcisse Guérin, studied Rubens and Venetian painters in the Louvre, and was profoundly influenced by Géricault. The Barque of Dante (1822), The Massacre at Chios (1824) and The Death of Sardanapalus (1827) made him the leader of the Romantic school. A journey to Morocco and Algeria in 1832 gave him a lifelong store of exotic subjects. He also painted vast decorative schemes in the Palais Bourbon, the Louvre and the church of Saint-Sulpice, and kept a celebrated journal.",
+   "Delacroix championed colour, movement and passionate feeling over the line-based classicism of Ingres. He was a master of vibrant juxtaposed colours that intensify each other, a lesson taken up by the Impressionists and Post-Impressionists, and his subjects came from literature, history, politics and the 'Orient'. Baudelaire praised him as the greatest painter of the age. Cézanne, Van Gogh and Matisse all acknowledged his influence."
+  ]
+ },
+ {
+  "id": "millet",
+  "name": "Jean-François Millet",
+  "born": "1814",
+  "died": "1875",
+  "birthplace": "Gréville-Hague, Normandy, France",
+  "deathplace": "Barbizon",
+  "nationality": "French",
+  "movements": [
+   "realism"
+  ],
+  "bio": "A founder of the Barbizon school who gave peasant labour a solemn dignity. Van Gogh copied his work repeatedly.",
+  "bio_full": [
+   "Jean-François Millet was born into a peasant farming family in the hamlet of Gruchy on the Normandy coast. He studied in Cherbourg and in Paris with Paul Delaroche, and supported himself for years with portraits and small pastoral pictures. In 1849, fleeing revolution and cholera in Paris, he settled in the village of Barbizon on the edge of the Forest of Fontainebleau, where he lived for the rest of his life among a group of landscape painters. The Sower (1850) and The Angelus (1857–59) made his name, and he was awarded the Legion of Honour in 1868.",
+   "Millet depicted the labour of French peasants, sowing, reaping, gleaning and digging, with monumental, almost biblical dignity, simplified forms and earthy colour. Conservative critics accused him of socialism, while others saw his work as deeply religious. The Angelus became one of the most famous paintings in France and later obsessed Salvador Dalí. Van Gogh revered Millet and made many copies after his compositions."
+  ]
+ },
+ {
+  "id": "courbet",
+  "name": "Gustave Courbet",
+  "born": "1819",
+  "died": "1877",
+  "birthplace": "Ornans, France",
+  "deathplace": "La Tour-de-Peilz, Switzerland",
+  "nationality": "French",
+  "movements": [
+   "realism"
+  ],
+  "bio": "The self-declared leader of Realism, Courbet painted ordinary people at the scale of history painting. He was exiled after his role in the Paris Commune.",
+  "bio_full": [
+   "Gustave Courbet was born in Ornans in the Jura region to a prosperous farming family. He moved to Paris in 1839 and taught himself mostly by copying in the Louvre. After Dinner at Ornans won him a medal in 1849, and then The Stone Breakers (destroyed in 1945), A Burial at Ornans and other large paintings of rural life caused scandal at the Salon. When the 1855 World's Fair rejected some of his works, he built his own 'Pavilion of Realism' nearby and issued a Realist manifesto. A committed republican, he took part in the Paris Commune of 1871, was blamed for the toppling of the Vendôme Column, and was imprisoned and later ordered to pay for its reconstruction. He fled to Switzerland in 1873 and died in exile in 1877.",
+   "Courbet declared that painting should depict only 'real and existing things', and he refused to paint angels because he had never seen one. He gave peasants, labourers and provincial townspeople the monumental scale once reserved for history painting. He worked with thick paint, often applied with a palette knife, and painted landscapes, seascapes, hunting scenes and provocative nudes, including The Origin of the World (1866). He was a key precursor of Manet and modern art."
+  ]
+ },
+ {
+  "id": "manet",
+  "name": "Édouard Manet",
+  "born": "1832",
+  "died": "1883",
+  "birthplace": "Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "realism",
+   "impressionism"
+  ],
+  "bio": "Manet's flat, frank pictures of modern Paris caused scandal and paved the way for Impressionism. He is often seen as the first modern painter.",
+  "bio_full": [
+   "Édouard Manet was born in Paris to a wealthy family; his father was a senior magistrate. After failing to enter the naval academy and sailing as a trainee to Rio de Janeiro, he studied for six years with the academic painter Thomas Couture. He admired Velázquez, Goya and Hals, and his early works show Spanish influence. Le Déjeuner sur l'herbe (1863) and Olympia (1865) caused huge scandals and made him the reluctant leader of young avant-garde painters who met at the Café Guerbois. Yet he never exhibited at the Impressionists' independent exhibitions, still hoping for official success at the Salon. He was a friend of Baudelaire, Zola and Mallarmé. His health declined from the effects of syphilis, and he died in 1883 at 51, shortly after a leg amputation.",
+   "Manet painted modern Paris life, its cafés, boulevards, racecourses and people, with flat areas of colour, strong contrasts, little traditional modelling and bold black, often reworking old-master compositions in contemporary dress. His frankness and his emphasis on the painted surface broke with academic tradition and are seen as the starting point of modern painting. His sister-in-law was the Impressionist Berthe Morisot."
+  ]
+ },
+ {
+  "id": "degas",
+  "name": "Edgar Degas",
+  "born": "1834",
+  "died": "1917",
+  "birthplace": "Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "impressionism"
+  ],
+  "bio": "A founder of the Impressionist exhibitions who preferred the studio to the outdoors. He is known for dancers, racecourses and bold, cropped compositions influenced by photography and Japanese prints.",
+  "bio_full": [
+   "Edgar Degas was born into a wealthy Parisian banking family. He abandoned law to study art, deeply admired Ingres, and spent 1856–59 in Italy copying the old masters. He began as a history painter and portraitist, as in The Bellelli Family. In 1872–73 he visited relatives in New Orleans and painted A Cotton Office. He was a central organiser of the Impressionist exhibitions and showed in seven of the eight, but disliked the label and painting outdoors, preferring to call himself a realist. In later life his eyesight declined. He held fiercely anti-Dreyfusard views, which ended several friendships. He died in Paris in 1917.",
+   "Degas observed modern Paris: ballet dancers in rehearsal, racehorses and jockeys, laundresses, milliners, café life and women bathing. He used asymmetrical, cropped compositions and unusual viewpoints inspired by photography and Japanese prints. He was an innovator in pastel, monotype and photography, and his wax sculptures, found in his studio after his death, were cast in bronze. He is one of the great draughtsmen of the 19th century."
+  ]
+ },
+ {
+  "id": "monet",
+  "name": "Claude Monet",
+  "born": "1840",
+  "died": "1926",
+  "birthplace": "Paris",
+  "deathplace": "Giverny",
+  "nationality": "French",
+  "movements": [
+   "impressionism"
+  ],
+  "bio": "The purest Impressionist, Monet painted the same motif in changing light in series such as haystacks, Rouen Cathedral and his water garden at Giverny.",
+  "bio_full": [
+   "Claude Monet was born in Paris and grew up in Le Havre, where he made a name drawing caricatures. The landscape painter Eugène Boudin introduced him to painting outdoors. In Paris he met Renoir, Sisley and Bazille in Charles Gleyre's studio, and the friends developed painting directly from nature. He endured years of poverty with his companion and later wife Camille Doncieux, who died in 1879. He spent 1870–71 in London and then lived at Argenteuil on the Seine. He helped organise the first independent group exhibition in 1874, which gave Impressionism its name. From 1883 he lived at Giverny, where he created a flower garden and a water garden with a Japanese bridge. He married Alice Hoschedé in 1892.",
+   "Monet devoted his life to capturing fleeting light and atmosphere. From the 1890s he painted series of the same motif at different times of day and seasons, including Haystacks, Poplars, Rouen Cathedral, the Houses of Parliament in London and his water lilies. Despite cataracts, which were operated on in 1923, he worked on huge water lily paintings until his death in 1926, and these were later seen as forerunners of abstract art."
+  ]
+ },
+ {
+  "id": "renoir",
+  "name": "Pierre-Auguste Renoir",
+  "born": "1841",
+  "died": "1919",
+  "birthplace": "Limoges, France",
+  "deathplace": "Cagnes-sur-Mer",
+  "nationality": "French",
+  "movements": [
+   "impressionism"
+  ],
+  "bio": "Renoir's warm, dappled scenes of Parisians at leisure define the joyful side of Impressionism. He later turned toward a more classical, sculptural style.",
+  "bio_full": [
+   "Pierre-Auguste Renoir was born in Limoges to a working-class family who moved to Paris. As a teenager he was an apprentice painter of porcelain. He studied in Gleyre's studio, where he befriended Monet, and the two painted side by side at the bathing spot of La Grenouillère in 1869. He exhibited at the early Impressionist shows and found patrons such as the publisher Georges Charpentier. After a trip to Italy in 1881 he turned to a harder, more linear style inspired by Raphael and Ingres, and later to warm, rounded figures. He married Aline Charigot in 1890. One son, Jean Renoir, became a great film director. Despite severe rheumatoid arthritis, he continued to paint into old age at Cagnes-sur-Mer, where he died in 1919.",
+   "Renoir is the painter of the joyful side of Impressionism: Parisians dancing, boating, picnicking and chatting in dappled sunlight, children, flowers and voluptuous nudes. He painted with soft, feathery brushwork and warm iridescent colour. In his last years he also made sculptures with the help of an assistant."
+  ]
+ },
+ {
+  "id": "morisot",
+  "name": "Berthe Morisot",
+  "born": "1841",
+  "died": "1895",
+  "birthplace": "Bourges, France",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "impressionism"
+  ],
+  "bio": "A core member of the Impressionist group who exhibited in nearly all its shows. Her feathery brushwork captured intimate domestic and women's lives.",
+  "bio_full": [
+   "Berthe Morisot was born in Bourges, the daughter of a senior government official, and grew up in Paris. Women were not admitted to the École des Beaux-Arts, so she and her sister Edma studied privately, copying in the Louvre and learning from Camille Corot. She met Édouard Manet in 1868 and posed for several of his paintings, including The Balcony. In 1874 she married Manet's brother Eugène, and she exhibited at the first Impressionist exhibition the same year. She showed at all but one of the eight exhibitions, missing only the year her daughter Julie was born. She died in 1895, aged 54, of pneumonia caught while nursing Julie.",
+   "Morisot painted the private world she knew: mothers and children, women dressing, reading and resting, gardens and seaside scenes. She worked with rapid, feathery, almost abstract brushstrokes and luminous whites, and her technique was among the most radical of the group. Long overshadowed by her male colleagues, she is now recognised as one of the core members of Impressionism."
+  ]
+ },
+ {
+  "id": "rodin",
+  "name": "Auguste Rodin",
+  "born": "1840",
+  "died": "1917",
+  "birthplace": "Paris",
+  "deathplace": "Meudon",
+  "nationality": "French",
+  "movements": [
+   "impressionism"
+  ],
+  "bio": "The founder of modern sculpture, Rodin modelled restless, expressive surfaces and fragmentary figures. Many of his best-known works began as parts of The Gates of Hell.",
+  "bio_full": [
+   "Auguste Rodin was born in Paris to a working-class family. He failed three times to enter the École des Beaux-Arts and spent years as a decorative craftsman, including six years in Belgium. A trip to Italy in 1875 to see Michelangelo transformed him. His first major statue, The Age of Bronze (1877), was so lifelike that critics accused him of casting it from a living model. In 1880 he was commissioned to make a monumental portal, The Gates of Hell, based on Dante. He worked on it for the rest of his life and generated many of his independent sculptures from it. His other major works include The Burghers of Calais and the Monument to Balzac, which was rejected by its commissioners in 1898. His pupil and lover Camille Claudel was a brilliant sculptor in her own right. He donated his works to the state, and his Paris residence, the Hôtel Biron, opened as the Musée Rodin in 1919.",
+   "Rodin is considered the father of modern sculpture. He modelled clay with rough, expressive, light-catching surfaces, made fragments and partial figures into finished works, and reused and recombined forms. His sculptures convey intense inner emotion and physical energy, and his influence on Brâncuși, Matisse and later sculptors was enormous."
+  ]
+ },
+ {
+  "id": "cezanne",
+  "name": "Paul Cézanne",
+  "born": "1839",
+  "died": "1906",
+  "birthplace": "Aix-en-Provence, France",
+  "deathplace": "Aix-en-Provence",
+  "nationality": "French",
+  "movements": [
+   "post-impressionism"
+  ],
+  "bio": "Cézanne rebuilt nature from planes of colour and multiple viewpoints. Picasso and Matisse both called him the father of modern art.",
+  "bio_full": [
+   "Paul Cézanne was born in Aix-en-Provence, the son of a prosperous banker. At school he became close friends with the future novelist Émile Zola, who encouraged him to go to Paris in 1861. His early works are dark and violent, and they were repeatedly rejected by the Salon. Under Pissarro's guidance in Pontoise in the early 1870s he brightened his palette and showed at the first and third Impressionist exhibitions. He then withdrew increasingly to Provence. His friendship with Zola ended in 1886 after Zola's novel L'Œuvre portrayed a failed painter apparently modelled on him. In 1895 the dealer Ambroise Vollard gave him his first solo exhibition, and young artists began to make pilgrimages to Aix. He died in 1906 after being caught in a storm while painting outdoors.",
+   "Cézanne aimed to 'make of Impressionism something solid and durable, like the art of the museums'. He built his paintings from patches of colour that model form, combined multiple viewpoints in a single image, and simplified nature into geometric structures. In a letter he advised treating nature through 'the cylinder, the sphere, the cone'. His still lifes, portraits, bathers and landscapes of Provence paved the way for Cubism and abstraction. Picasso and Matisse both called him 'the father of us all'."
+  ]
+ },
+ {
+  "id": "gauguin",
+  "name": "Paul Gauguin",
+  "born": "1848",
+  "died": "1903",
+  "birthplace": "Paris",
+  "deathplace": "Atuona, Marquesas Islands",
+  "nationality": "French",
+  "movements": [
+   "post-impressionism",
+   "symbolism"
+  ],
+  "bio": "A former stockbroker who pursued 'primitive' simplicity in Brittany and then French Polynesia. His flat, symbolic colour influenced Symbolists and Fauves; his colonial gaze is debated today.",
+  "bio_full": [
+   "Paul Gauguin was born in Paris and spent part of his childhood in Lima, Peru, with his mother's family. After serving in the merchant navy and the navy, he became a successful stockbroker, married the Danish Mette Gad and had five children. He collected Impressionist paintings and began painting as an amateur under Pissarro, exhibiting in the Impressionist shows. After the stock market crash of 1882 he decided to paint full time, and his family life collapsed. He worked in Brittany at Pont-Aven, in Martinique and, briefly and disastrously, with Van Gogh in Arles in 1888. In search of an unspoiled 'primitive' paradise he went to Tahiti in 1891, returned to France, and left again in 1895. He spent his last years in the Marquesas Islands, where he died in 1903, in conflict with the colonial authorities and the Church.",
+   "Gauguin developed a style of flat areas of bold, non-naturalistic colour enclosed by dark outlines, influenced by Japanese prints, stained glass and folk art. His aim was to express ideas, emotions and spiritual meaning rather than to record appearances. He was also an innovative woodcut artist and sculptor and a crucial influence on the Nabis, Fauvism and Expressionism. Today his colonial fantasy and his sexual relationships with very young Tahitian girls are the subject of critical debate, often discussed alongside his art."
+  ]
+ },
+ {
+  "id": "van-gogh",
+  "name": "Vincent van Gogh",
+  "born": "1853",
+  "died": "1890",
+  "birthplace": "Zundert, Netherlands",
+  "deathplace": "Auvers-sur-Oise, France",
+  "nationality": "Dutch",
+  "movements": [
+   "post-impressionism"
+  ],
+  "bio": "In a career of about ten years Van Gogh made some 2,100 works, using vivid colour and rhythmic brushstrokes to express emotion. He sold very little in his lifetime and became one of the most famous artists in history.",
+  "bio_full": [
+   "Vincent van Gogh was born in Zundert in the southern Netherlands, the son of a Protestant pastor. He worked for the international art dealers Goupil & Cie in The Hague, London and Paris, then as a teacher and lay preacher, including among miners in the Borinage region of Belgium. In 1880, aged 27, he decided to become an artist, largely self-taught and supported by his younger brother Theo, an art dealer. After dark, earthy works such as The Potato Eaters (1885), he moved to Paris in 1886, where he discovered Impressionism and Japanese prints. In February 1888 he moved to Arles in Provence, dreaming of an artists' colony. Gauguin's stay there ended in December 1888 with a crisis in which Van Gogh cut off part of his own ear. He spent a year as a voluntary patient in an asylum at Saint-Rémy. In May 1890 he moved to Auvers-sur-Oise near Paris, where he shot himself in July and died two days later, aged 37.",
+   "In a career of about ten years Van Gogh produced around 860 oil paintings and more than 1,200 drawings and watercolours, most in his last two years. His vivid colour, thick paint and swirling, rhythmic brushstrokes express intense emotion, and he became a central influence on Expressionism. He sold very little during his lifetime. His more than 800 surviving letters, most to Theo, are among the most moving documents of any artist's life. Theo's widow, Jo van Gogh-Bonger, worked tirelessly to make his work known."
+  ]
+ },
+ {
+  "id": "seurat",
+  "name": "Georges Seurat",
+  "born": "1859",
+  "died": "1891",
+  "birthplace": "Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "post-impressionism"
+  ],
+  "bio": "Seurat developed Pointillism, building images from small dots of pure colour based on optical theory. He died at 31.",
+  "bio_full": [
+   "Georges Seurat was born in Paris to a well-off family. He studied at the École des Beaux-Arts with Henri Lehmann, a pupil of Ingres, and absorbed scientific theories of colour by Michel-Eugène Chevreul and Ogden Rood. He also made remarkable velvety drawings in black conté crayon. When the Salon rejected his Bathers at Asnières in 1884, he helped found the Society of Independent Artists. He showed A Sunday on La Grande Jatte at the last Impressionist exhibition in 1886, where the critic Félix Fénéon coined the term Neo-Impressionism. With Paul Signac he led a group of followers. He died suddenly in 1891, aged 31, probably of an infection, leaving a secret partner, Madeleine Knobloch, and their infant son.",
+   "Seurat developed a technique, later called Pointillism or Divisionism, of placing small dots or strokes of pure colour side by side so that they would mix in the viewer's eye, aiming at greater luminosity than mixed paint. His carefully planned, almost geometric compositions and stiff, stylised figures brought order and science to Impressionism's spontaneity, and they influenced Fauvism, Futurism and abstract art."
+  ]
+ },
+ {
+  "id": "klimt",
+  "name": "Gustav Klimt",
+  "born": "1862",
+  "died": "1918",
+  "birthplace": "Baumgarten, near Vienna",
+  "deathplace": "Vienna",
+  "nationality": "Austrian",
+  "movements": [
+   "symbolism"
+  ],
+  "bio": "Co-founder and first president of the Vienna Secession. His 'golden phase' combined gold leaf, ornament and erotic symbolism.",
+  "bio_full": [
+   "Gustav Klimt was born in Baumgarten near Vienna, the son of a gold engraver. He studied at the Vienna School of Arts and Crafts and, with his brother Ernst and Franz Matsch, formed a successful firm decorating public buildings, including the Burgtheater and the Kunsthistorisches Museum. In 1897 he led a group of young artists who broke away from the conservative establishment to found the Vienna Secession, and he became its first president. His ceiling paintings for the University of Vienna were attacked as pornographic and were later destroyed by fire in 1945. He spent summers at the Attersee painting landscapes with his lifelong companion, the fashion designer Emilie Flöge. He died in 1918 after a stroke, during the influenza pandemic.",
+   "Klimt's 'golden phase', influenced partly by the Byzantine mosaics he saw in Ravenna in 1903, combined realistically painted faces and hands with flat, ornamental surfaces of gold leaf and pattern. His themes were love, sexuality, life and death, and the female body. He was a central figure of Viennese Art Nouveau (Jugendstil) and mentored the young Egon Schiele. He also made thousands of erotic drawings."
+  ]
+ },
+ {
+  "id": "munch",
+  "name": "Edvard Munch",
+  "born": "1863",
+  "died": "1944",
+  "birthplace": "Løten, Norway",
+  "deathplace": "near Oslo",
+  "nationality": "Norwegian",
+  "movements": [
+   "symbolism",
+   "fauvism-expressionism"
+  ],
+  "bio": "Munch turned anxiety, love and death into charged images of colour and line. He was a crucial forerunner of German Expressionism.",
+  "bio_full": [
+   "Edvard Munch was born in Løten, Norway, and grew up in Kristiania (now Oslo), the son of a devout army doctor. His mother died of tuberculosis when he was five, and his favourite sister Sophie when he was 14, and illness, death and anxiety haunted his work. He joined the bohemian circle of Kristiania, studied in Paris, and in 1892 an exhibition of his work in Berlin was closed after a scandal, which made him famous in Germany. In the 1890s he developed his cycle of paintings The Frieze of Life, on love, anxiety and death. After a breakdown in 1908 and treatment in a Copenhagen clinic, his art became brighter. He painted murals for the Oslo University aula and lived at Ekely outside Oslo. The Nazis declared his work 'degenerate'. He died in January 1944 and left his remaining works to the city of Oslo, now in the Munch Museum.",
+   "Munch used simplified, flowing forms, symbolic colour and expressive distortion to depict inner psychological states. He was also a hugely innovative printmaker in woodcut and lithography. A crucial bridge between Symbolism and Expressionism, he is Norway's most famous artist."
+  ]
+ },
+ {
+  "id": "matisse",
+  "name": "Henri Matisse",
+  "born": "1869",
+  "died": "1954",
+  "birthplace": "Le Cateau-Cambrésis, France",
+  "deathplace": "Nice",
+  "nationality": "French",
+  "movements": [
+   "fauvism-expressionism"
+  ],
+  "bio": "Leader of the Fauves and, with Picasso, the defining artist of early modernism. In old age he made radiant cut-paper compositions.",
+  "bio_full": [
+   "Henri Matisse was born in Le Cateau-Cambrésis in northern France and trained as a lawyer. He began painting in 1889 while recovering from appendicitis, when his mother gave him a box of paints. He studied in Paris in the studio of the Symbolist painter Gustave Moreau. In the summer of 1905, working at Collioure with André Derain, he developed the explosive colour that led critics to call them the Fauves ('wild beasts'). Collectors including Gertrude and Leo Stein and the Russian Sergei Shchukin supported him. From 1917 he spent most of his time in Nice. After surgery for cancer in 1941 he was often confined to bed or a wheelchair. He then invented a new art of painted paper cut-outs, as in the book Jazz (1947), and designed the Chapel of the Rosary at Vence (1948–51). He died in Nice in 1954.",
+   "With Picasso, Matisse was the defining artist of early modernism. He used pure, expressive colour, simplified drawing and flattened space to create works of balance, joy and decorative harmony. He once said he dreamed of an art like a good armchair, offering rest to the tired mind. He worked in painting, sculpture, printmaking, book design and cut paper, and his influence on abstraction, colour field painting and design is incalculable."
+  ]
+ },
+ {
+  "id": "picasso",
+  "name": "Pablo Picasso",
+  "born": "1881",
+  "died": "1973",
+  "birthplace": "Málaga, Spain",
+  "deathplace": "Mougins, France",
+  "nationality": "Spanish",
+  "movements": [
+   "cubism"
+  ],
+  "bio": "The most influential artist of the 20th century, co-inventor of Cubism and endlessly reinventive across painting, sculpture, ceramics and print.",
+  "bio_full": [
+   "Pablo Picasso was born in Málaga, the son of the painter and drawing teacher José Ruiz Blasco. He grew up in A Coruña and Barcelona, where he was a child prodigy. He settled in Paris in 1904. After the melancholy Blue Period (1901–04), triggered partly by the suicide of his friend Carles Casagemas, and the Rose Period of circus performers, he painted Les Demoiselles d'Avignon (1907). With Georges Braque he then invented Cubism and collage. He designed for the Ballets Russes, married the dancer Olga Khokhlova, passed through a Neoclassical phase and joined the margins of Surrealism. His mural Guernica (1937) became a universal anti-war image. He stayed in Paris during the German occupation, joined the French Communist Party in 1944, and later lived in the south of France, working in ceramics at Vallauris. He died at Mougins in 1973, aged 91.",
+   "Picasso is the most influential artist of the 20th century. He constantly reinvented his style and worked in painting, sculpture, printmaking, ceramics, stage design and assemblage, producing an estimated tens of thousands of works. His tumultuous relationships with a succession of women, including Marie-Thérèse Walter, Dora Maar, Françoise Gilot and Jacqueline Roque, shaped his art and are now critically examined. Museums dedicated to him exist in Paris, Barcelona, Málaga and Antibes."
+  ]
+ },
+ {
+  "id": "braque",
+  "name": "Georges Braque",
+  "born": "1882",
+  "died": "1963",
+  "birthplace": "Argenteuil, France",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "cubism"
+  ],
+  "bio": "Braque developed Cubism side by side with Picasso between 1908 and 1914 and introduced papier collé (pasted paper).",
+  "bio_full": [
+   "Georges Braque was born in Argenteuil and grew up in Le Havre, training like his father and grandfather as a decorative house painter. In Paris he joined the Fauves in 1906–07. Meeting Picasso and seeing Les Demoiselles d'Avignon, together with the 1907 Cézanne retrospective, transformed his work. His landscapes of L'Estaque (1908) led a critic to speak of 'little cubes', and from 1909 to 1914 he and Picasso developed Cubism so closely together that their works can be hard to tell apart. Braque compared them to mountaineers roped together. Braque invented papier collé (pasted paper) in 1912 and introduced stencilled letters, imitation wood grain and sand into painting. Badly wounded in the head in 1915, he recovered slowly and went on to develop a calmer, more lyrical style.",
+   "Braque's later still lifes, his series of Studio interiors and his images of birds are meditative explorations of space and texture. In 1953 he painted the ceiling of the Henri II room in the Louvre. In 1961 he became the first living artist to have a retrospective at the Louvre, and he received a state funeral in 1963."
+  ]
+ },
+ {
+  "id": "kandinsky",
+  "name": "Wassily Kandinsky",
+  "born": "1866",
+  "died": "1944",
+  "birthplace": "Moscow, Russia",
+  "deathplace": "Neuilly-sur-Seine, France",
+  "nationality": "Russian-French",
+  "movements": [
+   "abstraction",
+   "fauvism-expressionism"
+  ],
+  "bio": "A pioneer of abstract painting who compared colour to music. He co-founded Der Blaue Reiter and taught at the Bauhaus.",
+  "bio_full": [
+   "Wassily Kandinsky was born in Moscow and trained in law and economics, becoming a lecturer at Moscow University. He recalled being overwhelmed by one of Monet's Haystacks at an 1896 exhibition and by a performance of Wagner's Lohengrin. At 30 he gave up his academic career and moved to Munich to study painting. With Gabriele Münter he painted in the Bavarian village of Murnau. In 1911 he published Concerning the Spiritual in Art and founded the Blue Rider (Der Blaue Reiter) group with Franz Marc. He returned to Russia during the First World War and the Revolution, then taught at the Bauhaus in Germany from 1922 to 1933, publishing Point and Line to Plane (1926). When the Nazis closed the Bauhaus he moved to Neuilly-sur-Seine near Paris, where he died in 1944.",
+   "Kandinsky was one of the pioneers of abstract painting. He believed colour and form could act directly on the soul like music, and he grouped his works as Impressions, Improvisations and Compositions, terms borrowed from music. His style moved from the expressive, colourful abstractions of the Munich years to the geometric forms of the Bauhaus period and the biomorphic, playful works of his last decade in Paris."
+  ]
+ },
+ {
+  "id": "mondrian",
+  "name": "Piet Mondrian",
+  "born": "1872",
+  "died": "1944",
+  "birthplace": "Amersfoort, Netherlands",
+  "deathplace": "New York",
+  "nationality": "Dutch",
+  "movements": [
+   "abstraction"
+  ],
+  "bio": "A founder of De Stijl, Mondrian reduced painting to black lines, white ground and primary colours in search of universal harmony.",
+  "bio_full": [
+   "Piet Mondriaan (later Mondrian) was born in Amersfoort to a strict Calvinist family and trained at the Amsterdam Academy, first painting landscapes in the tradition of the Hague School. He was drawn to Theosophy and its search for universal spiritual truths. Moving to Paris in 1911, he discovered Cubism, and his series of trees became increasingly abstract. Trapped in the Netherlands during the First World War, he co-founded the movement and magazine De Stijl ('The Style') with Theo van Doesburg in 1917. He split from van Doesburg in the 1920s, reportedly over the use of diagonals. He lived in Paris until 1938, then London, and from 1940 New York, where he died in 1944.",
+   "From around 1920 Mondrian developed what he called Neoplasticism: a pure, universal art reduced to straight horizontal and vertical lines, the three primary colours and the non-colours black, white and grey, in perfect asymmetrical balance. He believed this abstract harmony could point the way to a harmonious society. His style has had an enormous influence on architecture, graphic design, fashion and furniture design."
+  ]
+ },
+ {
+  "id": "duchamp",
+  "name": "Marcel Duchamp",
+  "born": "1887",
+  "died": "1968",
+  "birthplace": "Blainville-Crevon, France",
+  "deathplace": "Neuilly-sur-Seine",
+  "nationality": "French-American",
+  "movements": [
+   "dada-surrealism"
+  ],
+  "bio": "Duchamp's 'readymades' — ordinary objects declared art — shifted art from the eye to the idea. He is a founding figure of conceptual art.",
+  "bio_full": [
+   "Marcel Duchamp was born in Blainville-Crevon in Normandy into an artistic family: his brothers Jacques Villon and Raymond Duchamp-Villon and his sister Suzanne were also artists. His Cubist painting Nude Descending a Staircase, No. 2 was withdrawn from a Paris exhibition in 1912 at the request of fellow Cubists, but it caused a sensation at the 1913 Armory Show in New York. Soon after, he gave up conventional painting and began making readymades, everyday objects selected and presented as art. He moved to New York in 1915 and worked for years on The Bride Stripped Bare by Her Bachelors, Even (The Large Glass). He devoted much of his time to chess, playing for France in international tournaments, and created a female alter ego, Rrose Sélavy. He became an American citizen in 1955. After his death in 1968 it was discovered that he had spent 20 years secretly building a final work, Étant donnés, now in the Philadelphia Museum of Art.",
+   "Duchamp rejected what he called 'retinal' art, made to please the eye, in favour of art addressed to the mind. His readymades, his puns and his idea that the artist's choice and context make something art laid the foundations of Dada, Pop Art, Conceptual Art and much contemporary art."
+  ]
+ },
+ {
+  "id": "magritte",
+  "name": "René Magritte",
+  "born": "1898",
+  "died": "1967",
+  "birthplace": "Lessines, Belgium",
+  "deathplace": "Brussels",
+  "nationality": "Belgian",
+  "movements": [
+   "dada-surrealism"
+  ],
+  "bio": "A Surrealist who painted ordinary objects with deadpan clarity in impossible combinations, questioning how images and words relate to reality.",
+  "bio_full": [
+   "René Magritte was born in Lessines in Belgium. His mother died when he was 13. He studied at the Académie Royale des Beaux-Arts in Brussels and worked in a wallpaper factory and as a commercial and poster designer. Influenced by Giorgio de Chirico, he painted his first Surrealist work, The Lost Jockey, in 1926. From 1927 to 1930 he lived near Paris and took part in the Surrealist group around André Breton, but fell out with Breton and returned to Brussels, where he spent the rest of his life with his wife Georgette. He briefly experimented with a deliberately crude 'vache' style and an Impressionist-like style in the 1940s, then returned to his classic manner. He died in Brussels in 1967.",
+   "Magritte painted ordinary objects, such as bowler hats, apples, pipes, clouds, windows and curtains, with a precise, impersonal technique, but placed them in impossible combinations, scales and contexts. His aim was to make the familiar strange and to question the relationship between images, words and reality. His images have been endlessly adopted by advertising, album covers and film, and influenced Pop and Conceptual Art."
+  ]
+ },
+ {
+  "id": "dali",
+  "name": "Salvador Dalí",
+  "born": "1904",
+  "died": "1989",
+  "birthplace": "Figueres, Spain",
+  "deathplace": "Figueres",
+  "nationality": "Spanish",
+  "movements": [
+   "dada-surrealism"
+  ],
+  "bio": "The most famous Surrealist, known for meticulously painted dreamscapes and a flamboyant public persona.",
+  "bio_full": [
+   "Salvador Dalí was born in Figueres, Catalonia, into a prosperous family. An older brother, also named Salvador, had died before he was born, and Dalí later claimed this haunted him. He studied in Madrid, where he befriended the poet Federico García Lorca and the filmmaker Luis Buñuel, with whom he made the Surrealist film Un Chien Andalou (1929). In 1929 he met Gala, who became his muse, wife and manager, and he joined the Surrealist group in Paris. He was later expelled by André Breton for his politics and commercialism. He spent the years 1940–48 in the United States, where he became a celebrity, designed a dream sequence for Hitchcock's Spellbound and worked with Disney. He returned to Catalonia, living at Port Lligat. He created the Dalí Theatre-Museum in Figueres, which opened in 1974 and where he is buried. He died in 1989.",
+   "Dalí developed what he called the 'paranoiac-critical method', a way of tapping irrational associations and double images. He painted his hallucinatory dreamscapes with meticulous, old-master precision. Later he turned to religious, scientific and 'nuclear mysticism' subjects. His flamboyant persona, upturned moustache and showmanship made him one of the most famous artists of the 20th century."
+  ]
+ },
+ {
+  "id": "kahlo",
+  "name": "Frida Kahlo",
+  "born": "1907",
+  "died": "1954",
+  "birthplace": "Coyoacán, Mexico City",
+  "deathplace": "Coyoacán",
+  "nationality": "Mexican",
+  "movements": [
+   "dada-surrealism"
+  ],
+  "bio": "Kahlo's intense self-portraits draw on Mexican folk art, her physical suffering and her identity. The Surrealists claimed her, though she rejected the label.",
+  "bio_full": [
+   "Frida Kahlo was born in Coyoacán, Mexico City, in the 'Blue House' (Casa Azul), the daughter of a German-born photographer and a Mexican mother of mixed Indigenous and Spanish descent. She contracted polio at six, and at 18 she was gravely injured in a bus accident that broke her spine and pelvis and left her in pain for the rest of her life. She began painting while confined to bed, using a mirror fixed above her. In 1929 she married the muralist Diego Rivera. They divorced in 1939 and remarried in 1940. She lived in the United States in the early 1930s, and in 1939 the Louvre bought her painting The Frame. She taught at the La Esmeralda art school, and her first solo exhibition in Mexico, in 1953, she attended in her bed. She died in 1954, aged 47.",
+   "Kahlo painted around 200 works, about a third of them self-portraits, combining Mexican folk art, ex-voto paintings and pre-Columbian imagery with her own experiences of pain, love, the body, miscarriage and identity. André Breton claimed her as a Surrealist, but she said she painted her own reality, not dreams. Since the 1980s she has become a global icon of Mexican identity and feminism. Her house is a museum, and in Mexico her works are protected as national artistic monuments."
+  ]
+ },
+ {
+  "id": "hopper",
+  "name": "Edward Hopper",
+  "born": "1882",
+  "died": "1967",
+  "birthplace": "Nyack, New York",
+  "deathplace": "New York",
+  "nationality": "American",
+  "movements": [
+   "american-modernism"
+  ],
+  "bio": "Hopper painted American cities, diners and roadsides with stark light and a mood of loneliness.",
+  "bio_full": [
+   "Edward Hopper was born in Nyack, New York, and studied illustration and painting at the New York School of Art under Robert Henri. He made three trips to Paris between 1906 and 1910 but remained largely untouched by the avant-garde. For years he earned his living as a commercial illustrator. He sold a painting at the 1913 Armory Show and made a series of etchings, but real success came only with a 1924 exhibition of watercolours. That year he married the painter Josephine Nivison, who managed his records and was his only model for female figures. His House by the Railroad was the first painting acquired by the new Museum of Modern Art in 1930. He spent summers on Cape Cod and lived in a studio on Washington Square in New York until his death in 1967.",
+   "Hopper painted American cities, diners, offices, hotel rooms, theatres, gas stations and empty streets, as well as New England houses and lighthouses. His clear, simplified forms, strong light and shadow, and isolated figures convey a mood of silence and loneliness that has profoundly influenced film, photography and the popular image of modern America."
+  ]
+ },
+ {
+  "id": "pollock",
+  "name": "Jackson Pollock",
+  "born": "1912",
+  "died": "1956",
+  "birthplace": "Cody, Wyoming",
+  "deathplace": "Springs, New York",
+  "nationality": "American",
+  "movements": [
+   "abstract-expressionism"
+  ],
+  "bio": "Pollock poured and dripped paint onto canvas laid on the floor, making the act of painting the subject. He died in a car crash at 44.",
+  "bio_full": [
+   "Paul Jackson Pollock was born in Cody, Wyoming, and grew up in Arizona and California. In New York he studied with the Regionalist Thomas Hart Benton at the Art Students League, worked for the government-funded Federal Art Project during the Depression, and attended an experimental workshop run by the Mexican muralist David Alfaro Siqueiros. He struggled with alcoholism all his life. In 1943 the collector Peggy Guggenheim gave him a contract and commissioned a large mural. In 1945 he married the painter Lee Krasner, and they moved to a farmhouse in Springs, Long Island, where his drip paintings developed between 1947 and 1950. In 1949 Life magazine asked whether he was the greatest living painter in the United States. He died in a car crash in August 1956, aged 44.",
+   "Pollock laid canvases on the floor and poured, dripped and flung paint from sticks, hardened brushes and cans, moving around and into the work. The finished paintings are dense, all-over webs of line without a central focus. Photographs and a film of him at work by Hans Namuth made the act of painting itself famous and shaped the idea of 'action painting'. He became the emblematic figure of Abstract Expressionism."
+  ]
+ },
+ {
+  "id": "rothko",
+  "name": "Mark Rothko",
+  "born": "1903",
+  "died": "1970",
+  "birthplace": "Dvinsk, Russian Empire (now Daugavpils, Latvia)",
+  "deathplace": "New York",
+  "nationality": "American",
+  "movements": [
+   "abstract-expressionism"
+  ],
+  "bio": "A leading Colour Field painter whose soft-edged rectangles of colour aim at contemplative, almost religious experience.",
+  "bio_full": [
+   "Mark Rothko was born Markus Rothkowitz in Dvinsk (now Daugavpils, Latvia), in the Russian Empire, to a Jewish family. In 1913 the family emigrated to Portland, Oregon. He won a scholarship to Yale but left without graduating, moved to New York and studied art. In the 1940s he painted mythological, Surrealist-influenced images, then 'multiforms' of soft colour patches. From around 1949 he arrived at his classic format: two or three soft-edged rectangles of luminous colour floating on a coloured field. In 1958–59 he painted a series of dark murals for the Four Seasons restaurant in the Seagram Building, then withdrew from the commission and gave some of the paintings to Tate. He later painted the murals for Harvard and the Rothko Chapel in Houston. Suffering from depression and ill health, he took his own life in his New York studio in February 1970.",
+   "Rothko rejected being called a colourist or an abstract artist. He said he was interested only in expressing basic human emotions such as tragedy, ecstasy and doom, and he wanted viewers to stand close to his large canvases and be enveloped by them. He became one of the leading figures of Colour Field painting and Abstract Expressionism."
+  ]
+ },
+ {
+  "id": "warhol",
+  "name": "Andy Warhol",
+  "born": "1928",
+  "died": "1987",
+  "birthplace": "Pittsburgh, Pennsylvania",
+  "deathplace": "New York",
+  "nationality": "American",
+  "movements": [
+   "pop-art"
+  ],
+  "bio": "The leading figure of Pop Art, Warhol used silkscreen to mass-produce images of consumer goods and celebrities from his studio, the Factory.",
+  "bio_full": [
+   "Andy Warhol was born Andrew Warhola in Pittsburgh, the son of Carpatho-Rusyn immigrants from present-day Slovakia. As a sickly child he spent long periods in bed drawing and collecting pictures of film stars. He studied commercial art at the Carnegie Institute of Technology and moved to New York in 1949, where he became a highly successful illustrator, especially of shoe advertisements. In 1962 his exhibition of Campbell's Soup Can paintings in Los Angeles and his Marilyn Monroe and Coca-Cola silkscreens made him the leading figure of Pop Art. His studio, the Factory, became a celebrated hub of artists, musicians, actors and hangers-on. He made experimental films, managed the rock band The Velvet Underground and founded Interview magazine. In 1968 he was shot and severely wounded by the writer Valerie Solanas. In the 1980s he collaborated with Jean-Michel Basquiat. He died in 1987 after routine gallbladder surgery.",
+   "Warhol erased the boundary between fine art, commerce and celebrity. He used commercial silkscreen printing and assistants to mass-produce images of consumer products, film stars, disasters and political figures, exploring fame, repetition, death and the media. He famously predicted that in the future everyone would be world-famous for 15 minutes. The Andy Warhol Museum in Pittsburgh opened in 1994."
+  ]
+ },
+ {
+  "id": "lichtenstein",
+  "name": "Roy Lichtenstein",
+  "born": "1923",
+  "died": "1997",
+  "birthplace": "New York",
+  "deathplace": "New York",
+  "nationality": "American",
+  "movements": [
+   "pop-art"
+  ],
+  "bio": "Lichtenstein enlarged comic-strip panels with hand-painted Ben-Day dots, parodying mass-media images and painterly heroics.",
+  "bio_full": [
+   "Roy Lichtenstein was born in New York City and studied art at Ohio State University, interrupted by army service in Europe during the Second World War. He taught at universities in Ohio and New York, painting in Abstract Expressionist and other styles. In 1961, according to the story, his son challenged him to paint as well as a Mickey Mouse comic book, and he painted Look Mickey, based on a cartoon. His 1962 exhibition at Leo Castelli's gallery made him famous. He went on to parody art history and Abstract Expressionism itself in series such as Brushstrokes, Mirrors, Entablatures and Artist's Studio, and he made sculpture and public art. He died in New York in 1997.",
+   "Lichtenstein took images from comic strips and advertisements and repainted them on a huge scale with thick black outlines, flat primary colours and hand-painted Ben-Day dots imitating cheap commercial printing. His work raised questions about originality, mass media and taste. Some of the comic artists whose panels he adapted have argued that their contribution has been underappreciated."
+  ]
+ },
+ {
+  "id": "myron",
+  "name": "Myron",
+  "born": "active c. 470 BC",
+  "died": "c. 440 BC",
+  "sort": -470,
+  "birthplace": "Eleutherae, Greece",
+  "deathplace": "unknown",
+  "nationality": "Ancient Greek",
+  "movements": [
+   "classical-antiquity"
+  ],
+  "bio": "An Athenian-trained bronze sculptor of the early Classical period, admired for capturing athletes in motion. None of his originals survive; his work is known through Roman marble copies.",
+  "bio_full": [
+   "Myron was a bronze sculptor working in Athens in the decades around 470–440 BC. This was the 'Severe' or early Classical phase, when Greek sculpture was moving away from stiff archaic poses. Ancient tradition says he trained under Ageladas of Argos, who also taught Polykleitos. His most celebrated works were athletes and animals. Many ancient poems praise a bronze cow by him that was supposedly so lifelike that calves tried to suckle it and herdsmen tried to drive it off.",
+   "None of Myron's originals survive, so he is known through Roman marble copies and the remarks of writers such as Pliny the Elder. Pliny admired his range and rhythm but said he paid less attention to the expression of feeling. Myron's achievement was to capture a body at the instant of greatest action while keeping it balanced and calm. That idea runs through Western sculpture from the Renaissance to the Olympic imagery of the modern age."
+  ]
+ },
+ {
+  "id": "phidias",
+  "name": "Phidias",
+  "born": "c. 480 BC",
+  "died": "c. 430 BC",
+  "sort": -480,
+  "birthplace": "Athens",
+  "deathplace": "unknown",
+  "nationality": "Ancient Greek",
+  "movements": [
+   "classical-antiquity"
+  ],
+  "bio": "The most famous sculptor of Classical Athens, who supervised the sculptural programme of the Parthenon under Pericles. His colossal gold-and-ivory statues of Athena and Zeus are lost.",
+  "bio_full": [
+   "Phidias (Pheidias) was the most famous artist of Classical Athens. His friend the statesman Pericles put him in charge of the artistic programme on the Acropolis after the Persian Wars. He oversaw the sculpture of the Parthenon and made its cult statue, the Athena Parthenos, a figure about 12 metres high built of gold and ivory over a wooden core. He later made the colossal seated Zeus at Olympia, counted among the Seven Wonders of the ancient world. Excavators at Olympia found his workshop, including a cup scratched with the words 'I belong to Pheidias'.",
+   "Ancient sources say Phidias was accused of embezzling gold or of impiety, and his last years are obscure. All of his famous cult statues are lost and are known only from descriptions, coins and small copies. Even so, the Parthenon sculptures made under his direction became the standard of 'classical' beauty: calm, idealised and full of life. Through Renaissance and Neoclassical artists, his style shaped how the West imagined Greek art."
+  ]
+ },
+ {
+  "id": "polykleitos",
+  "name": "Polykleitos",
+  "born": "active c. 450 BC",
+  "died": "c. 420 BC",
+  "sort": -450,
+  "birthplace": "Argos, Greece",
+  "deathplace": "unknown",
+  "nationality": "Ancient Greek",
+  "movements": [
+   "classical-antiquity"
+  ],
+  "bio": "A bronze sculptor who wrote the Canon, a treatise on ideal human proportion. His relaxed, weight-shifted stance (contrapposto) became a model for Western sculpture.",
+  "bio_full": [
+   "Polykleitos ran a leading bronze workshop in Argos in the Peloponnese in the second half of the 5th century BC and taught a whole school of followers. He was famous for statues of victorious athletes, such as the Diadoumenos (a youth tying a victory ribbon round his head), and for a gold-and-ivory statue of Hera at Argos that ancient visitors ranked alongside Phidias's work.",
+   "His lasting influence came from his treatise, the Canon. It set out a system of ideal proportions in which every part of the body relates to every other by measured ratios (symmetria). He illustrated it with a statue, generally identified as the Doryphoros. The treatise is lost, but its ideas passed through Roman writers such as Vitruvius to the Renaissance, where Leonardo's Vitruvian Man takes up the same search for perfect human proportion."
+  ]
+ },
+ {
+  "id": "praxiteles",
+  "name": "Praxiteles",
+  "born": "active c. 375 BC",
+  "died": "c. 330 BC",
+  "sort": -375,
+  "birthplace": "Athens",
+  "deathplace": "unknown",
+  "nationality": "Ancient Greek",
+  "movements": [
+   "classical-antiquity"
+  ],
+  "bio": "The leading Athenian sculptor of the 4th century BC, known for softer, more sensuous marble figures. He made the first monumental fully nude statue of a goddess.",
+  "bio_full": [
+   "Praxiteles was the leading Athenian sculptor of the mid-4th century BC and probably the son of the sculptor Kephisodotos. He worked mainly in marble and had it delicately painted. He moved away from the grandeur of the Parthenon generation towards softer, more relaxed and sensuous figures, often in an S-shaped pose that leans on a support. His works included the Apollo Sauroktonos (Apollo the Lizard-Slayer). A Hermes holding the infant Dionysus, found at Olympia in 1877, is often attributed to him, though scholars still debate whether it is his original.",
+   "Ancient writers linked him romantically with the celebrated courtesan Phryne, said to be the model for his Aphrodite. His gentle, intimate approach to the gods reshaped Hellenistic and Roman taste and, through Roman copies, the Renaissance ideal of the female nude."
+  ]
+ },
+ {
+  "id": "laocoon-sculptors",
+  "name": "Agesander, Athenodoros & Polydorus",
+  "born": "active 1st century BC",
+  "died": "–",
+  "sort": -50,
+  "birthplace": "Rhodes",
+  "deathplace": "unknown",
+  "nationality": "Ancient Greek (Rhodian)",
+  "movements": [
+   "classical-antiquity"
+  ],
+  "bio": "Three sculptors from Rhodes named by the Roman writer Pliny the Elder as the makers of the Laocoön group. Their exact dates and whether the work is an original or a copy are debated.",
+  "bio_full": [
+   "Agesander, Athenodoros and Polydorus were sculptors from the island of Rhodes, a major centre of late Hellenistic sculpture. We know them almost entirely through Pliny the Elder, who named them as the makers of the Laocoön group in the palace of the emperor Titus and called it a work superior to all others in painting or bronze. Their names also appear on the sculptures found in 1957 in the grotto of the emperor Tiberius's villa at Sperlonga, which show episodes from the Odyssey.",
+   "Whether the Laocoön is a Hellenistic original of about 200 BC, a Roman copy of a bronze, or a new work made for Roman patrons in the 1st century BC or AD is still debated. Its writhing, theatrical style is the high point of the 'Hellenistic baroque', and its rediscovery in 1506 had an enormous effect on Michelangelo and later artists."
+  ]
+ },
+ {
+  "id": "cimabue",
+  "name": "Cimabue",
+  "born": "c. 1240",
+  "died": "1302",
+  "birthplace": "Florence",
+  "deathplace": "Pisa",
+  "nationality": "Italian",
+  "movements": [
+   "proto-renaissance"
+  ],
+  "bio": "A Florentine painter who began loosening Byzantine conventions toward greater naturalism. Tradition makes him Giotto's teacher.",
+  "bio_full": [
+   "Cenni di Pepo, called Cimabue, was born in Florence around 1240 and is the earliest Florentine painter whose name is attached to major surviving works. He worked in Rome, at Assisi (where he painted frescoes in the Upper Church of San Francesco) and in Pisa, where he made the mosaic of St John in the cathedral apse shortly before his death. Tradition, followed by Vasari, makes him Giotto's teacher.",
+   "Cimabue still worked within the Byzantine 'Greek manner', with gold grounds and stylised drapery. He gave it new weight, emotion and a sense of real space, so his figures begin to feel like bodies rather than icons. Dante paid him an ambiguous tribute in Purgatory: 'Cimabue thought he held the field in painting, and now Giotto has the cry.' His great painted Crucifix in Santa Croce, badly damaged in the 1966 Florence flood, became a symbol of the city's lost heritage."
+  ]
+ },
+ {
+  "id": "duccio",
+  "name": "Duccio di Buoninsegna",
+  "born": "c. 1255",
+  "died": "c. 1319",
+  "birthplace": "Siena",
+  "deathplace": "Siena",
+  "nationality": "Italian",
+  "movements": [
+   "proto-renaissance"
+  ],
+  "bio": "The founder of the Sienese school, combining Byzantine elegance and gold with new tenderness and narrative clarity.",
+  "bio_full": [
+   "Duccio di Buoninsegna was the founding master of Sienese painting. He is first documented in 1278 and died around 1319. In 1285 he received the commission for the huge Rucellai Madonna for the Florentine church of Santa Maria Novella, now in the Uffizi. That a Sienese painter won a Florentine commission shows how high his reputation stood. Records suggest he was often fined and in debt, but his workshop shaped Sienese art for generations, through pupils such as Simone Martini and the Lorenzetti brothers.",
+   "Duccio kept the gold, line and elegance of Byzantine painting but added warmth, tender human gesture and clear, lively storytelling in small narrative scenes. Where Florentine painting after Giotto stressed sculptural mass, the Sienese tradition he founded valued colour, grace and lyrical detail. That contrast ran through Italian painting for the rest of the Gothic age."
+  ]
+ },
+ {
+  "id": "ghiberti",
+  "name": "Lorenzo Ghiberti",
+  "born": "1378",
+  "died": "1455",
+  "birthplace": "Pelago, near Florence",
+  "deathplace": "Florence",
+  "nationality": "Italian",
+  "movements": [
+   "early-renaissance"
+  ],
+  "bio": "A goldsmith and sculptor who won the 1401 competition for the Florence Baptistery doors, a contest often taken as the start of the Renaissance. He spent most of his life on two sets of bronze doors.",
+  "bio_full": [
+   "Lorenzo Ghiberti trained as a goldsmith. In 1401, at about 23, he won the competition to make the second set of bronze doors for the Florence Baptistery, beating Filippo Brunelleschi among others. Both trial panels, showing the Sacrifice of Isaac, survive in the Bargello. The doors with 28 scenes took him until 1424. He then spent most of the next three decades on a second pair, which Michelangelo reputedly called worthy to be the Gates of Paradise.",
+   "Ghiberti's workshop was a training ground for the next generation, including Donatello, Michelozzo and Paolo Uccello. He also wrote the Commentarii, which contains the first autobiography by a European artist and an early history of Italian art. His work bridges the graceful International Gothic style and the new Renaissance interest in perspective, classical architecture and the nude."
+  ]
+ },
+ {
+  "id": "brunelleschi",
+  "name": "Filippo Brunelleschi",
+  "born": "1377",
+  "died": "1446",
+  "birthplace": "Florence",
+  "deathplace": "Florence",
+  "nationality": "Italian",
+  "movements": [
+   "early-renaissance"
+  ],
+  "bio": "Architect and engineer credited with the first systematic demonstration of linear perspective. His dome for Florence Cathedral was an engineering feat without precedent since antiquity.",
+  "bio_full": [
+   "Filippo Brunelleschi was trained as a goldsmith. After losing the 1401 Baptistery doors competition to Ghiberti, he turned increasingly to architecture and engineering. Tradition says he went to Rome with Donatello to measure and study the ancient ruins. Around 1415–20 he made a celebrated experiment with painted panels of the Baptistery and a mirror. It demonstrated the rules of linear perspective, which the theorist Leon Battista Alberti soon codified for painters.",
+   "His buildings in Florence are the founding works of Renaissance architecture: the Ospedale degli Innocenti, the churches of San Lorenzo and Santo Spirito, and the Pazzi Chapel. They are built from clear, mathematically related proportions, round arches and classical columns in grey pietra serena stone against white walls. His crowning achievement was the cathedral dome, and he was given the rare honour of burial inside the cathedral itself."
+  ]
+ },
+ {
+  "id": "masaccio",
+  "name": "Masaccio",
+  "born": "1401",
+  "died": "1428",
+  "birthplace": "San Giovanni Valdarno, near Florence",
+  "deathplace": "Rome",
+  "nationality": "Italian",
+  "movements": [
+   "early-renaissance"
+  ],
+  "bio": "In a career of barely six years, Masaccio applied perspective and solid, light-modelled figures to painting. He died at 26.",
+  "bio_full": [
+   "Tommaso di Ser Giovanni, nicknamed Masaccio ('clumsy' or 'big Tom'), joined the Florentine painters' guild in 1422. He worked alongside the older painter Masolino, most famously on the Brancacci Chapel frescoes in Santa Maria del Carmine. He also painted the Pisa Polyptych of 1426, now divided among several museums. He went to Rome around 1428 and died there at only 26, in circumstances that remain unclear.",
+   "In barely six years Masaccio did for painting what Brunelleschi did for architecture and Donatello for sculpture. He gave figures real weight under a single consistent light, used scientific perspective, and showed emotion with sober dignity. Vasari wrote that the Brancacci Chapel became a school for later artists. The young Michelangelo copied its figures, and a fist fight there with a rival is said to have broken his nose."
+  ]
+ },
+ {
+  "id": "fra-angelico",
+  "name": "Fra Angelico",
+  "born": "c. 1395",
+  "died": "1455",
+  "birthplace": "Vicchio, near Florence",
+  "deathplace": "Rome",
+  "nationality": "Italian",
+  "movements": [
+   "early-renaissance"
+  ],
+  "bio": "A Dominican friar-painter who combined Renaissance space with serene devotional clarity, notably in the cells of the convent of San Marco.",
+  "bio_full": [
+   "Born Guido di Pietro in the Mugello near Florence, he became a Dominican friar at Fiesole in the 1420s, taking the name Fra Giovanni. He was soon called 'Angelico' for the devotion of his painting and his life, and he was officially beatified by Pope John Paul II in 1982. When Cosimo de' Medici paid for the rebuilding of the convent of San Marco in Florence, Fra Angelico and his assistants frescoed the chapter house, corridors and the friars' cells. He later worked in Rome for Popes Eugenius IV and Nicholas V and decorated the Niccoline Chapel in the Vatican.",
+   "Fra Angelico combined the new Renaissance tools of perspective, solid figures and real light with a serene, luminous colour and clarity suited to prayer. The cell frescoes at San Marco are deliberately sparse so they could aid a friar's meditation, but his altarpieces are rich with gold and colour. He was one of the most admired painters in Italy in his lifetime."
+  ]
+ },
+ {
+  "id": "piero",
+  "name": "Piero della Francesca",
+  "born": "c. 1415",
+  "died": "1492",
+  "birthplace": "Borgo San Sepolcro",
+  "deathplace": "Borgo San Sepolcro",
+  "nationality": "Italian",
+  "movements": [
+   "early-renaissance"
+  ],
+  "bio": "A painter and mathematician whose works have a calm, geometric order and cool light. He wrote treatises on perspective and geometry.",
+  "bio_full": [
+   "Piero della Francesca spent much of his life in his small home town of Borgo San Sepolcro in Tuscany, but worked for the courts of Rimini, Ferrara and above all Urbino. In Urbino he painted the famous profile portraits of Duke Federico da Montefeltro and his wife Battista Sforza (Uffizi). His masterpiece in fresco is the Legend of the True Cross in the church of San Francesco at Arezzo. He also painted the Resurrection in Sansepolcro, which Aldous Huxley called 'the best picture in the world'.",
+   "Piero was also a serious mathematician. He wrote treatises on perspective (De prospectiva pingendi), arithmetic and the five regular solids, and his paintings have a still, geometric calm, pale cool colour and a clear daylight. He was largely forgotten for centuries. 20th-century critics and artists rediscovered him and saw in his ordered forms an anticipation of Cézanne and modern abstraction."
+  ]
+ },
+ {
+  "id": "mantegna",
+  "name": "Andrea Mantegna",
+  "born": "c. 1431",
+  "died": "1506",
+  "birthplace": "Isola di Carturo, near Padua",
+  "deathplace": "Mantua",
+  "nationality": "Italian",
+  "movements": [
+   "early-renaissance"
+  ],
+  "bio": "Court painter to the Gonzaga in Mantua, famous for archaeological detail and daring foreshortening.",
+  "bio_full": [
+   "Andrea Mantegna was adopted as a boy by the Paduan painter and collector Francesco Squarcione. In Padua he absorbed the university city's passion for antiquity and Donatello's recent sculpture there. He set up independently while still a teenager and married Nicolosia Bellini, which made him brother-in-law to Giovanni Bellini. His early frescoes in the Ovetari Chapel in the Eremitani church were largely destroyed by bombing in 1944. From 1460 until his death he was court painter to the Gonzaga family in Mantua.",
+   "Mantegna was the most archaeological painter of the Renaissance, filling his scenes with accurately studied Roman architecture, inscriptions and armour. His figures can look as hard and sharp as carved stone. He was a master of steep perspective and foreshortening and an influential engraver, whose prints spread his style north of the Alps to artists such as Dürer. His series The Triumphs of Caesar is now at Hampton Court."
+  ]
+ },
+ {
+  "id": "bellini",
+  "name": "Giovanni Bellini",
+  "born": "c. 1430",
+  "died": "1516",
+  "birthplace": "Venice",
+  "deathplace": "Venice",
+  "nationality": "Italian",
+  "movements": [
+   "early-renaissance",
+   "high-renaissance"
+  ],
+  "bio": "The father of Venetian Renaissance painting, who pioneered oil technique in Venice and taught Giorgione and Titian. His landscapes glow with natural light.",
+  "bio_full": [
+   "Giovanni Bellini came from Venice's leading family of painters: his father Jacopo and brother Gentile were also prominent artists. For around half a century he ran the city's most important workshop, painting altarpieces for its churches, devotional Madonnas and later portraits, including the Doge Leonardo Loredan (National Gallery, London). His pupils included Giorgione and Titian, and when Dürer visited Venice in 1506 he wrote that Bellini, though very old, was 'still the best in painting'.",
+   "Bellini was among the first Venetians to master oil paint. He used it to create soft, glowing light, warm atmosphere and landscapes that seem to carry the emotion of the sacred figures. His great altarpieces, such as the San Zaccaria Madonna of 1505, fuse figures and architecture in golden light. That move from line towards colour and atmosphere became the defining trait of Venetian painting."
+  ]
+ },
+ {
+  "id": "van-der-weyden",
+  "name": "Rogier van der Weyden",
+  "born": "c. 1399",
+  "died": "1464",
+  "birthplace": "Tournai",
+  "deathplace": "Brussels",
+  "nationality": "Flemish",
+  "movements": [
+   "northern-renaissance"
+  ],
+  "bio": "City painter of Brussels and the most influential Netherlandish artist of his age, known for intense emotion and sculptural figures.",
+  "bio_full": [
+   "Rogier de le Pasture, known in Flemish as Rogier van der Weyden, was born in Tournai. He trained there in the workshop of Robert Campin, whose robust realism he refined. By 1436 he was official painter to the city of Brussels, where he ran a large and influential workshop. He visited Italy, probably around the Jubilee of 1450, and worked for the Burgundian court, the Medici and the Este. His great polyptych of the Last Judgment still stands in the Hospices de Beaune.",
+   "Where van Eyck was the cool observer of light and texture, Rogier was the painter of emotion. His figures are elegant and sculptural, arranged in clear rhythmic compositions, and they express grief and devotion with intense, restrained feeling. His portraits of the Burgundian nobility set a model for courtly portraiture. Through his workshop and the many copies of his designs, he became the most widely imitated painter in northern Europe in the later 15th century."
+  ]
+ },
+ {
+  "id": "holbein",
+  "name": "Hans Holbein the Younger",
+  "born": "c. 1497",
+  "died": "1543",
+  "birthplace": "Augsburg",
+  "deathplace": "London",
+  "nationality": "German",
+  "movements": [
+   "northern-renaissance"
+  ],
+  "bio": "A brilliant portraitist who became painter to Henry VIII of England. His portraits combine precise likeness with display of status.",
+  "bio_full": [
+   "Hans Holbein the Younger was the son of the Augsburg painter Hans Holbein the Elder. He settled in Basel, where he painted portraits of the scholar Erasmus and designed book illustrations, including his famous woodcut series the Dance of Death. As the Reformation disrupted religious commissions, he went to England in 1526 with an introduction from Erasmus to Sir Thomas More. He returned for good in 1532 and became King's Painter to Henry VIII, recording the king, his court, his wives and his ministers until his death in London in 1543, probably of plague.",
+   "Holbein's portraits combine extraordinary realism, cool unflattering observation of each face, with the brilliant depiction of rich clothes and objects that proclaimed status. His drawings, many now in the Royal Collection at Windsor, are among the finest portrait studies ever made. His lost mural of Henry VIII for Whitehall Palace, destroyed by fire in 1698, fixed the king's image, legs apart and fists on hips, for posterity."
+  ]
+ },
+ {
+  "id": "giorgione",
+  "name": "Giorgione",
+  "born": "c. 1477",
+  "died": "1510",
+  "birthplace": "Castelfranco Veneto",
+  "deathplace": "Venice",
+  "nationality": "Italian",
+  "movements": [
+   "high-renaissance"
+  ],
+  "bio": "A mysterious Venetian who pioneered poetic, mood-driven landscape painting. Only a handful of works are securely his; he died young, probably of plague.",
+  "bio_full": [
+   "Very little is known for certain about Giorgione ('Big George'), born Giorgio da Castelfranco. He probably trained with Giovanni Bellini, became famous in Venice for poetic small paintings made for private collectors, and in 1508 painted frescoes, now almost entirely lost, on the façade of the German merchants' warehouse (the Fondaco dei Tedeschi) with the young Titian. He died of plague in 1510, still in his early thirties.",
+   "Only a handful of paintings are securely attributed to him, including The Tempest, The Three Philosophers in Vienna, and the Sleeping Venus in Dresden, which Titian finished. Yet his influence was immense. He made mood, landscape and atmosphere the true subjects of painting, often leaving the narrative deliberately mysterious, and he painted directly in oil without detailed preparatory drawing. The 'Giorgionesque' style of soft light and dreamy, enigmatic pastoral reshaped Venetian art."
+  ]
+ },
+ {
+  "id": "parmigianino",
+  "name": "Parmigianino",
+  "born": "1503",
+  "died": "1540",
+  "birthplace": "Parma",
+  "deathplace": "Casalmaggiore",
+  "nationality": "Italian",
+  "movements": [
+   "mannerism"
+  ],
+  "bio": "A leading Mannerist known for elegant, elongated figures and virtuoso effects.",
+  "bio_full": [
+   "Girolamo Francesco Maria Mazzola, called Parmigianino ('the little one from Parma'), was a prodigy. He went to Rome in 1524 to seek papal patronage, bringing his remarkable self-portrait in a convex mirror as a calling card. He was working there when imperial troops sacked the city in 1527, and he escaped to Bologna. Back in Parma he was commissioned to fresco the church of Santa Maria della Steccata, but he fell years behind, was briefly jailed for breach of contract, and died in 1540 at only 37. According to Vasari, he had become obsessed with alchemy.",
+   "Parmigianino is one of the defining artists of Mannerism. His figures are impossibly elegant, with elongated necks, hands and limbs, refined and self-consciously artificial, designed to dazzle the sophisticated viewer. He was also one of the first Italian painters to make etchings, and his many graceful drawings were eagerly collected."
+  ]
+ },
+ {
+  "id": "bronzino",
+  "name": "Agnolo Bronzino",
+  "born": "1503",
+  "died": "1572",
+  "birthplace": "Florence",
+  "deathplace": "Florence",
+  "nationality": "Italian",
+  "movements": [
+   "mannerism"
+  ],
+  "bio": "Court painter to Cosimo I de' Medici, famed for cool, enamel-smooth portraits and complex allegories.",
+  "bio_full": [
+   "Agnolo di Cosimo, called Bronzino, was the pupil and adopted son of the eccentric Florentine painter Jacopo Pontormo. He became court painter to Cosimo I de' Medici, Duke of Florence, and his wife Eleonora of Toledo, decorating Eleonora's chapel in the Palazzo Vecchio and producing official portraits of the ducal family. He was also a witty poet and a founding member of Florence's Accademia del Disegno in 1563.",
+   "Bronzino's portraits are the epitome of Mannerist court style. His sitters are cool and aloof, flawlessly smooth as if made of porcelain, and dressed in sumptuous fabrics rendered with jewel-like precision. Their emotional reserve expresses the rank and self-control expected at court. His allegories are intricate intellectual puzzles that mix eroticism with moralising."
+  ]
+ },
+ {
+  "id": "tintoretto",
+  "name": "Tintoretto",
+  "born": "1518",
+  "died": "1594",
+  "birthplace": "Venice",
+  "deathplace": "Venice",
+  "nationality": "Italian",
+  "movements": [
+   "mannerism"
+  ],
+  "bio": "A fast, dramatic Venetian painter who aimed to combine 'the drawing of Michelangelo and the colour of Titian', with dynamic diagonals and theatrical light.",
+  "bio_full": [
+   "Jacopo Robusti was nicknamed Tintoretto ('the little dyer') after his father's trade. He spent almost his entire life in Venice, where his speed and energy earned him the nickname 'il Furioso'. His greatest project was the decoration of the Scuola Grande di San Rocco, a religious confraternity's meeting house, which he filled with more than fifty paintings over some 23 years. He also painted the enormous Paradise in the Doge's Palace. His daughter Marietta and son Domenico worked in his busy studio.",
+   "Tintoretto reportedly aimed to combine 'the drawing of Michelangelo and the colour of Titian'. His paintings are full of drama, with plunging diagonals, sudden shifts of scale, theatrical lighting and figures in violent motion. He sometimes worked out compositions with small wax figures in model stages. His visionary religious painting influenced El Greco and anticipated the Baroque."
+  ]
+ },
+ {
+  "id": "hals",
+  "name": "Frans Hals",
+  "born": "c. 1582",
+  "died": "1666",
+  "birthplace": "Antwerp",
+  "deathplace": "Haarlem",
+  "nationality": "Dutch",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "A Haarlem portraitist whose loose, lively brushwork captured fleeting expressions. Impressionists such as Manet admired him greatly.",
+  "bio_full": [
+   "Frans Hals was born in Antwerp, but his Protestant family moved north to Haarlem after Antwerp fell to Spanish forces in 1585. He spent his whole career there. He was the city's leading portraitist, painting merchants, preachers and their wives, as well as large group portraits of Haarlem's civic militia companies and the governors of charitable institutions. He also painted lively genre heads of drinkers, musicians and laughing children. Despite his success he often had money troubles, and in old age he received a small pension from the city. He died in Haarlem in 1666, and the museum there bears his name.",
+   "Hals is famous for his loose, rapid, visible brushwork, which seems to catch his sitters' expressions mid-word or mid-laugh. His portraits feel spontaneous and full of life compared with the polished finish of his contemporaries. After falling out of fashion he was enthusiastically rediscovered in the 19th century, when Manet, Courbet, Van Gogh and the American painter John Singer Sargent admired the freedom of his handling."
+  ]
+ },
+ {
+  "id": "poussin",
+  "name": "Nicolas Poussin",
+  "born": "1594",
+  "died": "1665",
+  "birthplace": "Les Andelys, Normandy",
+  "deathplace": "Rome",
+  "nationality": "French",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "The founder of French classical painting, who worked mostly in Rome on ordered, intellectual scenes from mythology, history and the Bible.",
+  "bio_full": [
+   "Nicolas Poussin was born in Normandy and trained in Paris. In 1624 he went to Rome, where he spent almost all the rest of his life. There he found learned patrons such as the antiquarian Cassiano dal Pozzo and painted for a circle of connoisseurs who appreciated his serious, intellectual approach. Louis XIII and Cardinal Richelieu summoned him back to Paris in 1640 as First Painter to the King, but he disliked court intrigue and the large decorative commissions, and returned to Rome in 1642.",
+   "Poussin painted mythological, historical and biblical subjects with carefully planned compositions, clear drawing, measured gesture and a stoic moral seriousness inspired by antiquity and Raphael. He believed a painting should be read like a text, with each figure's expression conveying meaning. His late landscapes are among the most profound in art. Through the French Royal Academy, where the 'Poussinistes' (championing drawing) famously argued against the 'Rubénistes' (championing colour), he became the founding father of French classicism and a model for David and Cézanne."
+  ]
+ },
+ {
+  "id": "van-dyck",
+  "name": "Anthony van Dyck",
+  "born": "1599",
+  "died": "1641",
+  "birthplace": "Antwerp",
+  "deathplace": "London",
+  "nationality": "Flemish",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "Rubens's most gifted assistant, who became principal painter to Charles I of England. His elegant aristocratic portraits set the model for British portraiture.",
+  "bio_full": [
+   "Anthony van Dyck was a prodigy in Antwerp, running his own workshop as a teenager and becoming Rubens's most gifted assistant. From 1621 to 1627 he worked in Italy, above all in Genoa, where he painted elegant full-length portraits of the city's aristocracy and studied Titian closely. After a few years back in Antwerp he moved to London in 1632 as principal painter to Charles I, who knighted him. He painted the king, Queen Henrietta Maria, their children and the English nobility until his early death in London in 1641.",
+   "Van Dyck created a new kind of aristocratic portrait: relaxed yet dignified, elegant, refined, with shimmering silks, slender hands and poetic landscape backgrounds. His images of Charles I shaped the king's legend, and his style became the standard for British portraiture for two centuries, through Lely, Kneller, Gainsborough and Reynolds. He also left a famous series of etched portraits of his fellow artists, the Iconography."
+  ]
+ },
+ {
+  "id": "hogarth",
+  "name": "William Hogarth",
+  "born": "1697",
+  "died": "1764",
+  "birthplace": "London",
+  "deathplace": "London",
+  "nationality": "British",
+  "movements": [
+   "rococo"
+  ],
+  "bio": "Painter, printmaker and satirist who invented the 'modern moral subject', narrative series sold as popular engravings.",
+  "bio_full": [
+   "William Hogarth was born in London and trained as an engraver of silver before taking up painting. He eloped with the daughter of the court painter Sir James Thornhill. His first great success, the series A Harlot's Progress (1732), was sold to the public as engravings, and its popularity led to pirated copies. Hogarth campaigned for the Engraving Copyright Act of 1735, known as 'Hogarth's Act', which protected artists' rights in their prints. He was a founding governor of the Foundling Hospital, created famous prints such as Gin Lane and Beer Street (1751), and wrote a treatise, The Analysis of Beauty (1753), arguing for the S-shaped 'line of beauty'.",
+   "Hogarth called his narrative series 'modern moral subjects'. They are stories told in sequences of pictures, read like a novel or play, satirising greed, vanity, corruption, cruelty and fashionable folly in every class of London society. He was also a lively portraitist and a fierce promoter of a native British school of painting against fashionable foreign imports. His work is a forerunner of the political cartoon and the comic strip."
+  ]
+ },
+ {
+  "id": "canaletto",
+  "name": "Canaletto",
+  "born": "1697",
+  "died": "1768",
+  "birthplace": "Venice",
+  "deathplace": "Venice",
+  "nationality": "Italian",
+  "movements": [
+   "rococo"
+  ],
+  "bio": "The master of the Venetian veduta (city view), hugely popular with British Grand Tour travellers.",
+  "bio_full": [
+   "Giovanni Antonio Canal, called Canaletto ('little canal'), was the son of a Venetian theatrical scene painter and began his career painting stage sets. Around 1720 he turned to painting views of Venice. These became the most coveted souvenirs of British travellers on the Grand Tour, many sold through his agent Joseph Smith, the British consul, whose own huge collection was later bought by George III for the Royal Collection. When the War of the Austrian Succession cut off the tourist trade, he moved to England in 1746 and spent most of the next decade painting London and country houses.",
+   "Canaletto's vedute (view paintings) combine topographical accuracy with careful composition, crisp light and lively figures. He often adjusted viewpoints and combined several perspectives into one picture. He owned a camera obscura, now in the Museo Correr in Venice, and used drawing aids to construct his views. His early work is loose and atmospheric. His later, more mechanical production was supported by a busy workshop and many imitators, including his nephew Bernardo Bellotto."
+  ]
+ },
+ {
+  "id": "tiepolo",
+  "name": "Giovanni Battista Tiepolo",
+  "born": "1696",
+  "died": "1770",
+  "birthplace": "Venice",
+  "deathplace": "Madrid",
+  "nationality": "Italian",
+  "movements": [
+   "rococo"
+  ],
+  "bio": "The greatest decorative painter of the 18th century, filling palace ceilings across Europe with luminous skies and figures.",
+  "bio_full": [
+   "Giovanni Battista Tiepolo was born in Venice and married Cecilia Guardi, sister of the view painters Francesco and Gianantonio Guardi. He became the most sought-after decorative painter in Europe, covering ceilings and walls with frescoes in Venetian palaces and churches, in the Villa Pisani at Stra and in northern Italy. In 1750–53 he worked in Würzburg for the Prince-Bishop. In 1762 King Charles III summoned him to Madrid to paint ceilings in the new Royal Palace, and he died there in 1770. His sons Giandomenico and Lorenzo were his assistants.",
+   "Tiepolo's frescoes open ceilings into dazzling skies filled with gods, allegories and exotic figures, foreshortened from below, in luminous pastel colour and with tremendous speed and confidence. He also made witty etchings and brilliant oil sketches. By the end of his life, Neoclassical taste was turning against his flamboyant style, but he is now seen as the last great master of the Italian grand decorative tradition."
+  ]
+ },
+ {
+  "id": "chardin",
+  "name": "Jean-Siméon Chardin",
+  "born": "1699",
+  "died": "1779",
+  "birthplace": "Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "rococo"
+  ],
+  "bio": "A painter of still lifes and quiet domestic scenes, admired for his textured paint and truth to everyday life.",
+  "bio_full": [
+   "Jean-Siméon Chardin, the son of a Parisian maker of billiard tables, spent his whole life in Paris and almost never left it. In 1728 the Royal Academy admitted him as a painter 'of animals and fruit', the lowest category in its hierarchy of genres, on the strength of The Ray and The Buffet. From the 1730s he also painted quiet scenes of servants and middle-class family life, such as Saying Grace and Soap Bubbles. He later served as the Academy's treasurer and arranged the paintings at its Salon exhibitions. When failing eyesight made oil painting hard, he turned to pastel, producing memorable late self-portraits in spectacles.",
+   "Chardin's still lifes of copper pots, bread, fruit and game are painted with a thick, granular, almost tactile paint and soft harmonies of colour that give humble objects great dignity. The philosopher Diderot praised his work as magic in his Salon reviews. Chardin was admired as a counterweight to the frivolity of the Rococo, and he later inspired Cézanne, Morandi and many still-life painters."
+  ]
+ },
+ {
+  "id": "boucher",
+  "name": "François Boucher",
+  "born": "1703",
+  "died": "1770",
+  "birthplace": "Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "rococo"
+  ],
+  "bio": "The favourite painter of Madame de Pompadour and first painter to Louis XV, the embodiment of Rococo decoration and pastoral fantasy.",
+  "bio_full": [
+   "François Boucher was born in Paris and trained with François Lemoyne. He made his name engraving Watteau's drawings and won the Prix de Rome, studying in Italy from 1727 to 1731. Back in Paris he rose rapidly at court. He designed tapestries for the Beauvais and Gobelins manufactories, becoming director of the Gobelins in 1755, as well as stage sets, porcelain and book illustrations. In 1765 he became First Painter to King Louis XV. His most important patron was Madame de Pompadour, the king's mistress, whose portraits he painted several times and whom he reportedly taught to etch.",
+   "Boucher embodied the Rococo: pastel-coloured mythologies of Venus and her nymphs, pastoral scenes of shepherds and shepherdesses, and frankly erotic nudes, painted with brilliant decorative fluency. His prodigious output decorated palaces across Europe. Critics like Diderot attacked him as artificial and immoral, and his reputation fell with the rise of Neoclassicism. His pupil Fragonard carried his style into the next generation."
+  ]
+ },
+ {
+  "id": "gainsborough",
+  "name": "Thomas Gainsborough",
+  "born": "1727",
+  "died": "1788",
+  "birthplace": "Sudbury, Suffolk, England",
+  "deathplace": "London",
+  "nationality": "British",
+  "movements": [
+   "rococo"
+  ],
+  "bio": "A leading British portrait and landscape painter and founder member of the Royal Academy, with a light, feathery touch.",
+  "bio_full": [
+   "Thomas Gainsborough was born in Sudbury, Suffolk. He went to London at about 13 and trained with the French engraver Hubert Gravelot. He returned to Suffolk, painting portraits and landscapes in Sudbury and Ipswich, then moved in 1759 to the fashionable spa town of Bath, where he became a successful society portraitist. In 1768 he was a founder member of the Royal Academy. He settled in London in 1774, where he was patronised by George III and Queen Charlotte, competing with Sir Joshua Reynolds as the leading portraitist of the age.",
+   "Gainsborough said he painted portraits for money and landscapes for love. His portraits are elegant and informal, painted with light, feathery strokes and silvery colour, and often set in landscape settings inspired by Van Dyck. His landscapes and 'fancy pictures' of rustic children helped found the English landscape tradition that led to Constable."
+  ]
+ },
+ {
+  "id": "fuseli",
+  "name": "Henry Fuseli",
+  "born": "1741",
+  "died": "1825",
+  "birthplace": "Zürich",
+  "deathplace": "London",
+  "nationality": "Swiss-British",
+  "movements": [
+   "romanticism"
+  ],
+  "bio": "A Swiss-born painter in London who specialised in the supernatural, dreams and dramatic literary scenes.",
+  "bio_full": [
+   "Johann Heinrich Füssli was born in Zürich, the son of a painter and writer, and was ordained as a Zwinglian minister. In 1762 he had to leave Switzerland after helping to expose a corrupt magistrate. He settled in London, where Sir Joshua Reynolds encouraged him to become a painter. He spent 1770–78 in Rome studying Michelangelo, then returned to London, anglicised his name to Henry Fuseli and became one of the most original artists of the Royal Academy, eventually its Professor of Painting and Keeper. He was a friend of William Blake and of the philosopher Mary Wollstonecraft.",
+   "Fuseli painted dramatic, sometimes violent and erotic scenes from Shakespeare, Milton, Dante and Germanic legend, as well as dreams and the supernatural. His figures are muscular, contorted and theatrically lit. He projected a Milton Gallery and contributed to John Boydell's Shakespeare Gallery. His fascination with the irrational and the subconscious makes him a forerunner of Romanticism and Symbolism."
+  ]
+ },
+ {
+  "id": "blake",
+  "name": "William Blake",
+  "born": "1757",
+  "died": "1827",
+  "birthplace": "London",
+  "deathplace": "London",
+  "nationality": "British",
+  "movements": [
+   "romanticism"
+  ],
+  "bio": "Poet, painter and printmaker who invented relief etching to combine his own text and images into visionary illuminated books.",
+  "bio_full": [
+   "William Blake was born in London, the son of a hosier, and was apprenticed to the engraver James Basire, for whom he drew the tombs of Westminster Abbey. He studied briefly at the Royal Academy Schools, married Catherine Boucher (whom he taught to read and who helped him print and colour his books), and earned a modest living as an engraver. In 1788 he developed 'relief etching', which he said had been revealed to him in a vision by his dead brother Robert. With it he printed text and image together in illuminated books such as Songs of Innocence and of Experience (1789–94) and his prophetic books. In 1804 he was tried for sedition after a dispute with a soldier and acquitted. He died in London in 1827.",
+   "Blake created a private mythology of figures such as Urizen, Los and Orc to explore reason, imagination, tyranny, religion and revolution. He worked in watercolour, tempera, engraving and colour printing, with sinuous lines and muscular figures influenced by Michelangelo and medieval art. He was little known and often thought mad in his lifetime. The Pre-Raphaelites rediscovered him, and he is now celebrated as one of England's greatest poets and visionary artists. His lyric 'And did those feet in ancient time' became the hymn Jerusalem."
+  ]
+ },
+ {
+  "id": "bonheur",
+  "name": "Rosa Bonheur",
+  "born": "1822",
+  "died": "1899",
+  "birthplace": "Bordeaux",
+  "deathplace": "Thomery",
+  "nationality": "French",
+  "movements": [
+   "realism"
+  ],
+  "bio": "The most famous woman painter of the 19th century, celebrated for animal paintings based on close study. She was the first woman artist awarded the Legion of Honour.",
+  "bio_full": [
+   "Rosa Bonheur was born in Bordeaux, the daughter of the painter and drawing teacher Raymond Bonheur, a follower of the utopian Saint-Simonian movement. He encouraged her to train as an artist. To study animal anatomy she visited slaughterhouses, horse fairs and veterinary schools, and she obtained a police permit allowing her to wear trousers for this work. She won a gold medal at the Salon in 1848, and Ploughing in the Nivernais (1849) and The Horse Fair made her internationally famous, especially in Britain and the United States. In 1865 Empress Eugénie presented her with the Legion of Honour, the first time it was given to a woman artist.",
+   "Bonheur lived for decades with her partner Nathalie Micas, and later with the American painter Anna Klumpke, at the Château de By near Fontainebleau, where she kept a menagerie including lions, deer and horses. Her animal paintings combine scientific accuracy with energy and grandeur. She was the most successful woman artist of the 19th century and has become an icon of independence and of lesbian history."
+  ]
+ },
+ {
+  "id": "millais",
+  "name": "John Everett Millais",
+  "born": "1829",
+  "died": "1896",
+  "birthplace": "Southampton, England",
+  "deathplace": "London",
+  "nationality": "British",
+  "movements": [
+   "pre-raphaelites"
+  ],
+  "bio": "A child prodigy and co-founder of the Pre-Raphaelite Brotherhood who later became President of the Royal Academy.",
+  "bio_full": [
+   "John Everett Millais was a child prodigy: at 11 he became the youngest student ever admitted to the Royal Academy Schools. In 1848, with William Holman Hunt and Dante Gabriel Rossetti, he founded the Pre-Raphaelite Brotherhood. His Christ in the House of His Parents (1850) was attacked by Charles Dickens for its unidealised realism, but the critic John Ruskin defended the group. In 1855 he married Effie Gray, whose marriage to Ruskin had been annulled. In later life he became a hugely successful painter of portraits, landscapes and sentimental subjects. His painting Bubbles was famously used to advertise Pears soap. He was made a baronet and in 1896 became President of the Royal Academy, shortly before his death.",
+   "Millais's early Pre-Raphaelite work is distinguished by brilliant, jewel-like colour on a white ground, minute botanical accuracy painted outdoors from nature, and intense emotional storytelling. His later broader, looser style made him one of the richest artists of the Victorian age."
+  ]
+ },
+ {
+  "id": "rossetti",
+  "name": "Dante Gabriel Rossetti",
+  "born": "1828",
+  "died": "1882",
+  "birthplace": "London",
+  "deathplace": "Birchington-on-Sea, England",
+  "nationality": "British",
+  "movements": [
+   "pre-raphaelites"
+  ],
+  "bio": "Poet and painter, co-founder of the Pre-Raphaelites, whose later images of brooding women shaped Aestheticism and Symbolism.",
+  "bio_full": [
+   "Dante Gabriel Rossetti was born in London, the son of Gabriele Rossetti, an Italian political exile and Dante scholar. His sister was the poet Christina Rossetti. In 1848 he co-founded the Pre-Raphaelite Brotherhood with Millais and Hunt. He was as much a poet as a painter and also made translations from early Italian poetry. In 1860 he married his model Elizabeth Siddal, who died of a laudanum overdose in 1862. Grief-stricken, he buried a manuscript of his poems with her, and later had it recovered from her grave. From the 1860s his principal muse was Jane Morris, wife of his friend William Morris, with whom he shared Kelmscott Manor. He became dependent on chloral and died in 1882.",
+   "Rossetti's early works are medieval scenes in bright, flat colour. From the 1860s he painted mostly sensuous half-length images of women with abundant hair, full lips and strong necks, surrounded by flowers and symbolic objects, often paired with his own sonnets. These became the defining images of Aestheticism and influenced the Symbolists and Art Nouveau."
+  ]
+ },
+ {
+  "id": "whistler",
+  "name": "James McNeill Whistler",
+  "born": "1834",
+  "died": "1903",
+  "birthplace": "Lowell, Massachusetts",
+  "deathplace": "London",
+  "nationality": "American",
+  "movements": [
+   "realism"
+  ],
+  "bio": "An American based in London and Paris who championed 'art for art's sake', titling his paintings like musical compositions.",
+  "bio_full": [
+   "James Abbott McNeill Whistler was born in Lowell, Massachusetts, and spent part of his childhood in St Petersburg, where his father worked as a railway engineer for the tsar. He was dismissed from the West Point military academy, worked briefly as a map engraver, and in 1855 went to Paris to study art, never returning to America. He settled in London in 1859. His Symphony in White, No. 1 was a sensation at the Paris Salon des Refusés in 1863. In 1877 the critic John Ruskin accused him of 'flinging a pot of paint in the public's face' with a painted Nocturne. Whistler sued for libel and won, but the damages were a single farthing, and the legal costs bankrupted him in 1879.",
+   "Whistler believed in 'art for art's sake': a painting should be an arrangement of colours and forms, like music, rather than a story or moral lesson. So he titled works Symphonies, Harmonies, Arrangements and Nocturnes. He was influenced by Japanese prints, was a superb etcher (above all of Venice), designed the Peacock Room (now in the Freer Gallery, Washington), and was a witty, combative public figure who signed with a butterfly monogram."
+  ]
+ },
+ {
+  "id": "sargent",
+  "name": "John Singer Sargent",
+  "born": "1856",
+  "died": "1925",
+  "birthplace": "Florence",
+  "deathplace": "London",
+  "nationality": "American",
+  "movements": [
+   "realism"
+  ],
+  "bio": "The leading society portraitist of his era, known for dazzling, fluent brushwork.",
+  "bio_full": [
+   "John Singer Sargent was born in Florence to American expatriate parents and grew up travelling around Europe. He trained in Paris from 1874 with the portraitist Carolus-Duran and made his name at the Salon with portraits and the Spanish dance scene El Jaleo. The scandal over Madame X in 1884 prompted him to move to London, where he painted Carnation, Lily, Lily, Rose (Tate) and became the most fashionable portraitist on both sides of the Atlantic. Around 1907 he largely gave up formal portraiture in favour of landscapes, watercolours and murals for the Boston Public Library and Museum of Fine Arts. As an official war artist in the First World War, he painted the monumental Gassed (Imperial War Museum).",
+   "Sargent's brushwork is fluent, bold and economical, influenced by Velázquez and Hals. He captured the glamour and nervous elegance of the Edwardian elite, as well as sparkling light in his watercolours of Venice, the Alps and the Middle East. He produced around 900 oil paintings and more than 2,000 watercolours."
+  ]
+ },
+ {
+  "id": "pissarro",
+  "name": "Camille Pissarro",
+  "born": "1830",
+  "died": "1903",
+  "birthplace": "Charlotte Amalie, St Thomas (Danish West Indies)",
+  "deathplace": "Paris",
+  "nationality": "Danish-French",
+  "movements": [
+   "impressionism"
+  ],
+  "bio": "The only artist to exhibit in all eight Impressionist exhibitions and a generous mentor to Cézanne and Gauguin.",
+  "bio_full": [
+   "Camille Pissarro was born on the Caribbean island of St Thomas, then a Danish colony, to a Sephardic Jewish family of French and Portuguese origin. After working in the family store he moved to Paris in 1855, where he was influenced by Corot. During the Franco-Prussian War of 1870–71 he took refuge in London, studied Constable and Turner, and met the dealer Paul Durand-Ruel. The Prussian army occupied his house in Louveciennes and destroyed many of his paintings. Back in France he lived in Pontoise, where he painted side by side with Cézanne, and later in Éragny. He was the only artist to show at all eight Impressionist exhibitions.",
+   "Pissarro was the patriarch and teacher of Impressionism: generous, open-minded and politically committed to anarchism. He mentored Cézanne, Gauguin and others. He painted rural landscapes, markets and peasants, and from 1885 to 1890 he experimented with the dot technique of Seurat's Neo-Impressionism. In his last years an eye infection forced him to work indoors, and he painted series of Paris, Rouen and Le Havre from hotel windows. His sons, including Lucien, also became painters."
+  ]
+ },
+ {
+  "id": "cassatt",
+  "name": "Mary Cassatt",
+  "born": "1844",
+  "died": "1926",
+  "birthplace": "Allegheny City (Pittsburgh), Pennsylvania",
+  "deathplace": "Le Mesnil-Théribus, France",
+  "nationality": "American",
+  "movements": [
+   "impressionism"
+  ],
+  "bio": "An American in Paris invited by Degas to join the Impressionists, best known for intimate scenes of women and children.",
+  "bio_full": [
+   "Mary Cassatt was born near Pittsburgh into a wealthy family, studied at the Pennsylvania Academy of the Fine Arts and moved to Europe in 1866, eventually settling in Paris. After several Salon successes, Degas invited her in 1877 to exhibit with the Impressionists, and she showed with them four times. She was profoundly influenced by a 1890 exhibition of Japanese prints and produced a celebrated series of colour prints combining drypoint and aquatint. In 1893 she painted a large mural, Modern Woman, for the Woman's Building at the Chicago World's Fair, which is now lost. She advised American collectors, especially Louisine and Henry Havemeyer, whose collection went to the Metropolitan Museum. Her eyesight failed from about 1914, and she died in France in 1926.",
+   "Cassatt is best known for intimate scenes of women's daily lives: reading, taking tea, dressing, and above all caring for children. She depicted the bond between mother and child without sentimentality. She was a supporter of women's suffrage and the most important American member of the Impressionist movement."
+  ]
+ },
+ {
+  "id": "caillebotte",
+  "name": "Gustave Caillebotte",
+  "born": "1848",
+  "died": "1894",
+  "birthplace": "Paris",
+  "deathplace": "Gennevilliers",
+  "nationality": "French",
+  "movements": [
+   "impressionism"
+  ],
+  "bio": "A painter and wealthy patron of the Impressionists, known for steep perspectives of Haussmann's new Paris. He bequeathed his collection to the French state.",
+  "bio_full": [
+   "Gustave Caillebotte was born in Paris to a very wealthy family, earned a law degree and served in the Franco-Prussian War before studying painting with Léon Bonnat. After the Salon rejected The Floor Scrapers in 1875, he joined the Impressionists, exhibiting from 1876, and became a key organiser and financial backer of their shows. He also bought many of their paintings, sometimes to support struggling friends. He was a passionate yachtsman and boat designer, a stamp collector with his brother Martial and a keen gardener at Petit-Gennevilliers. He died there in 1894, aged 45. He left his collection of Impressionist works to the French state, which after much controversy accepted part of it. It became the core of the Musée d'Orsay's Impressionist collection.",
+   "Caillebotte's own painting combines Impressionist light with a more precise, realist approach. He was fascinated by the new Paris of Baron Haussmann's boulevards, steep plunging perspectives, views from balconies and windows, and urban labourers and bourgeois men. Long seen mainly as a patron, he has been reassessed since the 1970s as a major painter."
+  ]
+ },
+ {
+  "id": "rousseau",
+  "name": "Henri Rousseau",
+  "born": "1844",
+  "died": "1910",
+  "birthplace": "Laval, France",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "post-impressionism"
+  ],
+  "bio": "A self-taught customs official ('Le Douanier') whose flat, dreamlike jungles were mocked at first and then embraced by the avant-garde.",
+  "bio_full": [
+   "Henri Rousseau was born in Laval in western France, the son of a tinsmith. After army service he worked for many years as a toll collector at the gates of Paris, which earned him the nickname 'Le Douanier' (the customs officer). He was entirely self-taught and began exhibiting at the Salon des Indépendants in 1886, where critics and the public mocked his work for decades. He retired in 1893 to paint full time, supporting himself by teaching and playing music. He never left France, and his famous jungles were drawn from visits to the Paris botanical gardens and zoo, illustrated magazines and his imagination. He died in Paris in 1910.",
+   "Rousseau's flat, meticulously detailed, dreamlike pictures, with lush vegetation, staring animals and naive perspective, were championed by avant-garde artists and poets. In 1908 Picasso and friends held a famous banquet in his honour at the Bateau-Lavoir studio, half in jest and half in homage. He became a hero of modernism and the best-known 'naive' painter, and he influenced the Surrealists."
+  ]
+ },
+ {
+  "id": "toulouse-lautrec",
+  "name": "Henri de Toulouse-Lautrec",
+  "born": "1864",
+  "died": "1901",
+  "birthplace": "Albi, France",
+  "deathplace": "Château Malromé, France",
+  "nationality": "French",
+  "movements": [
+   "post-impressionism"
+  ],
+  "bio": "The chronicler of Montmartre's cabarets, dance halls and brothels, whose bold posters transformed graphic design.",
+  "bio_full": [
+   "Henri de Toulouse-Lautrec was born in Albi into an ancient aristocratic family. His parents were first cousins, and he probably had a congenital bone disorder. After breaking both thigh bones in his early teens, his legs stopped growing, and he reached an adult height of about 1.5 metres. He studied painting in Paris with Léon Bonnat and Fernand Cormon, where he met Van Gogh and Émile Bernard, and he settled in Montmartre. His poster Moulin Rouge – La Goulue (1891) made him famous overnight. He spent his nights in cabarets, dance halls, circuses and brothels. Alcoholism ruined his health, and after a stay in a sanatorium in 1899 he died in 1901, aged 36, at his mother's château.",
+   "Toulouse-Lautrec captured the performers and customers of Montmartre's nightlife, including Jane Avril, Aristide Bruant, Yvette Guilbert and La Goulue, with sharp, economical line, bold colour and a sympathetic but unflinching eye. His lithographic posters, influenced by Japanese prints and Degas, revolutionised graphic design and advertising. The Musée Toulouse-Lautrec in Albi holds the world's largest collection of his work."
+  ]
+ },
+ {
+  "id": "schiele",
+  "name": "Egon Schiele",
+  "born": "1890",
+  "died": "1918",
+  "birthplace": "Tulln an der Donau, Austria",
+  "deathplace": "Vienna",
+  "nationality": "Austrian",
+  "movements": [
+   "fauvism-expressionism"
+  ],
+  "bio": "A protégé of Klimt whose angular, raw self-portraits and nudes are central to Austrian Expressionism. He died at 28 in the 1918 flu pandemic.",
+  "bio_full": [
+   "Egon Schiele was born in Tulln on the Danube, where his father was stationmaster. His father died when Egon was 14. He entered the Vienna Academy of Fine Arts at 16 but left after three years, rebelling against its conservatism. Gustav Klimt became his mentor and supporter. With his companion and model Wally Neuzil he moved to the small town of Neulengbach, where in 1912 he was arrested and briefly imprisoned. Most charges were dropped, but he was convicted for exhibiting erotic drawings where children could see them. In 1915 he married Edith Harms and was called up for military service. His exhibition at the Vienna Secession in 1918 was a great success, but that autumn Edith, six months pregnant, died of influenza, and Schiele died three days later, aged 28.",
+   "Schiele's art is defined by its nervous, angular line and its raw, often contorted and sexual images of the human body, including dozens of unsparing self-portraits. He also painted townscapes and landscapes. He is a central figure of Austrian Expressionism, and the Leopold Museum in Vienna has the world's largest collection of his work."
+  ]
+ },
+ {
+  "id": "kirchner",
+  "name": "Ernst Ludwig Kirchner",
+  "born": "1880",
+  "died": "1938",
+  "birthplace": "Aschaffenburg, Germany",
+  "deathplace": "Frauenkirch, near Davos, Switzerland",
+  "nationality": "German",
+  "movements": [
+   "fauvism-expressionism"
+  ],
+  "bio": "A founder of Die Brücke in Dresden, whose jagged forms and clashing colours express the tension of the modern city.",
+  "bio_full": [
+   "Ernst Ludwig Kirchner was born in Aschaffenburg in Bavaria and studied architecture in Dresden. In 1905, with fellow architecture students Erich Heckel, Karl Schmidt-Rottluff and Fritz Bleyl, he founded the artists' group Die Brücke ('The Bridge'), aiming to build a bridge to the future. They painted nudes in the studio and outdoors at the Moritzburg lakes, and they revived woodcut as a raw, expressive medium. In 1911 he moved to Berlin, where he painted his famous street scenes of prostitutes and passers-by. Drafted in the First World War, he suffered a breakdown and moved to Switzerland in 1917, settling near Davos, where he painted the mountains and their farmers. In 1937 the Nazis declared him 'degenerate' and removed over 600 of his works from German museums. He took his own life in 1938.",
+   "Kirchner's art, with its jagged forms, flattened space, clashing non-naturalistic colours and influences from African and Oceanic art and German Gothic woodcuts, expresses the excitement, alienation and nervous tension of modern life. He is one of the leading figures of German Expressionism."
+  ]
+ },
+ {
+  "id": "marc",
+  "name": "Franz Marc",
+  "born": "1880",
+  "died": "1916",
+  "birthplace": "Munich",
+  "deathplace": "near Verdun, France",
+  "nationality": "German",
+  "movements": [
+   "fauvism-expressionism"
+  ],
+  "bio": "Co-founder of Der Blaue Reiter who painted animals in symbolic colours. He was killed in the First World War.",
+  "bio_full": [
+   "Franz Marc was born in Munich, the son of a painter. After studying theology and then art at the Munich Academy, he visited Paris and was deeply affected by Van Gogh and the Impressionists. He studied animal anatomy in depth. His friendships with August Macke and Wassily Kandinsky led to the founding of the Blue Rider (Der Blaue Reiter) in 1911, and they published an influential almanac in 1912. Marc volunteered for the army in 1914 and was killed by a shell splinter at Verdun on 4 March 1916, aged 36.",
+   "Marc believed animals were purer and closer to nature and the spiritual than humans. He painted horses, deer, cows, tigers and foxes in symbolic colours: in his system blue stood for the masculine and spiritual, yellow for the feminine and gentle, and red for brutal matter. Under the influence of Cubism and Futurism his late works, such as The Fate of the Animals (1913), move towards abstraction."
+  ]
+ },
+ {
+  "id": "klee",
+  "name": "Paul Klee",
+  "born": "1879",
+  "died": "1940",
+  "birthplace": "Münchenbuchsee, Switzerland",
+  "deathplace": "Muralto, Switzerland",
+  "nationality": "Swiss-German",
+  "movements": [
+   "fauvism-expressionism",
+   "abstraction"
+  ],
+  "bio": "A Bauhaus teacher whose witty, musical and childlike images explore colour, line and imagination.",
+  "bio_full": [
+   "Paul Klee was born at Münchenbuchsee near Bern to a musical family and was himself an accomplished violinist. He studied art in Munich, associated with the Blue Rider group, and in 1914 travelled to Tunisia with August Macke and Louis Moilliet. There he had a revelation about colour, writing in his diary that colour and he were now one, and that he was a painter. He taught at the Bauhaus from 1921 to 1931 and then at the Düsseldorf Academy, until the Nazis dismissed him in 1933. He returned to Bern, and more than 100 of his works were seized from German museums as 'degenerate'. Despite a serious illness from 1935 he was extraordinarily productive in his last years. He died in 1940.",
+   "Klee produced around 10,000 works of great variety: drawings, watercolours, oils and puppets. He combined childlike simplicity, irony, music, poetry, writing and signs, colour theory and fantasy. His teaching notes are among the most important texts on modern art. The Zentrum Paul Klee in Bern holds the largest collection of his work."
+  ]
+ },
+ {
+  "id": "modigliani",
+  "name": "Amedeo Modigliani",
+  "born": "1884",
+  "died": "1920",
+  "birthplace": "Livorno, Italy",
+  "deathplace": "Paris",
+  "nationality": "Italian",
+  "movements": [
+   "fauvism-expressionism"
+  ],
+  "bio": "A Paris-based painter and sculptor whose elongated faces and nudes draw on African and archaic sculpture. He died at 35.",
+  "bio_full": [
+   "Amedeo Modigliani was born in Livorno, Italy, to a Sephardic Jewish family. Often ill with tuberculosis as a youth, he studied art in Florence and Venice and moved to Paris in 1906, living first in Montmartre and then in Montparnasse. Under the influence of Brâncuși and African and archaic sculpture, he devoted himself to carving stone heads between about 1909 and 1914, but the dust and cost forced him back to painting. He painted portraits of his friends, including Chaim Soutine, Juan Gris, Jean Cocteau and his dealer Léopold Zborowski, and of his companion Jeanne Hébuterne. His only solo exhibition in his lifetime, at the Berthe Weill gallery in 1917, was closed by the police on opening day because of its nudes. Weakened by poverty, alcohol and drugs, he died of tubercular meningitis in Paris in January 1920, aged 35.",
+   "Modigliani's style is instantly recognisable: elongated faces and necks, almond-shaped eyes often left blank, simplified, sculptural forms, warm colour and flowing outlines. His legend of bohemian poverty and early death has made him a symbol of the Paris art world, and his paintings are now among the most expensive in the world."
+  ]
+ },
+ {
+  "id": "boccioni",
+  "name": "Umberto Boccioni",
+  "born": "1882",
+  "died": "1916",
+  "birthplace": "Reggio Calabria, Italy",
+  "deathplace": "Verona",
+  "nationality": "Italian",
+  "movements": [
+   "futurism"
+  ],
+  "bio": "The leading painter and sculptor of Futurism, who sought to represent movement and dynamism. He died after a fall from a horse during military training.",
+  "bio_full": [
+   "Umberto Boccioni was born in Reggio Calabria and grew up in various parts of Italy. In Rome he studied with the Divisionist painter Giacomo Balla. In 1909 the poet Filippo Tommaso Marinetti published the Futurist Manifesto in Le Figaro, praising speed, machines, violence and modernity. The next year Boccioni co-signed the Manifesto of Futurist Painters and became the movement's leading artist, with paintings such as The City Rises (1910) and the series States of Mind. In 1912 he wrote a technical manifesto of Futurist sculpture. A fervent supporter of Italy's entry into the First World War, he volunteered in 1915 and died in 1916 after falling from a horse during cavalry training near Verona, aged 33.",
+   "Boccioni tried to show movement, energy and the fusion of objects with their surroundings, which he called 'dynamism' and 'lines of force'. He drew on Cubist fragmentation and Divisionist colour. His sculpture, in particular, broke down the boundary between figure and space. The Futurists' glorification of war and the movement's later links with Fascism complicate their legacy."
+  ]
+ },
+ {
+  "id": "malevich",
+  "name": "Kazimir Malevich",
+  "born": "1879",
+  "died": "1935",
+  "birthplace": "Kyiv, Russian Empire",
+  "deathplace": "Leningrad",
+  "nationality": "Ukrainian-Russian",
+  "movements": [
+   "abstraction"
+  ],
+  "bio": "The founder of Suprematism, an abstraction of pure geometric form and 'the supremacy of pure feeling'.",
+  "bio_full": [
+   "Kazimir Malevich was born near Kyiv to a Polish family and grew up in rural Ukraine before moving to Moscow in 1904. He passed rapidly through Impressionism, Symbolism and a Russian 'Cubo-Futurism'. In 1913 he designed the costumes and sets for the Futurist opera Victory over the Sun, including a curtain with a black and white square. At the exhibition 0,10 in Petrograd in December 1915 he unveiled Suprematism, an art of pure geometric forms, with the Black Square as its emblem. After the Revolution he taught in Vitebsk, where he founded the UNOVIS group, and later in Petrograd. Under Stalin's regime he was attacked as a formalist and briefly arrested in 1930. In his last years he returned to stylised figure painting. He died in Leningrad in 1935, and a black square was painted on his coffin.",
+   "Malevich sought the 'supremacy of pure feeling' in art, free from the depiction of objects. His White on White (1918) took this further than anyone at the time. He was a major influence on Constructivism, the Bauhaus and later Minimalism. In recent years there has been growing emphasis on his Ukrainian roots."
+  ]
+ },
+ {
+  "id": "brancusi",
+  "name": "Constantin Brâncuși",
+  "born": "1876",
+  "died": "1957",
+  "birthplace": "Hobița, Romania",
+  "deathplace": "Paris",
+  "nationality": "Romanian-French",
+  "movements": [
+   "abstraction"
+  ],
+  "bio": "A pioneer of modern sculpture who reduced forms to their pure essence in polished bronze, marble and carved wood.",
+  "bio_full": [
+   "Constantin Brâncuși was born into a peasant family in the village of Hobița in Romania. He worked as a shepherd and a shop boy as a child, studied at the school of arts and crafts in Craiova and the Bucharest School of Fine Arts, and then made his way to Paris in 1904, partly on foot. He worked briefly as an assistant in Rodin's studio in 1907 but left after a short time, reportedly saying that nothing grows in the shadow of great trees. He spent the rest of his life in Paris. His ensemble at Târgu Jiu in Romania, including the Endless Column (1938), is a memorial to Romanian soldiers of the First World War. He bequeathed his studio and its contents to the French state, and it has been reconstructed beside the Centre Pompidou.",
+   "Brâncuși carved directly in stone and wood and refined his forms in polished bronze. Rejecting the expressive modelling of Rodin, he pursued the simplified essence of his subjects in a few recurring themes: The Kiss, the Sleeping Muse, the head, the bird and the column. His pure, abstract forms and his treatment of bases as part of the sculpture make him one of the founders of modern sculpture and a forerunner of Minimalism."
+  ]
+ },
+ {
+  "id": "okeeffe",
+  "name": "Georgia O'Keeffe",
+  "born": "1887",
+  "died": "1986",
+  "birthplace": "Sun Prairie, Wisconsin",
+  "deathplace": "Santa Fe, New Mexico",
+  "nationality": "American",
+  "movements": [
+   "american-modernism"
+  ],
+  "bio": "A key figure of American modernism, known for magnified flowers, New York skyscrapers and New Mexico landscapes.",
+  "bio_full": [
+   "Georgia O'Keeffe was born on a farm near Sun Prairie, Wisconsin. She studied at the Art Institute of Chicago and the Art Students League in New York, and she worked as an art teacher in Texas and elsewhere. The ideas of Arthur Wesley Dow led her in 1915 to a series of radical charcoal abstractions, which the photographer and gallery owner Alfred Stieglitz exhibited in 1916. They married in 1924, and Stieglitz photographed her in hundreds of portraits. In the 1920s she painted her famous magnified flowers and New York skyscrapers. From 1929 she spent much of each year in New Mexico, moving there permanently after Stieglitz's death in 1946 and living at Ghost Ranch and Abiquiú. Macular degeneration largely ended her painting in the 1970s. She died in Santa Fe in 1986, aged 98.",
+   "O'Keeffe is one of the founding figures of American modernism. Her close-up flowers, bleached animal bones and desert landscapes are painted with smooth surfaces, bold colour and a strong sense of abstraction. She firmly rejected the Freudian interpretations critics imposed on her flowers. The Georgia O'Keeffe Museum in Santa Fe opened in 1997."
+  ]
+ },
+ {
+  "id": "grant-wood",
+  "name": "Grant Wood",
+  "born": "1891",
+  "died": "1942",
+  "birthplace": "near Anamosa, Iowa",
+  "deathplace": "Iowa City, Iowa",
+  "nationality": "American",
+  "movements": [
+   "american-modernism"
+  ],
+  "bio": "A leader of Regionalism who painted the rural Midwest in a crisp style inspired by Northern Renaissance painting.",
+  "bio_full": [
+   "Grant Wood was born on a farm near Anamosa, Iowa, and grew up in Cedar Rapids after his father's death. He trained in crafts and design, taught art in the Cedar Rapids public schools, and made several trips to Europe in the 1920s. On a 1928 trip to Munich, to supervise the making of a stained-glass window, he was impressed by the clarity and detail of early Flemish and German painting. Back in Iowa, he developed his mature style and became, with Thomas Hart Benton and John Steuart Curry, one of the leaders of Regionalism, which celebrated rural Midwestern America. He founded an artists' colony at Stone City and taught at the University of Iowa. He died in 1942.",
+   "Wood's paintings, with their crisp outlines, smooth surfaces and stylised, rounded landscapes, depict the farms, people and legends of the Midwest. Whether his work is affectionate tribute, gentle satire or both remains a matter of debate. American Gothic made him famous overnight."
+  ]
+ },
+ {
+  "id": "de-kooning",
+  "name": "Willem de Kooning",
+  "born": "1904",
+  "died": "1997",
+  "birthplace": "Rotterdam, Netherlands",
+  "deathplace": "East Hampton, New York",
+  "nationality": "Dutch-American",
+  "movements": [
+   "abstract-expressionism"
+  ],
+  "bio": "A leading gestural Abstract Expressionist whose violent, energetic brushwork never fully abandoned the figure.",
+  "bio_full": [
+   "Willem de Kooning was born in Rotterdam and apprenticed at 12 to a firm of commercial artists and decorators while studying at night at the Rotterdam Academy. In 1926 he stowed away on a ship to the United States. He worked as a house painter and commercial artist and, during the Depression, for the Federal Art Project, and he formed a close friendship with Arshile Gorky. He married the painter Elaine Fried in 1943. His first solo exhibition, of black-and-white abstractions, was in 1948. The Woman series of the early 1950s caused a sensation. He moved permanently to Springs, East Hampton, in 1963. In his last years he developed Alzheimer's disease, and the late works he made in this period remain debated. He died in 1997.",
+   "De Kooning was a leading gestural Abstract Expressionist, but unlike Pollock he never fully abandoned the figure. His paintings are built from slashing, sweeping brushstrokes, layers of paint scraped and reworked, and a constant tension between abstraction and figuration, especially in his images of women and landscapes. One of his paintings, Interchange (1955), reportedly sold privately in 2015 for around $300 million."
+  ]
+ },
+ {
+  "id": "basquiat",
+  "name": "Jean-Michel Basquiat",
+  "born": "1960",
+  "died": "1988",
+  "birthplace": "Brooklyn, New York",
+  "deathplace": "New York",
+  "nationality": "American",
+  "movements": [
+   "neo-expressionism"
+  ],
+  "bio": "Basquiat moved from street graffiti (as SAMO) to international fame, painting skulls, crowns, words and Black history. He died at 27.",
+  "bio_full": [
+   "Jean-Michel Basquiat was born in Brooklyn to a Haitian father and a mother of Puerto Rican descent, who took him to museums as a child. At about seven he was hit by a car, and during his recovery his mother gave him a copy of the anatomy textbook Gray's Anatomy, which influenced his later imagery. As a teenager he left home and, with his friend Al Diaz, wrote enigmatic graffiti in Lower Manhattan under the tag SAMO. He showed at the Times Square Show in 1980 and the New York/New Wave exhibition in 1981, and by 1982 he was showing internationally, including at Documenta 7, as one of the youngest artists ever invited. He collaborated with Andy Warhol in 1984–85. He died of a drug overdose in his studio in August 1988, aged 27.",
+   "In just under a decade Basquiat produced around 1,000 paintings and more than 1,000 drawings. They combine raw, energetic figuration, skulls, crowns, words, lists, diagrams and cross-outs. They draw on African American and Caribbean history, jazz, comics, anatomy and art history, and confront racism, power and identity. In 2017 one of his skull paintings of 1982 sold at auction for $110.5 million, then a record for an American artist."
+  ]
+ }
+]

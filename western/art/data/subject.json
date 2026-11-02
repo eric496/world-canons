@@ -1,0 +1,17 @@
+{
+ "title": "Art",
+ "order": 1,
+ "tagline": "Painting and sculpture from the Parthenon to Pop Art",
+ "hero_file": "Michelangelo - Creation of Adam (cropped).jpg",
+ "hero_caption": "Michelangelo, The Creation of Adam (detail), Sistine Chapel, c. 1512",
+ "labels": {
+  "creator": "Artist",
+  "creators": "Artists",
+  "work": "Artwork",
+  "works": "Artworks",
+  "movement": "Movement",
+  "movements": "Movements",
+  "location": "Where to see it"
+ },
+ "intro": "Western art from ancient Greek sculpture to the 1980s, built around the artworks and the people who made them. Every artist has a full biography and every work a detailed introduction. Public-domain works are shown in high resolution from Wikimedia Commons; works still under copyright link to the official museum page."
+}

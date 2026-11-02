@@ -1,0 +1,18 @@
+[
+ {"id": "antiquity", "name": "Classical Antiquity", "dates": "c. 800 BC – AD 500", "start": -800, "end": 500,
+  "summary": "Greece and Rome lay the foundations: epic and tragedy, philosophy, geometry, history writing, the classical orders of architecture and the idealised human figure, followed by the spread of Christianity across the Roman world."},
+ {"id": "middle-ages", "name": "The Middle Ages", "dates": "c. 500 – 1400", "start": 500, "end": 1400,
+  "summary": "After the fall of the Western Roman Empire, monasteries, cathedrals and universities carry learning forward. Romanesque and Gothic building, scholastic philosophy, Byzantine and Islamic scholarship, chant and polyphony, Dante and the first vernacular literatures."},
+ {"id": "renaissance", "name": "The Renaissance", "dates": "c. 1400 – 1600", "start": 1400, "end": 1600,
+  "summary": "A rebirth of classical learning that begins in Italy: perspective and the new art, humanism, the printing press, voyages of exploration, the Reformation, Shakespeare and the first steps of modern science."},
+ {"id": "seventeenth-century", "name": "Baroque & the Scientific Revolution", "dates": "c. 1600 – 1700", "start": 1600, "end": 1700,
+  "summary": "Drama and splendour in art, architecture and music; Galileo, Kepler and Newton remake the cosmos; Descartes, Spinoza and Locke remake philosophy; religious wars give way to new ideas of the state."},
+ {"id": "enlightenment", "name": "The Enlightenment", "dates": "c. 1700 – 1800", "start": 1700, "end": 1800,
+  "summary": "Reason, toleration and progress: the Encyclopédie, Newtonian science, Bach to Mozart, the novel, Neoclassicism, and the American and French Revolutions."},
+ {"id": "nineteenth-century", "name": "Romanticism to the Fin de Siècle", "dates": "c. 1800 – 1900", "start": 1800, "end": 1900,
+  "summary": "Industry, nation-states and empire; Romanticism, Realism and Impressionism; Beethoven to Wagner; the great novels; Darwin, Marx and the birth of the social sciences."},
+ {"id": "modern", "name": "Modernism", "dates": "c. 1900 – 1945", "start": 1900, "end": 1945,
+  "summary": "Relativity and quantum physics, Freud, two world wars; modernism breaks with tradition in art, music, architecture and literature: Cubism, atonality, the Bauhaus, Joyce and Woolf."},
+ {"id": "contemporary", "name": "Since 1945", "dates": "1945 – present", "start": 1945, "end": 2100,
+  "summary": "The Cold War, decolonisation, the computer and the double helix; Abstract Expressionism to Pop and beyond; existentialism, postmodernism and globalisation."}
+]
