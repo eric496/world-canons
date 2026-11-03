@@ -1,0 +1,9 @@
+## Notes on this section
+
+**Notation.** East Asian music was written down in many systems, none of them a full score in the Western sense. The Chinese qin uses tablature, which records strings, finger positions and techniques but not rhythm, so players must reconstruct (*dapu*) old pieces; the earliest score, *Solitary Orchid*, even spells out each movement in words. Tang and Song musicians used pitch-character notations such as *gongche* and the "popular notation" of Jiang Kui's songs. Korea's *jeongganbo*, devised at King Sejong's court, was the first East Asian system to show exact duration, with one square per beat. Japanese gagaku, koto and shakuhachi music have their own tablatures, and Noh chant is marked with neumes beside the text.
+
+**Oral transmission.** Notation was usually an aid to memory, not a substitute for a teacher. Gagaku players learn by singing mnemonic syllables (*shōga*); pansori singers, Noh actors and Peking opera performers learn whole roles from a master, and each lineage keeps its own version. A "work" in this section is often a living tradition, which is why many entries are credited to collective creators such as *pansori-singers* or *guqin-masters*.
+
+**Dates.** Traditional pieces are dated in two ways: by legend or first mention, and by their earliest surviving source. Where these differ the year field gives both (for example "legend c. 5th century BC; score 1425"). Music that has passed through centuries of performance, such as gagaku pieces of Tang origin, has changed greatly and is much slower today than it was.
+
+**Shared people.** Playwrights whose plays are literature as well as theatre (Zeami, Chikamatsu, Tang Xianzu, Guan Hanqing) and the pansori singers appear here with the same ids as in the literature section; their texts are discussed there, and the music section concentrates on performance. Huizong appears also in the art section, and the Zeng bells under the Chinese bronze casters there.

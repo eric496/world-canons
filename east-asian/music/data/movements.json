@@ -1,0 +1,172 @@
+[
+ {
+  "id": "zhou-ritual-music",
+  "name": "Zhou ritual music & bell sets",
+  "name_native": "周代雅樂",
+  "dates": "c. 1046–221 BC",
+  "period": "early-dynasties",
+  "summary": "Under the Zhou kings music was part of ritual (li), and the Confucian classics treat 'rites and music' as the twin foundations of social order. Aristocratic courts played tuned sets of bronze bells and stone chimes, ranked by status, with zithers, mouth organs and drums. The bells from the tomb of Marquis Yi of Zeng show how sophisticated the theory of pitch had become by the fifth century BC.",
+  "image_file": "Bianqing from Marquis Yi's tomb.jpg",
+  "image_caption": "Stone chimes from the tomb of Marquis Yi of Zeng"
+ },
+ {
+  "id": "han-music-bureau",
+  "name": "Han Music Bureau & early song",
+  "name_native": "漢樂府",
+  "dates": "c. 120 BC – AD 589",
+  "period": "empire-formation",
+  "summary": "Emperor Wu of Han enlarged the Music Bureau (Yuefu), which collected folk songs and composed music for state sacrifices and banquets; its name became that of a whole genre of poetry. Through the Six Dynasties new instruments arrived from Central Asia, and literati poets wrote verses to be sung, though almost none of the melodies survive."
+ },
+ {
+  "id": "guqin-tradition",
+  "name": "The guqin tradition",
+  "name_native": "古琴",
+  "dates": "c. 500 BC – present",
+  "period": "empire-formation",
+  "summary": "The seven-string zither was the instrument of the Chinese scholar, played in private for self-cultivation rather than for an audience. Legends tie its repertory to Confucius, Boya and Ji Kang. Its tablature records finger positions and strokes but not rhythm, so each player must reconstruct ('dapu') a piece; about three thousand versions of some six hundred pieces survive in handbooks from the Ming onward."
+ },
+ {
+  "id": "tang-court-music",
+  "name": "Tang court music & Silk Road instruments",
+  "name_native": "唐代燕樂",
+  "dates": "618–907",
+  "period": "cosmopolitan-age",
+  "summary": "The Tang court maintained huge ensembles playing banquet music (yanyue) in ten official styles, several of them foreign, from Kucha, Bukhara, India and Korea. The pear-shaped pipa, the ruan and harps came along the Silk Road. Emperor Xuanzong trained musicians in the Pear Garden. Much of this repertory is lost in China but survives, much changed, in Japanese gagaku and in instruments preserved in the Shōsōin.",
+  "image_file": "唐人宫乐图轴.晚唐绘.台北故宫博物院藏.jpg",
+  "image_caption": "A Palace Concert, late Tang painting, National Palace Museum, Taipei"
+ },
+ {
+  "id": "gagaku",
+  "name": "Japanese gagaku & bugaku",
+  "name_native": "雅楽",
+  "dates": "c. 700 – present",
+  "period": "cosmopolitan-age",
+  "summary": "Gagaku, 'elegant music', is the court music of Japan, built from Tang Chinese (tōgaku) and Korean (komagaku) repertories imported in the seventh to ninth centuries and from native Shinto song. It was standardised in the Heian period and has been played by hereditary families ever since, today by the Music Department of the Imperial Household Agency. Bugaku is its masked dance form. It is one of the oldest continuously performed orchestral traditions in the world.",
+  "image_file": "Tawaraya Sōtatsu - Bugaku Dance (right screen).jpg",
+  "image_caption": "Tawaraya Sōtatsu, Bugaku Dance, folding screen, 17th century"
+ },
+ {
+  "id": "biwa-narrative",
+  "name": "Biwa narrative & Buddhist chant",
+  "name_native": "平曲",
+  "dates": "c. 1200–1600",
+  "period": "song-heian-goryeo",
+  "summary": "Blind priests called biwa hōshi chanted The Tale of the Heike to the lute, a style later called heikyoku; Buddhist temples developed shōmyō chant. These narrative and liturgical traditions shaped the vocal style of Noh and later Japanese song."
+ },
+ {
+  "id": "song-ci-music",
+  "name": "Song ci songs & court revival",
+  "name_native": "宋詞樂",
+  "dates": "960–1279",
+  "period": "song-heian-goryeo",
+  "summary": "Song dynasty ci lyrics were written to existing tunes, sung in pleasure quarters and at literati gatherings. Emperor Huizong tried to restore ancient ritual music with new bell sets, and the poet-composer Jiang Kui left the only sizeable set of Song songs with their notation."
+ },
+ {
+  "id": "yuan-zaju",
+  "name": "Yuan zaju",
+  "name_native": "元雜劇",
+  "dates": "c. 1260–1368",
+  "period": "song-heian-goryeo",
+  "summary": "Under Mongol rule, northern 'variety plays' (zaju) became the first mature Chinese theatre: four acts of spoken dialogue and arias sung by a single lead to fixed tune patterns in one mode per act. Guan Hanqing and Wang Shifu are its masters; the plays themselves are treated in the literature section."
+ },
+ {
+  "id": "kunqu",
+  "name": "Ming chuanqi & kunqu",
+  "name_native": "崑曲",
+  "dates": "c. 1550–1800",
+  "period": "ming-muromachi-joseon",
+  "summary": "In the sixteenth century Wei Liangfu and his circle in Kunshan refined a slow, ornate singing style accompanied by the bamboo flute. Kunqu became the national elite theatre for two centuries, performing long southern chuanqi plays such as The Peony Pavilion and The Palace of Eternal Youth. Prized for its poetry, dance and refinement, it is the ancestor of many later Chinese operas."
+ },
+ {
+  "id": "korean-court-music",
+  "name": "Korean aak & hyangak",
+  "name_native": "아악·향악",
+  "dates": "1116 – present",
+  "period": "ming-muromachi-joseon",
+  "summary": "Korea received Chinese ritual music (aak) from Song China in 1116. Under King Sejong in the fifteenth century Bak Yeon rebuilt the ritual orchestra and its instruments, while the king composed new music in native style (hyangak) and devised the jeongganbo notation. The Jongmyo shrine music, still performed each year, and suites like Sujecheon are the core of the court repertory."
+ },
+ {
+  "id": "noh-kyogen",
+  "name": "Noh & kyōgen",
+  "name_native": "能・狂言",
+  "dates": "c. 1370 – present",
+  "period": "ming-muromachi-joseon",
+  "summary": "Noh grew out of sarugaku entertainments under Kan'ami and his son Zeami, patronised by the shogun Ashikaga Yoshimitsu. A masked lead actor, a chorus, flute and three drums perform slow, distilled plays about gods, warriors, women and ghosts on a bare cypress stage. Comic kyōgen pieces are played between them. The repertory and style were fixed in the Edo period and remain largely unchanged.",
+  "image_file": "North Noh Stage, Nishi Hongwanji.jpg",
+  "image_caption": "The north Noh stage of Nishi Hongan-ji, Kyoto"
+ },
+ {
+  "id": "shakuhachi-fuke",
+  "name": "Shakuhachi & the Fuke sect",
+  "name_native": "尺八・普化宗",
+  "dates": "c. 1600–1871",
+  "period": "qing-edo-late-joseon",
+  "summary": "In the Edo period wandering komusō monks of the Fuke Zen sect, faces hidden in basket hats, played the end-blown bamboo shakuhachi as a meditation practice (suizen). Their solo pieces, honkyoku, are slow and breath-centred. The sect was abolished in 1871, but schools such as the Kinko-ryū preserved the repertory as art music.",
+  "image_file": "Jongeman gekleed als komuso (bedelmonnik)-Rijksmuseum RP-P-1956-682.jpeg",
+  "image_caption": "A young man dressed as a komusō, woodblock print, Rijksmuseum"
+ },
+ {
+  "id": "koto-shamisen",
+  "name": "Koto & shamisen music",
+  "name_native": "箏曲・地歌",
+  "dates": "c. 1600–1868",
+  "period": "qing-edo-late-joseon",
+  "summary": "Blind musicians of the Tōdō guild, holding ranks such as kengyō, created the chamber music of Edo Japan for koto zither and the three-string shamisen. Yatsuhashi Kengyō founded the modern koto tradition with instrumental variations (danmono) and songs; later masters wrote long jiuta pieces with instrumental interludes. Shamisen styles also drove kabuki and puppet theatre.",
+  "image_file": "Japanese Koto.jpg",
+  "image_caption": "A koto"
+ },
+ {
+  "id": "bunraku-kabuki",
+  "name": "Bunraku & kabuki",
+  "name_native": "文楽・歌舞伎",
+  "dates": "1603 – present",
+  "period": "qing-edo-late-joseon",
+  "summary": "Two theatres of townsmen's Edo Japan. Kabuki began with Izumo no Okuni's dances in Kyoto in 1603 and became an all-male theatre of star actors, bold make-up and stylised poses. Puppet theatre (ningyō jōruri, now called bunraku) set narrative chanting to the shamisen, and its great plays by Chikamatsu and later authors were quickly adapted for kabuki. Ukiyo-e actor prints recorded both.",
+  "image_file": "Puppets come to life LCCN2004666378.jpg",
+  "image_caption": "Puppets Come to Life, woodblock print, Library of Congress"
+ },
+ {
+  "id": "peking-opera",
+  "name": "Peking opera",
+  "name_native": "京劇",
+  "dates": "1790 – present",
+  "period": "qing-edo-late-joseon",
+  "summary": "Peking opera formed after 1790, when troupes from Anhui came to Beijing for the Qianlong emperor's birthday and merged their styles with Hubei and kunqu traditions. It combines song, speech, acrobatics and mime with painted faces and conventional role types, accompanied by the jinghu fiddle and percussion. Mei Lanfang made it internationally famous in the twentieth century.",
+  "image_file": "Тринадцать великих актёров поздней Цин.jpg",
+  "image_caption": "Shen Rongpu, The Thirteen Great Actors of the Tongzhi and Guangxu Eras"
+ },
+ {
+  "id": "pansori-sanjo",
+  "name": "Pansori & sanjo",
+  "name_native": "판소리·산조",
+  "dates": "c. 1700 – present",
+  "period": "qing-edo-late-joseon",
+  "summary": "Pansori is Korean epic storytelling by one singer and one drummer, a performance that can last several hours, sung in a husky, strained voice. Of the twelve stories once sung, five survive in full. Sanjo, 'scattered melodies', is its instrumental counterpart, a solo for gayageum or other instrument that accelerates through a series of rhythmic cycles.",
+  "image_file": "Danwon-Mudong.jpg",
+  "image_caption": "Kim Hong-do, Dancing Boy, with musicians, late 18th century"
+ },
+ {
+  "id": "chinese-instrumental",
+  "name": "Chinese folk & solo instrumental music",
+  "name_native": "民族器樂",
+  "dates": "c. 1800 – present",
+  "period": "qing-edo-late-joseon",
+  "summary": "Alongside opera, regional ensemble and solo traditions flourished in late imperial China: pipa suites printed from 1818, silk-and-bamboo ensembles of the south, and the two-string erhu fiddle raised to a concert instrument in the early twentieth century by Liu Tianhua and the blind street musician Abing."
+ },
+ {
+  "id": "modern-composers",
+  "name": "Western-style composers",
+  "name_native": "近代作曲家",
+  "dates": "1868–1945",
+  "period": "east-asian-modern",
+  "summary": "Meiji Japan introduced Western music through school songs and military bands, and the first Japanese composers set Japanese poems to Western harmony. In China and Korea similar songs, anthems and cantatas grew up in a time of national crisis, war and revolution, while traditional players such as Miyagi Michio adapted their instruments to the new ideas."
+ },
+ {
+  "id": "postwar-avant-garde",
+  "name": "Postwar & avant-garde",
+  "name_native": "現代音楽",
+  "dates": "1945 – present",
+  "period": "east-asian-contemporary",
+  "summary": "After 1945 East Asian composers joined the international avant-garde while rediscovering their own traditions: Takemitsu combined orchestra with biwa and shakuhachi, Isang Yun built a Western modernism on Korean court music, Hwang Byungki wrote new gayageum music, and Chinese composers moved from revolutionary works to a cosmopolitan style after 1978."
+ }
+]

@@ -1,0 +1,1051 @@
+[
+ {
+  "id": "chinese-bronze-casters",
+  "name": "Bronze Age casters of China",
+  "name_native": "中國青銅工匠",
+  "born": "c. 1600 BC",
+  "died": "c. 221 BC",
+  "sort": -1600,
+  "birthplace": "",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "zhou-ritual-music"
+  ],
+  "bio": "The anonymous foundry workers of Shang and Zhou China, whose piece-mould casting produced ritual vessels and tuned bell sets.",
+  "bio_full": [
+   "The bronzes of ancient China were made in workshops attached to royal and princely courts, using clay piece-moulds rather than the lost-wax method common elsewhere. The same craftsmen who cast ritual vessels also cast bells, which were made without clappers and struck from outside with mallets. Their names are not recorded, though inscriptions name the rulers who commissioned the objects.",
+   "For music their great achievement was the two-tone bell: an almond-shaped cross-section lets one bell sound two distinct pitches, a minor or major third apart, depending on where it is struck. Tuning was refined by filing the inside of the bell. The set from the tomb of Marquis Yi of Zeng, inscribed with the names of pitches and their equivalents in other states, is the supreme example of their art."
+  ]
+ },
+ {
+  "id": "qiu-gongming",
+  "name": "Qiu Gongming",
+  "name_native": "丘公明",
+  "born": "494",
+  "died": "590",
+  "sort": 494,
+  "birthplace": "Kuaiji (Shaoxing)",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "guqin-tradition"
+  ],
+  "bio": "A qin master of the Liang and Chen dynasties, credited with transmitting Solitary Orchid, the oldest guqin piece whose score survives.",
+  "bio_full": [
+   "Qiu Gongming, also known as Qiu Ming, is known almost entirely from the preface to the manuscript of Jieshi diao: Youlan (Solitary Orchid in the Stone Tablet Mode). It says that he came from Kuaiji, lived in seclusion on Jiuyi Mountain in the late Liang dynasty, and was a master of the Chu style of qin playing, and that he passed this piece to Wang Shuming of Yidu shortly before dying aged ninety-seven in 590.",
+   "His importance lies in this act of transmission. The melody he taught is the only qin piece written down in the old longhand 'wenzi pu', which describes every finger movement in words, before the abbreviated tablature of the Tang and later centuries replaced it. Later tradition linked the title to a story of Confucius lamenting a fine orchid among weeds, but the attribution of the music itself to Confucius is legendary."
+  ]
+ },
+ {
+  "id": "cai-yan",
+  "name": "Cai Yan",
+  "name_native": "蔡琰",
+  "born": "c. 177",
+  "died": "after 206",
+  "sort": 177,
+  "birthplace": "Chenliu (Kaifeng area)",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "han-music-bureau",
+   "guqin-tradition"
+  ],
+  "bio": "Poet and musician of the late Han, also called Cai Wenji, whose captivity among the Xiongnu inspired the qin cycle Eighteen Songs of a Nomad Flute.",
+  "bio_full": [
+   "Cai Yan was the daughter of the scholar and musician Cai Yong and was famed in her own day for her learning and her ear for music. In the chaos at the end of the Han dynasty she was carried off by Xiongnu horsemen, lived for about twelve years in the north and bore two sons there. The warlord Cao Cao, who had been her father's friend, ransomed her, and she returned to China, leaving her children behind. She is said to have written down from memory hundreds of her father's lost texts.",
+   "Two long poems on her ordeal are attributed to her, the 'Poem of Grief and Indignation', which most scholars accept as hers, and the Eighteen Songs of a Nomad Flute, which is now generally thought to be a later composition in her voice. Her story of exile and parting became a favourite subject for painters and musicians, and the qin piece that bears her name is still played."
+  ],
+  "portrait_file": "畫麗珠萃秀 Gathering Gems of Beauty (漢蔡文姬) 2.jpg",
+  "portrait_caption": "Cai Wenji, from the Qing court album Gathering Gems of Beauty, National Palace Museum, Taipei"
+ },
+ {
+  "id": "ji-kang",
+  "name": "Ji Kang",
+  "name_native": "嵇康",
+  "born": "223",
+  "died": "262",
+  "sort": 223,
+  "birthplace": "Qiao Commandery (Anhui)",
+  "deathplace": "Luoyang",
+  "nationality": "Chinese",
+  "movements": [
+   "guqin-tradition"
+  ],
+  "bio": "Poet, philosopher and qin player, leader of the Seven Sages of the Bamboo Grove, remembered for playing Guangling san before his execution.",
+  "bio_full": [
+   "Ji Kang (also romanised Xi Kang) married into the Cao ruling house of Wei and held a minor court title, but withdrew to live as a Daoist recluse at his estate near Shanyang, where he drank, wrote and played the qin with friends later known as the Seven Sages of the Bamboo Grove. His refusal to serve the rising Sima clan and his outspoken letters made him dangerous. In 262 he was condemned to death on a trumped-up charge; according to the early histories three thousand students petitioned in vain to study with him, and before he died he asked for a qin and played Guangling san, lamenting that the piece would now die with him.",
+   "Ji Kang wrote the 'Rhapsody on the Qin' (Qin fu), one of the finest descriptions of the instrument, and the essay 'Music Has in It Neither Grief nor Joy' (Sheng wu aile lun), which argued against the Confucian view that music carries moral feeling and held that emotions belong to the listener, not to sounds. He became the model of the free-spirited scholar-musician for all later qin players."
+  ],
+  "portrait_file": "Seven Sages of the Bamboo Grove 1.Nanjing Museum.jpg",
+  "portrait_caption": "Ji Kang playing the qin, moulded-brick relief of the Seven Sages of the Bamboo Grove from a 5th-century tomb near Nanjing, Nanjing Museum"
+ },
+ {
+  "id": "guqin-masters",
+  "name": "Guqin masters (traditional)",
+  "name_native": "古琴家",
+  "born": "c. 500 BC",
+  "died": "present",
+  "sort": -500,
+  "birthplace": "",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "guqin-tradition"
+  ],
+  "bio": "The long, largely anonymous line of qin players who composed, transmitted and reinterpreted the instrument's classic repertory.",
+  "bio_full": [
+   "Most of the qin repertory has no reliable author. Pieces are attached to legendary figures such as Boya, Confucius or Cai Yong, but they reach us through handbooks compiled from the fifteenth century onward by players who edited, expanded and sometimes recomposed them. Each handbook gives its own version, so a single title can survive in dozens of forms.",
+   "Qin players were usually amateurs in the old sense, scholars and monks who played for themselves or a few friends. The tradition was carried into modern times by teachers such as Guan Pinghu, whose reconstructions of old tablatures are widely played today, and the art of the qin was inscribed by UNESCO as Intangible Cultural Heritage in 2003 (proclaimed) and 2008 (listed)."
+  ]
+ },
+ {
+  "id": "tang-xuanzong",
+  "name": "Emperor Xuanzong of Tang",
+  "name_native": "唐玄宗",
+  "born": "685",
+  "died": "762",
+  "sort": 685,
+  "birthplace": "Luoyang",
+  "deathplace": "Chang'an",
+  "nationality": "Chinese",
+  "movements": [
+   "tang-court-music"
+  ],
+  "bio": "Tang emperor from 712 to 756, a gifted musician who founded the Pear Garden academy, the traditional ancestor of Chinese actors and musicians.",
+  "bio_full": [
+   "Li Longji took the throne in 712 after a palace coup and ruled for over four decades, the longest reign of the Tang. The first half of his reign, the Kaiyuan era, is remembered as a golden age of prosperity and culture, home to Li Bai, Du Fu and Wang Wei. In later years he left government to ministers and grew devoted to his consort Yang Guifei; the An Lushan rebellion of 755 drove him from the capital, his guards forced the death of Yang Guifei, and he abdicated in 756.",
+   "Xuanzong played the jie drum and composed, and he reorganised court music, setting up the Pear Garden (Liyuan) where he personally trained hundreds of musicians and dancers. Later Chinese actors called themselves 'disciples of the Pear Garden' and honoured him as patron of their profession. The Rainbow Skirt and Feathered Garment dance, said to have been arranged by him, and the tragic love story of the emperor and Yang Guifei became lasting themes of poetry and theatre."
+  ],
+  "portrait_file": "李隆基像.jpg",
+  "portrait_caption": "Later court portrait of Emperor Xuanzong of Tang"
+ },
+ {
+  "id": "tang-court-musicians",
+  "name": "Tang court musicians & instrument makers",
+  "name_native": "唐代樂工",
+  "born": "618",
+  "died": "907",
+  "sort": 618,
+  "birthplace": "",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "tang-court-music"
+  ],
+  "bio": "The thousands of musicians, dancers and craftsmen of the Tang court and its Silk Road ensembles, whose instruments and music survive mostly in Japan.",
+  "bio_full": [
+   "The Tang court employed musicians in the Court of Imperial Sacrifices, the Imperial Music Office and the Pear Garden, many of them hereditary or of Central Asian origin, such as the famous pipa families from Kucha and Kashgar. Their repertory ranged from ritual music to large suites of dance music (daqu) and popular entertainments.",
+   "Very little of their music was written down in China, but tablatures for pipa and other instruments survive at Dunhuang and in Japan, and the Shōsōin storehouse at Nara keeps instruments sent or brought from Tang China in the eighth century. Through Japanese gagaku some pieces of Tang origin are still performed, though slowed and transformed over twelve centuries."
+  ]
+ },
+ {
+  "id": "imperial-household-gagaku",
+  "name": "Gagaku musicians of the Imperial court",
+  "name_native": "宮内庁式部職楽部",
+  "born": "c. 701",
+  "died": "present",
+  "sort": 701,
+  "birthplace": "Nara, Kyoto, Tokyo",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "gagaku"
+  ],
+  "bio": "The hereditary court musicians of Japan, from the Nara period Gagakuryō to today's Music Department of the Imperial Household Agency.",
+  "bio_full": [
+   "Japan's Taihō code of 701 set up the Gagakuryō, a bureau of court music staffed by Japanese, Chinese and Korean musicians. In the Heian period the many imported styles were reorganised into music of the Left (Chinese and Indian origin) and of the Right (Korean origin), and hereditary families of musicians in Kyoto, Nara and Osaka (Tennōji) guarded the repertory. In 1870 they were united in Tokyo in what is now the Music Department (Gakubu) of the Imperial Household Agency.",
+   "The musicians play wind, string and percussion instruments, dance bugaku, sing Shinto and court songs, and since the Meiji period have also played Western music for state occasions. Their repertory of some ninety instrumental pieces and dances is transmitted largely by oral memorisation of solmisation syllables (shōga) before the instrument is touched."
+  ]
+ },
+ {
+  "id": "heike-storytellers",
+  "name": "Biwa storytellers of the Heike",
+  "name_native": "琵琶法師",
+  "born": "c. 1200",
+  "died": "c. 1600",
+  "sort": 1200,
+  "birthplace": "",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "biwa-narrative"
+  ],
+  "bio": "The blind lute-playing monks (biwa hōshi) who composed and transmitted The Tale of the Heike by chanting it to the biwa.",
+  "bio_full": [
+   "From the thirteenth century blind performers in monk's dress travelled and performed for courtiers and warriors, chanting episodes of the Genpei war to the biwa lute. The Tale of the Heike grew through their performances, and in 1371 the master Kakuichi dictated an authoritative text. They were organised into a guild, the Tōdōza, which later included blind koto and shamisen musicians.",
+   "Their musical style, heikyoku, alternates speech-like recitation and melodic passages with short lute interludes. It shaped the vocal music of Noh and later narrative song, and a few traditions of heikyoku have survived into modern times through careful transmission."
+  ]
+ },
+ {
+  "id": "huizong",
+  "name": "Emperor Huizong of Song",
+  "name_native": "宋徽宗",
+  "born": "1082",
+  "died": "1135",
+  "sort": 1082,
+  "birthplace": "Kaifeng",
+  "deathplace": "Wuguocheng (Manchuria)",
+  "nationality": "Chinese",
+  "movements": [
+   "song-ci-music"
+  ],
+  "bio": "Song emperor, painter and calligrapher who sponsored a grand revival of ritual music, the Dasheng yue.",
+  "bio_full": [
+   "Zhao Ji reigned from 1100 to 1126. Devoted to the arts and to Daoism, he ran an academy of painting, collected antiquities and developed the 'slender gold' calligraphy. His government was weakened by factionalism and costly projects, and in 1127 the Jurchen Jin captured the capital Kaifeng and carried him north, where he died in captivity.",
+   "In music Huizong set up the Dashengfu, a Bureau of Great Brilliance, to create new ritual music based on ancient models. Bells were cast in 1105, modelled on an ancient bronze bell found in Hubei, with pitches set by the length of the emperor's own fingers according to an adviser's theory. Captured by the Jin, many of the Dasheng bells were carried off, and some later reached the Korean court along with the ritual music Huizong had sent to Goryeo in 1116."
+  ],
+  "portrait_file": "Seated Portrait of Emperor Song Huizong.tif",
+  "portrait_caption": "Song court portrait of Emperor Huizong, National Palace Museum, Taipei"
+ },
+ {
+  "id": "jiang-kui",
+  "name": "Jiang Kui",
+  "name_native": "姜夔",
+  "born": "c. 1155",
+  "died": "c. 1221",
+  "sort": 1155,
+  "birthplace": "Poyang (Jiangxi)",
+  "deathplace": "Hangzhou",
+  "nationality": "Chinese",
+  "movements": [
+   "song-ci-music"
+  ],
+  "bio": "Southern Song poet and composer, the only Song song-writer whose melodies survive in notation.",
+  "bio_full": [
+   "Jiang Kui never passed the examinations or held office. He spent his life as a guest of wealthy patrons in Hunan, Hubei and around Hangzhou, writing poetry, practising calligraphy and studying music. In 1197 he submitted proposals on ritual music to the court, without success. He died poor in Hangzhou.",
+   "His collected works include seventeen ci lyrics with melodies notated in the popular 'suzi' notation of the day, plus a qin song and ritual pieces, the largest body of Song music to survive. Many of his tunes were his own compositions rather than settings of existing patterns. His cool, elegant lyrics, such as 'Dark Fragrance' and 'Sparse Shadows' on plum blossom, were much admired, and modern scholars have transcribed his songs for performance."
+  ]
+ },
+ {
+  "id": "guan-hanqing",
+  "name": "Guan Hanqing",
+  "name_native": "關漢卿",
+  "born": "c. 1241",
+  "died": "c. 1320",
+  "sort": 1241,
+  "birthplace": "Dadu (Beijing)",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "yuan-zaju"
+  ],
+  "bio": "The greatest playwright of Yuan zaju, credited with over sixty plays, of which eighteen survive.",
+  "bio_full": [
+   "Little is known of Guan Hanqing's life. He lived in the Yuan capital Dadu, probably worked as a physician or in the medical bureau, belonged to a writers' guild (shuhui), and is said to have acted on stage himself. He wrote for the professional actresses and troupes of the capital.",
+   "His plays range from the tragedy The Injustice to Dou E to comedies about clever courtesans and historical plays about the Three Kingdoms. Several, especially The Single Sword Meeting, have survived on the stage through kunqu and later opera. The plays and his literary achievement are treated in the literature section."
+  ],
+  "portrait_file": "Stamp of USSR 2262.jpg",
+  "portrait_caption": "Imagined portrait of Guan Hanqing on a Soviet postage stamp, 1958"
+ },
+ {
+  "id": "wei-liangfu",
+  "name": "Wei Liangfu",
+  "name_native": "魏良輔",
+  "born": "c. 1489",
+  "died": "c. 1566",
+  "sort": 1489,
+  "birthplace": "Yuzhang (Nanchang)",
+  "deathplace": "Taicang",
+  "nationality": "Chinese",
+  "movements": [
+   "kunqu"
+  ],
+  "bio": "Ming singer and musician of Taicang near Kunshan, traditionally credited with creating the refined kunqu singing style.",
+  "bio_full": [
+   "Wei Liangfu was a singer and physician who lived in Taicang in Jiangsu in the mid sixteenth century. According to later accounts he spent ten years refining the local Kunshan style of singing southern drama, working with the flute player Zhang Yetang and others, and gave it a slow, flowing manner called 'water-mill tune' (shuimo diao), with careful attention to the tones and pronunciation of each syllable.",
+   "A short treatise on singing, the Qulü, is attributed to him. The style he shaped, accompanied by dizi flute, sheng and pipa, spread from Suzhou to the whole empire, and Liang Chenyu's Washing Silk (c. 1560s) showed it could carry a full chuanqi play. His importance is partly legendary, as the history of kunqu was written by its admirers, but he is honoured as the founder of the form."
+  ]
+ },
+ {
+  "id": "tang-xianzu",
+  "name": "Tang Xianzu",
+  "name_native": "湯顯祖",
+  "born": "1550",
+  "died": "1616",
+  "sort": 1550,
+  "birthplace": "Linchuan (Jiangxi)",
+  "deathplace": "Linchuan",
+  "nationality": "Chinese",
+  "movements": [
+   "kunqu"
+  ],
+  "bio": "Ming playwright of The Peony Pavilion, the best-loved work of the kunqu stage.",
+  "bio_full": [
+   "Tang Xianzu passed the highest examination in 1583 and served as an official until he retired in 1598 after clashes with superiors. At home in Linchuan he wrote the four 'Linchuan dreams', plays in which dreams reveal the truth of feeling.",
+   "His plays were written in the southern chuanqi form and were adapted for kunqu singing, which Tang himself did not entirely favour. The Peony Pavilion became the core of the kunqu repertory and remains its most performed work; his literary achievement is treated in the literature section."
+  ],
+  "portrait_file": "湯顯祖.jpg",
+  "portrait_caption": "Portrait of Tang Xianzu"
+ },
+ {
+  "id": "hong-sheng",
+  "name": "Hong Sheng",
+  "name_native": "洪昇",
+  "born": "1645",
+  "died": "1704",
+  "sort": 1645,
+  "birthplace": "Qiantang (Hangzhou)",
+  "deathplace": "Wuzhen (Zhejiang)",
+  "nationality": "Chinese",
+  "movements": [
+   "kunqu"
+  ],
+  "bio": "Qing playwright of The Palace of Eternal Youth, one of the last great kunqu masterpieces.",
+  "bio_full": [
+   "Hong Sheng came from a scholarly Hangzhou family and spent long years in Beijing as a student of the Imperial Academy without gaining office. He worked for over a decade on his play about Emperor Xuanzong and Yang Guifei, completing it in 1688. A private performance in 1689 during a period of state mourning led to his expulsion from the Academy and the punishment of many guests. He drowned in 1704 after falling from a boat while drunk.",
+   "Together with Kong Shangren's The Peach Blossom Fan, his play marks the high point of kunqu in the early Qing; the pairing is known as 'Southern Hong and Northern Kong'. Its arias are noted for their musical craft and remain staples of the kunqu stage."
+  ]
+ },
+ {
+  "id": "zhu-quan",
+  "name": "Zhu Quan",
+  "name_native": "朱權",
+  "born": "1378",
+  "died": "1448",
+  "sort": 1378,
+  "birthplace": "Nanjing",
+  "deathplace": "Nanchang",
+  "nationality": "Chinese",
+  "movements": [
+   "guqin-tradition",
+   "yuan-zaju"
+  ],
+  "bio": "Ming prince, playwright and scholar who compiled the Shenqi mipu, the earliest surviving printed handbook of qin music.",
+  "bio_full": [
+   "Zhu Quan was the seventeenth son of the Hongwu emperor, founder of the Ming, and was enfeoffed as Prince of Ning on the northern frontier. Drawn into his brother's usurpation of the throne in 1402, he was afterwards moved to Nanchang and kept away from politics, devoting himself to Daoism, scholarship and the arts.",
+   "He wrote zaju plays and an important guide to northern drama, the Taihe zhengyin pu, and in 1425 he published the Shenqi mipu (Handbook of Mysterious and Marvellous Secrets), gathering qin pieces including old ones handed down from the Song. It is the foundation of the modern qin repertory."
+  ]
+ },
+ {
+  "id": "zhu-zaiyu",
+  "name": "Zhu Zaiyu",
+  "name_native": "朱載堉",
+  "born": "1536",
+  "died": "1611",
+  "sort": 1536,
+  "birthplace": "Huaiqing (Henan)",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "guqin-tradition"
+  ],
+  "bio": "Ming prince and mathematician who first published an exact calculation of twelve-tone equal temperament.",
+  "bio_full": [
+   "Zhu Zaiyu was heir to the princely house of Zheng, a branch of the Ming imperial family. When his father was imprisoned after a dispute he lived for years in a hut outside the palace walls, studying music, mathematics and the calendar. He later renounced his title in favour of a cousin and devoted himself to scholarship.",
+   "In works collected as the Yuelü quanshu (Complete Compendium of Music and Pitch), printed around 1606, he showed how to divide the octave into twelve equal semitones using the twelfth root of two, calculated to many digits, and built instruments to demonstrate it. His solution appeared at about the same time as Simon Stevin's in Europe, and whether it influenced later European theory is debated. He also wrote on dance and ritual music."
+  ]
+ },
+ {
+  "id": "kanami",
+  "name": "Kan'ami",
+  "name_native": "観阿弥",
+  "born": "1333",
+  "died": "1384",
+  "sort": 1333,
+  "birthplace": "Iga Province",
+  "deathplace": "Suruga Province",
+  "nationality": "Japanese",
+  "movements": [
+   "noh-kyogen"
+  ],
+  "bio": "Actor and playwright who, with his son Zeami, turned sarugaku into Noh, winning the patronage of the shogun Ashikaga Yoshimitsu.",
+  "bio_full": [
+   "Kan'ami Kiyotsugu led a sarugaku troupe of Yamato province, the Yūzaki-za, ancestor of the Kanze school. He absorbed the rhythmic kusemai dance-song into sarugaku, giving it a new musical vitality. In 1374 or 1375 the young shogun Ashikaga Yoshimitsu saw him perform with his son at Imakumano in Kyoto and took both under his patronage, which raised Noh from a popular entertainment to the art of the warrior elite. Kan'ami died in 1384 while on tour in Suruga.",
+   "He was famed as a versatile actor who could play anything from demons to beautiful women. Several plays are attributed to him, often in versions revised by Zeami, among them Sotoba Komachi, Jinen Koji and Matsukaze. Zeami's treatises record many of his teachings, so Kan'ami's ideas live on largely through his son."
+  ]
+ },
+ {
+  "id": "zeami",
+  "name": "Zeami Motokiyo",
+  "name_native": "世阿弥",
+  "born": "c. 1363",
+  "died": "c. 1443",
+  "sort": 1363,
+  "birthplace": "",
+  "deathplace": "Sado or Yamato",
+  "nationality": "Japanese",
+  "movements": [
+   "noh-kyogen"
+  ],
+  "bio": "Actor, playwright and theorist who gave Noh its classic form and its aesthetic of yūgen.",
+  "bio_full": [
+   "Zeami was the son of Kan'ami and from boyhood a favourite of the shogun Ashikaga Yoshimitsu. He succeeded to the leadership of the troupe in 1384 and spent his career refining Noh for an audience of warriors and courtiers. Under later shoguns he lost favour; his son and heir Motomasa died young, and in 1434 the shogun Yoshinori exiled him to the island of Sado. His last years are obscure.",
+   "Zeami wrote or revised many of the finest plays, including Takasago, Izutsu and Atsumori, and created the 'dream' (mugen) Noh in which a ghost relives the past. His secret treatises, beginning with Fūshikaden, discuss acting, music and the 'flower' of performance. Plays and treatises are treated more fully in the literature section."
+  ]
+ },
+ {
+  "id": "noh-playwrights",
+  "name": "Noh playwrights (anonymous & attributed)",
+  "name_native": "能作者",
+  "born": "c. 1350",
+  "died": "c. 1600",
+  "sort": 1350,
+  "birthplace": "",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "noh-kyogen"
+  ],
+  "bio": "The authors of the many Noh plays whose writers are unknown or only traditionally named, from the fourteenth to the sixteenth century.",
+  "bio_full": [
+   "The modern Noh repertory of about 240 plays was largely complete by the early seventeenth century. Many plays were written by Kan'ami, Zeami and their successors Konparu Zenchiku, Kanze Nobumitsu and Konparu Zenpō, but for many others the author is unknown or the traditional attribution is doubtful.",
+   "Such anonymous plays include some of the most loved in the repertory, and the ritual Okina predates Noh drama altogether. Texts were handed down in the libraries of the acting families and printed from the early seventeenth century in the luxurious Saga-bon editions."
+  ]
+ },
+ {
+  "id": "kyogen-actors",
+  "name": "Kyōgen actors",
+  "name_native": "狂言師",
+  "born": "c. 1350",
+  "died": "present",
+  "sort": 1350,
+  "birthplace": "",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "noh-kyogen"
+  ],
+  "bio": "The comic actors of the Noh stage, whose short farces were transmitted orally for centuries before being written down.",
+  "bio_full": [
+   "Kyōgen grew up alongside Noh from the comic side of sarugaku. Its actors performed farces between Noh plays and took the role of local villagers within them. The repertory was improvised and orally transmitted until the Ōkura, Sagi and Izumi schools wrote down texts in the Edo period; the Ōkura and Izumi schools survive.",
+   "Kyōgen is spoken in the colloquial language of late medieval Japan, with song and dance, and its stock characters include the foolish master Daimyō, the clever servant Tarōkaja, priests, sons-in-law and demons. Its humour is gentle and humane, and it remains part of every traditional Noh programme."
+  ]
+ },
+ {
+  "id": "izumo-no-okuni",
+  "name": "Izumo no Okuni",
+  "name_native": "出雲阿国",
+  "born": "c. 1572",
+  "died": "after 1613",
+  "sort": 1572,
+  "birthplace": "Izumo Province (traditional)",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "bunraku-kabuki"
+  ],
+  "bio": "Dancer who created kabuki in Kyoto in 1603 with her troupe of women performers.",
+  "bio_full": [
+   "Okuni claimed to be a shrine maiden from the Grand Shrine of Izumo, though this may have been publicity. She appears in court diaries from the 1580s as a dancer of children's dances, and in 1603 she performed on the dry bed of the Kamo River in Kyoto with a new style of dance and sketches, playing a dashing young man in outlandish dress who visits a teahouse.",
+   "The style was called kabuki, from kabuku, 'to be unconventional', and was soon copied by companies of courtesans. Women were banned from the stage in 1629 and young men in 1652, leaving the all-male kabuki of later centuries. Okuni's own later life is unknown, but she is revered as the founder of the art."
+  ]
+ },
+ {
+  "id": "ichikawa-danjuro-i",
+  "name": "Ichikawa Danjūrō I",
+  "name_native": "初代 市川團十郎",
+  "born": "1660",
+  "died": "1704",
+  "sort": 1660,
+  "birthplace": "Edo",
+  "deathplace": "Edo",
+  "nationality": "Japanese",
+  "movements": [
+   "bunraku-kabuki"
+  ],
+  "bio": "Edo kabuki actor and playwright who created the bombastic aragoto style and founded the greatest acting dynasty of kabuki.",
+  "bio_full": [
+   "Danjūrō I made his debut in Edo around 1673 playing the strongman Sakata Kintoki in red and black make-up, wielding an axe, a performance often counted as the birth of aragoto, the 'rough style'. He became the leading actor of Edo and wrote plays under the name Mimasuya Hyōgo. In 1704 he was stabbed to death on stage at the Ichimura-za by a fellow actor.",
+   "His superhuman heroes, painted faces (kumadori) and stylised poses (mie) created the characteristic look of Edo kabuki, and his descendants have carried his name for over three centuries. Shibaraku and other plays in his style were later included in the Kabuki Jūhachiban, the family's eighteen great plays."
+  ],
+  "portrait_file": "Torii Kiyomasu - Ichikawa Danjuro I in role of Takenuki Goro.jpg",
+  "portrait_caption": "Torii Kiyomasu, woodblock print of Danjūrō I as Takenuki Gorō"
+ },
+ {
+  "id": "ichikawa-danjuro-ii",
+  "name": "Ichikawa Danjūrō II",
+  "name_native": "二代目 市川團十郎",
+  "born": "1688",
+  "died": "1758",
+  "sort": 1688,
+  "birthplace": "Edo",
+  "deathplace": "Edo",
+  "nationality": "Japanese",
+  "movements": [
+   "bunraku-kabuki"
+  ],
+  "bio": "Son and heir of Danjūrō I, who refined aragoto and created the role of the dandy Sukeroku.",
+  "bio_full": [
+   "Danjūrō II took over the family name in 1704 after his father's murder, still a youth. He grew into the most celebrated actor of his day in Edo, said to earn the then-unheard-of salary of a thousand ryō a year. Late in life he took the name Ichikawa Ebizō.",
+   "He softened his father's bombast with elegance, creating the swaggering yet graceful hero of Sukeroku in 1713, and established many of the forms of the family repertory. Prints by the Torii school record his roles, and the family's later actors looked back to him as a model."
+  ],
+  "portrait_file": "Danjūrō Ichikawa II as Soga no Gorō in Ya no Ne.jpg",
+  "portrait_caption": "Woodblock print of Danjūrō II as Soga no Gorō in Ya no Ne"
+ },
+ {
+  "id": "ichikawa-danjuro-vii",
+  "name": "Ichikawa Danjūrō VII",
+  "name_native": "七代目 市川團十郎",
+  "born": "1791",
+  "died": "1859",
+  "sort": 1791,
+  "birthplace": "Edo",
+  "deathplace": "Osaka",
+  "nationality": "Japanese",
+  "movements": [
+   "bunraku-kabuki"
+  ],
+  "bio": "Leading kabuki actor of late Edo who fixed the Kabuki Jūhachiban and created the dance-drama Kanjinchō.",
+  "bio_full": [
+   "Danjūrō VII inherited the name as a boy in 1800 and dominated Edo kabuki for decades, playing heroes, villains and ghosts; he created the role of Iemon in Tsuruya Nanboku's ghost play Yotsuya Kaidan in 1825. In 1842, during the Tenpō reforms, he was exiled from Edo for living in luxury, and he spent years performing in Osaka and the provinces.",
+   "Around 1832 he announced the Kabuki Jūhachiban, the eighteen great plays of his family, and in 1840 he staged Kanjinchō, adapting the Noh play Ataka to kabuki with nagauta music. Its success opened a whole genre of kabuki dance-dramas based on Noh (matsubame-mono)."
+  ],
+  "portrait_file": "Danjūrō Ichikawa VII as Benkei cropped.jpg",
+  "portrait_caption": "Woodblock print of Danjūrō VII as Benkei in Kanjinchō"
+ },
+ {
+  "id": "takemoto-gidayu",
+  "name": "Takemoto Gidayū",
+  "name_native": "竹本義太夫",
+  "born": "1651",
+  "died": "1714",
+  "sort": 1651,
+  "birthplace": "Tennōji, Osaka",
+  "deathplace": "Osaka",
+  "nationality": "Japanese",
+  "movements": [
+   "bunraku-kabuki"
+  ],
+  "bio": "Chanter who founded the Takemoto-za puppet theatre in Osaka; his style of narration, gidayū-bushi, became the voice of bunraku.",
+  "bio_full": [
+   "Born a farmer's son in Osaka, Gidayū trained in the jōruri chanting of Kyoto and in 1684 opened his own puppet theatre, the Takemoto-za, in Dōtonbori. In 1685 he began a long partnership with the playwright Chikamatsu Monzaemon, who wrote many of his greatest successes, including The Love Suicides at Sonezaki (1703).",
+   "His powerful, emotionally varied style of narration, accompanied by the thick-necked shamisen, absorbed elements of Noh chant and earlier jōruri and gave the chanter (tayū) the voices of every character as well as the narration. Gidayū-bushi became so dominant that 'gidayū' became a general name for puppet chanting, and the Takemoto line survives in the bunraku of today."
+  ]
+ },
+ {
+  "id": "chikamatsu-monzaemon",
+  "name": "Chikamatsu Monzaemon",
+  "name_native": "近松門左衛門",
+  "born": "1653",
+  "died": "1725",
+  "sort": 1653,
+  "birthplace": "Echizen Province",
+  "deathplace": "Osaka",
+  "nationality": "Japanese",
+  "movements": [
+   "bunraku-kabuki"
+  ],
+  "bio": "The great playwright of Japanese puppet theatre and kabuki, author of some hundred jōruri plays.",
+  "bio_full": [
+   "Born into a samurai family, Chikamatsu entered the service of a Kyoto noble and began writing for the puppet theatre in the 1680s. He wrote kabuki plays for the actor Sakata Tōjūrō in the 1690s, then from 1705 worked as staff playwright of Takemoto Gidayū's theatre in Osaka.",
+   "His history plays and domestic tragedies of love suicide shaped both bunraku and kabuki, and he held that art lies in the thin margin between truth and fiction. His major plays are discussed in the literature section; here the focus is his partnership with Gidayū."
+  ],
+  "portrait_file": "Chikamatsu Monzaemon.jpg",
+  "portrait_caption": "Edo-period portrait of Chikamatsu Monzaemon"
+ },
+ {
+  "id": "takeda-izumo-ii",
+  "name": "Takeda Izumo II",
+  "name_native": "二代目 竹田出雲",
+  "born": "1691",
+  "died": "1756",
+  "sort": 1691,
+  "birthplace": "Osaka",
+  "deathplace": "Osaka",
+  "nationality": "Japanese",
+  "movements": [
+   "bunraku-kabuki"
+  ],
+  "bio": "Manager of the Takemoto-za and leading author of the collaborative team behind the three great puppet plays of the 1740s.",
+  "bio_full": [
+   "Takeda Izumo II was the son of Takeda Izumo I, who had taken over management of the Takemoto-za, and succeeded him in 1747. He wrote with house playwrights, above all Namiki Sōsuke (Senryū I) and Miyoshi Shōraku, in the collaborative system that had replaced the single author after Chikamatsu.",
+   "In three years this team produced Sugawara Denju Tenarai Kagami (1746), Yoshitsune Senbon Zakura (1747) and Kanadehon Chūshingura (1748), the most popular plays of the puppet stage, all of them adapted for kabuki within months. The shares of each author are debated, and the plays are usually credited to the trio together. In this period puppets grew larger and three-man operation was developed."
+  ]
+ },
+ {
+  "id": "yatsuhashi-kengyo",
+  "name": "Yatsuhashi Kengyō",
+  "name_native": "八橋検校",
+  "born": "1614",
+  "died": "1685",
+  "sort": 1614,
+  "birthplace": "Iwaki (Fukushima) (traditional)",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "koto-shamisen"
+  ],
+  "bio": "Blind musician who founded the modern koto tradition, credited with Rokudan no Shirabe and the danmono form.",
+  "bio_full": [
+   "Yatsuhashi was a blind musician who first played the shamisen in Osaka, then studied the koto music of the Buddhist temples of northern Kyushu (tsukushi-goto), which was restricted to sighted priests and samurai. He took it to Kyoto and Edo, adapted it for blind professionals and townspeople, and attained the highest rank of kengyō in the blind musicians' guild.",
+   "He is credited with devising the hira-jōshi tuning based on the in scale, which made the koto sound distinctly Japanese, with thirteen songs in kumiuta form and with the instrumental danmono pieces Rokudan, Midare and Hachidan, though some attributions are traditional. His followers formed the Ikuta and Yamada schools, and he is honoured as the father of modern koto music."
+  ]
+ },
+ {
+  "id": "kurosawa-kinko",
+  "name": "Kurosawa Kinko",
+  "name_native": "黒沢琴古",
+  "born": "1710",
+  "died": "1771",
+  "sort": 1710,
+  "birthplace": "Fukuoka, Chikuzen Province",
+  "deathplace": "Edo",
+  "nationality": "Japanese",
+  "movements": [
+   "shakuhachi-fuke"
+  ],
+  "bio": "Samurai and Fuke shakuhachi player who collected and arranged the 36 honkyoku of the Kinko-ryū, the leading school of shakuhachi.",
+  "bio_full": [
+   "Kinko was a retainer of the Kuroda clan of Fukuoka who left service and became a komusō of the Fuke sect. He travelled widely through Japan collecting the shakuhachi pieces played at the sect's temples and became an instructor at the Ichigetsuji and Reihōji temples near Edo.",
+   "He arranged thirty-six pieces as the core repertory of his tradition, the Kinko-ryū honkyoku, which his descendants and pupils, especially Hisamatsu Fūyō, transmitted and organised into a school. After the sect was abolished in 1871 the school continued as a secular art and became, with the later Tozan-ryū, one of the two main shakuhachi schools."
+  ]
+ },
+ {
+  "id": "yoshizawa-kengyo",
+  "name": "Yoshizawa Kengyō II",
+  "name_native": "二代 吉沢検校",
+  "born": "1800",
+  "died": "1872",
+  "sort": 1800,
+  "birthplace": "Owari Province (Nagoya)",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "koto-shamisen"
+  ],
+  "bio": "Blind koto master of Nagoya who created the kokin-gumi songs on classical poems, including Chidori no Kyoku.",
+  "bio_full": [
+   "Yoshizawa was a blind musician of the Nagoya region, trained in koto, shamisen, kokyū and heike biwa, who rose to the rank of kengyō. Tired of the elaborate jiuta of his day, he turned for inspiration to the older music of the court and the ideals of the classical age.",
+   "He set waka poems from the Kokinshū and other anthologies as the kokin-gumi, using a new koto tuning (kokin-jōshi) influenced by gagaku. Chidori no Kyoku is the best known. His style, with its restraint and archaism, inspired later Meiji koto composers."
+  ]
+ },
+ {
+  "id": "ureuk",
+  "name": "Ureuk",
+  "name_native": "우륵 (于勒)",
+  "born": "6th century",
+  "died": "6th century",
+  "sort": 530,
+  "birthplace": "Gaya confederacy",
+  "deathplace": "Silla",
+  "nationality": "Korean",
+  "movements": [
+   "korean-court-music"
+  ],
+  "bio": "Musician of the Gaya kingdom who, by tradition, perfected the gayageum zither and brought it to Silla.",
+  "bio_full": [
+   "According to the twelfth-century Samguk sagi, King Gasil of Gaya had a twelve-string zither made on the model of the Chinese zheng and ordered the musician Ureuk to compose twelve pieces for it, named after places in Gaya. As Gaya declined, Ureuk defected to Silla around 551, where King Jinheung settled him near Chungju and assigned students to learn his music; Silla conquered the last Gaya states in 562.",
+   "Ureuk's pieces are lost, but the instrument, the gayageum, became the most important string instrument of Korean music. A spot by the Namhan River at Chungju, Tangeumdae, is traditionally where he played, and he is honoured as one of the three great musicians of Korean history, with Wang San-ak and Bak Yeon."
+  ]
+ },
+ {
+  "id": "bak-yeon",
+  "name": "Bak Yeon",
+  "name_native": "박연 (朴堧)",
+  "born": "1378",
+  "died": "1458",
+  "sort": 1378,
+  "birthplace": "Yeongdong, Chungcheong Province",
+  "deathplace": "",
+  "nationality": "Korean",
+  "movements": [
+   "korean-court-music"
+  ],
+  "bio": "Joseon court official who rebuilt the ritual music of Korea under King Sejong, recasting its instruments and pitch standards.",
+  "bio_full": [
+   "Bak Yeon passed the civil examination in 1411 and in 1425 was put in charge of court music under King Sejong. Finding the ritual music inherited from Goryeo in disorder, he studied Chinese ritual texts, reconstructed the ancient pitch pipes, and in 1427 produced a new set of stone chimes (pyeonggyeong) from stone found in Korea at Namyang, instead of relying on imports from China. He submitted dozens of memorials on music and ritual and oversaw the reform of the court orchestras.",
+   "His reforms established aak, Confucian ritual music in the Chinese manner, on a solid Korean basis; the music of the Munmyo shrine to Confucius still follows this tradition. He is counted with Ureuk and Wang San-ak as one of the three great musicians of Korea and was a skilled player of the flute (daegeum)."
+  ]
+ },
+ {
+  "id": "sejong",
+  "name": "Sejong the Great",
+  "name_native": "세종대왕 (世宗大王)",
+  "born": "1397",
+  "died": "1450",
+  "sort": 1397,
+  "birthplace": "Hanseong (Seoul)",
+  "deathplace": "Hanseong (Seoul)",
+  "nationality": "Korean",
+  "movements": [
+   "korean-court-music"
+  ],
+  "bio": "Fourth king of Joseon, who devised the Hangul alphabet, sponsored science and ritual reform, and composed court music in native Korean style.",
+  "bio_full": [
+   "Yi Do became king in 1418. His reign is remembered as the golden age of Joseon: he founded the Hall of Worthies, promulgated the Korean alphabet Hunminjeongeum in 1446, supported astronomical instruments, rain gauges and agricultural manuals, and strengthened the northern frontier. He died in 1450 after years of illness.",
+   "Sejong was a trained musician with a fine ear. He supported Bak Yeon's reform of ritual aak, but he also argued that Koreans should not offer Chinese music to their ancestors, and he composed new pieces based on Korean music, including Botaepyeong and Jeongdaeeop, later adopted for the royal ancestral shrine, and Yeominlak. The mensural notation jeongganbo, the first East Asian system to show rhythm precisely, was created at his court."
+  ]
+ },
+ {
+  "id": "korean-court-musicians",
+  "name": "Korean court musicians",
+  "name_native": "궁중 악사",
+  "born": "c. 1116",
+  "died": "present",
+  "sort": 1116,
+  "birthplace": "",
+  "deathplace": "",
+  "nationality": "Korean",
+  "movements": [
+   "korean-court-music"
+  ],
+  "bio": "The musicians of the Goryeo and Joseon court music offices, and of today's National Gugak Center, who transmitted Korea's court repertory.",
+  "bio_full": [
+   "The court music of Korea was performed from Goryeo times by musicians of a court music office, in Joseon called the Jangagwon, divided into players of ritual aak and of native hyangak and Tang-derived dangak. They were of low social status but highly trained, and court treatises such as the Akhak gwebeom (1493) recorded their instruments, costumes and dances.",
+   "After the end of the Korean Empire the institution survived as the Yi Royal Household Music Department under Japanese rule, and in 1951 it became the National Gugak Center, which today preserves and performs the Jongmyo music, Sujecheon and the other court pieces."
+  ]
+ },
+ {
+  "id": "pansori-singers",
+  "name": "Pansori singers",
+  "name_native": "판소리 명창",
+  "born": "c. 1700",
+  "died": "present",
+  "sort": 1700,
+  "birthplace": "",
+  "deathplace": "",
+  "nationality": "Korean",
+  "movements": [
+   "pansori-sanjo"
+  ],
+  "bio": "The professional singers (gwangdae) who created and transmitted pansori, from anonymous eighteenth-century performers to the famed master singers (myeongchang) of the nineteenth century.",
+  "bio_full": [
+   "Pansori emerged in the southwestern Jeolla region in the late seventeenth or early eighteenth century, probably from shamanic songs and the narratives of travelling entertainers. Its singers were low-born professional performers who sang in market squares and at festivals and, by the nineteenth century, for aristocrats and the court. The so-called eight masters of the early nineteenth century, such as Song Heung-rok and Mo Heung-gap, developed the classic styles.",
+   "The stories were not written by single authors but grew in performance, each singer adding passages (deoneum) that pupils inherited. Different lineages (je) of the eastern and western schools preserve distinct versions. The tales also circulated as novels, treated in the literature section, and pansori was proclaimed UNESCO Intangible Heritage in 2003."
+  ]
+ },
+ {
+  "id": "shin-jae-hyo",
+  "name": "Shin Jae-hyo",
+  "name_native": "신재효 (申在孝)",
+  "born": "1812",
+  "died": "1884",
+  "sort": 1812,
+  "birthplace": "Gochang, Jeolla Province",
+  "deathplace": "Gochang",
+  "nationality": "Korean",
+  "movements": [
+   "pansori-sanjo"
+  ],
+  "bio": "Local official and patron who wrote down, edited and theorised pansori, and trained the first women singers.",
+  "bio_full": [
+   "Shin Jae-hyo was a wealthy hereditary clerk in Gochang. He became the leading patron and teacher of pansori in the mid nineteenth century, housing and supporting singers in his home and, unusually, training female singers such as Jin Chae-seon, who performed before the regent Heungseon Daewongun in 1867.",
+   "He wrote down and revised the texts of six pansori stories, refining their language for educated listeners, and wrote short songs of his own. In Gwangdaega (Song of the Singer) he named the four qualities a singer needs: presence, words, voice and acting. His editions shaped the modern repertory, though some critics feel he removed earthy humour from the oral tradition."
+  ]
+ },
+ {
+  "id": "kim-chang-jo",
+  "name": "Kim Chang-jo",
+  "name_native": "김창조 (金昌祖)",
+  "born": "1856",
+  "died": "1919",
+  "sort": 1856,
+  "birthplace": "Yeongam, Jeolla Province",
+  "deathplace": "",
+  "nationality": "Korean",
+  "movements": [
+   "pansori-sanjo"
+  ],
+  "bio": "Gayageum player traditionally credited with creating sanjo, the virtuoso solo form of Korean instrumental music.",
+  "bio_full": [
+   "Kim Chang-jo came from a family of musicians in South Jeolla and was a master of the gayageum and of the improvisatory shaman music sinawi. In the late nineteenth century he combined its melodies with the rhythmic cycles of pansori into a long solo work for gayageum.",
+   "This was gayageum sanjo, a suite of movements that grows from the slow jinyangjo to fast hwimori, with the player accompanied by a janggu drum. Other masters soon created sanjo for the geomungo, daegeum and other instruments. Kim taught pupils including his granddaughter Kim Juk-pa and Han Seong-gi, whose schools are still played. Some scholars stress that others developed similar music at the same time."
+  ]
+ },
+ {
+  "id": "korean-folk-singers",
+  "name": "Korean folk singers",
+  "name_native": "민요 가수",
+  "born": "traditional",
+  "died": "present",
+  "sort": 1800,
+  "birthplace": "",
+  "deathplace": "",
+  "nationality": "Korean",
+  "movements": [
+   "pansori-sanjo"
+  ],
+  "bio": "The anonymous singers who created and passed on Korea's folk songs (minyo), including the many regional forms of Arirang.",
+  "bio_full": [
+   "Korean folk songs were the music of farmers, fishermen, women at work and travelling entertainers, sung in regional styles from the northwest to Jeolla and the eastern mountains. They were transmitted orally and varied by every singer and village.",
+   "In the late nineteenth and twentieth centuries professional singers, gramophone records and the radio spread certain songs nationally, above all Arirang, which became a symbol of Korean identity at home and in the diaspora."
+  ]
+ },
+ {
+  "id": "abing",
+  "name": "Abing",
+  "name_native": "阿炳",
+  "born": "1893",
+  "died": "1950",
+  "sort": 1893,
+  "birthplace": "Wuxi, Jiangsu",
+  "deathplace": "Wuxi",
+  "nationality": "Chinese",
+  "movements": [
+   "chinese-instrumental"
+  ],
+  "bio": "Blind street musician of Wuxi, whose erhu piece The Moon Reflected on the Second Spring is one of the best-loved works of Chinese music.",
+  "bio_full": [
+   "Hua Yanjun, known as Abing, was the son of a Daoist priest and learned ritual music and instruments in his father's temple. After his father's death he fell into poverty, lost his sight by his mid thirties, and earned a living playing erhu and pipa and singing news ballads in the streets and teahouses of Wuxi.",
+   "In 1950 the musicologists Yang Yinliu and Cao Anhe recorded six of his pieces on a wire recorder, three for erhu and three for pipa, a few months before his death. They include Erquan yingyue, which became famous across China and was arranged for many forces. Abing became an emblem of the suffering folk artist, though the circumstances of his life have been romanticised."
+  ]
+ },
+ {
+  "id": "chinese-folk-musicians",
+  "name": "Chinese folk & solo musicians",
+  "name_native": "民間樂師",
+  "born": "traditional",
+  "died": "present",
+  "sort": 1700,
+  "birthplace": "",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "chinese-instrumental"
+  ],
+  "bio": "The anonymous and lineage musicians of China's regional traditions, whose pieces were handed down orally and printed in collections from the nineteenth century.",
+  "bio_full": [
+   "Much Chinese instrumental and folk music has no known composer. Pipa players passed down large programmatic pieces within lineages before they were printed, as in Hua Qiuping's collection of 1818. Folk songs circulated in many regional versions and were taken up by opera, street musicians and, from the 1920s, the gramophone.",
+   "In the twentieth century reformers in Shanghai and later state conservatories arranged these pieces for modern Chinese orchestras and solo concert performance, fixing versions that are now taught in conservatories."
+  ]
+ },
+ {
+  "id": "tan-xinpei",
+  "name": "Tan Xinpei",
+  "name_native": "譚鑫培",
+  "born": "1847",
+  "died": "1917",
+  "sort": 1847,
+  "birthplace": "Jiangxia, Hubei",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "peking-opera"
+  ],
+  "bio": "The leading Peking opera singer of the late Qing, master of the laosheng role of older men and star of China's first film.",
+  "bio_full": [
+   "Tan Xinpei was the son of an opera actor and trained in Beijing as a military role specialist before switching to the laosheng type of mature male characters. He studied with Cheng Changgeng and Yu Sansheng and in 1890 became an actor for the imperial palace, where the Empress Dowager Cixi was an ardent patron.",
+   "His smooth, melancholy singing created the Tan school, the most influential style of laosheng singing, and nearly every later laosheng singer descends from it. In 1905 he was filmed performing scenes from Dingjunshan, the first Chinese film, and his gramophone recordings preserve his voice."
+  ]
+ },
+ {
+  "id": "mei-lanfang",
+  "name": "Mei Lanfang",
+  "name_native": "梅蘭芳",
+  "born": "1894",
+  "died": "1961",
+  "sort": 1894,
+  "birthplace": "Beijing",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "peking-opera"
+  ],
+  "bio": "The most famous Peking opera performer of the twentieth century, a male player of female roles who brought the art to Japan, the United States and the Soviet Union.",
+  "bio_full": [
+   "Mei Lanfang was born into a Beijing family of actors and trained from childhood in the dan, female roles. By the 1910s he was a star, and with the writer Qi Rushan he created new plays and dances and revived older ones, enriching the qingyi role with acting and movement. He toured Japan in 1919, the United States in 1930 and the Soviet Union in 1935, where his performances impressed Stanislavski, Eisenstein and Brecht. During the Japanese occupation he grew a moustache and refused to perform.",
+   "His elegant style, the Mei school, set the standard for dan performers, and works such as Farewell My Concubine and The Drunken Concubine remain associated with him. After 1949 he became head of the China Peking Opera Academy."
+  ]
+ },
+ {
+  "id": "xian-xinghai",
+  "name": "Xian Xinghai",
+  "name_native": "冼星海",
+  "born": "1905",
+  "died": "1945",
+  "sort": 1905,
+  "birthplace": "Macau",
+  "deathplace": "Moscow",
+  "nationality": "Chinese",
+  "movements": [
+   "modern-composers"
+  ],
+  "bio": "Composer of the Yellow River Cantata, the most famous Chinese patriotic work of the war against Japan.",
+  "bio_full": [
+   "Xian Xinghai was born in Macau to a poor fisherman's family and studied music in Guangzhou, Beijing and Shanghai. From 1929 to 1935 he studied in Paris, working at odd jobs, and was accepted into the Paris Conservatoire. Back in China he wrote songs for the anti-Japanese movement, and in 1938 he went to the Communist base at Yan'an to teach at the Lu Xun Academy of Arts. Sent to the Soviet Union in 1940, he was stranded there by the German invasion, fell ill and died in Moscow in 1945.",
+   "His music combines Chinese folk melody with Western forms in a direct, popular style intended for mass singing. Besides the Yellow River Cantata he wrote hundreds of songs, symphonies and other works, and he became a national hero in the People's Republic."
+  ]
+ },
+ {
+  "id": "nie-er",
+  "name": "Nie Er",
+  "name_native": "聶耳",
+  "born": "1912",
+  "died": "1935",
+  "sort": 1912,
+  "birthplace": "Kunming, Yunnan",
+  "deathplace": "Fujisawa, Japan",
+  "nationality": "Chinese",
+  "movements": [
+   "modern-composers"
+  ],
+  "bio": "Young composer of the left-wing film songs of 1930s Shanghai, including the March of the Volunteers, now China's national anthem.",
+  "bio_full": [
+   "Nie Er grew up in Kunming, joined a song-and-dance troupe in Shanghai in 1931 and joined the Chinese Communist Party in 1933. He wrote songs for left-wing films and plays that dealt with workers, poverty and resistance to Japan. In 1935 he left for Japan to avoid arrest, intending to go on to Europe, but drowned while swimming at Fujisawa aged twenty-three.",
+   "In just two years of work he wrote about forty songs in a vigorous style suited to mass singing, among them the 'Graduation Song' and the March of the Volunteers, written for the film Children of Troubled Times (1935)."
+  ]
+ },
+ {
+  "id": "he-zhanhao",
+  "name": "He Zhanhao",
+  "name_native": "何占豪",
+  "born": "1933",
+  "died": "",
+  "sort": 1933,
+  "birthplace": "Zhuji, Zhejiang",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "postwar-avant-garde"
+  ],
+  "bio": "Composer and violinist who wrote The Butterfly Lovers Violin Concerto with Chen Gang as students at the Shanghai Conservatory.",
+  "bio_full": [
+   "He Zhanhao played in a Yue opera troupe before entering the Shanghai Conservatory, where he was in a student group exploring ways to play Chinese music on the violin. In 1958 he and fellow student Chen Gang (1935–2024) began a concerto on a story from Yue opera, completed in 1959.",
+   "The Butterfly Lovers became the most popular Chinese orchestral work, and He went on to compose for the Chinese orchestra, including concertos for guzheng and erhu. The concerto's shared authorship, with Chen Gang responsible for much of the orchestration, is acknowledged in its credits."
+  ]
+ },
+ {
+  "id": "tan-dun",
+  "name": "Tan Dun",
+  "name_native": "譚盾",
+  "born": "1957",
+  "died": "",
+  "sort": 1957,
+  "birthplace": "Simao, Changsha, Hunan",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "postwar-avant-garde"
+  ],
+  "bio": "Chinese composer of operas, concertos and film scores who blends Chinese traditions with the Western avant-garde.",
+  "bio_full": [
+   "Tan Dun grew up in rural Hunan, was sent to work on a farm during the Cultural Revolution, and played in a Peking opera troupe before entering the reopened Central Conservatory in Beijing in 1978. In 1986 he moved to New York to study at Columbia University.",
+   "His music mixes Chinese instruments, ritual and folk sounds with orchestral and electronic resources, and sometimes uses water, paper and stones as instruments. His works include the opera Marco Polo (1996), Symphony 1997 for the Hong Kong handover, and the score for Crouching Tiger, Hidden Dragon (2000)."
+  ]
+ },
+ {
+  "id": "rentaro-taki",
+  "name": "Rentarō Taki",
+  "name_native": "瀧廉太郎",
+  "born": "1879",
+  "died": "1903",
+  "sort": 1879,
+  "birthplace": "Tokyo",
+  "deathplace": "Ōita",
+  "nationality": "Japanese",
+  "movements": [
+   "modern-composers"
+  ],
+  "bio": "Pioneering Meiji composer of songs and piano music, best known for Kōjō no Tsuki.",
+  "bio_full": [
+   "Taki Rentarō was the son of a government official and grew up in several provincial towns, including Taketa in Ōita. He entered the Tokyo Music School in 1894, aged fifteen, and quickly became its most gifted student, teaching there after graduation. In 1901 he went to study at the Leipzig Conservatory, one of the first Japanese composers to study in Europe, but he contracted tuberculosis within months, returned home in 1902 and died in Ōita the following year, aged twenty-three.",
+   "In a career of only a few years he wrote songs for school songbooks, including Kōjō no Tsuki and Hana, and some of the first Japanese piano pieces. His songs, Western in harmony but Japanese in melodic feeling, are still among the best known in Japan."
+  ]
+ },
+ {
+  "id": "kosaku-yamada",
+  "name": "Kōsaku Yamada",
+  "name_native": "山田耕筰",
+  "born": "1886",
+  "died": "1965",
+  "sort": 1886,
+  "birthplace": "Tokyo",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "modern-composers"
+  ],
+  "bio": "Composer and conductor who founded Japan's first professional orchestra and wrote the songs Akatombo and Karatachi no hana.",
+  "bio_full": [
+   "Yamada Kōsaku studied at the Tokyo Music School and from 1910 to 1913 in Berlin, where he wrote the first Japanese symphony. Back in Japan he conducted, founded the forerunner of the NHK Symphony Orchestra in 1925 with Hidemaro Konoe, and composed operas, orchestral works and some 1,600 songs and choral pieces. He worked with the poet Kitahara Hakushū on many songs. During the war he led wartime musical organisations, which drew criticism after 1945.",
+   "His songs seek to fit melody to the natural accents of Japanese speech, and they made him the most popular Japanese composer of his generation. Akatombo (Red Dragonfly) is among the best-loved Japanese songs."
+  ]
+ },
+ {
+  "id": "michio-miyagi",
+  "name": "Michio Miyagi",
+  "name_native": "宮城道雄",
+  "born": "1894",
+  "died": "1956",
+  "sort": 1894,
+  "birthplace": "Kobe",
+  "deathplace": "Kariya, Aichi",
+  "nationality": "Japanese",
+  "movements": [
+   "modern-composers",
+   "koto-shamisen"
+  ],
+  "bio": "Blind koto virtuoso and composer who modernised Japanese traditional music, author of Haru no Umi.",
+  "bio_full": [
+   "Miyagi lost his sight in childhood and was apprenticed to a koto teacher of the Ikuta school in Kobe. As a teenager he lived in Korea, where his family had moved, and there wrote his first piece. He moved to Tokyo in 1917 and with the shakuhachi player Yoshida Seifū and others led the 'new Japanese music' (shin nihon ongaku) movement. He taught at the Tokyo Music School and invented new instruments, including the seventeen-string bass koto. He died in 1956 after falling from a night train.",
+   "Miyagi wrote over four hundred works that combine traditional koto technique with Western forms and harmony, and he was also a fine essayist. Haru no Umi became famous internationally after he recorded it with the French violinist Renée Chemet in 1932."
+  ]
+ },
+ {
+  "id": "takemitsu",
+  "name": "Tōru Takemitsu",
+  "name_native": "武満徹",
+  "born": "1930",
+  "died": "1996",
+  "sort": 1930,
+  "birthplace": "Tokyo",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "postwar-avant-garde"
+  ],
+  "bio": "The most internationally celebrated Japanese composer, known for his sensuous orchestral music, film scores and November Steps.",
+  "bio_full": [
+   "Takemitsu was largely self-taught. After war service he discovered Western music through American forces radio and in 1951 co-founded the experimental arts group Jikken Kōbō. His Requiem for Strings (1957) was praised by Igor Stravinsky on a visit to Japan. He wrote more than ninety film scores, including for Kurosawa's Ran and Teshigahara's Woman in the Dunes.",
+   "Influenced by Debussy, Messiaen and John Cage, his music values timbre, silence and the individual sound, which he related to Japanese aesthetics. After resisting Japanese tradition in his youth he wrote November Steps (1967) for biwa, shakuhachi and orchestra, and later works for gagaku. He is remembered for luminous orchestral works such as A Flock Descends into the Pentagonal Garden and his many pieces with 'water' and 'garden' imagery."
+  ]
+ },
+ {
+  "id": "isang-yun",
+  "name": "Isang Yun",
+  "name_native": "윤이상 (尹伊桑)",
+  "born": "1917",
+  "died": "1995",
+  "sort": 1917,
+  "birthplace": "Tongyeong, Gyeongsang Province",
+  "deathplace": "Berlin",
+  "nationality": "Korean-German",
+  "movements": [
+   "postwar-avant-garde"
+  ],
+  "bio": "Korean-born composer in Germany who forged a modernist style from Korean court music; abducted by South Korean agents in 1967.",
+  "bio_full": [
+   "Isang Yun studied music in Osaka and Tokyo, was imprisoned by the Japanese for resistance activity during the war, and after 1945 taught in Tongyeong and Busan. In 1956 he went to study in Paris and Berlin and settled in West Germany. In 1967 South Korean intelligence agents abducted him from Berlin and he was sentenced to life imprisonment in Seoul on charges of spying for North Korea; international protests by musicians led to his release in 1969. He took German citizenship and taught at the Berlin Hochschule für Musik until 1985. He never returned to the South.",
+   "Yun's technique of the 'main tone' (Hauptton), in which a single sustained pitch is ornamented, bent and coloured, was inspired by Korean court music and Daoist ideas. His output includes operas, five symphonies, concertos and chamber music. Réak (1966) for orchestra was his international breakthrough."
+  ]
+ },
+ {
+  "id": "hwang-byungki",
+  "name": "Hwang Byungki",
+  "name_native": "황병기 (黃秉冀)",
+  "born": "1936",
+  "died": "2018",
+  "sort": 1936,
+  "birthplace": "Seoul",
+  "deathplace": "Seoul",
+  "nationality": "Korean",
+  "movements": [
+   "postwar-avant-garde"
+  ],
+  "bio": "Gayageum virtuoso and the leading composer of new music for Korean traditional instruments.",
+  "bio_full": [
+   "Hwang Byungki began studying gayageum as a schoolboy during the Korean War in Busan, while training in law at Seoul National University. He taught at Seoul National University and Ewha Womans University, toured internationally as a soloist and was the first Korean musician to record gayageum music abroad in quantity.",
+   "Starting with Forest (1963) he wrote new pieces for the gayageum in a lyrical, often meditative style that drew on Silla and court traditions as well as modern techniques, including the avant-garde The Labyrinth (1975). Chimhyangmu (1974) is his best-known work. He did more than anyone to create a contemporary repertory for the instrument."
+  ]
+ },
+ {
+  "id": "ahn-eak-tai",
+  "name": "Ahn Eak-tai",
+  "name_native": "안익태 (安益泰)",
+  "born": "1906",
+  "died": "1965",
+  "sort": 1906,
+  "birthplace": "Pyongyang",
+  "deathplace": "Mallorca, Spain",
+  "nationality": "Korean",
+  "movements": [
+   "modern-composers"
+  ],
+  "bio": "Composer and conductor of the Korea Fantasy, whose melody became the South Korean national anthem.",
+  "bio_full": [
+   "Ahn Eak-tai studied cello in Tokyo and then in the United States, and from 1936 lived in Europe, studying with Richard Strauss and conducting orchestras in Germany, Italy and Spain. He settled in Mallorca, founding its symphony orchestra, and returned to Korea for festivals after independence.",
+   "His Korea Fantasy, completed in 1938, ends with a choral setting of the Aegukga text that became South Korea's national anthem. Revelations since the 2000s that he conducted for Nazi and Japanese wartime cultural events have made him a controversial figure in Korea."
+  ]
+ }
+]
