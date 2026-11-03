@@ -1,0 +1,172 @@
+[
+ {
+  "id": "shang-zhou-religion",
+  "name": "Shang and Zhou religion",
+  "name_native": "商周宗教",
+  "dates": "c. 1250–256 BC",
+  "period": "early-dynasties",
+  "summary": "The earliest recorded Chinese religion centred on the royal ancestors, a high god called Di and later Heaven (Tian), and on divination by cracking heated bones and shells. Shang kings offered sacrifices, sometimes including human victims, to keep the dead and the spirits favourable. The Zhou dynasty justified its rule by the Mandate of Heaven and elaborated the ancestral rites that later Confucians took as their model."
+ },
+ {
+  "id": "confucian-ritual",
+  "name": "Confucian ritual and the state cult",
+  "name_native": "禮教",
+  "dates": "c. 500 BC – 1910s",
+  "period": "early-dynasties",
+  "summary": "Confucius and his followers treated ritual (li) as the backbone of moral and social life: mourning, ancestor offerings, family ceremonies and the great sacrifices of the state to Heaven, Earth and the dynastic ancestors. From the Han onward emperors, and later the kings of Joseon Korea, performed these rites as a duty of rule, and Confucius himself received sacrifice in temples across East Asia. Whether Confucianism is a religion has long been debated; its ritual side was certainly religious in practice.",
+  "image_file": "Korean Royal Ancestral Ritual Music-Jongmyo Jeryeak-01.jpg",
+  "image_caption": "Performance of the Jongmyo royal ancestral rite in Seoul"
+ },
+ {
+  "id": "buddhism-arrives",
+  "name": "Buddhism's arrival and the translators",
+  "name_native": "佛教東傳",
+  "dates": "1st – 6th century",
+  "period": "empire-formation",
+  "summary": "Buddhism reached China along the Silk Road and the sea routes from about the first century AD, carried by Central Asian and Indian monks and merchants. Generations of translators, above all Kumārajīva, turned Indian scriptures into Chinese, while Chinese pilgrims such as Faxian travelled to India for texts. Through China, Buddhism passed to Korea in the fourth century and to Japan in the sixth."
+ },
+ {
+  "id": "early-daoism",
+  "name": "Celestial Masters and early religious Daoism",
+  "name_native": "天師道・上清・靈寶",
+  "dates": "AD 142 – 6th century",
+  "period": "empire-formation",
+  "summary": "Organised Daoism began in the second century with Zhang Daoling's Way of the Celestial Masters in Sichuan, a community with priests, registers, confession and healing that revered a deified Laozi. In the fourth and fifth centuries new revealed scriptures created the Shangqing (Highest Clarity) and Lingbao (Numinous Treasure) traditions, with meditation on inner gods, alchemy and grand liturgies. Lu Xiujing and Tao Hongjing gathered these into a canon.",
+  "image_file": "Ascending to the Top of Clouds (Zhang Tianshi), by Luo Pin, Qing dynasty, Qianlong emperor, 1776, ink on paper - Asian Art Museum - San Francisco, CA - DSC07448.jpg",
+  "image_caption": "Luo Pin, Zhang the Celestial Master ascending, 1776 (Asian Art Museum, San Francisco)"
+ },
+ {
+  "id": "pure-land",
+  "name": "Pure Land",
+  "name_native": "淨土",
+  "dates": "5th century – present",
+  "period": "empire-formation",
+  "summary": "Pure Land devotion focuses on Amitābha (Amida), the Buddha of Infinite Light, who vowed to bring all who call on him to rebirth in his Western Paradise, where enlightenment is assured. Huiyuan's society on Mount Lu, the Chinese masters Tanluan and Shandao, the Japanese Genshin, Hōnen, Shinran and Rennyo shaped it into the most widely practised form of East Asian Buddhism, centred on reciting the Buddha's name (nianfo, nenbutsu).",
+  "image_file": "Pure Land based on the Amitayurdhyana Sutra (Mandaraji Imizu).jpg",
+  "image_caption": "Painting of Amitābha's Pure Land after the Contemplation Sutra, Mandara-ji, Imizu"
+ },
+ {
+  "id": "tiantai-huayan",
+  "name": "Tiantai/Tendai and Huayan/Kegon",
+  "name_native": "天台・華嚴",
+  "dates": "6th – 9th century",
+  "period": "cosmopolitan-age",
+  "summary": "The first schools of Buddhist thought created in China. Tiantai, founded by Zhiyi on Mount Tiantai, ranked all the Buddha's teachings with the Lotus Sutra at the summit and joined doctrine to meditation; Saichō carried it to Japan as Tendai and Uicheon to Korea as Cheontae. Huayan, systematised by Fazang, built on the Flower Garland Sutra a vision of all phenomena interpenetrating; it became Hwaeom in Korea and Kegon in Japan.",
+  "image_file": "Mount Tiantai by Wu Bin, 1605, Honolulu Museum of Art 3678.1b.JPG",
+  "image_caption": "Wu Bin, Mount Tiantai, 1605 (Honolulu Museum of Art)"
+ },
+ {
+  "id": "chan-zen-seon",
+  "name": "Chan, Seon and Zen",
+  "name_native": "禪",
+  "dates": "6th century – present",
+  "period": "cosmopolitan-age",
+  "summary": "The meditation school traces itself to the Indian monk Bodhidharma and claims a mind-to-mind transmission outside the scriptures. Historically it took shape in Tang China around figures such as Huineng and Linji, developed the literature of encounter dialogues and kōans in the Song, and spread to Korea as Seon and to Japan as Zen, where Eisai, Dōgen, Ikkyū and Hakuin are its best-known masters. Much of its traditional history is now read by scholars as later retrospective lineage-building.",
+  "image_file": "'Portrait of Daruma' attributed to Soga Dasoku.jpg",
+  "image_caption": "Bodhidharma (Daruma), ink painting attributed to Soga Dasoku, 15th century"
+ },
+ {
+  "id": "nara-state-buddhism",
+  "name": "Asuka and Nara Buddhism",
+  "name_native": "飛鳥・奈良仏教",
+  "dates": "538 – 794",
+  "period": "cosmopolitan-age",
+  "summary": "Buddhism entered Japan officially in the sixth century as a gift from the Korean kingdom of Baekje and was promoted by the court as a protector of the state. Prince Shōtoku, the great temples of Nara, the colossal Buddha of Tōdai-ji and a state network of provincial temples made it part of government, while the six Nara schools studied imported doctrine. Popular tales of karmic reward and wandering ascetics show its spread beyond the court."
+ },
+ {
+  "id": "korean-buddhism",
+  "name": "Buddhism in Silla and Goryeo",
+  "name_native": "신라·고려 불교",
+  "dates": "6th – 14th century",
+  "period": "cosmopolitan-age",
+  "summary": "Buddhism became the state religion of Silla in the sixth century and of the Goryeo dynasty (918–1392). Wonhyo and Uisang created a Korean Buddhist scholarship of international standing; Uicheon and Jinul tried to reconcile doctrinal study with Seon meditation. Goryeo carved the entire Buddhist canon twice on woodblocks, and its monks produced the earliest surviving book printed with movable metal type. Under Joseon (from 1392) Confucian rulers curtailed the monasteries.",
+  "image_file": "한국 문화 여행 음식 해인사003.jpg",
+  "image_caption": "Haeinsa temple, which houses the Tripitaka Koreana woodblocks"
+ },
+ {
+  "id": "shinto",
+  "name": "Kami worship and Shinto",
+  "name_native": "神道",
+  "dates": "ancient – present",
+  "period": "cosmopolitan-age",
+  "summary": "Shinto is the worship of kami, the gods and powers of Japan's land, clans and imperial house, at shrines through purification, offerings, prayers and festivals. Court myth was written down in the Kojiki and Nihon Shoki, and shrine rites were codified in the Engishiki. For most of its history kami worship was intertwined with Buddhism (shinbutsu shūgō); medieval priests at Ise and the Yoshida family, and later nativist scholars, worked to define a distinct Shinto. Historians debate how far a unified 'Shinto' existed before the medieval period.",
+  "image_file": "Amaterasu cave crop.jpg",
+  "image_caption": "The sun goddess Amaterasu emerging from the rock cave, Japanese woodblock print"
+ },
+ {
+  "id": "esoteric-buddhism",
+  "name": "Esoteric Buddhism and Shingon",
+  "name_native": "密教・真言",
+  "dates": "8th century – present",
+  "period": "cosmopolitan-age",
+  "summary": "Esoteric (tantric) Buddhism, brought to Tang China by Indian masters such as Śubhakarasiṃha, Vajrabodhi and Amoghavajra, teaches that buddhahood can be realised through ritual use of body, speech and mind: mudrā, mantra and visualisation of mandalas. Kūkai brought it to Japan as Shingon in 806, and Tendai adopted much of it. Its deities, such as the fierce Fudō Myōō, and its mountain practices fed into Japanese religion at large, including the ascetic Shugendō.",
+  "image_file": "Fudō Myōō (Acalanātha) DP215108.jpg",
+  "image_caption": "Fudō Myōō, wooden statue, Japan (Metropolitan Museum of Art)"
+ },
+ {
+  "id": "kamakura-buddhism",
+  "name": "Kamakura Buddhism",
+  "name_native": "鎌倉仏教",
+  "dates": "1175 – 1333",
+  "period": "song-heian-goryeo",
+  "summary": "In an age of war and of the belief that the Buddhist teaching had entered its final, degenerate phase (mappō), Japanese reformers founded new schools that offered a single, accessible practice: Hōnen's Pure Land (Jōdo-shū) and Shinran's True Pure Land (Jōdo Shinshū) relied on the nenbutsu, Eisai and Dōgen brought Rinzai and Sōtō Zen from China, and Nichiren taught devotion to the Lotus Sutra. Modern historians stress that the older Nara and Tendai institutions remained dominant for centuries.",
+  "image_file": "Ippen shonin eden I.jpg",
+  "image_caption": "Illustrated Biography of the itinerant Pure Land preacher Ippen, 1299"
+ },
+ {
+  "id": "later-daoism",
+  "name": "Inner alchemy, Quanzhen and the Daoist canon",
+  "name_native": "內丹・全真",
+  "dates": "11th – 17th century",
+  "period": "song-heian-goryeo",
+  "summary": "From the Song dynasty Daoist self-cultivation turned inward: inner alchemy (neidan) reinterpreted the language of elixirs as the refinement of the body's own energies. Wang Chongyang founded the monastic Quanzhen (Complete Perfection) order in the twelfth century, blending Daoist, Buddhist and Confucian teaching; under Qiu Chuji it won the favour of Chinggis Khan. The Celestial Masters continued as the Zhengyi order, and the Ming court printed the Daoist canon in 1445.",
+  "image_file": "Changchun-Temple-Master-and-disciples-painting-0316.jpg",
+  "image_caption": "Painting of Wang Chongyang and his disciples, Changchun Temple, Wuhan"
+ },
+ {
+  "id": "korean-shamanism",
+  "name": "Korean shamanism (muism)",
+  "name_native": "무속 (巫俗)",
+  "dates": "ancient – present",
+  "period": "song-heian-goryeo",
+  "summary": "Korean shamanism centres on the mudang, usually a woman, who in a ritual called gut sings, dances and is possessed by gods and ancestors in order to heal, bless, settle the dead and avert misfortune. Its pantheon includes mountain gods, the Seven Stars and the shaman ancestress Princess Bari. Mentioned in Goryeo writings and often disparaged by Joseon Confucians and modern reformers, it survives as a living tradition, several of whose rites are now protected as heritage.",
+  "image_file": "Mansindo (萬神圖), early 19th-c. Korean shamanic painting.jpg",
+  "image_caption": "Mansindo, painting of the shamanic pantheon, early 19th century"
+ },
+ {
+  "id": "popular-religion",
+  "name": "Chinese popular and sectarian religion",
+  "name_native": "民間信仰",
+  "dates": "Song dynasty – present",
+  "period": "song-heian-goryeo",
+  "summary": "Most Chinese religious life took place outside any single institution: offerings to ancestors, the Kitchen God, local earth gods and city gods; cults of deified heroes such as Guandi and the sea goddess Mazu; spirit mediums, temple festivals and pilgrimages. Morality books (shanshu) taught a ledger of merit and demerit, while lay sects such as Luo Qing's preached salvation by the Eternal Mother in 'precious scrolls' (baojuan). Governments alternately patronised and suppressed these forms.",
+  "image_file": "關元帥畫像.jpg",
+  "image_caption": "Portrait of Lord Guan (Guandi), deified general and popular god"
+ },
+ {
+  "id": "christianity-east-asia",
+  "name": "Christianity in East Asia",
+  "name_native": "東亞基督教",
+  "dates": "635 – present",
+  "period": "ming-muromachi-joseon",
+  "summary": "The Church of the East reached Tang China in 635 and left the Xi'an Stele. Catholic missions followed the Portuguese: Francis Xavier came to Japan in 1549 and Matteo Ricci adapted Christianity to Confucian culture in Ming China. Japan banned the faith from 1614, and Hidden Christians (Kakure Kirishitan) kept it in secret for over two centuries. Korean scholars brought Catholicism home from Beijing in 1784 and suffered repeated persecutions; Protestant missions arrived in the nineteenth century.",
+  "image_file": "Jesus on cross to step on.jpg",
+  "image_caption": "Fumi-e, a crucifix plaque Japanese officials made suspected Christians tread on, Edo period"
+ },
+ {
+  "id": "new-religions",
+  "name": "New religions",
+  "name_native": "新宗教",
+  "dates": "1837 – present",
+  "period": "qing-edo-late-joseon",
+  "summary": "From the 1830s, in a time of crisis and Western pressure, charismatic founders who reported direct revelation founded movements outside the established institutions: Nakayama Miki's Tenrikyō and other Japanese new religions, Hong Xiuquan's Taiping Heavenly Kingdom in China, Choe Je-u's Donghak (later Cheondogyo) and Sotaesan's Won Buddhism in Korea. Many offered healing, a coming new world and the equality of believers, and several grew into mass organisations."
+ },
+ {
+  "id": "modern-religion",
+  "name": "Religion and modernity",
+  "name_native": "近代宗教",
+  "dates": "1868 – present",
+  "period": "east-asian-modern",
+  "summary": "Modern states reshaped religion: Meiji Japan forcibly separated kami from buddhas in 1868 and built State Shinto around the emperor until 1945; Republican and Communist China attacked 'superstition'; colonial Korea saw Buddhist reform and Christian growth. Reformers such as Taixu and Han Yong-un remade Buddhism for the modern world, and D. T. Suzuki presented Zen to Western readers."
+ }
+]

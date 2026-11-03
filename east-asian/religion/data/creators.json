@@ -1,0 +1,1480 @@
+[
+ {
+  "id": "shang-diviners",
+  "name": "Shang royal diviners",
+  "name_native": "商代貞人",
+  "born": "c. 1250 BC",
+  "died": "c. 1046 BC",
+  "sort": -1250,
+  "birthplace": "Anyang, Henan",
+  "deathplace": "Anyang, Henan",
+  "nationality": "Chinese",
+  "movements": [
+   "shang-zhou-religion"
+  ],
+  "bio": "The diviners of the late Shang court, whose questions to the ancestors and spirits, carved on bone and shell, are the oldest Chinese writing.",
+  "bio_full": [
+   "At the late Shang capital near modern Anyang, from about 1250 BC until the Zhou conquest, the king and a staff of named diviners put questions to the royal ancestors, nature powers and the high god Di. They applied heat to prepared ox shoulder blades and turtle plastrons, read the cracks, and often carved the question, the forecast and sometimes the outcome beside them. Over a hundred names of diviners are known, grouped by scholars into chronological 'groups' that help date the inscriptions.",
+   "The inscriptions reveal a religion of exchange: the living fed the dead with sacrifices of cattle, grain, wine and sometimes human captives, and the ancestors in turn affected harvests, war, illness and childbirth. Rediscovered only in 1899, when 'dragon bones' sold as medicine were recognised as inscribed, the oracle bones confirmed the Shang king lists recorded a thousand years later and remain the foundation for the study of early Chinese religion and writing."
+  ]
+ },
+ {
+  "id": "confucius",
+  "name": "Confucius",
+  "name_native": "孔子",
+  "born": "551 BC",
+  "died": "479 BC",
+  "sort": -551,
+  "birthplace": "Zou, State of Lu",
+  "deathplace": "Qufu, State of Lu",
+  "nationality": "Chinese",
+  "movements": [
+   "confucian-ritual"
+  ],
+  "bio": "Teacher of ritual and virtue in the state of Lu, later worshipped in state temples across East Asia as the First Teacher.",
+  "bio_full": [
+   "Kong Qiu, known as Kongzi or Master Kong, was a minor official and teacher in the state of Lu in the late Spring and Autumn period. He claimed to transmit rather than invent, devoting himself to the rites and music of the early Zhou kings, and taught a circle of disciples whose recollections of his sayings became the Analects. He is treated in the philosophy section as a thinker.",
+   "For the history of religion Confucius matters both as a teacher of ritual and as an object of cult. He taught reverence in ancestral offerings while famously declining to speculate about spirits and death. From the Han dynasty the state sacrificed to him, and by the Tang every county had a temple of Confucius where officials performed the spring and autumn rites; the ceremony (Seokjeon daeje) is still held at the Seonggyungwan in Seoul. Whether this cult made Confucianism a religion was debated by Jesuit missionaries and modern scholars alike."
+  ],
+  "portrait_file": "Confucius, fresco from a Western Han tomb of Dongping County, Shandong province, China (cropped).jpg",
+  "portrait_caption": "Confucius, wall painting from a Western Han tomb at Dongping, Shandong, 1st century BC"
+ },
+ {
+  "id": "liji-compilers",
+  "name": "Compilers of the Book of Rites",
+  "name_native": "禮記編者",
+  "born": "c. 400 BC",
+  "died": "c. 50 BC",
+  "sort": -300,
+  "birthplace": "China",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "confucian-ritual"
+  ],
+  "bio": "The anonymous Confucian ritual specialists whose essays on mourning, sacrifice and ceremony were gathered into the Book of Rites in the Han dynasty.",
+  "bio_full": [
+   "The Book of Rites (Liji) is a compilation of forty-nine chapters written by many hands, mostly between the late Warring States period and the Former Han. Tradition credits its arrangement to the Han scholar Dai Sheng, a nephew of Dai De, in the first century BC. Its authors were the ru, specialists in ritual and the classics who served as masters of ceremonies at funerals and sacrifices and who looked back to Confucius and his disciples.",
+   "The compilers recorded the practical rules and the meaning of ritual: degrees of mourning, the ancestral temple, sacrifices to Heaven and Earth, the calendar of state observances. Their collection became one of the Five Classics and, through the Great Learning and Doctrine of the Mean, also fed Neo-Confucian philosophy. They are treated as a group in the philosophy section too."
+  ]
+ },
+ {
+  "id": "joseon-ritual-officials",
+  "name": "Joseon ritual officials",
+  "name_native": "조선 예관",
+  "born": "1392",
+  "died": "1910",
+  "sort": 1400,
+  "birthplace": "Hanseong (Seoul)",
+  "deathplace": "Hanseong (Seoul)",
+  "nationality": "Korean",
+  "movements": [
+   "confucian-ritual"
+  ],
+  "bio": "The scholar-officials of the Joseon Ministry of Rites who codified and performed the Confucian state rites of Korea.",
+  "bio_full": [
+   "The Joseon dynasty (1392–1910) took Neo-Confucianism as its state ideology and set out to govern by ritual. Officials of the Ministry of Rites (Yejo) and the court scholars of the Hall of Worthies researched Chinese precedents and wrote manuals for every ceremony of state, culminating in the Five Rites of the State completed in 1474. They also supervised the royal ancestral shrine, Jongmyo, and the altars of earth and grain.",
+   "Their work made Korea one of the most thoroughly Confucian societies in history, with ancestor rites performed in elite households according to Zhu Xi's Family Rituals and royal rites performed with court music and dance. The Jongmyo rite and its music, maintained by the descendants of the royal family, are still performed each May and are recognised by UNESCO."
+  ]
+ },
+ {
+  "id": "laozi",
+  "name": "Laozi",
+  "name_native": "老子",
+  "born": "traditionally 6th century BC",
+  "died": "",
+  "sort": -570,
+  "birthplace": "traditionally Ku, State of Chu",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "early-daoism"
+  ],
+  "bio": "Traditional author of the Daodejing, deified in religious Daoism as Lord Lao, the embodiment of the Dao.",
+  "bio_full": [
+   "Almost nothing is securely known about Laozi, the 'Old Master'. The historian Sima Qian, writing around 100 BC, already offered several identifications, the main one being Li Er, an archivist at the Zhou court and an older contemporary of Confucius who departed westward after writing a book in two parts. Most scholars now regard the Daodejing as a composite text of the fourth century BC. The philosophy section treats the text and its ideas.",
+   "In religious history Laozi became a god. By the later Han he received imperial sacrifice, and the Celestial Masters revered him as Lord Lao (Laojun), the Dao itself in personal form, who had revealed himself repeatedly through history, including to Zhang Daoling in AD 142. Scriptures attributed to him, such as the Classic of Purity and Stillness, multiplied, and the Tang emperors, surnamed Li, honoured him as their ancestor. He is worshipped today as one of the Three Pure Ones."
+  ],
+  "portrait_file": "Zhang Lu-Laozi Riding an Ox (cropped).jpg",
+  "portrait_caption": "Zhang Lu, Laozi Riding an Ox, Ming dynasty (National Palace Museum, Taipei)"
+ },
+ {
+  "id": "zhang-daoling",
+  "name": "Zhang Daoling",
+  "name_native": "張道陵",
+  "born": "traditionally 34",
+  "died": "traditionally 156",
+  "sort": 34,
+  "birthplace": "traditionally Pei, Han China",
+  "deathplace": "traditionally Mount Heming, Sichuan",
+  "nationality": "Chinese",
+  "movements": [
+   "early-daoism"
+  ],
+  "bio": "Founder, according to tradition, of the Way of the Celestial Masters, the first organised Daoist church, after a revelation from the deified Laozi in 142.",
+  "bio_full": [
+   "Accounts of Zhang Daoling (also Zhang Ling) were written down by his followers and later hagiographers, so details are uncertain. Tradition says he was a scholar from eastern China who moved to Sichuan to pursue immortality, and that in 142 Lord Lao appeared to him on Mount Heming and appointed him Celestial Master, charged with replacing the cults of blood-sacrificing demons with a covenant of orthodox unity. The movement is historically attested under his grandson Zhang Lu, who ran a theocratic state in the Hanzhong valley until he submitted to Cao Cao in 215.",
+   "The Celestial Masters organised believers into parishes led by libationers, collected a tax of five pecks of rice, healed illness through confession of sins written to the Three Officials, and forbade sacrifices to popular gods. Their communities spread across China after 215, and the hereditary line of Celestial Masters claiming descent from Zhang, later based on Mount Longhu in Jiangxi, continues today in Taiwan. Most Daoist ordination and liturgy traces itself to this foundation."
+  ],
+  "portrait_file": "Zhang Daoling, by Ren Xiong and Cai Zhaochu (cropped).jpg",
+  "portrait_caption": "Zhang Daoling, woodblock print after Ren Xiong, 19th century"
+ },
+ {
+  "id": "early-daoist-authors",
+  "name": "Anonymous Han–Jin Daoist authors",
+  "name_native": "漢晉道經作者",
+  "born": "c. 100",
+  "died": "c. 400",
+  "sort": 150,
+  "birthplace": "China",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "early-daoism"
+  ],
+  "bio": "The unnamed authors and revealers behind early Daoist scriptures such as the Taiping jing and the Yellow Court Scripture.",
+  "bio_full": [
+   "Many of the founding scriptures of Daoism were presented as revelations from gods or immortals rather than as human compositions. The Scripture of Great Peace (Taiping jing) was said to have been received by Gan Ji or Yu Ji in the Later Han, and the Yellow Court Scripture (Huangting jing) is linked by tradition to the Shangqing matriarch Lady Wei Huacun (252–334). Modern scholars see these texts as layered works produced by circles of practitioners over generations.",
+   "This entry groups those authors honestly rather than assigning the texts to legendary figures. Their writings set out visions of a just world order, of the body as a landscape inhabited by gods, and of meditation, breathing and visualisation as ways to longevity and transcendence, themes that run through all later Daoism."
+  ]
+ },
+ {
+  "id": "ge-hong",
+  "name": "Ge Hong",
+  "name_native": "葛洪",
+  "born": "283",
+  "died": "343",
+  "sort": 283,
+  "birthplace": "Jurong, Danyang (Jiangsu)",
+  "deathplace": "Mount Luofu, Guangdong",
+  "nationality": "Chinese",
+  "movements": [
+   "early-daoism"
+  ],
+  "bio": "Scholar and alchemist of the Eastern Jin whose Master Who Embraces Simplicity is the classic defence of the quest for immortality.",
+  "bio_full": [
+   "Ge Hong came from a southern gentry family with a tradition of occult learning; his great-uncle Ge Xuan was a renowned adept. After service as a military officer in the civil wars that followed the fall of the Western Jin, he devoted himself to study, writing and alchemy, and late in life sought a posting in the far south to obtain cinnabar. He died on Mount Luofu near Guangzhou.",
+   "His Baopuzi argues that immortality can be attained by study and effort, reviews methods from breathing and diet to talismans, and gives the most detailed early Chinese account of elixir alchemy, while its outer chapters defend Confucian ethics. His Biographies of Divine Immortals collected the lives of transcendents. Ge Hong is also remembered as a physician; a fourth-century remedy in his handbook of emergency prescriptions guided Tu Youyou to the antimalarial artemisinin in the 1970s."
+  ],
+  "portrait_file": "Chinese woodcut, Famous medical figures; Portrait of Ge Hong Wellcome L0039323.jpg",
+  "portrait_caption": "Ge Hong, Chinese woodcut portrait (Wellcome Collection)"
+ },
+ {
+  "id": "lu-xiujing",
+  "name": "Lu Xiujing",
+  "name_native": "陸修靜",
+  "born": "406",
+  "died": "477",
+  "sort": 406,
+  "birthplace": "Wuxing (Zhejiang)",
+  "deathplace": "Jiankang (Nanjing)",
+  "nationality": "Chinese",
+  "movements": [
+   "early-daoism"
+  ],
+  "bio": "Daoist master of the Liu Song dynasty who edited the Lingbao scriptures, catalogued the first Daoist canon and reformed liturgy.",
+  "bio_full": [
+   "Lu Xiujing came from an aristocratic southern family, left his household to pursue Daoism, and lived for years on Mount Lu. In 467 the Liu Song emperor Ming invited him to the capital Jiankang, where a monastery, the Chongxu guan, was built for him. In 471 he presented a catalogue of 1,228 scrolls of scriptures, medicines and talismans, the first attempt to define a Daoist canon, arranged in what became the Three Caverns.",
+   "Lu edited and authenticated the Lingbao scriptures, composed rituals of fasting and confession (zhai) that became the basis of later Daoist liturgy, and criticised the laxity he saw in Celestial Master communities, calling for proper registers, ranks and conduct. His work joined the southern revealed traditions with the older Celestial Master church and gave Daoism the institutional shape of a rival to Buddhism."
+  ]
+ },
+ {
+  "id": "kou-qianzhi",
+  "name": "Kou Qianzhi",
+  "name_native": "寇謙之",
+  "born": "365",
+  "died": "448",
+  "sort": 365,
+  "birthplace": "Shanggu (Hebei)",
+  "deathplace": "Pingcheng (Datong)",
+  "nationality": "Chinese",
+  "movements": [
+   "early-daoism"
+  ],
+  "bio": "Daoist reformer whose revelations led the Northern Wei emperor to make Daoism the state religion for a time.",
+  "bio_full": [
+   "Kou Qianzhi belonged to a family of Celestial Master adherents and spent years in the mountains, eventually on Mount Song. In 415 and 423 he reported revelations from Lord Lao and from a divine descendant, Li Puwen, commissioning him to reform the Celestial Master church: to abolish its rice tax, sexual rites and hereditary offices and to restore proper ceremonies and precepts. In 424 he went to the Northern Wei capital, Pingcheng, with the support of the chief minister Cui Hao.",
+   "Emperor Taiwu accepted registers from him in 442 and was proclaimed a 'Perfect Lord of Great Peace', so that for a short period Daoism was the state cult of a dynasty, and the persecution of Buddhism in 446 occurred in this setting, though historians emphasise Cui Hao's role more than Kou's. The arrangement did not outlast them, but Kou's precept text survives in the Daoist canon as evidence of the movement's reform."
+  ]
+ },
+ {
+  "id": "tao-hongjing",
+  "name": "Tao Hongjing",
+  "name_native": "陶弘景",
+  "born": "456",
+  "died": "536",
+  "sort": 456,
+  "birthplace": "Moling (Nanjing)",
+  "deathplace": "Mount Mao, Jiangsu",
+  "nationality": "Chinese",
+  "movements": [
+   "early-daoism"
+  ],
+  "bio": "Daoist scholar, physician and calligrapher who edited the Shangqing revelations and founded Mount Mao as their centre.",
+  "bio_full": [
+   "Tao Hongjing was a tutor to princes of the Southern Qi before resigning in 492 to retire to Mount Mao (Maoshan) near Nanjing. There he collected and authenticated the autograph manuscripts of the Shangqing revelations received by the medium Yang Xi in the 360s, and published them with commentary as the Declarations of the Perfected. Emperor Wu of Liang consulted him so often that he was nicknamed the 'prime minister in the mountains'.",
+   "Tao is regarded as a patriarch of the Shangqing school, whose meditations visualised gods within the body and journeys to the stars. He was also a major pharmacologist, whose annotated edition of the Shennong materia medica shaped Chinese medicine, an alchemist and a calligrapher, and he is said to have received Buddhist precepts late in life, an example of the fluid boundaries of the time."
+  ],
+  "portrait_file": "TaoHongJing.jpg",
+  "portrait_caption": "Tao Hongjing, later Chinese portrait"
+ },
+ {
+  "id": "zhang-boduan",
+  "name": "Zhang Boduan",
+  "name_native": "張伯端",
+  "born": "987",
+  "died": "1082",
+  "sort": 987,
+  "birthplace": "Tiantai, Zhejiang",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "later-daoism"
+  ],
+  "bio": "Northern Song author of the Awakening to Reality, the classic poem-cycle of Daoist inner alchemy.",
+  "bio_full": [
+   "Little is certain about Zhang Boduan's life. He is said to have been a minor official who was exiled, travelled to Sichuan and there in 1069 received the secrets of inner alchemy from a perfected master. He wrote the Wuzhen pian in 1075 and is counted as the first patriarch of the Southern Lineage (Nanzong) of inner alchemy, a status assigned retrospectively by later disciples.",
+   "His verses describe the inner elixir as the union of opposites within the practitioner's body, using the symbolism of lead and mercury, trigrams and the furnace, and he argued that Daoism, Buddhism and Confucianism agree at their deepest level. Inner alchemy as he framed it became the dominant form of Daoist self-cultivation and was later absorbed into Quanzhen."
+  ]
+ },
+ {
+  "id": "wang-chongyang",
+  "name": "Wang Chongyang",
+  "name_native": "王重陽",
+  "born": "1113",
+  "died": "1170",
+  "sort": 1113,
+  "birthplace": "Xianyang, Shaanxi",
+  "deathplace": "Kaifeng, Henan",
+  "nationality": "Chinese",
+  "movements": [
+   "later-daoism"
+  ],
+  "bio": "Founder of the Quanzhen (Complete Perfection) school of Daoism, the monastic order that still dominates Daoism in northern China.",
+  "bio_full": [
+   "Wang Zhe, known by his Daoist name Chongyang, came from a wealthy family in Shaanxi under Jurchen Jin rule and pursued an official career without success. In 1159 he reported meeting immortals, traditionally identified with Lü Dongbin and Zhongli Quan, who taught him; he lived for some years in a grave mound he called the Tomb of the Living Dead. In 1167 he went east to Shandong, where he gathered seven principal disciples, among them Qiu Chuji and the woman master Sun Bu'er.",
+   "Wang taught celibacy, renunciation of family and wealth, meditation and inner alchemy, together with study of the Daodejing, the Heart Sutra and the Classic of Filial Piety, presenting the three teachings as one. His order lived in monasteries under rules, like Buddhist monks, and after Qiu Chuji won the patronage of Chinggis Khan in 1222 it spread rapidly. The White Cloud Temple in Beijing remains its headquarters."
+  ],
+  "portrait_file": "Wang Chongyang.jpg",
+  "portrait_caption": "Wang Chongyang, later Chinese portrait"
+ },
+ {
+  "id": "daozang-compilers",
+  "name": "Ming compilers of the Daoist Canon",
+  "name_native": "正統道藏編纂者",
+  "born": "1406",
+  "died": "1445",
+  "sort": 1445,
+  "birthplace": "Beijing",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "later-daoism"
+  ],
+  "bio": "The Celestial Masters and court editors who assembled and printed the Zhengtong Daoist Canon in 1445.",
+  "bio_full": [
+   "Earlier Daoist canons, compiled under the Tang, Song and Yuan, were largely lost, the last in a Yuan burning of Daoist books in 1281. In 1406 the Yongle emperor commissioned the forty-third Celestial Master, Zhang Yuchu, to compile a new canon; the work continued under his brother Zhang Yuqing and was completed and printed in 1445 under the Zhengtong emperor, with a supplement in 1607.",
+   "The editors arranged some 1,400 texts in the traditional Three Caverns and Four Supplements and had them cut on woodblocks in the format of Buddhist sutras. Their canon preserved most of what survives of early Daoist literature, from scriptures and liturgies to alchemy, medicine and philosophy, and it remains the basic source for the study of Daoism."
+  ]
+ },
+ {
+  "id": "morality-book-authors",
+  "name": "Authors of morality books",
+  "name_native": "善書作者",
+  "born": "12th century",
+  "died": "19th century",
+  "sort": 1150,
+  "birthplace": "China",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "popular-religion"
+  ],
+  "bio": "The mostly anonymous lay authors, editors and sponsors of shanshu, the popular Chinese 'books that exhort to goodness'.",
+  "bio_full": [
+   "Morality books are short works, usually distributed free by donors as an act of merit, that teach how deeds are rewarded and punished by the gods, in this life and after death. The first great example, the Treatise on Action and Response, appeared in the Southern Song and was attributed to Lord Lao; later texts were revealed through spirit-writing, compiled by local literati, or attributed to gods such as Guandi and Wenchang.",
+   "Their authors drew freely on Confucian ethics, Buddhist karma and Daoist accounting of merit, and the books were reprinted in vast numbers in the Ming and Qing and are still handed out in temples in Taiwan and Southeast Asia. Historians treat them as among the most widely read Chinese texts and a key source for everyday morality."
+  ]
+ },
+ {
+  "id": "luo-qing",
+  "name": "Luo Qing",
+  "name_native": "羅清",
+  "born": "1442",
+  "died": "1527",
+  "sort": 1442,
+  "birthplace": "Jimo, Shandong",
+  "deathplace": "Miyun, near Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "popular-religion"
+  ],
+  "bio": "Ming-dynasty soldier turned lay preacher whose Five Books in Six Volumes founded the tradition of sectarian 'precious scrolls'.",
+  "bio_full": [
+   "Luo Qing, also called Luo Menghong and venerated as Patriarch Luo (Luozu), served as a soldier on the Grand Canal transport near Beijing. After thirteen years of spiritual searching he reported an awakening in 1482 and began to preach to lay followers, including canal boatmen. His teachings, printed in 1509, were the first of the vernacular scriptures known as baojuan.",
+   "Luo taught that all beings originate from and can return to a primordial 'True Emptiness' or 'Native Place', drawing on Chan Buddhism; later sects reshaped this as the Eternal Venerable Mother (Wusheng laomu) who calls her lost children home. His followers formed the Luo teaching, among whose descendants are many later lay sects, some of them persecuted by the state as heterodox."
+  ]
+ },
+ {
+  "id": "kumarajiva",
+  "name": "Kumārajīva",
+  "name_native": "鳩摩羅什",
+  "born": "344",
+  "died": "413",
+  "sort": 344,
+  "birthplace": "Kucha, Tarim Basin",
+  "deathplace": "Chang'an",
+  "nationality": "Kuchean",
+  "movements": [
+   "buddhism-arrives"
+  ],
+  "bio": "Kuchean monk whose translations of the Lotus, Diamond and Vimalakīrti sutras became the standard Chinese Buddhist scriptures.",
+  "bio_full": [
+   "Kumārajīva was born in the Silk Road kingdom of Kucha to an Indian father and a Kuchean princess, became a monk as a child, and studied in Kashmir and Kashgar, turning from mainstream Buddhism to Mahāyāna. When Kucha fell to a Chinese army in 384 he was carried off and held for seventeen years in Liangzhou, where he learned Chinese. In 401 the Later Qin ruler Yao Xing brought him to Chang'an and set up a translation bureau with hundreds of monk-assistants.",
+   "Over a dozen years the team produced around 35 works in some 300 fascicles, including the Lotus Sutra, Diamond Sutra, Vimalakīrti Sutra, the Amitābha Sutra and the Madhyamaka treatises of Nāgārjuna. His fluent, readable versions displaced earlier ones and are still the texts recited across East Asia. Sources record that he was compelled to take wives, a matter on which Buddhist biographers were uneasy; his disciples Sengzhao and Daosheng laid the foundations of Chinese Buddhist thought."
+  ]
+ },
+ {
+  "id": "huiyuan",
+  "name": "Huiyuan",
+  "name_native": "慧遠",
+  "born": "334",
+  "died": "416",
+  "sort": 334,
+  "birthplace": "Yanmen, Shanxi",
+  "deathplace": "Mount Lu, Jiangxi",
+  "nationality": "Chinese",
+  "movements": [
+   "pure-land",
+   "buddhism-arrives"
+  ],
+  "bio": "Monk of Mount Lu, honoured as the first patriarch of Chinese Pure Land, who defended the independence of the monastic order from the throne.",
+  "bio_full": [
+   "Huiyuan was trained in Confucian and Daoist learning before becoming a disciple of the great monk Dao'an. Around 380 he settled at the Donglin monastery on Mount Lu, where he lived for over thirty years without, it was said, ever crossing the Tiger Brook below the monastery. He corresponded with Kumārajīva on doctrine and welcomed visiting translators.",
+   "In 402 he and 123 lay and monastic followers vowed before an image of Amitābha to be reborn together in the Pure Land, an event later remembered as the founding of the White Lotus Society and of Pure Land Buddhism, although his practice was a meditative visualisation rather than the later recitation of the name. His treatise arguing that monks need not bow to rulers set the terms of church-state debate in China."
+  ],
+  "portrait_file": "Hui Yuan.jpg",
+  "portrait_caption": "Huiyuan, later Chinese portrait"
+ },
+ {
+  "id": "faxian",
+  "name": "Faxian",
+  "name_native": "法顯",
+  "born": "c. 337",
+  "died": "c. 422",
+  "sort": 337,
+  "birthplace": "Pingyang, Shanxi",
+  "deathplace": "Jingzhou",
+  "nationality": "Chinese",
+  "movements": [
+   "buddhism-arrives"
+  ],
+  "bio": "Chinese monk who walked to India in search of monastic rules and wrote the earliest surviving Chinese account of the Buddhist world.",
+  "bio_full": [
+   "Concerned that China lacked a complete code of monastic discipline (vinaya), Faxian set out from Chang'an in 399 with several companions, crossed the Taklamakan and the Pamirs, and spent years in northern India and Sri Lanka collecting texts. He returned by sea in 412, surviving storms, and landed on the Shandong coast. With the Indian monk Buddhabhadra he translated vinaya and other works in Jiankang.",
+   "His Record of Buddhist Kingdoms describes the monasteries, pilgrimage sites, kings and customs of India in the Gupta period and is a key source for historians of South Asia as well as of Buddhism. His journey inspired later pilgrims, Xuanzang above all."
+  ],
+  "portrait_file": "Fa Hsien at the ruins of Asoka's palace.jpg",
+  "portrait_caption": "Faxian at the ruins of Aśoka's palace, illustration from an early 20th-century history"
+ },
+ {
+  "id": "buddhabhadra",
+  "name": "Buddhabhadra",
+  "name_native": "佛陀跋陀羅",
+  "born": "359",
+  "died": "429",
+  "sort": 359,
+  "birthplace": "Kapilavastu, India (traditional)",
+  "deathplace": "Jiankang (Nanjing)",
+  "nationality": "Indian",
+  "movements": [
+   "buddhism-arrives",
+   "tiantai-huayan"
+  ],
+  "bio": "Indian meditation master and translator who produced the first Chinese version of the Flower Garland (Avataṃsaka) Sutra.",
+  "bio_full": [
+   "Buddhabhadra was an Indian monk trained in meditation in Kashmir, who came to Chang'an around 408. After a dispute with Kumārajīva's circle he left for Mount Lu, where Huiyuan received him, and then moved to Jiankang, the southern capital. There he collaborated with Faxian on translations of monastic rules and the Mahāparinirvāṇa Sutra.",
+   "Between 418 and 421 he translated the Avataṃsaka Sutra in sixty fascicles from a manuscript brought from Khotan. This version became the basis of the Huayan school in China and of Hwaeom and Kegon in Korea and Japan, until it was supplemented by the eighty-fascicle translation of 699."
+  ]
+ },
+ {
+  "id": "bodhidharma",
+  "name": "Bodhidharma",
+  "name_native": "菩提達摩",
+  "born": "fl. c. 500",
+  "died": "",
+  "sort": 480,
+  "birthplace": "South India or Central Asia (traditional)",
+  "deathplace": "",
+  "nationality": "Indian",
+  "movements": [
+   "chan-zen-seon"
+  ],
+  "bio": "Semi-legendary monk honoured as the first patriarch of Chan and Zen, famous for wall-gazing meditation.",
+  "bio_full": [
+   "The earliest sources, from the sixth and seventh centuries, describe Bodhidharma as a foreign meditation teacher, perhaps from South India or Persia, active in northern China around 500, whose disciple Huike passed on his teaching. Later Chan histories added the stories now associated with him: an interview with Emperor Wu of Liang, nine years facing a wall at the Shaolin monastery, and Huike cutting off his arm to show his sincerity. Scholars treat these as legends developed to support Chan lineage claims.",
+   "A short text on the 'Two Entrances and Four Practices' preserved in Dunhuang manuscripts is the earliest teaching attributed to him. As Daruma he became one of the most recognisable figures in East Asian art and popular culture, from Zen ink paintings to the round, limbless Daruma dolls of Japan."
+  ],
+  "portrait_file": "BodhidharmaYoshitoshi1887.jpg",
+  "portrait_caption": "Tsukioka Yoshitoshi, Bodhidharma, woodblock print, 1887"
+ },
+ {
+  "id": "zhiyi",
+  "name": "Zhiyi",
+  "name_native": "智顗",
+  "born": "538",
+  "died": "597",
+  "sort": 538,
+  "birthplace": "Huarong, Jingzhou",
+  "deathplace": "Mount Tiantai, Zhejiang",
+  "nationality": "Chinese",
+  "movements": [
+   "tiantai-huayan"
+  ],
+  "bio": "Founder of the Tiantai school, who organised the whole of Buddhist teaching around the Lotus Sutra and a programme of meditation and repentance.",
+  "bio_full": [
+   "Zhiyi became a monk after his family was ruined in the wars of the Liang collapse and studied under Huisi, who taught him a meditation based on the Lotus Sutra. He lectured in the Chen capital Jiankang and in 575 withdrew to Mount Tiantai, which gave the school its name. Patronised by the Sui prince Yang Guang, later Emperor Yang, he received the title Master of Wisdom (Zhizhe).",
+   "Zhiyi's lectures, recorded by his disciple Guanding, classified the scriptures into periods and teachings, set out the threefold truth of emptiness, provisional existence and the middle, and taught calming and insight meditation. He also composed repentance rituals that remain in use. The philosophy section treats his doctrinal works; as a religious founder he gave East Asia its first comprehensive Buddhist school and, through Saichō, the basis of Japanese Tendai."
+  ],
+  "portrait_file": "Sramana Zhiyi.jpeg",
+  "portrait_caption": "Zhiyi, traditional portrait"
+ },
+ {
+  "id": "xuanzang",
+  "name": "Xuanzang",
+  "name_native": "玄奘",
+  "born": "602",
+  "died": "664",
+  "sort": 602,
+  "birthplace": "Chenliu, Henan",
+  "deathplace": "Chang'an",
+  "nationality": "Chinese",
+  "movements": [
+   "buddhism-arrives"
+  ],
+  "bio": "Tang monk who journeyed to India for seventeen years and translated some 75 Buddhist texts, among them the most recited version of the Heart Sutra.",
+  "bio_full": [
+   "Xuanzang left Chang'an in 629 in defiance of a ban on foreign travel, crossed Central Asia and studied at the great monastery of Nālandā under Śīlabhadra, mastering Yogācāra philosophy. He returned in 645 with 657 texts, relics and images and was received with honour by Emperor Taizong, who asked him to write an account of the western lands.",
+   "Until his death he directed a translation bureau in Chang'an, producing about 1,335 fascicles, including the Great Perfection of Wisdom Sutra; the Heart Sutra version attributed to him is chanted across East Asia, though its origin is debated. His disciple Kuiji founded the Faxiang (consciousness-only) school, carried to Japan as Hossō. His journey became the core of the novel Journey to the West, treated in the literature section."
+  ],
+  "portrait_file": "Xuanzang w.jpg",
+  "portrait_caption": "Xuanzang carrying sutras, Japanese hanging scroll, Kamakura period (Tokyo National Museum)"
+ },
+ {
+  "id": "shandao",
+  "name": "Shandao",
+  "name_native": "善導",
+  "born": "613",
+  "died": "681",
+  "sort": 613,
+  "birthplace": "Linzi, Shandong (or Sizhou)",
+  "deathplace": "Chang'an",
+  "nationality": "Chinese",
+  "movements": [
+   "pure-land"
+  ],
+  "bio": "Tang master whose commentary on the Contemplation Sutra made recitation of Amitābha's name the heart of Pure Land practice.",
+  "bio_full": [
+   "Shandao became a monk young and, after meeting the Pure Land teacher Daochuo, devoted himself to devotion to Amitābha. He spent his career in Chang'an, where he is said to have copied the Amitābha Sutra many thousands of times, painted images of the Pure Land, and helped supervise the colossal Vairocana at Longmen commissioned by the court.",
+   "His commentary on the Contemplation Sutra argued that the sutra was addressed to ordinary deluded people and that the 'right practice' was calling Amitābha's name with sincere faith. Hōnen in twelfth-century Japan wrote that reading this passage changed his life, so that Shandao came to be revered in Japan as a patriarch of the Jōdo and Jōdo Shinshū schools."
+  ],
+  "portrait_file": "Two Patriarchs - Shandao (Otani University Museum).jpg",
+  "portrait_caption": "Shandao, from a Japanese pair of patriarch portraits (Otani University Museum)"
+ },
+ {
+  "id": "fazang",
+  "name": "Fazang",
+  "name_native": "法藏",
+  "born": "643",
+  "died": "712",
+  "sort": 643,
+  "birthplace": "Chang'an",
+  "deathplace": "Chang'an",
+  "nationality": "Chinese",
+  "movements": [
+   "tiantai-huayan"
+  ],
+  "bio": "Systematiser of the Huayan school, who explained the Flower Garland Sutra's vision of interpenetration to Empress Wu.",
+  "bio_full": [
+   "Fazang's family was of Sogdian origin, settled in Chang'an. He studied under Zhiyan, joined Xuanzang's translation bureau for a time, and was ordained only in 670 when Empress Wu Zetian founded a monastery in memory of her mother. He took part in the new eighty-fascicle translation of the Avataṃsaka Sutra completed in 699 and lectured on it at court.",
+   "Fazang's teaching that each phenomenon contains and is contained by all others, famously illustrated with a golden lion and a hall of mirrors, is treated in the philosophy section. As a religious figure he was a court preacher, a performer of rituals for rain and victory, and the third patriarch of Huayan; his letter to the Korean monk Uisang testifies to the close links of East Asian Buddhism."
+  ],
+  "portrait_file": "Fazang, buddhist Monk, Japanese print, 13th century.jpg",
+  "portrait_caption": "Fazang, Japanese print, 13th century"
+ },
+ {
+  "id": "huineng",
+  "name": "Huineng",
+  "name_native": "慧能",
+  "born": "638",
+  "died": "713",
+  "sort": 638,
+  "birthplace": "Xinzhou, Guangdong",
+  "deathplace": "Xinzhou, Guangdong",
+  "nationality": "Chinese",
+  "movements": [
+   "chan-zen-seon"
+  ],
+  "bio": "Sixth Patriarch of Chan, the illiterate woodcutter of tradition, whose teaching of sudden awakening defined Chinese Chan.",
+  "bio_full": [
+   "According to the Platform Sutra, Huineng was a poor, illiterate seller of firewood in the far south who heard the Diamond Sutra recited, went to study under the Fifth Patriarch Hongren, and won the robe of succession with a verse showing that the mind is originally pure. He then taught at Caoxi near Shaoguan, where his mummified body is still venerated at Nanhua Temple.",
+   "Historians note that his fame derives largely from his disciple Shenhui, who from 732 campaigned against a rival northern lineage, and that the Platform Sutra grew over time. Nonetheless almost every later Chan, Seon and Zen lineage traces itself through him, and he stands for the ideal of awakening as available to anyone, whatever their learning."
+  ],
+  "portrait_file": "The Sixth Patriarch Cutting the Bamboo.jpg",
+  "portrait_caption": "Liang Kai, The Sixth Patriarch Cutting Bamboo, Southern Song (Tokyo National Museum)"
+ },
+ {
+  "id": "linji",
+  "name": "Linji Yixuan",
+  "name_native": "臨濟義玄",
+  "born": "",
+  "died": "866",
+  "sort": 810,
+  "birthplace": "Caozhou, Shandong",
+  "deathplace": "Daming, Hebei",
+  "nationality": "Chinese",
+  "movements": [
+   "chan-zen-seon"
+  ],
+  "bio": "Tang Chan master famous for shouts and blows, founder of the Linji (Rinzai) house of Chan and Zen.",
+  "bio_full": [
+   "Linji studied the scriptures before training under Huangbo Xiyun, who, according to the famous story, struck him each time he asked about the essence of Buddhism until he awakened. From around 850 he taught at a small temple by the Hutuo River in Zhenzhou in Hebei, from which his name comes, under the patronage of a regional governor.",
+   "His Record presents a teacher who urged students to trust themselves as 'the true person of no rank' and to drop all reliance on buddhas, patriarchs and texts, using shouts and blows to cut through conceptual thinking. The Linji lineage became the dominant form of Chan in the Song and, as Rinzai, one of the two main Zen schools in Japan."
+  ],
+  "portrait_file": "RinzaiGigen.jpg",
+  "portrait_caption": "Linji Yixuan (Rinzai Gigen), Japanese ink portrait"
+ },
+ {
+  "id": "yuanwu-keqin",
+  "name": "Yuanwu Keqin",
+  "name_native": "圜悟克勤",
+  "born": "1063",
+  "died": "1135",
+  "sort": 1063,
+  "birthplace": "Chongning, Sichuan",
+  "deathplace": "Chengdu, Sichuan",
+  "nationality": "Chinese",
+  "movements": [
+   "chan-zen-seon"
+  ],
+  "bio": "Song Chan master whose commentaries on a hundred kōans became the Blue Cliff Record.",
+  "bio_full": [
+   "Yuanwu Keqin came from a Confucian family in Sichuan, became a monk and trained under Wuzu Fayan of the Linji lineage. He taught at several major monasteries, received honours from Emperor Huizong and the early Southern Song court, and returned to Chengdu at the end of his life.",
+   "Between about 1111 and 1125 he lectured on a hundred cases with verses by the earlier master Xuedou Chongxian; his disciples' notes became the Blue Cliff Record, the most celebrated work of kōan literature. His disciple Dahui Zonggao, who reportedly burned the woodblocks of the book, developed the method of contemplating a single key phrase (huatou)."
+  ],
+  "portrait_file": "Yuanwu keqin 48th generation.jpg",
+  "portrait_caption": "Yuanwu Keqin, from a series of Chan patriarch portraits"
+ },
+ {
+  "id": "wumen-huikai",
+  "name": "Wumen Huikai",
+  "name_native": "無門慧開",
+  "born": "1183",
+  "died": "1260",
+  "sort": 1183,
+  "birthplace": "Hangzhou",
+  "deathplace": "Hangzhou",
+  "nationality": "Chinese",
+  "movements": [
+   "chan-zen-seon"
+  ],
+  "bio": "Southern Song Chan master who compiled the Gateless Gate, the most widely used kōan collection.",
+  "bio_full": [
+   "Wumen Huikai, a monk of the Linji lineage, is said to have worked on the kōan 'Mu' for six years before awakening at the sound of a drum. He taught at a number of monasteries around Hangzhou and was honoured by the Southern Song court, which asked him to pray for rain.",
+   "In 1228 he published the Gateless Gate (Wumenguan), forty-eight cases with his own brief comments and verses. Its Japanese student Shinchi Kakushin brought it to Japan in 1254, where as the Mumonkan it became a central text of Rinzai training."
+  ]
+ },
+ {
+  "id": "kuoan-shiyuan",
+  "name": "Kuoan Shiyuan",
+  "name_native": "廓庵師遠",
+  "born": "fl. 12th century",
+  "died": "",
+  "sort": 1150,
+  "birthplace": "China",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "chan-zen-seon"
+  ],
+  "bio": "Song Chan monk whose ten verses and pictures of searching for an ox became the classic image of the path to awakening.",
+  "bio_full": [
+   "Kuoan Shiyuan was a twelfth-century Chan monk of the Linji lineage, about whom little is known beyond his authorship of a version of the oxherding sequence. Several Song monks produced such series; his ten stages, ending with an empty circle and a return to the marketplace, became the standard one.",
+   "The pictures and verses travelled to Japan, where painters such as Tenshō Shūbun copied them in the fifteenth century, and they remain one of the best-known teaching images of Zen."
+  ]
+ },
+ {
+  "id": "dunhuang-monks",
+  "name": "Monks of Dunhuang",
+  "name_native": "敦煌僧人",
+  "born": "4th century",
+  "died": "c. 1000",
+  "sort": 366,
+  "birthplace": "Dunhuang, Gansu",
+  "deathplace": "Dunhuang, Gansu",
+  "nationality": "Chinese",
+  "movements": [
+   "buddhism-arrives"
+  ],
+  "bio": "The monastic communities of the Silk Road oasis of Dunhuang, whose sealed Library Cave preserved tens of thousands of manuscripts.",
+  "bio_full": [
+   "Dunhuang, at the western end of the Gansu corridor, was a Buddhist centre from the fourth century, when tradition dates the first cave at Mogao to 366. Over a millennium its monks, nuns and lay patrons carved and painted some 500 cave shrines and kept monastery libraries in Chinese, Tibetan, Sanskrit, Uyghur and other languages. A side chamber, now numbered Cave 17, originally a memorial chapel for the monk Hongbian, was filled with manuscripts and paintings and walled up around 1000.",
+   "The cave was opened by the Daoist caretaker Wang Yuanlu in 1900, and its contents were dispersed by Aurel Stein, Paul Pelliot and others to London, Paris, St Petersburg, Kyoto and Beijing. They include the oldest dated printed book, early Chan and Pure Land texts, Daoist and Manichaean scriptures, and everyday documents, and they transformed the study of medieval Chinese religion."
+  ]
+ },
+ {
+  "id": "nara-buddhist-workshops",
+  "name": "Nara Buddhist workshops",
+  "name_native": "奈良仏所",
+  "born": "7th century",
+  "died": "8th century",
+  "sort": 700,
+  "birthplace": "Nara",
+  "deathplace": "Nara",
+  "nationality": "Japanese",
+  "movements": [
+   "nara-state-buddhism"
+  ],
+  "bio": "The state and temple workshops of Asuka and Nara Japan that produced Buddhist images, paintings and textiles.",
+  "bio_full": [
+   "In the seventh and eighth centuries Japanese temples and the court ran workshops, often staffed by immigrants from Korea and China and their descendants, which cast bronze buddhas, modelled clay and dry-lacquer statues, painted murals and wove large textiles. The government Office for the Construction of Tōdai-ji was the largest of them. The same collective entry appears in the art section.",
+   "Their works, including those preserved at Hōryū-ji, Tōdai-ji, Taima-dera and in the Shōsōin, are the earliest surviving monuments of Japanese Buddhism and often the best evidence for lost Tang Chinese styles."
+  ]
+ },
+ {
+  "id": "empress-shotoku",
+  "name": "Empress Kōken / Shōtoku",
+  "name_native": "孝謙天皇・称徳天皇",
+  "born": "718",
+  "died": "770",
+  "sort": 718,
+  "birthplace": "Nara",
+  "deathplace": "Nara",
+  "nationality": "Japanese",
+  "movements": [
+   "nara-state-buddhism"
+  ],
+  "bio": "Twice-reigning Nara empress and devout Buddhist who commissioned the Hyakumantō Darani, among the oldest printed texts in the world.",
+  "bio_full": [
+   "The daughter of Emperor Shōmu, builder of the Great Buddha of Tōdai-ji, she reigned as Empress Kōken from 749 to 758, abdicated, and returned to the throne as Empress Shōtoku from 764 until her death. Her favour for the monk Dōkyō, whom she made Dharma King and whom an oracle reportedly proposed as emperor, provoked a crisis at court; the oracle of Usa Hachiman was eventually reported against it.",
+   "After the suppression of the rebellion of Fujiwara no Nakamaro in 764, she vowed to have a million miniature pagodas made, each containing a printed Buddhist charm, and distributed them to ten great temples. The episode shows how fully Buddhism had been woven into Nara statecraft; after her reign the court took care to keep monks away from power."
+  ],
+  "portrait_file": "Empress Kōken1878(Cropped).jpg",
+  "portrait_caption": "Empress Kōken, imagined portrait in a woodblock print of 1878"
+ },
+ {
+  "id": "kyokai",
+  "name": "Kyōkai",
+  "name_native": "景戒",
+  "born": "fl. c. 787–822",
+  "died": "",
+  "sort": 800,
+  "birthplace": "Kii Province (probably)",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "nara-state-buddhism"
+  ],
+  "bio": "Monk of Yakushi-ji who compiled the Nihon ryōiki, Japan's first collection of Buddhist miracle tales.",
+  "bio_full": [
+   "Kyōkai (also read Keikai) is known only from his own book, in which he describes himself as a monk of Yakushi-ji in Nara who had once lived as a layman with a family and in poverty. He records a dream in 787 and finished his collection in the early ninth century.",
+   "His Nihon ryōiki gathers 116 stories, set mostly in the eighth century, of karmic reward and retribution, miraculous images, and wandering holy men, including the mountain ascetic En no Gyōja later revered by Shugendō. It is the first great source for Buddhism among ordinary people in Japan and the ancestor of later Japanese tale literature."
+  ]
+ },
+ {
+  "id": "prince-toneri",
+  "name": "Prince Toneri",
+  "name_native": "舎人親王",
+  "born": "676",
+  "died": "735",
+  "sort": 676,
+  "birthplace": "Asuka",
+  "deathplace": "Nara",
+  "nationality": "Japanese",
+  "movements": [
+   "shinto"
+  ],
+  "bio": "Imperial prince who presented the Nihon Shoki, Japan's first official history and a basic text of Shinto myth, to the throne in 720.",
+  "bio_full": [
+   "Prince Toneri was a son of Emperor Tenmu, who had ordered the compilation of national histories in 681. He held high office at the Nara court and was the father of the later Emperor Junnin. The Shoku Nihongi records that in 720 he presented the Nihon Shoki in thirty scrolls with a genealogy.",
+   "He headed a team of court scholars who wrote in classical Chinese and drew on Chinese histories, clan records and Korean sources. The work begins with the age of the gods and the descent of the imperial line from Amaterasu, so that his name is attached to one of the two founding texts of Shinto mythology."
+  ]
+ },
+ {
+  "id": "engishiki-compilers",
+  "name": "Compilers of the Engishiki",
+  "name_native": "延喜式編者",
+  "born": "905",
+  "died": "927",
+  "sort": 927,
+  "birthplace": "Heian-kyō (Kyoto)",
+  "deathplace": "Heian-kyō (Kyoto)",
+  "nationality": "Japanese",
+  "movements": [
+   "shinto"
+  ],
+  "bio": "The Heian court officials, led by Fujiwara no Tokihira and Fujiwara no Tadahira, who codified rites and administration in the Engishiki.",
+  "bio_full": [
+   "In 905 Emperor Daigo ordered a new code of procedures to supplement Japan's laws. The work was begun under the minister Fujiwara no Tokihira and completed under his brother Tadahira in 927, though it was put into force only in 967. Its fifty books cover the whole of government.",
+   "The first ten books, on the Office of Kami Affairs (Jingikan), list the 2,861 officially recognised shrines and regulate festivals, offerings and purifications, and preserve the oldest liturgical prayers (norito). Their work became the reference for the classification of 'shrines listed in the Engishiki' that still confers prestige today."
+  ]
+ },
+ {
+  "id": "yamato-e-painters",
+  "name": "Yamato-e painters",
+  "name_native": "大和絵の絵師",
+  "born": "9th century",
+  "died": "14th century",
+  "sort": 1100,
+  "birthplace": "Kyoto",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "shinto"
+  ],
+  "bio": "The largely anonymous court and temple painters of narrative handscrolls in the native Japanese style; the same collective appears in the art section.",
+  "bio_full": [
+   "Yamato-e, 'Japanese painting', developed from the Heian period as a style distinct from Chinese models, with bright mineral colours and Japanese subjects. Its practitioners worked for the court, aristocrats and temples and are mostly anonymous.",
+   "Among their works are many illustrated legends of the origins of shrines and temples (engi emaki), which served both devotion and fundraising and show kami and buddhas acting together in Japanese history."
+  ]
+ },
+ {
+  "id": "ise-priesthood",
+  "name": "Priesthood of the Ise Shrines",
+  "name_native": "伊勢神宮神職",
+  "born": "4th century",
+  "died": "present",
+  "sort": 700,
+  "birthplace": "Ise, Mie",
+  "deathplace": "Ise, Mie",
+  "nationality": "Japanese",
+  "movements": [
+   "shinto"
+  ],
+  "bio": "The hereditary priestly families of Ise, the shrines of the sun goddess Amaterasu and the food goddess Toyouke, who created the first Shinto theology.",
+  "bio_full": [
+   "The Inner Shrine (Naikū) of Amaterasu and Outer Shrine (Gekū) of Toyouke were served by hereditary lineages, the Arakida at the Inner Shrine and the Watarai at the Outer, under an imperial princess priestess until the fourteenth century. Since the late seventh century the shrine buildings have been rebuilt on adjacent sites, in principle every twenty years, in the Shikinen Sengū; the 62nd rebuilding took place in 2013.",
+   "In the thirteenth century Watarai priests produced the Five Books of Shinto, claiming great antiquity for teachings that elevated the Outer Shrine's deity and gave kami worship its own metaphysics in dialogue with Buddhism. This Ise or Watarai Shinto influenced Yoshida Shinto and later nativist thought. The shrine architecture is a subject for architecture rather than this section."
+  ]
+ },
+ {
+  "id": "yoshida-kanetomo",
+  "name": "Yoshida Kanetomo",
+  "name_native": "吉田兼倶",
+  "born": "1435",
+  "died": "1511",
+  "sort": 1435,
+  "birthplace": "Kyoto",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "shinto"
+  ],
+  "bio": "Kyoto shrine priest who founded Yoshida (Yuiitsu) Shinto, claiming kami worship as the root of Buddhism and Confucianism.",
+  "bio_full": [
+   "Kanetomo came from the Urabe family, hereditary diviners at the Office of Kami Affairs and priests of the Yoshida shrine in Kyoto. During and after the Ōnin War, which devastated the capital, he built in 1484 the Daigengū, an octagonal hall enshrining all the kami of Japan, and claimed, on doubtful grounds, that the sacred objects of Ise had flown there.",
+   "His Essentials of Yuiitsu Shinto taught a 'primal' Shinto that preceded and contained Buddhism and Confucianism, inverting the medieval view that kami were local manifestations of buddhas. His family gained the right to license shrine priests and grant ranks to kami, which they held through the Edo period, making Yoshida Shinto the first Shinto institution of national reach."
+  ],
+  "portrait_file": "吉田兼倶肖像画.jpg",
+  "portrait_caption": "Portrait of Yoshida Kanetomo, Muromachi period"
+ },
+ {
+  "id": "hirata-atsutane",
+  "name": "Hirata Atsutane",
+  "name_native": "平田篤胤",
+  "born": "1776",
+  "died": "1843",
+  "sort": 1776,
+  "birthplace": "Kubota, Dewa Province",
+  "deathplace": "Kubota, Dewa Province",
+  "nationality": "Japanese",
+  "movements": [
+   "shinto"
+  ],
+  "bio": "Nativist scholar whose theology of the afterlife and the hidden world shaped Restoration Shinto and the Meiji religious settlement.",
+  "bio_full": [
+   "Born to a samurai family in Akita, Hirata went to Edo, was adopted into the Hirata family, and in 1801 declared himself a posthumous disciple of Motoori Norinaga, whose kokugaku (national learning) is treated in the philosophy section. He lectured widely to samurai, merchants and village headmen and wrote voluminously; in 1841 the shogunate ordered him home to Akita, where he died.",
+   "Unlike Norinaga, Hirata gave Shinto a doctrine of the soul and the afterlife: the dead go to an unseen realm ruled by Ōkuninushi and remain near the living. He also studied Christian writings in Chinese, Daoism and folk beliefs. His thousands of disciples supported the Meiji Restoration and its campaign to separate kami from buddhas in 1868, though his followers were soon sidelined by the new state."
+  ],
+  "portrait_file": "Hirata Atsutane Jigazo.jpg",
+  "portrait_caption": "Hirata Atsutane, self-portrait"
+ },
+ {
+  "id": "saicho",
+  "name": "Saichō",
+  "name_native": "最澄",
+  "born": "767",
+  "died": "822",
+  "sort": 767,
+  "birthplace": "Ōmi Province",
+  "deathplace": "Mount Hiei",
+  "nationality": "Japanese",
+  "movements": [
+   "tiantai-huayan"
+  ],
+  "bio": "Founder of Japanese Tendai on Mount Hiei, which became the great training centre of Japanese Buddhism.",
+  "bio_full": [
+   "Saichō was ordained at Tōdai-ji in 785 but almost at once withdrew to Mount Hiei above the site of the future capital Kyoto to meditate and study Tiantai texts. With the backing of Emperor Kanmu he sailed to China in 804, on the same embassy as Kūkai, and studied Tiantai, Chan, esoteric rites and precepts at Mount Tiantai. On his return in 805 the court recognised Tendai as a school with its own annual ordinands.",
+   "He spent his last years fighting the Nara establishment for the right to ordain monks on Mount Hiei with Mahāyāna bodhisattva precepts alone, and the court granted it a week after his death. His regulations required a twelve-year mountain training. Enryaku-ji on Mount Hiei became the mother temple of Japanese Buddhism: Hōnen, Shinran, Eisai, Dōgen and Nichiren all trained there. He received the posthumous title Dengyō Daishi."
+  ],
+  "portrait_file": "最澄像 一乗寺蔵 平安時代.jpg",
+  "portrait_caption": "Portrait of Saichō, Heian period (Ichijō-ji, Hyōgo)"
+ },
+ {
+  "id": "kukai",
+  "name": "Kūkai",
+  "name_native": "空海",
+  "born": "774",
+  "died": "835",
+  "sort": 774,
+  "birthplace": "Byōbugaura, Sanuki Province",
+  "deathplace": "Mount Kōya",
+  "nationality": "Japanese",
+  "movements": [
+   "esoteric-buddhism"
+  ],
+  "bio": "Founder of Shingon esoteric Buddhism, builder of Mount Kōya and one of the most revered figures in Japanese religion as Kōbō Daishi.",
+  "bio_full": [
+   "Kūkai left the state academy to wander as a Buddhist ascetic and in 804 sailed to Tang China, where in Chang'an the master Huiguo initiated him into the esoteric lineages of the Womb and Diamond Realms shortly before his death. Returning in 806 with scriptures, mandalas and ritual implements, he became a favourite of Emperor Saga, received Tō-ji in Kyoto, and in 816 founded a monastery on Mount Kōya.",
+   "His teaching that one can become a buddha in this very body through the 'three mysteries' of body, speech and mind is treated in the philosophy section. As a religious figure he became the object of a vast cult: pilgrims believe he did not die but remains in eternal meditation in his mausoleum at Kōya, and the 88-temple Shikoku pilgrimage follows his legendary footsteps. He was also a famed calligrapher and is credited by legend with many feats."
+  ],
+  "portrait_file": "Eight Patriarchs of the Shingon Sect of Buddhism Kukai Cropped.jpg",
+  "portrait_caption": "Kūkai, from a set of portraits of the Eight Patriarchs of Shingon, Kamakura period"
+ },
+ {
+  "id": "genshin",
+  "name": "Genshin",
+  "name_native": "源信",
+  "born": "942",
+  "died": "1017",
+  "sort": 942,
+  "birthplace": "Yamato Province",
+  "deathplace": "Yokawa, Mount Hiei",
+  "nationality": "Japanese",
+  "movements": [
+   "pure-land"
+  ],
+  "bio": "Tendai scholar-monk whose Essentials of Rebirth, with its descriptions of the hells and the Pure Land, spread Pure Land piety in Japan.",
+  "bio_full": [
+   "Genshin entered Mount Hiei as a child and studied under the abbot Ryōgen. Declining court honours, he withdrew to the Yokawa precinct, where he led a fraternity of monks who pledged to support one another in nenbutsu practice and to attend each other's deathbeds.",
+   "His Ōjōyōshū of 985 collected scriptural passages describing the realms of rebirth, especially the hells, and the glories of Amida's Pure Land, and gave detailed guidance on contemplating Amida and on deathbed rites. It shaped Heian aristocratic religion, the iconography of hell scrolls and welcoming-descent (raigō) paintings, and was sent to China. Hōnen began from his work."
+  ],
+  "portrait_file": "Genshin-gazo.jpg",
+  "portrait_caption": "Portrait of Genshin, Japanese hanging scroll"
+ },
+ {
+  "id": "honen",
+  "name": "Hōnen",
+  "name_native": "法然",
+  "born": "1133",
+  "died": "1212",
+  "sort": 1133,
+  "birthplace": "Mimasaka Province",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "kamakura-buddhism",
+   "pure-land"
+  ],
+  "bio": "Founder of the Jōdo (Pure Land) school, who taught that reciting Amida's name alone suffices for rebirth.",
+  "bio_full": [
+   "Hōnen, ordained as Genkū, was a son of a provincial warrior killed in a feud. He studied on Mount Hiei for decades and in 1175, reading Shandao's commentary, concluded that in the age of the decline of the Dharma ordinary people could be saved only by relying on Amida's vow through the spoken nenbutsu. He left the mountain to teach in Kyoto, attracting courtiers, warriors, women and the poor.",
+   "His teaching that the nenbutsu was the one practice chosen by Amida drew fierce opposition from Kōfuku-ji and Enryaku-ji. In 1207 the court banned exclusive nenbutsu, executed some disciples and exiled Hōnen and others, including Shinran. He was pardoned in 1211 and died in Kyoto the following year. Chion-in in Kyoto is the head temple of his Jōdo-shū."
+  ],
+  "portrait_file": "Takanobu-no-miei.jpg",
+  "portrait_caption": "Portrait of Hōnen, Kamakura period"
+ },
+ {
+  "id": "shinran",
+  "name": "Shinran",
+  "name_native": "親鸞",
+  "born": "1173",
+  "died": "1263",
+  "sort": 1173,
+  "birthplace": "Hino, near Kyoto",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "kamakura-buddhism",
+   "pure-land"
+  ],
+  "bio": "Disciple of Hōnen and founder of Jōdo Shinshū, who taught salvation by faith alone in Amida's vow and openly married.",
+  "bio_full": [
+   "Shinran trained for twenty years on Mount Hiei before becoming a disciple of Hōnen in 1201. Exiled to Echigo in 1207, he declared himself 'neither monk nor layman', married Eshinni and raised a family, then spent some twenty years teaching in the Kantō region before returning to Kyoto, where he wrote and corresponded until his death at ninety.",
+   "He taught that even the nenbutsu is not one's own effort but a gift of Amida, so that faith (shinjin) itself is given, and that the wicked are the very object of the vow. The philosophy section treats his thought. His descendants built the Honganji, which under Rennyo became Japan's largest Buddhist organisation; Jōdo Shinshū's married clergy set a pattern for Japanese Buddhism."
+  ],
+  "portrait_file": "Shinran (Nara National Museum).jpg",
+  "portrait_caption": "Portrait of Shinran (Kagami no goei), Kamakura period (Nara National Museum)"
+ },
+ {
+  "id": "eisai",
+  "name": "Eisai",
+  "name_native": "栄西",
+  "born": "1141",
+  "died": "1215",
+  "sort": 1141,
+  "birthplace": "Bitchū Province",
+  "deathplace": "Kamakura or Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "kamakura-buddhism",
+   "chan-zen-seon"
+  ],
+  "bio": "Tendai monk who twice travelled to Song China and brought back the Rinzai lineage of Zen, and tea.",
+  "bio_full": [
+   "Eisai (also read Yōsai) trained on Mount Hiei and went to China briefly in 1168 and again from 1187 to 1191, when he received the Linji transmission from Xu'an Huaichang on Mount Tiantai. Back in Japan he founded Shōfuku-ji in Hakata and, with the support of the Kamakura shogunate, Jufuku-ji in Kamakura and Kennin-ji in Kyoto in 1202.",
+   "He presented Zen as a revival of strict monastic discipline that would protect the state, and combined it with Tendai and esoteric rites; he was not founding a separate sect so much as reforming within the old order. His treatise on tea promoted drinking powdered green tea for health, and he is remembered as a founder of Japanese tea culture."
+  ],
+  "portrait_file": "Myoan-Eisai-Kennin-ji-Portrait.png",
+  "portrait_caption": "Portrait of Myōan Eisai (Kennin-ji, Kyoto)"
+ },
+ {
+  "id": "dogen",
+  "name": "Dōgen",
+  "name_native": "道元",
+  "born": "1200",
+  "died": "1253",
+  "sort": 1200,
+  "birthplace": "Kyoto",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "kamakura-buddhism",
+   "chan-zen-seon"
+  ],
+  "bio": "Founder of Japanese Sōtō Zen and of Eihei-ji, who taught 'just sitting' as the enactment of awakening.",
+  "bio_full": [
+   "Born into the high aristocracy and orphaned young, Dōgen trained on Mount Hiei and at Kennin-ji, then went to China in 1223, where he received the Caodong transmission from Rujing at Mount Tiantong. He returned in 1227, taught near Kyoto, and in 1243 moved with his community to Echizen, where he founded Eihei-ji.",
+   "His thought, recorded in the Shōbōgenzō, is treated in the philosophy section. As a religious founder he set out rules for every part of monastic life, from the meditation hall to the kitchen and the toilet, treating ordinary work as practice. Sōtō, spread widely among rural people by his successors such as Keizan, is now Japan's largest Zen school."
+  ],
+  "portrait_file": "Soto-Zen-Master-Dogen-Zenji-Portrait.png",
+  "portrait_caption": "Portrait of Dōgen viewing the moon, Hōkyō-ji, Kamakura period"
+ },
+ {
+  "id": "nichiren",
+  "name": "Nichiren",
+  "name_native": "日蓮",
+  "born": "1222",
+  "died": "1282",
+  "sort": 1222,
+  "birthplace": "Kominato, Awa Province",
+  "deathplace": "Ikegami, Musashi Province",
+  "nationality": "Japanese",
+  "movements": [
+   "kamakura-buddhism"
+  ],
+  "bio": "Prophetic monk who taught that chanting the title of the Lotus Sutra alone could save individuals and the nation.",
+  "bio_full": [
+   "Born to a fishing family on the Bōsō peninsula, Nichiren studied at Kiyosumi-dera and on Mount Hiei and became convinced that the Lotus Sutra was the Buddha's final truth. From 1253 he taught the chanting of its title, Namu Myōhō Renge Kyō, and denounced the Pure Land, Zen, Shingon and Ritsu schools as the cause of Japan's disasters. He was attacked, twice exiled, and in 1271 narrowly escaped execution at Tatsunokuchi.",
+   "Nichiren saw his sufferings as proof that he was the votary of the Lotus Sutra foretold in scripture, and his warning that Japan would be invaded seemed fulfilled by the Mongol attacks of 1274 and 1281. He inscribed calligraphic mandalas (gohonzon) as objects of worship. His followers divided into many lines, and in the twentieth century Nichiren Buddhism inspired lay movements such as Sōka Gakkai and Risshō Kōseikai."
+  ],
+  "portrait_file": "Nichiren Daishonin Hakii Portrait.jpg",
+  "portrait_caption": "Portrait of Nichiren (Hakii portrait), Kamakura period"
+ },
+ {
+  "id": "rennyo",
+  "name": "Rennyo",
+  "name_native": "蓮如",
+  "born": "1415",
+  "died": "1499",
+  "sort": 1415,
+  "birthplace": "Kyoto",
+  "deathplace": "Yamashina, Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "pure-land"
+  ],
+  "bio": "Eighth head of the Honganji, whose pastoral letters turned Jōdo Shinshū into a mass movement.",
+  "bio_full": [
+   "Rennyo, a descendant of Shinran, became head of the then small Honganji in 1457. Driven from Kyoto by Enryaku-ji monks, he settled at Yoshizaki in Echizen in 1471, where he organised followers into congregations (kō) that met to chant and discuss his letters. He later built the Yamashina Honganji near Kyoto.",
+   "His letters (ofumi) explained Shinran's teaching in plain language for village readers and were read aloud at gatherings. Under him the Honganji grew into one of the most powerful institutions in Japan; armed leagues of followers (ikkō ikki) took control of Kaga Province in 1488, though Rennyo urged obedience to authorities. He married five times and had 27 children."
+  ]
+ },
+ {
+  "id": "ikkyu",
+  "name": "Ikkyū Sōjun",
+  "name_native": "一休宗純",
+  "born": "1394",
+  "died": "1481",
+  "sort": 1394,
+  "birthplace": "Kyoto",
+  "deathplace": "Takigi, Yamashiro Province",
+  "nationality": "Japanese",
+  "movements": [
+   "chan-zen-seon"
+  ],
+  "bio": "Eccentric Rinzai monk and poet, rumoured son of an emperor, who mocked monastic hypocrisy and late in life became abbot of Daitoku-ji.",
+  "bio_full": [
+   "Ikkyū was probably a son of Emperor Go-Komatsu by a lady of the court and was placed in a temple as a child. He trained under the severe master Kasō Sōdon and received his seal of awakening, then spent much of his life wandering, writing verse, frequenting brothels and taverns, and attacking the commercialised Zen of the great Kyoto monasteries. At eighty he was made abbot of Daitoku-ji and led its rebuilding after the Ōnin War.",
+   "His Chinese poems in the Crazy Cloud Anthology, including love poems to the blind singer Mori, are some of the most personal religious poetry in Japanese literature. He influenced Noh, tea and calligraphy, and became a folk hero, the clever boy monk of popular stories and children's cartoons."
+  ],
+  "portrait_file": "Portrait of Ikkyū by Bokusai.jpg",
+  "portrait_caption": "Bokusai, portrait of Ikkyū, ink and colour, 15th century (Tokyo National Museum)"
+ },
+ {
+  "id": "hakuin",
+  "name": "Hakuin Ekaku",
+  "name_native": "白隠慧鶴",
+  "born": "1686",
+  "died": "1769",
+  "sort": 1686,
+  "birthplace": "Hara, Suruga Province",
+  "deathplace": "Hara, Suruga Province",
+  "nationality": "Japanese",
+  "movements": [
+   "chan-zen-seon"
+  ],
+  "bio": "Reviver of Rinzai Zen in the Edo period, who systematised kōan training and spread Zen through popular writings and ink paintings.",
+  "bio_full": [
+   "Hakuin was the son of an innkeeper at Hara on the Tōkaidō road and became a monk at fifteen. After a dramatic awakening and a later breakdown that he said he cured through a meditation taught by a hermit, he returned to the small temple Shōin-ji in Hara, where he taught for the rest of his life, attracting students from all over Japan.",
+   "He insisted on intense kōan practice and 'great doubt', and his disciples developed the graded kōan curriculum used in Rinzai to this day; virtually all Japanese Rinzai lineages descend from him. He wrote in vernacular Japanese for lay people, composed popular songs, and painted thousands of bold ink images of Bodhidharma and others, now prized as Zen art. 'Sound of one hand' is his kōan."
+  ],
+  "portrait_file": "Zen-Master-Hakuin-Ekaku-Self-Portrait-1767.png",
+  "portrait_caption": "Hakuin Ekaku, self-portrait, 1767"
+ },
+ {
+  "id": "wonhyo",
+  "name": "Wonhyo",
+  "name_native": "元曉",
+  "born": "617",
+  "died": "686",
+  "sort": 617,
+  "birthplace": "Amnyang, Silla",
+  "deathplace": "Hyeolsa, Silla",
+  "nationality": "Korean",
+  "movements": [
+   "korean-buddhism",
+   "pure-land"
+  ],
+  "bio": "Silla monk, scholar and popular preacher who brought Buddhism, and especially Pure Land devotion, to ordinary Koreans.",
+  "bio_full": [
+   "Wonhyo set out twice for Tang China with his friend Uisang; on the second attempt, according to a famous story, he drank from what he thought was a gourd in the dark and found at dawn that it was a skull, realising that all things arise from the mind, and turned back. He wrote some eighty works of doctrinal commentary, treated in the philosophy section. He fathered a son, Seol Chong, with a royal princess, after which he lived as a layman.",
+   "As a religious figure Wonhyo is remembered for taking Buddhism into villages and markets, dancing and singing with a gourd and teaching people to call on Amitābha. His exhortation to practice and his Pure Land commentaries were read across East Asia. He is venerated as the founder of an ecumenical Korean Buddhism and appears in many temple legends."
+  ],
+  "portrait_file": "범어사 원효대사 진영.jpg",
+  "portrait_caption": "Portrait of Wonhyo, Joseon period (Beomeosa, Busan)"
+ },
+ {
+  "id": "uisang",
+  "name": "Uisang",
+  "name_native": "義湘",
+  "born": "625",
+  "died": "702",
+  "sort": 625,
+  "birthplace": "Gyeongju, Silla",
+  "deathplace": "Silla",
+  "nationality": "Korean",
+  "movements": [
+   "korean-buddhism",
+   "tiantai-huayan"
+  ],
+  "bio": "Founder of Korean Hwaeom (Huayan) Buddhism and of Buseoksa temple, devotee of the bodhisattva Avalokiteśvara.",
+  "bio_full": [
+   "Uisang studied in Tang China from 661 under the second Huayan patriarch Zhiyan, alongside Fazang, who later wrote him a warm letter. Returning in 671, he founded Buseoksa in 676 and other temples in the mountains, training a large body of disciples. His seal-diagram poem on the dharma realm is treated in the philosophy section.",
+   "Uisang's piety centred on the bodhisattva Avalokiteśvara, whom he is said to have encountered in a cave on the east coast at Naksan, and on Amitābha. A Japanese thirteenth-century scroll tells the legend of the Chinese woman Shanmiao, who loved him and became a dragon to protect his ship. His school became the main doctrinal tradition of Silla Buddhism."
+  ],
+  "portrait_file": "Kegon Engi Emaki, Gisho lectures.jpg",
+  "portrait_caption": "Uisang (Gishō) lecturing, from the Kegon engi emaki, 13th century (Kōzan-ji, Kyoto)"
+ },
+ {
+  "id": "uicheon",
+  "name": "Uicheon",
+  "name_native": "義天",
+  "born": "1055",
+  "died": "1101",
+  "sort": 1055,
+  "birthplace": "Gaegyeong (Kaesong), Goryeo",
+  "deathplace": "Gaegyeong (Kaesong), Goryeo",
+  "nationality": "Korean",
+  "movements": [
+   "korean-buddhism",
+   "tiantai-huayan"
+  ],
+  "bio": "Goryeo prince-monk who collected Buddhist commentaries across East Asia and founded the Korean Cheontae (Tiantai) school.",
+  "bio_full": [
+   "Uicheon was the fourth son of King Munjong and became a monk at eleven. In 1085 he travelled secretly to Song China, met over fifty eminent monks and studied Huayan and Tiantai, returning in 1086 with some 3,000 fascicles. He set up a directorate at Heungwang-sa to collect and print East Asian Buddhist commentaries.",
+   "Hoping to reconcile doctrine and meditation, he founded the Cheontae school at Gukcheong-sa in 1097, drawing many Seon monks to it. His catalogue of sectarian writings and the 'supplementary canon' he printed preserved works lost in China. He died at 46 and received the title National Preceptor Daegak."
+  ],
+  "portrait_file": "Uicheon.jpg",
+  "portrait_caption": "Portrait of Uicheon, National Preceptor Daegak (Seonamsa)"
+ },
+ {
+  "id": "jinul",
+  "name": "Jinul",
+  "name_native": "知訥",
+  "born": "1158",
+  "died": "1210",
+  "sort": 1158,
+  "birthplace": "Seoheung, Goryeo",
+  "deathplace": "Suseonsa (Songgwangsa), Goryeo",
+  "nationality": "Korean",
+  "movements": [
+   "korean-buddhism",
+   "chan-zen-seon"
+  ],
+  "bio": "Goryeo Seon master who founded the Samādhi and Prajñā Society and the tradition of Songgwangsa, uniting Seon and doctrinal study.",
+  "bio_full": [
+   "Jinul became a monk at eight and passed the monastic examination in 1182, but, disgusted with a worldly Buddhist establishment, he and a few friends pledged to form a retreat society. After three awakenings, through reading the Platform Sutra, the Huayan commentaries of Li Tongxuan and the records of Dahui, he established the community in 1200 at a temple renamed Suseonsa, today's Songgwangsa.",
+   "His teaching of sudden awakening followed by gradual cultivation, and of the joint practice of concentration and wisdom, is treated in the philosophy section. As a founder he gave Korean Buddhism its distinctive synthesis and the Jogye Order, the largest in Korea today, regards him as its principal ancestor. Songgwangsa produced sixteen national preceptors after him."
+  ],
+  "portrait_file": "Jinul.jpg",
+  "portrait_caption": "Portrait of Jinul, National Preceptor Bojo (Songgwangsa)"
+ },
+ {
+  "id": "tripitaka-koreana-carvers",
+  "name": "Carvers of the Tripitaka Koreana",
+  "name_native": "팔만대장경 판각자",
+  "born": "1236",
+  "died": "1251",
+  "sort": 1236,
+  "birthplace": "Ganghwa Island and Namhae, Goryeo",
+  "deathplace": "Goryeo",
+  "nationality": "Korean",
+  "movements": [
+   "korean-buddhism"
+  ],
+  "bio": "The monks, scholars and craftsmen who carved the entire Buddhist canon onto over 81,000 woodblocks during the Mongol invasions.",
+  "bio_full": [
+   "The first Goryeo canon, carved from 1011 to seek protection against Khitan invasions, was burned by the Mongols in 1232. The Goryeo court, in refuge on Ganghwa Island, set up a Directorate for the Canon in 1236, with a branch on Namhae; the monk Sugi led the editing, comparing the Song Kaibao, Khitan and first Goryeo editions. Hundreds of carvers, whose names are sometimes recorded on the blocks, cut the text by 1251.",
+   "The 81,258 blocks, on which some 52 million characters are carved with remarkably few errors, were moved in 1398 to Haeinsa, where they are still kept in fifteenth-century storage halls designed for ventilation. Their critical edition served as the base text of the modern Japanese Taishō canon. The blocks and halls are on UNESCO's lists."
+  ]
+ },
+ {
+  "id": "iryeon",
+  "name": "Iryeon",
+  "name_native": "一然",
+  "born": "1206",
+  "died": "1289",
+  "sort": 1206,
+  "birthplace": "Gyeongsan, Goryeo",
+  "deathplace": "Ingaksa, Goryeo",
+  "nationality": "Korean",
+  "movements": [
+   "korean-buddhism"
+  ],
+  "bio": "Goryeo Seon monk who compiled the Samguk yusa, the principal source for Korean myth, Buddhist legend and the Dangun story.",
+  "bio_full": [
+   "Iryeon became a monk in his youth, passed the Seon examination in 1227 and lived through the decades of Mongol invasion. He served as royal preceptor under King Chungnyeol and in old age retired to Ingaksa in Gyeongsang Province to care for his mother.",
+   "There he completed the Memorabilia of the Three Kingdoms, which preserves foundation myths, including that of Dangun, temple origin stories, miracle tales, accounts of eminent monks and fourteen hyangga songs. In a period of foreign domination it gave Koreans a record of their antiquity complementary to the official Confucian history of Kim Busik."
+  ]
+ },
+ {
+  "id": "baegun",
+  "name": "Baegun Gyeonghan",
+  "name_native": "白雲景閑",
+  "born": "1298",
+  "died": "1374",
+  "sort": 1298,
+  "birthplace": "Gobu, Jeolla",
+  "deathplace": "Chwiamsa, Yeoju, Goryeo",
+  "nationality": "Korean",
+  "movements": [
+   "korean-buddhism",
+   "chan-zen-seon"
+  ],
+  "bio": "Goryeo Seon master whose anthology of patriarchs' teachings, the Jikji, is the oldest extant book printed with movable metal type.",
+  "bio_full": [
+   "Baegun went to Yuan China in 1351 and received teachings from the Linji master Shiwu Qinggong and from the Indian monk Zhikong. Back in Korea he served as abbot of several temples and taught a direct, 'no-mind' Seon.",
+   "Late in life he compiled an anthology of sayings of buddhas and patriarchs on recognising the mind. In 1377, three years after his death, his disciples printed it at Heungdeoksa in Cheongju with movable metal type, some 78 years before Gutenberg's Bible. Only the second volume survives, in Paris."
+  ]
+ },
+ {
+  "id": "seosan",
+  "name": "Seosan Daesa (Hyujeong)",
+  "name_native": "西山大師 休靜",
+  "born": "1520",
+  "died": "1604",
+  "sort": 1520,
+  "birthplace": "Anju, Pyongan Province",
+  "deathplace": "Myohyangsan, Joseon",
+  "nationality": "Korean",
+  "movements": [
+   "chan-zen-seon"
+  ],
+  "bio": "Joseon Seon master who unified Korean Buddhism under its Confucian rulers and led monk-soldiers against the Japanese invasions of the 1590s.",
+  "bio_full": [
+   "Hyujeong, known from his mountain residence as Seosan, was orphaned young and became a monk after studying Confucian classics in Seoul. He passed the briefly restored monastic examination in 1552 and headed both the Seon and doctrinal orders. In 1592, when Toyotomi Hideyoshi's armies invaded Korea, the king appointed him commander of the monk militias, which with his disciple Samyeong fought in the recapture of Pyongyang.",
+   "His Mirror for Seon Students combined Seon practice, scriptural study and Pure Land recitation, and argued for the harmony of Buddhism, Confucianism and Daoism. Nearly all later Korean monks belong to his lineage. Portraits of him and his disciples are kept in many Korean temples."
+  ],
+  "portrait_file": "Portrait of Seosan Daesa-Cheonghodang.jpg",
+  "portrait_caption": "Portrait of Seosan Daesa (Cheongheodang), Joseon period"
+ },
+ {
+  "id": "korean-shamans",
+  "name": "Korean shamans (mudang)",
+  "name_native": "무당",
+  "born": "ancient",
+  "died": "present",
+  "sort": 1200,
+  "birthplace": "Korea",
+  "deathplace": "Korea",
+  "nationality": "Korean",
+  "movements": [
+   "korean-shamanism"
+  ],
+  "bio": "The ritual specialists, mostly women, who perform the gut rituals of Korean shamanism and transmit its sacred narratives.",
+  "bio_full": [
+   "Mudang are of two broad kinds: initiated shamans, mostly in the north and centre, who become possessed after an illness interpreted as a call from the spirits, and hereditary shamans in the south, who perform without possession. They learn songs, dances, costumes and the order of ritual from senior shamans, and work for clients in homes, shrines and on the shore. Male shamans (baksu) also exist.",
+   "Joseon officials taxed, regulated and periodically expelled shamans from the capital, and colonial and post-war modernisers campaigned against 'superstition', but shamanism remained widespread. Since the 1970s several rites have been designated as intangible cultural heritage and mudang have become respected performers as well as healers. Their oral narratives, such as that of Princess Bari, are a major part of Korean oral literature."
+  ],
+  "portrait_file": "Hyewon-Munyeosinmu.jpg",
+  "portrait_caption": "Shin Yun-bok, A Shaman's Dance, from the Hyewon pungsokdo album, late 18th century"
+ },
+ {
+  "id": "han-yong-un",
+  "name": "Han Yong-un",
+  "name_native": "韓龍雲",
+  "born": "1879",
+  "died": "1944",
+  "sort": 1879,
+  "birthplace": "Hongseong, Joseon",
+  "deathplace": "Seoul",
+  "nationality": "Korean",
+  "movements": [
+   "modern-religion"
+  ],
+  "bio": "Buddhist monk, reformer, poet and independence leader who campaigned to modernise Korean Buddhism under Japanese rule.",
+  "bio_full": [
+   "Han Yong-un, known as Manhae, became a monk at Baekdamsa in 1905, and travelled to Japan in 1908 to observe modern Buddhism. In 1919 he was one of the 33 signatories of the March First Declaration of Independence and was imprisoned for three years. His thought and his reform treatise are treated in the philosophy section, and his poetry in the literature section.",
+   "As a religious reformer he argued for Buddhism in the cities rather than the mountains, education of monks, simplified ritual and even clerical marriage, and resisted the colonial government's control of temples. He compiled a one-volume anthology of scripture for modern readers and edited the journal Yusim. He died in Seoul in 1944, a year before liberation."
+  ]
+ },
+ {
+  "id": "jingjing",
+  "name": "Jingjing (Adam)",
+  "name_native": "景淨",
+  "born": "fl. 781",
+  "died": "",
+  "sort": 781,
+  "birthplace": "Chang'an",
+  "deathplace": "",
+  "nationality": "Persian or Chinese",
+  "movements": [
+   "christianity-east-asia"
+  ],
+  "bio": "Priest of the Church of the East in Tang Chang'an who composed the text of the Xi'an Stele of 781.",
+  "bio_full": [
+   "Jingjing, whose Syriac name was Adam, was a priest, chorepiscopus and 'papash of China' of the Church of the East in the Tang capital. The stele he composed names him as author, and Buddhist sources record that he collaborated with the Indian monk Prajña on a translation of a Buddhist sutra, which the emperor rejected as mixing teachings.",
+   "His stele inscription tells how the monk Aluoben brought the 'Luminous Teaching' (Jingjiao) to Chang'an in 635 and was welcomed by Emperor Taizong, summarises Christian doctrine in Buddhist and Daoist vocabulary, and lists clergy in Chinese and Syriac. Several Chinese Christian texts found at Dunhuang are also associated with him."
+  ]
+ },
+ {
+  "id": "francis-xavier",
+  "name": "Francis Xavier",
+  "name_native": "Francisco de Jasso y Azpilicueta",
+  "born": "1506",
+  "died": "1552",
+  "sort": 1506,
+  "birthplace": "Javier, Kingdom of Navarre",
+  "deathplace": "Shangchuan Island, China",
+  "nationality": "Navarrese (Spanish)",
+  "movements": [
+   "christianity-east-asia"
+  ],
+  "bio": "Jesuit co-founder and missionary who brought Christianity to Japan in 1549 and died trying to enter China.",
+  "bio_full": [
+   "Francis Xavier studied in Paris, where he became one of the first companions of Ignatius of Loyola and a founder of the Society of Jesus. Sent to Portuguese Asia, he worked in Goa, southern India, Malacca and the Moluccas from 1542. In Malacca he met a Japanese man, Anjirō, and in 1549 landed with him at Kagoshima.",
+   "In two years in Japan he preached in Kagoshima, Hirado, Yamaguchi and Bungo and visited Kyoto, concluding that missionaries must adapt to Japanese culture and win over the elite; his letters gave Europe its first detailed impression of Japan. He died of fever in 1552 on an island off the Chinese coast while waiting to enter China. He was canonised in 1622."
+  ],
+  "portrait_file": "Franciscus de Xabier.jpg",
+  "portrait_caption": "Portrait of Francis Xavier, Japanese painting, early 17th century (Kobe City Museum)"
+ },
+ {
+  "id": "matteo-ricci",
+  "name": "Matteo Ricci",
+  "name_native": "利瑪竇",
+  "born": "1552",
+  "died": "1610",
+  "sort": 1552,
+  "birthplace": "Macerata, Papal States",
+  "deathplace": "Beijing",
+  "nationality": "Italian",
+  "movements": [
+   "christianity-east-asia"
+  ],
+  "bio": "Jesuit missionary who adopted the dress and learning of a Confucian scholar and presented Christianity to Ming China in Chinese terms.",
+  "bio_full": [
+   "Ricci entered the Jesuits in Rome, studied mathematics under Christopher Clavius, and reached Macau in 1582. With Michele Ruggieri he settled at Zhaoqing in 1583, first dressing as a Buddhist monk and later, from 1595, as a Confucian literatus. He gained admiration for his world map, clocks and memory techniques and in 1601 obtained permission to reside in Beijing, where he died.",
+   "Ricci argued that ancient Confucianism had known the one God, called Shangdi, and that ancestor and Confucius rites were civil rather than religious, a position that later caused the Chinese Rites controversy and was condemned by Rome in 1704 and 1742. With converts such as Xu Guangqi he translated Euclid. His catechism and his journals, published in Latin by Nicolas Trigault, shaped both Chinese Christianity and Europe's image of China."
+  ],
+  "portrait_file": "利玛窦像，游文辉绘.jpg",
+  "portrait_caption": "Emmanuel Pereira (You Wenhui), portrait of Matteo Ricci, 1610 (Church of the Gesù, Rome)"
+ },
+ {
+  "id": "kakure-kirishitan",
+  "name": "Kakure Kirishitan communities",
+  "name_native": "隠れキリシタン",
+  "born": "1614",
+  "died": "present",
+  "sort": 1650,
+  "birthplace": "Nagasaki and Hirado region",
+  "deathplace": "Nagasaki region",
+  "nationality": "Japanese",
+  "movements": [
+   "christianity-east-asia"
+  ],
+  "bio": "The Hidden Christians of Japan, who kept a secret, increasingly Japanese form of Christianity through two and a half centuries of prohibition.",
+  "bio_full": [
+   "After the Tokugawa shogunate banned Christianity in 1614 and crushed the Shimabara rebellion of 1637–38, villages around Nagasaki, the Gotō Islands and Ikitsuki continued to practise in secret. They outwardly registered at Buddhist temples, were made to tread on images of Christ and Mary (fumi-e), and passed down prayers (orasho) in garbled Latin and Portuguese, baptism, a liturgical calendar and hidden images.",
+   "In 1865 some revealed themselves to a French priest at the new Ōura Church in Nagasaki; after persecution ended in 1873 many rejoined the Catholic Church, but others kept their ancestral form, now called Kakure Kirishitan, which survives in a few dwindling communities. Their sites were inscribed by UNESCO in 2018."
+  ]
+ },
+ {
+  "id": "hwang-sa-yeong",
+  "name": "Hwang Sa-yeong",
+  "name_native": "黃嗣永",
+  "born": "1775",
+  "died": "1801",
+  "sort": 1775,
+  "birthplace": "Hanseong (Seoul)",
+  "deathplace": "Hanseong (Seoul)",
+  "nationality": "Korean",
+  "movements": [
+   "christianity-east-asia"
+  ],
+  "bio": "Korean Catholic scholar whose secret silk letter of 1801 recorded the persecution of the early Korean church.",
+  "bio_full": [
+   "Hwang Sa-yeong passed the civil examination at sixteen and married into the family of the scholar Jeong Yak-yong, through whom he encountered Catholicism, which Korean scholars had brought from Beijing in 1784 without any missionary. Korea's first Catholics were largely aristocratic Southerner (Namin) scholars studying 'Western learning'.",
+   "In the Sinyu persecution of 1801, when the Chinese priest Zhou Wenmo and some three hundred believers were killed, Hwang hid in a pottery cave and wrote a long letter on silk to the bishop of Beijing describing events and asking for Western military pressure on Korea. It was intercepted, and he was executed. The letter, now in the Vatican, is a key source and remains controversial in Korea."
+  ]
+ },
+ {
+  "id": "robert-morrison",
+  "name": "Robert Morrison",
+  "name_native": "馬禮遜",
+  "born": "1782",
+  "died": "1834",
+  "sort": 1782,
+  "birthplace": "Morpeth, Northumberland",
+  "deathplace": "Guangzhou",
+  "nationality": "British",
+  "movements": [
+   "christianity-east-asia"
+  ],
+  "bio": "First Protestant missionary in China, who translated the whole Bible into Chinese and compiled the first major Chinese-English dictionary.",
+  "bio_full": [
+   "Sent by the London Missionary Society, Morrison arrived in Guangzhou in 1807, where foreigners were barely tolerated. He worked as translator for the East India Company, learned Chinese in secret, and with William Milne completed the Chinese Bible, published in 1823, as well as a six-volume dictionary.",
+   "He baptised only about ten Chinese, among them Liang Fa, whose tracts later inspired Hong Xiuquan. His translation was the basis of later Protestant Bibles in Chinese, and his dictionary and Anglo-Chinese College in Malacca laid foundations for Western sinology."
+  ],
+  "portrait_file": "Robert Morrison by John Richard Wildman.jpg",
+  "portrait_caption": "John Richard Wildman, Robert Morrison and his assistants translating the Bible, c. 1828"
+ },
+ {
+  "id": "hong-xiuquan",
+  "name": "Hong Xiuquan",
+  "name_native": "洪秀全",
+  "born": "1814",
+  "died": "1864",
+  "sort": 1814,
+  "birthplace": "Huaxian, Guangdong",
+  "deathplace": "Nanjing (Tianjing)",
+  "nationality": "Chinese",
+  "movements": [
+   "new-religions",
+   "christianity-east-asia"
+  ],
+  "bio": "Failed examination candidate who, after visions, declared himself the younger brother of Jesus and led the Taiping Heavenly Kingdom.",
+  "bio_full": [
+   "Hong Xiuquan, a Hakka from near Guangzhou, failed the civil examinations repeatedly. After a breakdown in 1837 he had visions of a heavenly father and elder brother who charged him to destroy demons, which he later interpreted through Liang Fa's Christian tracts as God and Jesus. With Feng Yunshan he founded the God Worshipping Society in Guangxi, which rose in 1850.",
+   "Proclaiming the Taiping Heavenly Kingdom in 1851, his forces took Nanjing in 1853 and held much of the Yangzi valley, enforcing iconoclasm, sexual segregation and an idiosyncratic Bible. The civil war against the Qing, among the deadliest in history with perhaps 20 million or more dead, ended with Hong's death and the fall of Nanjing in 1864. Historians debate whether to see Taiping religion as a Chinese form of Christianity or as a new religion."
+  ],
+  "portrait_file": "Hong Xiuquan.jpg",
+  "portrait_caption": "Hong Xiuquan, 19th-century illustration"
+ },
+ {
+  "id": "nakayama-miki",
+  "name": "Nakayama Miki",
+  "name_native": "中山みき",
+  "born": "1798",
+  "died": "1887",
+  "sort": 1798,
+  "birthplace": "Sanmaiden, Yamato Province",
+  "deathplace": "Shōyashiki, Yamato Province",
+  "nationality": "Japanese",
+  "movements": [
+   "new-religions"
+  ],
+  "bio": "Farm wife who in 1838 declared herself the 'Shrine of God' and founded Tenrikyō, revered by followers as Oyasama.",
+  "bio_full": [
+   "Miki married into the Nakayama, a farming family in Yamato, and raised six children. In 1838, during a healing rite for her son, she entered a trance and announced that God the Parent (Tenri-Ō-no-Mikoto) had taken her as his shrine. She gave away the family's wealth to the poor, began offering safe-childbirth blessings and healing, and from 1866 composed songs and dances.",
+   "She taught that humanity was created to live a 'joyous life' and that suffering comes from 'dust' on the mind. Arrested repeatedly by the authorities in her final years, she died in 1887; Tenrikyō teaches that she remains present at the Jiba in Tenri, the place of human origin. Recognised as a sect of Shinto in 1908 to gain legality, Tenrikyō later redefined itself as an independent religion."
+  ]
+ },
+ {
+  "id": "choe-je-u",
+  "name": "Choe Je-u",
+  "name_native": "崔濟愚",
+  "born": "1824",
+  "died": "1864",
+  "sort": 1824,
+  "birthplace": "Gyeongju, Joseon",
+  "deathplace": "Daegu, Joseon",
+  "nationality": "Korean",
+  "movements": [
+   "new-religions"
+  ],
+  "bio": "Founder of Donghak (Eastern Learning), the Korean religion that became Cheondogyo, executed by the Joseon state.",
+  "bio_full": [
+   "Choe Je-u, also known as Suun, was the son of a provincial scholar by a remarried widow, which barred him from office. After years of wandering, on 5 April 1860 he reported an encounter with the Lord of Heaven (Hanullim), who gave him a talisman and a sacred incantation. He preached in the Gyeongju region to large numbers of peasants.",
+   "His teaching, called Eastern Learning in contrast to Western (Catholic) learning, is treated in the philosophy section. The government saw it as Catholicism in disguise and executed him in Daegu in 1864. His successor Choe Si-hyeong compiled his scriptures; the movement fuelled the Donghak Peasant Revolution of 1894 and was renamed Cheondogyo (Religion of the Heavenly Way) in 1905 by Son Byong-hi, who led the March First Movement of 1919."
+  ]
+ },
+ {
+  "id": "sotaesan",
+  "name": "Sotaesan (Pak Chung-bin)",
+  "name_native": "少太山 朴重彬",
+  "born": "1891",
+  "died": "1943",
+  "sort": 1891,
+  "birthplace": "Yeonggwang, Jeolla",
+  "deathplace": "Iksan, Korea",
+  "nationality": "Korean",
+  "movements": [
+   "new-religions",
+   "modern-religion"
+  ],
+  "bio": "Founder of Won Buddhism, who after his enlightenment in 1916 built a reformed, lay-centred Buddhism around the symbol of the circle.",
+  "bio_full": [
+   "Pak Chung-bin was born to a farming family in Yeonggwang and spent years in ascetic searching before an enlightenment experience on 28 April 1916. He gathered disciples, led them in reclaiming tidal land, and in 1924 established the Society for the Study of the Buddhadharma at Iksan, which after his death was named Won Buddhism (Wonbulgyo) in 1947.",
+   "Sotaesan proposed making Buddhism practical for modern life: a single circular symbol (Il-won-sang) in place of images, simplified rites, equality of men and women, and the unity of spiritual practice with work, education and welfare. His Principal Book (Jeongjeon) appeared in 1943, just after his death. Won Buddhism is now one of Korea's major religions."
+  ]
+ },
+ {
+  "id": "taixu",
+  "name": "Taixu",
+  "name_native": "太虛",
+  "born": "1890",
+  "died": "1947",
+  "sort": 1890,
+  "birthplace": "Haining, Zhejiang",
+  "deathplace": "Shanghai",
+  "nationality": "Chinese",
+  "movements": [
+   "modern-religion"
+  ],
+  "bio": "Chinese monk and reformer whose 'Buddhism for human life' became the basis of modern Humanistic Buddhism.",
+  "bio_full": [
+   "Taixu became a monk at sixteen and was drawn into revolutionary politics and new learning in the last years of the Qing. From 1913 he called for a revolution in Buddhist doctrine, institutions and property, founded seminaries and the journal Haichao yin, travelled to Europe and America in 1928–29, and organised Buddhist associations under the Republic.",
+   "He argued that Buddhism should serve this world rather than funerals and the afterlife, and should engage with science and social reform. His student Yinshun developed these ideas as 'Humanistic Buddhism' (renjian fojiao), which inspired the large Taiwanese organisations of Foguangshan, Tzu Chi and Dharma Drum Mountain."
+  ]
+ },
+ {
+  "id": "d-t-suzuki",
+  "name": "D. T. Suzuki",
+  "name_native": "鈴木大拙",
+  "born": "1870",
+  "died": "1966",
+  "sort": 1870,
+  "birthplace": "Kanazawa, Ishikawa",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "modern-religion"
+  ],
+  "bio": "Japanese scholar whose English books made Zen known to the Western world in the twentieth century.",
+  "bio_full": [
+   "Suzuki Daisetsu Teitarō studied Zen at Engaku-ji under Shaku Sōen and in 1897 went to the United States, where he worked for eleven years with the publisher Paul Carus. Back in Japan he taught at Otani University and wrote in English and Japanese on Zen, Pure Land and Mahāyāna, then lectured widely in America and Europe after 1950.",
+   "His Essays in Zen Buddhism and later books presented Zen as an experience of awakening at the heart of all religion and of Japanese culture, influencing writers, artists and psychologists from Thomas Merton to John Cage. Later scholars have criticised his picture as romanticised and entangled with Japanese nationalism, but his role in the global reception of Zen is undisputed."
+  ]
+ }
+]
