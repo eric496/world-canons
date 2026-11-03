@@ -1,0 +1,1093 @@
+[
+ {
+  "id": "zhou-court-scribes",
+  "name": "Zhou court scribes",
+  "name_native": "周代史官",
+  "born": "c. 11th century BC",
+  "died": "c. 3rd century BC",
+  "sort": -1000,
+  "birthplace": "Royal and state courts of Zhou China",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "zhou-classics"
+  ],
+  "bio": "The anonymous scribes, archivists and later editors of the Zhou royal and state courts, whose speeches, decrees and records were gathered into the Book of Documents.",
+  "bio_full": [
+   "Early Chinese courts employed scribes (shi, the word that later came to mean 'history' and 'historian') who kept records of rituals, decrees, speeches and events. Bronze inscriptions of the Western Zhou show them reading out royal appointments, and later texts describe a 'scribe of the left' who recorded words and a 'scribe of the right' who recorded deeds. Their archives, repeatedly copied, edited and supplemented during the Spring and Autumn and Warring States periods, lie behind the oldest Chinese historical texts.",
+   "The Book of Documents (Shangshu) is the most important product of this tradition. Its chapters present the speeches and proclamations of sage kings and Zhou founders, and they were read for two thousand years as the model of good government. Modern scholarship sees the collection as layered: a few chapters may preserve genuine Western Zhou material, many were composed later in the voice of ancient rulers, and some were forged centuries afterward."
+  ]
+ },
+ {
+  "id": "zuo-qiuming",
+  "name": "Zuo Qiuming",
+  "name_native": "左丘明",
+  "born": "c. 5th century BC",
+  "died": "c. 5th century BC",
+  "sort": -500,
+  "birthplace": "State of Lu (Shandong)",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "zhou-classics"
+  ],
+  "bio": "The figure to whom tradition attributes the Zuo Commentary (Zuozhuan) and the Discourses of the States (Guoyu), China's earliest great works of narrative history.",
+  "bio_full": [
+   "Almost nothing certain is known about Zuo Qiuming. The Analects mention a man of that name whom Confucius admired, and Han writers, beginning with Sima Qian, made him a court historian of Lu and a contemporary of Confucius who wrote a commentary on the Spring and Autumn Annals; Sima Qian also says he was blind when he composed the Guoyu. Later tradition honoured him in the Confucian temple.",
+   "Modern scholars generally regard the attribution as traditional rather than historical. The Zuozhuan appears to have been compiled in the fourth century BC from older chronicles and stories, and its link with the Spring and Autumn Annals may have been tightened by Han editors. Whoever its authors were, the works credited to Zuo Qiuming established the patterns of Chinese historical narrative: speeches that reveal character, omens that foreshadow outcomes, and judgements that weigh rulers by ritual propriety."
+  ],
+  "portrait_file": "至聖先賢半身像 冊-087-左丘明.jpg",
+  "portrait_caption": "Zuo Qiuming, from the album Half-length Portraits of the Supreme Sage and Former Worthies (National Palace Museum, Taipei)"
+ },
+ {
+  "id": "liu-xiang",
+  "name": "Liu Xiang",
+  "name_native": "劉向",
+  "born": "79 BC",
+  "died": "8 BC",
+  "sort": -79,
+  "birthplace": "Pei (Jiangsu)",
+  "deathplace": "Chang'an",
+  "nationality": "Chinese",
+  "movements": [
+   "han-histories"
+  ],
+  "bio": "Han imperial librarian who collated the palace collection and compiled the Strategies of the Warring States (Zhanguo ce).",
+  "bio_full": [
+   "Liu Xiang was a member of the Han imperial clan who served at court under Emperors Xuan, Yuan and Cheng, surviving several political disgraces. From 26 BC he led the great collation of the imperial library, comparing variant manuscripts, fixing texts and writing a summary for each work; his son Liu Xin completed the project and its catalogue, which became the bibliographic treatise of the Book of Han.",
+   "Much of pre-Qin literature reaches us in the form Liu Xiang gave it. Besides the Zhanguo ce he compiled the Biographies of Exemplary Women (Lienü zhuan) and the anecdote collections Shuoyuan and Xinxu, all designed to offer the throne historical examples of good and bad conduct. He is a key figure in the transmission rather than the authorship of ancient texts."
+  ]
+ },
+ {
+  "id": "sima-qian",
+  "name": "Sima Qian",
+  "name_native": "司馬遷",
+  "born": "c. 145 BC",
+  "died": "c. 86 BC",
+  "sort": -145,
+  "birthplace": "Longmen, Xiayang (Hancheng, Shaanxi)",
+  "deathplace": "Chang'an (probably)",
+  "nationality": "Chinese",
+  "movements": [
+   "han-histories"
+  ],
+  "bio": "Grand Historian of the Han court, whose Shiji (Records of the Grand Historian) created the model for two thousand years of Chinese historical writing.",
+  "bio_full": [
+   "Sima Qian was the son of Sima Tan, Grand Scribe-Astrologer at the court of Emperor Wu, who began a history of the world as the Chinese knew it. As a young man Sima Qian travelled widely across the empire, and he succeeded his father in office around 108 BC, taking part in the calendar reform of 104 BC. In 99 BC he defended the general Li Ling, who had surrendered to the Xiongnu, and was sentenced to castration. He chose the punishment rather than suicide so that he could finish his father's book, as he explained in his famous letter to Ren An.",
+   "The Shiji, completed around 91 BC, runs from the legendary Yellow Emperor to Sima Qian's own day. He invented its composite form of annals, tables, treatises, hereditary houses and biographies, which every later dynastic history adopted. He drew on archives, older texts, inscriptions and interviews, and his portraits of assassins, merchants, rebels and failures as well as emperors give the work an extraordinary human range. Admired equally as literature and as history, he is the founding figure of the Chinese historiographical tradition."
+  ],
+  "portrait_file": "Si maqian.jpg",
+  "portrait_caption": "Imagined portrait of Sima Qian from a later Chinese illustrated book"
+ },
+ {
+  "id": "ban-gu",
+  "name": "Ban Gu",
+  "name_native": "班固",
+  "born": "AD 32",
+  "died": "AD 92",
+  "sort": 32,
+  "birthplace": "Anling, near Xianyang (Shaanxi)",
+  "deathplace": "Luoyang (in prison)",
+  "nationality": "Chinese",
+  "movements": [
+   "han-histories"
+  ],
+  "bio": "Eastern Han historian and poet whose Book of Han was the first history devoted to a single dynasty, the model for the official histories that followed.",
+  "bio_full": [
+   "Ban Gu came from a distinguished family of scholars and generals: his father Ban Biao had begun a continuation of the Shiji, his twin brother Ban Chao was the general who restored Han power in Central Asia, and his sister Ban Zhao was a renowned scholar. After his father's death Ban Gu was briefly imprisoned for privately writing history, but Emperor Ming read his drafts, released him and appointed him to the palace library. He also wrote rhapsodies, notably the Rhapsody on the Two Capitals, and edited the record of the White Tiger Hall debates on the classics. Attached to the general Dou Xian, he was arrested when Dou fell from power in 92 and died in prison.",
+   "The Book of Han narrowed Sima Qian's universal history to one dynasty, the Former Han, a choice that made the dynastic history the standard unit of Chinese historiography. Its treatises on law, economics, geography and literature, including the bibliography of the imperial library, are among the most valuable sources for Han China. Its style is more regular and Confucian in tone than the Shiji, and the two works were paired for centuries as 'Shi-Han'."
+  ],
+  "portrait_file": "Ban Gu.jpg",
+  "portrait_caption": "Imagined portrait of Ban Gu from a later Chinese illustrated book"
+ },
+ {
+  "id": "ban-zhao",
+  "name": "Ban Zhao",
+  "name_native": "班昭",
+  "born": "c. AD 45",
+  "died": "c. AD 117",
+  "sort": 45,
+  "birthplace": "Anling, near Xianyang (Shaanxi)",
+  "deathplace": "Luoyang",
+  "nationality": "Chinese",
+  "movements": [
+   "han-histories"
+  ],
+  "bio": "China's first known woman historian, who completed her brother Ban Gu's Book of Han and wrote the influential Lessons for Women.",
+  "bio_full": [
+   "Ban Zhao was the younger sister of Ban Gu and Ban Chao. Widowed young, she lived at the Eastern Han court, where Emperor He called on her to finish the Book of Han after Ban Gu's death; she is credited with completing its eight tables and, with Ma Xu, the treatise on astronomy. She taught the empress and palace ladies, and the scholar Ma Rong is said to have studied the Book of Han under her. Under the regency of Empress Dowager Deng she was an adviser at court, and she also wrote poems, rhapsodies and memorials.",
+   "Her Lessons for Women (Nüjie), addressed to the young women of her family, counsels humility, diligence and deference to husbands and in-laws, and became a foundational text of Chinese women's education. Modern readers have judged it very differently: some see it as entrenching subordination, others note that Ban Zhao also argued for educating girls and herself exemplified a learned woman's public role."
+  ],
+  "portrait_file": "Famous Women, 1799 (L).jpg",
+  "portrait_caption": "Ban Zhao, woodblock illustration from a 1799 book of famous women"
+ },
+ {
+  "id": "chen-shou",
+  "name": "Chen Shou",
+  "name_native": "陳壽",
+  "born": "233",
+  "died": "297",
+  "sort": 233,
+  "birthplace": "Anhan, Baxi commandery (Nanchong, Sichuan)",
+  "deathplace": "Luoyang",
+  "nationality": "Chinese",
+  "movements": [
+   "han-histories"
+  ],
+  "bio": "Historian of the Western Jin whose Records of the Three Kingdoms is the standard history of the Wei, Shu and Wu states.",
+  "bio_full": [
+   "Chen Shou was born in the state of Shu Han and served it as a minor official, studying under the scholar Qiao Zhou. After Shu fell to Wei in 263 he entered the service of the Jin dynasty, where the minister Zhang Hua recognised his talent. He compiled the collected writings of Zhuge Liang and then wrote the Records of the Three Kingdoms, covering the period from the collapse of the Han to the Jin reunification in 280.",
+   "His history is concise and careful, treating Wei as the legitimate dynasty while giving Shu and Wu their own books. Its terseness prompted Pei Songzhi to add a vast commentary in 429, quoting more than two hundred other sources, and together they became the basis for the later Romance of the Three Kingdoms. The chapter on the eastern peoples, with its account of Wa (Japan) and Queen Himiko, is the earliest substantial written description of Japan."
+  ]
+ },
+ {
+  "id": "fan-ye",
+  "name": "Fan Ye",
+  "name_native": "范曄",
+  "born": "398",
+  "died": "445",
+  "sort": 398,
+  "birthplace": "Shunyang (Henan)",
+  "deathplace": "Jiankang (Nanjing), executed",
+  "nationality": "Chinese",
+  "movements": [
+   "han-histories"
+  ],
+  "bio": "Liu Song official and historian whose Book of the Later Han became the standard history of the Eastern Han dynasty.",
+  "bio_full": [
+   "Fan Ye belonged to a family of officials of the Southern Dynasties and rose in the service of the Liu Song. Demoted to a provincial post around 432, he used his leisure to write a history of the Eastern Han, drawing on numerous earlier histories of the period, most now lost. In 445 he was accused of joining a plot to depose Emperor Wen and was executed before he could complete the treatises.",
+   "The Book of the Later Han is admired for its polished prose and its appraisals at the end of chapters. Fan Ye added new categories of collective biography, including chapters on exemplary women, recluses and the eunuchs and partisan factions of the late Han. The treatises now printed with it were taken from Sima Biao's earlier history and attached in the sixth century."
+  ]
+ },
+ {
+  "id": "zhangsun-wuji",
+  "name": "Zhangsun Wuji",
+  "name_native": "長孫無忌",
+  "born": "c. 594",
+  "died": "659",
+  "sort": 594,
+  "birthplace": "",
+  "deathplace": "Qianzhou (Chongqing), in exile",
+  "nationality": "Chinese",
+  "movements": [
+   "tang-history-office"
+  ],
+  "bio": "Tang chancellor and brother-in-law of Emperor Taizong who presided over the commentary on the Tang Code, the model of East Asian law.",
+  "bio_full": [
+   "Zhangsun Wuji was the brother of Empress Zhangsun and a close friend of Li Shimin, the future Emperor Taizong, whom he helped seize the throne in 626. He headed the list of the twenty-four meritorious ministers portrayed in the Lingyan Pavilion, served as chancellor under Taizong and Gaozong, and directed major compilations, including the Book of Sui's treatises. He opposed Gaozong's elevation of Wu Zetian as empress, was accused of treason, exiled and forced to take his own life in 659.",
+   "His commission presented the Tang Code with its official commentary (Tanglü shuyi) in 653. The code's clear structure, graded punishments and integration of Confucian family hierarchy into law became the template for the codes of later Chinese dynasties and for Japan, Korea and Vietnam."
+  ],
+  "portrait_file": "Chinese - The Twenty-Four Ministers of the Tang -T'ang- Dynasty Emperor Taizong -T'ai-Tsung- - Walters 3557 - Changsun Wuji.png",
+  "portrait_caption": "Zhangsun Wuji, from an album of the Twenty-Four Ministers of Emperor Taizong (Walters Art Museum)"
+ },
+ {
+  "id": "liu-zhiji",
+  "name": "Liu Zhiji",
+  "name_native": "劉知幾",
+  "born": "661",
+  "died": "721",
+  "sort": 661,
+  "birthplace": "Pengcheng (Xuzhou, Jiangsu)",
+  "deathplace": "Anzhou (Hubei)",
+  "nationality": "Chinese",
+  "movements": [
+   "tang-history-office"
+  ],
+  "bio": "Tang court historian whose Shitong (Generalities on History) was the first systematic work of historical criticism in any language.",
+  "bio_full": [
+   "Liu Zhiji passed the jinshi examination young and spent much of his career in the Tang History Office, working on the national history and the veritable records under Empress Wu and her successors. He found committee work frustrating: in a famous letter of resignation he complained that compilers were too many, sources hard to get, and powerful ministers interfered in judgements. He finished the Shitong in 710 and died in provincial demotion in 721.",
+   "The Shitong analyses the genres, structure and methods of earlier histories, and criticises even revered works, including the Spring and Autumn Annals, for distortion and bias. Liu demanded that a historian combine talent, learning and insight, and praised 'straight writing' that records events without fear. Neglected for centuries, the book was rediscovered by Qing scholars and is now recognised as a landmark of historiographical theory."
+  ]
+ },
+ {
+  "id": "ouyang-xiu",
+  "name": "Ouyang Xiu",
+  "name_native": "歐陽修",
+  "born": "1007",
+  "died": "1072",
+  "sort": 1007,
+  "birthplace": "Mianzhou (Mianyang, Sichuan)",
+  "deathplace": "Yingzhou (Fuyang, Anhui)",
+  "nationality": "Chinese",
+  "movements": [
+   "song-comprehensive-history"
+  ],
+  "bio": "Song statesman, essayist and historian who led the compilation of the New Book of Tang and wrote the New History of the Five Dynasties.",
+  "bio_full": [
+   "Ouyang Xiu lost his father as a child and was taught to write by his mother with reeds in the sand. He passed the jinshi in 1030 and became one of the leading statesmen of the Northern Song, a reformer under Fan Zhongyan, a champion of plain 'ancient-style' prose and a patron of younger writers such as Su Shi and Zeng Gong. He was also a pioneer of epigraphy, collecting rubbings of ancient inscriptions.",
+   "As a historian he combined moral judgement in the manner of the Spring and Autumn Annals with a prose style of great concision. He directed the New Book of Tang with Song Qi, presented in 1060, and privately wrote the New History of the Five Dynasties, whose verdicts on disloyal officials and chaotic rulers carry a strong moral message. Both entered the official canon of standard histories."
+  ],
+  "portrait_file": "Ouyang-Xiu.jpg",
+  "portrait_caption": "Traditional portrait of Ouyang Xiu"
+ },
+ {
+  "id": "sima-guang",
+  "name": "Sima Guang",
+  "name_native": "司馬光",
+  "born": "1019",
+  "died": "1086",
+  "sort": 1019,
+  "birthplace": "Guangshan (Henan); family from Xia county, Shanxi",
+  "deathplace": "Kaifeng",
+  "nationality": "Chinese",
+  "movements": [
+   "song-comprehensive-history"
+  ],
+  "bio": "Northern Song statesman and historian whose Comprehensive Mirror to Aid in Government is the greatest chronological history of China.",
+  "bio_full": [
+   "Sima Guang passed the jinshi at twenty and became a leading official and scholar. A conservative opponent of Wang Anshi's New Policies, he withdrew to Luoyang in 1071 and spent fifteen years there with his assistants Liu Shu, Liu Ban and Fan Zuyu completing his history, which Emperor Shenzong had sponsored and named. After Shenzong's death in 1085 he was recalled as chancellor and reversed many of the reforms before dying the next year. A childhood story in which he saved a playmate by smashing a water jar is still told to Chinese children.",
+   "The Comprehensive Mirror covers 1,362 years in a single year-by-year narrative, an alternative to the fragmented dynastic histories. Sima Guang's method of first assembling a draft of all sources, then weighing them and recording his reasons in a separate Examination of Discrepancies, made it a model of critical compilation. His comments, introduced with 'Your servant Guang remarks', frame history as lessons for rulers."
+  ],
+  "portrait_file": "Sima Guang 1.jpg",
+  "portrait_caption": "Traditional portrait of Sima Guang"
+ },
+ {
+  "id": "zhu-xi",
+  "name": "Zhu Xi",
+  "name_native": "朱熹",
+  "born": "1130",
+  "died": "1200",
+  "sort": 1130,
+  "birthplace": "Youxi, Fujian",
+  "deathplace": "Jianyang, Fujian",
+  "nationality": "Chinese",
+  "movements": [
+   "song-comprehensive-history"
+  ],
+  "bio": "The great synthesiser of Neo-Confucianism, who also designed the Outline and Details of the Comprehensive Mirror, a moralised history read across East Asia.",
+  "bio_full": [
+   "Zhu Xi spent most of his life as a teacher and minor official in Fujian, building the Neo-Confucian synthesis whose commentaries on the Four Books became the basis of the civil-service examinations from 1313. His life and philosophy are described in the philosophy section.",
+   "As a historian he believed that history should make moral principle visible. He planned a condensation of Sima Guang's Comprehensive Mirror in which large-type 'outline' headings pass judgement in the manner of the Spring and Autumn Annals and small-type 'details' give the narrative. Completed by his disciples, the Gangmu shaped popular historical understanding in China, Korea and Japan for centuries."
+  ],
+  "portrait_file": "唯一可靠的朱熹画像.jpg",
+  "portrait_caption": "Portrait of Zhu Xi, traditionally regarded as the most reliable likeness"
+ },
+ {
+  "id": "ma-duanlin",
+  "name": "Ma Duanlin",
+  "name_native": "馬端臨",
+  "born": "1254",
+  "died": "1323",
+  "sort": 1254,
+  "birthplace": "Leping, Jiangxi",
+  "deathplace": "Leping, Jiangxi",
+  "nationality": "Chinese",
+  "movements": [
+   "song-comprehensive-history"
+  ],
+  "bio": "Scholar of the Song–Yuan transition whose Comprehensive Examination of Literature (Wenxian tongkao) is the fullest encyclopaedic history of Chinese institutions.",
+  "bio_full": [
+   "Ma Duanlin was the son of Ma Tingluan, a Southern Song chancellor. After the Mongol conquest of the Song in 1279 he declined high office, served only as a local teacher and academy head, and devoted some twenty years to his great compilation, completed around 1307 and printed in 1322.",
+   "The Wenxian tongkao extends Du You's Tongdian of the Tang, organising the history of institutions from antiquity to the Song under twenty-four headings such as land tax, currency, population, examinations, rites, military affairs, bibliography and foreign peoples. Ma distinguished 'documents' (wen) from 'discussions' (xian) and added his own critical notes. Its emphasis on long-term institutional change has made it a favourite of modern economic and social historians."
+  ]
+ },
+ {
+  "id": "song-lian",
+  "name": "Song Lian",
+  "name_native": "宋濂",
+  "born": "1310",
+  "died": "1381",
+  "sort": 1310,
+  "birthplace": "Pujiang, Zhejiang",
+  "deathplace": "Kuizhou (Fengjie, Sichuan), on the way to exile",
+  "nationality": "Chinese",
+  "movements": [
+   "official-histories"
+  ],
+  "bio": "Leading scholar of the early Ming, adviser to the Hongwu Emperor and chief compiler of the History of Yuan.",
+  "bio_full": [
+   "Song Lian was a respected teacher in Zhejiang under the Yuan who joined Zhu Yuanzhang, the future Hongwu Emperor, in 1360. He became tutor to the heir apparent, drafted court rituals and documents, and was celebrated as the foremost writer of the dynasty's founding. In 1380 his grandson was implicated in the alleged conspiracy of the chancellor Hu Weiyong; Song Lian was spared execution at the plea of the empress but banished, and died on the road.",
+   "He headed the commission that compiled the History of Yuan in two hurried sessions in 1369 and 1370. The speed showed: later scholars criticised duplicated biographies and inconsistent transcriptions of Mongol names, and the Republican scholar Ke Shaomin wrote a New History of Yuan to replace it. Yet its rapid compilation also preserved large amounts of Yuan documentary material verbatim."
+  ],
+  "portrait_file": "Portrait of Song Lian by Gu Jianlong.jpg",
+  "portrait_caption": "Gu Jianlong, portrait of Song Lian, 17th century"
+ },
+ {
+  "id": "zhang-tingyu",
+  "name": "Zhang Tingyu",
+  "name_native": "張廷玉",
+  "born": "1672",
+  "died": "1755",
+  "sort": 1672,
+  "birthplace": "Tongcheng, Anhui",
+  "deathplace": "Tongcheng, Anhui",
+  "nationality": "Chinese",
+  "movements": [
+   "official-histories"
+  ],
+  "bio": "Qing grand secretary who served three emperors and presented the official History of Ming in 1739.",
+  "bio_full": [
+   "Zhang Tingyu was the son of the grand secretary Zhang Ying and passed the jinshi in 1700. He became one of the most trusted ministers of the Yongzheng Emperor, helping to organise the Grand Council, and he was the only Han Chinese official granted the honour of enshrinement in the Qing imperial ancestral temple. He served the Kangxi, Yongzheng and Qianlong emperors.",
+   "The History of Ming had been under preparation since 1679, drawing on a draft by Wan Sitong and Wang Hongxu; Zhang presided over its final revision and presented it to the throne in 1739. It is regarded as one of the best-organised of the standard histories, though written under a conquest dynasty that was sensitive about Ming loyalism and its own Manchu origins."
+  ],
+  "portrait_file": "Zhang Tingyu.jpg",
+  "portrait_caption": "Qing-dynasty portrait of Zhang Tingyu"
+ },
+ {
+  "id": "gu-yanwu",
+  "name": "Gu Yanwu",
+  "name_native": "顧炎武",
+  "born": "1613",
+  "died": "1682",
+  "sort": 1613,
+  "birthplace": "Kunshan, Jiangsu",
+  "deathplace": "Quwo, Shanxi",
+  "nationality": "Chinese",
+  "movements": [
+   "qing-scholarship"
+  ],
+  "bio": "Ming loyalist scholar and traveller who turned Confucian learning toward evidence, geography and practical statecraft.",
+  "bio_full": [
+   "Gu Yanwu took part in resistance to the Manchu conquest and, after its failure, refused to serve the Qing. He spent much of his later life travelling in north China, studying inscriptions and topography and managing land. His life and ideas are discussed more fully in the philosophy section.",
+   "As a historical scholar he insisted on evidence from texts, inscriptions and on-the-ground observation, and he blamed the Ming collapse in part on empty philosophising. His compilations on geography, administration and economy were intended as practical guides for reform, and they made him a founder of Qing evidential learning (kaozheng)."
+  ],
+  "portrait_file": "Gu yanwu.jpg",
+  "portrait_caption": "Traditional portrait of Gu Yanwu"
+ },
+ {
+  "id": "ji-yun",
+  "name": "Ji Yun",
+  "name_native": "紀昀",
+  "born": "1724",
+  "died": "1805",
+  "sort": 1724,
+  "birthplace": "Xian county, Hebei",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "qing-scholarship"
+  ],
+  "bio": "Qing scholar-official who served as chief editor of the Complete Library of the Four Treasuries (Siku quanshu) and its annotated catalogue.",
+  "bio_full": [
+   "Ji Yun passed the jinshi in 1754 and served in the Hanlin Academy. Banished to Ürümqi in 1768 for warning a relative of an impending investigation, he was recalled in 1771 and in 1773 appointed one of the chief editors of the Qianlong Emperor's great library project, a post he held for over a decade. He later rose to be minister of rites and was famous for his wit.",
+   "He is credited with the final shaping of the Annotated General Catalogue of the Four Treasuries, which reviews more than ten thousand titles and remains a basic guide to traditional Chinese literature. He also wrote the Notes of the Thatched Abode of Close Scrutiny (Yuewei caotang biji), a popular collection of ghost and anecdote stories."
+  ],
+  "portrait_file": "Ji Yun.jpg",
+  "portrait_caption": "Qing-dynasty portrait of Ji Yun"
+ },
+ {
+  "id": "zhang-xuecheng",
+  "name": "Zhang Xuecheng",
+  "name_native": "章學誠",
+  "born": "1738",
+  "died": "1801",
+  "sort": 1738,
+  "birthplace": "Kuaiji (Shaoxing), Zhejiang",
+  "deathplace": "Shaoxing, Zhejiang",
+  "nationality": "Chinese",
+  "movements": [
+   "qing-scholarship"
+  ],
+  "bio": "Qing philosopher of history who argued that 'the Six Classics are all history' and theorised the writing of local and general histories.",
+  "bio_full": [
+   "Zhang Xuecheng passed the jinshi in 1778 but never held significant office. He made a living as a private secretary, academy teacher and compiler of local gazetteers, working for patrons such as the official Bi Yuan. Out of step with the philological fashion of his day, he was little known in his lifetime.",
+   "His essays, collected as General Principles of Literature and History (Wenshi tongyi), argue that the classics were records of ancient institutions rather than timeless doctrines, that historical writing should be guided by a grasp of underlying meaning rather than by accumulation of facts, and that local gazetteers deserve the seriousness of national history. Rediscovered by Japanese and Chinese scholars in the early twentieth century, notably Naitō Konan and Hu Shi, he is now considered the most original Chinese historical thinker of the Qing."
+  ]
+ },
+ {
+  "id": "lin-zexu",
+  "name": "Lin Zexu",
+  "name_native": "林則徐",
+  "born": "1785",
+  "died": "1850",
+  "sort": 1785,
+  "birthplace": "Houguan (Fuzhou), Fujian",
+  "deathplace": "Puning, Guangdong",
+  "nationality": "Chinese",
+  "movements": [
+   "treaty-ports"
+  ],
+  "bio": "Qing official whose campaign against the opium trade at Canton in 1839 precipitated the First Opium War, and who promoted the study of the West.",
+  "bio_full": [
+   "Lin Zexu passed the jinshi in 1811 and built a reputation as an able and honest provincial official. Appointed imperial commissioner to suppress the opium trade in 1838, he arrived in Canton in 1839, forced foreign merchants to surrender over twenty thousand chests of opium and destroyed them publicly at Humen. Britain responded with war, and after early defeats Lin was made a scapegoat and exiled to Ili in Xinjiang. Later pardoned, he died on his way to suppress the Taiping rebels.",
+   "Lin had translators compile information on Western countries, gathered as the Gazetteer of the Four Continents, which he passed to Wei Yuan. In China he is honoured as a national hero who resisted foreign drug trafficking; historians also discuss how far his confrontational tactics and misreading of British power contributed to the outbreak of war."
+  ],
+  "portrait_file": "Portrait of Lin Zexu.jpeg",
+  "portrait_caption": "Portrait of Lin Zexu"
+ },
+ {
+  "id": "wei-yuan",
+  "name": "Wei Yuan",
+  "name_native": "魏源",
+  "born": "1794",
+  "died": "1857",
+  "sort": 1794,
+  "birthplace": "Shaoyang, Hunan",
+  "deathplace": "Hangzhou, Zhejiang",
+  "nationality": "Chinese",
+  "movements": [
+   "treaty-ports"
+  ],
+  "bio": "Statecraft scholar whose Illustrated Treatise on the Maritime Kingdoms was the first major Chinese study of the Western world.",
+  "bio_full": [
+   "Wei Yuan belonged to the New Text and statecraft (jingshi) circles of the early nineteenth century, helping to compile the Collected Writings on Statecraft of the Qing (1826) and advising officials on salt administration and grain transport. Shocked by the Opium War, he wrote a military history of the Qing (Shengwu ji, 1842) and, using Lin Zexu's materials, the Haiguo tuzhi.",
+   "He urged China to 'learn the superior techniques of the barbarians in order to control them', advocating shipyards, arsenals and naval defence. His book had limited effect at the Qing court at first but was widely read in Japan in the 1850s by reformers such as Sakuma Shōzan and Yoshida Shōin, and it later inspired China's Self-Strengthening Movement."
+  ],
+  "portrait_file": "Wei Yuan.png",
+  "portrait_caption": "Portrait of Wei Yuan"
+ },
+ {
+  "id": "nanking-treaty-negotiators",
+  "name": "Treaty of Nanking negotiators",
+  "name_native": "南京條約談判代表",
+  "born": "1842",
+  "died": "1842",
+  "sort": 1842,
+  "birthplace": "",
+  "deathplace": "",
+  "nationality": "Chinese and British",
+  "movements": [
+   "treaty-ports"
+  ],
+  "bio": "The Qing commissioners Qiying and Yilibu and the British plenipotentiary Sir Henry Pottinger, who negotiated and signed the Treaty of Nanking in 1842.",
+  "bio_full": [
+   "After British forces captured Zhenjiang and threatened Nanjing in the summer of 1842, the Daoguang Emperor sent the Manchu imperial clansman Qiying and the elderly official Yilibu, with the Liangjiang governor-general Niu Jian, to negotiate. Their counterpart, Sir Henry Pottinger, a veteran of British India, had been sent to press British demands by force. The treaty was signed on 29 August 1842 aboard HMS Cornwallis on the Yangzi.",
+   "Qiying went on to negotiate the supplementary Treaty of the Bogue and the treaties with the United States and France in 1844, and was later forced to commit suicide after failing in further negotiations in 1858. Pottinger became the first governor of Hong Kong. The settlement they made opened what Chinese historians call the era of unequal treaties."
+  ]
+ },
+ {
+  "id": "liang-qichao",
+  "name": "Liang Qichao",
+  "name_native": "梁啓超",
+  "born": "1873",
+  "died": "1929",
+  "sort": 1873,
+  "birthplace": "Xinhui, Guangdong",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "new-history"
+  ],
+  "bio": "Reformer, journalist and scholar who called for a 'new history' of the Chinese nation and wrote China's first modern works of historical method.",
+  "bio_full": [
+   "A student of Kang Youwei and leader of the failed Hundred Days' Reform of 1898, Liang fled to Japan, where he edited influential journals and absorbed Japanese and Western scholarship. He returned to China after 1911, served briefly in Republican governments and spent his last years teaching at Tsinghua. His political thought is treated in the philosophy section.",
+   "In New Historiography (1902) he attacked the dynastic histories as 'the family records of twenty-four households' and argued that history should describe the evolution of the nation and its people. His later Methods for the Study of Chinese History (1922) and intellectual histories helped found the modern discipline in China."
+  ]
+ },
+ {
+  "id": "sun-yat-sen",
+  "name": "Sun Yat-sen",
+  "name_native": "孫中山",
+  "born": "1866",
+  "died": "1925",
+  "sort": 1866,
+  "birthplace": "Cuiheng, Xiangshan (Zhongshan), Guangdong",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "new-history"
+  ],
+  "bio": "Revolutionary leader and first provisional president of the Republic of China, whose Three Principles of the People became the founding ideology of the Nationalist Party.",
+  "bio_full": [
+   "Sun Yat-sen (Sun Wen, also known as Sun Zhongshan) was educated in Hawaii and Hong Kong and trained as a doctor. He founded the Revive China Society in 1894 and the Tongmenghui in 1905, raising support among overseas Chinese for repeated uprisings against the Qing. After the Wuchang uprising of 1911 he became provisional president in January 1912 but soon yielded to Yuan Shikai. He reorganised the Kuomintang in the 1920s with Soviet help and an alliance with the Communists, and died of cancer in 1925.",
+   "His Three Principles of the People, nationalism, democracy and the people's livelihood, combined Western political models with Chinese concerns. He is honoured as 'Father of the Nation' in Taiwan and as the 'forerunner of the revolution' in the People's Republic, one of the few figures revered on both sides of the Taiwan Strait."
+  ]
+ },
+ {
+  "id": "empress-dowager-longyu",
+  "name": "Empress Dowager Longyu",
+  "name_native": "隆裕太后",
+  "born": "1868",
+  "died": "1913",
+  "sort": 1868,
+  "birthplace": "Beijing",
+  "deathplace": "Beijing",
+  "nationality": "Chinese (Manchu)",
+  "movements": [
+   "new-history"
+  ],
+  "bio": "Last empress of the Guangxu Emperor and regent for the child emperor Puyi, in whose name she issued the Qing abdication edict of 1912.",
+  "bio_full": [
+   "Born into the Yehe Nara clan as a niece of the Empress Dowager Cixi, she was married to the Guangxu Emperor in 1889, an unhappy match arranged by Cixi. After the deaths of Guangxu and Cixi in 1908 she became empress dowager and guardian of the infant Xuantong Emperor, Puyi.",
+   "When revolution broke out in 1911, she was persuaded by Yuan Shikai and court officials that abdication on favourable terms was preferable to civil war. On 12 February 1912 she issued the edict in Puyi's name. She died a year later and was honoured by the Republican government for having enabled a relatively peaceful transfer of power."
+  ]
+ },
+ {
+  "id": "gu-jiegang",
+  "name": "Gu Jiegang",
+  "name_native": "顧頡剛",
+  "born": "1893",
+  "died": "1980",
+  "sort": 1893,
+  "birthplace": "Suzhou, Jiangsu",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "new-history"
+  ],
+  "bio": "Leader of the 'Doubting Antiquity' school, who argued that China's ancient history had been built up in layers by later writers.",
+  "bio_full": [
+   "Gu Jiegang studied at Peking University under Hu Shi during the May Fourth era and became a leading historian and folklorist, collecting folk songs and studying the legend of Meng Jiangnü. He taught at Sun Yat-sen, Yenching and other universities, founded the journal Yugong on historical geography, and after 1949 worked at the Chinese Academy of Sciences, editing the punctuated edition of the Twenty-Four Histories.",
+   "His theory of 'layered accumulation' held that the further back a legendary ruler stood in the traditional chronology, the later he had entered the record. The debates collected in Gushi bian challenged the historicity of the sage kings and opened ancient texts to critical analysis; archaeology later confirmed some sceptical conclusions and overturned others, notably by verifying the Shang kings."
+  ]
+ },
+ {
+  "id": "fujiwara-no-fuhito",
+  "name": "Fujiwara no Fuhito",
+  "name_native": "藤原不比等",
+  "born": "659",
+  "died": "720",
+  "sort": 659,
+  "birthplace": "Yamato",
+  "deathplace": "Heijō-kyō (Nara)",
+  "nationality": "Japanese",
+  "movements": [
+   "ritsuryo-histories"
+  ],
+  "bio": "Court statesman who led the drafting of the Taihō and Yōrō codes and founded the political dominance of the Fujiwara family.",
+  "bio_full": [
+   "Fuhito was the second son of Nakatomi no Kamatari, whose role in the coup of 645 had earned the family name Fujiwara. He rose under Empress Jitō and Emperor Monmu, married his daughter Miyako to Monmu and another daughter, Kōmyō, to the future Emperor Shōmu, setting the pattern of Fujiwara marriage politics. He was a leading figure in the move of the capital to Heijō-kyō (Nara) in 710.",
+   "With Prince Osakabe he directed the compilation of the Taihō Code of 701, which established Japan's Chinese-style ritsuryō state, and he later began its revision, the Yōrō Code, which was put into force only in 757. Tradition also connects him with the completion of the Nihon Shoki in the year of his death."
+  ],
+  "portrait_file": "Fujiwara-Fuhito.jpg",
+  "portrait_caption": "Fujiwara no Fuhito, from a later Japanese album of portraits"
+ },
+ {
+  "id": "prince-toneri",
+  "name": "Prince Toneri",
+  "name_native": "舎人親王",
+  "born": "676",
+  "died": "735",
+  "sort": 676,
+  "birthplace": "Asuka, Yamato",
+  "deathplace": "Heijō-kyō (Nara)",
+  "nationality": "Japanese",
+  "movements": [
+   "ritsuryo-histories"
+  ],
+  "bio": "Son of Emperor Tenmu who presided over the completion of the Nihon Shoki, Japan's first official history, in 720.",
+  "bio_full": [
+   "Prince Toneri was one of the sons of Emperor Tenmu, who had ordered the compilation of histories of the realm in 681. A senior member of the imperial family, he held high office after Fujiwara no Fuhito's death and was posthumously honoured as emperor (Sudōjinkei) because his son became Emperor Junnin.",
+   "The Nihon Shoki was presented under his name in 720, after decades of work by many scholars, some of them immigrants from the Korean peninsula. His role was that of a supervising patron rather than an author, but his name is permanently attached to the founding text of Japanese official historiography."
+  ],
+  "portrait_file": "Prince Toneri 2.jpg",
+  "portrait_caption": "Prince Toneri, later Japanese portrait"
+ },
+ {
+  "id": "rikkokushi-compilers",
+  "name": "Compilers of the Six National Histories",
+  "name_native": "六国史編纂者",
+  "born": "8th century",
+  "died": "10th century",
+  "sort": 720,
+  "birthplace": "Heijō-kyō (Nara) and Heian-kyō (Kyoto)",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "ritsuryo-histories"
+  ],
+  "bio": "The court nobles and scholars who compiled Japan's six official histories, from the Nihon Shoki of 720 to the True Records of Three Reigns of 901.",
+  "bio_full": [
+   "After the Nihon Shoki, the court continued to commission official histories modelled on Chinese practice. Commissions of nobles and Confucian scholars, such as Fujiwara no Tsugutada and Sugano no Mamichi for the Shoku Nihongi (797), Fujiwara no Fuyutsugu and Fujiwara no Otsugu for the Nihon Kōki (840), and Fujiwara no Tokihira and Sugawara no Michizane for the Nihon Sandai Jitsuroku (901), worked from court diaries, edicts and archives.",
+   "The six histories are written in classical Chinese and record events year by year from the viewpoint of the court. When the series ended in 901 the court did not resume it; history-writing passed to private chronicles, diaries and historical tales, a shift often linked to the rise of Fujiwara regency and the decline of ritsuryō institutions."
+  ]
+ },
+ {
+  "id": "heian-anonymous-authors",
+  "name": "Anonymous Heian authors",
+  "name_native": "平安時代の作者不詳",
+  "born": "9th century",
+  "died": "12th century",
+  "sort": 900,
+  "birthplace": "Heian-kyō (Kyoto)",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "historical-tales"
+  ],
+  "bio": "The unknown writers behind many Heian works, including the historical tale Ōkagami (The Great Mirror).",
+  "bio_full": [
+   "Many classic works of Heian prose, from early monogatari to tale collections, have no securely known author. In history, the most important is the Ōkagami, probably written in the late eleventh or early twelfth century by a courtier close to the Fujiwara regents; candidates such as Minamoto no Akifusa and Fujiwara no Yoshinobu have been proposed without agreement.",
+   "These writers worked in Japanese prose rather than the classical Chinese of the official histories, telling the past through court gossip, poetry and anecdote. Their 'historical tales' (rekishi monogatari) created a lasting vernacular form of history-writing."
+  ]
+ },
+ {
+  "id": "kamakura-shogunate-compilers",
+  "name": "Compilers of the Kamakura shogunate",
+  "name_native": "鎌倉幕府編纂者",
+  "born": "late 13th century",
+  "died": "early 14th century",
+  "sort": 1300,
+  "birthplace": "Kamakura",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "historical-tales"
+  ],
+  "bio": "The officials of the Kamakura shogunate, under the Hōjō regents, who compiled the Azuma Kagami, the official chronicle of Japan's first warrior government.",
+  "bio_full": [
+   "The Azuma Kagami was compiled around 1300 by officials of the shogunate in Kamakura, probably within the Hōjō regency's administrative offices. Its authors worked from shogunal documents, court diaries, temple records and family papers of retainers.",
+   "The result presents the founding and rule of the shogunate from a Hōjō viewpoint, which historians take into account when reading its portrayal of the Minamoto shoguns and the regents' rivals. It became a model of government for later warrior regimes; Tokugawa Ieyasu is said to have studied it closely."
+  ]
+ },
+ {
+  "id": "jien",
+  "name": "Jien",
+  "name_native": "慈円",
+  "born": "1155",
+  "died": "1225",
+  "sort": 1155,
+  "birthplace": "Heian-kyō (Kyoto)",
+  "deathplace": "Ōmi province",
+  "nationality": "Japanese",
+  "movements": [
+   "historical-tales"
+  ],
+  "bio": "Tendai abbot and poet whose Gukanshō (Jottings of a Fool) was the first Japanese attempt to interpret the whole of history through a guiding principle.",
+  "bio_full": [
+   "Jien was a son of the regent Fujiwara no Tadamichi and younger brother of the regent Kujō Kanezane. He entered the Buddhist priesthood as a child and was four times appointed head (zasu) of the Tendai school at Enryaku-ji on Mount Hiei. He was also one of the finest waka poets of his day, well represented in the Shin Kokinshū and the Hyakunin Isshu.",
+   "Writing around 1220, as tension grew between the retired emperor Go-Toba and the Kamakura shogunate, Jien argued that history unfolds according to a principle (dōri) that changes with the age, and that in a degenerate era cooperation between the Fujiwara regents, the court and the warriors was right. The Gukanshō is written in Japanese with kana, unusual for serious history at the time, so that more readers could understand it."
+  ],
+  "portrait_file": "Jien.jpg",
+  "portrait_caption": "Jien, from an Edo-period illustrated Hyakunin Isshu"
+ },
+ {
+  "id": "kitabatake-chikafusa",
+  "name": "Kitabatake Chikafusa",
+  "name_native": "北畠親房",
+  "born": "1293",
+  "died": "1354",
+  "sort": 1293,
+  "birthplace": "Kyoto",
+  "deathplace": "Anō, Yoshino (Nara)",
+  "nationality": "Japanese",
+  "movements": [
+   "historical-tales"
+  ],
+  "bio": "Court noble and general of the Southern Court whose Jinnō Shōtōki argued the legitimacy of Go-Daigo's line from the age of the gods.",
+  "bio_full": [
+   "Chikafusa belonged to a branch of the Murakami Genji court nobility and was tutor and adviser to Emperor Go-Daigo's sons. After Ashikaga Takauji drove Go-Daigo from Kyoto in 1336, Chikafusa became the chief strategist of the Southern Court at Yoshino, campaigning in eastern Japan, where he wrote his history while besieged at Oda castle in Hitachi in 1339.",
+   "The Jinnō Shōtōki traces the imperial succession from its divine origins and argues that the throne belongs to the line that combines descent with virtue, which for him was the Southern Court. Its Shinto-Confucian view of Japan as a divine land had a long afterlife: it was read by Mito scholars and Meiji nationalists, and its use in prewar ideology has made it a subject of critical study since 1945."
+  ]
+ },
+ {
+  "id": "hayashi-razan",
+  "name": "Hayashi Razan",
+  "name_native": "林羅山",
+  "born": "1583",
+  "died": "1657",
+  "sort": 1583,
+  "birthplace": "Kyoto",
+  "deathplace": "Edo",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-historiography"
+  ],
+  "bio": "Confucian adviser to the first Tokugawa shoguns, who began the Comprehensive Mirror of Our Realm (Honchō tsugan), completed by his son Gahō.",
+  "bio_full": [
+   "Hayashi Razan studied Zhu Xi Neo-Confucianism under Fujiwara Seika and served four Tokugawa shoguns as scholar and secretary, drafting documents and advising on ritual and precedent. He founded the Hayashi family school in Edo, later the official shogunal academy. His thought is described in the philosophy section.",
+   "In 1644 the shogunate ordered Razan to compile a chronological history of Japan; after his death his son Hayashi Gahō (Shunsai) completed it in 1670 as the Honchō tsugan. The project brought Chinese-style comprehensive history to Japan under Tokugawa patronage."
+  ],
+  "portrait_file": "林羅山 像.jpg",
+  "portrait_caption": "Edo-period portrait of Hayashi Razan"
+ },
+ {
+  "id": "tokugawa-mitsukuni",
+  "name": "Tokugawa Mitsukuni",
+  "name_native": "徳川光圀",
+  "born": "1628",
+  "died": "1701",
+  "sort": 1628,
+  "birthplace": "Mito, Hitachi province",
+  "deathplace": "Nishiyama, Hitachi province",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-historiography"
+  ],
+  "bio": "Second lord of the Mito domain, who in 1657 launched the Great History of Japan (Dai Nihonshi), a project that lasted until 1906.",
+  "bio_full": [
+   "Mitsukuni was a grandson of Tokugawa Ieyasu. As a youth he is said to have been inspired by the biography of the loyal brothers Boyi and Shuqi in Sima Qian's Shiji to devote himself to learning. He established a historiographical bureau, later named the Shōkōkan, in Edo, gathered scholars including the Ming refugee Zhu Shunshui, and sent researchers across Japan to copy documents. In popular culture he became 'Mito Kōmon', a travelling righter of wrongs, though that image is fictional.",
+   "His Dai Nihonshi, written in classical Chinese in the composite style of the Chinese standard histories, emphasised loyalty to the imperial line and recognised the Southern Court as legitimate. The Mito school that grew from it later fed the 'revere the emperor, expel the barbarians' movement that helped bring down the shogunate his family had founded."
+  ],
+  "portrait_file": "Tokugawa Mitsukuni.jpg",
+  "portrait_caption": "Edo-period portrait of Tokugawa Mitsukuni"
+ },
+ {
+  "id": "arai-hakuseki",
+  "name": "Arai Hakuseki",
+  "name_native": "新井白石",
+  "born": "1657",
+  "died": "1725",
+  "sort": 1657,
+  "birthplace": "Edo",
+  "deathplace": "Edo",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-historiography"
+  ],
+  "bio": "Confucian scholar-statesman of the early eighteenth century whose Tokushi yoron offered a reasoned periodisation of Japanese history.",
+  "bio_full": [
+   "Born into a masterless samurai family, Hakuseki studied under Kinoshita Jun'an and became tutor to the lord of Kōfu, who became the sixth shogun Tokugawa Ienobu in 1709. Hakuseki then served as Ienobu's chief adviser and that of his young successor Ietsugu, reforming the currency, regulating the Nagasaki trade and revising diplomatic protocol with Korea. He lost influence under the eighth shogun Yoshimune and spent his last years writing.",
+   "His Tokushi yoron, from lectures given to Ienobu, explained the transfer of power from court to warriors through 'nine changes' of court rule and 'five changes' of warrior rule, a rational, cause-seeking account. His Seiyō kibun, based on his interrogation of the Italian missionary Giovanni Battista Sidotti in 1709, was a pioneering study of the West, and his autobiography Oritaku shiba no ki is a classic."
+  ],
+  "portrait_file": "Arai Hakuseki - Japanischer Gelehrter.jpg",
+  "portrait_caption": "Edo-period portrait of Arai Hakuseki"
+ },
+ {
+  "id": "rai-sanyo",
+  "name": "Rai San'yō",
+  "name_native": "頼山陽",
+  "born": "1780",
+  "died": "1832",
+  "sort": 1780,
+  "birthplace": "Osaka",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-historiography"
+  ],
+  "bio": "Poet, calligrapher and historian whose Unofficial History of Japan (Nihon gaishi) became the most widely read history of late Tokugawa Japan.",
+  "bio_full": [
+   "Rai San'yō was the son of the Confucian scholar Rai Shunsui of the Hiroshima domain. As a young man he deserted the domain and was confined at home for years, during which he began his history. Disinherited, he settled in Kyoto as an independent teacher, poet and calligrapher, celebrated for his Chinese verse and his circle of literati friends.",
+   "The Nihon gaishi, finished around 1827 and presented to the former chief councillor Matsudaira Sadanobu, tells the history of the warrior houses from the Taira and Minamoto to the Tokugawa in vivid classical Chinese. Its praise of loyalty to the emperor made it a favourite of the loyalist samurai of the 1850s and 1860s, and it remained a school text well into the Meiji era."
+  ],
+  "portrait_file": "頼山陽 像 (cropped).jpg",
+  "portrait_caption": "Portrait of Rai San'yō"
+ },
+ {
+  "id": "fukuzawa-yukichi",
+  "name": "Fukuzawa Yukichi",
+  "name_native": "福澤諭吉",
+  "born": "1835",
+  "died": "1901",
+  "sort": 1835,
+  "birthplace": "Osaka",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-documents"
+  ],
+  "bio": "Founder of Keiō University and the most influential popular educator of Meiji Japan, whose Conditions in the West introduced Western institutions to a mass readership.",
+  "bio_full": [
+   "Born to a low-ranking samurai family of the Nakatsu domain, Fukuzawa studied Dutch learning in Nagasaki and Osaka, then taught himself English and travelled with the shogunate's missions to the United States (1860) and Europe (1862). He opened the school that became Keiō Gijuku, founded the newspaper Jiji shinpō, and refused government office. His ideas are treated in the philosophy section.",
+   "His Seiyō jijō, a lucid account of Western governments, taxation, schools, hospitals and banks, sold in huge numbers in the late 1860s and shaped Meiji reform. His later writings on Asia, especially the editorial known as 'Leaving Asia' (1885), are debated by historians for their role in Japanese attitudes to China and Korea."
+  ]
+ },
+ {
+  "id": "yuri-kimimasa",
+  "name": "Yuri Kimimasa",
+  "name_native": "由利公正",
+  "born": "1829",
+  "died": "1909",
+  "sort": 1829,
+  "birthplace": "Fukui, Echizen province",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-documents"
+  ],
+  "bio": "Fukui samurai and financial reformer who wrote the first draft of the Charter Oath of 1868.",
+  "bio_full": [
+   "Yuri Kimimasa (also known as Mitsuoka Hachirō) was a retainer of the Fukui domain, a student of the reformer Yokoi Shōnan and a specialist in domain finance. He joined the new Meiji government in 1868, where he planned its first paper currency, and later served as governor of Tokyo and as a member of the House of Peers.",
+   "His draft of five articles, revised by Fukuoka Takachika of Tosa and finally by Kido Takayoshi of Chōshū, became the Charter Oath proclaimed by the young Emperor Meiji. Its promise of public discussion and of seeking knowledge throughout the world was later cited by advocates of representative government, both in the Meiji era and after 1945."
+  ]
+ },
+ {
+  "id": "ito-hirobumi",
+  "name": "Itō Hirobumi",
+  "name_native": "伊藤博文",
+  "born": "1841",
+  "died": "1909",
+  "sort": 1841,
+  "birthplace": "Tsukari, Suō province (Yamaguchi)",
+  "deathplace": "Harbin, Manchuria (assassinated)",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-documents"
+  ],
+  "bio": "Meiji statesman, four times prime minister, who led the drafting of the Constitution of the Empire of Japan of 1889.",
+  "bio_full": [
+   "Itō was born into a farming family that rose into the lower ranks of the Chōshū samurai. He studied at Yoshida Shōin's school, was one of the 'Chōshū Five' smuggled to Britain in 1863, and became a key member of the Meiji oligarchy. In 1882–83 he studied constitutional theory in Europe, especially with Rudolf von Gneist and Lorenz von Stein, then built the cabinet system and became Japan's first prime minister in 1885. He founded the Seiyūkai party in 1900.",
+   "After the Russo-Japanese War he became the first Resident-General of Korea (1906–09), overseeing the protectorate that preceded annexation. He was assassinated at Harbin station in 1909 by the Korean independence activist An Jung-geun. He is remembered in Japan as the architect of constitutional government and in Korea as a principal agent of colonisation, and both views are part of his history."
+  ]
+ },
+ {
+  "id": "kume-kunitake",
+  "name": "Kume Kunitake",
+  "name_native": "久米邦武",
+  "born": "1839",
+  "died": "1931",
+  "sort": 1839,
+  "birthplace": "Saga, Hizen province",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-documents"
+  ],
+  "bio": "Meiji historian who wrote the official record of the Iwakura Mission and helped found critical history in Japan.",
+  "bio_full": [
+   "A samurai scholar of the Saga domain, Kume accompanied the Iwakura Mission of 1871–73 through the United States and Europe as its secretary and chronicler. He then joined the government's historiographical office and, from 1888, taught at the Imperial University of Tokyo, working alongside Shigeno Yasutsugu and the German historian Ludwig Riess, who taught Rankean source criticism.",
+   "His True Account of the Ambassadors' Tour (1878) is a vivid, five-part record of what the mission saw. In 1892 his article describing Shinto as a survival of ancient heaven-worship provoked attacks from Shinto and nationalist circles, and he was forced to resign his professorship, an early landmark in the history of academic freedom in Japan."
+  ]
+ },
+ {
+  "id": "constitution-of-japan-drafters",
+  "name": "Drafters of the Constitution of Japan",
+  "name_native": "日本国憲法起草者",
+  "born": "1946",
+  "died": "1946",
+  "sort": 1946,
+  "birthplace": "Tokyo",
+  "deathplace": "",
+  "nationality": "American and Japanese",
+  "movements": [
+   "postwar-documents"
+  ],
+  "bio": "The officials of the Allied occupation's Government Section, Japanese cabinet officials and members of the Imperial Diet who together produced the Constitution of Japan of 1946.",
+  "bio_full": [
+   "In February 1946, after a Japanese government draft was judged too close to the Meiji Constitution, General MacArthur's Government Section, led by Courtney Whitney and Charles Kades, prepared a model draft in about a week; Beate Sirota was among those who wrote its rights articles. The cabinet of Shidehara Kijūrō, with the minister Matsumoto Jōji and the official Satō Tatsuo, reworked it into Japanese, and the Diet elected in April 1946, the first with women voters, debated and amended it.",
+   "The degree to which the constitution was imposed or freely adopted has been argued over ever since. Its supporters stress its long popular acceptance and the Japanese contributions made in the Diet, including the expansion of social rights; critics point to its drafting under occupation. It has never been amended."
+  ]
+ },
+ {
+  "id": "jangsu",
+  "name": "King Jangsu of Goguryeo",
+  "name_native": "長壽王",
+  "born": "394",
+  "died": "491",
+  "sort": 394,
+  "birthplace": "Goguryeo (probably Gungnae, Ji'an)",
+  "deathplace": "Pyongyang",
+  "nationality": "Korean (Goguryeo)",
+  "movements": [
+   "korean-dynastic-histories"
+  ],
+  "bio": "Twentieth king of Goguryeo, who erected the great stele to his father Gwanggaeto in 414 and moved the capital to Pyongyang.",
+  "bio_full": [
+   "Jangsu, whose name means 'long life', reigned for nearly eighty years from 413 to 491. He moved the capital from Gungnae to Pyongyang in 427, maintained relations with both the Northern and Southern dynasties of China, and in 475 captured the Baekje capital at Hanseong, pushing Goguryeo's frontier south to the Han River basin.",
+   "In 414 he set up the stele at his father's tomb near Gungnae (now Ji'an, China), whose inscription is the oldest substantial historical text from Korea's Three Kingdoms period."
+  ]
+ },
+ {
+  "id": "kim-busik",
+  "name": "Kim Busik",
+  "name_native": "金富軾",
+  "born": "1075",
+  "died": "1151",
+  "sort": 1075,
+  "birthplace": "",
+  "deathplace": "Gaegyeong (Kaesong)",
+  "nationality": "Korean (Goryeo)",
+  "movements": [
+   "korean-dynastic-histories"
+  ],
+  "bio": "Goryeo statesman and Confucian scholar who compiled the History of the Three Kingdoms (Samguk sagi), Korea's oldest surviving history.",
+  "bio_full": [
+   "Kim Busik came from a family descended from the Silla royal house of Gyeongju. He passed the civil examination, served on missions to Song China and rose to chief minister. In 1135 he led the government forces that suppressed the rebellion of the monk Myocheong, who had urged moving the capital to Pyongyang and a war against the Jurchen Jin; he retired in 1142.",
+   "King Injong commissioned him to compile the Samguk sagi, presented in 1145. Kim followed Chinese historiographical forms and Confucian moral judgement. Twentieth-century nationalist historians such as Sin Chae-ho criticised him for a Silla-centred, China-deferential outlook, while other scholars emphasise his careful use of sources and his insistence that Koreans know their own history."
+  ]
+ },
+ {
+  "id": "iryeon",
+  "name": "Iryeon",
+  "name_native": "一然",
+  "born": "1206",
+  "died": "1289",
+  "sort": 1206,
+  "birthplace": "Jangsan (Gyeongsan, North Gyeongsang)",
+  "deathplace": "Ingaksa, Gunwi (North Gyeongsang)",
+  "nationality": "Korean (Goryeo)",
+  "movements": [
+   "korean-dynastic-histories"
+  ],
+  "bio": "Seon Buddhist master of the Goryeo period who compiled the Memorabilia of the Three Kingdoms (Samguk yusa).",
+  "bio_full": [
+   "Iryeon became a monk as a boy and passed the monastic examination in 1227. He rose to be National Preceptor in 1283 under King Chungnyeol and spent his last years at Ingaksa temple, where his stupa and memorial stele survive. He lived through the Mongol invasions of the thirteenth century and Goryeo's subordination to the Yuan.",
+   "The Samguk yusa gathers legends, Buddhist miracle tales, songs and local traditions omitted from the official Samguk sagi. It contains the earliest surviving account of Dangun, the founder of Gojoseon, and fourteen hyangga songs, and it is an irreplaceable source for Korean myth, Buddhism and folk belief."
+  ]
+ },
+ {
+  "id": "sejong",
+  "name": "Sejong the Great",
+  "name_native": "世宗",
+  "born": "1397",
+  "died": "1450",
+  "sort": 1397,
+  "birthplace": "Hanseong (Seoul)",
+  "deathplace": "Hanseong (Seoul)",
+  "nationality": "Korean (Joseon)",
+  "movements": [
+   "joseon-records"
+  ],
+  "bio": "Fourth king of Joseon, who created the Korean alphabet and promulgated it in the Hunminjeongeum of 1446.",
+  "bio_full": [
+   "Sejong was the third son of King Taejong and succeeded him in 1418. He expanded the Hall of Worthies (Jiphyeonjeon), a royal research institute, and sponsored advances in astronomy, rain gauges, water clocks, agriculture, medicine, music and printing. His reign also saw campaigns against Jurchen groups in the north, extending Joseon's border to the Yalu and Tumen rivers.",
+   "Concerned that ordinary people could not read Chinese characters, he devised a phonetic script of twenty-eight letters, announced in 1443 and promulgated in 1446 as the Hunminjeongeum, 'the correct sounds for instructing the people'. Some officials opposed it, and it was long used mainly by women and commoners, but Hangul is now the national script of Korea and Sejong is the most revered of Korean kings."
+  ]
+ },
+ {
+  "id": "jeong-in-ji",
+  "name": "Jeong In-ji",
+  "name_native": "鄭麟趾",
+  "born": "1396",
+  "died": "1478",
+  "sort": 1396,
+  "birthplace": "",
+  "deathplace": "Hanseong (Seoul)",
+  "nationality": "Korean (Joseon)",
+  "movements": [
+   "joseon-records"
+  ],
+  "bio": "Joseon scholar-official who wrote the postface to the Hunminjeongeum Haerye and led the compilation of the History of Goryeo.",
+  "bio_full": [
+   "Jeong In-ji passed the civil examination in 1414 and became a leading member of King Sejong's Hall of Worthies, working on astronomy, calendars and music as well as history. He co-wrote the Songs of the Dragons Flying to Heaven (Yongbi eocheonga), the first work in Hangul, and later served as chief state councillor under King Sejo.",
+   "He wrote the postface to the 1446 explanatory edition of the Hunminjeongeum, which explains the purpose of the script, and headed the commission that completed the Goryeosa in 1451, presenting the fallen dynasty from the viewpoint of its Joseon successors."
+  ],
+  "portrait_file": "學易齋鄭麟趾尊影.jpg",
+  "portrait_caption": "Joseon-period portrait of Jeong In-ji"
+ },
+ {
+  "id": "sin-suk-ju",
+  "name": "Sin Suk-ju",
+  "name_native": "申叔舟",
+  "born": "1417",
+  "died": "1475",
+  "sort": 1417,
+  "birthplace": "Naju, Jeolla",
+  "deathplace": "Hanseong (Seoul)",
+  "nationality": "Korean (Joseon)",
+  "movements": [
+   "joseon-records"
+  ],
+  "bio": "Joseon scholar-statesman and linguist who wrote the Record of the Countries across the Eastern Sea (Haedong jegukgi), a description of Japan and Ryukyu.",
+  "bio_full": [
+   "Sin Suk-ju was one of the brilliant young scholars of Sejong's Hall of Worthies, contributing to the phonological work behind Hangul. In 1443 he travelled to Japan as an envoy's secretary. He supported Prince Suyang's seizure of the throne as King Sejo in 1455, a choice that brought him high office as chief state councillor but which later moralists contrasted unfavourably with the 'six martyred ministers' who died opposing the usurpation.",
+   "His Haedong jegukgi (1471) describes Japanese geography, lords, customs and diplomatic protocol, with early maps of Japan and Ryukyu, and remained the basis of Joseon policy toward Japan for over a century."
+  ],
+  "portrait_file": "Shin Suk-ju.jpg",
+  "portrait_caption": "Joseon-period portrait of Sin Suk-ju"
+ },
+ {
+  "id": "joseon-historiographers",
+  "name": "Joseon historiographers",
+  "name_native": "朝鮮 史官",
+  "born": "1392",
+  "died": "1910",
+  "sort": 1392,
+  "birthplace": "Hanseong (Seoul)",
+  "deathplace": "",
+  "nationality": "Korean (Joseon)",
+  "movements": [
+   "joseon-records"
+  ],
+  "bio": "The court historians (sagwan) of the Joseon dynasty, who recorded the king's words and deeds and compiled the Annals of the Joseon Dynasty.",
+  "bio_full": [
+   "Joseon maintained a corps of historians in the Office for Annals Compilation and the Office of Royal Decrees. Young officials selected for integrity attended every royal audience and wrote down what was said and done in draft records (sacho), which they kept at home and which even the king was not permitted to read. After each king's death a compilation office used the drafts, government records and the Royal Secretariat diaries to produce the annals of the reign.",
+   "Their independence was not absolute: drafts were sometimes revised in factional disputes, and the purge of 1498 began when a historian's draft was read as criticism of King Sejo. Yet the tradition produced one of the longest and most detailed continuous official records of any dynasty."
+  ]
+ },
+ {
+  "id": "seungjeongwon-secretaries",
+  "name": "Royal Secretariat of Joseon",
+  "name_native": "承政院",
+  "born": "1400",
+  "died": "1910",
+  "sort": 1400,
+  "birthplace": "Hanseong (Seoul)",
+  "deathplace": "",
+  "nationality": "Korean (Joseon)",
+  "movements": [
+   "joseon-records"
+  ],
+  "bio": "The secretaries of the Seungjeongwon, the office that transmitted royal orders and kept the daily Diaries of the Royal Secretariat.",
+  "bio_full": [
+   "The Seungjeongwon was the channel through which documents passed between the king and the government. Its six royal secretaries and their recorders kept a daily diary of the king's schedule, audiences, memorials, orders and even the weather.",
+   "Unlike the annals, the diaries were not abridged, so they preserve an exceptionally detailed record of court government. The volumes before 1623 were lost in war and fires, but those from 1623 to 1910 survive."
+  ]
+ },
+ {
+  "id": "ryu-seong-ryong",
+  "name": "Ryu Seong-ryong",
+  "name_native": "柳成龍",
+  "born": "1542",
+  "died": "1607",
+  "sort": 1542,
+  "birthplace": "Uiseong, North Gyeongsang",
+  "deathplace": "Andong, North Gyeongsang",
+  "nationality": "Korean (Joseon)",
+  "movements": [
+   "joseon-records"
+  ],
+  "bio": "Chief state councillor of Joseon during the Japanese invasions of 1592–98, whose Book of Corrections (Jingbirok) is the classic Korean account of the war.",
+  "bio_full": [
+   "Ryu Seong-ryong was a disciple of the philosopher Yi Hwang and passed the civil examination in 1566. He rose to chief state councillor and directed Joseon's war effort after Toyotomi Hideyoshi's armies invaded in 1592: he recommended Yi Sun-sin as naval commander, organised supply and militia, and worked with the Ming relief armies. He was dismissed in factional strife in 1598 and retired to Hahoe village near Andong.",
+   "In retirement he wrote the Jingbirok, reflecting on the government's failures before and during the war so that later generations would be better prepared. It was printed in Joseon in the seventeenth century, and an edition published in Kyoto in 1695 made it known in Japan as well."
+  ]
+ },
+ {
+  "id": "yi-sun-sin",
+  "name": "Yi Sun-sin",
+  "name_native": "李舜臣",
+  "born": "1545",
+  "died": "1598",
+  "sort": 1545,
+  "birthplace": "Hanseong (Seoul)",
+  "deathplace": "Noryang Strait (killed in battle)",
+  "nationality": "Korean (Joseon)",
+  "movements": [
+   "joseon-records"
+  ],
+  "bio": "Joseon admiral who defeated the Japanese navy repeatedly during the Imjin War and kept the War Diary (Nanjung ilgi).",
+  "bio_full": [
+   "Yi Sun-sin passed the military examination in 1576 and served on the northern frontier before being appointed naval commander of Left Jeolla province in 1591, where he prepared his fleet, including the armoured 'turtle ships'. After the Japanese invasion of 1592 he won a series of victories, including Hansan Island, that cut Japanese sea supply lines. Falsely accused and stripped of command in 1597, he was reinstated after the Joseon fleet was destroyed and won the battle of Myeongnyang with thirteen ships. He was killed at Noryang in 1598, in the war's last battle.",
+   "His war diaries record battles, weather, the illness of his mother, grief at his son's death and frustration with court politics in plain, often moving entries. He is Korea's foremost national hero, and the diaries are one of the most personal documents of the war."
+  ]
+ },
+ {
+  "id": "an-jeong-bok",
+  "name": "An Jeong-bok",
+  "name_native": "安鼎福",
+  "born": "1712",
+  "died": "1791",
+  "sort": 1712,
+  "birthplace": "Jecheon, Chungcheong",
+  "deathplace": "Gwangju, Gyeonggi",
+  "nationality": "Korean (Joseon)",
+  "movements": [
+   "joseon-records"
+  ],
+  "bio": "Silhak scholar, disciple of Yi Ik, whose Annotated Account of Korean History (Dongsa gangmok) was the most rigorous Korean history of the Joseon period.",
+  "bio_full": [
+   "An Jeong-bok came from a family of Southerner faction scholars and studied under the Silhak (practical learning) thinker Yi Ik. He held minor offices, including as tutor to the crown prince who became King Jeongjo, and spent most of his life writing.",
+   "His Dongsa gangmok, completed in 1778, applied the outline-and-details form of Zhu Xi's Gangmu to Korean history from Gija Joseon to the end of Goryeo, with careful source criticism and attention to historical geography. He also wrote critiques of Catholicism as it spread among Southerner scholars."
+  ]
+ },
+ {
+  "id": "sin-chae-ho",
+  "name": "Sin Chae-ho",
+  "name_native": "申采浩",
+  "born": "1880",
+  "died": "1936",
+  "sort": 1880,
+  "birthplace": "Daedeok (Daejeon), Chungcheong",
+  "deathplace": "Lüshun prison, Manchuria",
+  "nationality": "Korean",
+  "movements": [
+   "new-history"
+  ],
+  "bio": "Journalist, historian and independence activist who founded nationalist historiography in Korea.",
+  "bio_full": [
+   "Sin Chae-ho studied at the Seonggyungwan Confucian academy and became an editor of the Hwangseong sinmun and Daehan maeil sinbo newspapers, writing biographies of Korean heroes such as Yi Sun-sin and Eulji Mundeok. He left Korea in 1910 after annexation and worked in China and Russia for the independence movement, briefly joining the Provisional Government in Shanghai before breaking with it. Drawn to anarchism, he wrote the Declaration of the Korean Revolution (1923) for the militant Righteous Brotherhood. He was arrested by Japanese police in 1928 and died in prison.",
+   "In A New Reading of History (1908) and the Early History of Korea, he defined history as the struggle between the self (a) and the non-self (bi-a), rejected the Sinocentric framework of earlier histories and placed Dangun, Buyeo and Goguryeo at the centre of the national past. His work founded a nationalist school that shaped Korean historiography in both Koreas."
+  ]
+ },
+ {
+  "id": "march-first-signatories",
+  "name": "Signatories of the March First Declaration",
+  "name_native": "民族代表 33人",
+  "born": "1919",
+  "died": "1919",
+  "sort": 1919,
+  "birthplace": "Seoul",
+  "deathplace": "",
+  "nationality": "Korean",
+  "movements": [
+   "new-history"
+  ],
+  "bio": "The thirty-three 'national representatives', leaders of the Cheondogyo, Protestant and Buddhist communities, who signed the Korean Declaration of Independence of 1 March 1919.",
+  "bio_full": [
+   "The signatories, led by the Cheondogyo leader Son Byong-hi, included fifteen members of Cheondogyo, sixteen Protestants and two Buddhists, among them the poet-monk Han Yong-un. The text was drafted by the writer Choe Nam-seon, and Han Yong-un is credited with the three closing pledges calling for orderly, non-violent action. On 1 March 1919 the signatories read it at the Taehwagwan restaurant in Seoul and then notified the Japanese police; at nearby Tapgol Park students read it to a crowd.",
+   "Most were imprisoned. The peaceful demonstrations that followed spread across Korea for months and were met with force by the colonial authorities. In later life some of the signatories, and the drafter Choe Nam-seon, collaborated with the colonial regime, which complicates their memory in Korea today."
+  ]
+ }
+]

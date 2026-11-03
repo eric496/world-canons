@@ -1,0 +1,126 @@
+[
+ {
+  "id": "zhou-classics",
+  "name": "Zhou classics & annals",
+  "name_native": "先秦史書",
+  "dates": "c. 1000–221 BC",
+  "period": "early-dynasties",
+  "summary": "Chinese history-writing begins with court scribes whose records of speeches, decrees and events were gathered into the Book of Documents and the terse Spring and Autumn Annals of the state of Lu. In the Warring States period the Zuo Commentary and the Discourses of the States turned those entries into vivid narrative, setting the patterns of moral judgement and dramatic speech that later historians inherited."
+ },
+ {
+  "id": "han-histories",
+  "name": "Han historians & the early standard histories",
+  "name_native": "漢魏六朝史學",
+  "dates": "c. 100 BC – AD 500",
+  "period": "empire-formation",
+  "summary": "Sima Qian's Records of the Grand Historian created the composite form of annals, tables, treatises and biographies; Ban Gu's Book of Han narrowed it to a single dynasty and so created the dynastic history. Chen Shou and Fan Ye extended the series to the Three Kingdoms and the Eastern Han, and Ban Zhao became China's first woman historian."
+ },
+ {
+  "id": "tang-history-office",
+  "name": "Tang History Office & the codes",
+  "name_native": "唐代史館與律令",
+  "dates": "618–907",
+  "period": "cosmopolitan-age",
+  "summary": "The Tang made history-writing a function of the state: a History Office compiled veritable records and the histories of earlier dynasties by committee, establishing the official series later called the Twenty-Four Histories. The same state produced the Tang Code, the legal model for East Asia, while Liu Zhiji's Shitong subjected the whole enterprise to criticism and Du You's Tongdian began institutional history."
+ },
+ {
+  "id": "ritsuryo-histories",
+  "name": "Ritsuryō codes & the Six National Histories",
+  "name_native": "律令と六国史",
+  "dates": "701–901",
+  "period": "cosmopolitan-age",
+  "summary": "Adopting Chinese models, the Japanese court issued the Taihō Code of 701 and compiled official histories in classical Chinese, beginning with the Nihon Shoki in 720. Six such histories (Rikkokushi) carry the court's record down to 887, after which official history-writing lapsed."
+ },
+ {
+  "id": "song-comprehensive-history",
+  "name": "Song comprehensive & institutional history",
+  "name_native": "宋代史學",
+  "dates": "960–1320",
+  "period": "song-heian-goryeo",
+  "summary": "Song scholars, working with printing and a vastly expanded literate elite, reshaped Chinese history. Ouyang Xiu rewrote the Tang and Five Dynasties histories with sharper moral judgement; Sima Guang's Comprehensive Mirror told 1,362 years in one chronological narrative; Zhu Xi's school condensed it into a moral outline; and Ma Duanlin's encyclopedia traced institutions across the ages."
+ },
+ {
+  "id": "historical-tales",
+  "name": "Historical tales & medieval interpretations",
+  "name_native": "歴史物語と史論",
+  "dates": "c. 1100–1350",
+  "period": "song-heian-goryeo",
+  "summary": "After the end of the official histories, Japanese writers told the past in vernacular 'historical tales' such as the Ōkagami, while the Kamakura shogunate kept its own chronicle, the Azuma Kagami. Two works tried to explain the whole course of Japanese history: Jien's Gukanshō, through Buddhist ideas of principle and decline, and Kitabatake Chikafusa's Jinnō Shōtōki, through the divine imperial succession."
+ },
+ {
+  "id": "korean-dynastic-histories",
+  "name": "Three Kingdoms & Goryeo histories",
+  "name_native": "삼국·고려 사서",
+  "dates": "414–1300",
+  "period": "song-heian-goryeo",
+  "summary": "Korea's earliest surviving historical text is the Gwanggaeto Stele of 414. Kim Busik's official Samguk sagi of 1145, in the Chinese composite form, and the monk Iryeon's Samguk yusa, with its myths, Buddhist legends and songs, are the twin foundations of Korean history for the Three Kingdoms period."
+ },
+ {
+  "id": "official-histories",
+  "name": "Ming & Qing official histories",
+  "name_native": "明清官修史書",
+  "dates": "1368–1912",
+  "period": "ming-muromachi-joseon",
+  "summary": "Each dynasty wrote the history of its predecessor. The Ming produced the History of Yuan in two hurried years; the Qing laboured for sixty years over the History of Ming. Together with the earlier histories these were canonised in the eighteenth century as the Twenty-Four Histories."
+ },
+ {
+  "id": "joseon-records",
+  "name": "Joseon Veritable Records & court diaries",
+  "name_native": "조선 실록과 일기",
+  "dates": "1392–1910",
+  "period": "ming-muromachi-joseon",
+  "summary": "Joseon made record-keeping a moral and political institution. Independent historians recorded every royal audience for the Veritable Records; the Royal Secretariat kept a daily diary; King Sejong's scholars created the Hangul alphabet and compiled the History of Goryeo. The Japanese invasions of the 1590s produced two classics, Yi Sun-sin's war diary and Ryu Seong-ryong's Jingbirok, and Silhak scholars later rewrote Korean history critically.",
+  "image_file": "Joseon Wangjo Sillok and its case in museum.jpg",
+  "image_caption": "Volumes of the Annals of the Joseon Dynasty with their storage case"
+ },
+ {
+  "id": "edo-historiography",
+  "name": "Edo historiography",
+  "name_native": "江戸の史学",
+  "dates": "1644–1868",
+  "period": "qing-edo-late-joseon",
+  "summary": "Under Tokugawa peace, Confucian scholars wrote Japanese history in Chinese forms. The shogunate's Hayashi school produced the Honchō tsugan; the Mito domain began the Dai Nihonshi, whose loyalism fed the late Edo imperial movement; Arai Hakuseki explained the rise of the warriors rationally; and Rai San'yō's Nihon gaishi became the best-selling history of the age."
+ },
+ {
+  "id": "qing-scholarship",
+  "name": "Qing scholarship & evidential history",
+  "name_native": "清代考據史學",
+  "dates": "1644–1850",
+  "period": "qing-edo-late-joseon",
+  "summary": "Reacting to the fall of the Ming, Qing scholars such as Gu Yanwu turned to evidential research (kaozheng), testing texts against inscriptions, geography and philology. The Qianlong court's vast Siku quanshu both preserved and censored the written heritage, and Zhang Xuecheng argued that the classics themselves were history."
+ },
+ {
+  "id": "treaty-ports",
+  "name": "Opium War, treaties & Western learning",
+  "name_native": "鴉片戰爭與西學",
+  "dates": "1839–1870",
+  "period": "qing-edo-late-joseon",
+  "summary": "The Opium War brought East Asia into the treaty system of the Western powers. Lin Zexu's campaign against opium, the Treaty of Nanking and Wei Yuan's study of the maritime nations mark China's encounter; in Japan Fukuzawa Yukichi's Conditions in the West explained Western institutions to a wide readership on the eve of the Meiji Restoration."
+ },
+ {
+  "id": "meiji-documents",
+  "name": "Meiji constitutionalism & modern historiography",
+  "name_native": "明治の国家と史学",
+  "dates": "1868–1912",
+  "period": "east-asian-modern",
+  "summary": "The Meiji state announced its programme in the Charter Oath of 1868 and gave itself a written constitution in 1889, modelled largely on Prussia. Government historians and university scholars such as Kume Kunitake introduced Western source criticism, at times clashing with official orthodoxy.",
+  "image_file": "Celebrating the Promulgation of the Meiji Constitution by Kobayashi Ikuhide.jpg",
+  "image_caption": "Kobayashi Ikuhide, woodblock print celebrating the promulgation of the Meiji Constitution, 1889"
+ },
+ {
+  "id": "new-history",
+  "name": "Revolution, nationalism & the new history",
+  "name_native": "革命與新史學",
+  "dates": "1902–1945",
+  "period": "east-asian-modern",
+  "summary": "The end of empire in China and the colonisation of Korea produced new documents and new histories. Liang Qichao called for a history of the nation instead of dynasties; the Qing abdicated in 1912 and Sun Yat-sen set out his Three Principles; Korean leaders declared independence in 1919 while Sin Chae-ho wrote a nationalist history; Gu Jiegang's sceptics questioned the whole of ancient tradition."
+ },
+ {
+  "id": "postwar-documents",
+  "name": "Postwar constitutions",
+  "name_native": "戦後の憲法",
+  "dates": "1945–present",
+  "period": "east-asian-contemporary",
+  "summary": "Defeat and occupation produced the Constitution of Japan of 1946, with its renunciation of war and its guarantee of fundamental rights, the most consequential East Asian founding document since 1945."
+ }
+]
