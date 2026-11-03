@@ -1,0 +1,162 @@
+[
+ {
+  "id": "early-astronomy",
+  "name": "Early astronomy & calendars",
+  "name_native": "天文曆法",
+  "dates": "c. 1300 BC – AD 220",
+  "period": "early-dynasties",
+  "summary": "Shang diviners recorded eclipses, novae and the cycle of days on oracle bones, and Zhou and Han court astronomers turned sky-watching into a state service. Because the emperor ruled by the mandate of Heaven, an accurate calendar and the reading of celestial omens were matters of government, and China kept the longest continuous record of comets, novae and sunspots in the world."
+ },
+ {
+  "id": "han-mathematics",
+  "name": "Han mathematics",
+  "name_native": "漢代算學",
+  "dates": "c. 200 BC – AD 300",
+  "period": "empire-formation",
+  "summary": "Using counting rods on a board, Han officials and scholars solved practical problems of land, grain, taxes and engineering. The Zhoubi Suanjing and the Nine Chapters on the Mathematical Art gathered this knowledge into problem books, and Liu Hui's commentary of 263 added proofs and an algorithm for π."
+ },
+ {
+  "id": "classical-chinese-medicine",
+  "name": "Classical Chinese medicine",
+  "name_native": "中醫經典",
+  "dates": "c. 200 BC – AD 300",
+  "period": "empire-formation",
+  "summary": "The Yellow Emperor's Inner Classic set out a medicine of yin and yang, the five phases, qi and the channels of the body, read through the pulse and treated with acupuncture and drugs. Zhang Zhongjing's Treatise on Cold Damage and the Divine Farmer's materia medica completed the classical canon on which East Asian medicine still builds.",
+  "image_file": "Koteidaikei Myodo.jpg",
+  "image_caption": "Japanese chart of acupuncture points after the Yellow Emperor's Inner Classic"
+ },
+ {
+  "id": "han-technology",
+  "name": "Paper & Han technology",
+  "name_native": "漢代技術",
+  "dates": "c. 200 BC – AD 589",
+  "period": "empire-formation",
+  "summary": "Han and post-Han China produced paper, the wheelbarrow, the seismoscope, water-powered bellows for iron casting and a long tradition of agricultural manuals. Zhang Heng, Ma Jun and Zu Chongzhi combined mathematics, astronomy and the making of machines."
+ },
+ {
+  "id": "sui-tang-science",
+  "name": "Sui–Tang science & medicine",
+  "name_native": "隋唐科技",
+  "dates": "589 – 960",
+  "period": "cosmopolitan-age",
+  "summary": "The Tang state ran an imperial medical bureau, an astronomical office and a cosmopolitan capital open to Indian and Persian learning. Sun Simiao wrote great medical encyclopedias, the monk Yi Xing measured the meridian and built a water-driven armillary, and woodblock printing spread Buddhist texts and calendars."
+ },
+ {
+  "id": "chinese-alchemy",
+  "name": "Chinese alchemy & pharmacology",
+  "name_native": "煉丹術與本草",
+  "dates": "c. 300 – 1600",
+  "period": "cosmopolitan-age",
+  "summary": "Daoist alchemists searched for elixirs of immortality by heating mercury, sulphur, lead and saltpetre, and in the process learned much practical chemistry; one of their mixtures became gunpowder. The parallel tradition of bencao, the materia medica, classified thousands of drugs and culminated in Li Shizhen's Compendium of 1578.",
+  "image_file": "Cinabre (Chine).jpg",
+  "image_caption": "Cinnabar from China, the alchemists' favourite mineral"
+ },
+ {
+  "id": "song-printing",
+  "name": "Printing in Song, Goryeo & Japan",
+  "name_native": "印刷術",
+  "dates": "c. 700 – 1400",
+  "period": "song-heian-goryeo",
+  "summary": "Woodblock printing, used in Tang China, Silla Korea and Nara Japan from the eighth century, became under the Song a mass medium for classics, medical books and examination guides; the Diamond Sutra of 868 and Korea's Jikji of 1377 (both in the religion section) are its landmarks. Bi Sheng's movable type of the 1040s and Goryeo's cast-metal type followed.",
+  "image_file": "Metal movable type.jpg",
+  "image_caption": "Metal movable type"
+ },
+ {
+  "id": "song-science",
+  "name": "Song science & engineering",
+  "name_native": "宋代科技",
+  "dates": "960 – 1279",
+  "period": "song-heian-goryeo",
+  "summary": "Song China was perhaps the most technically advanced society of its time: Shen Kuo wrote on magnetism, fossils and optics, Su Song built a water-driven astronomical clock tower, and printed manuals spread knowledge of agriculture, medicine and forensic examination.",
+  "image_file": "水磨.jpg",
+  "image_caption": "Water-powered mill, illustration from Wang Zhen's Nong Shu"
+ },
+ {
+  "id": "gunpowder-compass",
+  "name": "Gunpowder & the compass",
+  "name_native": "火藥與指南針",
+  "dates": "c. 850 – 1400",
+  "period": "song-heian-goryeo",
+  "summary": "Gunpowder formulas first appear in print in 1044 and fire lances, bombs and early guns followed in the wars of Song, Jin and Mongols. The magnetized needle is described by Shen Kuo and was in use for navigation by about 1100. Both spread west across Eurasia in the thirteenth and fourteenth centuries."
+ },
+ {
+  "id": "song-yuan-mathematics",
+  "name": "Song–Yuan mathematics",
+  "name_native": "宋元數學",
+  "dates": "c. 1050 – 1300",
+  "period": "song-heian-goryeo",
+  "summary": "A brief golden age of Chinese algebra: Qin Jiushao, Li Ye, Yang Hui and Zhu Shijie solved polynomial equations of high degree, worked with what Europe would call Pascal's triangle and the Chinese remainder theorem, and wrote equations in a positional notation on the counting board. Guo Shoujing's Shoushi calendar applied this skill to astronomy."
+ },
+ {
+  "id": "ming-science",
+  "name": "Ming technology & natural history",
+  "name_native": "明代科技",
+  "dates": "1368 – 1644",
+  "period": "ming-muromachi-joseon",
+  "summary": "Ming China produced great compendia of practical knowledge: Li Shizhen's materia medica, Song Yingxing's illustrated survey of industry, Xu Guangqi's agricultural encyclopedia and Zhu Zaiyu's exact equal temperament.",
+  "image_file": "Chinese Fining and Blast Furnace.jpg",
+  "image_caption": "Blast furnace and fining hearth, from the Tiangong Kaiwu, 1637"
+ },
+ {
+  "id": "joseon-science",
+  "name": "Joseon science under Sejong",
+  "name_native": "朝鮮科學",
+  "dates": "1400 – 1600",
+  "period": "ming-muromachi-joseon",
+  "summary": "Under King Sejong (r. 1418–50) the Joseon court created a royal observatory, water clocks, sundials and the world's first standardised rain gauges, compiled a Korean calendar and native pharmacopoeias, and invented the Hangul alphabet. The engineer Jang Yeong-sil, born a government slave, built many of the instruments."
+ },
+ {
+  "id": "jesuit-science",
+  "name": "Jesuit science in China",
+  "name_native": "西學東漸",
+  "dates": "1582 – 1800",
+  "period": "ming-muromachi-joseon",
+  "summary": "From Matteo Ricci's arrival in 1582 the Jesuits won a place at the Ming and Qing courts through mathematics, astronomy and maps. With converts such as Xu Guangqi they translated Euclid and reformed the calendar, and Chinese scholars like Mei Wending absorbed the new learning into their own tradition.",
+  "image_file": "The Observatory Showing Armillary Sphere and Other Astronomical Instruments, Beijing, 1874 WDL2121.png",
+  "image_caption": "The Beijing observatory and its instruments in 1874"
+ },
+ {
+  "id": "wasan",
+  "name": "Wasan: Edo mathematics",
+  "name_native": "和算",
+  "dates": "c. 1620 – 1868",
+  "period": "qing-edo-late-joseon",
+  "summary": "In Tokugawa Japan, largely cut off from Europe, a native mathematics grew out of Chinese books and the soroban. Seki Takakazu and his school developed determinants, a form of calculus and elaborate geometry, and amateurs hung problems on wooden tablets, sangaku, in temples and shrines.",
+  "image_file": "Sangaku of Konnoh Hachimangu 1859.jpg",
+  "image_caption": "Sangaku tablet of 1859 at Konnō Hachimangū, Tokyo"
+ },
+ {
+  "id": "rangaku",
+  "name": "Rangaku: Dutch learning",
+  "name_native": "蘭學",
+  "dates": "1720 – 1868",
+  "period": "qing-edo-late-joseon",
+  "summary": "Through the Dutch trading post at Dejima in Nagasaki, Japanese physicians, interpreters and scholars read European books on anatomy, medicine, astronomy and physics. The translation of a Dutch anatomy text in 1774 launched the movement, which went on to surgery, vaccination, electricity and modern surveying.",
+  "image_file": "Shiba Kokan A meeting of Japan China and the West late 18th century.jpg",
+  "image_caption": "Shiba Kōkan, A Meeting of Japan, China and the West, late 18th century"
+ },
+ {
+  "id": "silhak-science",
+  "name": "Silhak and late Joseon science",
+  "name_native": "實學",
+  "dates": "1700 – 1900",
+  "period": "qing-edo-late-joseon",
+  "summary": "Korea's practical-learning scholars, many of whom travelled to Beijing, took up Western astronomy and mathematics, argued for a rotating earth, and turned to mapping and medicine; Heo Jun's medical encyclopedia and Kim Jeong-ho's great map bracket the period."
+ },
+ {
+  "id": "meiji-science",
+  "name": "Meiji and modern Japanese science",
+  "name_native": "近代科學",
+  "dates": "1868 – 1945",
+  "period": "east-asian-modern",
+  "summary": "Meiji Japan built universities, laboratories and institutes on Western models and within a generation produced researchers of world rank in bacteriology, chemistry and physics. China and Korea followed more slowly, amid revolution and colonial rule."
+ },
+ {
+  "id": "contemporary-science",
+  "name": "Science since 1945",
+  "name_native": "現代科學",
+  "dates": "1945 – present",
+  "period": "east-asian-contemporary",
+  "summary": "After 1945 East Asian physicists, chemists and physicians joined the front rank of world science, winning Nobel prizes from Yukawa's in 1949 onward, while Japan, South Korea and China became leading industrial and technological powers."
+ }
+]

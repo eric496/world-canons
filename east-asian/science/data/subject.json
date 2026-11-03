@@ -1,0 +1,17 @@
+{
+ "title": "Science & Technology",
+ "order": 7,
+ "tagline": "Astronomy, mathematics, medicine and invention in China, Korea and Japan, from oracle-bone eclipses to the meson",
+ "hero_file": "Clock Tower from Su Song's Book desmear.JPG",
+ "hero_caption": "Su Song's water-driven astronomical clock tower of 1092, from his Xin Yixiang Fayao",
+ "labels": {
+  "creator": "Scientist / inventor",
+  "creators": "Scientists & inventors",
+  "work": "Work / invention",
+  "works": "Works & inventions",
+  "movement": "Era / field",
+  "movements": "Eras & fields",
+  "location": "Published / where"
+ },
+ "intro": "The science, mathematics, medicine and technology of China, Korea and Japan, from Shang eclipse records and the Nine Chapters to paper, printing, the compass and gunpowder, Su Song's clock tower and Song algebra, Sejong's instruments and Japan's wasan, and then the long meeting with Western science through the Jesuits, Dutch learning and Meiji laboratories. Many entries are collective, because much early knowledge came from anonymous officials, artisans and physicians. Pictures are early editions, manuscripts, instruments, maps and models from Wikimedia Commons; portraits are paintings, woodcuts or engravings only, never photographs."
+}

@@ -1,0 +1,1249 @@
+[
+ {
+  "id": "shang-diviners",
+  "name": "Shang royal diviners",
+  "name_native": "商代貞人",
+  "born": "c. 1250 BC",
+  "died": "c. 1046 BC",
+  "sort": -1250,
+  "birthplace": "Anyang, Henan",
+  "deathplace": "Anyang, Henan",
+  "nationality": "Chinese",
+  "movements": [
+   "early-astronomy"
+  ],
+  "bio": "The anonymous diviners of the late Shang kings, whose inscribed oracle bones are the oldest Chinese writing and contain the earliest records of eclipses and the sixty-day calendar.",
+  "bio_full": [
+   "At the Shang capital near modern Anyang, specialists put the king's questions to his ancestors by applying heat to prepared ox shoulder-blades and turtle shells and reading the cracks. From about 1250 BC the question, and sometimes the outcome, was carved on the bone. Over 150,000 fragments survive, many naming the diviner who cut them.",
+   "Among the questions about harvests, war and illness are notes of lunar and solar eclipses, a 'new star' and weather, all dated in the sixty-day ganzhi cycle still used in East Asian calendars. Astronomers have used them to test calculations of the earth's rotation over three millennia, though the reading of individual records is often debated."
+  ]
+ },
+ {
+  "id": "zhoubi-authors",
+  "name": "Authors of the Zhoubi Suanjing",
+  "name_native": "周髀算經作者",
+  "born": "c. 300 BC",
+  "died": "c. AD 100",
+  "sort": -200,
+  "birthplace": "China",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "early-astronomy",
+   "han-mathematics"
+  ],
+  "bio": "The unknown compilers of the Zhoubi Suanjing, the oldest Chinese book of mathematical astronomy, which uses the gnomon and the right-angled triangle to measure the heavens.",
+  "bio_full": [
+   "The Zhoubi Suanjing ('Mathematical Classic of the Zhou Gnomon') was put together over several centuries and reached its present form under the Han, probably by about the first century BC. It is framed as dialogues, including one between the Duke of Zhou and a figure named Shang Gao, but no author is known.",
+   "The book explains the 'canopy heaven' cosmology, in which a round sky covers a square earth, and uses shadows cast by an eight-foot gnomon, with right-triangle reasoning, to calculate the distance and size of the sun. Its famous diagram demonstrates the relationship known in the West as Pythagoras' theorem, called in China the gougu rule."
+  ]
+ },
+ {
+  "id": "nine-chapters-authors",
+  "name": "Authors of the Nine Chapters",
+  "name_native": "九章算術作者",
+  "born": "c. 200 BC",
+  "died": "c. AD 100",
+  "sort": -100,
+  "birthplace": "China",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "han-mathematics"
+  ],
+  "bio": "The anonymous Han scholars and officials who compiled the Nine Chapters on the Mathematical Art, the foundation text of East Asian mathematics.",
+  "bio_full": [
+   "The Nine Chapters grew out of administrative mathematics of the Qin and early Han; bamboo-strip books such as the Suanshushu of about 186 BC contain similar problems. Its final form is usually dated to the first century BC or AD. Later tradition linked it with the Han officials Zhang Cang and Geng Shouchang, but this cannot be confirmed.",
+   "The 246 problems, each with an answer and a general method, cover land measure, proportion, square and cube roots, volumes, taxation, excess and deficit, and the right triangle. Chapter eight solves systems of linear equations by an elimination method identical to Gaussian elimination and handles negative numbers. With Liu Hui's commentary it was the core of mathematical teaching in China, Korea and Japan for over a thousand years."
+  ]
+ },
+ {
+  "id": "huangdi-neijing-authors",
+  "name": "Authors of the Huangdi Neijing",
+  "name_native": "黃帝內經作者",
+  "born": "c. 300 BC",
+  "died": "c. 100 BC",
+  "sort": -200,
+  "birthplace": "China",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "classical-chinese-medicine"
+  ],
+  "bio": "The anonymous physicians whose writings, framed as dialogues between the Yellow Emperor and his ministers, became the Huangdi Neijing, the founding classic of Chinese medicine.",
+  "bio_full": [
+   "The Inner Classic of the Yellow Emperor is attributed to the legendary sage-ruler Huangdi, but it is a compilation of many shorter texts written by different hands, probably between the late Warring States and the first century BC. Medical manuscripts found at Mawangdui, buried in 168 BC, show earlier stages of the same ideas.",
+   "The authors explained health and disease through yin and yang, the five phases, and the flow of qi and blood through a network of channels, and gave detailed rules for diagnosis by the pulse and for acupuncture. Their correlative way of thinking, linking the body to seasons, climate and emotions, remains the theoretical basis of traditional medicine in China, Korea and Japan."
+  ]
+ },
+ {
+  "id": "shennong-bencao-authors",
+  "name": "Authors of the Shennong Bencao Jing",
+  "name_native": "神農本草經作者",
+  "born": "c. 100 BC",
+  "died": "c. AD 200",
+  "sort": 50,
+  "birthplace": "China",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "classical-chinese-medicine",
+   "chinese-alchemy"
+  ],
+  "bio": "The unknown compilers of the Divine Farmer's Materia Medica, the oldest Chinese pharmacopoeia, attributed to the mythical inventor of agriculture Shennong.",
+  "bio_full": [
+   "The Shennong Bencao Jing was compiled in the Eastern Han from the knowledge of herbalists and physicians and credited to Shennong, the Divine Farmer, who was said to have tasted every plant to learn its properties. The original is lost; the text survives through quotations in later works, above all Tao Hongjing's edition of about 500.",
+   "It lists 365 drugs, mostly plants but also minerals and animal products, arranged into three classes: superior drugs that nourish life, middling ones that strengthen, and inferior ones that cure disease but are toxic. This framework of drugs ranked by effect and toxicity began the long bencao tradition that runs to Li Shizhen."
+  ]
+ },
+ {
+  "id": "cai-lun",
+  "name": "Cai Lun",
+  "name_native": "蔡倫",
+  "born": "c. 50",
+  "died": "121",
+  "sort": 50,
+  "birthplace": "Guiyang, Han China",
+  "deathplace": "Luoyang",
+  "nationality": "Chinese",
+  "movements": [
+   "han-technology"
+  ],
+  "bio": "Han court eunuch traditionally credited with inventing paper in 105; he improved and standardised a process that already existed.",
+  "bio_full": [
+   "Cai Lun entered the palace as a eunuch under Emperor Ming and rose to direct the imperial workshops that made weapons and instruments. The official History of the Later Han records that in 105 he presented to Emperor He a paper made from tree bark, hemp ends, old rags and fishing nets, and was rewarded with a title. Caught up in court intrigue, he took poison in 121.",
+   "Archaeology has found paper made of hemp fibre from the second century BC, so Cai Lun did not invent paper outright. His achievement was to systematise the use of cheap raw materials and promote paper as a writing surface. He was later honoured as the patron of papermakers, and the craft spread to Korea and Japan by the seventh century and to the Islamic world by the eighth."
+  ],
+  "portrait_file": "Cai-lun.jpg",
+  "portrait_caption": "Traditional Chinese portrait of Cai Lun"
+ },
+ {
+  "id": "zhang-heng",
+  "name": "Zhang Heng",
+  "name_native": "張衡",
+  "born": "78",
+  "died": "139",
+  "sort": 78,
+  "birthplace": "Nanyang, Han China",
+  "deathplace": "Luoyang",
+  "nationality": "Chinese",
+  "movements": [
+   "han-technology",
+   "early-astronomy"
+  ],
+  "bio": "Han astronomer, mathematician, engineer and poet who built a water-driven armillary sphere and the first known seismoscope.",
+  "bio_full": [
+   "Zhang Heng was born to a gentry family in Nanyang and made his name first as a writer of rhapsodies on the Han capitals. He twice served as Grand Astrologer, head of the office of astronomy and the calendar, and later held provincial posts before returning to the court.",
+   "He described the universe as an egg with the earth as its yolk, catalogued some 2,500 stars, gave a value for π, and built a celestial globe turned by water power. His seismoscope of 132 was said to drop a ball from a dragon's mouth into a toad's to show the direction of a distant earthquake. His works are lost and known only from Han histories, but he remains the emblem of Chinese scientific genius, and a lunar crater and an asteroid bear his name."
+  ]
+ },
+ {
+  "id": "zhang-zhongjing",
+  "name": "Zhang Zhongjing",
+  "name_native": "張仲景",
+  "born": "c. 150",
+  "died": "c. 219",
+  "sort": 150,
+  "birthplace": "Nanyang, Han China",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "classical-chinese-medicine"
+  ],
+  "bio": "Late Han physician, revered as the 'medical sage', whose Treatise on Cold Damage and Miscellaneous Diseases founded clinical medicine in China.",
+  "bio_full": [
+   "Zhang Ji, known as Zhongjing, lived through the epidemics and wars of the late Han. In his preface he says that more than two-thirds of his large clan died within ten years, most of them of 'cold damage', and that this drove him to collect old prescriptions and study the classics. Later tradition made him governor of Changsha, but this is uncertain.",
+   "His treatise organised fevers into six stages, each matched to a pattern of symptoms and a specific prescription, joining the theory of the Inner Classic to practical treatment. Its formulas, many still in use, are the basis of kampō medicine in Japan and of much traditional prescribing in China and Korea."
+  ],
+  "portrait_file": "Chinese woodcut, Famous medical figures; Zhang Zhongjing Wellcome L0039319.jpg",
+  "portrait_caption": "Zhang Zhongjing, Chinese woodcut of famous physicians (Wellcome Collection)"
+ },
+ {
+  "id": "hua-tuo",
+  "name": "Hua Tuo",
+  "name_native": "華佗",
+  "born": "c. 140",
+  "died": "c. 208",
+  "sort": 140,
+  "birthplace": "Qiao, Pei (Bozhou, Anhui)",
+  "deathplace": "Xuchang",
+  "nationality": "Chinese",
+  "movements": [
+   "classical-chinese-medicine"
+  ],
+  "bio": "Legendary late Han surgeon said to have operated under a general anaesthetic called mafeisan and to have devised a set of exercises imitating five animals.",
+  "bio_full": [
+   "Hua Tuo appears in the official histories of the Three Kingdoms and the Later Han as a wandering physician of extraordinary skill. He is said to have been executed by the warlord Cao Cao, whom he had treated for headaches, after refusing to stay as his personal doctor.",
+   "The histories credit him with abdominal surgery performed after the patient drank mafeisan, an anaesthetic powder taken with wine, whose formula is lost, and with the 'five animals' exercises modelled on the tiger, deer, bear, ape and bird. How much of this is history is debated, but he became the patron of Chinese surgeons, and Hanaoka Seishū in Japan set out to recreate his anaesthetic."
+  ],
+  "portrait_file": "HuaTuo.jpg",
+  "portrait_caption": "Traditional Chinese portrait of Hua Tuo"
+ },
+ {
+  "id": "wang-shuhe",
+  "name": "Wang Shuhe",
+  "name_native": "王叔和",
+  "born": "c. 180",
+  "died": "c. 270",
+  "sort": 180,
+  "birthplace": "Gaoping, Shanxi",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "classical-chinese-medicine"
+  ],
+  "bio": "Physician of the third century who edited Zhang Zhongjing's treatise and wrote the Pulse Classic, the standard work on pulse diagnosis.",
+  "bio_full": [
+   "Wang Xi, styled Shuhe, served as imperial physician under the Wei and Jin dynasties. He gathered the scattered chapters of Zhang Zhongjing's writings and arranged them into the form that survives.",
+   "His Maijing, or Pulse Classic, systematised the reading of the pulse at three positions on each wrist into twenty-four pulse types. It was carried to Korea, Japan, Tibet and the Islamic world, and pulse-taking remains the signature of East Asian diagnosis."
+  ],
+  "portrait_file": "Chinese woodcut, Famous medical figures; Wang Shuhe Wellcome L0039321.jpg",
+  "portrait_caption": "Wang Shuhe, Chinese woodcut of famous physicians (Wellcome Collection)"
+ },
+ {
+  "id": "ma-jun",
+  "name": "Ma Jun",
+  "name_native": "馬鈞",
+  "born": "c. 200",
+  "died": "c. 265",
+  "sort": 200,
+  "birthplace": "Fufeng, Shaanxi",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "han-technology"
+  ],
+  "bio": "Engineer of the Cao Wei state who reconstructed the south-pointing chariot and improved the silk loom and the square-pallet chain pump.",
+  "bio_full": [
+   "Ma Jun was a minor official of Wei known for his stammer and his mechanical talent; the main account of him is an essay by the writer Fu Xuan. In a famous court debate he insisted that the legendary south-pointing chariot could be built, and then built it.",
+   "The chariot used differential gearing, not magnetism, to keep a figure pointing south whatever way the vehicle turned. He is also credited with a simplified silk loom, a water-powered puppet theatre and an improved chain pump for irrigation. His machines are lost, but his story shows the honoured place of engineering in early China."
+  ]
+ },
+ {
+  "id": "liu-hui",
+  "name": "Liu Hui",
+  "name_native": "劉徽",
+  "born": "c. 225",
+  "died": "c. 295",
+  "sort": 225,
+  "birthplace": "Zibo, Shandong (probably)",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "han-mathematics"
+  ],
+  "bio": "Mathematician of the Wei kingdom whose commentary on the Nine Chapters (263) added proofs and computed π by inscribed polygons.",
+  "bio_full": [
+   "Almost nothing is known of Liu Hui's life except that he completed his commentary on the Nine Chapters in 263, in the Wei kingdom of the Three Kingdoms period. He also wrote the Sea Island Mathematical Manual, on surveying heights and distances with poles and sightlines.",
+   "Liu Hui explained why the methods of the Nine Chapters work, using dissections of figures and a limit argument close to the method of exhaustion. Doubling the sides of a polygon inscribed in a circle to 3,072, he obtained π as 3.14159, and he found the volume of a pyramid by an infinite process. He is regarded as the greatest mathematician of ancient China."
+  ]
+ },
+ {
+  "id": "ge-hong",
+  "name": "Ge Hong",
+  "name_native": "葛洪",
+  "born": "283",
+  "died": "343",
+  "sort": 283,
+  "birthplace": "Jurong, Jiangsu",
+  "deathplace": "Mount Luofu, Guangdong",
+  "nationality": "Chinese",
+  "movements": [
+   "chinese-alchemy"
+  ],
+  "bio": "Daoist scholar and alchemist whose Baopuzi is the classic account of Chinese alchemy, and whose emergency handbook gave the first description of artemisia against fever.",
+  "bio_full": [
+   "Ge Hong came from a southern gentry family with a tradition of Daoist learning. After service as a minor military officer during the civil wars of the Jin, he withdrew to pursue alchemy and, by tradition, died on Mount Luofu near Guangzhou while preparing elixirs.",
+   "His Baopuzi ('He Who Embraces Simplicity') describes the making of elixirs from cinnabar, mercury, gold and other substances, mixing practical chemistry with the quest for immortality. His Handbook of Prescriptions for Emergencies recommends soaking sweet wormwood, qinghao, in water and drinking the juice for intermittent fevers; this passage led Tu Youyou to artemisinin in 1972."
+  ],
+  "portrait_file": "Chinese woodcut, Famous medical figures; Portrait of Ge Hong Wellcome L0039323.jpg",
+  "portrait_caption": "Ge Hong, Chinese woodcut of famous physicians (Wellcome Collection)"
+ },
+ {
+  "id": "zu-chongzhi",
+  "name": "Zu Chongzhi",
+  "name_native": "祖沖之",
+  "born": "429",
+  "died": "500",
+  "sort": 429,
+  "birthplace": "Jiankang (Nanjing)",
+  "deathplace": "Jiankang (Nanjing)",
+  "nationality": "Chinese",
+  "movements": [
+   "han-technology",
+   "han-mathematics"
+  ],
+  "bio": "Mathematician and astronomer of the Southern Dynasties who placed π between 3.1415926 and 3.1415927, a record that stood for nearly a thousand years.",
+  "bio_full": [
+   "Zu Chongzhi came from a family of court astronomers and served the Liu Song and Southern Qi dynasties in the south. He drew up the Daming calendar, the first in China to take account of the precession of the equinoxes, and defended it at court against conservative critics; it was adopted only after his death.",
+   "His mathematical book Zhui Shu is lost, but the Sui dynastic history records his bounds for π and his fractions 22/7 and 355/113, the latter accurate to six decimal places. With his son Zu Geng he found the volume of a sphere using a principle equivalent to Cavalieri's. He was also said to have built a south-pointing chariot and a paddle-wheel boat."
+  ]
+ },
+ {
+  "id": "jia-sixie",
+  "name": "Jia Sixie",
+  "name_native": "賈思勰",
+  "born": "5th–6th century",
+  "died": "6th century",
+  "sort": 500,
+  "birthplace": "Yidu, Shandong",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "han-technology"
+  ],
+  "bio": "Official of the Northern Wei whose Qimin Yaoshu is the oldest complete Chinese agricultural treatise.",
+  "bio_full": [
+   "Little is known of Jia Sixie beyond his book, in which he describes himself as a former governor of Gaoyang commandery in modern Shandong. He wrote it between about 533 and 544 under the Northern Wei, drawing on farmers, older books and his own experiments.",
+   "His Essential Techniques for the Welfare of the People covers grain crops, vegetables, fruit trees, sericulture, animal husbandry, and food processing including fermentation, brewing and soy sauce. Its methodical, observational approach set the model for the many later Chinese, Korean and Japanese farming manuals."
+  ]
+ },
+ {
+  "id": "sun-simiao",
+  "name": "Sun Simiao",
+  "name_native": "孫思邈",
+  "born": "581",
+  "died": "682",
+  "sort": 581,
+  "birthplace": "Huayuan, Jingzhao (Yao county, Shaanxi)",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "sui-tang-science",
+   "chinese-alchemy"
+  ],
+  "bio": "Tang physician and Daoist, called the 'King of Medicine', whose Prescriptions Worth a Thousand Gold set an ethic for physicians and recorded thousands of remedies.",
+  "bio_full": [
+   "Sun Simiao was famous as a youth for his learning and lived, by tradition, past one hundred. He repeatedly declined official posts under the Sui and Tang, preferring to practise medicine and Daoist cultivation, though he spent time at court.",
+   "His two great compendia, Beiji Qianjin Yaofang (652) and its supplement (682), contain over 6,000 prescriptions and give special attention to women's and children's medicine, nutrition and deficiency diseases. Their opening essay on 'the absolute sincerity of the great physician' asked doctors to treat rich and poor alike. He was deified in popular religion as the medicine king, and an early gunpowder-like formula has been linked, uncertainly, to his alchemical writings."
+  ],
+  "portrait_file": "Chinese woodcut, Famous medical figures; Sun Simiao Wellcome L0039324.jpg",
+  "portrait_caption": "Sun Simiao, Chinese woodcut of famous physicians (Wellcome Collection)"
+ },
+ {
+  "id": "yi-xing",
+  "name": "Yi Xing",
+  "name_native": "一行",
+  "born": "683",
+  "died": "727",
+  "sort": 683,
+  "birthplace": "Changle, Weizhou (Henan)",
+  "deathplace": "Chang'an",
+  "nationality": "Chinese",
+  "movements": [
+   "sui-tang-science"
+  ],
+  "bio": "Tang Buddhist monk, astronomer and mathematician who led a meridian survey across China and built a water-powered armillary with an escapement.",
+  "bio_full": [
+   "Zhang Sui, who took the Buddhist name Yi Xing, was a monk of the esoteric school and a mathematician summoned to court by Emperor Xuanzong to reform the calendar. His Dayan calendar of 728 was considered one of the best of the Tang.",
+   "He organised a survey of the length of the noon shadow and the altitude of the pole star at stations stretching some 2,500 km, the first measurement of a length of meridian arc in China, which disproved the old belief that the shadow changed by one inch per thousand li. With the engineer Liang Lingzan he built a water-driven celestial globe whose mechanism is often regarded as the first escapement in clockwork."
+  ],
+  "portrait_file": "Eight Patriarchs of the Shingon Sect of Buddhism I Hsing Cropped.jpg",
+  "portrait_caption": "Yi Xing as one of the Eight Patriarchs of Shingon Buddhism, Japanese painting"
+ },
+ {
+  "id": "dunhuang-astronomers",
+  "name": "Tang astronomers of the Dunhuang star chart",
+  "name_native": "敦煌星圖作者",
+  "born": "7th century",
+  "died": "7th century",
+  "sort": 650,
+  "birthplace": "China",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "sui-tang-science",
+   "early-astronomy"
+  ],
+  "bio": "The unknown Tang astronomers who drew the Dunhuang star chart, the oldest known complete star atlas from any civilisation.",
+  "bio_full": [
+   "The Dunhuang star chart was found in the sealed 'Library Cave' at Dunhuang in 1900 and taken to London by Aurel Stein in 1907. A brief note on it has led some scholars to associate it with the astronomer Li Chunfeng (602–670), but this is debated, and it was probably copied by a scribe from an existing map.",
+   "The scroll maps some 1,300 stars in 257 asterisms, following the three schools of Chinese star lore distinguished by colour, in a projection that anticipates the cylindrical one. It shows the systematic star cataloguing of the Tang astronomical bureau."
+  ]
+ },
+ {
+  "id": "bi-sheng",
+  "name": "Bi Sheng",
+  "name_native": "畢昇",
+  "born": "c. 970",
+  "died": "c. 1051",
+  "sort": 990,
+  "birthplace": "Yingshan, Hubei (probably)",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "song-printing"
+  ],
+  "bio": "Song commoner who invented movable type, of baked clay, in the 1040s; he is known only from Shen Kuo's description.",
+  "bio_full": [
+   "Bi Sheng was a commoner, perhaps an artisan, of whom almost nothing is known. Shen Kuo, writing a few decades later in the Dream Pool Essays, says that in the Qingli reign (1041–48) Bi Sheng made type from clay. A gravestone found in Hubei in 1990 may be his, but the identification is debated.",
+   "Each character was carved in soft clay and hardened by fire; the type was set in an iron frame on a bed of resin, wax and paper ash, warmed and pressed flat, and two frames were used in turn for speed. The method was not widely adopted in China, where woodblocks suited a script of thousands of characters, but it was the starting point for wooden type and Korean metal type."
+  ]
+ },
+ {
+  "id": "shen-kuo",
+  "name": "Shen Kuo",
+  "name_native": "沈括",
+  "born": "1031",
+  "died": "1095",
+  "sort": 1031,
+  "birthplace": "Qiantang (Hangzhou)",
+  "deathplace": "Runzhou (Zhenjiang)",
+  "nationality": "Chinese",
+  "movements": [
+   "song-science",
+   "gunpowder-compass"
+  ],
+  "bio": "Song statesman and polymath whose Dream Pool Essays contain the first clear description of the magnetic compass and notes on fossils, optics, printing and mathematics.",
+  "bio_full": [
+   "Shen Kuo passed the civil-service examination in 1063 and served the reforming chancellor Wang Anshi as director of the astronomical bureau, finance commissioner, diplomat to the Liao and military commander on the north-western frontier. After a defeat in 1082 he was dismissed and retired to his garden, the Dream Brook, at Runzhou.",
+   "There he wrote the Dream Pool Essays, notes on everything from music and divination to astronomy and engineering. He described the magnetic needle and its declination from true north, argued from fossil shells in mountains and petrified bamboo that land and climate had changed over time, explained the camera obscura and recorded Bi Sheng's movable type. Western historians since Joseph Needham have treated him as one of the most remarkable scientific minds in Chinese history."
+  ]
+ },
+ {
+  "id": "su-song",
+  "name": "Su Song",
+  "name_native": "蘇頌",
+  "born": "1020",
+  "died": "1101",
+  "sort": 1020,
+  "birthplace": "Tong'an, Quanzhou (Fujian)",
+  "deathplace": "Runzhou (Zhenjiang)",
+  "nationality": "Chinese",
+  "movements": [
+   "song-science"
+  ],
+  "bio": "Song statesman and scientist who built a 12-metre water-powered astronomical clock tower at Kaifeng and described it in an illustrated treatise.",
+  "bio_full": [
+   "Su Song rose through the Song bureaucracy to become chancellor in 1092. Sent on embassy to the Liao in 1077, he noticed that the Liao calendar was more accurate than the Song's, and was commissioned to build a new armillary clock.",
+   "Completed in 1092 with the official Han Gonglian, his tower had an armillary sphere on top, a rotating celestial globe inside and a pagoda of puppets announcing the hours, all driven by a waterwheel controlled by an escapement. His treatise Xin Yixiang Fayao records it in exact drawings, and he also edited a great illustrated materia medica. The tower was lost when the Jurchen took Kaifeng in 1127, but has since been reconstructed in models."
+  ]
+ },
+ {
+  "id": "zeng-gongliang",
+  "name": "Zeng Gongliang",
+  "name_native": "曾公亮",
+  "born": "999",
+  "died": "1078",
+  "sort": 999,
+  "birthplace": "Jinjiang, Quanzhou (Fujian)",
+  "deathplace": "Kaifeng",
+  "nationality": "Chinese",
+  "movements": [
+   "gunpowder-compass",
+   "song-science"
+  ],
+  "bio": "Song chancellor who led the compilation of the Wujing Zongyao, the military encyclopedia that contains the earliest printed gunpowder formulas.",
+  "bio_full": [
+   "Zeng Gongliang passed the examinations in 1024 and served in high office under Emperors Renzong, Yingzong and Shenzong, becoming chancellor. Together with Ding Du he compiled by imperial order the Complete Essentials for the Military Classics, finished in 1044.",
+   "The encyclopedia covers strategy, fortification, ships and weapons, including three recipes for gunpowder combining saltpetre, sulphur and charcoal with other ingredients for incendiary bombs and smoke. It also describes a 'south-pointing fish' of magnetised iron for finding direction."
+  ]
+ },
+ {
+  "id": "song-ci",
+  "name": "Song Ci",
+  "name_native": "宋慈",
+  "born": "1186",
+  "died": "1249",
+  "sort": 1186,
+  "birthplace": "Jianyang, Fujian",
+  "deathplace": "Guangzhou",
+  "nationality": "Chinese",
+  "movements": [
+   "song-science"
+  ],
+  "bio": "Southern Song judge whose Collected Cases of Injustice Rectified (1247) is the world's first systematic book of forensic medicine.",
+  "bio_full": [
+   "Song Ci passed the examinations in 1217 and served as a judicial intendant in several provinces, where he was responsible for reviewing criminal cases, including deaths.",
+   "His Xi Yuan Ji Lu brings together methods for examining corpses: distinguishing drowning from death before immersion, strangling from hanging, and recognising wounds and poisons. It became the official handbook of coroners in China for six hundred years and was translated into Korean, Japanese and, in the nineteenth century, European languages."
+  ]
+ },
+ {
+  "id": "qin-jiushao",
+  "name": "Qin Jiushao",
+  "name_native": "秦九韶",
+  "born": "c. 1202",
+  "died": "c. 1261",
+  "sort": 1202,
+  "birthplace": "Puzhou, Sichuan (probably)",
+  "deathplace": "Meizhou, Guangdong",
+  "nationality": "Chinese",
+  "movements": [
+   "song-yuan-mathematics"
+  ],
+  "bio": "Southern Song mathematician whose Mathematical Treatise in Nine Sections (1247) gave the general solution of the Chinese remainder problem and a numerical method for equations of any degree.",
+  "bio_full": [
+   "Qin Jiushao, son of an official from Sichuan, learned astronomy at the Song capital and served in military and civil posts amid the Mongol wars. Contemporaries described him as able but greedy and ruthless, and he died in a provincial post in the far south after falling from favour.",
+   "His treatise of 1247 contains the dayan rule for solving simultaneous congruences, now called the Chinese remainder theorem, and solves polynomial equations up to the tenth degree by a method equivalent to the one later named after Horner. He also gave a formula for the area of a triangle from its three sides."
+  ]
+ },
+ {
+  "id": "li-ye",
+  "name": "Li Ye",
+  "name_native": "李冶",
+  "born": "1192",
+  "died": "1279",
+  "sort": 1192,
+  "birthplace": "Daxing (Beijing)",
+  "deathplace": "Fenglong Mountain, Hebei",
+  "nationality": "Chinese",
+  "movements": [
+   "song-yuan-mathematics"
+  ],
+  "bio": "Jin and Yuan scholar whose Sea Mirror of Circle Measurements (1248) is the earliest surviving work using the tianyuan method of algebra.",
+  "bio_full": [
+   "Li Ye, originally Li Zhi, passed the Jin examinations and was a prefect when the Mongols overran the Jin in 1232. He lived in poverty and retirement in the north, teaching, and declined most offers of office from Khubilai Khan.",
+   "His Ceyuan Haijing treats problems of circles inscribed in triangles through some 170 problems, setting up equations with a single unknown, the 'celestial element', on the counting board, with a symbol for negative numbers. It shows the northern school of algebra that Zhu Shijie would extend to four unknowns."
+  ]
+ },
+ {
+  "id": "yang-hui",
+  "name": "Yang Hui",
+  "name_native": "楊輝",
+  "born": "c. 1238",
+  "died": "c. 1298",
+  "sort": 1238,
+  "birthplace": "Qiantang (Hangzhou)",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "song-yuan-mathematics"
+  ],
+  "bio": "Southern Song mathematician and teacher whose books preserve the triangle of binomial coefficients, attributed to Jia Xian, and early magic squares.",
+  "bio_full": [
+   "Yang Hui was a minor official in Hangzhou who wrote several mathematical books between 1261 and 1275, aimed in part at teaching. Little else is known about him.",
+   "His Detailed Analysis of the Nine Chapters (1261) reproduces the triangular array of binomial coefficients, which he credits to the eleventh-century mathematician Jia Xian; in China it is still called Yang Hui's triangle, in Europe Pascal's. His later books contain magic squares up to order ten and practical arithmetic for merchants and officials."
+  ]
+ },
+ {
+  "id": "zhu-shijie",
+  "name": "Zhu Shijie",
+  "name_native": "朱世傑",
+  "born": "c. 1249",
+  "died": "c. 1314",
+  "sort": 1249,
+  "birthplace": "Yanshan (Beijing area)",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "song-yuan-mathematics"
+  ],
+  "bio": "Yuan mathematician whose Jade Mirror of the Four Unknowns (1303) solved systems of polynomial equations in up to four unknowns, the summit of Chinese traditional algebra.",
+  "bio_full": [
+   "Zhu Shijie spent some twenty years as a travelling teacher of mathematics across Yuan China. He published an introductory textbook in 1299, which was lost in China but preserved in Korea and Japan, where it influenced Seki Takakazu.",
+   "His Siyuan Yujian of 1303 extended the tianyuan method to four unknowns, eliminating variables to reach a single equation, and summed finite series. Its opening diagram shows the arithmetical triangle to the eighth power. After the Yuan, Chinese algebra declined, and the book was rediscovered only in the nineteenth century."
+  ]
+ },
+ {
+  "id": "guo-shoujing",
+  "name": "Guo Shoujing",
+  "name_native": "郭守敬",
+  "born": "1231",
+  "died": "1316",
+  "sort": 1231,
+  "birthplace": "Xingtai, Hebei",
+  "deathplace": "Dadu (Beijing)",
+  "nationality": "Chinese",
+  "movements": [
+   "song-yuan-mathematics",
+   "early-astronomy"
+  ],
+  "bio": "Yuan astronomer, engineer and hydraulic expert who built new instruments and created the Shoushi calendar of 1281, used in modified form for over 360 years.",
+  "bio_full": [
+   "Guo Shoujing was trained by his grandfather and by the scholars around Liu Bingzhong. He first served Khubilai Khan as a hydraulic engineer, restoring canals in the north, and in 1276 joined the commission to reform the calendar.",
+   "He designed some twenty instruments, including the simplified armillary (jianyi) and a 40-foot gnomon, and directed observations at many stations. The resulting Shoushi calendar fixed the tropical year at 365.2425 days, the same value as the later Gregorian calendar, and used a form of spherical trigonometry and finite differences. He also completed the canal that linked Beijing to the Grand Canal."
+  ]
+ },
+ {
+  "id": "huang-daopo",
+  "name": "Huang Daopo",
+  "name_native": "黃道婆",
+  "born": "c. 1245",
+  "died": "c. 1330",
+  "sort": 1245,
+  "birthplace": "Wunijing, Songjiang (Shanghai)",
+  "deathplace": "Wunijing, Songjiang (Shanghai)",
+  "nationality": "Chinese",
+  "movements": [
+   "song-science"
+  ],
+  "bio": "Textile innovator who, according to tradition, brought cotton-working techniques from Hainan to the Yangzi delta and made Songjiang the centre of Chinese cotton weaving.",
+  "bio_full": [
+   "The life of Huang Daopo is known from a few Yuan and Ming writers and much local legend. She is said to have fled an unhappy household as a girl and lived for decades on Hainan Island among the Li people, returning to Songjiang near modern Shanghai around 1295.",
+   "She taught local people better ginning, bowing, spinning and weaving methods, including a treadle-operated multi-spindle spinning wheel and techniques for patterned cloth. Songjiang became famous for cotton, and she was worshipped as a goddess of the craft. How much is tradition is debated, but she is a rare named woman in the Chinese history of technology."
+  ]
+ },
+ {
+  "id": "wang-zhen",
+  "name": "Wang Zhen",
+  "name_native": "王禎",
+  "born": "fl. 1290–1333",
+  "died": "fl. 1333",
+  "sort": 1290,
+  "birthplace": "Dongping, Shandong",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "song-printing",
+   "song-science"
+  ],
+  "bio": "Yuan official and agronomist whose Nong Shu (1313) is an illustrated encyclopedia of farming tools and who improved wooden movable type.",
+  "bio_full": [
+   "Wang Zhen served as a county magistrate in Anhui and Jiangxi in the 1290s, and encouraged farming improvements among the people in his charge.",
+   "His Book of Agriculture describes crops and illustrates some three hundred agricultural tools and machines, including water-powered mills, bellows and spinning machines. In an appendix he explains how he had about 60,000 wooden type cut and set them from revolving tables arranged by rhyme, printing a local gazetteer in 1298."
+  ]
+ },
+ {
+  "id": "li-shizhen",
+  "name": "Li Shizhen",
+  "name_native": "李時珍",
+  "born": "1518",
+  "died": "1593",
+  "sort": 1518,
+  "birthplace": "Qizhou, Hubei",
+  "deathplace": "Qizhou, Hubei",
+  "nationality": "Chinese",
+  "movements": [
+   "ming-science",
+   "chinese-alchemy"
+  ],
+  "bio": "Ming physician and naturalist whose Bencao Gangmu (1578) is the greatest work of Chinese materia medica, describing nearly 1,900 drugs.",
+  "bio_full": [
+   "Li Shizhen was the son of a physician in Hubei. After failing the provincial examinations three times he turned to medicine, and served briefly in a princely household and the imperial medical bureau, where he read rare books.",
+   "From about 1552 he spent 27 years revising earlier pharmacopoeias, correcting errors from his own field observations and travels and from over 800 sources. The Bencao Gangmu, published after his death in 1596, classifies 1,892 substances into 16 divisions and 60 categories and gives more than 11,000 prescriptions. It was reprinted throughout East Asia, translated in part into European languages, and probably the 'ancient Chinese encyclopaedia' that Darwin cited."
+  ]
+ },
+ {
+  "id": "zhu-zaiyu",
+  "name": "Zhu Zaiyu",
+  "name_native": "朱載堉",
+  "born": "1536",
+  "died": "1611",
+  "sort": 1536,
+  "birthplace": "Huaiqing, Henan",
+  "deathplace": "Huaiqing, Henan",
+  "nationality": "Chinese",
+  "movements": [
+   "ming-science"
+  ],
+  "bio": "Ming prince who in 1584 gave the first exact mathematical solution for equal temperament, dividing the octave by the twelfth root of two.",
+  "bio_full": [
+   "Zhu Zaiyu was heir to a Ming princely house, but after his father was disgraced he lived for years in a hut outside the palace walls, studying music, mathematics and the calendar. He later gave up his title to devote himself to scholarship.",
+   "In his New Account of the Science of the Pitch-pipes he calculated string and pipe lengths for twelve equal semitones to some twenty-five digits, using an 81-row abacus. Whether his result reached Europe, where Simon Stevin and Mersenne worked on the same problem, is debated. He also wrote on calendars and dance."
+  ]
+ },
+ {
+  "id": "song-yingxing",
+  "name": "Song Yingxing",
+  "name_native": "宋應星",
+  "born": "1587",
+  "died": "c. 1666",
+  "sort": 1587,
+  "birthplace": "Fengxin, Jiangxi",
+  "deathplace": "Fengxin, Jiangxi",
+  "nationality": "Chinese",
+  "movements": [
+   "ming-science"
+  ],
+  "bio": "Late Ming scholar whose illustrated Tiangong Kaiwu (1637) is the classic survey of Chinese agriculture and industry.",
+  "bio_full": [
+   "Song Yingxing passed the provincial examination in 1615 but failed the metropolitan examination repeatedly. He served as a county teacher and minor official in Jiangxi and withdrew to private life when the Ming fell in 1644.",
+   "His Exploitation of the Works of Nature describes in eighteen chapters, with over a hundred woodcuts, the production of grain, salt, sugar, ceramics, metals, weapons, paper, ink, textiles, dyes and ships. Ignored in Qing China, it survived in Japan and was rediscovered in the twentieth century as a unique record of pre-industrial technology."
+  ]
+ },
+ {
+  "id": "xu-guangqi",
+  "name": "Xu Guangqi",
+  "name_native": "徐光啟",
+  "born": "1562",
+  "died": "1633",
+  "sort": 1562,
+  "birthplace": "Shanghai",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "jesuit-science",
+   "ming-science"
+  ],
+  "bio": "Ming scholar-official and Catholic convert who translated Euclid with Matteo Ricci, led the reform of the calendar and wrote a great encyclopedia of agriculture.",
+  "bio_full": [
+   "Xu Guangqi, from a modest family in Shanghai, met the Jesuits in the 1590s, was baptised Paul in 1603 and passed the highest examination in 1604. Working with Matteo Ricci in Beijing he translated the first six books of Euclid's Elements (1607). He rose to become Grand Secretary, the highest office in the Ming government, shortly before his death.",
+   "From 1629 he directed the Calendar Bureau, bringing in Jesuit astronomers to compile the Chongzhen calendar, and he promoted Western-style cannon for defence against the Manchus. His Complete Treatise on Agriculture, published in 1639, gathered Chinese and Western knowledge of farming, irrigation and famine relief, including the sweet potato. He is honoured as a pioneer of Chinese science and the district of Xujiahui in Shanghai is named after his family."
+  ],
+  "portrait_file": "Kircher - Toonneel van China - Ricci and Guangqi.jpg",
+  "portrait_caption": "Matteo Ricci and Xu Guangqi, engraving from Athanasius Kircher's China Illustrata (Dutch edition, 1668)"
+ },
+ {
+  "id": "matteo-ricci",
+  "name": "Matteo Ricci",
+  "name_native": "利瑪竇",
+  "born": "1552",
+  "died": "1610",
+  "sort": 1552,
+  "birthplace": "Macerata, Papal States",
+  "deathplace": "Beijing",
+  "nationality": "Italian",
+  "movements": [
+   "jesuit-science"
+  ],
+  "bio": "Italian Jesuit who settled in Ming China in 1583 and introduced European mathematics, astronomy and geography through translations and a celebrated world map.",
+  "bio_full": [
+   "Ricci studied law in Rome, joined the Jesuits in 1571 and learned mathematics from Christopher Clavius. Sent to Goa and Macau, he entered China in 1583 with Michele Ruggieri, learned classical Chinese, adopted the dress of a Confucian scholar and reached Beijing in 1601, where he lived under the Wanli Emperor's protection until his death.",
+   "He won the respect of scholars with his memory, his clocks and prisms, and above all his world maps and his translations with Xu Guangqi and Li Zhizao of Euclid and other works. His policy of accommodation to Chinese culture made him a controversial figure within the Church, but he is remembered in China and the West as the founder of a long scientific and cultural exchange."
+  ],
+  "portrait_file": "利玛窦像，游文辉绘.jpg",
+  "portrait_caption": "You Wenhui (Manuel Pereira), portrait of Matteo Ricci, 1610"
+ },
+ {
+  "id": "schall",
+  "name": "Johann Adam Schall von Bell",
+  "name_native": "湯若望",
+  "born": "1592",
+  "died": "1666",
+  "sort": 1592,
+  "birthplace": "Cologne",
+  "deathplace": "Beijing",
+  "nationality": "German",
+  "movements": [
+   "jesuit-science"
+  ],
+  "bio": "German Jesuit astronomer who worked on the Chongzhen calendar reform and became director of the Imperial Astronomical Bureau under the early Qing.",
+  "bio_full": [
+   "Schall entered the Jesuit order in Rome and arrived in China in 1622. He joined Xu Guangqi's calendar bureau in Beijing in 1630, wrote on the telescope and cast cannon for the Ming. When the Manchus took Beijing in 1644 he presented his calendar to the new Qing court, which adopted it as the Shixian calendar and made him head of the astronomical bureau.",
+   "He became a confidant of the young Shunzhi Emperor, but in 1664 the scholar Yang Guangxian accused him of treason and false astronomy, and he was condemned to death. He was released after an earthquake struck Beijing but died soon after. His calendar, based on Tychonic astronomy, remained the basis of the Chinese calendar."
+  ],
+  "portrait_file": "Adam Schall.jpg",
+  "portrait_caption": "Johann Adam Schall von Bell in Chinese official dress, engraving"
+ },
+ {
+  "id": "verbiest",
+  "name": "Ferdinand Verbiest",
+  "name_native": "南懷仁",
+  "born": "1623",
+  "died": "1688",
+  "sort": 1623,
+  "birthplace": "Pittem, Flanders",
+  "deathplace": "Beijing",
+  "nationality": "Flemish",
+  "movements": [
+   "jesuit-science"
+  ],
+  "bio": "Flemish Jesuit who regained the astronomical bureau for the Jesuits in 1669 and built the bronze instruments of the Beijing Ancient Observatory.",
+  "bio_full": [
+   "Verbiest arrived in China in 1659 and assisted Schall in Beijing. Imprisoned with him during the anti-Jesuit trial, he won a series of public tests of astronomical prediction against his opponents in 1668–69, and the Kangxi Emperor appointed him director of the astronomical bureau.",
+   "He designed six large bronze instruments, an armillary sphere, ecliptic and equatorial armillaries, a celestial globe, an azimuth instrument and a sextant, installed on the Beijing observatory in 1674. He also taught the emperor mathematics, cast cannon, made a world map and built what may have been a small steam-propelled cart."
+  ],
+  "portrait_file": "南公懷仁像.jpg",
+  "portrait_caption": "Chinese portrait of Ferdinand Verbiest"
+ },
+ {
+  "id": "mei-wending",
+  "name": "Mei Wending",
+  "name_native": "梅文鼎",
+  "born": "1633",
+  "died": "1721",
+  "sort": 1633,
+  "birthplace": "Xuancheng, Anhui",
+  "deathplace": "Xuancheng, Anhui",
+  "nationality": "Chinese",
+  "movements": [
+   "jesuit-science"
+  ],
+  "bio": "Early Qing astronomer and mathematician who mastered both Chinese and Western methods and argued that Western learning had Chinese roots.",
+  "bio_full": [
+   "Mei Wending was a private scholar from Anhui who never held office but became famous for his more than eighty works on mathematics and astronomy. In 1705 the Kangxi Emperor received him on the imperial boat, and his grandson Mei Juecheng worked on the court's mathematical encyclopedia.",
+   "He explained Western trigonometry, geometry and planetary theory in Chinese terms and revived interest in older Chinese mathematics. His view that Western science had come from ancient China, widespread in his time, helped make it acceptable to Confucian scholars. He is considered the leading Chinese mathematician of the seventeenth century."
+  ]
+ },
+ {
+  "id": "jang-yeong-sil",
+  "name": "Jang Yeong-sil",
+  "name_native": "蔣英實",
+  "born": "c. 1390",
+  "died": "after 1442",
+  "sort": 1390,
+  "birthplace": "Dongnae (Busan)",
+  "deathplace": "Korea",
+  "nationality": "Korean",
+  "movements": [
+   "joseon-science"
+  ],
+  "bio": "Joseon engineer, born a government slave, who built King Sejong's self-striking water clock, rain gauges and astronomical instruments.",
+  "bio_full": [
+   "Jang Yeong-sil was the son of a Chinese father and a Korean kisaeng mother, and was born with the status of a government slave in Dongnae. His skill came to the notice of King Taejong and then Sejong, who sent him to study instruments in Ming China, freed him and raised him to official rank.",
+   "He built the Jagyeongnu, a water clock with automatic time-signalling figures (1434), the Okru, an astronomical clock, armillary spheres and sundials, and is linked with the cheugugi rain gauge of 1441. In 1442 a royal palanquin he oversaw broke, and he was dismissed and disappears from the records. He is now a national hero of Korean science."
+  ]
+ },
+ {
+  "id": "sejong",
+  "name": "Sejong the Great",
+  "name_native": "世宗大王",
+  "born": "1397",
+  "died": "1450",
+  "sort": 1397,
+  "birthplace": "Hanseong (Seoul)",
+  "deathplace": "Hanseong (Seoul)",
+  "nationality": "Korean",
+  "movements": [
+   "joseon-science"
+  ],
+  "bio": "Fourth king of Joseon (r. 1418–50), who created the Hangul alphabet and sponsored an extraordinary programme of astronomy, instrument-making, medicine and agriculture.",
+  "bio_full": [
+   "Sejong, third son of King Taejong, came to the throne in 1418. He gathered scholars in the Hall of Worthies and promoted learning in every field, while also strengthening the northern frontiers and reforming taxes.",
+   "In science he commissioned the royal observatory, water clocks, sundials and rain gauges; the Chiljeongsan calendar, which calculated the motions of the sun, moon and planets for the latitude of Seoul; farming manuals adapted to Korean conditions; and the medical collections Hyangyak Jipseongbang and Uibang Yuchwi. He is the most honoured king in Korean history and appears on the 10,000-won note."
+  ]
+ },
+ {
+  "id": "joseon-royal-astronomers",
+  "name": "Joseon royal astronomers",
+  "name_native": "書雲觀",
+  "born": "1392",
+  "died": "1910",
+  "sort": 1395,
+  "birthplace": "Hanseong (Seoul)",
+  "deathplace": "Hanseong (Seoul)",
+  "nationality": "Korean",
+  "movements": [
+   "joseon-science"
+  ],
+  "bio": "The astronomers of the Joseon Office for Observing Clouds (Seoun-gwan), later the Gwansang-gam, who compiled calendars, kept sky records and carved the great star chart of 1395.",
+  "bio_full": [
+   "The royal astronomical office of Joseon continued that of Goryeo. Its officials observed the sky day and night, recording eclipses, comets, meteors and weather, and prepared the annual calendar. The star chart Cheonsang Yeolcha Bunyajido was carved in 1395 under King Taejo by a team of twelve astronomers, with an inscription by the scholar Gwon Geun.",
+   "Their observation logs, partly preserved in the Annals of the Joseon Dynasty and the records of the office, are among the richest sources for historical astronomy, including observations of the supernova of 1604."
+  ]
+ },
+ {
+  "id": "heo-jun",
+  "name": "Heo Jun",
+  "name_native": "許浚",
+  "born": "1539",
+  "died": "1615",
+  "sort": 1539,
+  "birthplace": "Yangcheon (Seoul)",
+  "deathplace": "Korea",
+  "nationality": "Korean",
+  "movements": [
+   "joseon-science",
+   "silhak-science"
+  ],
+  "bio": "Joseon court physician whose Dongui Bogam (1613) became the standard encyclopedia of Korean medicine and is inscribed on UNESCO's Memory of the World Register.",
+  "bio_full": [
+   "Heo Jun was born to a military aristocratic family but, as the son of a concubine, was barred from the highest offices. He entered the royal medical service and became personal physician to King Seonjo, accompanying him in flight during the Japanese invasions of 1592.",
+   "In 1596 Seonjo commissioned him to compile a new medical encyclopedia. Completed in exile in 1610 and printed in 1613, the Dongui Bogam organises Chinese and Korean medicine by internal medicine, external conditions, miscellaneous diseases, pharmacology and acupuncture, using many local Korean herbs. It was reprinted in China and Japan and remains a classic of Korean medicine."
+  ]
+ },
+ {
+  "id": "hong-dae-yong",
+  "name": "Hong Dae-yong",
+  "name_native": "洪大容",
+  "born": "1731",
+  "died": "1783",
+  "sort": 1731,
+  "birthplace": "Cheonan, Chungcheong",
+  "deathplace": "Korea",
+  "nationality": "Korean",
+  "movements": [
+   "silhak-science"
+  ],
+  "bio": "Joseon practical-learning scholar and astronomer who argued that the earth rotates daily and that the universe is infinite.",
+  "bio_full": [
+   "Hong Dae-yong came from a noble family and studied Neo-Confucianism, but turned to mathematics, music and astronomy, building a private observatory at his home. In 1765–66 he accompanied an embassy to Beijing, where he talked with Chinese scholars and visited the Jesuit astronomers and their observatory.",
+   "In his dialogue Uisan Mundap he argued that the earth is a rotating sphere, that there is no centre to an infinite universe, and that no nation can claim to be the centre of the world, a challenge to China-centred thinking. His mathematical book Juhae Suyong collected Chinese and Western methods. He is a leading figure of the Bukhak, or Northern Learning, school."
+  ],
+  "portrait_file": "Hongdaeyong.jpg",
+  "portrait_caption": "Yan Cheng, portrait sketch of Hong Dae-yong made in Beijing, 1766"
+ },
+ {
+  "id": "jeong-yak-yong",
+  "name": "Jeong Yak-yong",
+  "name_native": "丁若鏞",
+  "born": "1762",
+  "died": "1836",
+  "sort": 1762,
+  "birthplace": "Namyangju, Gyeonggi",
+  "deathplace": "Namyangju, Gyeonggi",
+  "nationality": "Korean",
+  "movements": [
+   "silhak-science"
+  ],
+  "bio": "Greatest scholar of Korean Silhak, who designed cranes for the Hwaseong fortress and wrote on smallpox vaccination, government and the classics.",
+  "bio_full": [
+   "Jeong Yak-yong, known as Dasan, served King Jeongjo as a trusted official and in 1792 designed the construction methods for the fortress of Hwaseong at Suwon, including a crane using pulleys that is said to have saved much labour. After Jeongjo's death he was exiled for eighteen years for his links with Catholicism.",
+   "In exile he wrote some five hundred volumes on the classics, administration, law, geography and medicine, including a treatise on smallpox with an account of variolation and, later, vaccination. His practical, reforming learning made him the central figure of the Silhak tradition."
+  ]
+ },
+ {
+  "id": "kim-jeong-ho",
+  "name": "Kim Jeong-ho",
+  "name_native": "金正浩",
+  "born": "c. 1804",
+  "died": "c. 1866",
+  "sort": 1804,
+  "birthplace": "Hwanghae province (probably)",
+  "deathplace": "Korea",
+  "nationality": "Korean",
+  "movements": [
+   "silhak-science"
+  ],
+  "bio": "Joseon cartographer who produced the Daedong Yeojido (1861), the largest and most accurate traditional map of Korea.",
+  "bio_full": [
+   "Kim Jeong-ho was of humble origin, and very little reliable information about his life survives; the popular story that he walked the length of Korea many times and was imprisoned by the regent is a later legend. He worked in Seoul with scholar friends who gave him access to government maps.",
+   "After earlier maps and a geographical gazetteer, he published the Daedong Yeojido in 1861, printed from woodblocks he carved himself. It divides the country into 22 folding strips that join into a map nearly 7 metres tall, with a uniform grid scale and symbols for roads, rivers, fortresses and post stations."
+  ]
+ },
+ {
+  "id": "yoshida-mitsuyoshi",
+  "name": "Yoshida Mitsuyoshi",
+  "name_native": "吉田光由",
+  "born": "1598",
+  "died": "1672",
+  "sort": 1598,
+  "birthplace": "Saga, Kyoto",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "wasan"
+  ],
+  "bio": "Kyoto mathematician whose Jinkōki (1627), a popular arithmetic book on the soroban, launched the mathematical culture of Edo Japan.",
+  "bio_full": [
+   "Yoshida Mitsuyoshi belonged to the Suminokura family of Kyoto merchants and engineers, who ran river transport and overseas trade. He studied the Chinese mathematical text Suanfa Tongzong of Cheng Dawei.",
+   "His Jinkōki adapted it for Japanese readers, teaching the soroban, measures, currency exchange and practical problems with illustrations, and became one of the best-selling books of the Edo period. Later editions ended with unsolved problems for readers, starting the custom of challenge problems that drove wasan forward."
+  ]
+ },
+ {
+  "id": "seki-takakazu",
+  "name": "Seki Takakazu",
+  "name_native": "関孝和",
+  "born": "c. 1642",
+  "died": "1708",
+  "sort": 1642,
+  "birthplace": "Fujioka, Kōzuke or Edo",
+  "deathplace": "Edo",
+  "nationality": "Japanese",
+  "movements": [
+   "wasan"
+  ],
+  "bio": "The great mathematician of Edo Japan, who developed determinants, the theory of equations and methods for areas and arcs, and founded the Seki school.",
+  "bio_full": [
+   "Seki Takakazu was born into a samurai family and adopted by the Seki family; he served the Kōfu domain as an accountant and then the shogunate. Largely self-taught from Chinese books, including Zhu Shijie's primer, he published only one book in his lifetime.",
+   "His Hatsubi Sanpō (1674) solved the fifteen problems left by an earlier writer, using a written algebraic notation, endan-jutsu, that freed Japanese mathematics from the counting board. His manuscripts treat elimination by what are now called determinants, before Leibniz, Bernoulli numbers, and the length of arcs. Revered as sansei, the 'sage of calculation', he founded a school that dominated wasan."
+  ],
+  "portrait_file": "Seki.jpeg",
+  "portrait_caption": "Traditional portrait of Seki Takakazu"
+ },
+ {
+  "id": "sugita-genpaku",
+  "name": "Sugita Genpaku",
+  "name_native": "杉田玄白",
+  "born": "1733",
+  "died": "1817",
+  "sort": 1733,
+  "birthplace": "Edo",
+  "deathplace": "Edo",
+  "nationality": "Japanese",
+  "movements": [
+   "rangaku"
+  ],
+  "bio": "Edo physician who in 1774, with Maeno Ryōtaku and others, translated a Dutch anatomy book as Kaitai Shinsho, launching rangaku.",
+  "bio_full": [
+   "Sugita Genpaku was physician to the Obama domain in Edo, trained in surgery. In 1771 he and Maeno Ryōtaku watched the dissection of an executed criminal and found that the body matched the plates of the Dutch Ontleedkundige Tafelen and not Chinese medical charts.",
+   "With little Dutch, they and Nakagawa Jun'an spent over three years translating the book, published as Kaitai Shinsho, 'New Book of Anatomy', in 1774. In old age Sugita wrote Rangaku Kotohajime, a memoir of these beginnings. He trained many students and is seen as a founder of modern medicine in Japan."
+  ],
+  "portrait_file": "Sugita Genpaku.jpg",
+  "portrait_caption": "Ishikawa Tairō, portrait of Sugita Genpaku, 1812"
+ },
+ {
+  "id": "hiraga-gennai",
+  "name": "Hiraga Gennai",
+  "name_native": "平賀源内",
+  "born": "1728",
+  "died": "1780",
+  "sort": 1728,
+  "birthplace": "Shido, Sanuki (Kagawa)",
+  "deathplace": "Edo",
+  "nationality": "Japanese",
+  "movements": [
+   "rangaku"
+  ],
+  "bio": "Edo inventor, naturalist, writer and painter who repaired a Dutch electrostatic generator, the erekiteru, and promoted the study of natural products.",
+  "bio_full": [
+   "Hiraga Gennai was a low-ranking samurai who studied herbal medicine in Nagasaki and Edo, organised exhibitions of natural products, prospected for mines and made a thermometer and asbestos cloth. He was also a popular satirical writer and introduced Western-style oil painting to Akita domain artists.",
+   "In 1776 he restored a broken Dutch electrostatic generator and showed it to amazed audiences. A brilliant but restless figure, he died in prison after killing a man in a quarrel. He is remembered as an emblem of Edo curiosity about the Western sciences."
+  ],
+  "portrait_file": "A Portrait of Kyūkei Hiraga.jpg",
+  "portrait_caption": "Portrait of Hiraga Gennai (Kyūkei)"
+ },
+ {
+  "id": "hanaoka-seishu",
+  "name": "Hanaoka Seishū",
+  "name_native": "華岡青洲",
+  "born": "1760",
+  "died": "1835",
+  "sort": 1760,
+  "birthplace": "Hirayama, Kii (Wakayama)",
+  "deathplace": "Hirayama, Kii (Wakayama)",
+  "nationality": "Japanese",
+  "movements": [
+   "rangaku"
+  ],
+  "bio": "Japanese surgeon who in 1804 performed the first known operation under general anaesthesia, removing a breast cancer using his herbal formula tsūsensan.",
+  "bio_full": [
+   "Hanaoka Seishū studied Chinese medicine and Dutch-style surgery in Kyoto and returned to practise in his village in Kii province. Inspired by the legend of Hua Tuo, he spent years developing an oral anaesthetic from datura (Korean morning glory), aconite and other herbs. His mother and wife volunteered for the tests; his mother died and his wife lost her sight.",
+   "On 13 October 1804 he removed a breast tumour from a sixty-year-old woman, Kan Aiya, under the anaesthetic, four decades before ether was used in Boston. He went on to perform over 150 such operations and trained more than a thousand students, combining Chinese and Western medicine, but his methods were kept secret and did not reach the West."
+  ],
+  "portrait_file": "HanaokaSeishu.gif",
+  "portrait_caption": "Portrait of Hanaoka Seishū"
+ },
+ {
+  "id": "ino-tadataka",
+  "name": "Inō Tadataka",
+  "name_native": "伊能忠敬",
+  "born": "1745",
+  "died": "1818",
+  "sort": 1745,
+  "birthplace": "Ozeki, Kazusa (Chiba)",
+  "deathplace": "Edo",
+  "nationality": "Japanese",
+  "movements": [
+   "rangaku"
+  ],
+  "bio": "Merchant turned surveyor who from 1800 to 1816 walked the coasts of Japan and produced the first accurate maps of the country.",
+  "bio_full": [
+   "Inō Tadataka was adopted into a sake-brewing and merchant family in Sawara and ran it successfully for thirty years. At fifty he retired to Edo to study astronomy with Takahashi Yoshitoki, an expert in Western calendrical science.",
+   "To measure the length of a degree of latitude he won shogunal permission to survey Ezo (Hokkaidō) in 1800, and over ten expeditions he and his team measured the coasts and main roads by pacing, chains and astronomical observation. The completed maps were finished by his pupils in 1821. They were so accurate that they were used into the twentieth century."
+  ],
+  "portrait_file": "Ino Tadataka.jpg",
+  "portrait_caption": "Portrait of Inō Tadataka"
+ },
+ {
+  "id": "siebold",
+  "name": "Philipp Franz von Siebold",
+  "name_native": "シーボルト",
+  "born": "1796",
+  "died": "1866",
+  "sort": 1796,
+  "birthplace": "Würzburg",
+  "deathplace": "Munich",
+  "nationality": "German",
+  "movements": [
+   "rangaku"
+  ],
+  "bio": "German physician at the Dutch post in Nagasaki who taught Western medicine to Japanese students and published major works on Japan's nature and culture.",
+  "bio_full": [
+   "Siebold arrived at Dejima in 1823 as physician to the Dutch trading post and was allowed to open a school, the Narutaki-juku, outside Nagasaki, where he taught medicine and natural history to Japanese students. In 1828 he was found to possess forbidden maps of Japan, derived from Inō's surveys, and was expelled.",
+   "Back in Leiden he published Nippon, Flora Japonica and Fauna Japonica, the fullest European descriptions of Japan for decades, and introduced many Japanese plants to European gardens. He returned to Japan in 1859–62. His daughter Kusumoto Ine became the first Japanese woman trained in Western medicine."
+  ],
+  "portrait_file": "シーボルト 川原慶賀筆.jpg",
+  "portrait_caption": "Kawahara Keiga, portrait of Philipp Franz von Siebold"
+ },
+ {
+  "id": "ogata-koan",
+  "name": "Ogata Kōan",
+  "name_native": "緒方洪庵",
+  "born": "1810",
+  "died": "1863",
+  "sort": 1810,
+  "birthplace": "Ashimori, Bitchū (Okayama)",
+  "deathplace": "Edo",
+  "nationality": "Japanese",
+  "movements": [
+   "rangaku"
+  ],
+  "bio": "Osaka physician and teacher whose school, the Tekijuku, trained a generation of modernisers, and who led smallpox vaccination in Japan.",
+  "bio_full": [
+   "Ogata Kōan studied Dutch medicine in Osaka, Edo and Nagasaki and in 1838 opened the Tekijuku in Osaka, where some three thousand students passed through, among them Fukuzawa Yukichi and Ōmura Masujirō.",
+   "He founded a vaccination centre in 1849 to spread cowpox inoculation against smallpox, wrote on cholera during the 1858 epidemic, and translated a German pathology. In 1862 he was called to Edo to head the shogunate's Western medical institute."
+  ]
+ },
+ {
+  "id": "chinese-alchemists",
+  "name": "Daoist alchemists",
+  "name_native": "煉丹家",
+  "born": "c. 300",
+  "died": "c. 1100",
+  "sort": 800,
+  "birthplace": "China",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "chinese-alchemy",
+   "gunpowder-compass"
+  ],
+  "bio": "The mostly anonymous Daoist adepts of Tang and earlier China whose experiments with saltpetre, sulphur and carbon produced the first gunpowder.",
+  "bio_full": [
+   "Chinese alchemy, waidan or 'outer elixir', sought drugs of immortality by heating minerals in sealed vessels. Its texts, preserved in the Daoist Canon, were written by many hands, often under the names of immortals, from Ge Hong's time onward.",
+   "A ninth-century alchemical text, the Zhenyuan Miaodao Yaolüe, warns that heating saltpetre, sulphur and realgar with honey has caused flames to burn the hands and face and even the house. This is usually taken as the earliest record of gunpowder, whose military use followed within a century."
+  ]
+ },
+ {
+  "id": "chinese-compass-makers",
+  "name": "Chinese compass makers",
+  "name_native": "指南針製作者",
+  "born": "c. 200 BC",
+  "died": "c. 1100",
+  "sort": 1000,
+  "birthplace": "China",
+  "deathplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "gunpowder-compass"
+  ],
+  "bio": "The anonymous geomancers, artisans and sailors of China who developed the magnetic compass, from the lodestone spoon to the floating needle used at sea.",
+  "bio_full": [
+   "Lodestone was known in China by the third century BC, and Han texts mention a 'south-governor' used in divination, often interpreted as a lodestone spoon turning on a polished board, though this reading is debated. Geomancers, who sited houses and tombs by the lie of the land, were the main users.",
+   "By the eleventh century needles magnetised by rubbing on lodestone were floated on water or hung on a silk thread, as Shen Kuo describes, and around 1100 Zhu Yu records sailors using a needle at sea in dark weather. The mariner's compass reached Europe and the Islamic world by about 1190–1230, though whether by transmission or independent invention is still debated."
+  ]
+ },
+ {
+  "id": "kitasato-shibasaburo",
+  "name": "Kitasato Shibasaburō",
+  "name_native": "北里柴三郎",
+  "born": "1853",
+  "died": "1931",
+  "sort": 1853,
+  "birthplace": "Oguni, Higo (Kumamoto)",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-science"
+  ],
+  "bio": "Bacteriologist who grew the tetanus bacillus in pure culture and with Emil von Behring developed antitoxin serum therapy in 1890.",
+  "bio_full": [
+   "Kitasato studied medicine at Kumamoto and Tokyo and in 1885 went to Berlin to work under Robert Koch. There he obtained a pure culture of the tetanus bacillus in 1889, and with Emil von Behring showed in 1890 that serum from immunised animals neutralised the toxins of tetanus and diphtheria.",
+   "Returning to Japan in 1892, he founded the Institute for Infectious Diseases, later the Kitasato Institute, and in 1894 in Hong Kong identified the plague bacterium at the same time as Alexandre Yersin. He trained many researchers, including Shiga and Noguchi, and founded Keiō University's medical school. He appears on the 1,000-yen note issued from 2024."
+  ]
+ },
+ {
+  "id": "shiga-kiyoshi",
+  "name": "Shiga Kiyoshi",
+  "name_native": "志賀潔",
+  "born": "1871",
+  "died": "1957",
+  "sort": 1871,
+  "birthplace": "Sendai",
+  "deathplace": "Sendai",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-science"
+  ],
+  "bio": "Bacteriologist who discovered the dysentery bacillus, named Shigella after him, in 1897.",
+  "bio_full": [
+   "Shiga Kiyoshi graduated from the Imperial University in Tokyo in 1896 and joined Kitasato's institute. During a large epidemic in 1897 he isolated the bacterium that causes bacillary dysentery.",
+   "He later worked with Paul Ehrlich in Frankfurt on chemotherapy and served as head of the medical college in colonial Seoul. The genus Shigella and the Shiga toxin carry his name."
+  ]
+ },
+ {
+  "id": "noguchi-hideyo",
+  "name": "Noguchi Hideyo",
+  "name_native": "野口英世",
+  "born": "1876",
+  "died": "1928",
+  "sort": 1876,
+  "birthplace": "Inawashiro, Fukushima",
+  "deathplace": "Accra, Gold Coast",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-science"
+  ],
+  "bio": "Bacteriologist at the Rockefeller Institute who showed in 1913 that syphilis bacteria cause general paresis, and died researching yellow fever in Africa.",
+  "bio_full": [
+   "Noguchi grew up poor in rural Fukushima; a burn in infancy crippled his left hand, and surgery on it inspired him to study medicine. He worked at Kitasato's institute and in 1900 moved to the United States, joining the Rockefeller Institute in New York in 1904.",
+   "He demonstrated Treponema pallidum in the brains of patients with general paresis, proving the syphilitic cause of this form of insanity. Several of his other claims, including a bacterial cause of yellow fever, proved wrong. He died of yellow fever in Accra while investigating it. Admired in Japan as a model of perseverance, he appears on the 1,000-yen note issued 2004–24."
+  ]
+ },
+ {
+  "id": "nagaoka-hantaro",
+  "name": "Nagaoka Hantarō",
+  "name_native": "長岡半太郎",
+  "born": "1865",
+  "died": "1950",
+  "sort": 1865,
+  "birthplace": "Ōmura, Hizen (Nagasaki)",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-science"
+  ],
+  "bio": "Physicist who in 1903–04 proposed a 'Saturnian' model of the atom, with electrons orbiting a heavy positive centre.",
+  "bio_full": [
+   "Nagaoka studied physics at the Imperial University in Tokyo and in Germany under Boltzmann and others, becoming professor in Tokyo in 1901 and later first president of Osaka Imperial University.",
+   "His Saturnian model pictured electrons in a ring around a massive central charge, like the rings of Saturn. It proved unstable and was set aside, but Rutherford cited it when he proposed the nuclear atom in 1911. Nagaoka also worked on magnetostriction and spectroscopy and trained the first generation of Japanese physicists."
+  ]
+ },
+ {
+  "id": "takamine-jokichi",
+  "name": "Takamine Jōkichi",
+  "name_native": "高峰譲吉",
+  "born": "1854",
+  "died": "1922",
+  "sort": 1854,
+  "birthplace": "Takaoka, Etchū (Toyama)",
+  "deathplace": "New York",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-science"
+  ],
+  "bio": "Chemist who isolated the enzyme preparation Taka-diastase and in 1901 purified adrenaline, the first hormone to be isolated in crystalline form.",
+  "bio_full": [
+   "Takamine studied chemistry in Tokyo and Glasgow and worked for the Japanese government before settling in the United States. He developed Taka-diastase, a digestive enzyme from the koji mould used in sake brewing, patented in 1894.",
+   "In 1900–01, with his assistant Uenaka Keizō, he purified adrenaline from adrenal glands, a discovery whose priority was later disputed with John Jacob Abel. He also helped found the RIKEN research institute in Tokyo and gave the cherry trees planted in Washington in 1912."
+  ]
+ },
+ {
+  "id": "yukawa-hideki",
+  "name": "Yukawa Hideki",
+  "name_native": "湯川秀樹",
+  "born": "1907",
+  "died": "1981",
+  "sort": 1907,
+  "birthplace": "Tokyo",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-science",
+   "contemporary-science"
+  ],
+  "bio": "Theoretical physicist who predicted the meson as the carrier of the nuclear force in 1935 and in 1949 became the first Japanese Nobel laureate.",
+  "bio_full": [
+   "Yukawa grew up in Kyoto, son of a geologist, and studied physics at Kyoto Imperial University, where he and Tomonaga Shin'ichirō were classmates. He taught at Osaka and Kyoto, and after the war spent several years at Princeton and Columbia before returning to Kyoto to direct a new institute of theoretical physics.",
+   "In 1935, aged 27, he proposed that protons and neutrons are held together by exchanging a new particle about two hundred times heavier than the electron. The pion was found in cosmic rays in 1947, and he received the Nobel Prize in Physics in 1949. He became an advocate of nuclear disarmament and signed the Russell–Einstein Manifesto."
+  ]
+ },
+ {
+  "id": "tu-youyou",
+  "name": "Tu Youyou",
+  "name_native": "屠呦呦",
+  "born": "1930",
+  "sort": 1930,
+  "birthplace": "Ningbo, Zhejiang",
+  "nationality": "Chinese",
+  "movements": [
+   "contemporary-science",
+   "chinese-alchemy"
+  ],
+  "bio": "Chinese pharmaceutical chemist who discovered artemisinin, a key malaria drug, in 1972 and in 2015 became the first Chinese woman to win a Nobel Prize in science.",
+  "bio_full": [
+   "Tu Youyou studied pharmacy at Beijing Medical College and joined the Academy of Traditional Chinese Medicine in 1955. In 1969 she was appointed to lead a group in Project 523, a secret military programme to find drugs against chloroquine-resistant malaria during the Vietnam War.",
+   "Screening traditional remedies, her team found Ge Hong's fourth-century advice to steep sweet wormwood in cold water, and she extracted the active compound at low temperature. Artemisinin and its derivatives became the core of malaria treatment worldwide, saving millions of lives. She shared the 2015 Nobel Prize in Physiology or Medicine."
+  ]
+ },
+ {
+  "id": "tanba-no-yasuyori",
+  "name": "Tanba no Yasuyori",
+  "name_native": "丹波康頼",
+  "born": "912",
+  "died": "995",
+  "sort": 912,
+  "birthplace": "Tanba province",
+  "deathplace": "Heian-kyō (Kyoto)",
+  "nationality": "Japanese",
+  "movements": [
+   "sui-tang-science"
+  ],
+  "bio": "Heian court physician whose Ishinpō (984) is the oldest surviving Japanese medical book, preserving many Chinese texts otherwise lost.",
+  "bio_full": [
+   "Tanba no Yasuyori, said to be descended from Chinese immigrants, served as acupuncture doctor at the Heian court and was rewarded with the family name Tanba. His descendants remained hereditary court physicians for centuries.",
+   "His Ishinpō, presented to Emperor En'yū in 984, compiles extracts from over a hundred Chinese medical works of the Sui and Tang in thirty scrolls. Because many of those sources perished in China, it is a key witness to early Chinese medicine, as well as the foundation of Japanese medical writing."
+  ]
+ }
+]
