@@ -5,7 +5,7 @@
 **1397 – 1450** · Korean  
 Born: Hanseong (Seoul) · Died: Hanseong (Seoul)  
 Genres & eras: [Korean aak & hyangak](../movements/korean-court-music.md)  
-Also in: [History](../../history/creators/sejong.md)  
+Also in: [Science & Technology](../../science/creators/sejong.md), [History](../../history/creators/sejong.md)  
 
 > Fourth king of Joseon, who devised the Hangul alphabet, sponsored science and ritual reform, and composed court music in native Korean style.
 

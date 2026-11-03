@@ -5,6 +5,7 @@
 **c. 600 – c. 800** · Japanese  
 Born: Nara basin, Japan · Died: ?  
 Movements & schools: [Buddhist sculpture and cave temples](../movements/buddhist-sculpture.md)  
+Also in: [Religion](../../religion/creators/nara-buddhist-workshops.md)  
 
 > The temple and government workshops of early Japan, including Tori Busshi and the Office for the Construction of Tōdai-ji, that made the first great Buddhist images in Japan.
 

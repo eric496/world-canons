@@ -7,6 +7,7 @@
 **1158 – 1210** · Korean  
 Born: Seoheung, Goryeo · Died: Suseonsa, Mount Songgwang  
 Schools & eras: [Chan, Seon & Zen](../movements/chan-zen.md)  
+Also in: [Religion](../../religion/creators/jinul.md)  
 
 > Goryeo Seon master who united meditation and doctrine and taught 'sudden awakening followed by gradual cultivation'.
 

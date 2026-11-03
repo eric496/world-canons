@@ -7,6 +7,7 @@
 **283 – 343** · Chinese  
 Born: Jurong, Danyang (Jiangsu) · Died: Mount Luofu, Guangdong  
 Traditions & eras: [Celestial Masters and early religious Daoism](../movements/early-daoism.md)  
+Also in: [Science & Technology](../../science/creators/ge-hong.md)  
 
 > Scholar and alchemist of the Eastern Jin whose Master Who Embraces Simplicity is the classic defence of the quest for immortality.
 

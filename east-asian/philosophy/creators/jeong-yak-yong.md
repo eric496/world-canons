@@ -5,6 +5,7 @@
 **1762 – 1836** · Korean  
 Born: Gwangju, Gyeonggi (now Namyangju) · Died: Namyangju  
 Schools & eras: [Silhak (Practical Learning)](../movements/silhak.md)  
+Also in: [Architecture](../../architecture/creators/jeong-yak-yong.md), [Science & Technology](../../science/creators/jeong-yak-yong.md)  
 
 > Dasan, the great synthesiser of Silhak, who wrote some five hundred volumes on the classics, administration and reform during eighteen years of exile.
 

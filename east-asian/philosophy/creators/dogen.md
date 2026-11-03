@@ -7,6 +7,7 @@
 **1200 – 1253** · Japanese  
 Born: Kyoto · Died: Kyoto  
 Schools & eras: [Chan, Seon & Zen](../movements/chan-zen.md)  
+Also in: [Religion](../../religion/creators/dogen.md)  
 
 > Founder of Sōtō Zen in Japan, whose Shōbōgenzō is one of the profoundest works of Japanese philosophy.
 

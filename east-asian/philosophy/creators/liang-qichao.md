@@ -5,6 +5,7 @@
 **1873 – 1929** · Chinese  
 Born: Xinhui, Guangdong · Died: Beijing  
 Schools & eras: [Reform & Enlightenment](../movements/modern-reform.md)  
+Also in: [History](../../history/creators/liang-qichao.md)  
 
 > Journalist and scholar, Kang Youwei's disciple, whose essays introduced a generation of Chinese readers to nationalism, citizenship and Western thought.
 

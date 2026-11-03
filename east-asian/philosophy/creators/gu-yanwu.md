@@ -7,6 +7,7 @@
 **1613 – 1682** · Chinese  
 Born: Kunshan, Jiangsu · Died: Quwo, Shanxi  
 Schools & eras: [Ming–Qing Critique & Evidential Learning](../movements/evidential-learning.md)  
+Also in: [History](../../history/creators/gu-yanwu.md)  
 
 > Ming loyalist who rejected abstract speculation for 'practical statecraft' and founded the evidential approach to the classics.
 

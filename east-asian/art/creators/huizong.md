@@ -7,6 +7,7 @@
 **1082 – 1135** · Chinese  
 Born: Kaifeng · Died: Wuguo cheng, Manchuria  
 Movements & schools: [Song academy & literati painting](../movements/song-academy-literati.md)  
+Also in: [Music & Theatre](../../music/creators/huizong.md)  
 
 > Eighth emperor of the Northern Song, a gifted painter and calligrapher who reorganised the court painting academy; his dynasty lost northern China to the Jurchen during his reign.
 

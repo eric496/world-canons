@@ -5,6 +5,7 @@
 **1501 – 1570** · Korean  
 Born: Andong, Gyeongsang · Died: Andong  
 Schools & eras: [Korean Neo-Confucianism](../movements/korean-neo-confucianism.md)  
+Also in: [Architecture](../../architecture/creators/yi-hwang.md)  
 
 > Toegye, the most revered Korean Neo-Confucian, who interpreted Zhu Xi with great depth and moral seriousness and is honoured on the 1000-won note.
 

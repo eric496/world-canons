@@ -28,7 +28,7 @@ Ordered by date of birth.
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Seated_Portrait_of_Emperor_Song_Huizong.tif/lossy-page1-1280px-Seated_Portrait_of_Emperor_Song_Huizong.tif.jpg" width="50" alt="Emperor Huizong of Song"> | [Emperor Huizong of Song](creators/huizong.md) | 1082 – 1135 | [Song academy & literati painting](movements/song-academy-literati.md) | 2 |
 |  | [Zhang Zeduan](creators/zhang-zeduan.md) | 1085 – 1145 | [Song academy & literati painting](movements/song-academy-literati.md) | 1 |
 |  | [Wang Ximeng](creators/wang-ximeng.md) | 1096 – c. 1119 | [Song academy & literati painting](movements/song-academy-literati.md) | 1 |
-|  | [Heian and Kamakura court painters](creators/yamato-e-painters.md) | c. 1100 – c. 1333 | [Yamato-e and narrative handscrolls](movements/yamato-e-emaki.md) | 4 |
+|  | [Yamato-e painters](creators/yamato-e-painters.md) | c. 1100 – c. 1333 | [Yamato-e and narrative handscrolls](movements/yamato-e-emaki.md) | 4 |
 |  | [Liang Kai](creators/liang-kai.md) | c. 1140 – c. 1210 | [Song academy & literati painting](movements/song-academy-literati.md) | 1 |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Unkei_Rokuharamitsuji.jpg/330px-Unkei_Rokuharamitsuji.jpg" width="50" alt="Unkei"> | [Unkei](creators/unkei.md) | c. 1150 – 1223 | [Yamato-e and narrative handscrolls](movements/yamato-e-emaki.md) | 2 |
 |  | [Ma Yuan](creators/ma-yuan.md) | c. 1160 – c. 1225 | [Song academy & literati painting](movements/song-academy-literati.md) | 2 |

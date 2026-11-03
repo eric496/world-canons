@@ -5,6 +5,7 @@
 **1397 – 1450** · Korean (Joseon)  
 Born: Hanseong (Seoul) · Died: Hanseong (Seoul)  
 Traditions & eras: [Joseon Veritable Records & court diaries](../movements/joseon-records.md)  
+Also in: [Music & Theatre](../../music/creators/sejong.md), [Science & Technology](../../science/creators/sejong.md)  
 
 > Fourth king of Joseon, who created the Korean alphabet and promulgated it in the Hunminjeongeum of 1446.
 

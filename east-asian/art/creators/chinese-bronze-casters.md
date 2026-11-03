@@ -5,6 +5,7 @@
 **c. 1600 BC – c. 221 BC** · Chinese  
 Born: Yellow River valley and Sichuan · Died: ?  
 Movements & schools: [Shang & Zhou ritual bronzes](../movements/shang-zhou-bronzes.md)  
+Also in: [Music & Theatre](../../music/creators/chinese-bronze-casters.md)  
 
 > The anonymous foundry workers of the Shang and Zhou dynasties, and of the Sanxingdui culture in Sichuan, who cast the ritual vessels, bells and figures of China's Bronze Age.
 

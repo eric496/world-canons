@@ -7,7 +7,8 @@ Each tradition is its own complete section. They share the same structure, so th
 | Tradition | Status |
 |---|---|
 | [**Western**](western/README.md) | 8 sections (art, architecture, philosophy, literature, music, religion, science, history), 648 people and 1,101 works, with 749 pictures of works and 430 portraits |
-| East Asian · South Asian · Islamic · Ancient Near East · African · Americas | Planned |
+| [**East Asian**](east-asian/README.md) | 8 sections across China, Japan and Korea: 494 people and 801 works, with 475 pictures of works and 188 portraits |
+| South Asian · Islamic · Ancient Near East · African · Americas | Planned |
 
 ## How it works
 

@@ -5,6 +5,7 @@
 **c. 400 BC – c. 50 BC** · Chinese  
 Born: China · Died: ?  
 Schools & eras: [Classical Confucianism](../movements/classical-confucianism.md)  
+Also in: [Religion](../../religion/creators/liji-compilers.md)  
 
 > The Confucian ritual specialists of the Warring States and Han whose essays were gathered into the Book of Rites, among them the Great Learning and the Doctrine of the Mean.
 

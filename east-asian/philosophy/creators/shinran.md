@@ -7,6 +7,7 @@
 **1173 – 1263** · Japanese  
 Born: Hino, near Kyoto · Died: Kyoto  
 Schools & eras: [Buddhist Scholastic Schools](../movements/buddhist-schools.md)  
+Also in: [Religion](../../religion/creators/shinran.md)  
 
 > Founder of the True Pure Land school, who taught that salvation comes entirely through Amida's 'other power' rather than one's own efforts.
 

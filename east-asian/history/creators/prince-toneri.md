@@ -7,6 +7,7 @@
 **676 – 735** · Japanese  
 Born: Asuka, Yamato · Died: Heijō-kyō (Nara)  
 Traditions & eras: [Ritsuryō codes & the Six National Histories](../movements/ritsuryo-histories.md)  
+Also in: [Religion](../../religion/creators/prince-toneri.md)  
 
 > Son of Emperor Tenmu who presided over the completion of the Nihon Shoki, Japan's first official history, in 720.
 

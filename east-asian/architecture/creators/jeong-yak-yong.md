@@ -5,7 +5,7 @@
 **1762 – 1836** · Korean (Joseon)  
 Born: Majae, Gwangju, Gyeonggi Province · Died: Majae, Gwangju, Gyeonggi Province  
 Styles & eras: [Joseon palaces & seowon](../movements/joseon-palaces-seowon.md)  
-Also in: [Philosophy](../../philosophy/creators/jeong-yak-yong.md)  
+Also in: [Philosophy](../../philosophy/creators/jeong-yak-yong.md), [Science & Technology](../../science/creators/jeong-yak-yong.md)  
 
 > Joseon Silhak scholar who designed the Hwaseong Fortress at Suwon for King Jeongjo, using cranes and pulleys of his own design.
 

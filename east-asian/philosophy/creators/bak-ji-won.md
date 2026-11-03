@@ -5,6 +5,7 @@
 **1737 – 1805** · Korean  
 Born: Hanyang (Seoul) · Died: Hanyang  
 Schools & eras: [Silhak (Practical Learning)](../movements/silhak.md)  
+Also in: [Literature](../../literature/creators/bak-ji-won.md)  
 
 > Writer of the Northern Learning school who urged Joseon to learn technology and commerce from Qing China, and satirised the yangban class.
 

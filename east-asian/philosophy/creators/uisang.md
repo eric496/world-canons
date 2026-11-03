@@ -7,6 +7,7 @@
 **625 – 702** · Korean  
 Born: Silla · Died: Silla  
 Schools & eras: [Buddhist Scholastic Schools](../movements/buddhist-schools.md)  
+Also in: [Religion](../../religion/creators/uisang.md)  
 
 > Founder of the Korean Hwaeom (Huayan) school, who condensed its vision of interpenetration into a single diagram-poem.
 

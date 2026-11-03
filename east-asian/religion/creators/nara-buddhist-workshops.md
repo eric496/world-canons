@@ -1,4 +1,4 @@
-# Nara Buddhist workshops
+# Asuka and Nara Buddhist workshops
 
 *奈良仏所*
 
@@ -26,7 +26,7 @@ Their works, including those preserved at Hōryū-ji, Tōdai-ji, Taima-dera and 
 - **Date:** 8th century (original); later copies
 - **Type:** Woven mandala of the Pure Land
 - **Where written / held:** Taima-dera, Nara Prefecture; copies in many collections
-- **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Taima%20Mandala%20Nara%20Buddhist%20workshops)
+- **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Taima%20Mandala%20Asuka%20and%20Nara%20Buddhist%20workshops)
 
 The original Taima Mandala, about four metres square and now badly damaged, is a tapestry probably woven in Tang China or by immigrant weavers in Japan in the eighth century. Its centre shows Amitābha's paradise with palaces, ponds and bodhisattvas; its borders depict Queen Vaidehī's story and the sixteen contemplations, following Shandao's reading of the sutra. In the medieval legend of Chūjōhime, a princess wove it with the help of Amida in a single night in 763. From the thirteenth century Pure Land preachers, especially of the Seizan branch, circulated painted copies and used them in sermons, so it became one of the most reproduced images of Japanese Buddhism.
 

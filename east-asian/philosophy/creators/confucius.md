@@ -7,6 +7,7 @@
 **551 BC – 479 BC** · Chinese  
 Born: Zou, State of Lu (near Qufu, Shandong) · Died: Lu  
 Schools & eras: [Classical Confucianism](../movements/classical-confucianism.md)  
+Also in: [Religion](../../religion/creators/confucius.md)  
 
 > Teacher and would-be statesman of the state of Lu whose sayings, collected by his disciples as the Analects, became the foundation of East Asian ethics and education.
 

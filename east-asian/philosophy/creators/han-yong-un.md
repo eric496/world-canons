@@ -5,6 +5,7 @@
 **1879 – 1944** · Korean  
 Born: Hongseong, Chungcheong · Died: Seoul  
 Schools & eras: [Reform & Enlightenment](../movements/modern-reform.md)  
+Also in: [Literature](../../literature/creators/han-yong-un.md), [Religion](../../religion/creators/han-yong-un.md)  
 
 > Buddhist monk, reformer and poet, a signer of the 1919 Declaration of Independence, who called for a modern, socially engaged Korean Buddhism.
 

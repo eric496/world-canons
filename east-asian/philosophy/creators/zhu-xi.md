@@ -7,6 +7,7 @@
 **1130 – 1200** · Chinese  
 Born: Youxi, Fujian · Died: Jianyang, Fujian  
 Schools & eras: [Neo-Confucianism: Cheng–Zhu School](../movements/cheng-zhu.md)  
+Also in: [History](../../history/creators/zhu-xi.md)  
 
 > The great synthesiser of Neo-Confucianism, whose commentaries on the Four Books were the basis of East Asian education and examinations for six centuries.
 

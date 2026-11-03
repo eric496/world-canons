@@ -7,6 +7,7 @@
 **774 – 835** · Japanese  
 Born: Byōbugaura, Sanuki (Shikoku) · Died: Mount Kōya  
 Schools & eras: [Buddhist Scholastic Schools](../movements/buddhist-schools.md)  
+Also in: [Religion](../../religion/creators/kukai.md)  
 
 > Founder of Japanese Shingon Buddhism, poet, calligrapher and the first systematic Japanese philosopher.
 

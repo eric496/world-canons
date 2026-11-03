@@ -7,6 +7,7 @@
 **traditionally 6th century BC** · Chinese  
 Born: traditionally Chu · Died: ?  
 Schools & eras: [Classical Daoism](../movements/classical-daoism.md)  
+Also in: [Religion](../../religion/creators/laozi.md)  
 
 > The legendary sage to whom the Daodejing is attributed. Whether he was a single historical person, and when he lived, has been debated since antiquity.
 

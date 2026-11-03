@@ -7,6 +7,7 @@
 **638 – 713** · Chinese  
 Born: Xinzhou (Guangdong) · Died: Caoxi, Shaozhou  
 Schools & eras: [Chan, Seon & Zen](../movements/chan-zen.md)  
+Also in: [Religion](../../religion/creators/huineng.md)  
 
 > The Sixth Patriarch of Chan, hero of the Platform Sutra and the doctrine of sudden awakening; how much of his story is history is debated.
 

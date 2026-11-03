@@ -5,6 +5,7 @@
 **617 – 686** · Korean  
 Born: Amnyang, Silla · Died: Hyeolsa, Silla  
 Schools & eras: [Buddhist Scholastic Schools](../movements/buddhist-schools.md)  
+Also in: [Religion](../../religion/creators/wonhyo.md)  
 
 > Silla monk and the most prolific Buddhist writer of Korea, who sought to harmonise the disputes between doctrinal schools.
 

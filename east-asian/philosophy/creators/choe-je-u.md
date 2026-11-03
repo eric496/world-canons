@@ -5,6 +5,7 @@
 **1824 – 1864** · Korean  
 Born: Gyeongju · Died: Daegu  
 Schools & eras: [Reform & Enlightenment](../movements/modern-reform.md)  
+Also in: [Religion](../../religion/creators/choe-je-u.md)  
 
 > Founder of Donghak ('Eastern Learning'), which taught that Heaven dwells in every person and later inspired the peasant revolution of 1894.
 

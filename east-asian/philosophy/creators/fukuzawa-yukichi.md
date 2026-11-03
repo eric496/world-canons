@@ -5,6 +5,7 @@
 **1835 – 1901** · Japanese  
 Born: Osaka · Died: Tokyo  
 Schools & eras: [Reform & Enlightenment](../movements/modern-reform.md)  
+Also in: [History](../../history/creators/fukuzawa-yukichi.md)  
 
 > The leading advocate of Western learning in Meiji Japan, founder of Keiō University, whose books preached individual independence and civilisation.
 

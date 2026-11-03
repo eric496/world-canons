@@ -5,6 +5,7 @@
 **538 – 597** · Chinese  
 Born: Huarong, Jingzhou (Hunan) · Died: Mount Tiantai  
 Schools & eras: [Buddhist Scholastic Schools](../movements/buddhist-schools.md)  
+Also in: [Religion](../../religion/creators/zhiyi.md)  
 
 > Founder in all but name of the Tiantai school, who organised the whole of Buddhist teaching around the Lotus Sutra and a doctrine of threefold truth.
 

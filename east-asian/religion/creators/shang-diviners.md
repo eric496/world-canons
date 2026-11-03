@@ -5,6 +5,7 @@
 **c. 1250 BC – c. 1046 BC** · Chinese  
 Born: Anyang, Henan · Died: Anyang, Henan  
 Traditions & eras: [Shang and Zhou religion](../movements/shang-zhou-religion.md)  
+Also in: [Science & Technology](../../science/creators/shang-diviners.md)  
 
 > The diviners of the late Shang court, whose questions to the ancestors and spirits, carved on bone and shell, are the oldest Chinese writing.
 

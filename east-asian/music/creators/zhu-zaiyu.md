@@ -5,6 +5,7 @@
 **1536 – 1611** · Chinese  
 Born: Huaiqing (Henan) · Died:   
 Genres & eras: [The guqin tradition](../movements/guqin-tradition.md)  
+Also in: [Science & Technology](../../science/creators/zhu-zaiyu.md)  
 
 > Ming prince and mathematician who first published an exact calculation of twelve-tone equal temperament.
 

@@ -7,6 +7,7 @@
 **1552 – 1610** · Italian  
 Born: Macerata, Papal States · Died: Beijing  
 Traditions & eras: [Christianity in East Asia](../movements/christianity-east-asia.md)  
+Also in: [Science & Technology](../../science/creators/matteo-ricci.md)  
 
 > Jesuit missionary who adopted the dress and learning of a Confucian scholar and presented Christianity to Ming China in Chinese terms.
 

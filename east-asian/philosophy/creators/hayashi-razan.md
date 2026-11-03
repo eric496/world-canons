@@ -7,6 +7,7 @@
 **1583 – 1657** · Japanese  
 Born: Kyoto · Died: Edo  
 Schools & eras: [Edo Confucianism](../movements/edo-confucianism.md)  
+Also in: [History](../../history/creators/hayashi-razan.md)  
 
 > Confucian adviser to the first four Tokugawa shoguns, who established Zhu Xi learning as the shogunate's official scholarship.
 

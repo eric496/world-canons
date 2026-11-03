@@ -7,6 +7,7 @@
 **768 – 824** · Chinese  
 Born: Heyang, Henan · Died: Chang'an  
 Schools & eras: [Neo-Confucianism: Cheng–Zhu School](../movements/cheng-zhu.md)  
+Also in: [Literature](../../literature/creators/han-yu.md)  
 
 > Tang essayist and official whose defence of the Confucian Way against Buddhism and Daoism made him the forerunner of Neo-Confucianism.
 

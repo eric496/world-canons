@@ -7,6 +7,7 @@
 **643 – 712** · Chinese  
 Born: Chang'an · Died: Chang'an  
 Schools & eras: [Buddhist Scholastic Schools](../movements/buddhist-schools.md)  
+Also in: [Religion](../../religion/creators/fazang.md)  
 
 > Third patriarch and chief systematiser of the Huayan school, famous for explaining interdependence to Empress Wu with a golden lion.
 

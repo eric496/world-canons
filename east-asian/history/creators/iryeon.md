@@ -5,6 +5,7 @@
 **1206 – 1289** · Korean (Goryeo)  
 Born: Jangsan (Gyeongsan, North Gyeongsang) · Died: Ingaksa, Gunwi (North Gyeongsang)  
 Traditions & eras: [Three Kingdoms & Goryeo histories](../movements/korean-dynastic-histories.md)  
+Also in: [Religion](../../religion/creators/iryeon.md)  
 
 > Seon Buddhist master of the Goryeo period who compiled the Memorabilia of the Three Kingdoms (Samguk yusa).
 
