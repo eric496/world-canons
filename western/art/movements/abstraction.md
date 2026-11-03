@@ -13,10 +13,10 @@ Art without recognisable subject matter: Kandinsky's spiritual colour music and 
 ## Artists
 
 -  [Wassily Kandinsky](../creators/kandinsky.md) (1866 – 1944)
--  [Piet Mondrian](../creators/mondrian.md) (1872 – 1944)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Mondrian_Zelfportret_1918.jpg" width="40" alt="Piet Mondrian"> [Piet Mondrian](../creators/mondrian.md) (1872 – 1944)
 -  [Constantin Brâncuși](../creators/brancusi.md) (1876 – 1957)
--  [Paul Klee](../creators/klee.md) (1879 – 1940)
--  [Kazimir Malevich](../creators/malevich.md) (1879 – 1935)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Paul_Klee_Self_Portrait_1911.jpg" width="40" alt="Paul Klee"> [Paul Klee](../creators/klee.md) (1879 – 1940)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Self-portrait_%28Malevich%2C_1933%29.jpg" width="40" alt="Kazimir Malevich"> [Kazimir Malevich](../creators/malevich.md) (1879 – 1935)
 
 ## Key artworks
 

@@ -1,10 +1,14 @@
 # Franz Marc
 
+<a href="https://commons.wikimedia.org/wiki/File:Macke_bildnis-franz-marc.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Macke_bildnis-franz-marc.jpg/330px-Macke_bildnis-franz-marc.jpg" alt="Franz Marc" title="Portrait by August Macke, 1910"></a>
+
 **1880 – 1916** · German  
 Born: Munich · Died: near Verdun, France  
 Movements: [Fauvism & Expressionism](../movements/fauvism-expressionism.md)  
 
 > Co-founder of Der Blaue Reiter who painted animals in symbolic colours. He was killed in the First World War.
+
+<sub>Portrait: Portrait by August Macke, 1910 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Macke_bildnis-franz-marc.jpg)</sub>
 
 ## Biography
 

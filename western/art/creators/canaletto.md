@@ -1,10 +1,14 @@
 # Canaletto
 
+<a href="https://commons.wikimedia.org/wiki/File:Antonio_Visentini_-_Portrait_of_Giovanni_Antonio_Canal%2C_called_Canaletto_-_WGA25132.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Antonio_Visentini_-_Portrait_of_Giovanni_Antonio_Canal%2C_called_Canaletto_-_WGA25132.jpg" alt="Canaletto" title="Portrait by Antonio Visentini"></a>
+
 **1697 – 1768** · Italian  
 Born: Venice · Died: Venice  
 Movements: [Rococo](../movements/rococo.md)  
 
 > The master of the Venetian veduta (city view), hugely popular with British Grand Tour travellers.
+
+<sub>Portrait: Portrait by Antonio Visentini · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Antonio_Visentini_-_Portrait_of_Giovanni_Antonio_Canal%2C_called_Canaletto_-_WGA25132.jpg)</sub>
 
 ## Biography
 

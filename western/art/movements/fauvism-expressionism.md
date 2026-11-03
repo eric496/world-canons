@@ -12,14 +12,14 @@ Colour is freed from description and used for emotional and decorative force.
 
 ## Artists
 
--  [Edvard Munch](../creators/munch.md) (1863 – 1944)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Edvard_Munch_-_Self-Portrait_with_Cigarette_-_NG.M.00470_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/330px-Edvard_Munch_-_Self-Portrait_with_Cigarette_-_NG.M.00470_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg" width="40" alt="Edvard Munch"> [Edvard Munch](../creators/munch.md) (1863 – 1944)
 -  [Wassily Kandinsky](../creators/kandinsky.md) (1866 – 1944)
 -  [Henri Matisse](../creators/matisse.md) (1869 – 1954)
--  [Paul Klee](../creators/klee.md) (1879 – 1940)
--  [Ernst Ludwig Kirchner](../creators/kirchner.md) (1880 – 1938)
--  [Franz Marc](../creators/marc.md) (1880 – 1916)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Paul_Klee_Self_Portrait_1911.jpg" width="40" alt="Paul Klee"> [Paul Klee](../creators/klee.md) (1879 – 1940)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kirchner_-_Self_Portrait_as_a_Soldier_%281915%29.jpg/330px-Kirchner_-_Self_Portrait_as_a_Soldier_%281915%29.jpg" width="40" alt="Ernst Ludwig Kirchner"> [Ernst Ludwig Kirchner](../creators/kirchner.md) (1880 – 1938)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Macke_bildnis-franz-marc.jpg/330px-Macke_bildnis-franz-marc.jpg" width="40" alt="Franz Marc"> [Franz Marc](../creators/marc.md) (1880 – 1916)
 -  [Amedeo Modigliani](../creators/modigliani.md) (1884 – 1920)
--  [Egon Schiele](../creators/schiele.md) (1890 – 1918)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Egon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg/330px-Egon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg" width="40" alt="Egon Schiele"> [Egon Schiele](../creators/schiele.md) (1890 – 1918)
 
 ## Key artworks
 

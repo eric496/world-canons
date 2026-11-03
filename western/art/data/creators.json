@@ -14,7 +14,9 @@
   "bio_full": [
    "Giotto di Bondone was born around 1267 in the Mugello valley near Florence, probably at Colle di Vespignano. According to a famous legend told by Vasari, the painter Cimabue discovered him as a shepherd boy drawing his sheep on a rock and took him on as a pupil. Giotto worked across Italy: in Rome, in Assisi, where the fresco cycle of the life of St Francis in the Upper Church is traditionally but debatably attributed to him, in Padua, Naples and Milan. His greatest surviving work is the fresco cycle of the Scrovegni Chapel in Padua (around 1305). Late in life he was appointed chief architect of Florence Cathedral and designed its bell tower, still known as Giotto's Campanile. He died in Florence in 1337.",
    "Giotto broke with the flat, stylised conventions of Byzantine painting. He gave his figures real weight and volume, placed them in believable spaces, and showed human emotion with a new directness and dignity, so that sacred stories became human dramas. Dante, Petrarch and Boccaccio praised him in his own time, and Renaissance writers saw him as the artist who began the revival of painting. He is often called the father of Western painting."
-  ]
+  ],
+  "portrait_file": "007 le vite, giotto.jpg",
+  "portrait_caption": "Woodcut portrait from Vasari's Lives of the Artists, 1568"
  },
  {
   "id": "donatello",
@@ -88,7 +90,9 @@
   "bio_full": [
    "Jheronimus van Aken took the name Bosch from his home town of 's-Hertogenbosch in the Duchy of Brabant, where his family were painters and where he spent almost his whole life. Few documents about him survive. We know that he married into a wealthy family and was a prominent member of the religious Brotherhood of Our Lady, and that his patrons included the Burgundian and Habsburg nobility. Only around 25 paintings are firmly attributed to him today.",
    "Bosch painted moral and religious allegories crowded with tiny figures, hybrid monsters, strange architecture and burning landscapes, warning of sin, folly and damnation. His meaning has been debated for centuries, with readings ranging from orthodox sermon to secret heresy. Philip II of Spain was an avid collector, which is why the Prado holds many of his greatest works. His teeming imagination influenced Bruegel and, centuries later, was claimed by the Surrealists."
-  ]
+  ],
+  "portrait_file": "Hieronymus Bosch by Cornelis Cort.jpg",
+  "portrait_caption": "Engraved portrait by Cornelis Cort, from Lampsonius's Pictorum aliquot celebrium Germaniae inferioris effigies, 1572"
  },
  {
   "id": "durer",
@@ -448,7 +452,9 @@
   "bio_full": [
    "Jean-Auguste-Dominique Ingres was born in Montauban, the son of a decorative artist, and showed early talent for both drawing and the violin. He trained in David's studio in Paris and won the Prix de Rome in 1801. He spent the years 1806–24 in Rome and Florence, often supporting himself by making exquisite portrait drawings of tourists. His Vow of Louis XIII at the Salon of 1824 made him the champion of the classical tradition against Delacroix's Romanticism. He later directed the French Academy in Rome and continued to paint into his eighties, finishing The Turkish Bath in 1862.",
    "Ingres declared that 'drawing is the probity of art'. His paintings are defined by pure, flowing contour, smooth surfaces and an ideal beauty derived from Raphael and Greek vases, yet he often bent anatomy for the sake of graceful line. His portraits, such as Monsieur Bertin and Madame Moitessier, are among the most compelling of the 19th century. His mix of classicism and sensual distortion influenced Degas, Matisse and Picasso. In French, 'violon d'Ingres' means a hobby, after his love of the violin."
-  ]
+  ],
+  "portrait_file": "Jean-Auguste-Dominique Ingres - Autoportrait à vingt-quatre ans - Google Art Project.jpg",
+  "portrait_caption": "Self-portrait at Age 24, 1804, reworked later"
  },
  {
   "id": "goya",
@@ -560,7 +566,9 @@
   "bio_full": [
    "Eugène Delacroix was born at Charenton-Saint-Maurice near Paris. Rumours have long suggested that the statesman Talleyrand was his real father. He trained with Pierre-Narcisse Guérin, studied Rubens and Venetian painters in the Louvre, and was profoundly influenced by Géricault. The Barque of Dante (1822), The Massacre at Chios (1824) and The Death of Sardanapalus (1827) made him the leader of the Romantic school. A journey to Morocco and Algeria in 1832 gave him a lifelong store of exotic subjects. He also painted vast decorative schemes in the Palais Bourbon, the Louvre and the church of Saint-Sulpice, and kept a celebrated journal.",
    "Delacroix championed colour, movement and passionate feeling over the line-based classicism of Ingres. He was a master of vibrant juxtaposed colours that intensify each other, a lesson taken up by the Impressionists and Post-Impressionists, and his subjects came from literature, history, politics and the 'Orient'. Baudelaire praised him as the greatest painter of the age. Cézanne, Van Gogh and Matisse all acknowledged his influence."
-  ]
+  ],
+  "portrait_file": "Autoportrait - Eugène Delacroix - Musée du Louvre Peintures RF 25.jpg",
+  "portrait_caption": "Self-portrait, c. 1837"
  },
  {
   "id": "millet",
@@ -577,7 +585,9 @@
   "bio_full": [
    "Jean-François Millet was born into a peasant farming family in the hamlet of Gruchy on the Normandy coast. He studied in Cherbourg and in Paris with Paul Delaroche, and supported himself for years with portraits and small pastoral pictures. In 1849, fleeing revolution and cholera in Paris, he settled in the village of Barbizon on the edge of the Forest of Fontainebleau, where he lived for the rest of his life among a group of landscape painters. The Sower (1850) and The Angelus (1857–59) made his name, and he was awarded the Legion of Honour in 1868.",
    "Millet depicted the labour of French peasants, sowing, reaping, gleaning and digging, with monumental, almost biblical dignity, simplified forms and earthy colour. Conservative critics accused him of socialism, while others saw his work as deeply religious. The Angelus became one of the most famous paintings in France and later obsessed Salvador Dalí. Van Gogh revered Millet and made many copies after his compositions."
-  ]
+  ],
+  "portrait_file": "Jean-François Millet. Auto-retrato.jpg",
+  "portrait_caption": "Self-portrait"
  },
  {
   "id": "courbet",
@@ -594,7 +604,9 @@
   "bio_full": [
    "Gustave Courbet was born in Ornans in the Jura region to a prosperous farming family. He moved to Paris in 1839 and taught himself mostly by copying in the Louvre. After Dinner at Ornans won him a medal in 1849, and then The Stone Breakers (destroyed in 1945), A Burial at Ornans and other large paintings of rural life caused scandal at the Salon. When the 1855 World's Fair rejected some of his works, he built his own 'Pavilion of Realism' nearby and issued a Realist manifesto. A committed republican, he took part in the Paris Commune of 1871, was blamed for the toppling of the Vendôme Column, and was imprisoned and later ordered to pay for its reconstruction. He fled to Switzerland in 1873 and died in exile in 1877.",
    "Courbet declared that painting should depict only 'real and existing things', and he refused to paint angels because he had never seen one. He gave peasants, labourers and provincial townspeople the monumental scale once reserved for history painting. He worked with thick paint, often applied with a palette knife, and painted landscapes, seascapes, hunting scenes and provocative nudes, including The Origin of the World (1866). He was a key precursor of Manet and modern art."
-  ]
+  ],
+  "portrait_file": "Gustave Courbet - Le Désespéré (1843).jpg",
+  "portrait_caption": "The Desperate Man (self-portrait), c. 1843–45"
  },
  {
   "id": "manet",
@@ -612,7 +624,9 @@
   "bio_full": [
    "Édouard Manet was born in Paris to a wealthy family; his father was a senior magistrate. After failing to enter the naval academy and sailing as a trainee to Rio de Janeiro, he studied for six years with the academic painter Thomas Couture. He admired Velázquez, Goya and Hals, and his early works show Spanish influence. Le Déjeuner sur l'herbe (1863) and Olympia (1865) caused huge scandals and made him the reluctant leader of young avant-garde painters who met at the Café Guerbois. Yet he never exhibited at the Impressionists' independent exhibitions, still hoping for official success at the Salon. He was a friend of Baudelaire, Zola and Mallarmé. His health declined from the effects of syphilis, and he died in 1883 at 51, shortly after a leg amputation.",
    "Manet painted modern Paris life, its cafés, boulevards, racecourses and people, with flat areas of colour, strong contrasts, little traditional modelling and bold black, often reworking old-master compositions in contemporary dress. His frankness and his emphasis on the painted surface broke with academic tradition and are seen as the starting point of modern painting. His sister-in-law was the Impressionist Berthe Morisot."
-  ]
+  ],
+  "portrait_file": "Henri Fantin-Latour - Édouard Manet - 1905.207 - Art Institute of Chicago.jpg",
+  "portrait_caption": "Portrait by Henri Fantin-Latour, 1867"
  },
  {
   "id": "degas",
@@ -648,7 +662,9 @@
   "bio_full": [
    "Claude Monet was born in Paris and grew up in Le Havre, where he made a name drawing caricatures. The landscape painter Eugène Boudin introduced him to painting outdoors. In Paris he met Renoir, Sisley and Bazille in Charles Gleyre's studio, and the friends developed painting directly from nature. He endured years of poverty with his companion and later wife Camille Doncieux, who died in 1879. He spent 1870–71 in London and then lived at Argenteuil on the Seine. He helped organise the first independent group exhibition in 1874, which gave Impressionism its name. From 1883 he lived at Giverny, where he created a flower garden and a water garden with a Japanese bridge. He married Alice Hoschedé in 1892.",
    "Monet devoted his life to capturing fleeting light and atmosphere. From the 1890s he painted series of the same motif at different times of day and seasons, including Haystacks, Poplars, Rouen Cathedral, the Houses of Parliament in London and his water lilies. Despite cataracts, which were operated on in 1923, he worked on huge water lily paintings until his death in 1926, and these were later seen as forerunners of abstract art."
-  ]
+  ],
+  "portrait_file": "Self-portrait-with-a-beret-1886.jpg!Large.jpg",
+  "portrait_caption": "Self-Portrait with a Beret, 1886"
  },
  {
   "id": "renoir",
@@ -665,7 +681,9 @@
   "bio_full": [
    "Pierre-Auguste Renoir was born in Limoges to a working-class family who moved to Paris. As a teenager he was an apprentice painter of porcelain. He studied in Gleyre's studio, where he befriended Monet, and the two painted side by side at the bathing spot of La Grenouillère in 1869. He exhibited at the early Impressionist shows and found patrons such as the publisher Georges Charpentier. After a trip to Italy in 1881 he turned to a harder, more linear style inspired by Raphael and Ingres, and later to warm, rounded figures. He married Aline Charigot in 1890. One son, Jean Renoir, became a great film director. Despite severe rheumatoid arthritis, he continued to paint into old age at Cagnes-sur-Mer, where he died in 1919.",
    "Renoir is the painter of the joyful side of Impressionism: Parisians dancing, boating, picnicking and chatting in dappled sunlight, children, flowers and voluptuous nudes. He painted with soft, feathery brushwork and warm iridescent colour. In his last years he also made sculptures with the help of an assistant."
-  ]
+  ],
+  "portrait_file": "Bazille, Frédéric ~ Portrait of Renoir, 1867, oil on canvas.jpg",
+  "portrait_caption": "Portrait by Frédéric Bazille, 1867"
  },
  {
   "id": "morisot",
@@ -682,7 +700,9 @@
   "bio_full": [
    "Berthe Morisot was born in Bourges, the daughter of a senior government official, and grew up in Paris. Women were not admitted to the École des Beaux-Arts, so she and her sister Edma studied privately, copying in the Louvre and learning from Camille Corot. She met Édouard Manet in 1868 and posed for several of his paintings, including The Balcony. In 1874 she married Manet's brother Eugène, and she exhibited at the first Impressionist exhibition the same year. She showed at all but one of the eight exhibitions, missing only the year her daughter Julie was born. She died in 1895, aged 54, of pneumonia caught while nursing Julie.",
    "Morisot painted the private world she knew: mothers and children, women dressing, reading and resting, gardens and seaside scenes. She worked with rapid, feathery, almost abstract brushstrokes and luminous whites, and her technique was among the most radical of the group. Long overshadowed by her male colleagues, she is now recognised as one of the core members of Impressionism."
-  ]
+  ],
+  "portrait_file": "Edouard Manet - Berthe Morisot With a Bouquet of Violets - Google Art Project.jpg",
+  "portrait_caption": "Berthe Morisot with a Bouquet of Violets, by Édouard Manet, 1872"
  },
  {
   "id": "rodin",
@@ -699,7 +719,9 @@
   "bio_full": [
    "Auguste Rodin was born in Paris to a working-class family. He failed three times to enter the École des Beaux-Arts and spent years as a decorative craftsman, including six years in Belgium. A trip to Italy in 1875 to see Michelangelo transformed him. His first major statue, The Age of Bronze (1877), was so lifelike that critics accused him of casting it from a living model. In 1880 he was commissioned to make a monumental portal, The Gates of Hell, based on Dante. He worked on it for the rest of his life and generated many of his independent sculptures from it. His other major works include The Burghers of Calais and the Monument to Balzac, which was rejected by its commissioners in 1898. His pupil and lover Camille Claudel was a brilliant sculptor in her own right. He donated his works to the state, and his Paris residence, the Hôtel Biron, opened as the Musée Rodin in 1919.",
    "Rodin is considered the father of modern sculpture. He modelled clay with rough, expressive, light-catching surfaces, made fragments and partial figures into finished works, and reused and recombined forms. His sculptures convey intense inner emotion and physical energy, and his influence on Brâncuși, Matisse and later sculptors was enormous."
-  ]
+  ],
+  "portrait_file": "Camille Claudel.- Buste de Rodin..jpg",
+  "portrait_caption": "Bust by Camille Claudel, 1888–89"
  },
  {
   "id": "cezanne",
@@ -716,7 +738,9 @@
   "bio_full": [
    "Paul Cézanne was born in Aix-en-Provence, the son of a prosperous banker. At school he became close friends with the future novelist Émile Zola, who encouraged him to go to Paris in 1861. His early works are dark and violent, and they were repeatedly rejected by the Salon. Under Pissarro's guidance in Pontoise in the early 1870s he brightened his palette and showed at the first and third Impressionist exhibitions. He then withdrew increasingly to Provence. His friendship with Zola ended in 1886 after Zola's novel L'Œuvre portrayed a failed painter apparently modelled on him. In 1895 the dealer Ambroise Vollard gave him his first solo exhibition, and young artists began to make pilgrimages to Aix. He died in 1906 after being caught in a storm while painting outdoors.",
    "Cézanne aimed to 'make of Impressionism something solid and durable, like the art of the museums'. He built his paintings from patches of colour that model form, combined multiple viewpoints in a single image, and simplified nature into geometric structures. In a letter he advised treating nature through 'the cylinder, the sphere, the cone'. His still lifes, portraits, bathers and landscapes of Provence paved the way for Cubism and abstraction. Picasso and Matisse both called him 'the father of us all'."
-  ]
+  ],
+  "portrait_file": "Autoportrait au béret, par Paul Cézanne.jpg",
+  "portrait_caption": "Self-Portrait with a Beret, c. 1898–1900"
  },
  {
   "id": "gauguin",
@@ -734,7 +758,9 @@
   "bio_full": [
    "Paul Gauguin was born in Paris and spent part of his childhood in Lima, Peru, with his mother's family. After serving in the merchant navy and the navy, he became a successful stockbroker, married the Danish Mette Gad and had five children. He collected Impressionist paintings and began painting as an amateur under Pissarro, exhibiting in the Impressionist shows. After the stock market crash of 1882 he decided to paint full time, and his family life collapsed. He worked in Brittany at Pont-Aven, in Martinique and, briefly and disastrously, with Van Gogh in Arles in 1888. In search of an unspoiled 'primitive' paradise he went to Tahiti in 1891, returned to France, and left again in 1895. He spent his last years in the Marquesas Islands, where he died in 1903, in conflict with the colonial authorities and the Church.",
    "Gauguin developed a style of flat areas of bold, non-naturalistic colour enclosed by dark outlines, influenced by Japanese prints, stained glass and folk art. His aim was to express ideas, emotions and spiritual meaning rather than to record appearances. He was also an innovative woodcut artist and sculptor and a crucial influence on the Nabis, Fauvism and Expressionism. Today his colonial fantasy and his sexual relationships with very young Tahitian girls are the subject of critical debate, often discussed alongside his art."
-  ]
+  ],
+  "portrait_file": "Paul Gauguin - Self-Portrait with Halo and Snake.jpg",
+  "portrait_caption": "Self-Portrait with Halo and Snake, 1889"
  },
  {
   "id": "van-gogh",
@@ -770,7 +796,9 @@
   "bio_full": [
    "Georges Seurat was born in Paris to a well-off family. He studied at the École des Beaux-Arts with Henri Lehmann, a pupil of Ingres, and absorbed scientific theories of colour by Michel-Eugène Chevreul and Ogden Rood. He also made remarkable velvety drawings in black conté crayon. When the Salon rejected his Bathers at Asnières in 1884, he helped found the Society of Independent Artists. He showed A Sunday on La Grande Jatte at the last Impressionist exhibition in 1886, where the critic Félix Fénéon coined the term Neo-Impressionism. With Paul Signac he led a group of followers. He died suddenly in 1891, aged 31, probably of an infection, leaving a secret partner, Madeleine Knobloch, and their infant son.",
    "Seurat developed a technique, later called Pointillism or Divisionism, of placing small dots or strokes of pure colour side by side so that they would mix in the viewer's eye, aiming at greater luminosity than mixed paint. His carefully planned, almost geometric compositions and stiff, stylised figures brought order and science to Impressionism's spontaneity, and they influenced Fauvism, Futurism and abstract art."
-  ]
+  ],
+  "portrait_file": "Ernest Laurent Seurat 1883.jpg",
+  "portrait_caption": "Portrait drawing by Ernest Laurent, 1883"
  },
  {
   "id": "klimt",
@@ -805,7 +833,9 @@
   "bio_full": [
    "Edvard Munch was born in Løten, Norway, and grew up in Kristiania (now Oslo), the son of a devout army doctor. His mother died of tuberculosis when he was five, and his favourite sister Sophie when he was 13, and illness, death and anxiety haunted his work. He joined the bohemian circle of Kristiania, studied in Paris, and in 1892 an exhibition of his work in Berlin was closed after a scandal, which made him famous in Germany. In the 1890s he developed his cycle of paintings The Frieze of Life, on love, anxiety and death. After a breakdown in 1908 and treatment in a Copenhagen clinic, his art became brighter. He painted murals for the Oslo University aula and lived at Ekely outside Oslo. The Nazis declared his work 'degenerate'. He died in January 1944 and left his remaining works to the city of Oslo, now in the Munch Museum.",
    "Munch used simplified, flowing forms, symbolic colour and expressive distortion to depict inner psychological states. He was also a hugely innovative printmaker in woodcut and lithography. A crucial bridge between Symbolism and Expressionism, he is Norway's most famous artist."
-  ]
+  ],
+  "portrait_file": "Edvard Munch - Self-Portrait with Cigarette - NG.M.00470 - National Museum of Art, Architecture and Design.jpg",
+  "portrait_caption": "Self-Portrait with Cigarette, 1895"
  },
  {
   "id": "matisse",
@@ -891,7 +921,9 @@
   "bio_full": [
    "Piet Mondriaan (later Mondrian) was born in Amersfoort to a strict Calvinist family and trained at the Amsterdam Academy, first painting landscapes in the tradition of the Hague School. He was drawn to Theosophy and its search for universal spiritual truths. Moving to Paris in 1911, he discovered Cubism, and his series of trees became increasingly abstract. Trapped in the Netherlands during the First World War, he co-founded the movement and magazine De Stijl ('The Style') with Theo van Doesburg in 1917. He split from van Doesburg in the 1920s, reportedly over the use of diagonals. He lived in Paris until 1938, then London, and from 1940 New York, where he died in 1944.",
    "From around 1920 Mondrian developed what he called Neoplasticism: a pure, universal art reduced to straight horizontal and vertical lines, the three primary colours and the non-colours black, white and grey, in perfect asymmetrical balance. He believed this abstract harmony could point the way to a harmonious society. His style has had an enormous influence on architecture, graphic design, fashion and furniture design."
-  ]
+  ],
+  "portrait_file": "Mondrian Zelfportret 1918.jpg",
+  "portrait_caption": "Self-portrait, 1918"
  },
  {
   "id": "duchamp",
@@ -1151,7 +1183,9 @@
   "bio_full": [
    "Cenni di Pepo, called Cimabue, was born in Florence around 1240 and is the earliest Florentine painter whose name is attached to major surviving works. He worked in Rome, at Assisi (where he painted frescoes in the Upper Church of San Francesco) and in Pisa, where he made the mosaic of St John in the cathedral apse shortly before his death. Tradition, followed by Vasari, makes him Giotto's teacher.",
    "Cimabue still worked within the Byzantine 'Greek manner', with gold grounds and stylised drapery. He gave it new weight, emotion and a sense of real space, so his figures begin to feel like bodies rather than icons. Dante paid him an ambiguous tribute in Purgatory: 'Cimabue thought he held the field in painting, and now Giotto has the cry.' His great painted Crucifix in Santa Croce, badly damaged in the 1966 Florence flood, became a symbol of the city's lost heritage."
-  ]
+  ],
+  "portrait_file": "001 le vite, cimabue.jpg",
+  "portrait_caption": "Woodcut portrait from Vasari's Lives of the Artists, 1568"
  },
  {
   "id": "duccio",
@@ -1185,7 +1219,9 @@
   "bio_full": [
    "Lorenzo Ghiberti trained as a goldsmith. In 1401, at about 23, he won the competition to make the second set of bronze doors for the Florence Baptistery, beating Filippo Brunelleschi among others. Both trial panels, showing the Sacrifice of Isaac, survive in the Bargello. The doors with 28 scenes took him until 1424. He then spent most of the next three decades on a second pair, which Michelangelo reputedly called worthy to be the Gates of Paradise.",
    "Ghiberti's workshop was a training ground for the next generation, including Donatello, Michelozzo and Paolo Uccello. He also wrote the Commentarii, which contains the first autobiography by a European artist and an early history of Italian art. His work bridges the graceful International Gothic style and the new Renaissance interest in perspective, classical architecture and the nude."
-  ]
+  ],
+  "portrait_file": "Lorenzo Ghiberti's Self Portrait-The Gates of Paradise - Original-Museo dell'Opera del Duomo.jpg",
+  "portrait_caption": "Self-portrait head on the Gates of Paradise, Florence"
  },
  {
   "id": "brunelleschi",
@@ -1240,7 +1276,9 @@
   "bio_full": [
    "Born Guido di Pietro in the Mugello near Florence, he became a Dominican friar at Fiesole in the 1420s, taking the name Fra Giovanni. He was soon called 'Angelico' for the devotion of his painting and his life, and he was officially beatified by Pope John Paul II in 1982. When Cosimo de' Medici paid for the rebuilding of the convent of San Marco in Florence, Fra Angelico and his assistants frescoed the chapter house, corridors and the friars' cells. He later worked in Rome for Popes Eugenius IV and Nicholas V and decorated the Niccoline Chapel in the Vatican.",
    "Fra Angelico combined the new Renaissance tools of perspective, solid figures and real light with a serene, luminous colour and clarity suited to prayer. The cell frescoes at San Marco are deliberately sparse so they could aid a friar's meditation, but his altarpieces are rich with gold and colour. He was one of the most admired painters in Italy in his lifetime."
-  ]
+  ],
+  "portrait_file": "Luca signorelli, cappella di san brizio, predica e punizione dell'anticristo 03 signorelli e angelico.jpg",
+  "portrait_caption": "Fra Angelico and Luca Signorelli as painted by Signorelli in Orvieto Cathedral, c. 1500"
  },
  {
   "id": "piero",
@@ -1503,7 +1541,9 @@
   "bio_full": [
    "Giovanni Antonio Canal, called Canaletto ('little canal'), was the son of a Venetian theatrical scene painter and began his career painting stage sets. Around 1720 he turned to painting views of Venice. These became the most coveted souvenirs of British travellers on the Grand Tour, many sold through his agent Joseph Smith, the British consul, whose own huge collection was later bought by George III for the Royal Collection. When the War of the Austrian Succession cut off the tourist trade, he moved to England in 1746 and spent most of the next decade painting London and country houses.",
    "Canaletto's vedute (view paintings) combine topographical accuracy with careful composition, crisp light and lively figures. He often adjusted viewpoints and combined several perspectives into one picture. He owned a camera obscura, now in the Museo Correr in Venice, and used drawing aids to construct his views. His early work is loose and atmospheric. His later, more mechanical production was supported by a busy workshop and many imitators, including his nephew Bernardo Bellotto."
-  ]
+  ],
+  "portrait_file": "Antonio Visentini - Portrait of Giovanni Antonio Canal, called Canaletto - WGA25132.jpg",
+  "portrait_caption": "Portrait by Antonio Visentini"
  },
  {
   "id": "tiepolo",
@@ -1634,7 +1674,9 @@
   "bio_full": [
    "Rosa Bonheur was born in Bordeaux, the daughter of the painter and drawing teacher Raymond Bonheur, a follower of the utopian Saint-Simonian movement. He encouraged her to train as an artist. To study animal anatomy she visited slaughterhouses, horse fairs and veterinary schools, and she obtained a police permit allowing her to wear trousers for this work. She won a gold medal at the Salon in 1848, and Ploughing in the Nivernais (1849) and The Horse Fair made her internationally famous, especially in Britain and the United States. In 1865 Empress Eugénie presented her with the Legion of Honour, the first time it was given to a woman artist.",
    "Bonheur lived for decades with her partner Nathalie Micas, and later with the American painter Anna Klumpke, at the Château de By near Fontainebleau, where she kept a menagerie including lions, deer and horses. Her animal paintings combine scientific accuracy with energy and grandeur. She was the most successful woman artist of the 19th century and has become an icon of independence and of lesbian history."
-  ]
+  ],
+  "portrait_file": "Rosa Bonheur with Bull , by E L Dubufe.jpg",
+  "portrait_caption": "Portrait by Édouard Louis Dubufe, 1857, with the bull painted by Bonheur"
  },
  {
   "id": "millais",
@@ -1725,7 +1767,9 @@
   "bio_full": [
    "Camille Pissarro was born on the Caribbean island of St Thomas, then a Danish colony, to a Sephardic Jewish family of French and Portuguese origin. After working in the family store he moved to Paris in 1855, where he was influenced by Corot. During the Franco-Prussian War of 1870–71 he took refuge in London, studied Constable and Turner, and met the dealer Paul Durand-Ruel. The Prussian army occupied his house in Louveciennes and destroyed many of his paintings. Back in France he lived in Pontoise, where he painted side by side with Cézanne, and later in Éragny. He was the only artist to show at all eight Impressionist exhibitions.",
    "Pissarro was the patriarch and teacher of Impressionism: generous, open-minded and politically committed to anarchism. He mentored Cézanne, Gauguin and others. He painted rural landscapes, markets and peasants, and from 1885 to 1890 he experimented with the dot technique of Seurat's Neo-Impressionism. In his last years an eye infection forced him to work indoors, and he painted series of Paris, Rouen and Le Havre from hotel windows. His sons, including Lucien, also became painters."
-  ]
+  ],
+  "portrait_file": "Camille Pissarro - Autoportrait - 1873.jpg",
+  "portrait_caption": "Self-portrait, 1873"
  },
  {
   "id": "cassatt",
@@ -1742,7 +1786,9 @@
   "bio_full": [
    "Mary Cassatt was born near Pittsburgh into a wealthy family, studied at the Pennsylvania Academy of the Fine Arts and moved to Europe in 1866, eventually settling in Paris. After several Salon successes, Degas invited her in 1877 to exhibit with the Impressionists, and she showed with them four times. She was profoundly influenced by an 1890 exhibition of Japanese prints and produced a celebrated series of colour prints combining drypoint and aquatint. In 1893 she painted a large mural, Modern Woman, for the Woman's Building at the Chicago World's Fair, which is now lost. She advised American collectors, especially Louisine and Henry Havemeyer, whose collection went to the Metropolitan Museum. Her eyesight failed from about 1914, and she died in France in 1926.",
    "Cassatt is best known for intimate scenes of women's daily lives: reading, taking tea, dressing, and above all caring for children. She depicted the bond between mother and child without sentimentality. She was a supporter of women's suffrage and the most important American member of the Impressionist movement."
-  ]
+  ],
+  "portrait_file": "Mary Cassatt - Portrait of the Artist - MMA 1975.319.1.jpg",
+  "portrait_caption": "Portrait of the Artist (self-portrait), 1878"
  },
  {
   "id": "caillebotte",
@@ -1759,7 +1805,9 @@
   "bio_full": [
    "Gustave Caillebotte was born in Paris to a very wealthy family, earned a law degree and served in the Franco-Prussian War before studying painting with Léon Bonnat. After the Salon rejected The Floor Scrapers in 1875, he joined the Impressionists, exhibiting from 1876, and became a key organiser and financial backer of their shows. He also bought many of their paintings, sometimes to support struggling friends. He was a passionate yachtsman and boat designer, a stamp collector with his brother Martial and a keen gardener at Petit-Gennevilliers. He died there in 1894, aged 45. He left his collection of Impressionist works to the French state, which after much controversy accepted part of it. It became the core of the Musée d'Orsay's Impressionist collection.",
    "Caillebotte's own painting combines Impressionist light with a more precise, realist approach. He was fascinated by the new Paris of Baron Haussmann's boulevards, steep plunging perspectives, views from balconies and windows, and urban labourers and bourgeois men. Long seen mainly as a patron, he has been reassessed since the 1970s as a major painter."
-  ]
+  ],
+  "portrait_file": "Caillebotte Autoportrait au chapeau de paille.jpg",
+  "portrait_caption": "Self-portrait in a straw hat"
  },
  {
   "id": "rousseau",
@@ -1776,7 +1824,9 @@
   "bio_full": [
    "Henri Rousseau was born in Laval in western France, the son of a tinsmith. After army service he worked for many years as a toll collector at the gates of Paris, which earned him the nickname 'Le Douanier' (the customs officer). He was entirely self-taught and began exhibiting at the Salon des Indépendants in 1886, where critics and the public mocked his work for decades. He retired in 1893 to paint full time, supporting himself by teaching and playing music. He never left France, and his famous jungles were drawn from visits to the Paris botanical gardens and zoo, illustrated magazines and his imagination. He died in Paris in 1910.",
    "Rousseau's flat, meticulously detailed, dreamlike pictures, with lush vegetation, staring animals and naive perspective, were championed by avant-garde artists and poets. In 1908 Picasso and friends held a famous banquet in his honour at the Bateau-Lavoir studio, half in jest and half in homage. He became a hero of modernism and the best-known 'naive' painter, and he influenced the Surrealists."
-  ]
+  ],
+  "portrait_file": "Henri Rousseau - Myself- Portrait – Landscape - Google Art Project.jpg",
+  "portrait_caption": "Myself: Portrait–Landscape (self-portrait), 1890"
  },
  {
   "id": "toulouse-lautrec",
@@ -1793,7 +1843,9 @@
   "bio_full": [
    "Henri de Toulouse-Lautrec was born in Albi into an ancient aristocratic family. His parents were first cousins, and he probably had a congenital bone disorder. After breaking both thigh bones in his early teens, his legs stopped growing, and he reached an adult height of about 1.5 metres. He studied painting in Paris with Léon Bonnat and Fernand Cormon, where he met Van Gogh and Émile Bernard, and he settled in Montmartre. His poster Moulin Rouge – La Goulue (1891) made him famous overnight. He spent his nights in cabarets, dance halls, circuses and brothels. Alcoholism ruined his health, and after a stay in a sanatorium in 1899 he died in 1901, aged 36, at his mother's château.",
    "Toulouse-Lautrec captured the performers and customers of Montmartre's nightlife, including Jane Avril, Aristide Bruant, Yvette Guilbert and La Goulue, with sharp, economical line, bold colour and a sympathetic but unflinching eye. His lithographic posters, influenced by Japanese prints and Degas, revolutionised graphic design and advertising. The Musée Toulouse-Lautrec in Albi holds the world's largest collection of his work."
-  ]
+  ],
+  "portrait_file": "(Albi) Auto-portrait devant un miroir - 1882 Toulouse-Lautrec - MLT.20.jpg",
+  "portrait_caption": "Self-portrait before a mirror, c. 1880–82"
  },
  {
   "id": "schiele",
@@ -1810,7 +1862,9 @@
   "bio_full": [
    "Egon Schiele was born in Tulln on the Danube, where his father was stationmaster. His father died when Egon was 14. He entered the Vienna Academy of Fine Arts at 16 but left after three years, rebelling against its conservatism. Gustav Klimt became his mentor and supporter. With his companion and model Wally Neuzil he moved to the small town of Neulengbach, where in 1912 he was arrested and briefly imprisoned. Most charges were dropped, but he was convicted for exhibiting erotic drawings where children could see them. In 1915 he married Edith Harms and was called up for military service. His exhibition at the Vienna Secession in 1918 was a great success, but that autumn Edith, six months pregnant, died of influenza, and Schiele died three days later, aged 28.",
    "Schiele's art is defined by its nervous, angular line and its raw, often contorted and sexual images of the human body, including dozens of unsparing self-portraits. He also painted townscapes and landscapes. He is a central figure of Austrian Expressionism, and the Leopold Museum in Vienna has the world's largest collection of his work."
-  ]
+  ],
+  "portrait_file": "Egon Schiele - Self-Portrait with Physalis - Google Art Project.jpg",
+  "portrait_caption": "Self-Portrait with Physalis, 1912"
  },
  {
   "id": "kirchner",
@@ -1827,7 +1881,9 @@
   "bio_full": [
    "Ernst Ludwig Kirchner was born in Aschaffenburg in Bavaria and studied architecture in Dresden. In 1905, with fellow architecture students Erich Heckel, Karl Schmidt-Rottluff and Fritz Bleyl, he founded the artists' group Die Brücke ('The Bridge'), aiming to build a bridge to the future. They painted nudes in the studio and outdoors at the Moritzburg lakes, and they revived woodcut as a raw, expressive medium. In 1911 he moved to Berlin, where he painted his famous street scenes of prostitutes and passers-by. Drafted in the First World War, he suffered a breakdown and moved to Switzerland in 1917, settling near Davos, where he painted the mountains and their farmers. In 1937 the Nazis declared him 'degenerate' and removed over 600 of his works from German museums. He took his own life in 1938.",
    "Kirchner's art, with its jagged forms, flattened space, clashing non-naturalistic colours and influences from African and Oceanic art and German Gothic woodcuts, expresses the excitement, alienation and nervous tension of modern life. He is one of the leading figures of German Expressionism."
-  ]
+  ],
+  "portrait_file": "Kirchner - Self Portrait as a Soldier (1915).jpg",
+  "portrait_caption": "Self-Portrait as a Soldier, 1915"
  },
  {
   "id": "marc",
@@ -1844,7 +1900,9 @@
   "bio_full": [
    "Franz Marc was born in Munich, the son of a painter. After studying theology and then art at the Munich Academy, he visited Paris and was deeply affected by Van Gogh and the Impressionists. He studied animal anatomy in depth. His friendships with August Macke and Wassily Kandinsky led to the founding of the Blue Rider (Der Blaue Reiter) in 1911, and they published an influential almanac in 1912. Marc volunteered for the army in 1914 and was killed by a shell splinter at Verdun on 4 March 1916, aged 36.",
    "Marc believed animals were purer and closer to nature and the spiritual than humans. He painted horses, deer, cows, tigers and foxes in symbolic colours: in his system blue stood for the masculine and spiritual, yellow for the feminine and gentle, and red for brutal matter. Under the influence of Cubism and Futurism his late works, such as The Fate of the Animals (1913), move towards abstraction."
-  ]
+  ],
+  "portrait_file": "Macke bildnis-franz-marc.jpg",
+  "portrait_caption": "Portrait by August Macke, 1910"
  },
  {
   "id": "klee",
@@ -1862,7 +1920,9 @@
   "bio_full": [
    "Paul Klee was born at Münchenbuchsee near Bern to a musical family and was himself an accomplished violinist. He studied art in Munich, associated with the Blue Rider group, and in 1914 travelled to Tunisia with August Macke and Louis Moilliet. There he had a revelation about colour, writing in his diary that colour and he were now one, and that he was a painter. He taught at the Bauhaus from 1921 to 1931 and then at the Düsseldorf Academy, until the Nazis dismissed him in 1933. He returned to Bern, and more than 100 of his works were seized from German museums as 'degenerate'. Despite a serious illness from 1935 he was extraordinarily productive in his last years. He died in 1940.",
    "Klee produced around 10,000 works of great variety: drawings, watercolours, oils and puppets. He combined childlike simplicity, irony, music, poetry, writing and signs, colour theory and fantasy. His teaching notes are among the most important texts on modern art. The Zentrum Paul Klee in Bern holds the largest collection of his work."
-  ]
+  ],
+  "portrait_file": "Paul Klee Self Portrait 1911.jpg",
+  "portrait_caption": "Self-portrait drawing, 1911"
  },
  {
   "id": "modigliani",
@@ -1896,7 +1956,9 @@
   "bio_full": [
    "Umberto Boccioni was born in Reggio Calabria and grew up in various parts of Italy. In Rome he studied with the Divisionist painter Giacomo Balla. In 1909 the poet Filippo Tommaso Marinetti published the Futurist Manifesto in Le Figaro, praising speed, machines, violence and modernity. The next year Boccioni co-signed the Manifesto of Futurist Painters and became the movement's leading artist, with paintings such as The City Rises (1910) and the series States of Mind. In 1912 he wrote a technical manifesto of Futurist sculpture. A fervent supporter of Italy's entry into the First World War, he volunteered in 1915 and died in 1916 after falling from a horse during cavalry training near Verona, aged 33.",
    "Boccioni tried to show movement, energy and the fusion of objects with their surroundings, which he called 'dynamism' and 'lines of force'. He drew on Cubist fragmentation and Divisionist colour. His sculpture, in particular, broke down the boundary between figure and space. The Futurists' glorification of war and the movement's later links with Fascism complicate their legacy."
-  ]
+  ],
+  "portrait_file": "Umberto Boccioni, Autoritratto, Pinacoteca di Brera, Milano.jpg",
+  "portrait_caption": "Self-portrait, 1908, Pinacoteca di Brera, Milan"
  },
  {
   "id": "malevich",
@@ -1913,7 +1975,9 @@
   "bio_full": [
    "Kazimir Malevich was born in Kyiv to a Polish family and grew up in rural Ukraine before moving to Moscow in 1904. He passed rapidly through Impressionism, Symbolism and a Russian 'Cubo-Futurism'. In 1913 he designed the costumes and sets for the Futurist opera Victory over the Sun, including a curtain with a black and white square. At the exhibition 0,10 in Petrograd in December 1915 he unveiled Suprematism, an art of pure geometric forms, with the Black Square as its emblem. After the Revolution he taught in Vitebsk, where he founded the UNOVIS group, and later in Petrograd. Under Stalin's regime he was attacked as a formalist and briefly arrested in 1930. In his last years he returned to stylised figure painting. He died in Leningrad in 1935, and a black square was painted on his coffin.",
    "Malevich sought the 'supremacy of pure feeling' in art, free from the depiction of objects. His White on White (1918) took this further than anyone at the time. He was a major influence on Constructivism, the Bauhaus and later Minimalism. In recent years there has been growing emphasis on his Ukrainian roots."
-  ]
+  ],
+  "portrait_file": "Self-portrait (Malevich, 1933).jpg",
+  "portrait_caption": "Self-portrait, 1933"
  },
  {
   "id": "brancusi",

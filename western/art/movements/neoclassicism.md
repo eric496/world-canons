@@ -14,7 +14,7 @@ Inspired by excavations at Pompeii and Enlightenment ideals, artists return to c
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/David_Self_Portrait.jpg/330px-David_Self_Portrait.jpg" width="40" alt="Jacques-Louis David"> [Jacques-Louis David](../creators/david.md) (1748 – 1825)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Antonio_Canova_Selfportrait_1792.jpg" width="40" alt="Antonio Canova"> [Antonio Canova](../creators/canova.md) (1757 – 1822)
--  [Jean-Auguste-Dominique Ingres](../creators/ingres.md) (1780 – 1867)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Jean-Auguste-Dominique_Ingres_-_Autoportrait_%C3%A0_vingt-quatre_ans_-_Google_Art_Project.jpg/330px-Jean-Auguste-Dominique_Ingres_-_Autoportrait_%C3%A0_vingt-quatre_ans_-_Google_Art_Project.jpg" width="40" alt="Jean-Auguste-Dominique Ingres"> [Jean-Auguste-Dominique Ingres](../creators/ingres.md) (1780 – 1867)
 
 ## Key artworks
 

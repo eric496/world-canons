@@ -1,10 +1,14 @@
 # Jean-Auguste-Dominique Ingres
 
+<a href="https://commons.wikimedia.org/wiki/File:Jean-Auguste-Dominique_Ingres_-_Autoportrait_%C3%A0_vingt-quatre_ans_-_Google_Art_Project.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Jean-Auguste-Dominique_Ingres_-_Autoportrait_%C3%A0_vingt-quatre_ans_-_Google_Art_Project.jpg/330px-Jean-Auguste-Dominique_Ingres_-_Autoportrait_%C3%A0_vingt-quatre_ans_-_Google_Art_Project.jpg" alt="Jean-Auguste-Dominique Ingres" title="Self-portrait at Age 24, 1804, reworked later"></a>
+
 **1780 – 1867** · French  
 Born: Montauban, France · Died: Paris  
 Movements: [Neoclassicism](../movements/neoclassicism.md)  
 
 > A pupil of David and champion of line over colour, Ingres was the great rival of Delacroix. His portraits and odalisques combine cool precision with sensual distortion.
+
+<sub>Portrait: Self-portrait at Age 24, 1804, reworked later · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jean-Auguste-Dominique_Ingres_-_Autoportrait_%C3%A0_vingt-quatre_ans_-_Google_Art_Project.jpg)</sub>
 
 ## Biography
 

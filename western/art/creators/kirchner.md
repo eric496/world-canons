@@ -1,10 +1,14 @@
 # Ernst Ludwig Kirchner
 
+<a href="https://commons.wikimedia.org/wiki/File:Kirchner_-_Self_Portrait_as_a_Soldier_%281915%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kirchner_-_Self_Portrait_as_a_Soldier_%281915%29.jpg/330px-Kirchner_-_Self_Portrait_as_a_Soldier_%281915%29.jpg" alt="Ernst Ludwig Kirchner" title="Self-Portrait as a Soldier, 1915"></a>
+
 **1880 – 1938** · German  
 Born: Aschaffenburg, Germany · Died: Frauenkirch, near Davos, Switzerland  
 Movements: [Fauvism & Expressionism](../movements/fauvism-expressionism.md)  
 
 > A founder of Die Brücke in Dresden, whose jagged forms and clashing colours express the tension of the modern city.
+
+<sub>Portrait: Self-Portrait as a Soldier, 1915 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kirchner_-_Self_Portrait_as_a_Soldier_%281915%29.jpg)</sub>
 
 ## Biography
 

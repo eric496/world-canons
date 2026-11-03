@@ -1,10 +1,14 @@
 # Paul Klee
 
+<a href="https://commons.wikimedia.org/wiki/File:Paul_Klee_Self_Portrait_1911.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Paul_Klee_Self_Portrait_1911.jpg" alt="Paul Klee" title="Self-portrait drawing, 1911"></a>
+
 **1879 – 1940** · Swiss-German  
 Born: Münchenbuchsee, Switzerland · Died: Muralto, Switzerland  
 Movements: [Fauvism & Expressionism](../movements/fauvism-expressionism.md), [Early Abstraction](../movements/abstraction.md)  
 
 > A Bauhaus teacher whose witty, musical and childlike images explore colour, line and imagination.
+
+<sub>Portrait: Self-portrait drawing, 1911 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paul_Klee_Self_Portrait_1911.jpg)</sub>
 
 ## Biography
 

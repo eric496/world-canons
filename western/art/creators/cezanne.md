@@ -1,10 +1,14 @@
 # Paul Cézanne
 
+<a href="https://commons.wikimedia.org/wiki/File:Autoportrait_au_b%C3%A9ret%2C_par_Paul_C%C3%A9zanne.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Autoportrait_au_b%C3%A9ret%2C_par_Paul_C%C3%A9zanne.jpg/330px-Autoportrait_au_b%C3%A9ret%2C_par_Paul_C%C3%A9zanne.jpg" alt="Paul Cézanne" title="Self-Portrait with a Beret, c. 1898–1900"></a>
+
 **1839 – 1906** · French  
 Born: Aix-en-Provence, France · Died: Aix-en-Provence  
 Movements: [Post-Impressionism](../movements/post-impressionism.md)  
 
 > Cézanne rebuilt nature from planes of colour and multiple viewpoints. Picasso and Matisse both called him the father of modern art.
+
+<sub>Portrait: Self-Portrait with a Beret, c. 1898–1900 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Autoportrait_au_b%C3%A9ret%2C_par_Paul_C%C3%A9zanne.jpg)</sub>
 
 ## Biography
 

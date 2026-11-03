@@ -1,10 +1,14 @@
 # Édouard Manet
 
+<a href="https://commons.wikimedia.org/wiki/File:Henri_Fantin-Latour_-_%C3%89douard_Manet_-_1905.207_-_Art_Institute_of_Chicago.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Henri_Fantin-Latour_-_%C3%89douard_Manet_-_1905.207_-_Art_Institute_of_Chicago.jpg/330px-Henri_Fantin-Latour_-_%C3%89douard_Manet_-_1905.207_-_Art_Institute_of_Chicago.jpg" alt="Édouard Manet" title="Portrait by Henri Fantin-Latour, 1867"></a>
+
 **1832 – 1883** · French  
 Born: Paris · Died: Paris  
 Movements: [Realism](../movements/realism.md), [Impressionism](../movements/impressionism.md)  
 
 > Manet's flat, frank pictures of modern Paris caused scandal and paved the way for Impressionism. He is often seen as the first modern painter.
+
+<sub>Portrait: Portrait by Henri Fantin-Latour, 1867 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henri_Fantin-Latour_-_%C3%89douard_Manet_-_1905.207_-_Art_Institute_of_Chicago.jpg)</sub>
 
 ## Biography
 

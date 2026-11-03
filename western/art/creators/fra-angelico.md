@@ -1,10 +1,14 @@
 # Fra Angelico
 
+<a href="https://commons.wikimedia.org/wiki/File:Luca_signorelli%2C_cappella_di_san_brizio%2C_predica_e_punizione_dell%27anticristo_03_signorelli_e_angelico.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Luca_signorelli%2C_cappella_di_san_brizio%2C_predica_e_punizione_dell%27anticristo_03_signorelli_e_angelico.jpg" alt="Fra Angelico" title="Fra Angelico and Luca Signorelli as painted by Signorelli in Orvieto Cathedral, c. 1500"></a>
+
 **c. 1395 – 1455** · Italian  
 Born: Vicchio, near Florence · Died: Rome  
 Movements: [Early Italian Renaissance](../movements/early-renaissance.md)  
 
 > A Dominican friar-painter who combined Renaissance space with serene devotional clarity, notably in the cells of the convent of San Marco.
+
+<sub>Portrait: Fra Angelico and Luca Signorelli as painted by Signorelli in Orvieto Cathedral, c. 1500 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Luca_signorelli%2C_cappella_di_san_brizio%2C_predica_e_punizione_dell%27anticristo_03_signorelli_e_angelico.jpg)</sub>
 
 ## Biography
 

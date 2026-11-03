@@ -6,6 +6,10 @@ Era: [Modernism](../../periods/modern.md)
 
 Dada attacks the very idea of art after WWI; Surrealism mines dreams and the unconscious.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg/1280px-Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg" width="100%" alt="Dada & Surrealism">
+
+<sub>Marcel Duchamp's Fountain (1917), photographed by Alfred Stieglitz for The Blind Man, 1917 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marcel_Duchamp%2C_1917%2C_Fountain%2C_photograph_by_Alfred_Stieglitz.jpg)</sub>
+
 ## Artists
 
 -  [Marcel Duchamp](../creators/duchamp.md) (1887 – 1968)

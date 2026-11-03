@@ -1,10 +1,14 @@
 # Lorenzo Ghiberti
 
+<a href="https://commons.wikimedia.org/wiki/File:Lorenzo_Ghiberti%27s_Self_Portrait-The_Gates_of_Paradise_-_Original-Museo_dell%27Opera_del_Duomo.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lorenzo_Ghiberti%27s_Self_Portrait-The_Gates_of_Paradise_-_Original-Museo_dell%27Opera_del_Duomo.jpg/330px-Lorenzo_Ghiberti%27s_Self_Portrait-The_Gates_of_Paradise_-_Original-Museo_dell%27Opera_del_Duomo.jpg" alt="Lorenzo Ghiberti" title="Self-portrait head on the Gates of Paradise, Florence"></a>
+
 **1378 – 1455** · Italian  
 Born: Pelago, near Florence · Died: Florence  
 Movements: [Early Italian Renaissance](../movements/early-renaissance.md)  
 
 > A goldsmith and sculptor who won the 1401 competition for the Florence Baptistery doors, a contest often taken as the start of the Renaissance. He spent most of his life on two sets of bronze doors.
+
+<sub>Portrait: Self-portrait head on the Gates of Paradise, Florence · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lorenzo_Ghiberti%27s_Self_Portrait-The_Gates_of_Paradise_-_Original-Museo_dell%27Opera_del_Duomo.jpg)</sub>
 
 ## Biography
 

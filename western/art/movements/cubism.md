@@ -6,6 +6,10 @@ Era: [Modernism](../../periods/modern.md)
 
 Picasso and Braque fracture objects into facets and multiple viewpoints, ending single-point perspective.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Juan_Gris_-_Portrait_of_Pablo_Picasso_-_Google_Art_Project.jpg/1280px-Juan_Gris_-_Portrait_of_Pablo_Picasso_-_Google_Art_Project.jpg" width="100%" alt="Cubism">
+
+<sub>Juan Gris, Portrait of Pablo Picasso, 1912 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Juan_Gris_-_Portrait_of_Pablo_Picasso_-_Google_Art_Project.jpg)</sub>
+
 ## Artists
 
 -  [Pablo Picasso](../creators/picasso.md) (1881 – 1973)

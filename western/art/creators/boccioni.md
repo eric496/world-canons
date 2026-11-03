@@ -1,10 +1,14 @@
 # Umberto Boccioni
 
+<a href="https://commons.wikimedia.org/wiki/File:Umberto_Boccioni%2C_Autoritratto%2C_Pinacoteca_di_Brera%2C_Milano.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Umberto_Boccioni%2C_Autoritratto%2C_Pinacoteca_di_Brera%2C_Milano.jpg" alt="Umberto Boccioni" title="Self-portrait, 1908, Pinacoteca di Brera, Milan"></a>
+
 **1882 – 1916** · Italian  
 Born: Reggio Calabria, Italy · Died: Verona  
 Movements: [Futurism](../movements/futurism.md)  
 
 > The leading painter and sculptor of Futurism, who sought to represent movement and dynamism. He died after a fall from a horse during military training.
+
+<sub>Portrait: Self-portrait, 1908, Pinacoteca di Brera, Milan · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Umberto_Boccioni%2C_Autoritratto%2C_Pinacoteca_di_Brera%2C_Milano.jpg)</sub>
 
 ## Biography
 

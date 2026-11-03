@@ -1,10 +1,14 @@
 # Hieronymus Bosch
 
+<a href="https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_by_Cornelis_Cort.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Hieronymus_Bosch_by_Cornelis_Cort.jpg" alt="Hieronymus Bosch" title="Engraved portrait by Cornelis Cort, from Lampsonius's Pictorum aliquot celebrium Germaniae inferioris effigies, 1572"></a>
+
 **c. 1450 – 1516** · Netherlandish  
 Born: 's-Hertogenbosch, Low Countries · Died: 's-Hertogenbosch  
 Movements: [Northern Renaissance](../movements/northern-renaissance.md)  
 
 > Bosch painted teeming moral allegories full of hybrid creatures, temptations and punishments. His imagination later made him a hero to the Surrealists.
+
+<sub>Portrait: Engraved portrait by Cornelis Cort, from Lampsonius's Pictorum aliquot celebrium Germaniae inferioris effigies, 1572 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_by_Cornelis_Cort.jpg)</sub>
 
 ## Biography
 

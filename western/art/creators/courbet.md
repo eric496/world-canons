@@ -1,10 +1,14 @@
 # Gustave Courbet
 
+<a href="https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_Le_D%C3%A9sesp%C3%A9r%C3%A9_%281843%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gustave_Courbet_-_Le_D%C3%A9sesp%C3%A9r%C3%A9_%281843%29.jpg/330px-Gustave_Courbet_-_Le_D%C3%A9sesp%C3%A9r%C3%A9_%281843%29.jpg" alt="Gustave Courbet" title="The Desperate Man (self-portrait), c. 1843–45"></a>
+
 **1819 – 1877** · French  
 Born: Ornans, France · Died: La Tour-de-Peilz, Switzerland  
 Movements: [Realism](../movements/realism.md)  
 
 > The self-declared leader of Realism, Courbet painted ordinary people at the scale of history painting. He was exiled after his role in the Paris Commune.
+
+<sub>Portrait: The Desperate Man (self-portrait), c. 1843–45 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_Le_D%C3%A9sesp%C3%A9r%C3%A9_%281843%29.jpg)</sub>
 
 ## Biography
 

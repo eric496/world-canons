@@ -1,10 +1,14 @@
 # Cimabue
 
+<a href="https://commons.wikimedia.org/wiki/File:001_le_vite%2C_cimabue.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/7/76/001_le_vite%2C_cimabue.jpg" alt="Cimabue" title="Woodcut portrait from Vasari's Lives of the Artists, 1568"></a>
+
 **c. 1240 – 1302** · Italian  
 Born: Florence · Died: Pisa  
 Movements: [Late Gothic & Proto-Renaissance](../movements/proto-renaissance.md)  
 
 > A Florentine painter who began loosening Byzantine conventions toward greater naturalism. Tradition makes him Giotto's teacher.
+
+<sub>Portrait: Woodcut portrait from Vasari's Lives of the Artists, 1568 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:001_le_vite%2C_cimabue.jpg)</sub>
 
 ## Biography
 

@@ -1,10 +1,14 @@
 # Berthe Morisot
 
+<a href="https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Berthe_Morisot_With_a_Bouquet_of_Violets_-_Google_Art_Project.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Edouard_Manet_-_Berthe_Morisot_With_a_Bouquet_of_Violets_-_Google_Art_Project.jpg/330px-Edouard_Manet_-_Berthe_Morisot_With_a_Bouquet_of_Violets_-_Google_Art_Project.jpg" alt="Berthe Morisot" title="Berthe Morisot with a Bouquet of Violets, by Édouard Manet, 1872"></a>
+
 **1841 – 1895** · French  
 Born: Bourges, France · Died: Paris  
 Movements: [Impressionism](../movements/impressionism.md)  
 
 > A core member of the Impressionist group who exhibited in nearly all its shows. Her feathery brushwork captured intimate domestic and women's lives.
+
+<sub>Portrait: Berthe Morisot with a Bouquet of Violets, by Édouard Manet, 1872 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Berthe_Morisot_With_a_Bouquet_of_Violets_-_Google_Art_Project.jpg)</sub>
 
 ## Biography
 

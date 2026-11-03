@@ -1,10 +1,14 @@
 # Paul Gauguin
 
+<a href="https://commons.wikimedia.org/wiki/File:Paul_Gauguin_-_Self-Portrait_with_Halo_and_Snake.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Paul_Gauguin_-_Self-Portrait_with_Halo_and_Snake.jpg/330px-Paul_Gauguin_-_Self-Portrait_with_Halo_and_Snake.jpg" alt="Paul Gauguin" title="Self-Portrait with Halo and Snake, 1889"></a>
+
 **1848 – 1903** · French  
 Born: Paris · Died: Atuona, Marquesas Islands  
 Movements: [Post-Impressionism](../movements/post-impressionism.md), [Symbolism & Art Nouveau](../movements/symbolism.md)  
 
 > A former stockbroker who pursued 'primitive' simplicity in Brittany and then French Polynesia. His flat, symbolic colour influenced Symbolists and Fauves; his colonial gaze is debated today.
+
+<sub>Portrait: Self-Portrait with Halo and Snake, 1889 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paul_Gauguin_-_Self-Portrait_with_Halo_and_Snake.jpg)</sub>
 
 ## Biography
 

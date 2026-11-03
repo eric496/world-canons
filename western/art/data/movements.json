@@ -148,7 +148,9 @@
   "name": "Cubism",
   "dates": "c. 1907–1920",
   "summary": "Picasso and Braque fracture objects into facets and multiple viewpoints, ending single-point perspective.",
-  "period": "modern"
+  "period": "modern",
+  "image_file": "Juan Gris - Portrait of Pablo Picasso - Google Art Project.jpg",
+  "image_caption": "Juan Gris, Portrait of Pablo Picasso, 1912"
  },
  {
   "id": "futurism",
@@ -173,7 +175,9 @@
   "name": "Dada & Surrealism",
   "dates": "c. 1916–1950",
   "summary": "Dada attacks the very idea of art after WWI; Surrealism mines dreams and the unconscious.",
-  "period": "modern"
+  "period": "modern",
+  "image_file": "Marcel Duchamp, 1917, Fountain, photograph by Alfred Stieglitz.jpg",
+  "image_caption": "Marcel Duchamp's Fountain (1917), photographed by Alfred Stieglitz for The Blind Man, 1917"
  },
  {
   "id": "american-modernism",

@@ -1,10 +1,14 @@
 # Georges Seurat
 
+<a href="https://commons.wikimedia.org/wiki/File:Ernest_Laurent_Seurat_1883.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Ernest_Laurent_Seurat_1883.jpg" alt="Georges Seurat" title="Portrait drawing by Ernest Laurent, 1883"></a>
+
 **1859 – 1891** · French  
 Born: Paris · Died: Paris  
 Movements: [Post-Impressionism](../movements/post-impressionism.md)  
 
 > Seurat developed Pointillism, building images from small dots of pure colour based on optical theory. He died at 31.
+
+<sub>Portrait: Portrait drawing by Ernest Laurent, 1883 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ernest_Laurent_Seurat_1883.jpg)</sub>
 
 ## Biography
 

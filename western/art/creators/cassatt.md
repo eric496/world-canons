@@ -1,10 +1,14 @@
 # Mary Cassatt
 
+<a href="https://commons.wikimedia.org/wiki/File:Mary_Cassatt_-_Portrait_of_the_Artist_-_MMA_1975.319.1.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mary_Cassatt_-_Portrait_of_the_Artist_-_MMA_1975.319.1.jpg/330px-Mary_Cassatt_-_Portrait_of_the_Artist_-_MMA_1975.319.1.jpg" alt="Mary Cassatt" title="Portrait of the Artist (self-portrait), 1878"></a>
+
 **1844 – 1926** · American  
 Born: Allegheny City (Pittsburgh), Pennsylvania · Died: Le Mesnil-Théribus, France  
 Movements: [Impressionism](../movements/impressionism.md)  
 
 > An American in Paris invited by Degas to join the Impressionists, best known for intimate scenes of women and children.
+
+<sub>Portrait: Portrait of the Artist (self-portrait), 1878 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mary_Cassatt_-_Portrait_of_the_Artist_-_MMA_1975.319.1.jpg)</sub>
 
 ## Biography
 

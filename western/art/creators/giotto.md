@@ -1,11 +1,15 @@
 # Giotto di Bondone
 
+<a href="https://commons.wikimedia.org/wiki/File:007_le_vite%2C_giotto.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/007_le_vite%2C_giotto.jpg" alt="Giotto di Bondone" title="Woodcut portrait from Vasari's Lives of the Artists, 1568"></a>
+
 **c. 1267 – 1337** · Italian  
 Born: near Florence, Italy · Died: Florence  
 Movements: [Late Gothic & Proto-Renaissance](../movements/proto-renaissance.md)  
 Also in: [Architecture](../../architecture/creators/giotto.md)  
 
 > Often called the first great painter of the Renaissance, Giotto gave figures real bulk, weight and human feeling. His fresco cycle in Padua's Scrovegni Chapel set the course of Western narrative painting.
+
+<sub>Portrait: Woodcut portrait from Vasari's Lives of the Artists, 1568 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:007_le_vite%2C_giotto.jpg)</sub>
 
 ## Biography
 

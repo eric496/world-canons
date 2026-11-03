@@ -1,10 +1,14 @@
 # Camille Pissarro
 
+<a href="https://commons.wikimedia.org/wiki/File:Camille_Pissarro_-_Autoportrait_-_1873.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Camille_Pissarro_-_Autoportrait_-_1873.jpg/330px-Camille_Pissarro_-_Autoportrait_-_1873.jpg" alt="Camille Pissarro" title="Self-portrait, 1873"></a>
+
 **1830 – 1903** · Danish-French  
 Born: Charlotte Amalie, St Thomas (Danish West Indies) · Died: Paris  
 Movements: [Impressionism](../movements/impressionism.md)  
 
 > The only artist to exhibit in all eight Impressionist exhibitions and a generous mentor to Cézanne and Gauguin.
+
+<sub>Portrait: Self-portrait, 1873 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Camille_Pissarro_-_Autoportrait_-_1873.jpg)</sub>
 
 ## Biography
 

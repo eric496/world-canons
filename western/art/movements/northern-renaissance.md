@@ -14,7 +14,7 @@ In Flanders, the Netherlands and Germany, artists perfect oil painting and pursu
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg/330px-Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg" width="40" alt="Jan van Eyck"> [Jan van Eyck](../creators/van-eyck.md) (c. 1390 – 1441)
 -  [Rogier van der Weyden](../creators/van-der-weyden.md) (c. 1399 – 1464)
--  [Hieronymus Bosch](../creators/bosch.md) (c. 1450 – 1516)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Hieronymus_Bosch_by_Cornelis_Cort.jpg" width="40" alt="Hieronymus Bosch"> [Hieronymus Bosch](../creators/bosch.md) (c. 1450 – 1516)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/D%C3%BCrer_Alte_Pinakothek.jpg/330px-D%C3%BCrer_Alte_Pinakothek.jpg" width="40" alt="Albrecht Dürer"> [Albrecht Dürer](../creators/durer.md) (1471 – 1528)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hans_Holbein_the_Younger%2C_self-portrait.jpg/330px-Hans_Holbein_the_Younger%2C_self-portrait.jpg" width="40" alt="Hans Holbein the Younger"> [Hans Holbein the Younger](../creators/holbein.md) (c. 1497 – 1543)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg/330px-Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg" width="40" alt="Pieter Bruegel the Elder"> [Pieter Bruegel the Elder](../creators/bruegel.md) (c. 1525 – 1569)

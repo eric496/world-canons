@@ -12,7 +12,7 @@ An Italian avant-garde that glorifies speed, machines, the city and violent mode
 
 ## Artists
 
--  [Umberto Boccioni](../creators/boccioni.md) (1882 – 1916)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Umberto_Boccioni%2C_Autoritratto%2C_Pinacoteca_di_Brera%2C_Milano.jpg" width="40" alt="Umberto Boccioni"> [Umberto Boccioni](../creators/boccioni.md) (1882 – 1916)
 
 ## Key artworks
 

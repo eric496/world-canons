@@ -12,12 +12,12 @@ Painters push past Impressionism toward structure (Cézanne), science (Seurat), 
 
 ## Artists
 
--  [Paul Cézanne](../creators/cezanne.md) (1839 – 1906)
--  [Henri Rousseau](../creators/rousseau.md) (1844 – 1910)
--  [Paul Gauguin](../creators/gauguin.md) (1848 – 1903)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Autoportrait_au_b%C3%A9ret%2C_par_Paul_C%C3%A9zanne.jpg/330px-Autoportrait_au_b%C3%A9ret%2C_par_Paul_C%C3%A9zanne.jpg" width="40" alt="Paul Cézanne"> [Paul Cézanne](../creators/cezanne.md) (1839 – 1906)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Henri_Rousseau_-_Myself-_Portrait_%E2%80%93_Landscape_-_Google_Art_Project.jpg/330px-Henri_Rousseau_-_Myself-_Portrait_%E2%80%93_Landscape_-_Google_Art_Project.jpg" width="40" alt="Henri Rousseau"> [Henri Rousseau](../creators/rousseau.md) (1844 – 1910)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Paul_Gauguin_-_Self-Portrait_with_Halo_and_Snake.jpg/330px-Paul_Gauguin_-_Self-Portrait_with_Halo_and_Snake.jpg" width="40" alt="Paul Gauguin"> [Paul Gauguin](../creators/gauguin.md) (1848 – 1903)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/330px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg" width="40" alt="Vincent van Gogh"> [Vincent van Gogh](../creators/van-gogh.md) (1853 – 1890)
--  [Georges Seurat](../creators/seurat.md) (1859 – 1891)
--  [Henri de Toulouse-Lautrec](../creators/toulouse-lautrec.md) (1864 – 1901)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Ernest_Laurent_Seurat_1883.jpg" width="40" alt="Georges Seurat"> [Georges Seurat](../creators/seurat.md) (1859 – 1891)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/%28Albi%29_Auto-portrait_devant_un_miroir_-_1882_Toulouse-Lautrec_-_MLT.20.jpg/330px-%28Albi%29_Auto-portrait_devant_un_miroir_-_1882_Toulouse-Lautrec_-_MLT.20.jpg" width="40" alt="Henri de Toulouse-Lautrec"> [Henri de Toulouse-Lautrec](../creators/toulouse-lautrec.md) (1864 – 1901)
 
 ## Key artworks
 

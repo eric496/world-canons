@@ -12,15 +12,15 @@ Painting outdoors with broken brushwork to capture light, weather and fleeting m
 
 ## Artists
 
--  [Camille Pissarro](../creators/pissarro.md) (1830 – 1903)
--  [Édouard Manet](../creators/manet.md) (1832 – 1883)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Camille_Pissarro_-_Autoportrait_-_1873.jpg/330px-Camille_Pissarro_-_Autoportrait_-_1873.jpg" width="40" alt="Camille Pissarro"> [Camille Pissarro](../creators/pissarro.md) (1830 – 1903)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Henri_Fantin-Latour_-_%C3%89douard_Manet_-_1905.207_-_Art_Institute_of_Chicago.jpg/330px-Henri_Fantin-Latour_-_%C3%89douard_Manet_-_1905.207_-_Art_Institute_of_Chicago.jpg" width="40" alt="Édouard Manet"> [Édouard Manet](../creators/manet.md) (1832 – 1883)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Self-portrait_by_Edgar_Degas.jpg/330px-Self-portrait_by_Edgar_Degas.jpg" width="40" alt="Edgar Degas"> [Edgar Degas](../creators/degas.md) (1834 – 1917)
--  [Claude Monet](../creators/monet.md) (1840 – 1926)
--  [Auguste Rodin](../creators/rodin.md) (1840 – 1917)
--  [Pierre-Auguste Renoir](../creators/renoir.md) (1841 – 1919)
--  [Berthe Morisot](../creators/morisot.md) (1841 – 1895)
--  [Mary Cassatt](../creators/cassatt.md) (1844 – 1926)
--  [Gustave Caillebotte](../creators/caillebotte.md) (1848 – 1894)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Self-portrait-with-a-beret-1886.jpg%21Large.jpg" width="40" alt="Claude Monet"> [Claude Monet](../creators/monet.md) (1840 – 1926)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Camille_Claudel.-_Buste_de_Rodin..jpg/330px-Camille_Claudel.-_Buste_de_Rodin..jpg" width="40" alt="Auguste Rodin"> [Auguste Rodin](../creators/rodin.md) (1840 – 1917)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Bazille%2C_Fr%C3%A9d%C3%A9ric_~_Portrait_of_Renoir%2C_1867%2C_oil_on_canvas.jpg" width="40" alt="Pierre-Auguste Renoir"> [Pierre-Auguste Renoir](../creators/renoir.md) (1841 – 1919)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Edouard_Manet_-_Berthe_Morisot_With_a_Bouquet_of_Violets_-_Google_Art_Project.jpg/330px-Edouard_Manet_-_Berthe_Morisot_With_a_Bouquet_of_Violets_-_Google_Art_Project.jpg" width="40" alt="Berthe Morisot"> [Berthe Morisot](../creators/morisot.md) (1841 – 1895)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mary_Cassatt_-_Portrait_of_the_Artist_-_MMA_1975.319.1.jpg/330px-Mary_Cassatt_-_Portrait_of_the_Artist_-_MMA_1975.319.1.jpg" width="40" alt="Mary Cassatt"> [Mary Cassatt](../creators/cassatt.md) (1844 – 1926)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Caillebotte_Autoportrait_au_chapeau_de_paille.jpg/330px-Caillebotte_Autoportrait_au_chapeau_de_paille.jpg" width="40" alt="Gustave Caillebotte"> [Gustave Caillebotte](../creators/caillebotte.md) (1848 – 1894)
 
 ## Key artworks
 

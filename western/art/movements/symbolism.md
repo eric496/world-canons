@@ -12,9 +12,9 @@ Dream, myth, eroticism and anxiety expressed through ornament and symbolic form;
 
 ## Artists
 
--  [Paul Gauguin](../creators/gauguin.md) (1848 – 1903)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Paul_Gauguin_-_Self-Portrait_with_Halo_and_Snake.jpg/330px-Paul_Gauguin_-_Self-Portrait_with_Halo_and_Snake.jpg" width="40" alt="Paul Gauguin"> [Paul Gauguin](../creators/gauguin.md) (1848 – 1903)
 -  [Gustav Klimt](../creators/klimt.md) (1862 – 1918)
--  [Edvard Munch](../creators/munch.md) (1863 – 1944)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Edvard_Munch_-_Self-Portrait_with_Cigarette_-_NG.M.00470_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/330px-Edvard_Munch_-_Self-Portrait_with_Cigarette_-_NG.M.00470_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg" width="40" alt="Edvard Munch"> [Edvard Munch](../creators/munch.md) (1863 – 1944)
 
 ## Key artworks
 

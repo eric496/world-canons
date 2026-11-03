@@ -1,10 +1,14 @@
 # Auguste Rodin
 
+<a href="https://commons.wikimedia.org/wiki/File:Camille_Claudel.-_Buste_de_Rodin..jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Camille_Claudel.-_Buste_de_Rodin..jpg/330px-Camille_Claudel.-_Buste_de_Rodin..jpg" alt="Auguste Rodin" title="Bust by Camille Claudel, 1888–89"></a>
+
 **1840 – 1917** · French  
 Born: Paris · Died: Meudon  
 Movements: [Impressionism](../movements/impressionism.md)  
 
 > The founder of modern sculpture, Rodin modelled restless, expressive surfaces and fragmentary figures. Many of his best-known works began as parts of The Gates of Hell.
+
+<sub>Portrait: Bust by Camille Claudel, 1888–89 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Camille_Claudel.-_Buste_de_Rodin..jpg)</sub>
 
 ## Biography
 

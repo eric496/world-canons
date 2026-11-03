@@ -1,10 +1,14 @@
 # Edvard Munch
 
+<a href="https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Self-Portrait_with_Cigarette_-_NG.M.00470_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Edvard_Munch_-_Self-Portrait_with_Cigarette_-_NG.M.00470_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/330px-Edvard_Munch_-_Self-Portrait_with_Cigarette_-_NG.M.00470_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg" alt="Edvard Munch" title="Self-Portrait with Cigarette, 1895"></a>
+
 **1863 – 1944** · Norwegian  
 Born: Løten, Norway · Died: near Oslo  
 Movements: [Symbolism & Art Nouveau](../movements/symbolism.md), [Fauvism & Expressionism](../movements/fauvism-expressionism.md)  
 
 > Munch turned anxiety, love and death into charged images of colour and line. He was a crucial forerunner of German Expressionism.
+
+<sub>Portrait: Self-Portrait with Cigarette, 1895 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Self-Portrait_with_Cigarette_-_NG.M.00470_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg)</sub>
 
 ## Biography
 

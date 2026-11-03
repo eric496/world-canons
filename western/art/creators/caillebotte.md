@@ -1,10 +1,14 @@
 # Gustave Caillebotte
 
+<a href="https://commons.wikimedia.org/wiki/File:Caillebotte_Autoportrait_au_chapeau_de_paille.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Caillebotte_Autoportrait_au_chapeau_de_paille.jpg/330px-Caillebotte_Autoportrait_au_chapeau_de_paille.jpg" alt="Gustave Caillebotte" title="Self-portrait in a straw hat"></a>
+
 **1848 – 1894** · French  
 Born: Paris · Died: Gennevilliers  
 Movements: [Impressionism](../movements/impressionism.md)  
 
 > A painter and wealthy patron of the Impressionists, known for steep perspectives of Haussmann's new Paris. He bequeathed his collection to the French state.
+
+<sub>Portrait: Self-portrait in a straw hat · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caillebotte_Autoportrait_au_chapeau_de_paille.jpg)</sub>
 
 ## Biography
 

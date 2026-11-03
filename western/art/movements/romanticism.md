@@ -19,7 +19,7 @@ Emotion, the sublime power of nature, national struggle and the individual imagi
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Turner_selfportrait_%28cropped%29.jpg/330px-Turner_selfportrait_%28cropped%29.jpg" width="40" alt="J. M. W. Turner"> [J. M. W. Turner](../creators/turner.md) (1775 – 1851)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/John_Constable_by_Ramsay_Richard_Reinagle.jpg/330px-John_Constable_by_Ramsay_Richard_Reinagle.jpg" width="40" alt="John Constable"> [John Constable](../creators/constable.md) (1776 – 1837)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horace_Vernet%2C_Jean-Louis-Andr%C3%A9-Th%C3%A9odore_Gericault%2C_probably_1822_or_1823%2C_1998.84%2C_MET.jpg/330px-Horace_Vernet%2C_Jean-Louis-Andr%C3%A9-Th%C3%A9odore_Gericault%2C_probably_1822_or_1823%2C_1998.84%2C_MET.jpg" width="40" alt="Théodore Géricault"> [Théodore Géricault](../creators/gericault.md) (1791 – 1824)
--  [Eugène Delacroix](../creators/delacroix.md) (1798 – 1863)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Autoportrait_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_25.jpg/330px-Autoportrait_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_25.jpg" width="40" alt="Eugène Delacroix"> [Eugène Delacroix](../creators/delacroix.md) (1798 – 1863)
 
 ## Key artworks
 

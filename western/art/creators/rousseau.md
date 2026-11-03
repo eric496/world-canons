@@ -1,10 +1,14 @@
 # Henri Rousseau
 
+<a href="https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_Myself-_Portrait_%E2%80%93_Landscape_-_Google_Art_Project.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Henri_Rousseau_-_Myself-_Portrait_%E2%80%93_Landscape_-_Google_Art_Project.jpg/330px-Henri_Rousseau_-_Myself-_Portrait_%E2%80%93_Landscape_-_Google_Art_Project.jpg" alt="Henri Rousseau" title="Myself: Portrait–Landscape (self-portrait), 1890"></a>
+
 **1844 – 1910** · French  
 Born: Laval, France · Died: Paris  
 Movements: [Post-Impressionism](../movements/post-impressionism.md)  
 
 > A self-taught customs official ('Le Douanier') whose flat, dreamlike jungles were mocked at first and then embraced by the avant-garde.
+
+<sub>Portrait: Myself: Portrait–Landscape (self-portrait), 1890 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henri_Rousseau_-_Myself-_Portrait_%E2%80%93_Landscape_-_Google_Art_Project.jpg)</sub>
 
 ## Biography
 

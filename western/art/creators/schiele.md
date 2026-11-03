@@ -1,10 +1,14 @@
 # Egon Schiele
 
+<a href="https://commons.wikimedia.org/wiki/File:Egon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Egon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg/330px-Egon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg" alt="Egon Schiele" title="Self-Portrait with Physalis, 1912"></a>
+
 **1890 – 1918** · Austrian  
 Born: Tulln an der Donau, Austria · Died: Vienna  
 Movements: [Fauvism & Expressionism](../movements/fauvism-expressionism.md)  
 
 > A protégé of Klimt whose angular, raw self-portraits and nudes are central to Austrian Expressionism. He died at 28 in the 1918 flu pandemic.
+
+<sub>Portrait: Self-Portrait with Physalis, 1912 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Egon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg)</sub>
 
 ## Biography
 

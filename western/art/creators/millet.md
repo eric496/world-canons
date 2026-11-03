@@ -1,10 +1,14 @@
 # Jean-François Millet
 
+<a href="https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet._Auto-retrato.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Jean-Fran%C3%A7ois_Millet._Auto-retrato.jpg" alt="Jean-François Millet" title="Self-portrait"></a>
+
 **1814 – 1875** · French  
 Born: Gréville-Hague, Normandy, France · Died: Barbizon  
 Movements: [Realism](../movements/realism.md)  
 
 > A founder of the Barbizon school who gave peasant labour a solemn dignity. Van Gogh copied his work repeatedly.
+
+<sub>Portrait: Self-portrait · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet._Auto-retrato.jpg)</sub>
 
 ## Biography
 

@@ -1,10 +1,14 @@
 # Kazimir Malevich
 
+<a href="https://commons.wikimedia.org/wiki/File:Self-portrait_%28Malevich%2C_1933%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Self-portrait_%28Malevich%2C_1933%29.jpg" alt="Kazimir Malevich" title="Self-portrait, 1933"></a>
+
 **1879 – 1935** · Ukrainian-Russian  
 Born: Kyiv, Russian Empire · Died: Leningrad  
 Movements: [Early Abstraction](../movements/abstraction.md)  
 
 > The founder of Suprematism, an abstraction of pure geometric form and 'the supremacy of pure feeling'.
+
+<sub>Portrait: Self-portrait, 1933 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Self-portrait_%28Malevich%2C_1933%29.jpg)</sub>
 
 ## Biography
 

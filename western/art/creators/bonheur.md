@@ -1,10 +1,14 @@
 # Rosa Bonheur
 
+<a href="https://commons.wikimedia.org/wiki/File:Rosa_Bonheur_with_Bull_%2C_by_E_L_Dubufe.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rosa_Bonheur_with_Bull_%2C_by_E_L_Dubufe.jpg/330px-Rosa_Bonheur_with_Bull_%2C_by_E_L_Dubufe.jpg" alt="Rosa Bonheur" title="Portrait by Édouard Louis Dubufe, 1857, with the bull painted by Bonheur"></a>
+
 **1822 – 1899** · French  
 Born: Bordeaux · Died: Thomery  
 Movements: [Realism](../movements/realism.md)  
 
 > The most famous woman painter of the 19th century, celebrated for animal paintings based on close study. She was the first woman artist awarded the Legion of Honour.
+
+<sub>Portrait: Portrait by Édouard Louis Dubufe, 1857, with the bull painted by Bonheur · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rosa_Bonheur_with_Bull_%2C_by_E_L_Dubufe.jpg)</sub>
 
 ## Biography
 

@@ -1,10 +1,14 @@
 # Eugène Delacroix
 
+<a href="https://commons.wikimedia.org/wiki/File:Autoportrait_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_25.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Autoportrait_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_25.jpg/330px-Autoportrait_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_25.jpg" alt="Eugène Delacroix" title="Self-portrait, c. 1837"></a>
+
 **1798 – 1863** · French  
 Born: Charenton-Saint-Maurice, France · Died: Paris  
 Movements: [Romanticism](../movements/romanticism.md)  
 
 > Leader of French Romantic painting, devoted to colour, movement and exotic or literary subjects. His handling of colour deeply influenced the Impressionists.
+
+<sub>Portrait: Self-portrait, c. 1837 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Autoportrait_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_25.jpg)</sub>
 
 ## Biography
 

@@ -12,10 +12,10 @@ Artists reject idealised history painting and depict ordinary people, labour and
 
 ## Artists
 
--  [Jean-François Millet](../creators/millet.md) (1814 – 1875)
--  [Gustave Courbet](../creators/courbet.md) (1819 – 1877)
--  [Rosa Bonheur](../creators/bonheur.md) (1822 – 1899)
--  [Édouard Manet](../creators/manet.md) (1832 – 1883)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Jean-Fran%C3%A7ois_Millet._Auto-retrato.jpg" width="40" alt="Jean-François Millet"> [Jean-François Millet](../creators/millet.md) (1814 – 1875)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gustave_Courbet_-_Le_D%C3%A9sesp%C3%A9r%C3%A9_%281843%29.jpg/330px-Gustave_Courbet_-_Le_D%C3%A9sesp%C3%A9r%C3%A9_%281843%29.jpg" width="40" alt="Gustave Courbet"> [Gustave Courbet](../creators/courbet.md) (1819 – 1877)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rosa_Bonheur_with_Bull_%2C_by_E_L_Dubufe.jpg/330px-Rosa_Bonheur_with_Bull_%2C_by_E_L_Dubufe.jpg" width="40" alt="Rosa Bonheur"> [Rosa Bonheur](../creators/bonheur.md) (1822 – 1899)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Henri_Fantin-Latour_-_%C3%89douard_Manet_-_1905.207_-_Art_Institute_of_Chicago.jpg/330px-Henri_Fantin-Latour_-_%C3%89douard_Manet_-_1905.207_-_Art_Institute_of_Chicago.jpg" width="40" alt="Édouard Manet"> [Édouard Manet](../creators/manet.md) (1832 – 1883)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Whistler_Selbstportr%C3%A4t.jpg/330px-Whistler_Selbstportr%C3%A4t.jpg" width="40" alt="James McNeill Whistler"> [James McNeill Whistler](../creators/whistler.md) (1834 – 1903)
 -  [John Singer Sargent](../creators/sargent.md) (1856 – 1925)
 

@@ -1,10 +1,14 @@
 # Claude Monet
 
+<a href="https://commons.wikimedia.org/wiki/File:Self-portrait-with-a-beret-1886.jpg%21Large.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Self-portrait-with-a-beret-1886.jpg%21Large.jpg" alt="Claude Monet" title="Self-Portrait with a Beret, 1886"></a>
+
 **1840 – 1926** · French  
 Born: Paris · Died: Giverny  
 Movements: [Impressionism](../movements/impressionism.md)  
 
 > The purest Impressionist, Monet painted the same motif in changing light in series such as haystacks, Rouen Cathedral and his water garden at Giverny.
+
+<sub>Portrait: Self-Portrait with a Beret, 1886 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Self-portrait-with-a-beret-1886.jpg%21Large.jpg)</sub>
 
 ## Biography
 

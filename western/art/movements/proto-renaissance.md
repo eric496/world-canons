@@ -12,9 +12,9 @@ Painters begin to break from flat Byzantine conventions, giving figures weight, 
 
 ## Artists
 
--  [Cimabue](../creators/cimabue.md) (c. 1240 – 1302)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/001_le_vite%2C_cimabue.jpg" width="40" alt="Cimabue"> [Cimabue](../creators/cimabue.md) (c. 1240 – 1302)
 -  [Duccio di Buoninsegna](../creators/duccio.md) (c. 1255 – c. 1319)
--  [Giotto di Bondone](../creators/giotto.md) (c. 1267 – 1337)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/007_le_vite%2C_giotto.jpg" width="40" alt="Giotto di Bondone"> [Giotto di Bondone](../creators/giotto.md) (c. 1267 – 1337)
 
 ## Key artworks
 

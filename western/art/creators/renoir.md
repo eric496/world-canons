@@ -1,10 +1,14 @@
 # Pierre-Auguste Renoir
 
+<a href="https://commons.wikimedia.org/wiki/File:Bazille%2C_Fr%C3%A9d%C3%A9ric_~_Portrait_of_Renoir%2C_1867%2C_oil_on_canvas.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Bazille%2C_Fr%C3%A9d%C3%A9ric_~_Portrait_of_Renoir%2C_1867%2C_oil_on_canvas.jpg" alt="Pierre-Auguste Renoir" title="Portrait by Frédéric Bazille, 1867"></a>
+
 **1841 – 1919** · French  
 Born: Limoges, France · Died: Cagnes-sur-Mer  
 Movements: [Impressionism](../movements/impressionism.md)  
 
 > Renoir's warm, dappled scenes of Parisians at leisure define the joyful side of Impressionism. He later turned toward a more classical, sculptural style.
+
+<sub>Portrait: Portrait by Frédéric Bazille, 1867 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bazille%2C_Fr%C3%A9d%C3%A9ric_~_Portrait_of_Renoir%2C_1867%2C_oil_on_canvas.jpg)</sub>
 
 ## Biography
 

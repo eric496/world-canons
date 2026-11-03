@@ -1,10 +1,14 @@
 # Henri de Toulouse-Lautrec
 
+<a href="https://commons.wikimedia.org/wiki/File:%28Albi%29_Auto-portrait_devant_un_miroir_-_1882_Toulouse-Lautrec_-_MLT.20.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/%28Albi%29_Auto-portrait_devant_un_miroir_-_1882_Toulouse-Lautrec_-_MLT.20.jpg/330px-%28Albi%29_Auto-portrait_devant_un_miroir_-_1882_Toulouse-Lautrec_-_MLT.20.jpg" alt="Henri de Toulouse-Lautrec" title="Self-portrait before a mirror, c. 1880–82"></a>
+
 **1864 – 1901** · French  
 Born: Albi, France · Died: Château Malromé, France  
 Movements: [Post-Impressionism](../movements/post-impressionism.md)  
 
 > The chronicler of Montmartre's cabarets, dance halls and brothels, whose bold posters transformed graphic design.
+
+<sub>Portrait: Self-portrait before a mirror, c. 1880–82 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%28Albi%29_Auto-portrait_devant_un_miroir_-_1882_Toulouse-Lautrec_-_MLT.20.jpg)</sub>
 
 ## Biography
 

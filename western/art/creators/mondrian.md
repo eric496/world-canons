@@ -1,10 +1,14 @@
 # Piet Mondrian
 
+<a href="https://commons.wikimedia.org/wiki/File:Mondrian_Zelfportret_1918.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Mondrian_Zelfportret_1918.jpg" alt="Piet Mondrian" title="Self-portrait, 1918"></a>
+
 **1872 – 1944** · Dutch  
 Born: Amersfoort, Netherlands · Died: New York  
 Movements: [Early Abstraction](../movements/abstraction.md)  
 
 > A founder of De Stijl, Mondrian reduced painting to black lines, white ground and primary colours in search of universal harmony.
+
+<sub>Portrait: Self-portrait, 1918 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mondrian_Zelfportret_1918.jpg)</sub>
 
 ## Biography
 
