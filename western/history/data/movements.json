@@ -1,0 +1,107 @@
+[
+ {
+  "id": "greek-historiography",
+  "name": "Greek historiography",
+  "dates": "c. 440–140 BC",
+  "period": "antiquity",
+  "summary": "History as a written inquiry begins in fifth-century Greece. Herodotus collected stories from across the known world to explain the war between Greeks and Persians; Thucydides narrowed the lens to a single war and to causes he could verify. Xenophon and, later, Polybius extended the tradition, the latter to explain Rome's rise to world power."
+ },
+ {
+  "id": "roman-historiography",
+  "name": "Roman historiography & biography",
+  "dates": "c. 60 BC – AD 200",
+  "period": "antiquity",
+  "summary": "Roman writers treated history as a branch of literature and moral instruction. Caesar wrote self-justifying war commentaries, Sallust and Tacitus anatomised political corruption, Livy told the whole story of the city from its foundation, and Suetonius and Plutarch made biography a major form. Greek-speaking subjects of the empire, such as Josephus and Arrian, wrote alongside them."
+ },
+ {
+  "id": "church-history",
+  "name": "Late antique & church history",
+  "dates": "c. 300–600",
+  "period": "antiquity",
+  "summary": "As the empire became Christian, Eusebius invented a new kind of history: the story of the Church, built on quoted documents. Ammianus Marcellinus wrote the last great Latin history in the classical manner, and Procopius chronicled Justinian's wars while secretly attacking him. Gregory of Tours carried the tradition into the Frankish kingdoms."
+ },
+ {
+  "id": "medieval-chronicles",
+  "name": "Medieval chronicles & charters",
+  "dates": "c. 700–1400",
+  "period": "middle-ages",
+  "summary": "Medieval history was written mostly in monasteries and courts: annals kept year by year, lives of rulers and saints, and grand chronicles of nations and crusades. Bede, Einhard, Anna Komnene, Matthew Paris and Froissart are among its masters. The period also produced records and charters, from Domesday Book to Magna Carta, that historians still mine and that shaped later law."
+ },
+ {
+  "id": "renaissance-history",
+  "name": "Renaissance humanist history",
+  "dates": "c. 1400–1560",
+  "period": "renaissance",
+  "summary": "Italian humanists modelled their histories on Livy and Thucydides, wrote about their own city-states in a secular, political voice and began to criticise sources. Leonardo Bruni divided history into ancient, medieval and modern; Lorenzo Valla proved a famous document a forgery; Machiavelli and Guicciardini analysed power with a new realism."
+ },
+ {
+  "id": "americas-chronicles",
+  "name": "Chronicles of the Americas",
+  "dates": "c. 1520–1600",
+  "period": "renaissance",
+  "summary": "The Spanish conquest of the Americas produced a large literature of eyewitness narrative, justification and protest. Conquistadors such as Bernal Díaz recorded their campaigns, while the Dominican friar Bartolomé de las Casas denounced the violence done to Indigenous peoples. These works raised questions about conquest and rights that are still debated."
+ },
+ {
+  "id": "early-modern-documents",
+  "name": "Early-modern political history & documents",
+  "dates": "c. 1590–1700",
+  "period": "seventeenth-century",
+  "summary": "Religious wars and constitutional conflicts produced landmark settlements: the Edict of Nantes, the Peace of Westphalia, and the English Petition of Right, Habeas Corpus Act and Bill of Rights. The same struggles produced histories written by participants, above all Clarendon's account of the English Civil War."
+ },
+ {
+  "id": "enlightenment-history",
+  "name": "Enlightenment history",
+  "dates": "c. 1730–1790",
+  "period": "enlightenment",
+  "summary": "Enlightenment historians widened history from kings and battles to manners, commerce, religion and ideas, and wrote it as a critical, often ironic, story of human progress and folly. Voltaire, Hume and Gibbon made it a bestselling literary form, read across Europe."
+ },
+ {
+  "id": "revolutionary-documents",
+  "name": "Age of Revolutions documents",
+  "dates": "1765–1804",
+  "period": "enlightenment",
+  "summary": "Between the American and Haitian revolutions, declarations, constitutions and pamphlets turned Enlightenment ideas of natural rights and popular sovereignty into political programmes. These texts, and the arguments against them, still frame debates about liberty, equality and the limits of government."
+ },
+ {
+  "id": "romantic-history",
+  "name": "Romantic & national history",
+  "dates": "c. 1820–1870",
+  "period": "nineteenth-century",
+  "summary": "Nineteenth-century historians wrote vivid narrative histories of nations and peoples, often with a political purpose. Michelet told France's story as the life of its people, Macaulay celebrated English constitutional liberty, Carlyle dramatised revolution and heroism, and Tocqueville studied democracy as a social condition."
+ },
+ {
+  "id": "nineteenth-century-documents",
+  "name": "Reform, emancipation & revolution",
+  "dates": "1848–1865",
+  "period": "nineteenth-century",
+  "summary": "Mid-century movements for women's rights, for socialism and against slavery produced short texts of lasting force: the Seneca Falls Declaration of Sentiments, the Communist Manifesto, and Lincoln's Emancipation Proclamation and Gettysburg Address."
+ },
+ {
+  "id": "scientific-history",
+  "name": "Professional & scientific history",
+  "dates": "c. 1824–1900",
+  "period": "nineteenth-century",
+  "summary": "In German universities history became a discipline with seminars, archives and footnotes. Ranke insisted on primary sources and on understanding each age in its own terms; Mommsen combined epigraphy and narrative; Acton promoted the ideal of impartial, collaborative scholarship. The model spread across Europe and America."
+ },
+ {
+  "id": "cultural-history",
+  "name": "Cultural history",
+  "dates": "c. 1860–1940",
+  "period": "nineteenth-century",
+  "summary": "Some historians turned from politics to the whole culture of an age: its art, festivals, beliefs and habits of mind. Burckhardt's portrait of Renaissance Italy and Huizinga's of late-medieval Burgundy are the classic examples of this approach."
+ },
+ {
+  "id": "annales-school",
+  "name": "Annales school",
+  "dates": "c. 1929–1970",
+  "period": "modern",
+  "summary": "Founded around the journal Annales by Marc Bloch and Lucien Febvre in 1929, this French school rejected narrow political narrative in favour of 'total history': geography, economy, society and mentalities over long periods. Fernand Braudel's study of the Mediterranean is its best-known achievement."
+ },
+ {
+  "id": "twentieth-century-history",
+  "name": "20th-century history & human-rights documents",
+  "dates": "c. 1890–1990",
+  "period": "contemporary",
+  "summary": "Twentieth-century historians brought race, class and empire to the centre of the discipline, from W. E. B. Du Bois to Eric Hobsbawm. After the Second World War, the Universal Declaration of Human Rights set out a common standard of rights for all peoples."
+ }
+]

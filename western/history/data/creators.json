@@ -1,0 +1,1190 @@
+[
+ {
+  "id": "herodotus",
+  "name": "Herodotus",
+  "born": "c. 484 BC",
+  "died": "c. 425 BC",
+  "sort": -484,
+  "birthplace": "Halicarnassus, Caria (now Bodrum, Turkey)",
+  "deathplace": "probably Thurii, southern Italy",
+  "nationality": "Greek",
+  "movements": [
+   "greek-historiography"
+  ],
+  "bio": "Called the 'father of history' by Cicero, Herodotus wrote the first large-scale prose inquiry into the past, explaining the wars between the Greeks and Persia.",
+  "bio_full": [
+   "Herodotus was born around 484 BC in Halicarnassus, a Greek city on the coast of Asia Minor then under Persian rule. Little is securely known of his life. He seems to have been exiled after political troubles in his home city, and he travelled widely, by his own account visiting Egypt, the Black Sea, Phoenicia and Babylon. He spent time in Athens, where he is said to have given public readings, and joined the Athenian colony at Thurii in southern Italy, where he probably died some time after 430 BC.",
+   "His Histories open by saying that he publishes his 'inquiry' (historia) so that great deeds should not be forgotten, and so that the cause of the conflict between Greeks and barbarians should be known. He gathered oral traditions, compared accounts and often reported versions he did not believe, letting the reader judge. Critics from Thucydides onwards called him credulous, a 'father of lies', but modern archaeology and ethnography have confirmed much of what he recorded, and his curiosity about other peoples makes him the founder of ethnography as well as of history."
+  ]
+ },
+ {
+  "id": "thucydides",
+  "name": "Thucydides",
+  "born": "c. 460 BC",
+  "died": "c. 400 BC",
+  "sort": -460,
+  "birthplace": "Athens",
+  "deathplace": "Athens or Thrace (uncertain)",
+  "nationality": "Greek (Athenian)",
+  "movements": [
+   "greek-historiography"
+  ],
+  "bio": "An Athenian general turned historian, Thucydides wrote the history of the Peloponnesian War with a rigour and analytical power that have made him a model for historians and political thinkers.",
+  "bio_full": [
+   "Thucydides was born in Athens around 460 BC into a wealthy family with connections to Thrace, where it owned gold-mining rights. He survived the plague that struck Athens in 430 BC and described its symptoms precisely. In 424 BC, as one of the city's generals, he failed to prevent the Spartan commander Brasidas from taking Amphipolis and was exiled for twenty years. He used his exile to gather information from both sides. His history breaks off in the middle of the events of 411 BC, and he probably died around 400 BC.",
+   "Thucydides set out to write a 'possession for all time' rather than a performance to please an audience. He rejected myth and hearsay, compared eyewitness reports, and sought the underlying causes of events, famously identifying Spartan fear of growing Athenian power as the truest cause of the war. The speeches he composed for his characters, such as Pericles' Funeral Oration and the Melian Dialogue, set out the logic of power and justice with stark clarity. He became a founding text for the study of international relations, and is often cited in debates about realism in politics."
+  ]
+ },
+ {
+  "id": "xenophon",
+  "name": "Xenophon",
+  "born": "c. 430 BC",
+  "died": "c. 354 BC",
+  "sort": -430,
+  "birthplace": "Athens",
+  "deathplace": "probably Corinth",
+  "nationality": "Greek (Athenian)",
+  "movements": [
+   "greek-historiography"
+  ],
+  "bio": "Soldier, pupil of Socrates and versatile writer, Xenophon told the story of the Ten Thousand's march out of Persia and continued Thucydides' history of Greece.",
+  "bio_full": [
+   "Xenophon was born in Athens around 430 BC into a well-off family and became a follower of Socrates. In 401 BC he joined a Greek mercenary army hired by the Persian prince Cyrus the Younger in his bid for the throne. After Cyrus was killed at Cunaxa and the Greek generals were treacherously murdered, Xenophon was among those elected to lead the Ten Thousand on their long retreat to the Black Sea. He later served with Sparta, was exiled from Athens, and lived for many years on an estate near Olympia given him by the Spartans, before moving, probably, to Corinth.",
+   "Xenophon wrote in a clear, plain Attic prose that later made him a schoolroom author. Besides the Anabasis and the Hellenica, he wrote Socratic dialogues and memoirs, a fictionalised education of Cyrus the Great, and treatises on hunting, horsemanship and household management. Modern historians value him as an eyewitness while noting his pro-Spartan sympathies and his omissions. The Anabasis in particular inspired later generals and writers, and his portrait of Socrates complements Plato's."
+  ]
+ },
+ {
+  "id": "polybius",
+  "name": "Polybius",
+  "born": "c. 200 BC",
+  "died": "c. 118 BC",
+  "sort": -200,
+  "birthplace": "Megalopolis, Arcadia",
+  "deathplace": "Greece",
+  "nationality": "Greek",
+  "movements": [
+   "greek-historiography"
+  ],
+  "bio": "A Greek statesman taken to Rome as a hostage, Polybius wrote a universal history to explain how Rome came to dominate the Mediterranean world in barely fifty years.",
+  "bio_full": [
+   "Polybius was born around 200 BC in Megalopolis, a leading city of the Achaean League, and was the son of one of its statesmen. After Rome's victory over Macedon in 168 BC he was among a thousand Achaean notables deported to Italy. In Rome he became the friend and mentor of the young Scipio Aemilianus, and he was present at the destruction of Carthage in 146 BC. He later helped settle the affairs of Greece after its conquest by Rome. He is said to have died after a fall from a horse at the age of 82.",
+   "His Histories, in forty books of which five survive complete, cover the years from about 264 to 146 BC. Polybius insisted that historians must have political and military experience, visit the places they describe and examine documents, and he attacked earlier writers who wrote for entertainment. His analysis of the Roman constitution as a stable mixture of monarchy, aristocracy and democracy, and his theory of a cycle of constitutions, deeply influenced Machiavelli, Montesquieu and the framers of the United States Constitution."
+  ]
+ },
+ {
+  "id": "julius-caesar",
+  "name": "Gaius Julius Caesar",
+  "born": "100 BC",
+  "died": "44 BC",
+  "sort": -100,
+  "birthplace": "Rome",
+  "deathplace": "Rome",
+  "nationality": "Roman",
+  "movements": [
+   "roman-historiography"
+  ],
+  "bio": "Roman general, dictator and writer, Caesar recorded his conquest of Gaul and his civil war in terse commentaries that are also brilliant pieces of political self-presentation.",
+  "bio_full": [
+   "Gaius Julius Caesar was born in Rome in 100 BC into an old patrician family. He rose through the offices of the Republic, formed an alliance with Pompey and Crassus, and as governor of Gaul from 58 BC conquered the whole of the region between the Pyrenees and the Rhine, also crossing into Britain and Germany. In 49 BC he led his army across the Rubicon into Italy, beginning a civil war against Pompey and the Senate. Victorious, he was made dictator for life, and was assassinated by a group of senators on the Ides of March, 44 BC.",
+   "Caesar wrote his commentaries in a famously clean, unadorned Latin, referring to himself in the third person. The form, a general's notes ostensibly offered as raw material for future historians, gave his account an air of objectivity while presenting his actions in the best light; his contemporary Cicero praised their bare elegance. They are the main source for the Gallic Wars and the civil war, and they have long been used to teach Latin. His name became a title for emperors, from Kaiser to Tsar."
+  ]
+ },
+ {
+  "id": "sallust",
+  "name": "Sallust (Gaius Sallustius Crispus)",
+  "born": "86 BC",
+  "died": "c. 35 BC",
+  "sort": -86,
+  "birthplace": "Amiternum, Italy",
+  "deathplace": "Rome",
+  "nationality": "Roman",
+  "movements": [
+   "roman-historiography"
+  ],
+  "bio": "A Caesarian politician who turned to history, Sallust wrote short, pungent monographs on the moral decline of the Roman Republic.",
+  "bio_full": [
+   "Gaius Sallustius Crispus was born in 86 BC at Amiternum in the Sabine country, to a plebeian family. He was tribune of the people in 52 BC, was expelled from the Senate in 50 BC, allegedly for immorality, and then sided with Caesar in the civil war. As governor of the province of Africa Nova he was accused of extortion but escaped trial, and he retired very rich to his famous gardens in Rome, the Horti Sallustiani. After Caesar's murder he withdrew from politics and devoted himself to writing.",
+   "Sallust wrote two complete monographs, on the conspiracy of Catiline and on the war against Jugurtha, and a larger Histories that survives only in fragments. His style is compressed, archaic and abrupt, deliberately modelled on Thucydides, and his theme is the corruption of Roman virtue by wealth, ambition and faction after the fall of Carthage. Readers have long noted the gap between his moralising and his own career. He was much admired by Tacitus and by Renaissance and early-modern political writers."
+  ]
+ },
+ {
+  "id": "livy",
+  "name": "Livy (Titus Livius)",
+  "born": "c. 59 BC",
+  "died": "AD 17",
+  "sort": -59,
+  "birthplace": "Patavium (Padua), Italy",
+  "deathplace": "Patavium (Padua)",
+  "nationality": "Roman",
+  "movements": [
+   "roman-historiography"
+  ],
+  "bio": "Livy wrote the history of Rome from its foundation in 142 books, giving later ages their picture of early Roman heroes, virtues and legends.",
+  "bio_full": [
+   "Titus Livius was born in Patavium, modern Padua, probably in 59 BC. Unlike most Roman historians he held no political or military office, and he seems to have devoted his life to writing. He lived in Rome under Augustus, with whom he was on friendly terms despite his open admiration for Pompey and the Republic; he is said to have encouraged the future emperor Claudius to write history. He began his great work around 27 BC and worked on it for the rest of his life, returning to Padua, where he died in AD 17.",
+   "Livy's history, Ab Urbe Condita, is less a critical investigation than a moral and patriotic narrative. He admits that the early stories are legend, but he uses them to show the virtues that made Rome great and the vices that later undermined it. His prose is rich and dramatic, and his speeches and scenes, from the rape of Lucretia to Hannibal crossing the Alps, became stock subjects for painters and poets. Machiavelli wrote his Discourses as a commentary on Livy, and the work shaped the republican thought of early-modern Europe."
+  ]
+ },
+ {
+  "id": "tacitus",
+  "name": "Publius Cornelius Tacitus",
+  "born": "c. AD 56",
+  "died": "c. 120",
+  "sort": 56,
+  "birthplace": "probably Gaul or northern Italy",
+  "deathplace": "unknown",
+  "nationality": "Roman",
+  "movements": [
+   "roman-historiography"
+  ],
+  "bio": "Senator and historian, Tacitus chronicled the early Roman emperors with a compressed, ironic brilliance and a deep suspicion of tyranny.",
+  "bio_full": [
+   "Tacitus was born around AD 56, probably in Gallia Narbonensis or northern Italy, into a family of equestrian rank. He married the daughter of Gnaeus Julius Agricola, the governor of Britain, and had a distinguished senatorial career under the Flavian emperors, reaching the consulship in 97 and later governing the province of Asia. He was a renowned orator and a friend of Pliny the Younger, who wrote to him about the eruption of Vesuvius. He died some time after 117.",
+   "Tacitus wrote two short works, the Agricola and the Germania, and two great histories, the Histories and the Annals, which together covered the empire from the death of Augustus to the death of Domitian. Only parts survive. He promised to write 'without anger or partiality', but his account is shaped by a senator's bitterness at the loss of liberty and the servility of his class. His terse, epigrammatic style and psychological insight made him the favourite historian of early-modern critics of absolutism, and his account of the Germans was later put to nationalist uses he could not have imagined."
+  ]
+ },
+ {
+  "id": "suetonius",
+  "name": "Suetonius (Gaius Suetonius Tranquillus)",
+  "born": "c. AD 69",
+  "died": "after 122",
+  "sort": 69,
+  "birthplace": "probably Hippo Regius, North Africa (uncertain)",
+  "deathplace": "unknown",
+  "nationality": "Roman",
+  "movements": [
+   "roman-historiography"
+  ],
+  "bio": "A scholar and imperial secretary, Suetonius wrote biographies of the first twelve Caesars full of personal detail, gossip and scandal.",
+  "bio_full": [
+   "Gaius Suetonius Tranquillus was born around AD 69 into an equestrian family; an inscription suggests links with Hippo Regius in North Africa. He was a protégé of Pliny the Younger, practised law, and rose to senior posts in the imperial household under Trajan and Hadrian, including responsibility for the libraries and the emperor's correspondence. This gave him access to the imperial archives. According to a later source he was dismissed around 122 for disrespect towards the empress Sabina. Little is known after that.",
+   "Suetonius was a prolific antiquarian scholar, but only the Lives of the Caesars and part of his Lives of Illustrious Men survive. His biographies are arranged by topic rather than chronology, covering ancestry, career, appearance, habits and death, and they preserve documents and anecdotes found nowhere else. He was long dismissed as a gossip, but his method shaped biography for centuries: Einhard modelled his life of Charlemagne on him, and his portraits of Caligula and Nero still dominate the popular image of those emperors."
+  ]
+ },
+ {
+  "id": "plutarch",
+  "name": "Plutarch",
+  "born": "c. AD 46",
+  "died": "after 119",
+  "sort": 46,
+  "birthplace": "Chaeronea, Boeotia, Greece",
+  "deathplace": "Chaeronea",
+  "nationality": "Greek (Roman citizen)",
+  "movements": [
+   "roman-historiography"
+  ],
+  "bio": "A Greek philosopher and priest at Delphi, Plutarch wrote paired biographies of famous Greeks and Romans that became one of the most widely read books in European history.",
+  "bio_full": [
+   "Plutarch was born around AD 46 in Chaeronea in Boeotia, into a prosperous family. He studied philosophy in Athens, travelled to Egypt and Italy, and lectured in Rome, where he made influential friends and became a Roman citizen. Yet he chose to live in his small home town, serving as a magistrate and for many years as one of the priests of Apollo at Delphi. He died some time after 119.",
+   "Besides the Parallel Lives he wrote a huge range of essays on ethics, religion, politics and natural science, collected as the Moralia. Plutarch said he wrote lives, not histories: his interest was character, shown as much in small gestures as in great battles. Translated into French by Amyot and into English by North, the Lives were read by Montaigne, supplied Shakespeare with the plots of Julius Caesar, Antony and Cleopatra and Coriolanus, and inspired revolutionaries in America and France with models of republican virtue."
+  ]
+ },
+ {
+  "id": "josephus",
+  "name": "Flavius Josephus",
+  "born": "AD 37",
+  "died": "c. 100",
+  "sort": 37,
+  "birthplace": "Jerusalem",
+  "deathplace": "probably Rome",
+  "nationality": "Jewish (Roman citizen)",
+  "movements": [
+   "roman-historiography"
+  ],
+  "bio": "A Jewish priest and rebel commander who went over to Rome, Josephus wrote the main history of the Jewish revolt and of the Jewish people in antiquity.",
+  "bio_full": [
+   "Joseph ben Matityahu was born in Jerusalem in AD 37 into a priestly family. When the Jews revolted against Rome in 66 he was given command of Galilee. Besieged at Jotapata in 67, he survived a suicide pact and surrendered to Vespasian, whose rise to emperor he is said to have predicted. Freed when the prophecy came true, he took the family name Flavius and accompanied Titus at the siege and destruction of Jerusalem in 70. He spent the rest of his life in Rome as a pensioner of the Flavian emperors, writing in Greek.",
+   "Josephus wrote The Jewish War, the Antiquities of the Jews, a defensive autobiography and the apologetic Against Apion. He is our principal source for the history of Judaea in the late Second Temple period, for figures such as Herod the Great and for the fall of Masada. His works were preserved by Christians, partly because of brief passages about John the Baptist, James and Jesus; the main passage on Jesus, the Testimonium Flavianum, is widely thought to have been altered by later Christian copyists, though how much is debated. Jews long regarded him as a traitor; modern scholars read him as a complex figure caught between two worlds."
+  ]
+ },
+ {
+  "id": "arrian",
+  "name": "Arrian of Nicomedia",
+  "born": "c. AD 86",
+  "died": "after 145",
+  "sort": 86,
+  "birthplace": "Nicomedia, Bithynia (now İzmit, Turkey)",
+  "deathplace": "probably Athens",
+  "nationality": "Greek (Roman citizen)",
+  "movements": [
+   "roman-historiography"
+  ],
+  "bio": "A Greek philosopher, Roman governor and general, Arrian wrote the most reliable surviving account of Alexander the Great's campaigns.",
+  "bio_full": [
+   "Lucius Flavius Arrianus was born around AD 86 in Nicomedia in Bithynia. As a young man he studied with the Stoic philosopher Epictetus, whose teachings he recorded as the Discourses and the Handbook. He then entered Roman service, reached the consulship around 130 under Hadrian, and governed Cappadocia, where he repelled an invasion by the Alans. In later life he lived in Athens, where he held the chief magistracy, and devoted himself to writing.",
+   "Arrian consciously modelled himself on Xenophon, calling himself a new Xenophon. His Anabasis of Alexander is based on lost accounts by Ptolemy and Aristobulus, who had served with Alexander, and he explains his choice of sources in a way modern historians admire. He also wrote on India, on tactics, on hunting and on the Black Sea coast. Because the contemporary histories of Alexander are lost, Arrian remains the foundation of most modern narratives of the conqueror's life."
+  ]
+ },
+ {
+  "id": "ammianus",
+  "name": "Ammianus Marcellinus",
+  "born": "c. 330",
+  "died": "c. 395",
+  "sort": 330,
+  "birthplace": "probably Antioch, Syria",
+  "deathplace": "probably Rome",
+  "nationality": "Roman (Greek-speaking)",
+  "movements": [
+   "church-history"
+  ],
+  "bio": "A Greek-speaking soldier from Antioch, Ammianus wrote in Latin the last great history of Rome in the classical tradition.",
+  "bio_full": [
+   "Ammianus Marcellinus was born around 330, probably in Antioch, into a family of some standing. He served as an officer of the imperial guard on the staff of the general Ursicinus in the East and in Gaul, was present at the Persian siege of Amida in 359 and escaped its fall, and took part in the emperor Julian's ill-fated Persian campaign of 363. He later travelled, then settled in Rome, where he wrote his history in the 380s and early 390s.",
+   "His Res Gestae continued Tacitus, covering the years from 96 to 378, but only the books from 353 onward survive. Ammianus is an eyewitness for much of what he describes, and he combines vivid narrative with digressions on geography, the Huns and Roman society. A pagan who admired Julian, he writes about Christianity with notable restraint. His account ends with the Roman catastrophe at Adrianople in 378, and Gibbon called him an accurate and faithful guide."
+  ]
+ },
+ {
+  "id": "eusebius",
+  "name": "Eusebius of Caesarea",
+  "born": "c. 260",
+  "died": "339",
+  "sort": 260,
+  "birthplace": "probably Caesarea Maritima, Palestine",
+  "deathplace": "Caesarea Maritima",
+  "nationality": "Roman (Greek-speaking)",
+  "movements": [
+   "church-history"
+  ],
+  "bio": "Bishop of Caesarea and adviser to Constantine, Eusebius invented church history and wrote the first chronicle of world history in Christian terms.",
+  "bio_full": [
+   "Eusebius was born around 260, probably in Caesarea in Palestine, where he studied under the scholar Pamphilus and used the great library founded by Origen. He lived through the Great Persecution of the early fourth century, in which Pamphilus was martyred, and became bishop of Caesarea around 313. He was a leading figure at the Council of Nicaea in 325 and became an admirer and panegyrist of the emperor Constantine. He died in 339.",
+   "Eusebius' Ecclesiastical History quoted documents at length, a method unusual in classical history, and preserved many earlier Christian texts that are otherwise lost. His Chronicle laid out the histories of many peoples in parallel columns, giving medieval Europe its framework of world chronology. His Life of Constantine is closer to panegyric than history and its reliability is debated. He is often called the father of church history."
+  ]
+ },
+ {
+  "id": "procopius",
+  "name": "Procopius of Caesarea",
+  "born": "c. 500",
+  "died": "c. 565",
+  "sort": 500,
+  "birthplace": "Caesarea Maritima, Palestine",
+  "deathplace": "probably Constantinople",
+  "nationality": "Byzantine (Greek-speaking)",
+  "movements": [
+   "church-history"
+  ],
+  "bio": "Secretary to the general Belisarius, Procopius wrote the official history of Justinian's wars, and secretly a scandalous attack on the emperor and empress.",
+  "bio_full": [
+   "Procopius was born around 500 in Caesarea in Palestine and trained in law. In 527 he became legal adviser and secretary to Belisarius, Justinian's leading general, and accompanied him on campaigns against Persia, against the Vandals in North Africa and against the Ostrogoths in Italy. He was in Constantinople during the Nika riots of 532 and the great plague of 542, which he described. His later life is obscure; he probably died in the 560s.",
+   "Procopius wrote three very different works: the Wars, a classical narrative of Justinian's campaigns; the Buildings, a panegyric of the emperor's construction projects, including Hagia Sophia; and the Secret History, a venomous account of Justinian, Theodora and Belisarius that was not published in his lifetime. Reconciling the three has been a puzzle for scholars. He is the principal source for the age of Justinian and the last major historian of antiquity in the classical manner."
+  ]
+ },
+ {
+  "id": "gregory-of-tours",
+  "name": "Gregory of Tours",
+  "born": "c. 538",
+  "died": "594",
+  "sort": 538,
+  "birthplace": "Clermont, Gaul (now Clermont-Ferrand, France)",
+  "deathplace": "Tours",
+  "nationality": "Gallo-Roman",
+  "movements": [
+   "church-history"
+  ],
+  "bio": "Bishop of Tours, Gregory wrote the History of the Franks, the chief source for the early Merovingian kingdoms.",
+  "bio_full": [
+   "Georgius Florentius, later called Gregory, was born around 538 in Clermont into a Gallo-Roman senatorial family that had produced many bishops. He was educated by churchmen, and in 573 he became bishop of Tours, home to the shrine of St Martin, one of the most important churches in Gaul. As bishop he dealt directly with the quarrelsome Frankish kings, defending his church and his own position, and on one occasion stood trial on a charge of slandering the queen. He died in 594.",
+   "Gregory's Ten Books of Histories run from the Creation to 591, but most of them describe his own time in dense, anecdotal detail: murders, feuds, miracles, plagues and royal intrigue. He wrote in a Latin he himself apologised for as rustic. Older readers saw a credulous chronicler of a barbarous age; modern scholars stress his careful moral and theological design. He also wrote several books on miracles and saints' lives."
+  ]
+ },
+ {
+  "id": "bede",
+  "name": "Bede",
+  "born": "c. 673",
+  "died": "735",
+  "sort": 673,
+  "birthplace": "Northumbria, England",
+  "deathplace": "Jarrow, Northumbria",
+  "nationality": "Anglo-Saxon (English)",
+  "movements": [
+   "medieval-chronicles"
+  ],
+  "bio": "A Northumbrian monk and the most learned scholar of his age, Bede wrote the Ecclesiastical History of the English People and popularised dating years from the birth of Christ.",
+  "bio_full": [
+   "Bede was born around 673 on lands belonging to the twin monastery of Wearmouth-Jarrow in Northumbria and was given to the monastery at the age of seven. He spent almost his whole life there, as monk and priest, studying in one of the finest libraries in western Europe, assembled by the abbots Benedict Biscop and Ceolfrith. He died at Jarrow in 735, reportedly while finishing a translation of the Gospel of John. He was later called 'the Venerable' and was declared a Doctor of the Church in 1899.",
+   "Bede wrote biblical commentaries, works on grammar, poetry, science and time-reckoning, saints' lives and a martyrology. His Ecclesiastical History, completed in 731, names his informants and quotes documents, and is the foundation of early English history. His use of anno Domini dating, in this work and his treatise on time, did much to spread the system across Europe. He is often called the father of English history."
+  ]
+ },
+ {
+  "id": "einhard",
+  "name": "Einhard",
+  "born": "c. 775",
+  "died": "840",
+  "sort": 775,
+  "birthplace": "Main valley, East Francia (Germany)",
+  "deathplace": "Seligenstadt",
+  "nationality": "Frankish",
+  "movements": [
+   "medieval-chronicles"
+  ],
+  "bio": "A scholar and courtier of Charlemagne, Einhard wrote the Life of Charlemagne, the first secular biography of the Middle Ages.",
+  "bio_full": [
+   "Einhard was born around 775 into a Frankish landowning family in the Main valley and was educated at the monastery of Fulda. Around 791 he was sent to Charlemagne's court, where he joined the circle of scholars around Alcuin and became a trusted adviser and builder; he may have overseen work on the palace at Aachen. He continued to serve Charlemagne's son Louis the Pious, who granted him estates, and in later life he founded an abbey at Seligenstadt, where he died in 840.",
+   "Einhard's Life of Charlemagne, written probably in the 820s, borrows its structure and many phrases from Suetonius' lives of the emperors, an early sign of the Carolingian revival of classical learning. It is a vivid portrait by someone who knew the king personally, though it is also idealised. Einhard also wrote letters and an account of the transfer of relics to his abbey. His church at Steinbach still stands."
+  ]
+ },
+ {
+  "id": "anglo-saxon-chroniclers",
+  "name": "Anglo-Saxon chroniclers",
+  "born": "9th century",
+  "died": "12th century",
+  "sort": 890,
+  "birthplace": "England",
+  "deathplace": "England",
+  "nationality": "English (anonymous)",
+  "movements": [
+   "medieval-chronicles"
+  ],
+  "bio": "The anonymous scribes in several English monasteries who compiled and continued the Anglo-Saxon Chronicle from the reign of Alfred the Great to 1154.",
+  "bio_full": [
+   "The Anglo-Saxon Chronicle was begun in Wessex in the late ninth century, probably in the circle of King Alfred the Great, though not necessarily by his direct command. Copies were sent to monasteries around England, where generations of unnamed monks continued them, each adding entries for their own time and region. The surviving manuscripts come from places such as Winchester, Abingdon, Worcester and Peterborough, where the last entries were made in 1154.",
+   "Writing year by year in Old English, rather than in Latin, the chroniclers created the first continuous history of a European people in its own language. Their entries range from a single line to vivid narrative and poetry, such as the poem on the battle of Brunanburh. The Chronicle is the essential source for the Viking wars and late Anglo-Saxon England, and a key document for the history of the English language."
+  ]
+ },
+ {
+  "id": "bayeux-tapestry-makers",
+  "name": "Makers of the Bayeux Tapestry",
+  "born": "11th century",
+  "died": "11th century",
+  "sort": 1070,
+  "birthplace": "probably Canterbury, England",
+  "deathplace": "England",
+  "nationality": "English (anonymous)",
+  "movements": [
+   "medieval-chronicles"
+  ],
+  "bio": "The anonymous designers and embroiderers, probably English, who made the Bayeux Tapestry for, it is widely believed, Bishop Odo of Bayeux.",
+  "bio_full": [
+   "Nothing is known for certain of the people who made the Bayeux Tapestry. Most scholars believe it was commissioned by Bishop Odo of Bayeux, William the Conqueror's half-brother, perhaps for the consecration of Bayeux Cathedral in 1077, and that it was designed and stitched in England, probably at Canterbury, within a few years of the Norman Conquest. English needlework was famous across Europe, and Old English spellings in the inscriptions support this view, though other theories have been proposed.",
+   "Whoever they were, the designers composed a continuous narrative of about seventy metres, combining a main story told largely from the Norman point of view with borders of fables, animals and everyday scenes that sometimes comment on the action. They worked in coloured wools on linen using a limited palette. The result is both a historical source and one of the great works of medieval art."
+  ]
+ },
+ {
+  "id": "william-the-conqueror",
+  "name": "William the Conqueror",
+  "born": "c. 1028",
+  "died": "1087",
+  "sort": 1028,
+  "birthplace": "Falaise, Normandy",
+  "deathplace": "Rouen, Normandy",
+  "nationality": "Norman",
+  "movements": [
+   "medieval-chronicles"
+  ],
+  "bio": "Duke of Normandy and King of England from 1066, William ordered the great survey of his kingdom recorded in Domesday Book.",
+  "bio_full": [
+   "William was born around 1028 at Falaise, the illegitimate son of Duke Robert I of Normandy, and became duke as a child. He secured his duchy through years of warfare. Claiming that Edward the Confessor had promised him the English throne, he invaded England in 1066 and defeated King Harold at Hastings, being crowned on Christmas Day. He suppressed English revolts harshly, most notoriously in the 'Harrying of the North', and replaced the English aristocracy with Normans. He died in 1087 at Rouen after being injured on campaign.",
+   "At Christmas 1085, at Gloucester, William ordered a survey of the landholdings and resources of his kingdom, compiled with remarkable speed in 1086. The resulting Domesday Book is the most complete record of any European kingdom of its time. William's reign transformed England's language, aristocracy, architecture and church, and remains a turning point in English history; how far it was a clean break with Anglo-Saxon England is still debated."
+  ]
+ },
+ {
+  "id": "anna-komnene",
+  "name": "Anna Komnene",
+  "born": "1083",
+  "died": "c. 1153",
+  "sort": 1083,
+  "birthplace": "Constantinople",
+  "deathplace": "Constantinople",
+  "nationality": "Byzantine",
+  "movements": [
+   "medieval-chronicles"
+  ],
+  "bio": "A Byzantine princess and scholar, Anna Komnene wrote the Alexiad, a history of her father's reign and one of the first major histories written by a woman.",
+  "bio_full": [
+   "Anna Komnene was born in Constantinople in 1083, the eldest child of the emperor Alexios I Komnenos and Irene Doukaina. She received an exceptional education in literature, philosophy, medicine and science. Betrothed as a child to the heir to the throne, she lost her prospects when her brother John was born. After her father's death in 1118 she was implicated in a plot against John and spent much of her later life in the convent of Kecharitomene, where she wrote her history. She died around 1153.",
+   "The Alexiad, written in learned classicising Greek, describes Alexios' struggles against Normans, Pechenegs, Turks and the knights of the First Crusade, whom Anna viewed with a mixture of fascination and distrust. It is a partisan portrait of her father, but also rich and well informed, drawing on documents and veterans' testimony. It offers a Byzantine view of the crusades and is a key source for the period."
+  ]
+ },
+ {
+  "id": "geoffrey-of-monmouth",
+  "name": "Geoffrey of Monmouth",
+  "born": "c. 1095",
+  "died": "c. 1155",
+  "sort": 1095,
+  "birthplace": "probably Monmouth, Wales",
+  "deathplace": "probably Llandaff or Oxford",
+  "nationality": "Welsh / Cambro-Norman",
+  "movements": [
+   "medieval-chronicles"
+  ],
+  "bio": "A cleric at Oxford, Geoffrey wrote the History of the Kings of Britain, which created the legend of King Arthur as Europe came to know it.",
+  "bio_full": [
+   "Geoffrey was probably born around 1095 in or near Monmouth in Wales, perhaps of Breton descent. From the 1120s to the 1150s he appears as a canon of the collegiate church of St George at Oxford, where he witnessed charters with other scholars. In 1152 he was consecrated bishop of St Asaph in north Wales, though he probably never visited the see. He died around 1155.",
+   "His History of the Kings of Britain, finished around 1136, claimed to translate an ancient British book, a claim most scholars treat as a literary device. It traces British kings from the Trojan Brutus to the seventh century and gives the fullest early account of Arthur, Merlin, Lear and Cymbeline. Critics such as William of Newburgh denounced it almost at once as fiction, but it was a medieval bestseller, surviving in over two hundred manuscripts, and it shaped Arthurian romance and English national myth for centuries."
+  ]
+ },
+ {
+  "id": "english-barons-1215",
+  "name": "The barons and King John",
+  "born": "1215",
+  "died": "1215",
+  "sort": 1215,
+  "birthplace": "England",
+  "deathplace": "England",
+  "nationality": "English",
+  "movements": [
+   "medieval-chronicles"
+  ],
+  "bio": "The rebel English barons, Archbishop Stephen Langton and King John, whose negotiations at Runnymede in June 1215 produced Magna Carta.",
+  "bio_full": [
+   "King John of England, who reigned from 1199 to 1216, lost Normandy to the French king in 1204 and raised heavy taxes and feudal dues to fund attempts to win it back. After the failure of his campaign of 1214, a group of barons renounced their allegiance and seized London in May 1215. Mediated in part by Stephen Langton, archbishop of Canterbury, the two sides met at Runnymede, beside the Thames, where in mid-June the king agreed to a charter of liberties.",
+   "The charter was a peace treaty that failed: within months John had it annulled by Pope Innocent III and civil war resumed. It was reissued in revised forms after his death in 1216 and in 1217 and 1225, and became part of English law. Its authors were concerned chiefly with the rights of free men, the church and the barons, but later generations reinterpreted it as a charter of universal liberties."
+  ]
+ },
+ {
+  "id": "matthew-paris",
+  "name": "Matthew Paris",
+  "born": "c. 1200",
+  "died": "1259",
+  "sort": 1200,
+  "birthplace": "England",
+  "deathplace": "St Albans Abbey, Hertfordshire",
+  "nationality": "English",
+  "movements": [
+   "medieval-chronicles"
+  ],
+  "bio": "A Benedictine monk of St Albans, Matthew Paris was the foremost English chronicler of the thirteenth century and illustrated his own manuscripts.",
+  "bio_full": [
+   "Matthew Paris entered the Benedictine abbey of St Albans in 1217 and spent most of his life there. The abbey was a major stop on the road north of London, and visitors, including King Henry III, who knew him personally, brought him news. In 1248 he was sent on a mission to reform a monastery in Norway. He took over the abbey's chronicle from Roger of Wendover around 1236 and continued it until his death in 1259.",
+   "His Chronica Majora is a vast history of the world from the Creation, becoming richly detailed for his own time, with copies of documents and outspoken criticism of the king and the papacy. Unusually, Matthew drew and painted many illustrations in the margins, and also made maps, including some of the earliest detailed maps of Britain, and a drawing of an elephant given to Henry III. He is valued both as a historian and as an artist."
+  ]
+ },
+ {
+  "id": "froissart",
+  "name": "Jean Froissart",
+  "born": "c. 1337",
+  "died": "c. 1405",
+  "sort": 1337,
+  "birthplace": "Valenciennes, County of Hainaut",
+  "deathplace": "probably Chimay, Hainaut",
+  "nationality": "Hainuyer (French-speaking)",
+  "movements": [
+   "medieval-chronicles"
+  ],
+  "bio": "A poet and courtier from Hainaut, Froissart wrote the great chronicle of chivalry and war in the first half of the Hundred Years' War.",
+  "bio_full": [
+   "Jean Froissart was born around 1337 in Valenciennes in the county of Hainaut. In 1361 he went to England as a secretary and poet to Queen Philippa of Hainaut, wife of Edward III. After her death in 1369 he found patrons in the Low Countries, became a priest, and travelled widely, to Scotland, Italy, the court of Gaston Fébus at Orthez and, in 1395, England once more. He died around 1405, probably at Chimay, where he was a canon.",
+   "Froissart's Chronicles cover events from around 1322 to 1400 in France, England, Scotland, the Low Countries and Spain. He gathered material by interviewing knights, heralds and servants and kept revising his text. His interest was in noble deeds and spectacle, from the battles of Crécy and Poitiers to the Peasants' Revolt, and he wrote from the point of view of the aristocracy. Richly illuminated copies were made for princes, and his work remained hugely popular, inspiring Walter Scott and many painters."
+  ]
+ },
+ {
+  "id": "bruni",
+  "name": "Leonardo Bruni",
+  "born": "c. 1370",
+  "died": "1444",
+  "sort": 1370,
+  "birthplace": "Arezzo, Tuscany",
+  "deathplace": "Florence",
+  "nationality": "Italian (Florentine)",
+  "movements": [
+   "renaissance-history"
+  ],
+  "bio": "Humanist and chancellor of Florence, Bruni wrote a history of the Florentine people that is often called the first modern work of history.",
+  "bio_full": [
+   "Leonardo Bruni was born around 1370 in Arezzo and studied in Florence, where he learned Greek from the Byzantine scholar Manuel Chrysoloras. He served as a papal secretary for a decade before returning to Florence, where he was chancellor of the republic from 1427 until his death in 1444. He was given a state funeral and a magnificent tomb in Santa Croce, sculpted by Bernardo Rossellino, with his History laid on his breast.",
+   "Bruni translated Plato, Aristotle and Plutarch into elegant Latin and wrote lives of Dante and Petrarch. In his History of the Florentine People he rejected legend and divine providence as explanations, used archival documents, and told the story of the republic as one of civic liberty. He described the period after the fall of Rome as a long decline and his own age as a revival, helping to create the threefold division of history into ancient, medieval and modern."
+  ]
+ },
+ {
+  "id": "valla",
+  "name": "Lorenzo Valla",
+  "born": "c. 1407",
+  "died": "1457",
+  "sort": 1407,
+  "birthplace": "Rome",
+  "deathplace": "Rome",
+  "nationality": "Italian",
+  "movements": [
+   "renaissance-history"
+  ],
+  "bio": "A combative humanist and philologist, Valla proved that the Donation of Constantine, the basis of papal claims to temporal power, was a forgery.",
+  "bio_full": [
+   "Lorenzo Valla was born in Rome around 1407 and educated in humanist circles. Quarrelsome and brilliant, he taught rhetoric at Pavia, which he had to leave after attacking a famous jurist, and then served as secretary to King Alfonso of Aragon and Naples, an enemy of the papacy. His critical writings brought him before the Inquisition in Naples, but the king protected him. Late in life he was reconciled with Rome and worked as a papal secretary under Nicholas V. He died in Rome in 1457.",
+   "Valla's treatise on the Donation of Constantine (1440) showed by historical and linguistic analysis that the document could not date from the fourth century. His Elegances of the Latin Language set new standards for classical Latin, and his annotations on the New Testament inspired Erasmus. His method, judging a text by the language and circumstances of its supposed time, became a foundation of historical source criticism."
+  ]
+ },
+ {
+  "id": "machiavelli",
+  "name": "Niccolò Machiavelli",
+  "born": "1469",
+  "died": "1527",
+  "sort": 1469,
+  "birthplace": "Florence",
+  "deathplace": "Florence",
+  "nationality": "Italian (Florentine)",
+  "movements": [
+   "renaissance-history"
+  ],
+  "bio": "A Florentine diplomat and political thinker, Machiavelli wrote The Prince, the Discourses on Livy and the Florentine Histories, founding modern political realism.",
+  "bio_full": [
+   "Niccolò Machiavelli was born in Florence in 1469 to a family of modest means and good education. After the fall of Savonarola in 1498 he became secretary of the Second Chancery of the republic, and for fourteen years he served on diplomatic missions to France, the papacy and Cesare Borgia, and organised a Florentine militia. When the Medici returned to power in 1512 he was dismissed, imprisoned and tortured on suspicion of conspiracy, then retired to his farm near San Casciano. There he wrote his major works. He was later partly reconciled with the Medici, who commissioned his history of Florence, and he died in 1527.",
+   "Machiavelli studied politics as it is practised rather than as it ought to be, drawing lessons from ancient Rome and from what he had witnessed. The Prince, with its advice that a ruler must be ready to act against conventional morality, made his name a byword for cunning, though many readers see in him a republican patriot. His Discourses analysed Livy to explain how republics rise and decline, and his Florentine Histories sought the causes of the city's endless factional strife. He is a founding figure of modern political science and of humanist history."
+  ]
+ },
+ {
+  "id": "guicciardini",
+  "name": "Francesco Guicciardini",
+  "born": "1483",
+  "died": "1540",
+  "sort": 1483,
+  "birthplace": "Florence",
+  "deathplace": "Arcetri, near Florence",
+  "nationality": "Italian (Florentine)",
+  "movements": [
+   "renaissance-history"
+  ],
+  "bio": "A Florentine statesman and friend of Machiavelli, Guicciardini wrote the History of Italy, a masterpiece of political analysis based on documents and experience.",
+  "bio_full": [
+   "Francesco Guicciardini was born in Florence in 1483 into an aristocratic family. He trained as a lawyer, served as Florentine ambassador to Spain, and then had a long career in the service of the Medici popes Leo X and Clement VII as governor of papal provinces and military commander. He was a leading adviser in the war that ended in the Sack of Rome in 1527. After the Medici restoration in Florence he served Duke Alessandro, but was sidelined under Cosimo I and retired to his villa at Arcetri, where he wrote his great history before his death in 1540.",
+   "Guicciardini's History of Italy covers the years from the French invasion of 1494 to 1534, when the Italian states lost their independence to foreign powers. It treats Italy as a whole and explains events through the calculations and errors of rulers, drawing on documents he had handled. More sceptical than Machiavelli about general rules, he insisted on discretion and judgment in particular cases. His history was widely translated, and he is often regarded as the first great modern historian."
+  ]
+ },
+ {
+  "id": "las-casas",
+  "name": "Bartolomé de las Casas",
+  "born": "c. 1484",
+  "died": "1566",
+  "sort": 1484,
+  "birthplace": "Seville, Castile",
+  "deathplace": "Madrid",
+  "nationality": "Spanish",
+  "movements": [
+   "americas-chronicles"
+  ],
+  "bio": "A colonist turned Dominican friar, Las Casas spent fifty years denouncing the abuse of Indigenous peoples in the Spanish Americas.",
+  "bio_full": [
+   "Bartolomé de las Casas was born in Seville, probably in 1484, and went to Hispaniola in 1502 as a settler, receiving land and Indigenous labourers. He took part in the conquest of Cuba as a chaplain. In 1514 he renounced his holdings and began to campaign against the encomienda system, crossing the Atlantic many times to lobby the crown. He became a Dominican friar in 1523 and was later bishop of Chiapas in Mexico. In 1550–51 he debated the theologian Juan Ginés de Sepúlveda at Valladolid on the justice of the conquest. He died in Madrid in 1566.",
+   "Las Casas wrote a massive History of the Indies, apologetic works defending the rationality of Indigenous peoples, and the polemical Short Account of the Destruction of the Indies. His campaigning contributed to the New Laws of 1542, which restricted the encomienda. Early in his career he suggested importing African slaves to relieve Indigenous labourers, a proposal he later bitterly regretted. His writings were used by Spain's enemies to build the 'Black Legend' of Spanish cruelty, and he is now seen as an early advocate of universal human rights, though his figures and rhetoric are debated."
+  ]
+ },
+ {
+  "id": "bernal-diaz",
+  "name": "Bernal Díaz del Castillo",
+  "born": "c. 1496",
+  "died": "1584",
+  "sort": 1496,
+  "birthplace": "Medina del Campo, Castile",
+  "deathplace": "Santiago de los Caballeros, Guatemala",
+  "nationality": "Spanish",
+  "movements": [
+   "americas-chronicles"
+  ],
+  "bio": "A foot soldier in Hernán Cortés's army, Bernal Díaz wrote in old age a vivid eyewitness history of the conquest of the Aztec empire.",
+  "bio_full": [
+   "Bernal Díaz del Castillo was born in Medina del Campo in Castile around 1496 and sailed to the Americas in 1514. After taking part in two earlier expeditions to the coast of Mexico, he joined Hernán Cortés's expedition of 1519 and fought throughout the campaign that ended with the fall of Tenochtitlan in 1521. He later settled in Guatemala as an encomendero and town councillor, and complained repeatedly that his services had been poorly rewarded. He died there in 1584.",
+   "In his old age Díaz wrote the True History of the Conquest of New Spain, partly to correct the official account of Cortés's chaplain López de Gómara, which gave all the glory to Cortés. Written in plain, conversational Spanish, it is full of the names, horses and fates of ordinary soldiers and of unforgettable descriptions of Tenochtitlan. Historians treat it as an indispensable but partisan source, written from the conquerors' side decades after the events."
+  ]
+ },
+ {
+  "id": "henry-iv-of-france",
+  "name": "Henry IV of France",
+  "born": "1553",
+  "died": "1610",
+  "sort": 1553,
+  "birthplace": "Pau, Kingdom of Navarre",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "early-modern-documents"
+  ],
+  "bio": "The first Bourbon king of France, Henry IV ended the French Wars of Religion and granted toleration to Protestants in the Edict of Nantes.",
+  "bio_full": [
+   "Henry of Bourbon was born at Pau in 1553 and raised a Protestant by his mother, Queen Jeanne of Navarre. He became king of Navarre in 1572 and narrowly survived the St Bartholomew's Day Massacre, which followed his wedding to the Catholic princess Margaret of Valois. He led the Huguenot cause in the Wars of Religion and became heir to the French throne in 1584. On succeeding in 1589 he faced the opposition of the Catholic League, and in 1593 converted to Catholicism, entering Paris the next year. He was assassinated by a Catholic fanatic in 1610.",
+   "Henry's Edict of Nantes of 1598 was a pragmatic settlement that allowed limited Protestant worship within a Catholic kingdom. With his minister Sully he restored royal finances and agriculture after decades of war. He was long remembered as 'Good King Henry', and the wish attributed to him that every peasant should have a chicken in the pot on Sundays became proverbial."
+  ]
+ },
+ {
+  "id": "westphalia-peacemakers",
+  "name": "Congress of Westphalia",
+  "born": "1643",
+  "died": "1648",
+  "sort": 1648,
+  "birthplace": "Münster and Osnabrück, Westphalia",
+  "deathplace": "Münster and Osnabrück",
+  "nationality": "International",
+  "movements": [
+   "early-modern-documents"
+  ],
+  "bio": "The envoys of the emperor, France, Sweden, Spain, the Dutch Republic and the German states who negotiated the Peace of Westphalia in 1643–48.",
+  "bio_full": [
+   "From 1643 diplomats representing the Holy Roman Emperor, the kings of France, Sweden and Spain, the Dutch Republic, and dozens of German princes and cities gathered in the Westphalian towns of Münster and Osnabrück to end the Thirty Years' War and the Eighty Years' War. It was among the first great international peace congresses, with several hundred delegates. Leading figures included the imperial envoy Count Maximilian von Trauttmansdorff and the papal nuncio Fabio Chigi, later Pope Alexander VII.",
+   "Negotiations dragged on for five years while fighting continued. The resulting treaties, signed in 1648, are often credited with founding a modern system of sovereign states, although historians now argue that this 'Westphalian' interpretation owes more to later theorists than to the treaties themselves."
+  ]
+ },
+ {
+  "id": "clarendon",
+  "name": "Edward Hyde, 1st Earl of Clarendon",
+  "born": "1609",
+  "died": "1674",
+  "sort": 1609,
+  "birthplace": "Dinton, Wiltshire, England",
+  "deathplace": "Rouen, France",
+  "nationality": "English",
+  "movements": [
+   "early-modern-documents"
+  ],
+  "bio": "A royalist statesman and Lord Chancellor, Clarendon wrote the History of the Rebellion, the classic contemporary account of the English Civil War.",
+  "bio_full": [
+   "Edward Hyde was born in 1609 in Dinton, Wiltshire, and trained as a lawyer. Elected to Parliament in 1640, he at first criticised Charles I's policies, but became a leading adviser of the king as the conflict deepened. He followed the future Charles II into exile in 1646 and became his chief minister. After the Restoration of 1660 he was made Lord Chancellor and Earl of Clarendon, and his daughter Anne married the king's brother, the future James II. Blamed for the failures of the Dutch war, he was impeached in 1667 and fled to France, where he died in Rouen in 1674.",
+   "Clarendon wrote his History in two periods of exile, combining narrative with memoir and vivid character portraits of his contemporaries. It is a royalist and personal account, but it is also judicious and penetrating, and it shaped how the Civil War was understood for two centuries. Its posthumous publication in 1702–04 funded the Clarendon Building at Oxford, and the Clarendon Press is named after him."
+  ]
+ },
+ {
+  "id": "parliament-of-england",
+  "name": "Parliament of England",
+  "born": "13th century",
+  "died": "1707",
+  "sort": 1628,
+  "birthplace": "Westminster",
+  "deathplace": "Westminster",
+  "nationality": "English",
+  "movements": [
+   "early-modern-documents"
+  ],
+  "bio": "The English Parliament, whose seventeenth-century struggles with the Stuart kings produced the Petition of Right, the Habeas Corpus Act and the Bill of Rights.",
+  "bio_full": [
+   "The Parliament of England grew in the thirteenth century from royal councils into a body of Lords and Commons whose consent was needed for taxation. In the seventeenth century it clashed repeatedly with the Stuart kings over taxation, religion and the royal prerogative: the conflict led to the Civil War, the execution of Charles I in 1649 and the Restoration of 1660. In 1688 leading politicians invited William of Orange to invade, and James II fled. The Convention Parliament of 1689 offered the throne to William and Mary on terms set out in a Declaration of Right.",
+   "Parliamentary lawyers such as Sir Edward Coke and John Selden drew on Magna Carta and the common law to argue for the ancient liberties of the subject. Their statutes and declarations became foundations of constitutional government in Britain and influenced the American colonists, who claimed the same rights as Englishmen. The Parliament of England was merged into that of Great Britain by the Acts of Union of 1707."
+  ]
+ },
+ {
+  "id": "voltaire",
+  "name": "Voltaire (François-Marie Arouet)",
+  "born": "1694",
+  "died": "1778",
+  "sort": 1694,
+  "birthplace": "Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "enlightenment-history"
+  ],
+  "bio": "The leading writer of the French Enlightenment, Voltaire also reinvented history as the story of civilisation, manners and the human mind.",
+  "bio_full": [
+   "François-Marie Arouet was born in Paris in 1694, the son of a notary, and educated by the Jesuits. He took the name Voltaire after imprisonment in the Bastille for satirical verses. A stay in England from 1726 to 1728 made him an admirer of Locke, Newton and English liberty. He lived for years at Cirey with the scientist Émilie du Châtelet, spent a difficult period at the court of Frederick the Great, and finally settled at Ferney near the Swiss border, from where he campaigned against religious intolerance. He returned to Paris in triumph in 1778 and died there that year.",
+   "As well as plays, poems, Candide and countless pamphlets, Voltaire wrote major histories: of Charles XII of Sweden, the Age of Louis XIV, and the Essay on the Manners and Spirit of Nations. He wanted history to describe arts, sciences, commerce and customs rather than only kings and wars, and he included China, India and Islam in his story. He was sceptical, witty and often partisan, especially against the church, and he helped coin the phrase 'philosophy of history'."
+  ]
+ },
+ {
+  "id": "hume",
+  "name": "David Hume",
+  "born": "1711",
+  "died": "1776",
+  "sort": 1711,
+  "birthplace": "Edinburgh, Scotland",
+  "deathplace": "Edinburgh",
+  "nationality": "Scottish",
+  "movements": [
+   "enlightenment-history"
+  ],
+  "bio": "The Scottish philosopher David Hume was best known in his own lifetime as the author of a bestselling History of England.",
+  "bio_full": [
+   "David Hume was born in Edinburgh in 1711 and studied at the university there. His Treatise of Human Nature (1739–40) fell, as he put it, 'dead-born from the press', but his essays made his name. Twice rejected for university chairs because of his religious scepticism, he became librarian of the Advocates' Library in Edinburgh in 1752, which gave him the books he needed to write his History of England. He later served as secretary to the British embassy in Paris, where he was celebrated in the salons, and as an under-secretary of state. He died in Edinburgh in 1776.",
+   "Hume's History of England, published in six volumes from 1754 to 1762, ran from Julius Caesar's invasion to the Revolution of 1688. It was attacked at first as too sympathetic to the Stuart kings, but became the standard history for nearly a century and made him rich. It treats religion, commerce and manners as well as politics and favours moderation over party zeal. His philosophy of scepticism and empiricism remains far more influential today."
+  ]
+ },
+ {
+  "id": "gibbon",
+  "name": "Edward Gibbon",
+  "born": "1737",
+  "died": "1794",
+  "sort": 1737,
+  "birthplace": "Putney, Surrey, England",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "enlightenment-history"
+  ],
+  "bio": "Gibbon's History of the Decline and Fall of the Roman Empire is widely regarded as the greatest work of history in the English language.",
+  "bio_full": [
+   "Edward Gibbon was born in Putney in 1737 into a well-off family. A sickly child, he read voraciously and went to Oxford, which he later scorned; his conversion to Catholicism there led his father to send him to Lausanne, where he returned to Protestantism and absorbed French learning. He served as an officer in the Hampshire militia and, on a visit to Rome in 1764, conceived the idea of writing about the city's decline. He was a member of Parliament from 1774 to 1783 and later settled in Lausanne. He died in London in 1794.",
+   "The Decline and Fall, published in six volumes from 1776 to 1789, covers thirteen centuries, from the second-century empire to the fall of Constantinople in 1453. It combines the critical scholarship of the antiquarians with the elegance and irony of the Enlightenment, and its famous fifteenth and sixteenth chapters, which treat early Christianity as a human phenomenon, caused a scandal. Many of his specific explanations have been revised, but his work remains a landmark of historical writing."
+  ]
+ },
+ {
+  "id": "jefferson",
+  "name": "Thomas Jefferson",
+  "born": "1743",
+  "died": "1826",
+  "sort": 1743,
+  "birthplace": "Shadwell, Colony of Virginia",
+  "deathplace": "Monticello, Virginia",
+  "nationality": "American",
+  "movements": [
+   "revolutionary-documents"
+  ],
+  "bio": "Principal author of the Declaration of Independence and third President of the United States, Jefferson championed natural rights and religious freedom while himself owning enslaved people.",
+  "bio_full": [
+   "Thomas Jefferson was born in 1743 at Shadwell in Virginia, the son of a planter and surveyor, and studied at the College of William and Mary before becoming a lawyer. Elected to the Second Continental Congress, he drafted the Declaration of Independence in 1776. He later served as governor of Virginia, minister to France, the first Secretary of State, Vice-President and, from 1801 to 1809, President, when he made the Louisiana Purchase. In retirement he founded the University of Virginia. He died on 4 July 1826, fifty years to the day after the Declaration was adopted.",
+   "Jefferson asked to be remembered for three things: the Declaration of Independence, the Virginia Statute for Religious Freedom and the University of Virginia. He wrote eloquently of human equality, yet enslaved more than six hundred people over his lifetime, and historians now broadly accept that he fathered children with Sally Hemings, an enslaved woman. This contradiction is central to modern assessments of him and of the American founding."
+  ]
+ },
+ {
+  "id": "us-constitutional-convention",
+  "name": "Constitutional Convention",
+  "born": "1787",
+  "died": "1787",
+  "sort": 1787,
+  "birthplace": "Philadelphia, Pennsylvania",
+  "deathplace": "Philadelphia",
+  "nationality": "American",
+  "movements": [
+   "revolutionary-documents"
+  ],
+  "bio": "The 55 delegates from twelve states who met in Philadelphia in 1787 and drafted the Constitution of the United States.",
+  "bio_full": [
+   "The Convention met at the Pennsylvania State House, now Independence Hall, from May to September 1787, with George Washington presiding. It was called to revise the Articles of Confederation, under which Congress lacked the power to tax or regulate commerce, but it soon decided to write a new frame of government. Leading delegates included James Madison, whose Virginia Plan set the agenda, Benjamin Franklin, Alexander Hamilton, James Wilson and Gouverneur Morris, who drafted the final text. Rhode Island sent no one.",
+   "The delegates worked in secret, and our knowledge of their debates comes largely from Madison's notes. They reached compromises over representation of large and small states and, notoriously, over slavery, counting enslaved people as three-fifths of a person for apportionment and protecting the slave trade until 1808. Thirty-nine delegates signed the finished document on 17 September 1787."
+  ]
+ },
+ {
+  "id": "hamilton",
+  "name": "Alexander Hamilton",
+  "born": "1755 or 1757",
+  "died": "1804",
+  "sort": 1756,
+  "birthplace": "Charlestown, Nevis, British West Indies",
+  "deathplace": "New York City",
+  "nationality": "American",
+  "movements": [
+   "revolutionary-documents"
+  ],
+  "bio": "A revolutionary soldier, lawyer and the first Secretary of the Treasury, Hamilton conceived and wrote most of The Federalist Papers.",
+  "bio_full": [
+   "Alexander Hamilton was born on the Caribbean island of Nevis, in 1755 or 1757, and was orphaned young. Sent to New York to study, he joined the revolutionary cause, became aide-de-camp to George Washington and led an assault at Yorktown. A lawyer in New York, he was a delegate to the Constitutional Convention and the chief advocate of ratification. As Washington's Secretary of the Treasury from 1789 to 1795 he established the national bank and public credit. He was mortally wounded in a duel with Aaron Burr in 1804.",
+   "Hamilton argued for a strong national government and a commercial economy, against the agrarian vision of Jefferson and Madison, and their quarrel shaped the first American party system. The Federalist essays he organised with Madison and John Jay remain the most authoritative commentary on the Constitution. Long overshadowed, his reputation revived in the twentieth century and he became a figure of popular culture."
+  ]
+ },
+ {
+  "id": "madison",
+  "name": "James Madison",
+  "born": "1751",
+  "died": "1836",
+  "sort": 1751,
+  "birthplace": "Port Conway, Colony of Virginia",
+  "deathplace": "Montpelier, Virginia",
+  "nationality": "American",
+  "movements": [
+   "revolutionary-documents"
+  ],
+  "bio": "Often called the father of the Constitution, Madison shaped the Philadelphia Convention, co-wrote The Federalist and drafted the Bill of Rights.",
+  "bio_full": [
+   "James Madison was born in 1751 at Port Conway in Virginia into a planter family and studied at the College of New Jersey, now Princeton. He served in the Virginia legislature and in Congress, and was the leading intellectual force at the Constitutional Convention of 1787, where he also kept the fullest record of the debates. With Hamilton and Jay he wrote The Federalist. In the first Congress he drafted the amendments that became the Bill of Rights. He later co-founded the Democratic-Republican Party with Jefferson, served as his Secretary of State, and was President from 1809 to 1817, including during the War of 1812. He died at Montpelier in 1836.",
+   "Madison's political thought centred on the problem of faction. He argued that a large republic, with many competing interests, and a system of checks and balances would protect liberty better than direct democracy. Like Jefferson he was an enslaver who expressed misgivings about slavery but did not free the people he owned. He is regarded as the most philosophical of the founders."
+  ]
+ },
+ {
+  "id": "paine",
+  "name": "Thomas Paine",
+  "born": "1737",
+  "died": "1809",
+  "sort": 1737,
+  "birthplace": "Thetford, Norfolk, England",
+  "deathplace": "New York City",
+  "nationality": "English-American",
+  "movements": [
+   "revolutionary-documents"
+  ],
+  "bio": "The great pamphleteer of the American and French revolutions, Paine wrote Common Sense and Rights of Man in plain words for a mass audience.",
+  "bio_full": [
+   "Thomas Paine was born in Thetford, Norfolk, in 1737, the son of a Quaker corset-maker. After failing in several trades and as an excise officer, he emigrated to Philadelphia in 1774 with an introduction from Benjamin Franklin. His Common Sense (1776) electrified the colonies, and his American Crisis papers sustained morale during the war. Returning to Europe, he defended the French Revolution in Rights of Man, was charged with seditious libel in Britain, and was elected to the French National Convention, where he opposed the execution of Louis XVI and was imprisoned during the Terror. He died in New York in 1809, poor and largely shunned.",
+   "Paine's genius was to turn arguments about natural rights, republican government and the injustice of hereditary rule into vivid, accessible prose. His later Age of Reason attacked organised religion and cost him much of his popularity in America. He also proposed early ideas of social insurance and a fund for every citizen. He is now celebrated as one of the most influential political writers of the revolutionary era."
+  ]
+ },
+ {
+  "id": "burke",
+  "name": "Edmund Burke",
+  "born": "1729",
+  "died": "1797",
+  "sort": 1729,
+  "birthplace": "Dublin, Ireland",
+  "deathplace": "Beaconsfield, Buckinghamshire, England",
+  "nationality": "Irish (British)",
+  "movements": [
+   "revolutionary-documents"
+  ],
+  "bio": "An Irish-born Whig statesman, Burke wrote Reflections on the Revolution in France, the founding text of modern conservatism.",
+  "bio_full": [
+   "Edmund Burke was born in Dublin in 1729 to a Protestant father and a Catholic mother, and studied at Trinity College Dublin before going to London to study law. He made his name with a treatise on the sublime and the beautiful, became secretary to the Marquess of Rockingham, and sat in the House of Commons from 1766 to 1794. He supported conciliation with the American colonists, opposed the penal laws against Irish Catholics, and led the long impeachment of Warren Hastings for abuses in India. His opposition to the French Revolution split the Whig party. He died in 1797.",
+   "Burke defended inherited institutions, gradual reform and the wisdom embodied in custom and prejudice against abstract plans for remaking society from first principles. Critics from Paine onwards argued that he cared more for the pageantry of monarchy than for the suffering of the poor. He is claimed by conservatives as a founder and studied by liberals as a critic of revolutionary utopianism, and his speeches are classics of English prose."
+  ]
+ },
+ {
+  "id": "french-national-assembly",
+  "name": "French National Constituent Assembly",
+  "born": "1789",
+  "died": "1791",
+  "sort": 1789,
+  "birthplace": "Versailles and Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "revolutionary-documents"
+  ],
+  "bio": "The revolutionary assembly formed by the deputies of the Estates-General in 1789, which abolished feudal privileges and adopted the Declaration of the Rights of Man and of the Citizen.",
+  "bio_full": [
+   "In June 1789 the deputies of the Third Estate at the Estates-General in Versailles declared themselves a National Assembly and swore the Tennis Court Oath not to separate until France had a constitution; many clergy and some nobles joined them. After the storming of the Bastille, the Assembly abolished feudal privileges on the night of 4 August and on 26 August adopted the Declaration of the Rights of Man and of the Citizen, drawing on drafts by Lafayette, who consulted Jefferson, and others. It moved to Paris in October 1789.",
+   "Over the next two years the Assembly reorganised France into departments, nationalised church lands, imposed the Civil Constitution of the Clergy and produced the constitution of 1791, establishing a constitutional monarchy. It dissolved itself in September 1791. Its work set the agenda of modern French and European politics, though its compromises soon gave way to more radical revolution."
+  ]
+ },
+ {
+  "id": "olympe-de-gouges",
+  "name": "Olympe de Gouges",
+  "born": "1748",
+  "died": "1793",
+  "sort": 1748,
+  "birthplace": "Montauban, France",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "revolutionary-documents"
+  ],
+  "bio": "A playwright and pamphleteer, Olympe de Gouges answered the Declaration of the Rights of Man with a Declaration of the Rights of Woman, and was guillotined during the Terror.",
+  "bio_full": [
+   "Marie Gouze was born in Montauban in 1748 and married young; widowed, she moved to Paris, took the name Olympe de Gouges and became a playwright, writing among other works a play against slavery that was performed at the Comédie-Française in 1789. During the Revolution she wrote dozens of pamphlets and posters on political questions. A supporter of constitutional monarchy and later of the Girondins, she attacked Robespierre and the Jacobins, was arrested in 1793 and guillotined that November.",
+   "De Gouges argued that the principles of the Revolution must apply equally to women, demanding equal rights in law, property, marriage and public life, and she also campaigned for the abolition of slavery. Long neglected, she has been rediscovered since the twentieth century as a pioneer of feminism."
+  ]
+ },
+ {
+  "id": "dessalines",
+  "name": "Jean-Jacques Dessalines",
+  "born": "1758",
+  "died": "1806",
+  "sort": 1758,
+  "birthplace": "Saint-Domingue (now Haiti)",
+  "deathplace": "Pont-Larnage, near Port-au-Prince, Haiti",
+  "nationality": "Haitian",
+  "movements": [
+   "revolutionary-documents"
+  ],
+  "bio": "Born into slavery, Dessalines led the final war against France in Saint-Domingue and proclaimed the independence of Haiti in 1804.",
+  "bio_full": [
+   "Jean-Jacques Dessalines was born in 1758 in the French colony of Saint-Domingue, the richest slave colony in the Caribbean, and was himself enslaved. He joined the great slave uprising that began in 1791 and became one of Toussaint Louverture's leading generals. After Toussaint's capture by the French in 1802, Dessalines led the war against Napoleon's expedition, which aimed to restore slavery, and defeated it at Vertières in November 1803. On 1 January 1804 he proclaimed Haiti's independence. He made himself emperor later that year and was assassinated in 1806.",
+   "Haiti became the first independent nation in Latin America and the first state founded by formerly enslaved people. In 1804 Dessalines ordered the killing of most of the remaining French inhabitants, a massacre that has shaped his contested reputation. In Haiti he is honoured as a founding father, and the national anthem, La Dessalinienne, is named after him."
+  ]
+ },
+ {
+  "id": "michelet",
+  "name": "Jules Michelet",
+  "born": "1798",
+  "died": "1874",
+  "sort": 1798,
+  "birthplace": "Paris",
+  "deathplace": "Hyères, France",
+  "nationality": "French",
+  "movements": [
+   "romantic-history"
+  ],
+  "bio": "The great Romantic historian of France, Michelet told the nation's history as the life and passion of its people.",
+  "bio_full": [
+   "Jules Michelet was born in Paris in 1798, the son of a struggling printer, and grew up poor. A brilliant student, he taught history and philosophy, translated Vico, and in 1831 became head of the historical section of the National Archives, which gave him unrivalled access to documents. He was appointed to the Collège de France in 1838, where his lectures against the Jesuits and in favour of the people made him a hero of the republican left. He lost his posts after refusing to swear allegiance to Napoleon III in 1851 and continued writing in semi-retirement until his death in Hyères in 1874.",
+   "Michelet's History of France and History of the French Revolution aimed at the 'resurrection of the whole life of the past'. He wrote with passionate empathy and a visionary, poetic style, making the people, rather than kings, the hero of French history, and giving a central place to figures such as Joan of Arc. He popularised the term Renaissance for the cultural rebirth of the sixteenth century. Later historians criticised his partisanship and imagination, but the Annales historians saw him as an ancestor."
+  ]
+ },
+ {
+  "id": "macaulay",
+  "name": "Thomas Babington Macaulay",
+  "born": "1800",
+  "died": "1859",
+  "sort": 1800,
+  "birthplace": "Rothley Temple, Leicestershire, England",
+  "deathplace": "London",
+  "nationality": "British",
+  "movements": [
+   "romantic-history"
+  ],
+  "bio": "A Whig politician, essayist and poet, Macaulay wrote a History of England that celebrated the Revolution of 1688 and became a Victorian bestseller.",
+  "bio_full": [
+   "Thomas Babington Macaulay was born in 1800 at Rothley Temple in Leicestershire, the son of the abolitionist Zachary Macaulay, and was a famous child prodigy. After Cambridge he made his name with essays in the Edinburgh Review and entered Parliament in 1830, speaking for the Reform Bill. From 1834 to 1838 he served on the Supreme Council of India, where his Minute on Education of 1835 promoted English-language education, a policy long criticised for its contempt for Indian learning. He was later Secretary at War, and was made Baron Macaulay in 1857. He died in London in 1859.",
+   "Macaulay's History of England from the Accession of James the Second, published from 1848, sold in huge numbers and was translated into many languages. Written with the pace and colour of a novel, it presents the Glorious Revolution as the foundation of English liberty and prosperity. It is the classic example of what Herbert Butterfield later called the 'Whig interpretation of history', which reads the past as a story of progress towards the present. His Lays of Ancient Rome were widely learned by heart."
+  ]
+ },
+ {
+  "id": "carlyle",
+  "name": "Thomas Carlyle",
+  "born": "1795",
+  "died": "1881",
+  "sort": 1795,
+  "birthplace": "Ecclefechan, Dumfriesshire, Scotland",
+  "deathplace": "London",
+  "nationality": "Scottish",
+  "movements": [
+   "romantic-history"
+  ],
+  "bio": "A Scottish essayist and historian, Carlyle wrote a thunderous history of the French Revolution and argued that history is made by great men.",
+  "bio_full": [
+   "Thomas Carlyle was born in 1795 in the village of Ecclefechan in Dumfriesshire, the son of a stonemason of strict Calvinist faith. He studied at Edinburgh, abandoned plans for the ministry, and made his name as an interpreter of German literature and philosophy. In 1834 he moved to Chelsea in London with his wife Jane Welsh Carlyle, a brilliant letter-writer. The manuscript of the first volume of his French Revolution was accidentally burned while on loan to John Stuart Mill, and he rewrote it from memory. He became one of the most influential sages of Victorian Britain, and died in London in 1881.",
+   "Carlyle's histories, including the French Revolution, Oliver Cromwell's letters and speeches, and a life of Frederick the Great, are written in an idiosyncratic, prophetic style of present tenses, exclamations and apostrophes. He attacked laissez-faire economics and the 'cash nexus', but also came to despise democracy, celebrate strong rulers, and write in defence of slavery, positions that have damaged his reputation. His 'great man' theory of history was widely debated."
+  ]
+ },
+ {
+  "id": "tocqueville",
+  "name": "Alexis de Tocqueville",
+  "born": "1805",
+  "died": "1859",
+  "sort": 1805,
+  "birthplace": "Paris",
+  "deathplace": "Cannes, France",
+  "nationality": "French",
+  "movements": [
+   "romantic-history"
+  ],
+  "bio": "A French aristocrat and liberal politician, Tocqueville wrote Democracy in America and The Old Regime and the Revolution, foundational works of political sociology.",
+  "bio_full": [
+   "Alexis de Tocqueville was born in Paris in 1805 into a Norman aristocratic family; several of his relatives had been guillotined during the Terror. Trained as a magistrate, he travelled in the United States in 1831–32 with his friend Gustave de Beaumont, officially to study prisons. The first volume of Democracy in America appeared in 1835 and made him famous. He was elected to the Chamber of Deputies in 1839, helped write the constitution of the Second Republic in 1848, and was briefly foreign minister in 1849. Retiring after Louis-Napoleon's coup of 1851, he wrote The Old Regime and the Revolution. He died of tuberculosis at Cannes in 1859.",
+   "Tocqueville saw the advance of social equality as an irresistible historical force and asked how liberty could be preserved within it. He warned of the tyranny of the majority and a soft despotism of centralised administration, and praised local self-government and civil associations as antidotes. In his study of the Revolution he argued, from archival research, that it continued the centralising work of the monarchy more than it broke with it. Both books are still widely read."
+  ]
+ },
+ {
+  "id": "stanton",
+  "name": "Elizabeth Cady Stanton",
+  "born": "1815",
+  "died": "1902",
+  "sort": 1815,
+  "birthplace": "Johnstown, New York",
+  "deathplace": "New York City",
+  "nationality": "American",
+  "movements": [
+   "nineteenth-century-documents"
+  ],
+  "bio": "A leader of the American women's rights movement, Stanton drafted the Declaration of Sentiments adopted at the Seneca Falls Convention of 1848.",
+  "bio_full": [
+   "Elizabeth Cady was born in 1815 in Johnstown, New York, the daughter of a judge, from whom she learned about the legal disabilities of women. She married the abolitionist Henry Stanton in 1840, and on their honeymoon in London attended the World Anti-Slavery Convention, where women delegates were excluded. With Lucretia Mott and others she organised the first women's rights convention, at Seneca Falls in 1848. From 1851 she worked in partnership with Susan B. Anthony, and she led national suffrage organisations for decades. She died in New York in 1902.",
+   "Stanton was a powerful writer and speaker who argued for women's suffrage, property rights, divorce reform and equality in education. After the Civil War she opposed the Fifteenth Amendment because it enfranchised Black men but not women, sometimes in language now criticised as racist, which split the movement. Her controversial Woman's Bible criticised religious teachings about women. Women in the United States won the vote in 1920, after her death."
+  ]
+ },
+ {
+  "id": "marx",
+  "name": "Karl Marx",
+  "born": "1818",
+  "died": "1883",
+  "sort": 1818,
+  "birthplace": "Trier, Kingdom of Prussia",
+  "deathplace": "London",
+  "nationality": "German",
+  "movements": [
+   "nineteenth-century-documents"
+  ],
+  "bio": "Philosopher, economist and revolutionary, Marx co-wrote The Communist Manifesto and developed a materialist theory of history centred on class struggle.",
+  "bio_full": [
+   "Karl Marx was born in Trier in 1818 into a family of Jewish descent that had converted to Lutheranism. He studied law and philosophy in Bonn and Berlin, where he joined the Young Hegelians, and became a radical journalist. Expelled from Germany, France and Belgium in turn, he settled in London in 1849 and lived there for the rest of his life, often in poverty, supported by his friend and collaborator Friedrich Engels. He worked in the British Museum reading room on Capital, whose first volume appeared in 1867, and helped lead the International Working Men's Association. He died in London in 1883.",
+   "Marx argued that the way societies produce their material life shapes their politics, law and ideas, and that history moves through conflicts between classes. Besides his economic works he wrote incisive histories of his own time, such as The Eighteenth Brumaire and The Civil War in France. His ideas inspired socialist and labour movements worldwide and, in the twentieth century, communist states whose record of repression is part of his contested legacy; his influence on the writing of social and economic history has been profound."
+  ]
+ },
+ {
+  "id": "lincoln",
+  "name": "Abraham Lincoln",
+  "born": "1809",
+  "died": "1865",
+  "sort": 1809,
+  "birthplace": "near Hodgenville, Kentucky",
+  "deathplace": "Washington, D.C.",
+  "nationality": "American",
+  "movements": [
+   "nineteenth-century-documents"
+  ],
+  "bio": "The sixteenth President of the United States led the Union through the Civil War, issued the Emancipation Proclamation and gave the Gettysburg Address.",
+  "bio_full": [
+   "Abraham Lincoln was born in a log cabin in Kentucky in 1809 and grew up on the frontier in Indiana and Illinois with little formal schooling. He worked as a shopkeeper, postmaster and surveyor, taught himself law and became a successful lawyer in Springfield, Illinois. After a term in Congress he rose to national prominence by opposing the expansion of slavery in debates with Stephen Douglas in 1858. His election as President in 1860 prompted the secession of Southern states. He led the Union through the Civil War and was assassinated by John Wilkes Booth in April 1865, days after the Confederate surrender at Appomattox.",
+   "Lincoln's position on slavery moved from opposing its expansion to emancipation as a war measure and, finally, to backing the Thirteenth Amendment, which abolished it. Historians continue to debate the pace and motives of that change. He was a writer of exceptional economy and moral seriousness, and his speeches, especially the Gettysburg Address and the Second Inaugural, are among the most studied texts in American history."
+  ]
+ },
+ {
+  "id": "ranke",
+  "name": "Leopold von Ranke",
+  "born": "1795",
+  "died": "1886",
+  "sort": 1795,
+  "birthplace": "Wiehe, Electorate of Saxony",
+  "deathplace": "Berlin",
+  "nationality": "German",
+  "movements": [
+   "scientific-history"
+  ],
+  "bio": "Often called the father of modern scientific history, Ranke made the critical study of archival sources the basis of the historical profession.",
+  "bio_full": [
+   "Leopold Ranke was born in 1795 in Wiehe in Thuringia, into a family of Lutheran pastors and lawyers, and studied classics and theology at Leipzig. While teaching at a school in Frankfurt an der Oder he wrote his first book, whose success won him a post at the University of Berlin in 1825. He then spent years in the archives of Vienna, Venice and Rome, notably studying the reports of Venetian ambassadors. He taught at Berlin for half a century, was appointed historiographer of Prussia, and was ennobled in 1865. He kept writing into his nineties and died in Berlin in 1886.",
+   "In the preface to his first book Ranke said that he wished only to show the past 'as it actually was', a phrase that has been endlessly quoted and debated; it was meant less as naive objectivity than as a refusal to judge the past by the present. His research seminars trained generations of historians and spread the practice of archival research and footnoted critical scholarship to Europe and America. His own works focused on states, churches and great powers, an emphasis later historians challenged."
+  ]
+ },
+ {
+  "id": "mommsen",
+  "name": "Theodor Mommsen",
+  "born": "1817",
+  "died": "1903",
+  "sort": 1817,
+  "birthplace": "Garding, Duchy of Schleswig",
+  "deathplace": "Charlottenburg, Berlin",
+  "nationality": "German",
+  "movements": [
+   "scientific-history"
+  ],
+  "bio": "The foremost classical scholar of the nineteenth century, Mommsen wrote a History of Rome and was awarded the Nobel Prize in Literature in 1902.",
+  "bio_full": [
+   "Theodor Mommsen was born in 1817 in Garding in Schleswig, then ruled by Denmark, the son of a pastor. He studied law at Kiel and travelled in Italy and France collecting Roman inscriptions. A liberal, he lost his professorship at Leipzig for taking part in the revolution of 1848. He later taught at Zurich, Breslau and, from 1861, Berlin. He served as a liberal member of the Prussian and German parliaments and was a fierce critic of Bismarck and of antisemitism. He died in 1903.",
+   "Mommsen's History of Rome (1854–56), a vivid, partisan narrative that portrayed Caesar as the hero who swept away a corrupt aristocracy, made him famous and won him the Nobel Prize. His more lasting achievements were scholarly: he directed the Corpus of Latin Inscriptions, wrote a monumental study of Roman constitutional law, and organised collaborative research on a vast scale. He set the model for large-scale scholarly projects in the humanities."
+  ]
+ },
+ {
+  "id": "acton",
+  "name": "John Dalberg-Acton, 1st Baron Acton",
+  "born": "1834",
+  "died": "1902",
+  "sort": 1834,
+  "birthplace": "Naples, Kingdom of the Two Sicilies",
+  "deathplace": "Tegernsee, Bavaria",
+  "nationality": "English",
+  "movements": [
+   "scientific-history"
+  ],
+  "bio": "A liberal Catholic historian and moralist, Lord Acton is remembered for his maxim about power and for planning the Cambridge Modern History.",
+  "bio_full": [
+   "John Emerich Edward Dalberg-Acton was born in Naples in 1834 into an English Catholic family with Bavarian and Italian connections. Barred as a Catholic from Cambridge, he studied in Munich under the church historian Ignaz von Döllinger. He sat in Parliament as a Liberal, became a friend and adviser of Gladstone and was made a baron in 1869. He opposed the declaration of papal infallibility at the First Vatican Council in 1870. In 1895 he became Regius Professor of Modern History at Cambridge, where he planned the Cambridge Modern History. He died at Tegernsee in 1902.",
+   "Acton collected a huge library and planned a history of liberty that he never wrote; his writings consist mainly of essays, lectures and letters. He believed that historians should judge the past by firm moral standards. In an 1887 letter to Bishop Mandell Creighton he wrote that power tends to corrupt and absolute power corrupts absolutely. His Cambridge Modern History, planned as an impartial collaborative work, appeared after his death."
+  ]
+ },
+ {
+  "id": "burckhardt",
+  "name": "Jacob Burckhardt",
+  "born": "1818",
+  "died": "1897",
+  "sort": 1818,
+  "birthplace": "Basel, Switzerland",
+  "deathplace": "Basel",
+  "nationality": "Swiss",
+  "movements": [
+   "cultural-history"
+  ],
+  "bio": "A Swiss historian of art and culture, Burckhardt's Civilization of the Renaissance in Italy created the modern idea of the Renaissance.",
+  "bio_full": [
+   "Jacob Burckhardt was born in Basel in 1818, the son of a Protestant pastor. He studied theology, then history and art history in Berlin, where he attended Ranke's lectures. After a period as a journalist and teacher, and travels in Italy that produced a famous guidebook to Italian art, the Cicerone, he became professor at the University of Basel in 1858 and stayed there for the rest of his career, declining Ranke's chair in Berlin. Among his colleagues was the young Nietzsche. He died in Basel in 1897.",
+   "Burckhardt turned from political narrative to the study of a whole culture: its state, its individuals, its scholarship, festivals, morality and religion. He saw Renaissance Italy as the birthplace of the modern individual. Many of his claims have been qualified by later scholars, but his book remains the starting point for debate. He was deeply pessimistic about mass politics and the modern state, warning of what he called 'terrible simplifiers'."
+  ]
+ },
+ {
+  "id": "frederick-jackson-turner",
+  "name": "Frederick Jackson Turner",
+  "born": "1861",
+  "died": "1932",
+  "sort": 1861,
+  "birthplace": "Portage, Wisconsin",
+  "deathplace": "Pasadena, California",
+  "nationality": "American",
+  "movements": [
+   "scientific-history"
+  ],
+  "bio": "An American historian whose 'frontier thesis' argued that the westward-moving frontier had shaped American democracy and character.",
+  "bio_full": [
+   "Frederick Jackson Turner was born in 1861 in Portage, Wisconsin, then a small frontier town, and studied at the University of Wisconsin and at Johns Hopkins, where he trained in the German seminar method. He taught at Wisconsin from 1889 and at Harvard from 1910, and in his later years worked at the Huntington Library in California. He died in Pasadena in 1932.",
+   "Turner presented his thesis at the American Historical Association meeting held during the Chicago World's Fair in 1893, just after the census had declared the frontier closed. He argued that the availability of free land, rather than European inheritance, explained American individualism and democracy. The thesis dominated American historical writing for decades. Later historians criticised it for ignoring Native Americans, women, Hispanic and Black Americans, and for treating the West as empty land, but it remains a landmark in the debate about American identity."
+  ]
+ },
+ {
+  "id": "du-bois",
+  "name": "W. E. B. Du Bois",
+  "born": "1868",
+  "died": "1963",
+  "sort": 1868,
+  "birthplace": "Great Barrington, Massachusetts",
+  "deathplace": "Accra, Ghana",
+  "nationality": "American (later Ghanaian)",
+  "movements": [
+   "twentieth-century-history"
+  ],
+  "bio": "Sociologist, historian and civil-rights leader, Du Bois wrote The Souls of Black Folk and Black Reconstruction and helped found the NAACP.",
+  "bio_full": [
+   "William Edward Burghardt Du Bois was born in Great Barrington, Massachusetts, in 1868. He studied at Fisk University, at Berlin and at Harvard, where in 1895 he became the first African American to earn a doctorate there, with a dissertation on the suppression of the African slave trade. He pioneered empirical sociology with The Philadelphia Negro and taught at Atlanta University. In 1909 he co-founded the National Association for the Advancement of Colored People and edited its magazine, The Crisis, for a quarter of a century. He was also a leader of the Pan-African movement. In later life he moved leftward, was harassed by the US government, joined the Communist Party in 1961 and moved to Ghana, where he died in 1963.",
+   "Du Bois's Souls of Black Folk (1903) introduced the idea of 'double consciousness' and declared that the problem of the twentieth century was the problem of the colour line. His Black Reconstruction in America (1935) challenged the prevailing view that Reconstruction had failed because of Black incompetence, emphasising instead the agency of freed people; it was largely ignored by white historians at the time but is now seen as a landmark. He is one of the central figures of American intellectual history."
+  ]
+ },
+ {
+  "id": "huizinga",
+  "name": "Johan Huizinga",
+  "born": "1872",
+  "died": "1945",
+  "sort": 1872,
+  "birthplace": "Groningen, Netherlands",
+  "deathplace": "De Steeg, near Arnhem, Netherlands",
+  "nationality": "Dutch",
+  "movements": [
+   "cultural-history"
+  ],
+  "bio": "A Dutch cultural historian, Huizinga wrote The Autumn of the Middle Ages and Homo Ludens, a study of play in culture.",
+  "bio_full": [
+   "Johan Huizinga was born in Groningen in 1872, the son of a professor of physiology. He studied Dutch literature and Sanskrit, and taught history at a secondary school before becoming professor at Groningen in 1905 and at Leiden in 1915. He was one of the most respected intellectuals in the Netherlands between the wars and wrote critically of the cultural crisis of his time. After the German occupation closed Leiden University in 1942 he was held hostage by the Nazis for several months and then exiled to a village near Arnhem, where he died in February 1945, shortly before the liberation.",
+   "Huizinga approached history through images, forms and emotions rather than institutions, reading paintings, chronicles and courtly rituals to recover the mentality of an age. His Autumn of the Middle Ages portrayed fourteenth- and fifteenth-century Burgundy and France as an age of ripeness and decline, not the dawn of the Renaissance. His Homo Ludens (1938) argued that play is a fundamental element of culture. Both books continue to influence cultural history and other fields."
+  ]
+ },
+ {
+  "id": "bloch",
+  "name": "Marc Bloch",
+  "born": "1886",
+  "died": "1944",
+  "sort": 1886,
+  "birthplace": "Lyon, France",
+  "deathplace": "Saint-Didier-de-Formans, near Lyon",
+  "nationality": "French",
+  "movements": [
+   "annales-school"
+  ],
+  "bio": "A medievalist and co-founder of the Annales journal, Bloch transformed the study of medieval society and was executed by the Gestapo as a Resistance fighter.",
+  "bio_full": [
+   "Marc Bloch was born in Lyon in 1886 into a family of Alsatian Jewish origin; his father was a professor of Roman history. He studied at the École normale supérieure and in Germany, fought in the First World War, and taught at the University of Strasbourg, where in 1929 he and Lucien Febvre founded the journal Annales d'histoire économique et sociale. He moved to the Sorbonne in 1936. After serving again in 1939–40 he wrote a searching analysis of France's defeat, Strange Defeat. Barred from teaching by antisemitic laws, he joined the Resistance in Lyon, was arrested and tortured, and was shot by the Gestapo in June 1944.",
+   "Bloch's works, including The Royal Touch, French Rural History and Feudal Society, used comparison across regions and disciplines such as geography, linguistics and anthropology to understand whole societies and their beliefs. His unfinished reflections on method, published as The Historian's Craft, remain one of the most widely read books on what history is for. He is among the most admired historians of the twentieth century."
+  ]
+ },
+ {
+  "id": "braudel",
+  "name": "Fernand Braudel",
+  "born": "1902",
+  "died": "1985",
+  "sort": 1902,
+  "birthplace": "Luméville-en-Ornois, Meuse, France",
+  "deathplace": "Cluses, Haute-Savoie, France",
+  "nationality": "French",
+  "movements": [
+   "annales-school"
+  ],
+  "bio": "The leading figure of the second generation of the Annales school, Braudel wrote The Mediterranean and developed the idea of history's 'long duration'.",
+  "bio_full": [
+   "Fernand Braudel was born in 1902 in a village in Lorraine and studied history in Paris. He taught in Algeria and in São Paulo, and began research in the Spanish archives on Philip II. Captured as a French soldier in 1940, he spent five years in German prisoner-of-war camps, where he wrote much of his great book from memory. After the war he succeeded Lucien Febvre as the leader of the Annales school, editing the journal, teaching at the Collège de France and directing the sixth section of the École pratique des hautes études. He was elected to the Académie française in 1984 and died in 1985.",
+   "Braudel distinguished three speeds of historical time: the almost motionless history of geography and environment, the slow rhythms of economies and societies, and the fast-moving surface of events and politics, which he considered the least significant. His Mediterranean and his three-volume Civilization and Capitalism applied this vision on a vast scale. His approach influenced world history and world-systems theory, though critics noted that it left little room for human agency and politics."
+  ]
+ },
+ {
+  "id": "un-human-rights-commission",
+  "name": "UN Commission on Human Rights",
+  "born": "1946",
+  "died": "1948",
+  "sort": 1946,
+  "birthplace": "New York and Geneva",
+  "deathplace": "Paris (adoption)",
+  "nationality": "International",
+  "movements": [
+   "twentieth-century-history"
+  ],
+  "bio": "The United Nations commission, chaired by Eleanor Roosevelt, that drafted the Universal Declaration of Human Rights in 1946–48.",
+  "bio_full": [
+   "The Commission on Human Rights was created by the United Nations in 1946 and chaired by Eleanor Roosevelt, the widow of President Franklin D. Roosevelt. Its drafting committee included the Canadian lawyer John Peters Humphrey, who prepared the first draft, the French jurist René Cassin, who reworked it, the Chinese philosopher and diplomat P. C. Chang, and the Lebanese philosopher Charles Malik. Delegates from many countries, including Hansa Mehta of India, who argued for gender-inclusive language, shaped the final text.",
+   "The Commission debated for two years in New York and Geneva, with frequent disagreements over economic and social rights, religion and the relation between individual and state. The text was adopted by the General Assembly in Paris on 10 December 1948, with no votes against but eight abstentions, including the Soviet bloc, South Africa and Saudi Arabia. Eleanor Roosevelt called it a possible international Magna Carta for all people."
+  ]
+ },
+ {
+  "id": "hobsbawm",
+  "name": "Eric Hobsbawm",
+  "born": "1917",
+  "died": "2012",
+  "sort": 1917,
+  "birthplace": "Alexandria, Egypt",
+  "deathplace": "London",
+  "nationality": "British",
+  "movements": [
+   "twentieth-century-history"
+  ],
+  "bio": "A Marxist historian of exceptional range, Hobsbawm wrote a four-volume history of the modern world from 1789 to 1991.",
+  "bio_full": [
+   "Eric Hobsbawm was born in Alexandria in 1917 to a British father and an Austrian mother and grew up in Vienna and Berlin, where he joined the Communist movement as a schoolboy before his family moved to London in 1933. He studied at King's College, Cambridge, served in the British army during the Second World War, and taught for most of his career at Birkbeck College, London. He remained a member of the Communist Party of Great Britain until it dissolved in 1991, a loyalty for which he was often criticised. He died in London in 2012.",
+   "Hobsbawm's studies of labour history, social banditry and peasant rebellion helped create British social history. His series The Age of Revolution, The Age of Capital, The Age of Empire and The Age of Extremes offered a synthesis of modern history centred on the 'dual revolution' of French politics and British industry. With Terence Ranger he edited The Invention of Tradition (1983), which showed how many supposedly ancient traditions were recent creations. Admirers praised his range and lucidity; critics faulted his treatment of Soviet communism."
+  ]
+ }
+]
