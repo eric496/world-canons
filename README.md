@@ -6,7 +6,7 @@ Each tradition is its own complete section. They share the same structure, so th
 
 | Tradition | Status |
 |---|---|
-| [**Western**](western/README.md) | In progress: Greece and Rome to the present |
+| [**Western**](western/README.md) | 8 sections (art, architecture, philosophy, literature, music, religion, science, history), 648 people and 1,101 works, with 749 pictures of works and 430 portraits |
 | East Asian · South Asian · Islamic · Ancient Near East · African · Americas | Planned |
 
 ## How it works
