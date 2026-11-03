@@ -1,10 +1,14 @@
 # Alexander Hamilton
 
+<a href="https://commons.wikimedia.org/wiki/File:Alexander_Hamilton_%28NPG%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Hamilton_%28NPG%29.jpg/330px-Alexander_Hamilton_%28NPG%29.jpg" alt="Alexander Hamilton" title="Portrait of Alexander Hamilton (National Portrait Gallery, Washington)"></a>
+
 **1755 or 1757 – 1804** · American  
 Born: Charlestown, Nevis, British West Indies · Died: New York City  
 Traditions & eras: [Age of Revolutions documents](../movements/revolutionary-documents.md)  
 
 > A revolutionary soldier, lawyer and the first Secretary of the Treasury, Hamilton conceived and wrote most of The Federalist Papers.
+
+<sub>Portrait: Portrait of Alexander Hamilton (National Portrait Gallery, Washington) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alexander_Hamilton_%28NPG%29.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Hamilton argued for a strong national government and a commercial economy, again
 ## Key histories & documents
 
 ### The Federalist Papers (1787–1788)
+
+[![The Federalist Papers](https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Federalist_%281st_ed%2C_1788%2C_vol_I%2C_title_page%29_-_02.jpg)](https://commons.wikimedia.org/wiki/File:The_Federalist_%281st_ed%2C_1788%2C_vol_I%2C_title_page%29_-_02.jpg)
+
+<sub>Title page of the first collected edition, volume 1, New York, 1788 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_Federalist_%281st_ed%2C_1788%2C_vol_I%2C_title_page%29_-_02.jpg).</sub>
 
 - **Date:** 1787–1788
 - **Type:** Political essays (85)

@@ -1,10 +1,14 @@
 # Theodor Mommsen
 
+<a href="https://commons.wikimedia.org/wiki/File:Theodor_Mommsen_by_Franz_von_Lenbach_1897.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Theodor_Mommsen_by_Franz_von_Lenbach_1897.jpg/330px-Theodor_Mommsen_by_Franz_von_Lenbach_1897.jpg" alt="Theodor Mommsen" title="Franz von Lenbach, portrait of Theodor Mommsen, 1897 (Alte Nationalgalerie, Berlin)"></a>
+
 **1817 – 1903** · German  
 Born: Garding, Duchy of Schleswig · Died: Charlottenburg, Berlin  
 Traditions & eras: [Professional & scientific history](../movements/scientific-history.md)  
 
 > The foremost classical scholar of the nineteenth century, Mommsen wrote a History of Rome and was awarded the Nobel Prize in Literature in 1902.
+
+<sub>Portrait: Franz von Lenbach, portrait of Theodor Mommsen, 1897 (Alte Nationalgalerie, Berlin) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Theodor_Mommsen_by_Franz_von_Lenbach_1897.jpg)</sub>
 
 ## Biography
 

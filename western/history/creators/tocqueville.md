@@ -1,11 +1,15 @@
 # Alexis de Tocqueville
 
+<a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Alexis_de_Tocqueville.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Portrait_of_Alexis_de_Tocqueville.jpg/330px-Portrait_of_Alexis_de_Tocqueville.jpg" alt="Alexis de Tocqueville" title="Théodore Chassériau, portrait of Alexis de Tocqueville, 1850 (Palace of Versailles)"></a>
+
 **1805 – 1859** · French  
 Born: Paris · Died: Cannes, France  
 Traditions & eras: [Romantic & national history](../movements/romantic-history.md)  
 Also in: [Philosophy](../../philosophy/eras/04-19th-century/alexis-de-tocqueville.md)  
 
 > A French aristocrat and liberal politician, Tocqueville wrote Democracy in America and The Old Regime and the Revolution, foundational works of political sociology.
+
+<sub>Portrait: Théodore Chassériau, portrait of Alexis de Tocqueville, 1850 (Palace of Versailles) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_of_Alexis_de_Tocqueville.jpg)</sub>
 
 ## Biography
 
@@ -20,6 +24,10 @@ Tocqueville saw the advance of social equality as an irresistible historical for
 
 ### Democracy in America (1835 and 1840)
 
+[![Democracy in America](https://upload.wikimedia.org/wikipedia/commons/e/e9/Democracy_in_America_by_Alexis_de_Tocqueville_title_page.jpg)](https://commons.wikimedia.org/wiki/File:Democracy_in_America_by_Alexis_de_Tocqueville_title_page.jpg)
+
+<sub>Title page of an early edition of Democracy in America Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Democracy_in_America_by_Alexis_de_Tocqueville_title_page.jpg).</sub>
+
 - **Date:** 1835 and 1840
 - **Type:** Political and social analysis (2 volumes)
 - **Written / held:** Written in Paris after travels in the United States in 1831–32; published by Gosselin
@@ -28,6 +36,10 @@ Tocqueville saw the advance of social equality as an irresistible historical for
 After nine months in the United States in 1831–32, Tocqueville published the first volume of De la démocratie en Amérique in 1835 and the second in 1840. The first describes American institutions: townships, federalism, the courts, the press, parties and the power of the majority, which he feared could become a new kind of tyranny. It ends with a long chapter on the three races of America, analysing the destruction of Native Americans and slavery, which he predicted would lead to catastrophe. The second volume asks how equality of conditions shapes ideas, feelings and manners, warning of individualism and of a mild despotism of administration, and praising voluntary associations, local liberty and religion as counterweights. It is still read as the most perceptive book ever written about the United States.
 
 ### The Old Regime and the Revolution (1856)
+
+[![The Old Regime and the Revolution](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alexis_de_Tocqueville_-_L%27Ancien_R%C3%A9gime_et_la_R%C3%A9volution%2C_L%C3%A9vy%2C_1866.djvu/page1-960px-Alexis_de_Tocqueville_-_L%27Ancien_R%C3%A9gime_et_la_R%C3%A9volution%2C_L%C3%A9vy%2C_1866.djvu.jpg)](https://commons.wikimedia.org/wiki/File:Alexis_de_Tocqueville_-_L%27Ancien_R%C3%A9gime_et_la_R%C3%A9volution%2C_L%C3%A9vy%2C_1866.djvu)
+
+<sub>L'Ancien Régime et la Révolution, Michel Lévy edition, 1866 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Alexis_de_Tocqueville_-_L%27Ancien_R%C3%A9gime_et_la_R%C3%A9volution%2C_L%C3%A9vy%2C_1866.djvu).</sub>
 
 - **Date:** 1856
 - **Type:** Historical analysis

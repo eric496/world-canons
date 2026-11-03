@@ -19,6 +19,10 @@ Du Bois's Souls of Black Folk (1903) introduced the idea of 'double consciousnes
 
 ### The Souls of Black Folk (1903)
 
+[![The Souls of Black Folk](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/The_Souls_of_Black_Folk_dust_jacket_cover.jpg/960px-The_Souls_of_Black_Folk_dust_jacket_cover.jpg)](https://commons.wikimedia.org/wiki/File:The_Souls_of_Black_Folk_dust_jacket_cover.jpg)
+
+<sub>Dust jacket of The Souls of Black Folk, A. C. McClurg, 1903 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_Souls_of_Black_Folk_dust_jacket_cover.jpg).</sub>
+
 - **Date:** 1903
 - **Type:** Essays
 - **Written / held:** Published in Chicago by A. C. McClurg

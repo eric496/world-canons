@@ -1,10 +1,14 @@
 # Leopold von Ranke
 
+<a href="https://commons.wikimedia.org/wiki/File:Jebens%2C_Adolf_-_Leopold_von_Ranke_%28detail%29_-_1875.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebens%2C_Adolf_-_Leopold_von_Ranke_%28detail%29_-_1875.jpg" alt="Leopold von Ranke" title="Adolf Jebens, portrait of Leopold von Ranke, 1875 (detail)"></a>
+
 **1795 – 1886** · German  
 Born: Wiehe, Electorate of Saxony · Died: Berlin  
 Traditions & eras: [Professional & scientific history](../movements/scientific-history.md)  
 
 > Often called the father of modern scientific history, Ranke made the critical study of archival sources the basis of the historical profession.
+
+<sub>Portrait: Adolf Jebens, portrait of Leopold von Ranke, 1875 (detail) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jebens%2C_Adolf_-_Leopold_von_Ranke_%28detail%29_-_1875.jpg)</sub>
 
 ## Biography
 

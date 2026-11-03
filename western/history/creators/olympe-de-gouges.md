@@ -1,10 +1,14 @@
 # Olympe de Gouges
 
+<a href="https://commons.wikimedia.org/wiki/File:Olympe_de_Gouges.png"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Olympe_de_Gouges.png" alt="Olympe de Gouges" title="Alexander Kucharsky, portrait of Olympe de Gouges, late 18th century"></a>
+
 **1748 – 1793** · French  
 Born: Montauban, France · Died: Paris  
 Traditions & eras: [Age of Revolutions documents](../movements/revolutionary-documents.md)  
 
 > A playwright and pamphleteer, Olympe de Gouges answered the Declaration of the Rights of Man with a Declaration of the Rights of Woman, and was guillotined during the Terror.
+
+<sub>Portrait: Alexander Kucharsky, portrait of Olympe de Gouges, late 18th century · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Olympe_de_Gouges.png)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ De Gouges argued that the principles of the Revolution must apply equally to wom
 ## Key histories & documents
 
 ### Declaration of the Rights of Woman and of the Female Citizen (1791)
+
+[![Declaration of the Rights of Woman and of the Female Citizen](https://upload.wikimedia.org/wikipedia/commons/3/34/DDFC.jpg)](https://commons.wikimedia.org/wiki/File:DDFC.jpg)
+
+<sub>Page from Olympe de Gouges's Declaration of the Rights of Woman, 1791 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:DDFC.jpg).</sub>
 
 - **Date:** 1791
 - **Type:** Pamphlet / declaration

@@ -1,10 +1,14 @@
 # Elizabeth Cady Stanton
 
+<a href="https://commons.wikimedia.org/wiki/File:Elizabeth_Cady_Stanton_by_HB_Hall.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Elizabeth_Cady_Stanton_by_HB_Hall.jpg" alt="Elizabeth Cady Stanton" title="H. B. Hall, engraved portrait of Elizabeth Cady Stanton"></a>
+
 **1815 – 1902** · American  
 Born: Johnstown, New York · Died: New York City  
 Traditions & eras: [Reform, emancipation & revolution](../movements/nineteenth-century-documents.md)  
 
 > A leader of the American women's rights movement, Stanton drafted the Declaration of Sentiments adopted at the Seneca Falls Convention of 1848.
+
+<sub>Portrait: H. B. Hall, engraved portrait of Elizabeth Cady Stanton · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elizabeth_Cady_Stanton_by_HB_Hall.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Stanton was a powerful writer and speaker who argued for women's suffrage, prope
 ## Key histories & documents
 
 ### Declaration of Sentiments (1848)
+
+[![Declaration of Sentiments](https://upload.wikimedia.org/wikipedia/commons/4/43/Woman%27s_Rights_Convention.jpg)](https://commons.wikimedia.org/wiki/File:Woman%27s_Rights_Convention.jpg)
+
+<sub>Newspaper notice calling the Woman's Rights Convention at Seneca Falls, July 1848 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Woman%27s_Rights_Convention.jpg).</sub>
 
 - **Date:** 1848
 - **Type:** Declaration

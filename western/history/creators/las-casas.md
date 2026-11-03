@@ -1,10 +1,14 @@
 # Bartolomé de las Casas
 
+<a href="https://commons.wikimedia.org/wiki/File:Fray_Bartolom%C3%A9_de_las_Casas.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fray_Bartolom%C3%A9_de_las_Casas.jpg/330px-Fray_Bartolom%C3%A9_de_las_Casas.jpg" alt="Bartolomé de las Casas" title="Portrait of Bartolomé de las Casas (posthumous)"></a>
+
 **c. 1484 – 1566** · Spanish  
 Born: Seville, Castile · Died: Madrid  
 Traditions & eras: [Chronicles of the Americas](../movements/americas-chronicles.md)  
 
 > A colonist turned Dominican friar, Las Casas spent fifty years denouncing the abuse of Indigenous peoples in the Spanish Americas.
+
+<sub>Portrait: Portrait of Bartolomé de las Casas (posthumous) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fray_Bartolom%C3%A9_de_las_Casas.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Las Casas wrote a massive History of the Indies, apologetic works defending the 
 ## Key histories & documents
 
 ### A Short Account of the Destruction of the Indies (1542 (published 1552))
+
+[![A Short Account of the Destruction of the Indies](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bartolom%C3%A9_de_las_Casas_%281552%29_Brevisima_relaci%C3%B3n_de_la_destrucci%C3%B3n_de_las_Indias.png/960px-Bartolom%C3%A9_de_las_Casas_%281552%29_Brevisima_relaci%C3%B3n_de_la_destrucci%C3%B3n_de_las_Indias.png)](https://commons.wikimedia.org/wiki/File:Bartolom%C3%A9_de_las_Casas_%281552%29_Brevisima_relaci%C3%B3n_de_la_destrucci%C3%B3n_de_las_Indias.png)
+
+<sub>Title page of the first edition, Seville, 1552 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Bartolom%C3%A9_de_las_Casas_%281552%29_Brevisima_relaci%C3%B3n_de_la_destrucci%C3%B3n_de_las_Indias.png).</sub>
 
 - **Date:** 1542 (published 1552)
 - **Type:** Polemical report

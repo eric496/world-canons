@@ -20,6 +20,10 @@ Parliamentary lawyers such as Sir Edward Coke and John Selden drew on Magna Cart
 
 ### Petition of Right (1628)
 
+[![Petition of Right](https://upload.wikimedia.org/wikipedia/commons/1/11/Petition_of_Right.jpg)](https://commons.wikimedia.org/wiki/File:Petition_of_Right.jpg)
+
+<sub>The Petition of Right, 1628 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Petition_of_Right.jpg).</sub>
+
 - **Date:** 1628
 - **Type:** Parliamentary petition / statute
 - **Written / held:** Parliamentary Archives, Westminster

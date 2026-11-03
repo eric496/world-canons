@@ -1,10 +1,14 @@
 # Jean Froissart
 
+<a href="https://commons.wikimedia.org/wiki/File:Jean-Froissart.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Jean-Froissart.jpg" alt="Jean Froissart" title="Portrait of Jean Froissart, later drawing"></a>
+
 **c. 1337 – c. 1405** · Hainuyer (French-speaking)  
 Born: Valenciennes, County of Hainaut · Died: probably Chimay, Hainaut  
 Traditions & eras: [Medieval chronicles & charters](../movements/medieval-chronicles.md)  
 
 > A poet and courtier from Hainaut, Froissart wrote the great chronicle of chivalry and war in the first half of the Hundred Years' War.
+
+<sub>Portrait: Portrait of Jean Froissart, later drawing · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jean-Froissart.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Froissart's Chronicles cover events from around 1322 to 1400 in France, England,
 ## Key histories & documents
 
 ### Chronicles (c. 1370–1400)
+
+[![Chronicles](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BNMsFr2643FroissartFol97vExecHughDespenser.jpg/1280px-BNMsFr2643FroissartFol97vExecHughDespenser.jpg)](https://commons.wikimedia.org/wiki/File:BNMsFr2643FroissartFol97vExecHughDespenser.jpg)
+
+<sub>The execution of Hugh Despenser, from a 15th-century manuscript of Froissart's Chronicles (Bibliothèque nationale de France, MS fr. 2643) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:BNMsFr2643FroissartFol97vExecHughDespenser.jpg).</sub>
 
 - **Date:** c. 1370–1400
 - **Type:** Chronicle (4 books)

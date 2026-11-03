@@ -1,10 +1,14 @@
 # Sallust (Gaius Sallustius Crispus)
 
+<a href="https://commons.wikimedia.org/wiki/File:Salluste_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Salluste_%28cropped%29.jpg/330px-Salluste_%28cropped%29.jpg" alt="Sallust (Gaius Sallustius Crispus)" title="Portrait of Sallust"></a>
+
 **86 BC – c. 35 BC** · Roman  
 Born: Amiternum, Italy · Died: Rome  
 Traditions & eras: [Roman historiography & biography](../movements/roman-historiography.md)  
 
 > A Caesarian politician who turned to history, Sallust wrote short, pungent monographs on the moral decline of the Roman Republic.
+
+<sub>Portrait: Portrait of Sallust · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Salluste_%28cropped%29.jpg)</sub>
 
 ## Biography
 
@@ -18,6 +22,10 @@ Sallust wrote two complete monographs, on the conspiracy of Catiline and on the 
 - [The Jugurthine War (Bellum Jugurthinum)](#the-jugurthine-war-bellum-jugurthinum-c-41-bc) (c. 41 BC)
 
 ### The Conspiracy of Catiline (Bellum Catilinae) (c. 42 BC)
+
+[![The Conspiracy of Catiline (Bellum Catilinae)](https://upload.wikimedia.org/wikipedia/commons/8/86/Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari_-_detail_of_Catilina.jpg)](https://commons.wikimedia.org/wiki/File:Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari_-_detail_of_Catilina.jpg)
+
+<sub>Cesare Maccari, Cicero Denounces Catiline (detail showing Catiline), fresco, 1880s, Palazzo Madama, Rome Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari_-_detail_of_Catilina.jpg).</sub>
 
 - **Date:** c. 42 BC
 - **Type:** Historical monograph

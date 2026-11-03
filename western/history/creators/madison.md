@@ -1,10 +1,14 @@
 # James Madison
 
+<a href="https://commons.wikimedia.org/wiki/File:James_Madison.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/330px-James_Madison.jpg" alt="James Madison" title="Portrait of James Madison"></a>
+
 **1751 – 1836** · American  
 Born: Port Conway, Colony of Virginia · Died: Montpelier, Virginia  
 Traditions & eras: [Age of Revolutions documents](../movements/revolutionary-documents.md)  
 
 > Often called the father of the Constitution, Madison shaped the Philadelphia Convention, co-wrote The Federalist and drafted the Bill of Rights.
+
+<sub>Portrait: Portrait of James Madison · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:James_Madison.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Madison's political thought centred on the problem of faction. He argued that a 
 ## Key histories & documents
 
 ### United States Bill of Rights (1789 (ratified 1791))
+
+[![United States Bill of Rights](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bill_of_Rights_-_DPLA_-_a65f6d0b6210c18d17c596908ebcf270_%28page_1%29.jpg/1280px-Bill_of_Rights_-_DPLA_-_a65f6d0b6210c18d17c596908ebcf270_%28page_1%29.jpg)](https://commons.wikimedia.org/wiki/File:Bill_of_Rights_-_DPLA_-_a65f6d0b6210c18d17c596908ebcf270_%28page_1%29.jpg)
+
+<sub>The enrolled original of the twelve amendments proposed by Congress in 1789 (National Archives, Washington) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Bill_of_Rights_-_DPLA_-_a65f6d0b6210c18d17c596908ebcf270_%28page_1%29.jpg).</sub>
 
 - **Date:** 1789 (ratified 1791)
 - **Type:** Constitutional amendments

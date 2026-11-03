@@ -1,10 +1,14 @@
 # Herodotus
 
+<a href="https://commons.wikimedia.org/wiki/File:Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/330px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg" alt="Herodotus" title="Roman marble bust of Herodotus, 2nd century AD, after a Greek original (Metropolitan Museum of Art)"></a>
+
 **c. 484 BC – c. 425 BC** · Greek  
 Born: Halicarnassus, Caria (now Bodrum, Turkey) · Died: probably Thurii, southern Italy  
 Traditions & eras: [Greek historiography](../movements/greek-historiography.md)  
 
 > Called the 'father of history' by Cicero, Herodotus wrote the first large-scale prose inquiry into the past, explaining the wars between the Greeks and Persia.
+
+<sub>Portrait: Roman marble bust of Herodotus, 2nd century AD, after a Greek original (Metropolitan Museum of Art) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ His Histories open by saying that he publishes his 'inquiry' (historia) so that 
 ## Key histories & documents
 
 ### Histories (c. 430 BC)
+
+[![Histories](https://upload.wikimedia.org/wikipedia/commons/5/5c/POxy_v0017_n2099_a_01_hires.jpg)](https://commons.wikimedia.org/wiki/File:POxy_v0017_n2099_a_01_hires.jpg)
+
+<sub>Fragment of Herodotus' Histories, book 8, on papyrus from Oxyrhynchus (P. Oxy. 2099), 2nd century AD Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:POxy_v0017_n2099_a_01_hires.jpg).</sub>
 
 - **Date:** c. 430 BC
 - **Type:** Prose history (9 books)

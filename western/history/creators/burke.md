@@ -1,10 +1,14 @@
 # Edmund Burke
 
+<a href="https://commons.wikimedia.org/wiki/File:Sir_Joshua_Reynolds_-_Edmund_Burke%2C_1729_-_1797._Statesman%2C_orator_and_author_-_PG_2362_-_National_Galleries_of_Scotland_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sir_Joshua_Reynolds_-_Edmund_Burke%2C_1729_-_1797._Statesman%2C_orator_and_author_-_PG_2362_-_National_Galleries_of_Scotland_%28cropped%29.jpg/330px-Sir_Joshua_Reynolds_-_Edmund_Burke%2C_1729_-_1797._Statesman%2C_orator_and_author_-_PG_2362_-_National_Galleries_of_Scotland_%28cropped%29.jpg" alt="Edmund Burke" title="Studio of Joshua Reynolds, Edmund Burke (National Galleries of Scotland)"></a>
+
 **1729 – 1797** · Irish (British)  
 Born: Dublin, Ireland · Died: Beaconsfield, Buckinghamshire, England  
 Traditions & eras: [Age of Revolutions documents](../movements/revolutionary-documents.md)  
 
 > An Irish-born Whig statesman, Burke wrote Reflections on the Revolution in France, the founding text of modern conservatism.
+
+<sub>Portrait: Studio of Joshua Reynolds, Edmund Burke (National Galleries of Scotland) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sir_Joshua_Reynolds_-_Edmund_Burke%2C_1729_-_1797._Statesman%2C_orator_and_author_-_PG_2362_-_National_Galleries_of_Scotland_%28cropped%29.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Burke defended inherited institutions, gradual reform and the wisdom embodied in
 ## Key histories & documents
 
 ### Reflections on the Revolution in France (1790)
+
+[![Reflections on the Revolution in France](https://upload.wikimedia.org/wikipedia/commons/3/3c/BurkeReflections.jpg)](https://commons.wikimedia.org/wiki/File:BurkeReflections.jpg)
+
+<sub>Title page of the first edition, London, 1790 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:BurkeReflections.jpg).</sub>
 
 - **Date:** 1790
 - **Type:** Political treatise

@@ -1,10 +1,14 @@
 # William the Conqueror
 
+<a href="https://commons.wikimedia.org/wiki/File:William_the_Conqueror_%28TFA%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/3/34/William_the_Conqueror_%28TFA%29.jpg" alt="William the Conqueror" title="Posthumous portrait of William the Conqueror"></a>
+
 **c. 1028 – 1087** · Norman  
 Born: Falaise, Normandy · Died: Rouen, Normandy  
 Traditions & eras: [Medieval chronicles & charters](../movements/medieval-chronicles.md)  
 
 > Duke of Normandy and King of England from 1066, William ordered the great survey of his kingdom recorded in Domesday Book.
+
+<sub>Portrait: Posthumous portrait of William the Conqueror · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:William_the_Conqueror_%28TFA%29.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ At Christmas 1085, at Gloucester, William ordered a survey of the landholdings a
 ## Key histories & documents
 
 ### Domesday Book (1086)
+
+[![Domesday Book](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Domesday-book-1804x972.jpg/1280px-Domesday-book-1804x972.jpg)](https://commons.wikimedia.org/wiki/File:Domesday-book-1804x972.jpg)
+
+<sub>Pages of Domesday Book (The National Archives, Kew) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Domesday-book-1804x972.jpg).</sub>
 
 - **Date:** 1086
 - **Type:** Survey / public record

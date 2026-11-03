@@ -1,10 +1,14 @@
 # Matthew Paris
 
+<a href="https://commons.wikimedia.org/wiki/File:BritLibRoyal14CVIIFol006rMattParisSelfPort.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BritLibRoyal14CVIIFol006rMattParisSelfPort.jpg/330px-BritLibRoyal14CVIIFol006rMattParisSelfPort.jpg" alt="Matthew Paris" title="Matthew Paris's self-portrait kneeling before the Virgin and Child, British Library, Royal MS 14 C VII, f. 6r"></a>
+
 **c. 1200 – 1259** · English  
 Born: England · Died: St Albans Abbey, Hertfordshire  
 Traditions & eras: [Medieval chronicles & charters](../movements/medieval-chronicles.md)  
 
 > A Benedictine monk of St Albans, Matthew Paris was the foremost English chronicler of the thirteenth century and illustrated his own manuscripts.
+
+<sub>Portrait: Matthew Paris's self-portrait kneeling before the Virgin and Child, British Library, Royal MS 14 C VII, f. 6r · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BritLibRoyal14CVIIFol006rMattParisSelfPort.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ His Chronica Majora is a vast history of the world from the Creation, becoming r
 ## Key histories & documents
 
 ### Chronica Majora (c. 1240–1259)
+
+[![Chronica Majora](https://upload.wikimedia.org/wikipedia/commons/4/4d/Matthew_Paris_Elephant_from_Parker_MS_16_fol_151v.jpg)](https://commons.wikimedia.org/wiki/File:Matthew_Paris_Elephant_from_Parker_MS_16_fol_151v.jpg)
+
+<sub>Matthew Paris's drawing of the elephant given to Henry III, Chronica Majora (Corpus Christi College, Cambridge, MS 16, f. 151v) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Matthew_Paris_Elephant_from_Parker_MS_16_fol_151v.jpg).</sub>
 
 - **Date:** c. 1240–1259
 - **Type:** Illustrated chronicle

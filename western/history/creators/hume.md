@@ -1,11 +1,15 @@
 # David Hume
 
+<a href="https://commons.wikimedia.org/wiki/File:David_Hume_Ramsay.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/David_Hume_Ramsay.jpg/330px-David_Hume_Ramsay.jpg" alt="David Hume" title="Allan Ramsay, portrait of David Hume, 1766 (Scottish National Portrait Gallery)"></a>
+
 **1711 – 1776** · Scottish  
 Born: Edinburgh, Scotland · Died: Edinburgh  
 Traditions & eras: [Enlightenment history](../movements/enlightenment-history.md)  
 Also in: [Philosophy](../../philosophy/eras/03-early-modern/david-hume.md)  
 
 > The Scottish philosopher David Hume was best known in his own lifetime as the author of a bestselling History of England.
+
+<sub>Portrait: Allan Ramsay, portrait of David Hume, 1766 (Scottish National Portrait Gallery) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:David_Hume_Ramsay.jpg)</sub>
 
 ## Biography
 

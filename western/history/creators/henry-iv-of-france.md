@@ -1,10 +1,14 @@
 # Henry IV of France
 
+<a href="https://commons.wikimedia.org/wiki/File:Frans_Pourbus_the_Younger_%28Antwerp_1569_-_Paris_1622%29_-_Henri_IV%2C_King_of_France_%281553-1610%29_-_RCIN_402972_-_Royal_Collection.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Frans_Pourbus_the_Younger_%28Antwerp_1569_-_Paris_1622%29_-_Henri_IV%2C_King_of_France_%281553-1610%29_-_RCIN_402972_-_Royal_Collection.jpg/330px-Frans_Pourbus_the_Younger_%28Antwerp_1569_-_Paris_1622%29_-_Henri_IV%2C_King_of_France_%281553-1610%29_-_RCIN_402972_-_Royal_Collection.jpg" alt="Henry IV of France" title="Frans Pourbus the Younger, Henri IV, King of France (Royal Collection)"></a>
+
 **1553 – 1610** · French  
 Born: Pau, Kingdom of Navarre · Died: Paris  
 Traditions & eras: [Early-modern political history & documents](../movements/early-modern-documents.md)  
 
 > The first Bourbon king of France, Henry IV ended the French Wars of Religion and granted toleration to Protestants in the Edict of Nantes.
+
+<sub>Portrait: Frans Pourbus the Younger, Henri IV, King of France (Royal Collection) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Frans_Pourbus_the_Younger_%28Antwerp_1569_-_Paris_1622%29_-_Henri_IV%2C_King_of_France_%281553-1610%29_-_RCIN_402972_-_Royal_Collection.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Henry's Edict of Nantes of 1598 was a pragmatic settlement that allowed limited 
 ## Key histories & documents
 
 ### Edict of Nantes (1598)
+
+[![Edict of Nantes](https://upload.wikimedia.org/wikipedia/commons/5/59/Edit_de_nantes.jpg)](https://commons.wikimedia.org/wiki/File:Edit_de_nantes.jpg)
+
+<sub>The Edict of Nantes, 1598 (Archives nationales, Paris) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Edit_de_nantes.jpg).</sub>
 
 - **Date:** 1598
 - **Type:** Royal edict

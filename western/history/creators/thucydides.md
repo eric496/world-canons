@@ -1,10 +1,14 @@
 # Thucydides
 
+<a href="https://commons.wikimedia.org/wiki/File:Thucydides_pushkin01.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Thucydides_pushkin01.jpg" alt="Thucydides" title="Bust of Thucydides (cast in the Pushkin Museum, Moscow, after an ancient original)"></a>
+
 **c. 460 BC – c. 400 BC** · Greek (Athenian)  
 Born: Athens · Died: Athens or Thrace (uncertain)  
 Traditions & eras: [Greek historiography](../movements/greek-historiography.md)  
 
 > An Athenian general turned historian, Thucydides wrote the history of the Peloponnesian War with a rigour and analytical power that have made him a model for historians and political thinkers.
+
+<sub>Portrait: Bust of Thucydides (cast in the Pushkin Museum, Moscow, after an ancient original) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Thucydides_pushkin01.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Thucydides set out to write a 'possession for all time' rather than a performanc
 ## Key histories & documents
 
 ### History of the Peloponnesian War (c. 431–400 BC)
+
+[![History of the Peloponnesian War](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Thucydides_Manuscript.jpg/1280px-Thucydides_Manuscript.jpg)](https://commons.wikimedia.org/wiki/File:Thucydides_Manuscript.jpg)
+
+<sub>Medieval Greek manuscript of Thucydides Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Thucydides_Manuscript.jpg).</sub>
 
 - **Date:** c. 431–400 BC
 - **Type:** Prose history (8 books, unfinished)

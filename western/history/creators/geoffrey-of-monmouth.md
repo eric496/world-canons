@@ -1,10 +1,14 @@
 # Geoffrey of Monmouth
 
+<a href="https://commons.wikimedia.org/wiki/File:Geoffrey_of_Monmouth_at_Tintern_Station_%28geograph_6023609%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Geoffrey_of_Monmouth_at_Tintern_Station_%28geograph_6023609%29.jpg/330px-Geoffrey_of_Monmouth_at_Tintern_Station_%28geograph_6023609%29.jpg" alt="Geoffrey of Monmouth" title="Modern statue of Geoffrey of Monmouth at Tintern Old Station, Monmouthshire"></a>
+
 **c. 1095 – c. 1155** · Welsh / Cambro-Norman  
 Born: probably Monmouth, Wales · Died: probably Llandaff or Oxford  
 Traditions & eras: [Medieval chronicles & charters](../movements/medieval-chronicles.md)  
 
 > A cleric at Oxford, Geoffrey wrote the History of the Kings of Britain, which created the legend of King Arthur as Europe came to know it.
+
+<sub>Portrait: Modern statue of Geoffrey of Monmouth at Tintern Old Station, Monmouthshire · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Geoffrey_of_Monmouth_at_Tintern_Station_%28geograph_6023609%29.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ His History of the Kings of Britain, finished around 1136, claimed to translate 
 ## Key histories & documents
 
 ### History of the Kings of Britain (Historia Regum Britanniae) (c. 1136)
+
+[![History of the Kings of Britain (Historia Regum Britanniae)](https://upload.wikimedia.org/wikipedia/commons/8/81/Vortigern-Dragons.jpg)](https://commons.wikimedia.org/wiki/File:Vortigern-Dragons.jpg)
+
+<sub>Vortigern and Merlin watch the red and white dragons fight, from a 15th-century manuscript of Geoffrey's History Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Vortigern-Dragons.jpg).</sub>
 
 - **Date:** c. 1136
 - **Type:** Legendary history

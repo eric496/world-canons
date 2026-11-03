@@ -1,10 +1,14 @@
 # Publius Cornelius Tacitus
 
+<a href="https://commons.wikimedia.org/wiki/File:Wien-_Parlament-Tacitus.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wien-_Parlament-Tacitus.jpg/330px-Wien-_Parlament-Tacitus.jpg" alt="Publius Cornelius Tacitus" title="Statue of Tacitus outside the Austrian Parliament Building, Vienna (19th century)"></a>
+
 **c. AD 56 – c. 120** · Roman  
 Born: probably Gaul or northern Italy · Died: unknown  
 Traditions & eras: [Roman historiography & biography](../movements/roman-historiography.md)  
 
 > Senator and historian, Tacitus chronicled the early Roman emperors with a compressed, ironic brilliance and a deep suspicion of tyranny.
+
+<sub>Portrait: Statue of Tacitus outside the Austrian Parliament Building, Vienna (19th century) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wien-_Parlament-Tacitus.jpg)</sub>
 
 ## Biography
 
@@ -30,6 +34,10 @@ In the Germania Tacitus describes the geography, customs, religion and tribes of
 
 ### Agricola (AD 98)
 
+[![Agricola](https://upload.wikimedia.org/wikipedia/commons/0/03/Codex-Aesinas-n.8_-linizio-dellAgricola-di-Tacito-carta-52r.jpg)](https://commons.wikimedia.org/wiki/File:Codex-Aesinas-n.8_-linizio-dellAgricola-di-Tacito-carta-52r.jpg)
+
+<sub>Opening of the Agricola in the Codex Aesinas, 9th–15th century (fol. 52r) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Codex-Aesinas-n.8_-linizio-dellAgricola-di-Tacito-carta-52r.jpg).</sub>
+
 - **Date:** AD 98
 - **Type:** Biography
 - **Written / held:** Written in Rome
@@ -39,6 +47,10 @@ The Agricola is a short biography of Gnaeus Julius Agricola, the general who gov
 
 ### Histories (c. AD 100–110)
 
+[![Histories](https://upload.wikimedia.org/wikipedia/commons/5/59/Tacitus_Historiae_Liber_I._%28Editio_princeps%2C_Venedig_1472%29.jpg)](https://commons.wikimedia.org/wiki/File:Tacitus_Historiae_Liber_I._%28Editio_princeps%2C_Venedig_1472%29.jpg)
+
+<sub>Tacitus' Histories, book 1, first printed edition, Venice, 1472 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Tacitus_Historiae_Liber_I._%28Editio_princeps%2C_Venedig_1472%29.jpg).</sub>
+
 - **Date:** c. AD 100–110
 - **Type:** Prose history (partly preserved)
 - **Written / held:** Written in Rome; survives in the second Medicean manuscript (Laurentian Library, Florence)
@@ -47,6 +59,10 @@ The Agricola is a short biography of Gnaeus Julius Agricola, the general who gov
 The Histories originally covered the years from 69 to the death of Domitian in 96, but only the first four books and part of the fifth survive, covering 69 and 70. They describe a terrible year in which Galba, Otho, Vitellius and Vespasian successively seized power, with armies marching on Rome and the Capitol burned. Tacitus reveals what he calls the secret of empire: that an emperor could be made elsewhere than at Rome. The surviving part ends with the revolt of the Batavians on the Rhine and the opening of the siege of Jerusalem. It is one of the most gripping narratives of political collapse in ancient literature.
 
 ### Annals (c. AD 116–120)
+
+[![Annals](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tacitus%2C_Annales_XI-XVI%2C_editio_princeps%2C_ca._1471-72%2C_incipit.jpg/960px-Tacitus%2C_Annales_XI-XVI%2C_editio_princeps%2C_ca._1471-72%2C_incipit.jpg)](https://commons.wikimedia.org/wiki/File:Tacitus%2C_Annales_XI-XVI%2C_editio_princeps%2C_ca._1471-72%2C_incipit.jpg)
+
+<sub>First printed edition of Tacitus' Annals, books 11–16, Venice, c. 1471–72 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Tacitus%2C_Annales_XI-XVI%2C_editio_princeps%2C_ca._1471-72%2C_incipit.jpg).</sub>
 
 - **Date:** c. AD 116–120
 - **Type:** Prose history (16+ books, partly preserved)

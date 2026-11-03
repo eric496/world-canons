@@ -1,10 +1,14 @@
 # Arrian of Nicomedia
 
+<a href="https://commons.wikimedia.org/wiki/File:Arrian7.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Arrian7.jpg" alt="Arrian of Nicomedia" title="Bust traditionally identified as Arrian"></a>
+
 **c. AD 86 – after 145** · Greek (Roman citizen)  
 Born: Nicomedia, Bithynia (now İzmit, Turkey) · Died: probably Athens  
 Traditions & eras: [Roman historiography & biography](../movements/roman-historiography.md)  
 
 > A Greek philosopher, Roman governor and general, Arrian wrote the most reliable surviving account of Alexander the Great's campaigns.
+
+<sub>Portrait: Bust traditionally identified as Arrian · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arrian7.jpg)</sub>
 
 ## Biography
 

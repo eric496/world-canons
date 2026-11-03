@@ -1,10 +1,14 @@
 # Lorenzo Valla
 
+<a href="https://commons.wikimedia.org/wiki/File:Portret_van_Lorenzo_Valla_Laurentius_Valla_%28titel_op_object%29%2C_RP-P-1909-4359.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Portret_van_Lorenzo_Valla_Laurentius_Valla_%28titel_op_object%29%2C_RP-P-1909-4359.jpg/330px-Portret_van_Lorenzo_Valla_Laurentius_Valla_%28titel_op_object%29%2C_RP-P-1909-4359.jpg" alt="Lorenzo Valla" title="Portrait of Lorenzo Valla, engraving (Rijksmuseum, Amsterdam)"></a>
+
 **c. 1407 – 1457** · Italian  
 Born: Rome · Died: Rome  
 Traditions & eras: [Renaissance humanist history](../movements/renaissance-history.md)  
 
 > A combative humanist and philologist, Valla proved that the Donation of Constantine, the basis of papal claims to temporal power, was a forgery.
+
+<sub>Portrait: Portrait of Lorenzo Valla, engraving (Rijksmuseum, Amsterdam) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portret_van_Lorenzo_Valla_Laurentius_Valla_%28titel_op_object%29%2C_RP-P-1909-4359.jpg)</sub>
 
 ## Biography
 

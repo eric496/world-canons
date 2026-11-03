@@ -1,10 +1,14 @@
 # French National Constituent Assembly
 
+<a href="https://commons.wikimedia.org/wiki/File:Le_Serment_du_Jeu_de_paume.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Le_Serment_du_Jeu_de_paume.jpg/330px-Le_Serment_du_Jeu_de_paume.jpg" alt="French National Constituent Assembly" title="Jacques-Louis David, The Tennis Court Oath, drawing, 1791 (Palace of Versailles)"></a>
+
 **1789 – 1791** · French  
 Born: Versailles and Paris · Died: Paris  
 Traditions & eras: [Age of Revolutions documents](../movements/revolutionary-documents.md)  
 
 > The revolutionary assembly formed by the deputies of the Estates-General in 1789, which abolished feudal privileges and adopted the Declaration of the Rights of Man and of the Citizen.
+
+<sub>Portrait: Jacques-Louis David, The Tennis Court Oath, drawing, 1791 (Palace of Versailles) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Le_Serment_du_Jeu_de_paume.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Over the next two years the Assembly reorganised France into departments, nation
 ## Key histories & documents
 
 ### Declaration of the Rights of Man and of the Citizen (1789)
+
+[![Declaration of the Rights of Man and of the Citizen](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg/960px-Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg)](https://commons.wikimedia.org/wiki/File:Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg)
+
+<sub>Jean-Jacques-François Le Barbier, painting of the Declaration, c. 1789 (Musée Carnavalet, Paris) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg).</sub>
 
 - **Date:** 1789
 - **Type:** Declaration

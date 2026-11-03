@@ -1,10 +1,14 @@
 # Anna Komnene
 
+<a href="https://commons.wikimedia.org/wiki/File:Anna_Komnene_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Anna_Komnene_%28cropped%29.jpg" alt="Anna Komnene" title="Portrait of Anna Komnene"></a>
+
 **1083 – c. 1153** · Byzantine  
 Born: Constantinople · Died: Constantinople  
 Traditions & eras: [Medieval chronicles & charters](../movements/medieval-chronicles.md)  
 
 > A Byzantine princess and scholar, Anna Komnene wrote the Alexiad, a history of her father's reign and one of the first major histories written by a woman.
+
+<sub>Portrait: Portrait of Anna Komnene · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anna_Komnene_%28cropped%29.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ The Alexiad, written in learned classicising Greek, describes Alexios' struggles
 ## Key histories & documents
 
 ### Alexiad (c. 1148)
+
+[![Alexiad](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Anna_comnena%2C_alexiade%2C_forse_da_costantinopoli%2C_XII_secolo_%28pluteo_70.2%29.jpg/1280px-Anna_comnena%2C_alexiade%2C_forse_da_costantinopoli%2C_XII_secolo_%28pluteo_70.2%29.jpg)](https://commons.wikimedia.org/wiki/File:Anna_comnena%2C_alexiade%2C_forse_da_costantinopoli%2C_XII_secolo_%28pluteo_70.2%29.jpg)
+
+<sub>Manuscript of the Alexiad, Laurentian Library, Florence, Plut. 70.2 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Anna_comnena%2C_alexiade%2C_forse_da_costantinopoli%2C_XII_secolo_%28pluteo_70.2%29.jpg).</sub>
 
 - **Date:** c. 1148
 - **Type:** Prose history (15 books)

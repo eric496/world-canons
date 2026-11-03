@@ -16,6 +16,10 @@ Burckhardt turned from political narrative to the study of a whole culture: its 
 
 ### The Civilization of the Renaissance in Italy (1860)
 
+[![The Civilization of the Renaissance in Italy](https://upload.wikimedia.org/wikipedia/commons/4/4a/Die_Kultur_der_Renaissance_in_Italien.jpg)](https://commons.wikimedia.org/wiki/File:Die_Kultur_der_Renaissance_in_Italien.jpg)
+
+<sub>Title page of Die Kultur der Renaissance in Italien Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Die_Kultur_der_Renaissance_in_Italien.jpg).</sub>
+
 - **Date:** 1860
 - **Type:** Cultural history
 - **Written / held:** Written in Basel; published by Schweighauser, Basel

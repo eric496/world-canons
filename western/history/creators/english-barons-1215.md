@@ -16,6 +16,10 @@ The charter was a peace treaty that failed: within months John had it annulled b
 
 ### Magna Carta (1215)
 
+[![Magna Carta](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/1280px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg)](https://commons.wikimedia.org/wiki/File:Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg)
+
+<sub>One of the four surviving 1215 exemplifications of Magna Carta (British Library, Cotton MS Augustus II.106) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg).</sub>
+
 - **Date:** 1215
 - **Type:** Charter of liberties
 - **Written / held:** Four original 1215 exemplifications survive: two in the British Library, one each at Lincoln Castle and Salisbury Cathedral

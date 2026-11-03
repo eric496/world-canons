@@ -1,10 +1,14 @@
 # Gaius Julius Caesar
 
+<a href="https://commons.wikimedia.org/wiki/File:Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/330px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg" alt="Gaius Julius Caesar" title="Marble portrait bust of Julius Caesar"></a>
+
 **100 BC – 44 BC** · Roman  
 Born: Rome · Died: Rome  
 Traditions & eras: [Roman historiography & biography](../movements/roman-historiography.md)  
 
 > Roman general, dictator and writer, Caesar recorded his conquest of Gaul and his civil war in terse commentaries that are also brilliant pieces of political self-presentation.
+
+<sub>Portrait: Marble portrait bust of Julius Caesar · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg)</sub>
 
 ## Biography
 
@@ -18,6 +22,10 @@ Caesar wrote his commentaries in a famously clean, unadorned Latin, referring to
 - [Commentaries on the Civil War (De Bello Civili)](#commentaries-on-the-civil-war-de-bello-civili-c-4945-bc) (c. 49–45 BC)
 
 ### Commentaries on the Gallic War (De Bello Gallico) (c. 58–50 BC)
+
+[![Commentaries on the Gallic War (De Bello Gallico)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Caesar_bsb_beck.jpg/960px-Caesar_bsb_beck.jpg)](https://commons.wikimedia.org/wiki/File:Caesar_bsb_beck.jpg)
+
+<sub>Early edition of Caesar's Commentaries (Bavarian State Library) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Caesar_bsb_beck.jpg).</sub>
 
 - **Date:** c. 58–50 BC
 - **Type:** War commentary (7 books, plus an 8th by Hirtius)

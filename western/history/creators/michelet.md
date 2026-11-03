@@ -1,10 +1,14 @@
 # Jules Michelet
 
+<a href="https://commons.wikimedia.org/wiki/File:Jules_Michelet_par_Thomas_Couture_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Jules_Michelet_par_Thomas_Couture_%28cropped%29.jpg" alt="Jules Michelet" title="Thomas Couture, portrait of Jules Michelet (Musée Carnavalet, Paris)"></a>
+
 **1798 – 1874** · French  
 Born: Paris · Died: Hyères, France  
 Traditions & eras: [Romantic & national history](../movements/romantic-history.md)  
 
 > The great Romantic historian of France, Michelet told the nation's history as the life and passion of its people.
+
+<sub>Portrait: Thomas Couture, portrait of Jules Michelet (Musée Carnavalet, Paris) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jules_Michelet_par_Thomas_Couture_%28cropped%29.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Michelet's History of France and History of the French Revolution aimed at the '
 ## Key histories & documents
 
 ### History of France (1833–1867)
+
+[![History of France](https://upload.wikimedia.org/wikipedia/commons/8/89/Histoire_de_France_Michelet_Hachette.png)](https://commons.wikimedia.org/wiki/File:Histoire_de_France_Michelet_Hachette.png)
+
+<sub>Cover of a Hachette edition of Michelet's Histoire de France Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Histoire_de_France_Michelet_Hachette.png).</sub>
 
 - **Date:** 1833–1867
 - **Type:** National history (17 volumes)

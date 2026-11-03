@@ -1,10 +1,14 @@
 # Abraham Lincoln
 
+<a href="https://commons.wikimedia.org/wiki/File:George_P.A._Healy_-_Abraham_Lincoln_-_Google_Art_Project.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/George_P.A._Healy_-_Abraham_Lincoln_-_Google_Art_Project.jpg/330px-George_P.A._Healy_-_Abraham_Lincoln_-_Google_Art_Project.jpg" alt="Abraham Lincoln" title="George P. A. Healy, portrait of Abraham Lincoln"></a>
+
 **1809 – 1865** · American  
 Born: near Hodgenville, Kentucky · Died: Washington, D.C.  
 Traditions & eras: [Reform, emancipation & revolution](../movements/nineteenth-century-documents.md)  
 
 > The sixteenth President of the United States led the Union through the Civil War, issued the Emancipation Proclamation and gave the Gettysburg Address.
+
+<sub>Portrait: George P. A. Healy, portrait of Abraham Lincoln · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:George_P.A._Healy_-_Abraham_Lincoln_-_Google_Art_Project.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ Lincoln's position on slavery moved from opposing its expansion to emancipation 
 
 ### Emancipation Proclamation (1863)
 
+[![Emancipation Proclamation](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Emancipation_Proclamation%2C_01-01-1863_%28Page_1_of_5%29_%283695343876%29.jpg/1280px-Emancipation_Proclamation%2C_01-01-1863_%28Page_1_of_5%29_%283695343876%29.jpg)](https://commons.wikimedia.org/wiki/File:Emancipation_Proclamation%2C_01-01-1863_%28Page_1_of_5%29_%283695343876%29.jpg)
+
+<sub>First page of the Emancipation Proclamation, 1 January 1863 (National Archives) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Emancipation_Proclamation%2C_01-01-1863_%28Page_1_of_5%29_%283695343876%29.jpg).</sub>
+
 - **Date:** 1863
 - **Type:** Executive order
 - **Written / held:** Signed in Washington, D.C., 1 January 1863; original in the National Archives
@@ -27,6 +35,10 @@ Lincoln's position on slavery moved from opposing its expansion to emancipation 
 Lincoln issued a preliminary proclamation after the battle of Antietam in September 1862 and signed the final proclamation on 1 January 1863. Issued as a war measure under his powers as commander-in-chief, it declared that all persons held as slaves in areas then in rebellion against the United States were and henceforward shall be free. It did not apply to slave states loyal to the Union or to Union-occupied areas, so it freed few people immediately, but every advance of Union armies thereafter brought freedom, and it authorised the enlistment of Black soldiers, nearly 200,000 of whom served. It transformed the war into a war against slavery and deterred European recognition of the Confederacy. Slavery was abolished throughout the United States by the Thirteenth Amendment in 1865.
 
 ### Gettysburg Address (1863)
+
+[![Gettysburg Address](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gettysburg_Address_Bliss_copy.jpg/1280px-Gettysburg_Address_Bliss_copy.jpg)](https://commons.wikimedia.org/wiki/File:Gettysburg_Address_Bliss_copy.jpg)
+
+<sub>The Bliss copy of the Gettysburg Address in Lincoln's hand Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Gettysburg_Address_Bliss_copy.jpg).</sub>
 
 - **Date:** 1863
 - **Type:** Speech

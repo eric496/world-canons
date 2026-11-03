@@ -16,6 +16,10 @@ Einhard's Life of Charlemagne, written probably in the 820s, borrows its structu
 
 ### Life of Charlemagne (Vita Karoli Magni) (c. 817–830)
 
+[![Life of Charlemagne (Vita Karoli Magni)](https://upload.wikimedia.org/wikipedia/commons/6/62/%C3%89ginhard_Vita_Caroli_magni_imperatoris-Lettrine_V_histori%C3%A9e_Charlemagne_assis.jpg)](https://commons.wikimedia.org/wiki/File:%C3%89ginhard_Vita_Caroli_magni_imperatoris-Lettrine_V_histori%C3%A9e_Charlemagne_assis.jpg)
+
+<sub>Historiated initial showing Charlemagne enthroned, from a manuscript of Einhard's Life of Charlemagne Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:%C3%89ginhard_Vita_Caroli_magni_imperatoris-Lettrine_V_histori%C3%A9e_Charlemagne_assis.jpg).</sub>
+
 - **Date:** c. 817–830
 - **Type:** Biography
 - **Written / held:** Written in the Frankish Empire (Aachen or Seligenstadt)

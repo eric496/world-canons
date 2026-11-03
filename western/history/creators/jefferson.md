@@ -1,11 +1,15 @@
 # Thomas Jefferson
 
+<a href="https://commons.wikimedia.org/wiki/File:Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg/330px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg" alt="Thomas Jefferson" title="Rembrandt Peale, portrait of Thomas Jefferson, 1800 (White House)"></a>
+
 **1743 – 1826** · American  
 Born: Shadwell, Colony of Virginia · Died: Monticello, Virginia  
 Traditions & eras: [Age of Revolutions documents](../movements/revolutionary-documents.md)  
 Also in: [Architecture](../../architecture/creators/jefferson.md)  
 
 > Principal author of the Declaration of Independence and third President of the United States, Jefferson championed natural rights and religious freedom while himself owning enslaved people.
+
+<sub>Portrait: Rembrandt Peale, portrait of Thomas Jefferson, 1800 (White House) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ Jefferson asked to be remembered for three things: the Declaration of Independen
 - [Virginia Statute for Religious Freedom](#virginia-statute-for-religious-freedom-1777-enacted-1786) (1777 (enacted 1786))
 
 ### Declaration of Independence (1776)
+
+[![Declaration of Independence](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/United_States_Declaration_of_Independence.jpg/1280px-United_States_Declaration_of_Independence.jpg)](https://commons.wikimedia.org/wiki/File:United_States_Declaration_of_Independence.jpg)
+
+<sub>The signed engrossed Declaration of Independence (National Archives, Washington) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:United_States_Declaration_of_Independence.jpg).</sub>
 
 - **Date:** 1776
 - **Type:** Declaration

@@ -1,10 +1,14 @@
 # Xenophon
 
+<a href="https://commons.wikimedia.org/wiki/File:Bust_of_Xenophon.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bust_of_Xenophon.jpg/330px-Bust_of_Xenophon.jpg" alt="Xenophon" title="Bust of Xenophon"></a>
+
 **c. 430 BC – c. 354 BC** · Greek (Athenian)  
 Born: Athens · Died: probably Corinth  
 Traditions & eras: [Greek historiography](../movements/greek-historiography.md)  
 
 > Soldier, pupil of Socrates and versatile writer, Xenophon told the story of the Ten Thousand's march out of Persia and continued Thucydides' history of Greece.
+
+<sub>Portrait: Bust of Xenophon · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bust_of_Xenophon.jpg)</sub>
 
 ## Biography
 
@@ -27,6 +31,10 @@ Xenophon wrote in a clear, plain Attic prose that later made him a schoolroom au
 The Anabasis tells how Cyrus the Younger hired Greek mercenaries in 401 BC to seize the Persian throne from his brother, how Cyrus was killed at Cunaxa near Babylon, and how the stranded Greeks, their generals murdered, elected new leaders, among them Xenophon himself, and fought their way north through the mountains of Kurdistan and Armenia to the Black Sea. The moment when the soldiers sight the sea and cry 'Thalatta! Thalatta!' is among the most famous scenes in ancient literature. Xenophon wrote in the third person and published the work under another name, perhaps to make it seem impartial. Its plain style made it a standard schoolbook, and its picture of a democratic army improvising its survival has fascinated soldiers and writers ever since.
 
 ### Hellenica (c. 360s–350s BC)
+
+[![Hellenica](https://upload.wikimedia.org/wikipedia/commons/e/e7/Xenophon_Hellenica.jpg)](https://commons.wikimedia.org/wiki/File:Xenophon_Hellenica.jpg)
+
+<sub>Page of a manuscript or early edition of Xenophon's Hellenica Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Xenophon_Hellenica.jpg).</sub>
 
 - **Date:** c. 360s–350s BC
 - **Type:** Prose history (7 books)

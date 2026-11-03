@@ -1,10 +1,14 @@
 # Polybius
 
+<a href="https://commons.wikimedia.org/wiki/File:Stele_des_Polybios.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Stele_des_Polybios.jpg" alt="Polybius" title="Relief stele of Polybius (cast of an ancient relief)"></a>
+
 **c. 200 BC – c. 118 BC** · Greek  
 Born: Megalopolis, Arcadia · Died: Greece  
 Traditions & eras: [Greek historiography](../movements/greek-historiography.md)  
 
 > A Greek statesman taken to Rome as a hostage, Polybius wrote a universal history to explain how Rome came to dominate the Mediterranean world in barely fifty years.
+
+<sub>Portrait: Relief stele of Polybius (cast of an ancient relief) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stele_des_Polybios.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ His Histories, in forty books of which five survive complete, cover the years fr
 ## Key histories & documents
 
 ### Histories (c. 150–120 BC)
+
+[![Histories](https://upload.wikimedia.org/wikipedia/commons/1/13/Polybius_1548.jpg)](https://commons.wikimedia.org/wiki/File:Polybius_1548.jpg)
+
+<sub>Polybius' Histories, 1548 edition Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Polybius_1548.jpg).</sub>
 
 - **Date:** c. 150–120 BC
 - **Type:** Universal history (40 books, partly preserved)

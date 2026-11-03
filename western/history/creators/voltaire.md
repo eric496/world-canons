@@ -1,11 +1,15 @@
 # Voltaire (François-Marie Arouet)
 
+<a href="https://commons.wikimedia.org/wiki/File:Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg/330px-Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg" alt="Voltaire (François-Marie Arouet)" title="Workshop of Nicolas de Largillière, Voltaire aged 24, c. 1718 (Musée Carnavalet, Paris)"></a>
+
 **1694 – 1778** · French  
 Born: Paris · Died: Paris  
 Traditions & eras: [Enlightenment history](../movements/enlightenment-history.md)  
 Also in: [Literature](../../literature/creators/voltaire.md)  
 
 > The leading writer of the French Enlightenment, Voltaire also reinvented history as the story of civilisation, manners and the human mind.
+
+<sub>Portrait: Workshop of Nicolas de Largillière, Voltaire aged 24, c. 1718 (Musée Carnavalet, Paris) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg)</sub>
 
 ## Biography
 
@@ -20,6 +24,10 @@ As well as plays, poems, Candide and countless pamphlets, Voltaire wrote major h
 
 ### The Age of Louis XIV (1751)
 
+[![The Age of Louis XIV](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_XIV_of_France.jpg/960px-Louis_XIV_of_France.jpg)](https://commons.wikimedia.org/wiki/File:Louis_XIV_of_France.jpg)
+
+<sub>Hyacinthe Rigaud, portrait of Louis XIV, 1701 (Louvre) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Louis_XIV_of_France.jpg).</sub>
+
 - **Date:** 1751
 - **Type:** History
 - **Written / held:** Written in France and at Potsdam; first published in Berlin, 1751
@@ -28,6 +36,10 @@ As well as plays, poems, Candide and countless pamphlets, Voltaire wrote major h
 Voltaire worked on Le Siècle de Louis XIV for some twenty years, publishing it in Berlin in 1751 while at the court of Frederick the Great. He declared that he intended to depict not the actions of one man but the spirit of men in the most enlightened age there had ever been. Along with the wars and politics of the reign, the book devotes chapters to government, commerce, law, the church, religious disputes, science, literature and the fine arts, and to anecdotes of court life. Voltaire consulted surviving witnesses and documents. The work admires the king's patronage of culture while condemning religious persecution, including the revocation of the Edict of Nantes. It is a founding work of cultural history.
 
 ### Essay on the Manners and Spirit of Nations (1756)
+
+[![Essay on the Manners and Spirit of Nations](https://upload.wikimedia.org/wikipedia/commons/2/24/VoltaireEssayMorals.jpg)](https://commons.wikimedia.org/wiki/File:VoltaireEssayMorals.jpg)
+
+<sub>Title page of an early edition of Voltaire's Essay Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:VoltaireEssayMorals.jpg).</sub>
 
 - **Date:** 1756
 - **Type:** Universal history

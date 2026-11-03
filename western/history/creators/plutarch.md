@@ -1,10 +1,14 @@
 # Plutarch
 
+<a href="https://commons.wikimedia.org/wiki/File:Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg" alt="Plutarch" title="Portrait head of a philosopher, possibly Plutarch, Archaeological Museum of Delphi"></a>
+
 **c. AD 46 – after 119** · Greek (Roman citizen)  
 Born: Chaeronea, Boeotia, Greece · Died: Chaeronea  
 Traditions & eras: [Roman historiography & biography](../movements/roman-historiography.md)  
 
 > A Greek philosopher and priest at Delphi, Plutarch wrote paired biographies of famous Greeks and Romans that became one of the most widely read books in European history.
+
+<sub>Portrait: Portrait head of a philosopher, possibly Plutarch, Archaeological Museum of Delphi · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Besides the Parallel Lives he wrote a huge range of essays on ethics, religion, 
 ## Key histories & documents
 
 ### Parallel Lives (c. AD 100–120)
+
+[![Parallel Lives](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plutarch%2C_Parallel_Lives%2C_Oxford%2C_MS._Canonici_Greek_93_%28cropped%29.jpg/1280px-Plutarch%2C_Parallel_Lives%2C_Oxford%2C_MS._Canonici_Greek_93_%28cropped%29.jpg)](https://commons.wikimedia.org/wiki/File:Plutarch%2C_Parallel_Lives%2C_Oxford%2C_MS._Canonici_Greek_93_%28cropped%29.jpg)
+
+<sub>Greek manuscript of Plutarch's Parallel Lives, Bodleian Library, Oxford, MS. Canon. Gr. 93 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Plutarch%2C_Parallel_Lives%2C_Oxford%2C_MS._Canonici_Greek_93_%28cropped%29.jpg).</sub>
 
 - **Date:** c. AD 100–120
 - **Type:** Paired biographies

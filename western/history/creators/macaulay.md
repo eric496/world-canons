@@ -1,10 +1,14 @@
 # Thomas Babington Macaulay
 
+<a href="https://commons.wikimedia.org/wiki/File:Thomas_Babington_Macaulay%2C_Baron_Macaulay_by_Sir_Francis_Grant.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Thomas_Babington_Macaulay%2C_Baron_Macaulay_by_Sir_Francis_Grant.jpg/330px-Thomas_Babington_Macaulay%2C_Baron_Macaulay_by_Sir_Francis_Grant.jpg" alt="Thomas Babington Macaulay" title="Francis Grant, portrait of Thomas Babington Macaulay, 1853 (National Portrait Gallery, London)"></a>
+
 **1800 – 1859** · British  
 Born: Rothley Temple, Leicestershire, England · Died: London  
 Traditions & eras: [Romantic & national history](../movements/romantic-history.md)  
 
 > A Whig politician, essayist and poet, Macaulay wrote a History of England that celebrated the Revolution of 1688 and became a Victorian bestseller.
+
+<sub>Portrait: Francis Grant, portrait of Thomas Babington Macaulay, 1853 (National Portrait Gallery, London) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Thomas_Babington_Macaulay%2C_Baron_Macaulay_by_Sir_Francis_Grant.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Macaulay's History of England from the Accession of James the Second, published 
 ## Key histories & documents
 
 ### The History of England from the Accession of James the Second (1848–1861)
+
+[![The History of England from the Accession of James the Second](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_history_of_England%2C_from_the_accession_of_James_the_Second_%281914%29_%2814596370170%29.jpg/960px-The_history_of_England%2C_from_the_accession_of_James_the_Second_%281914%29_%2814596370170%29.jpg)](https://commons.wikimedia.org/wiki/File:The_history_of_England%2C_from_the_accession_of_James_the_Second_%281914%29_%2814596370170%29.jpg)
+
+<sub>Illustrated page from a 1914 edition of Macaulay's History Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_history_of_England%2C_from_the_accession_of_James_the_Second_%281914%29_%2814596370170%29.jpg).</sub>
 
 - **Date:** 1848–1861
 - **Type:** History (5 volumes)

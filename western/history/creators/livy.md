@@ -1,10 +1,14 @@
 # Livy (Titus Livius)
 
+<a href="https://commons.wikimedia.org/wiki/File:Titus-Livius-Austrian-Parliament-Building.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/330px-Titus-Livius-Austrian-Parliament-Building.jpg" alt="Livy (Titus Livius)" title="Statue of Livy outside the Austrian Parliament Building, Vienna (19th century)"></a>
+
 **c. 59 BC – AD 17** · Roman  
 Born: Patavium (Padua), Italy · Died: Patavium (Padua)  
 Traditions & eras: [Roman historiography & biography](../movements/roman-historiography.md)  
 
 > Livy wrote the history of Rome from its foundation in 142 books, giving later ages their picture of early Roman heroes, virtues and legends.
+
+<sub>Portrait: Statue of Livy outside the Austrian Parliament Building, Vienna (19th century) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Titus-Livius-Austrian-Parliament-Building.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Livy's history, Ab Urbe Condita, is less a critical investigation than a moral a
 ## Key histories & documents
 
 ### History of Rome (Ab Urbe Condita) (c. 27 BC – AD 17)
+
+[![History of Rome (Ab Urbe Condita)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Livy%2C_Vaticanus_latinus_3331.jpg/1280px-Livy%2C_Vaticanus_latinus_3331.jpg)](https://commons.wikimedia.org/wiki/File:Livy%2C_Vaticanus_latinus_3331.jpg)
+
+<sub>Manuscript of Livy's History, Vatican Library, Vat. lat. 3331 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Livy%2C_Vaticanus_latinus_3331.jpg).</sub>
 
 - **Date:** c. 27 BC – AD 17
 - **Type:** Prose history (142 books, 35 survive)

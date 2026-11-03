@@ -1,10 +1,14 @@
 # Edward Hyde, 1st Earl of Clarendon
 
+<a href="https://commons.wikimedia.org/wiki/File:Peter_Lely_%281618-1680%29_%28after%29_-_Sir_Edward_Hyde_%281609%E2%80%931674%29%2C_1st_Earl_of_Clarendon_-_1257076_-_National_Trust.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Peter_Lely_%281618-1680%29_%28after%29_-_Sir_Edward_Hyde_%281609%E2%80%931674%29%2C_1st_Earl_of_Clarendon_-_1257076_-_National_Trust.jpg" alt="Edward Hyde, 1st Earl of Clarendon" title="After Peter Lely, Edward Hyde, 1st Earl of Clarendon (National Trust)"></a>
+
 **1609 – 1674** · English  
 Born: Dinton, Wiltshire, England · Died: Rouen, France  
 Traditions & eras: [Early-modern political history & documents](../movements/early-modern-documents.md)  
 
 > A royalist statesman and Lord Chancellor, Clarendon wrote the History of the Rebellion, the classic contemporary account of the English Civil War.
+
+<sub>Portrait: After Peter Lely, Edward Hyde, 1st Earl of Clarendon (National Trust) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Peter_Lely_%281618-1680%29_%28after%29_-_Sir_Edward_Hyde_%281609%E2%80%931674%29%2C_1st_Earl_of_Clarendon_-_1257076_-_National_Trust.jpg)</sub>
 
 ## Biography
 

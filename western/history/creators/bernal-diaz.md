@@ -1,10 +1,14 @@
 # Bernal Díaz del Castillo
 
+<a href="https://commons.wikimedia.org/wiki/File:Bernal_D%C3%ADaz_del_Castillo.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Bernal_D%C3%ADaz_del_Castillo.jpg" alt="Bernal Díaz del Castillo" title="Imagined portrait of Bernal Díaz del Castillo"></a>
+
 **c. 1496 – 1584** · Spanish  
 Born: Medina del Campo, Castile · Died: Santiago de los Caballeros, Guatemala  
 Traditions & eras: [Chronicles of the Americas](../movements/americas-chronicles.md)  
 
 > A foot soldier in Hernán Cortés's army, Bernal Díaz wrote in old age a vivid eyewitness history of the conquest of the Aztec empire.
+
+<sub>Portrait: Imagined portrait of Bernal Díaz del Castillo · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bernal_D%C3%ADaz_del_Castillo.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ In his old age Díaz wrote the True History of the Conquest of New Spain, partly
 ## Key histories & documents
 
 ### The True History of the Conquest of New Spain (c. 1568 (published 1632))
+
+[![The True History of the Conquest of New Spain](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Historia_verdadera_conquista_Nueva_Espa%C3%B1a_portada.jpg/960px-Historia_verdadera_conquista_Nueva_Espa%C3%B1a_portada.jpg)](https://commons.wikimedia.org/wiki/File:Historia_verdadera_conquista_Nueva_Espa%C3%B1a_portada.jpg)
+
+<sub>Title page of the first edition, Madrid, 1632 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Historia_verdadera_conquista_Nueva_Espa%C3%B1a_portada.jpg).</sub>
 
 - **Date:** c. 1568 (published 1632)
 - **Type:** Eyewitness history

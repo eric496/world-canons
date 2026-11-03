@@ -1,10 +1,14 @@
 # Thomas Carlyle
 
+<a href="https://commons.wikimedia.org/wiki/File:Thomas_Carlyle_by_Sir_John_Everett_Millais%2C_1st_Bt.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Thomas_Carlyle_by_Sir_John_Everett_Millais%2C_1st_Bt.jpg/330px-Thomas_Carlyle_by_Sir_John_Everett_Millais%2C_1st_Bt.jpg" alt="Thomas Carlyle" title="John Everett Millais, portrait of Thomas Carlyle, 1877 (National Portrait Gallery, London)"></a>
+
 **1795 – 1881** · Scottish  
 Born: Ecclefechan, Dumfriesshire, Scotland · Died: London  
 Traditions & eras: [Romantic & national history](../movements/romantic-history.md)  
 
 > A Scottish essayist and historian, Carlyle wrote a thunderous history of the French Revolution and argued that history is made by great men.
+
+<sub>Portrait: John Everett Millais, portrait of Thomas Carlyle, 1877 (National Portrait Gallery, London) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Thomas_Carlyle_by_Sir_John_Everett_Millais%2C_1st_Bt.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ Carlyle's histories, including the French Revolution, Oliver Cromwell's letters 
 
 ### The French Revolution: A History (1837)
 
+[![The French Revolution: A History](https://upload.wikimedia.org/wikipedia/commons/7/72/Title_page_of_The_French_Revolution.jpg)](https://commons.wikimedia.org/wiki/File:Title_page_of_The_French_Revolution.jpg)
+
+<sub>Title page of Carlyle's The French Revolution Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Title_page_of_The_French_Revolution.jpg).</sub>
+
 - **Date:** 1837
 - **Type:** History (3 volumes)
 - **Written / held:** Written in Chelsea, London; published by James Fraser
@@ -27,6 +35,10 @@ Carlyle's histories, including the French Revolution, Oliver Cromwell's letters 
 Carlyle's French Revolution, in three volumes titled The Bastille, The Constitution and The Guillotine, covers events from the death of Louis XV in 1774 to Napoleon's 'whiff of grapeshot' in 1795. In March 1835 the only manuscript of the first volume was accidentally burned at the house of John Stuart Mill, to whom he had lent it, and Carlyle rewrote it from memory. Written largely in the present tense, with exclamations, prophecies and addresses to the characters, it presents the Revolution as a fiery judgment on a decayed aristocratic order. It made Carlyle famous, influenced Dickens's A Tale of Two Cities and remains a literary classic, though not a reliable guide to the facts.
 
 ### On Heroes, Hero-Worship, and the Heroic in History (1841)
+
+[![On Heroes, Hero-Worship, and the Heroic in History](https://upload.wikimedia.org/wikipedia/commons/1/12/Title_page_of_Heroes_and_Hero-Worship.jpg)](https://commons.wikimedia.org/wiki/File:Title_page_of_Heroes_and_Hero-Worship.jpg)
+
+<sub>Title page of On Heroes, Hero-Worship, and the Heroic in History Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Title_page_of_Heroes_and_Hero-Worship.jpg).</sub>
 
 - **Date:** 1841
 - **Type:** Lectures

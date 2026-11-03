@@ -1,10 +1,14 @@
 # Jean-Jacques Dessalines
 
+<a href="https://commons.wikimedia.org/wiki/File:Jean_Jacques_Dessalines.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Jean_Jacques_Dessalines.jpg" alt="Jean-Jacques Dessalines" title="Portrait of Jean-Jacques Dessalines"></a>
+
 **1758 – 1806** · Haitian  
 Born: Saint-Domingue (now Haiti) · Died: Pont-Larnage, near Port-au-Prince, Haiti  
 Traditions & eras: [Age of Revolutions documents](../movements/revolutionary-documents.md)  
 
 > Born into slavery, Dessalines led the final war against France in Saint-Domingue and proclaimed the independence of Haiti in 1804.
+
+<sub>Portrait: Portrait of Jean-Jacques Dessalines · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jean_Jacques_Dessalines.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Haiti became the first independent nation in Latin America and the first state f
 ## Key histories & documents
 
 ### Haitian Declaration of Independence (1804)
+
+[![Haitian Declaration of Independence](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/J.-J._Dessalines%2C_G%C3%A9n%C3%A9raux_et_officiers_de_l%27arm%C3%A9e.-_D%C3%A9claration_d%27ind%C3%A9pendance_de_Ha%C3%AFti%2C_1804.png/1280px-J.-J._Dessalines%2C_G%C3%A9n%C3%A9raux_et_officiers_de_l%27arm%C3%A9e.-_D%C3%A9claration_d%27ind%C3%A9pendance_de_Ha%C3%AFti%2C_1804.png)](https://commons.wikimedia.org/wiki/File:J.-J._Dessalines%2C_G%C3%A9n%C3%A9raux_et_officiers_de_l%27arm%C3%A9e.-_D%C3%A9claration_d%27ind%C3%A9pendance_de_Ha%C3%AFti%2C_1804.png)
+
+<sub>The printed Haitian Declaration of Independence, 1804 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:J.-J._Dessalines%2C_G%C3%A9n%C3%A9raux_et_officiers_de_l%27arm%C3%A9e.-_D%C3%A9claration_d%27ind%C3%A9pendance_de_Ha%C3%AFti%2C_1804.png).</sub>
 
 - **Date:** 1804
 - **Type:** Declaration

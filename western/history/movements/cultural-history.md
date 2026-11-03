@@ -15,8 +15,8 @@ Some historians turned from politics to the whole culture of an age: its art, fe
 
 | Image | Year | Work / document | Historian / author | Written / held |
 |---|---|---|---|---|
-| — | 1860 | **The Civilization of the Renaissance in Italy** | [Jacob Burckhardt](../creators/burckhardt.md) | Written in Basel; published by Schweighauser, Basel |
-| — | 1919 | **The Autumn of the Middle Ages** | [Johan Huizinga](../creators/huizinga.md) | Written in Leiden; first published in Haarlem by H. D. Tjeenk Willink |
+| <a href="https://commons.wikimedia.org/wiki/File:Die_Kultur_der_Renaissance_in_Italien.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Die_Kultur_der_Renaissance_in_Italien.jpg" width="140" alt="The Civilization of the Renaissance in Italy"></a> | 1860 | **The Civilization of the Renaissance in Italy** | [Jacob Burckhardt](../creators/burckhardt.md) | Written in Basel; published by Schweighauser, Basel |
+| <a href="https://commons.wikimedia.org/wiki/File:Herfsttij_der_Middeleeuwen_kaft.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Herfsttij_der_Middeleeuwen_kaft.gif" width="140" alt="The Autumn of the Middle Ages"></a> | 1919 | **The Autumn of the Middle Ages** | [Johan Huizinga](../creators/huizinga.md) | Written in Leiden; first published in Haarlem by H. D. Tjeenk Willink |
 | — | 1938 | **Homo Ludens** | [Johan Huizinga](../creators/huizinga.md) | Published in Haarlem by H. D. Tjeenk Willink |
 
 ---

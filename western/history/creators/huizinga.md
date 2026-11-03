@@ -19,6 +19,10 @@ Huizinga approached history through images, forms and emotions rather than insti
 
 ### The Autumn of the Middle Ages (1919)
 
+[![The Autumn of the Middle Ages](https://upload.wikimedia.org/wikipedia/commons/c/c7/Herfsttij_der_Middeleeuwen_kaft.gif)](https://commons.wikimedia.org/wiki/File:Herfsttij_der_Middeleeuwen_kaft.gif)
+
+<sub>Cover of Herfsttij der Middeleeuwen Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Herfsttij_der_Middeleeuwen_kaft.gif).</sub>
+
 - **Date:** 1919
 - **Type:** Cultural history
 - **Written / held:** Written in Leiden; first published in Haarlem by H. D. Tjeenk Willink

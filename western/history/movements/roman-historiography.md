@@ -8,32 +8,32 @@ Roman writers treated history as a branch of literature and moral instruction. C
 
 ## Historians & authors
 
--  [Gaius Julius Caesar](../creators/julius-caesar.md) (100 BC – 44 BC)
--  [Sallust (Gaius Sallustius Crispus)](../creators/sallust.md) (86 BC – c. 35 BC)
--  [Livy (Titus Livius)](../creators/livy.md) (c. 59 BC – AD 17)
--  [Flavius Josephus](../creators/josephus.md) (AD 37 – c. 100)
--  [Plutarch](../creators/plutarch.md) (c. AD 46 – after 119)
--  [Publius Cornelius Tacitus](../creators/tacitus.md) (c. AD 56 – c. 120)
--  [Suetonius (Gaius Suetonius Tranquillus)](../creators/suetonius.md) (c. AD 69 – after 122)
--  [Arrian of Nicomedia](../creators/arrian.md) (c. AD 86 – after 145)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/330px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg" width="40" alt="Gaius Julius Caesar"> [Gaius Julius Caesar](../creators/julius-caesar.md) (100 BC – 44 BC)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Salluste_%28cropped%29.jpg/330px-Salluste_%28cropped%29.jpg" width="40" alt="Sallust (Gaius Sallustius Crispus)"> [Sallust (Gaius Sallustius Crispus)](../creators/sallust.md) (86 BC – c. 35 BC)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/330px-Titus-Livius-Austrian-Parliament-Building.jpg" width="40" alt="Livy (Titus Livius)"> [Livy (Titus Livius)](../creators/livy.md) (c. 59 BC – AD 17)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg/330px-Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg" width="40" alt="Flavius Josephus"> [Flavius Josephus](../creators/josephus.md) (AD 37 – c. 100)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg" width="40" alt="Plutarch"> [Plutarch](../creators/plutarch.md) (c. AD 46 – after 119)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wien-_Parlament-Tacitus.jpg/330px-Wien-_Parlament-Tacitus.jpg" width="40" alt="Publius Cornelius Tacitus"> [Publius Cornelius Tacitus](../creators/tacitus.md) (c. AD 56 – c. 120)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Suetonius_etching_%28cropped%29.jpg" width="40" alt="Suetonius (Gaius Suetonius Tranquillus)"> [Suetonius (Gaius Suetonius Tranquillus)](../creators/suetonius.md) (c. AD 69 – after 122)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Arrian7.jpg" width="40" alt="Arrian of Nicomedia"> [Arrian of Nicomedia](../creators/arrian.md) (c. AD 86 – after 145)
 
 ## Key histories & documents
 
 | Image | Year | Work / document | Historian / author | Written / held |
 |---|---|---|---|---|
-| — | c. 58–50 BC | **Commentaries on the Gallic War (De Bello Gallico)** | [Gaius Julius Caesar](../creators/julius-caesar.md) | Written in Gaul and Rome |
+| <a href="https://commons.wikimedia.org/wiki/File:Caesar_bsb_beck.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Caesar_bsb_beck.jpg/330px-Caesar_bsb_beck.jpg" width="140" alt="Commentaries on the Gallic War (De Bello Gallico)"></a> | c. 58–50 BC | **Commentaries on the Gallic War (De Bello Gallico)** | [Gaius Julius Caesar](../creators/julius-caesar.md) | Written in Gaul and Rome |
 | — | c. 49–45 BC | **Commentaries on the Civil War (De Bello Civili)** | [Gaius Julius Caesar](../creators/julius-caesar.md) | Written in Italy and on campaign |
-| — | c. 42 BC | **The Conspiracy of Catiline (Bellum Catilinae)** | [Sallust (Gaius Sallustius Crispus)](../creators/sallust.md) | Written in Rome |
+| <a href="https://commons.wikimedia.org/wiki/File:Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari_-_detail_of_Catilina.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari_-_detail_of_Catilina.jpg" width="140" alt="The Conspiracy of Catiline (Bellum Catilinae)"></a> | c. 42 BC | **The Conspiracy of Catiline (Bellum Catilinae)** | [Sallust (Gaius Sallustius Crispus)](../creators/sallust.md) | Written in Rome |
 | — | c. 41 BC | **The Jugurthine War (Bellum Jugurthinum)** | [Sallust (Gaius Sallustius Crispus)](../creators/sallust.md) | Written in Rome |
-| — | c. 27 BC – AD 17 | **History of Rome (Ab Urbe Condita)** | [Livy (Titus Livius)](../creators/livy.md) | Written in Rome; medieval manuscripts, e.g. the 5th-century Codex Puteaneus (Bibliothèque nationale de France) |
-| — | c. AD 75 | **The Jewish War** | [Flavius Josephus](../creators/josephus.md) | Written in Rome |
-| — | c. AD 93–94 | **Antiquities of the Jews** | [Flavius Josephus](../creators/josephus.md) | Written in Rome |
+| <a href="https://commons.wikimedia.org/wiki/File:Livy%2C_Vaticanus_latinus_3331.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Livy%2C_Vaticanus_latinus_3331.jpg/330px-Livy%2C_Vaticanus_latinus_3331.jpg" width="140" alt="History of Rome (Ab Urbe Condita)"></a> | c. 27 BC – AD 17 | **History of Rome (Ab Urbe Condita)** | [Livy (Titus Livius)](../creators/livy.md) | Written in Rome; medieval manuscripts, e.g. the 5th-century Codex Puteaneus (Bibliothèque nationale de France) |
+| <a href="https://commons.wikimedia.org/wiki/File:Jewish_war%2C_josephus_flavius_1559.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Jewish_war%2C_josephus_flavius_1559.jpg/330px-Jewish_war%2C_josephus_flavius_1559.jpg" width="140" alt="The Jewish War"></a> | c. AD 75 | **The Jewish War** | [Flavius Josephus](../creators/josephus.md) | Written in Rome |
+| <a href="https://commons.wikimedia.org/wiki/File:Flavius_Josephus%2C_Antiquitates_Iudaicae%2C_Florence%2C_Plut._66.5.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flavius_Josephus%2C_Antiquitates_Iudaicae%2C_Florence%2C_Plut._66.5.jpg/330px-Flavius_Josephus%2C_Antiquitates_Iudaicae%2C_Florence%2C_Plut._66.5.jpg" width="140" alt="Antiquities of the Jews"></a> | c. AD 93–94 | **Antiquities of the Jews** | [Flavius Josephus](../creators/josephus.md) | Written in Rome |
 | — | AD 98 | **Germania** | [Publius Cornelius Tacitus](../creators/tacitus.md) | Written in Rome; a manuscript rediscovered at Hersfeld and brought to Rome c. 1455 |
-| — | AD 98 | **Agricola** | [Publius Cornelius Tacitus](../creators/tacitus.md) | Written in Rome |
-| — | c. AD 100–110 | **Histories** | [Publius Cornelius Tacitus](../creators/tacitus.md) | Written in Rome; survives in the second Medicean manuscript (Laurentian Library, Florence) |
-| — | c. AD 100–120 | **Parallel Lives** | [Plutarch](../creators/plutarch.md) | Written in Chaeronea, Greece |
-| — | c. AD 116–120 | **Annals** | [Publius Cornelius Tacitus](../creators/tacitus.md) | Written in Rome; books 1–6 survive in a single 9th-century manuscript (Laurentian Library, Florence) |
-| — | c. AD 121 | **Lives of the Caesars** | [Suetonius (Gaius Suetonius Tranquillus)](../creators/suetonius.md) | Written in Rome; oldest surviving manuscript 9th century |
+| <a href="https://commons.wikimedia.org/wiki/File:Codex-Aesinas-n.8_-linizio-dellAgricola-di-Tacito-carta-52r.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Codex-Aesinas-n.8_-linizio-dellAgricola-di-Tacito-carta-52r.jpg" width="140" alt="Agricola"></a> | AD 98 | **Agricola** | [Publius Cornelius Tacitus](../creators/tacitus.md) | Written in Rome |
+| <a href="https://commons.wikimedia.org/wiki/File:Tacitus_Historiae_Liber_I._%28Editio_princeps%2C_Venedig_1472%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Tacitus_Historiae_Liber_I._%28Editio_princeps%2C_Venedig_1472%29.jpg" width="140" alt="Histories"></a> | c. AD 100–110 | **Histories** | [Publius Cornelius Tacitus](../creators/tacitus.md) | Written in Rome; survives in the second Medicean manuscript (Laurentian Library, Florence) |
+| <a href="https://commons.wikimedia.org/wiki/File:Plutarch%2C_Parallel_Lives%2C_Oxford%2C_MS._Canonici_Greek_93_%28cropped%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plutarch%2C_Parallel_Lives%2C_Oxford%2C_MS._Canonici_Greek_93_%28cropped%29.jpg/330px-Plutarch%2C_Parallel_Lives%2C_Oxford%2C_MS._Canonici_Greek_93_%28cropped%29.jpg" width="140" alt="Parallel Lives"></a> | c. AD 100–120 | **Parallel Lives** | [Plutarch](../creators/plutarch.md) | Written in Chaeronea, Greece |
+| <a href="https://commons.wikimedia.org/wiki/File:Tacitus%2C_Annales_XI-XVI%2C_editio_princeps%2C_ca._1471-72%2C_incipit.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tacitus%2C_Annales_XI-XVI%2C_editio_princeps%2C_ca._1471-72%2C_incipit.jpg/330px-Tacitus%2C_Annales_XI-XVI%2C_editio_princeps%2C_ca._1471-72%2C_incipit.jpg" width="140" alt="Annals"></a> | c. AD 116–120 | **Annals** | [Publius Cornelius Tacitus](../creators/tacitus.md) | Written in Rome; books 1–6 survive in a single 9th-century manuscript (Laurentian Library, Florence) |
+| <a href="https://commons.wikimedia.org/wiki/File:Suetonius%2C_De_vita_Caesarum%2C_Berlin%2C_Ms._lat._fol._28.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Suetonius%2C_De_vita_Caesarum%2C_Berlin%2C_Ms._lat._fol._28.jpg/330px-Suetonius%2C_De_vita_Caesarum%2C_Berlin%2C_Ms._lat._fol._28.jpg" width="140" alt="Lives of the Caesars"></a> | c. AD 121 | **Lives of the Caesars** | [Suetonius (Gaius Suetonius Tranquillus)](../creators/suetonius.md) | Written in Rome; oldest surviving manuscript 9th century |
 | — | c. AD 130s–140s | **Anabasis of Alexander** | [Arrian of Nicomedia](../creators/arrian.md) | Written in the Roman East or Athens |
 
 ---

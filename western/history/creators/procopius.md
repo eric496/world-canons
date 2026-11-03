@@ -28,6 +28,10 @@ The Secret History, whose Greek title Anekdota means 'unpublished things', was w
 
 ### History of the Wars (c. 545–553)
 
+[![History of the Wars](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Procopius%2C_De_bellis%2C_Venice%2C_Gr._398.jpg/1280px-Procopius%2C_De_bellis%2C_Venice%2C_Gr._398.jpg)](https://commons.wikimedia.org/wiki/File:Procopius%2C_De_bellis%2C_Venice%2C_Gr._398.jpg)
+
+<sub>Manuscript of Procopius' Wars, Biblioteca Marciana, Venice, Gr. 398 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Procopius%2C_De_bellis%2C_Venice%2C_Gr._398.jpg).</sub>
+
 - **Date:** c. 545–553
 - **Type:** Prose history (8 books)
 - **Written / held:** Written in Constantinople

@@ -8,8 +8,8 @@ In German universities history became a discipline with seminars, archives and f
 
 ## Historians & authors
 
--  [Leopold von Ranke](../creators/ranke.md) (1795 – 1886)
--  [Theodor Mommsen](../creators/mommsen.md) (1817 – 1903)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Jebens%2C_Adolf_-_Leopold_von_Ranke_%28detail%29_-_1875.jpg" width="40" alt="Leopold von Ranke"> [Leopold von Ranke](../creators/ranke.md) (1795 – 1886)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Theodor_Mommsen_by_Franz_von_Lenbach_1897.jpg/330px-Theodor_Mommsen_by_Franz_von_Lenbach_1897.jpg" width="40" alt="Theodor Mommsen"> [Theodor Mommsen](../creators/mommsen.md) (1817 – 1903)
 -  [John Dalberg-Acton, 1st Baron Acton](../creators/acton.md) (1834 – 1902)
 -  [Frederick Jackson Turner](../creators/frederick-jackson-turner.md) (1861 – 1932)
 

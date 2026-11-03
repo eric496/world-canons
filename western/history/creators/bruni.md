@@ -1,10 +1,14 @@
 # Leonardo Bruni
 
+<a href="https://commons.wikimedia.org/wiki/File:Walker_Art_Gallery%2C_Leonard_Bruni.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Walker_Art_Gallery%2C_Leonard_Bruni.jpg" alt="Leonardo Bruni" title="Portrait of Leonardo Bruni, Walker Art Gallery, Liverpool"></a>
+
 **c. 1370 – 1444** · Italian (Florentine)  
 Born: Arezzo, Tuscany · Died: Florence  
 Traditions & eras: [Renaissance humanist history](../movements/renaissance-history.md)  
 
 > Humanist and chancellor of Florence, Bruni wrote a history of the Florentine people that is often called the first modern work of history.
+
+<sub>Portrait: Portrait of Leonardo Bruni, Walker Art Gallery, Liverpool · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Walker_Art_Gallery%2C_Leonard_Bruni.jpg)</sub>
 
 ## Biography
 

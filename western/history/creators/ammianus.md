@@ -1,10 +1,14 @@
 # Ammianus Marcellinus
 
+<a href="https://commons.wikimedia.org/wiki/File:Ammianus_Marcellinus.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ammianus_Marcellinus.jpg/330px-Ammianus_Marcellinus.jpg" alt="Ammianus Marcellinus" title="Imagined portrait of Ammianus Marcellinus"></a>
+
 **c. 330 – c. 395** · Roman (Greek-speaking)  
 Born: probably Antioch, Syria · Died: probably Rome  
 Traditions & eras: [Late antique & church history](../movements/church-history.md)  
 
 > A Greek-speaking soldier from Antioch, Ammianus wrote in Latin the last great history of Rome in the classical tradition.
+
+<sub>Portrait: Imagined portrait of Ammianus Marcellinus · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ammianus_Marcellinus.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ His Res Gestae continued Tacitus, covering the years from 96 to 378, but only th
 ## Key histories & documents
 
 ### Res Gestae (History) (c. AD 390)
+
+[![Res Gestae (History)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ammianus_Marcellinus%2C_Vaticanus_lat._1873.jpg/1280px-Ammianus_Marcellinus%2C_Vaticanus_lat._1873.jpg)](https://commons.wikimedia.org/wiki/File:Ammianus_Marcellinus%2C_Vaticanus_lat._1873.jpg)
+
+<sub>9th-century manuscript of Ammianus, Vatican Library, Vat. lat. 1873 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Ammianus_Marcellinus%2C_Vaticanus_lat._1873.jpg).</sub>
 
 - **Date:** c. AD 390
 - **Type:** Prose history (31 books, 18 survive)

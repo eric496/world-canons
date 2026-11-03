@@ -16,6 +16,10 @@ Whoever they were, the designers composed a continuous narrative of about sevent
 
 ### Bayeux Tapestry (c. 1070s)
 
+[![Bayeux Tapestry](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg/1280px-Bayeux_Tapestry_scene57_Harold_death.jpg)](https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene57_Harold_death.jpg)
+
+<sub>Scene 57: the death of King Harold at Hastings Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene57_Harold_death.jpg).</sub>
+
 - **Date:** c. 1070s
 - **Type:** Embroidered narrative (wool on linen, c. 70 m)
 - **Written / held:** Bayeux Museum (Musée de la Tapisserie de Bayeux), Normandy

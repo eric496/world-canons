@@ -1,10 +1,14 @@
 # Suetonius (Gaius Suetonius Tranquillus)
 
+<a href="https://commons.wikimedia.org/wiki/File:Suetonius_etching_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Suetonius_etching_%28cropped%29.jpg" alt="Suetonius (Gaius Suetonius Tranquillus)" title="Imagined portrait of Suetonius, etching"></a>
+
 **c. AD 69 – after 122** · Roman  
 Born: probably Hippo Regius, North Africa (uncertain) · Died: unknown  
 Traditions & eras: [Roman historiography & biography](../movements/roman-historiography.md)  
 
 > A scholar and imperial secretary, Suetonius wrote biographies of the first twelve Caesars full of personal detail, gossip and scandal.
+
+<sub>Portrait: Imagined portrait of Suetonius, etching · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Suetonius_etching_%28cropped%29.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Suetonius was a prolific antiquarian scholar, but only the Lives of the Caesars 
 ## Key histories & documents
 
 ### Lives of the Caesars (c. AD 121)
+
+[![Lives of the Caesars](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Suetonius%2C_De_vita_Caesarum%2C_Berlin%2C_Ms._lat._fol._28.jpg/960px-Suetonius%2C_De_vita_Caesarum%2C_Berlin%2C_Ms._lat._fol._28.jpg)](https://commons.wikimedia.org/wiki/File:Suetonius%2C_De_vita_Caesarum%2C_Berlin%2C_Ms._lat._fol._28.jpg)
+
+<sub>Manuscript of Suetonius' Lives of the Caesars, Berlin State Library, Ms. lat. fol. 28 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Suetonius%2C_De_vita_Caesarum%2C_Berlin%2C_Ms._lat._fol._28.jpg).</sub>
 
 - **Date:** c. AD 121
 - **Type:** Collective biography (12 lives)

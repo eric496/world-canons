@@ -7,7 +7,9 @@
   "type": "Prose history (9 books)",
   "location": "Written in Greece and southern Italy; earliest complete manuscripts medieval (e.g. Laurentian Library, Florence)",
   "note": "The first great work of Western history: an inquiry into the origins and course of the Persian Wars, ranging across the peoples of the known world.",
-  "description": "Herodotus composed his Histories in the third quarter of the fifth century BC, probably performing parts of it aloud before it took its final form; later scholars divided it into nine books, each named after a Muse. The first half travels outward, describing the rise of Persia and the customs, geography and wonders of Lydia, Egypt, Scythia and other lands, often in long digressions. The second half narrows to the invasions of Greece by Darius and Xerxes, culminating in Marathon, Thermopylae, Salamis and Plataea. Herodotus compares competing oral accounts, admits uncertainty and searches for causes in human motives as well as divine retribution. His word historia, meaning inquiry, gave history its name, and his combination of narrative, ethnography and analysis set the agenda for the discipline."
+  "description": "Herodotus composed his Histories in the third quarter of the fifth century BC, probably performing parts of it aloud before it took its final form; later scholars divided it into nine books, each named after a Muse. The first half travels outward, describing the rise of Persia and the customs, geography and wonders of Lydia, Egypt, Scythia and other lands, often in long digressions. The second half narrows to the invasions of Greece by Darius and Xerxes, culminating in Marathon, Thermopylae, Salamis and Plataea. Herodotus compares competing oral accounts, admits uncertainty and searches for causes in human motives as well as divine retribution. His word historia, meaning inquiry, gave history its name, and his combination of narrative, ethnography and analysis set the agenda for the discipline.",
+  "image_file": "POxy v0017 n2099 a 01 hires.jpg",
+  "image_caption": "Fragment of Herodotus' Histories, book 8, on papyrus from Oxyrhynchus (P. Oxy. 2099), 2nd century AD"
  },
  {
   "title": "History of the Peloponnesian War",
@@ -17,7 +19,9 @@
   "type": "Prose history (8 books, unfinished)",
   "location": "Written in Athens and in exile; medieval manuscripts (e.g. Laurentian Library, Florence)",
   "note": "A contemporary analysis of the great war between Athens and Sparta, famous for its rigour and its speeches on power and justice.",
-  "description": "Thucydides began writing at the outbreak of the war in 431 BC, convinced it would be the greatest conflict the Greeks had known. His account, divided by later editors into eight books, follows the war year by year, summer and winter, until it breaks off in 411 BC. He explains his method at the outset: he checked eyewitness reports and composed speeches to convey what the situation demanded. Set pieces include Pericles' Funeral Oration, the plague of Athens, the civil war at Corcyra, the Melian Dialogue, in which Athenian envoys tell the weak that they must suffer what they must, and the catastrophic expedition to Sicily. The work became a model of political history and a foundational text for theorists of international relations, from Hobbes, who translated it, to modern realists."
+  "description": "Thucydides began writing at the outbreak of the war in 431 BC, convinced it would be the greatest conflict the Greeks had known. His account, divided by later editors into eight books, follows the war year by year, summer and winter, until it breaks off in 411 BC. He explains his method at the outset: he checked eyewitness reports and composed speeches to convey what the situation demanded. Set pieces include Pericles' Funeral Oration, the plague of Athens, the civil war at Corcyra, the Melian Dialogue, in which Athenian envoys tell the weak that they must suffer what they must, and the catastrophic expedition to Sicily. The work became a model of political history and a foundational text for theorists of international relations, from Hobbes, who translated it, to modern realists.",
+  "image_file": "Thucydides Manuscript.jpg",
+  "image_caption": "Medieval Greek manuscript of Thucydides"
  },
  {
   "title": "Anabasis",
@@ -37,7 +41,9 @@
   "type": "Prose history (7 books)",
   "location": "Written in Greece",
   "note": "A history of Greece from 411 to 362 BC, continuing Thucydides from where he broke off.",
-  "description": "The Hellenica begins abruptly where Thucydides' history ends, in 411 BC, and carries the story through the end of the Peloponnesian War, the Spartan hegemony and the rise of Thebes, ending with the battle of Mantinea in 362 BC. Xenophon wrote as a participant in some events and with obvious sympathy for Sparta and its king Agesilaus, and he passes over some important developments, such as the founding of the Second Athenian League, in near silence. Even so, it is the only continuous contemporary narrative of the period to survive, and its vivid scenes, such as the trial of the generals after Arginusae, make it indispensable."
+  "description": "The Hellenica begins abruptly where Thucydides' history ends, in 411 BC, and carries the story through the end of the Peloponnesian War, the Spartan hegemony and the rise of Thebes, ending with the battle of Mantinea in 362 BC. Xenophon wrote as a participant in some events and with obvious sympathy for Sparta and its king Agesilaus, and he passes over some important developments, such as the founding of the Second Athenian League, in near silence. Even so, it is the only continuous contemporary narrative of the period to survive, and its vivid scenes, such as the trial of the generals after Arginusae, make it indispensable.",
+  "image_file": "Xenophon Hellenica.jpg",
+  "image_caption": "Page of a manuscript or early edition of Xenophon's Hellenica"
  },
  {
   "title": "Histories",
@@ -47,7 +53,9 @@
   "type": "Universal history (40 books, partly preserved)",
   "location": "Written in Rome and Greece; books 1–5 survive complete in medieval manuscripts",
   "note": "A universal history explaining how Rome conquered the Mediterranean world between the First Punic War and 146 BC.",
-  "description": "Polybius asked a question he thought no one could ignore: how and under what kind of government the Romans had brought nearly the whole inhabited world under their rule in less than fifty-three years. To answer it he wrote a history linking events in Italy, Greece, Africa and Asia, which he saw as having become a single interconnected story. The surviving books cover the Punic Wars and Hannibal's invasion of Italy in detail, and book 6 contains his famous analysis of the Roman constitution as a balance of consuls, Senate and people. He set out strict principles for historians, insisting on personal inquiry, knowledge of geography and politics, and impartiality. His theory of mixed government passed through Cicero and Machiavelli to Montesquieu and the American founders."
+  "description": "Polybius asked a question he thought no one could ignore: how and under what kind of government the Romans had brought nearly the whole inhabited world under their rule in less than fifty-three years. To answer it he wrote a history linking events in Italy, Greece, Africa and Asia, which he saw as having become a single interconnected story. The surviving books cover the Punic Wars and Hannibal's invasion of Italy in detail, and book 6 contains his famous analysis of the Roman constitution as a balance of consuls, Senate and people. He set out strict principles for historians, insisting on personal inquiry, knowledge of geography and politics, and impartiality. His theory of mixed government passed through Cicero and Machiavelli to Montesquieu and the American founders.",
+  "image_file": "Polybius 1548.jpg",
+  "image_caption": "Polybius' Histories, 1548 edition"
  },
  {
   "title": "Commentaries on the Gallic War (De Bello Gallico)",
@@ -57,7 +65,9 @@
   "type": "War commentary (7 books, plus an 8th by Hirtius)",
   "location": "Written in Gaul and Rome",
   "note": "Caesar's own account of his conquest of Gaul, in clear third-person prose that doubled as political propaganda.",
-  "description": "Caesar wrote seven books of commentaries covering his campaigns in Gaul from 58 to 52 BC, probably sending them to Rome year by year or publishing them together around 51 BC, while his enemies in the Senate attacked his conduct. An eighth book was added after his death by his officer Aulus Hirtius. The work opens with the famous statement that all Gaul is divided into three parts, and describes his wars against the Helvetii, the Belgae and the Germans, two expeditions to Britain, and the great revolt led by Vercingetorix that ended at the siege of Alesia. Its descriptions of Gallic and Germanic society are among the earliest we have. Its plain, controlled style presents Caesar's actions as necessary and successful, and it has long served as a primer of Latin and of military history."
+  "description": "Caesar wrote seven books of commentaries covering his campaigns in Gaul from 58 to 52 BC, probably sending them to Rome year by year or publishing them together around 51 BC, while his enemies in the Senate attacked his conduct. An eighth book was added after his death by his officer Aulus Hirtius. The work opens with the famous statement that all Gaul is divided into three parts, and describes his wars against the Helvetii, the Belgae and the Germans, two expeditions to Britain, and the great revolt led by Vercingetorix that ended at the siege of Alesia. Its descriptions of Gallic and Germanic society are among the earliest we have. Its plain, controlled style presents Caesar's actions as necessary and successful, and it has long served as a primer of Latin and of military history.",
+  "image_file": "Caesar bsb beck.jpg",
+  "image_caption": "Early edition of Caesar's Commentaries (Bavarian State Library)"
  },
  {
   "title": "Commentaries on the Civil War (De Bello Civili)",
@@ -77,7 +87,9 @@
   "type": "Historical monograph",
   "location": "Written in Rome",
   "note": "A short, dramatic account of Catiline's attempted coup in 63 BC, used to diagnose the moral corruption of the Republic.",
-  "description": "Sallust's first monograph tells how the bankrupt aristocrat Lucius Sergius Catilina plotted to seize power in Rome in 63 BC, and how the consul Cicero exposed the conspiracy, leading to the execution of several conspirators without trial and Catiline's death in battle. Sallust frames the story with a meditation on how Rome's virtue was corrupted by wealth and ambition after the fall of Carthage. The centrepiece is a pair of speeches in the Senate debate on the conspirators' fate by Julius Caesar, urging clemency, and Cato the Younger, demanding death. The work is notable for giving Cicero less credit than he gave himself. It became a model of compact political history."
+  "description": "Sallust's first monograph tells how the bankrupt aristocrat Lucius Sergius Catilina plotted to seize power in Rome in 63 BC, and how the consul Cicero exposed the conspiracy, leading to the execution of several conspirators without trial and Catiline's death in battle. Sallust frames the story with a meditation on how Rome's virtue was corrupted by wealth and ambition after the fall of Carthage. The centrepiece is a pair of speeches in the Senate debate on the conspirators' fate by Julius Caesar, urging clemency, and Cato the Younger, demanding death. The work is notable for giving Cicero less credit than he gave himself. It became a model of compact political history.",
+  "image_file": "Cicero Denounces Catiline in the Roman Senate by Cesare Maccari - detail of Catilina.jpg",
+  "image_caption": "Cesare Maccari, Cicero Denounces Catiline (detail showing Catiline), fresco, 1880s, Palazzo Madama, Rome"
  },
  {
   "title": "The Jugurthine War (Bellum Jugurthinum)",
@@ -97,7 +109,9 @@
   "type": "Prose history (142 books, 35 survive)",
   "location": "Written in Rome; medieval manuscripts, e.g. the 5th-century Codex Puteaneus (Bibliothèque nationale de France)",
   "note": "Livy's monumental history of Rome from its foundation to 9 BC, the source of the classic stories of the early Republic.",
-  "description": "Livy spent some forty years writing a history of Rome 'from the founding of the city', running to 142 books and ending with the death of Augustus' stepson Drusus in 9 BC. Only books 1–10 and 21–45 survive, covering the city's legendary origins to 293 BC and the period from Hannibal's war to the conquest of Macedon in 167 BC; the rest are known through summaries. In his preface Livy invites readers to study the lives and morals that made Rome great and the decline that followed. His stories of Romulus and Remus, Horatius at the bridge, Lucretia, Cincinnatus and Hannibal's crossing of the Alps became the common stock of European culture. Renaissance humanists sought lost books eagerly, Petrarch assembled a text, and Machiavelli built his political philosophy on a commentary on the first ten books."
+  "description": "Livy spent some forty years writing a history of Rome 'from the founding of the city', running to 142 books and ending with the death of Augustus' stepson Drusus in 9 BC. Only books 1–10 and 21–45 survive, covering the city's legendary origins to 293 BC and the period from Hannibal's war to the conquest of Macedon in 167 BC; the rest are known through summaries. In his preface Livy invites readers to study the lives and morals that made Rome great and the decline that followed. His stories of Romulus and Remus, Horatius at the bridge, Lucretia, Cincinnatus and Hannibal's crossing of the Alps became the common stock of European culture. Renaissance humanists sought lost books eagerly, Petrarch assembled a text, and Machiavelli built his political philosophy on a commentary on the first ten books.",
+  "image_file": "Livy, Vaticanus latinus 3331.jpg",
+  "image_caption": "Manuscript of Livy's History, Vatican Library, Vat. lat. 3331"
  },
  {
   "title": "Annals",
@@ -107,7 +121,9 @@
   "type": "Prose history (16+ books, partly preserved)",
   "location": "Written in Rome; books 1–6 survive in a single 9th-century manuscript (Laurentian Library, Florence)",
   "note": "Tacitus' history of Rome from the death of Augustus to Nero, a dark and brilliant study of power under the early emperors.",
-  "description": "The Annals cover the Julio-Claudian emperors from Tiberius to Nero, AD 14 to 68, though the books on Caligula, the early years of Claudius and Nero's last years are lost. Tacitus arranges the narrative year by year in the old republican manner, while showing how real power had passed to the emperor and his household. Famous passages include the treason trials under Tiberius, the death of Germanicus, the revolt of Boudica in Britain, Nero's murder of his mother Agrippina, and the great fire of Rome, after which Nero blamed the Christians, the earliest non-Christian account of their persecution. The surviving books depend on two medieval manuscripts in Florence. Tacitus' irony and moral intensity made the Annals a handbook for critics of tyranny from the Renaissance onward."
+  "description": "The Annals cover the Julio-Claudian emperors from Tiberius to Nero, AD 14 to 68, though the books on Caligula, the early years of Claudius and Nero's last years are lost. Tacitus arranges the narrative year by year in the old republican manner, while showing how real power had passed to the emperor and his household. Famous passages include the treason trials under Tiberius, the death of Germanicus, the revolt of Boudica in Britain, Nero's murder of his mother Agrippina, and the great fire of Rome, after which Nero blamed the Christians, the earliest non-Christian account of their persecution. The surviving books depend on two medieval manuscripts in Florence. Tacitus' irony and moral intensity made the Annals a handbook for critics of tyranny from the Renaissance onward.",
+  "image_file": "Tacitus, Annales XI-XVI, editio princeps, ca. 1471-72, incipit.jpg",
+  "image_caption": "First printed edition of Tacitus' Annals, books 11–16, Venice, c. 1471–72"
  },
  {
   "title": "Histories",
@@ -117,7 +133,9 @@
   "type": "Prose history (partly preserved)",
   "location": "Written in Rome; survives in the second Medicean manuscript (Laurentian Library, Florence)",
   "note": "Tacitus' history of the civil wars of AD 69, the 'year of the four emperors', and the Flavian dynasty.",
-  "description": "The Histories originally covered the years from 69 to the death of Domitian in 96, but only the first four books and part of the fifth survive, covering 69 and 70. They describe a terrible year in which Galba, Otho, Vitellius and Vespasian successively seized power, with armies marching on Rome and the Capitol burned. Tacitus reveals what he calls the secret of empire: that an emperor could be made elsewhere than at Rome. The surviving part ends with the revolt of the Batavians on the Rhine and the opening of the siege of Jerusalem. It is one of the most gripping narratives of political collapse in ancient literature."
+  "description": "The Histories originally covered the years from 69 to the death of Domitian in 96, but only the first four books and part of the fifth survive, covering 69 and 70. They describe a terrible year in which Galba, Otho, Vitellius and Vespasian successively seized power, with armies marching on Rome and the Capitol burned. Tacitus reveals what he calls the secret of empire: that an emperor could be made elsewhere than at Rome. The surviving part ends with the revolt of the Batavians on the Rhine and the opening of the siege of Jerusalem. It is one of the most gripping narratives of political collapse in ancient literature.",
+  "image_file": "Tacitus Historiae Liber I. (Editio princeps, Venedig 1472).jpg",
+  "image_caption": "Tacitus' Histories, book 1, first printed edition, Venice, 1472"
  },
  {
   "title": "Germania",
@@ -137,7 +155,9 @@
   "type": "Biography",
   "location": "Written in Rome",
   "note": "Tacitus' tribute to his father-in-law Agricola, governor of Britain, and a key source for Roman Britain.",
-  "description": "The Agricola is a short biography of Gnaeus Julius Agricola, the general who governed Britain from about 77 to 84 and led Roman armies into Scotland, defeating the Caledonians at Mons Graupius. Written after the death of Domitian, it praises Agricola as a good man who served honourably under a bad emperor, and it includes a speech put into the mouth of the Caledonian leader Calgacus attacking Roman imperialism with the famous charge that they make a desert and call it peace. It is the most detailed ancient account of Britain and its conquest."
+  "description": "The Agricola is a short biography of Gnaeus Julius Agricola, the general who governed Britain from about 77 to 84 and led Roman armies into Scotland, defeating the Caledonians at Mons Graupius. Written after the death of Domitian, it praises Agricola as a good man who served honourably under a bad emperor, and it includes a speech put into the mouth of the Caledonian leader Calgacus attacking Roman imperialism with the famous charge that they make a desert and call it peace. It is the most detailed ancient account of Britain and its conquest.",
+  "image_file": "Codex-Aesinas-n.8 -linizio-dellAgricola-di-Tacito-carta-52r.jpg",
+  "image_caption": "Opening of the Agricola in the Codex Aesinas, 9th–15th century (fol. 52r)"
  },
  {
   "title": "Lives of the Caesars",
@@ -147,7 +167,9 @@
   "type": "Collective biography (12 lives)",
   "location": "Written in Rome; oldest surviving manuscript 9th century",
   "note": "Biographies of Julius Caesar and the first eleven emperors, rich in personal detail, anecdote and scandal.",
-  "description": "Suetonius wrote the Lives of the Caesars while working in Hadrian's administration, dedicating them to the praetorian prefect Septicius Clarus. The twelve lives run from Julius Caesar to Domitian. Rather than following a strict chronological narrative, Suetonius organises each life by themes: family, career, public works, character, appearance, habits, omens and death. He quotes letters of Augustus and other documents from the imperial archives, along with rumours and gossip that make the book memorable and controversial. Medieval writers such as Einhard used it as a model, and it remains essential for the study of the early empire, and the popular image of Caligula and Nero owes much to it."
+  "description": "Suetonius wrote the Lives of the Caesars while working in Hadrian's administration, dedicating them to the praetorian prefect Septicius Clarus. The twelve lives run from Julius Caesar to Domitian. Rather than following a strict chronological narrative, Suetonius organises each life by themes: family, career, public works, character, appearance, habits, omens and death. He quotes letters of Augustus and other documents from the imperial archives, along with rumours and gossip that make the book memorable and controversial. Medieval writers such as Einhard used it as a model, and it remains essential for the study of the early empire, and the popular image of Caligula and Nero owes much to it.",
+  "image_file": "Suetonius, De vita Caesarum, Berlin, Ms. lat. fol. 28.jpg",
+  "image_caption": "Manuscript of Suetonius' Lives of the Caesars, Berlin State Library, Ms. lat. fol. 28"
  },
  {
   "title": "Parallel Lives",
@@ -157,7 +179,9 @@
   "type": "Paired biographies",
   "location": "Written in Chaeronea, Greece",
   "note": "Paired lives of famous Greeks and Romans, compared for their virtues and vices, which taught Europe its picture of ancient heroes.",
-  "description": "The Parallel Lives consist of twenty-three surviving pairs of biographies, each linking a Greek and a Roman, such as Alexander and Caesar, Demosthenes and Cicero, or Theseus and Romulus, most followed by a short comparison, plus four single lives. Plutarch explained that he was writing lives, not histories, and that a small action, a phrase or a jest often reveals character better than battles. His aim was moral: to offer examples to imitate and to avoid. Translated into French by Jacques Amyot in 1559 and into English by Thomas North in 1579, the Lives became one of the most influential books of the Renaissance. Shakespeare took the plots of his Roman plays from North's translation, and the American and French revolutionaries drew republican models from it."
+  "description": "The Parallel Lives consist of twenty-three surviving pairs of biographies, each linking a Greek and a Roman, such as Alexander and Caesar, Demosthenes and Cicero, or Theseus and Romulus, most followed by a short comparison, plus four single lives. Plutarch explained that he was writing lives, not histories, and that a small action, a phrase or a jest often reveals character better than battles. His aim was moral: to offer examples to imitate and to avoid. Translated into French by Jacques Amyot in 1559 and into English by Thomas North in 1579, the Lives became one of the most influential books of the Renaissance. Shakespeare took the plots of his Roman plays from North's translation, and the American and French revolutionaries drew republican models from it.",
+  "image_file": "Plutarch, Parallel Lives, Oxford, MS. Canonici Greek 93 (cropped).jpg",
+  "image_caption": "Greek manuscript of Plutarch's Parallel Lives, Bodleian Library, Oxford, MS. Canon. Gr. 93"
  },
  {
   "title": "The Jewish War",
@@ -167,7 +191,9 @@
   "type": "Prose history (7 books)",
   "location": "Written in Rome",
   "note": "An eyewitness history of the Jewish revolt against Rome of AD 66–73, including the destruction of Jerusalem and the fall of Masada.",
-  "description": "Josephus first wrote an account of the war in Aramaic for the peoples of the East and then produced a Greek version, the one that survives, in Rome in the 70s. After a long introduction covering Jewish history from the Maccabees, it tells how the revolt broke out, how Josephus himself commanded in Galilee and surrendered, and how Titus besieged Jerusalem and destroyed the Temple in AD 70, with horrific scenes of famine and slaughter. It ends with the siege of Masada, where, according to Josephus, the defenders chose mass suicide rather than capture. He blames the disaster on a minority of extremists and treats the Romans as instruments of God's will, an interpretation shaped by his position. The work is the main source for these events and was read for centuries alongside the Bible."
+  "description": "Josephus first wrote an account of the war in Aramaic for the peoples of the East and then produced a Greek version, the one that survives, in Rome in the 70s. After a long introduction covering Jewish history from the Maccabees, it tells how the revolt broke out, how Josephus himself commanded in Galilee and surrendered, and how Titus besieged Jerusalem and destroyed the Temple in AD 70, with horrific scenes of famine and slaughter. It ends with the siege of Masada, where, according to Josephus, the defenders chose mass suicide rather than capture. He blames the disaster on a minority of extremists and treats the Romans as instruments of God's will, an interpretation shaped by his position. The work is the main source for these events and was read for centuries alongside the Bible.",
+  "image_file": "Jewish war, josephus flavius 1559.jpg",
+  "image_caption": "Edition of Josephus' Jewish War, 1559"
  },
  {
   "title": "Antiquities of the Jews",
@@ -177,7 +203,9 @@
   "type": "Prose history (20 books)",
   "location": "Written in Rome",
   "note": "A history of the Jewish people from the Creation to the eve of the revolt against Rome, written for a Greek-speaking audience.",
-  "description": "In the twenty books of the Antiquities, completed around 93 or 94, Josephus retold the history of the Jews from the creation of the world, following the Hebrew Bible, through the Persian, Hellenistic and Hasmonean periods to the reign of Herod the Great and the Roman governors of Judaea. He wrote to present his people's laws and traditions as ancient and admirable to Greek and Roman readers. For the period after the Bible he is often the only source, preserving decrees and documents. The work contains brief references to John the Baptist and James, the brother of Jesus, and the Testimonium Flavianum on Jesus, generally believed to contain Christian additions. Christians preserved and copied the Antiquities throughout the Middle Ages."
+  "description": "In the twenty books of the Antiquities, completed around 93 or 94, Josephus retold the history of the Jews from the creation of the world, following the Hebrew Bible, through the Persian, Hellenistic and Hasmonean periods to the reign of Herod the Great and the Roman governors of Judaea. He wrote to present his people's laws and traditions as ancient and admirable to Greek and Roman readers. For the period after the Bible he is often the only source, preserving decrees and documents. The work contains brief references to John the Baptist and James, the brother of Jesus, and the Testimonium Flavianum on Jesus, generally believed to contain Christian additions. Christians preserved and copied the Antiquities throughout the Middle Ages.",
+  "image_file": "Flavius Josephus, Antiquitates Iudaicae, Florence, Plut. 66.5.jpg",
+  "image_caption": "Latin manuscript of the Antiquities of the Jews, Laurentian Library, Florence, Plut. 66.5"
  },
  {
   "title": "Anabasis of Alexander",
@@ -197,7 +225,9 @@
   "type": "Prose history (31 books, 18 survive)",
   "location": "Written in Rome",
   "note": "The last great Latin history of the Roman Empire, ending with the Gothic victory at Adrianople in 378.",
-  "description": "Ammianus wrote his history in Rome in the late 380s and early 390s, continuing Tacitus from the reign of Nerva. The first thirteen books are lost; the surviving books 14 to 31 cover the years 353 to 378 in great detail, drawing on his own experience as a staff officer. Highlights include the siege of Amida, which he escaped, the career of the emperor Julian, whom he admired, the arrival of the Huns, and the catastrophic defeat and death of the emperor Valens at Adrianople. He includes digressions on geography, science and the vices of the Roman aristocracy and populace. Writing as a pagan in a Christian empire, he is generally fair-minded. Gibbon relied on him heavily."
+  "description": "Ammianus wrote his history in Rome in the late 380s and early 390s, continuing Tacitus from the reign of Nerva. The first thirteen books are lost; the surviving books 14 to 31 cover the years 353 to 378 in great detail, drawing on his own experience as a staff officer. Highlights include the siege of Amida, which he escaped, the career of the emperor Julian, whom he admired, the arrival of the Huns, and the catastrophic defeat and death of the emperor Valens at Adrianople. He includes digressions on geography, science and the vices of the Roman aristocracy and populace. Writing as a pagan in a Christian empire, he is generally fair-minded. Gibbon relied on him heavily.",
+  "image_file": "Ammianus Marcellinus, Vaticanus lat. 1873.jpg",
+  "image_caption": "9th-century manuscript of Ammianus, Vatican Library, Vat. lat. 1873"
  },
  {
   "title": "Ecclesiastical History",
@@ -207,7 +237,9 @@
   "type": "Church history (10 books)",
   "location": "Written in Caesarea, Palestine",
   "note": "The first history of the Christian Church, from Christ to the victory of Constantine, built on quoted documents.",
-  "description": "Eusebius' Ecclesiastical History, which he revised several times before reaching its final form around 324, traces the Church from the time of Christ through the succession of bishops in the great sees, the lives of Christian writers, the struggles against heresy, the sufferings of the Jews and the persecutions of Christians, to the triumph of Constantine. Unlike classical historians, Eusebius quoted his sources at length, so that his work preserves extracts from many early Christian writings that are otherwise lost. It created a new genre, church history, imitated by Socrates, Sozomen, Theodoret and, centuries later, Bede. Modern scholars use it with care, as it is shaped by Eusebius' theological views and his celebration of a Christian empire."
+  "description": "Eusebius' Ecclesiastical History, which he revised several times before reaching its final form around 324, traces the Church from the time of Christ through the succession of bishops in the great sees, the lives of Christian writers, the struggles against heresy, the sufferings of the Jews and the persecutions of Christians, to the triumph of Constantine. Unlike classical historians, Eusebius quoted his sources at length, so that his work preserves extracts from many early Christian writings that are otherwise lost. It created a new genre, church history, imitated by Socrates, Sozomen, Theodoret and, centuries later, Bede. Modern scholars use it with care, as it is shaped by Eusebius' theological views and his celebration of a Christian empire.",
+  "image_file": "Ecclesiastical History of Eusebius Pamphilus, 1842 (page 7 crop).jpg",
+  "image_caption": "Page from an 1842 English translation of Eusebius' Ecclesiastical History"
  },
  {
   "title": "Life of Constantine",
@@ -217,7 +249,9 @@
   "type": "Biography / panegyric (4 books)",
   "location": "Written in Caesarea, Palestine",
   "note": "Eusebius' admiring account of the first Christian emperor, including the vision of the cross before the Milvian Bridge.",
-  "description": "Written after Constantine's death in 337 and left unfinished at Eusebius' own death in 339, the Life of Constantine praises the emperor as God's chosen servant. It reports Constantine's own account, told to Eusebius under oath, of seeing a cross of light in the sky with the words 'by this, conquer' before his victory over Maxentius in 312. It describes his church-building, the Council of Nicaea and his laws, quoting many imperial letters. The authenticity of these documents was once doubted but is now largely accepted, while the work as a whole is read as a panegyric rather than a balanced biography. It shaped the medieval image of the Christian ruler."
+  "description": "Written after Constantine's death in 337 and left unfinished at Eusebius' own death in 339, the Life of Constantine praises the emperor as God's chosen servant. It reports Constantine's own account, told to Eusebius under oath, of seeing a cross of light in the sky with the words 'by this, conquer' before his victory over Maxentius in 312. It describes his church-building, the Council of Nicaea and his laws, quoting many imperial letters. The authenticity of these documents was once doubted but is now largely accepted, while the work as a whole is read as a panegyric rather than a balanced biography. It shaped the medieval image of the Christian ruler.",
+  "image_file": "0 Constantinus I - Palazzo dei Conservatori (2).JPG",
+  "image_caption": "Colossal marble head of Constantine the Great, Capitoline Museums, Rome"
  },
  {
   "title": "History of the Wars",
@@ -227,7 +261,9 @@
   "type": "Prose history (8 books)",
   "location": "Written in Constantinople",
   "note": "Procopius' eyewitness history of Justinian's wars against Persia, the Vandals and the Goths.",
-  "description": "The Wars recount the campaigns of the emperor Justinian, mostly led by Belisarius, in three parts: against the Sasanian Persians in the east, against the Vandal kingdom in North Africa, and against the Ostrogoths in Italy, followed by an eighth book bringing events up to 553. Procopius, writing in classicising Greek modelled on Herodotus and Thucydides, was present at many of the events as Belisarius' secretary. The work includes a famous description of the Nika riots of 532, in which Theodora is said to have persuaded Justinian not to flee, and the first clear account of the bubonic plague that struck Constantinople in 542. It is the principal narrative source for the age of Justinian."
+  "description": "The Wars recount the campaigns of the emperor Justinian, mostly led by Belisarius, in three parts: against the Sasanian Persians in the east, against the Vandal kingdom in North Africa, and against the Ostrogoths in Italy, followed by an eighth book bringing events up to 553. Procopius, writing in classicising Greek modelled on Herodotus and Thucydides, was present at many of the events as Belisarius' secretary. The work includes a famous description of the Nika riots of 532, in which Theodora is said to have persuaded Justinian not to flee, and the first clear account of the bubonic plague that struck Constantinople in 542. It is the principal narrative source for the age of Justinian.",
+  "image_file": "Procopius, De bellis, Venice, Gr. 398.jpg",
+  "image_caption": "Manuscript of Procopius' Wars, Biblioteca Marciana, Venice, Gr. 398"
  },
  {
   "title": "Secret History",
@@ -247,7 +283,9 @@
   "type": "Chronicle / history (10 books)",
   "location": "Written in Tours, Gaul",
   "note": "The chief source for Merovingian Gaul, full of kings' feuds, bishops' quarrels and miracles.",
-  "description": "Gregory called his work simply the Ten Books of Histories; the title History of the Franks was added later. It begins with the Creation and a summary of world history, but from the fifth book onward it describes Gregory's own time in great detail: the struggles between the sons and grandsons of Clovis, the feud between queens Brunhild and Fredegund, plagues, famines and portents, and the day-to-day affairs of the Church. Clovis's conversion and baptism, told in book 2, became a founding moment in French national memory. Gregory writes as a bishop interpreting events morally, and he often appears in his own pages. Without him the history of sixth-century Gaul would be almost unknown."
+  "description": "Gregory called his work simply the Ten Books of Histories; the title History of the Franks was added later. It begins with the Creation and a summary of world history, but from the fifth book onward it describes Gregory's own time in great detail: the struggles between the sons and grandsons of Clovis, the feud between queens Brunhild and Fredegund, plagues, famines and portents, and the day-to-day affairs of the Church. Clovis's conversion and baptism, told in book 2, became a founding moment in French national memory. Gregory writes as a bishop interpreting events morally, and he often appears in his own pages. Without him the history of sixth-century Gaul would be almost unknown.",
+  "image_file": "Grégoire de Tours Historia Francorum Fol. 79v initiale ornée A.jpg",
+  "image_caption": "Decorated initial from a medieval manuscript of Gregory's Histories, fol. 79v"
  },
  {
   "title": "Ecclesiastical History of the English People",
@@ -257,7 +295,9 @@
   "type": "Church and national history (5 books)",
   "location": "Written at Jarrow, Northumbria; early copies include the St Petersburg Bede and the Moore Bede (Cambridge University Library)",
   "note": "Bede's history of Christianity among the English, the foundation of early English history and a model of careful scholarship.",
-  "description": "Bede completed the Historia ecclesiastica gentis Anglorum in 731. It runs from Caesar's invasion of Britain to Bede's own day, focusing on the conversion of the Anglo-Saxon kingdoms by missionaries from Rome and from Ireland and Iona, the decision at the Synod of Whitby in 664 to follow Roman customs, and the lives of saints such as Aidan and Cuthbert. In his preface Bede names the people who supplied him with information, and he quotes letters and documents, an unusual practice that makes his work exceptionally valuable. Memorable passages include Pope Gregory's pun on Angles and angels and the image of human life as a sparrow flying through a lighted hall. Bede's use of anno Domini dating helped spread the system. Two manuscripts copied within a few years of his death survive."
+  "description": "Bede completed the Historia ecclesiastica gentis Anglorum in 731. It runs from Caesar's invasion of Britain to Bede's own day, focusing on the conversion of the Anglo-Saxon kingdoms by missionaries from Rome and from Ireland and Iona, the decision at the Synod of Whitby in 664 to follow Roman customs, and the lives of saints such as Aidan and Cuthbert. In his preface Bede names the people who supplied him with information, and he quotes letters and documents, an unusual practice that makes his work exceptionally valuable. Memorable passages include Pope Gregory's pun on Angles and angels and the image of human life as a sparrow flying through a lighted hall. Bede's use of anno Domini dating helped spread the system. Two manuscripts copied within a few years of his death survive.",
+  "image_file": "Beda Petersburgiensis f3v.jpg",
+  "image_caption": "The St Petersburg Bede, an 8th-century manuscript of the Ecclesiastical History (National Library of Russia)"
  },
  {
   "title": "Life of Charlemagne (Vita Karoli Magni)",
@@ -267,7 +307,9 @@
   "type": "Biography",
   "location": "Written in the Frankish Empire (Aachen or Seligenstadt)",
   "note": "A courtier's portrait of Charlemagne, modelled on Suetonius, and the first secular biography of the Middle Ages.",
-  "description": "Einhard wrote his Life of Charlemagne some years after the emperor's death in 814; its exact date is debated. Following the structure of Suetonius' lives, especially that of Augustus, it describes Charlemagne's wars against the Saxons, Lombards and Avars, his building works and his coronation as emperor in Rome in 800, and then his family, appearance, habits and death. Einhard records that the king tried to learn to write late in life, keeping tablets under his pillow, but without success. It is an idealised portrait, but by someone who knew him well, and it shaped the image of Charlemagne for the rest of the Middle Ages. More than eighty medieval manuscripts survive."
+  "description": "Einhard wrote his Life of Charlemagne some years after the emperor's death in 814; its exact date is debated. Following the structure of Suetonius' lives, especially that of Augustus, it describes Charlemagne's wars against the Saxons, Lombards and Avars, his building works and his coronation as emperor in Rome in 800, and then his family, appearance, habits and death. Einhard records that the king tried to learn to write late in life, keeping tablets under his pillow, but without success. It is an idealised portrait, but by someone who knew him well, and it shaped the image of Charlemagne for the rest of the Middle Ages. More than eighty medieval manuscripts survive.",
+  "image_file": "Éginhard Vita Caroli magni imperatoris-Lettrine V historiée Charlemagne assis.jpg",
+  "image_caption": "Historiated initial showing Charlemagne enthroned, from a manuscript of Einhard's Life of Charlemagne"
  },
  {
   "title": "Anglo-Saxon Chronicle",
@@ -277,7 +319,9 @@
   "type": "Annals in Old English",
   "location": "Compiled in Wessex and continued in several English monasteries; manuscripts in the British Library, Bodleian Library, and Corpus Christi College, Cambridge",
   "note": "A year-by-year record of English history in Old English, from the Roman era to 1154.",
-  "description": "The Anglo-Saxon Chronicle is a collection of annals in Old English, first compiled in the 890s in Wessex, probably in the circle of King Alfred, drawing on Bede and earlier records. Copies were distributed to monasteries and continued independently, so the nine surviving manuscripts and fragments differ. Entries range from a single sentence to long narratives of Alfred's wars with the Vikings, the reign of Æthelred the Unready and the Norman Conquest. The Peterborough Chronicle, continued until 1154, gives a bitter account of the anarchy of King Stephen's reign. As the first continuous history of a European people written in its own vernacular, it is a key source both for history and for the development of the English language."
+  "description": "The Anglo-Saxon Chronicle is a collection of annals in Old English, first compiled in the 890s in Wessex, probably in the circle of King Alfred, drawing on Bede and earlier records. Copies were distributed to monasteries and continued independently, so the nine surviving manuscripts and fragments differ. Entries range from a single sentence to long narratives of Alfred's wars with the Vikings, the reign of Æthelred the Unready and the Norman Conquest. The Peterborough Chronicle, continued until 1154, gives a bitter account of the anarchy of King Stephen's reign. As the first continuous history of a European people written in its own vernacular, it is a key source both for history and for the development of the English language.",
+  "image_file": "Peterborough.Chronicle.firstpage.jpg",
+  "image_caption": "First page of the Peterborough Chronicle (Bodleian Library, MS Laud Misc. 636)"
  },
  {
   "title": "Bayeux Tapestry",
@@ -287,7 +331,9 @@
   "type": "Embroidered narrative (wool on linen, c. 70 m)",
   "location": "Bayeux Museum (Musée de la Tapisserie de Bayeux), Normandy",
   "note": "A 70-metre embroidered strip telling the story of the Norman Conquest of England, from Harold's oath to the battle of Hastings.",
-  "description": "Though called a tapestry, it is an embroidery in coloured wools on linen, about 70 metres long and 50 centimetres high, probably made in England in the decade after the Conquest for Bishop Odo of Bayeux. In some fifty scenes with Latin captions it shows Harold Godwinson's journey to Normandy and his oath to Duke William, the death of Edward the Confessor and Harold's coronation, Halley's comet, William's preparations and Channel crossing, and the battle of Hastings in 1066, ending with Harold's death and the flight of the English; the end is lost. Its borders contain fables, animals and scenes of daily life. It is a unique visual source for armour, ships, horses and buildings of the eleventh century, and its version of events largely justifies the Norman claim. It has been displayed in Bayeux for most of its history."
+  "description": "Though called a tapestry, it is an embroidery in coloured wools on linen, about 70 metres long and 50 centimetres high, probably made in England in the decade after the Conquest for Bishop Odo of Bayeux. In some fifty scenes with Latin captions it shows Harold Godwinson's journey to Normandy and his oath to Duke William, the death of Edward the Confessor and Harold's coronation, Halley's comet, William's preparations and Channel crossing, and the battle of Hastings in 1066, ending with Harold's death and the flight of the English; the end is lost. Its borders contain fables, animals and scenes of daily life. It is a unique visual source for armour, ships, horses and buildings of the eleventh century, and its version of events largely justifies the Norman claim. It has been displayed in Bayeux for most of its history.",
+  "image_file": "Bayeux Tapestry scene57 Harold death.jpg",
+  "image_caption": "Scene 57: the death of King Harold at Hastings"
  },
  {
   "title": "Domesday Book",
@@ -297,7 +343,9 @@
   "type": "Survey / public record",
   "location": "The National Archives, Kew, London",
   "note": "The great survey of the lands and resources of England ordered by William the Conqueror, the most complete record of any medieval kingdom.",
-  "description": "At Christmas 1085 William ordered commissioners to survey every shire in England, recording who held each estate before and after the Conquest, how many ploughs, people, mills, woods and animals it contained, and what it was worth. The returns were compiled in 1086 into two volumes, Great Domesday and Little Domesday, covering most of England, though not London, Winchester or the far north. The name Domesday, meaning day of judgement, was given later because its verdicts could not be appealed. It shows the near-total replacement of the English landholding class by Normans. It was used as legal evidence for centuries and is still consulted by historians, geographers and place-name scholars; it is kept at the National Archives in Kew."
+  "description": "At Christmas 1085 William ordered commissioners to survey every shire in England, recording who held each estate before and after the Conquest, how many ploughs, people, mills, woods and animals it contained, and what it was worth. The returns were compiled in 1086 into two volumes, Great Domesday and Little Domesday, covering most of England, though not London, Winchester or the far north. The name Domesday, meaning day of judgement, was given later because its verdicts could not be appealed. It shows the near-total replacement of the English landholding class by Normans. It was used as legal evidence for centuries and is still consulted by historians, geographers and place-name scholars; it is kept at the National Archives in Kew.",
+  "image_file": "Domesday-book-1804x972.jpg",
+  "image_caption": "Pages of Domesday Book (The National Archives, Kew)"
  },
  {
   "title": "Alexiad",
@@ -307,7 +355,9 @@
   "type": "Prose history (15 books)",
   "location": "Written in Constantinople",
   "note": "A Byzantine princess's history of her father Alexios I's reign, with a unique Byzantine view of the First Crusade.",
-  "description": "Anna Komnene wrote the Alexiad in the 1140s, in retirement in a convent in Constantinople, in a learned Greek modelled on classical historians. Its fifteen books tell the story of the reign of her father Alexios I Komnenos from 1081 to 1118: his rise to power, his wars against the Norman Robert Guiscard and his son Bohemond, against the Pechenegs and the Seljuk Turks, and the arrival of the armies of the First Crusade in 1096–97, whose leaders she describes with a mixture of admiration and suspicion. Anna names her sources, including her own memories and old soldiers' accounts, and repeatedly insists on her impartiality while plainly idealising her father. It is a major source for Byzantine history and the crusades, and a landmark of historical writing by a woman."
+  "description": "Anna Komnene wrote the Alexiad in the 1140s, in retirement in a convent in Constantinople, in a learned Greek modelled on classical historians. Its fifteen books tell the story of the reign of her father Alexios I Komnenos from 1081 to 1118: his rise to power, his wars against the Norman Robert Guiscard and his son Bohemond, against the Pechenegs and the Seljuk Turks, and the arrival of the armies of the First Crusade in 1096–97, whose leaders she describes with a mixture of admiration and suspicion. Anna names her sources, including her own memories and old soldiers' accounts, and repeatedly insists on her impartiality while plainly idealising her father. It is a major source for Byzantine history and the crusades, and a landmark of historical writing by a woman.",
+  "image_file": "Anna comnena, alexiade, forse da costantinopoli, XII secolo (pluteo 70.2).jpg",
+  "image_caption": "Manuscript of the Alexiad, Laurentian Library, Florence, Plut. 70.2"
  },
  {
   "title": "History of the Kings of Britain (Historia Regum Britanniae)",
@@ -317,7 +367,9 @@
   "type": "Legendary history",
   "location": "Written in Oxford; over 200 medieval manuscripts survive",
   "note": "A pseudo-history of British kings from the Trojan Brutus to the seventh century that launched the legend of King Arthur.",
-  "description": "Geoffrey of Monmouth claimed to have translated a very ancient book in the British language given to him by Walter, archdeacon of Oxford, though most scholars believe this is a fiction covering his own invention combined with material from earlier chronicles and Welsh tradition. The Historia describes the founding of Britain by Brutus, great-grandson of Aeneas, a long line of kings including Lear and Cymbeline, the prophecies of Merlin, and above all the reign of Arthur, who defeats the Saxons and conquers much of Europe before being betrayed by Mordred. Some medieval critics dismissed it as fable, but it became enormously popular and was accepted as history by many for centuries. It provided material for Arthurian romance, for Shakespeare and Spenser, and for royal propaganda."
+  "description": "Geoffrey of Monmouth claimed to have translated a very ancient book in the British language given to him by Walter, archdeacon of Oxford, though most scholars believe this is a fiction covering his own invention combined with material from earlier chronicles and Welsh tradition. The Historia describes the founding of Britain by Brutus, great-grandson of Aeneas, a long line of kings including Lear and Cymbeline, the prophecies of Merlin, and above all the reign of Arthur, who defeats the Saxons and conquers much of Europe before being betrayed by Mordred. Some medieval critics dismissed it as fable, but it became enormously popular and was accepted as history by many for centuries. It provided material for Arthurian romance, for Shakespeare and Spenser, and for royal propaganda.",
+  "image_file": "Vortigern-Dragons.jpg",
+  "image_caption": "Vortigern and Merlin watch the red and white dragons fight, from a 15th-century manuscript of Geoffrey's History"
  },
  {
   "title": "Magna Carta",
@@ -327,7 +379,9 @@
   "type": "Charter of liberties",
   "location": "Four original 1215 exemplifications survive: two in the British Library, one each at Lincoln Castle and Salisbury Cathedral",
   "note": "The charter of liberties agreed by King John at Runnymede in 1215, which became a symbol of the rule of law and of limits on power.",
-  "description": "Magna Carta, the Great Charter, was granted by King John at Runnymede in June 1215 as a peace settlement with rebellious barons. Its sixty-three clauses addressed specific grievances about feudal dues, inheritance, the rights of the church, justice and the royal forests, and set up a council of twenty-five barons to enforce it. Most famously, it promised that no free man would be imprisoned or deprived of his rights except by the lawful judgment of his peers or by the law of the land, and that justice would not be sold, denied or delayed. The charter was annulled by the pope within weeks, but reissued in revised form in 1216, 1217 and 1225 and became part of English law. Seventeenth-century parliamentarians invoked it against the Stuart kings, and American revolutionaries and later human-rights advocates treated it as a foundation of constitutional liberty, a symbolic meaning far wider than its authors intended."
+  "description": "Magna Carta, the Great Charter, was granted by King John at Runnymede in June 1215 as a peace settlement with rebellious barons. Its sixty-three clauses addressed specific grievances about feudal dues, inheritance, the rights of the church, justice and the royal forests, and set up a council of twenty-five barons to enforce it. Most famously, it promised that no free man would be imprisoned or deprived of his rights except by the lawful judgment of his peers or by the law of the land, and that justice would not be sold, denied or delayed. The charter was annulled by the pope within weeks, but reissued in revised form in 1216, 1217 and 1225 and became part of English law. Seventeenth-century parliamentarians invoked it against the Stuart kings, and American revolutionaries and later human-rights advocates treated it as a foundation of constitutional liberty, a symbolic meaning far wider than its authors intended.",
+  "image_file": "Magna Carta (British Library Cotton MS Augustus II.106).jpg",
+  "image_caption": "One of the four surviving 1215 exemplifications of Magna Carta (British Library, Cotton MS Augustus II.106)"
  },
  {
   "title": "Chronica Majora",
@@ -337,7 +391,9 @@
   "type": "Illustrated chronicle",
   "location": "Written at St Albans Abbey; autograph manuscripts at Corpus Christi College, Cambridge, and the British Library",
   "note": "Matthew Paris's great chronicle of the world, detailed and opinionated on his own century and illustrated in his own hand.",
-  "description": "The Chronica Majora begins with the Creation, taking over the chronicle of Roger of Wendover, and from 1236 becomes Matthew Paris's own detailed record of events across Europe and the Mediterranean up to 1259: the reign of Henry III, the conflict between the emperor Frederick II and the papacy, the Mongol invasions and the crusades. Matthew copied many documents into it and wrote outspokenly against royal and papal taxation. Unusually for a chronicler, he illustrated the manuscripts himself with tinted drawings in the margins, including battles, coats of arms, an elephant presented to Henry III and the Mongols, and he made itineraries and maps. The autograph volumes survive at Corpus Christi College, Cambridge, and in the British Library."
+  "description": "The Chronica Majora begins with the Creation, taking over the chronicle of Roger of Wendover, and from 1236 becomes Matthew Paris's own detailed record of events across Europe and the Mediterranean up to 1259: the reign of Henry III, the conflict between the emperor Frederick II and the papacy, the Mongol invasions and the crusades. Matthew copied many documents into it and wrote outspokenly against royal and papal taxation. Unusually for a chronicler, he illustrated the manuscripts himself with tinted drawings in the margins, including battles, coats of arms, an elephant presented to Henry III and the Mongols, and he made itineraries and maps. The autograph volumes survive at Corpus Christi College, Cambridge, and in the British Library.",
+  "image_file": "Matthew Paris Elephant from Parker MS 16 fol 151v.jpg",
+  "image_caption": "Matthew Paris's drawing of the elephant given to Henry III, Chronica Majora (Corpus Christi College, Cambridge, MS 16, f. 151v)"
  },
  {
   "title": "Chronicles",
@@ -347,7 +403,9 @@
   "type": "Chronicle (4 books)",
   "location": "Written in the Low Countries, England and France; over 150 manuscripts, many richly illuminated (e.g. the Gruuthuse manuscript, Bibliothèque nationale de France)",
   "note": "The great chronicle of the first phase of the Hundred Years' War, celebrating chivalry, battles and pageantry.",
-  "description": "Froissart's Chronicles, written in French prose in four books, cover events in western Europe from the 1320s to 1400. He began by adapting the chronicle of Jean le Bel and then, by travelling and interviewing participants, extended and repeatedly revised his narrative. The Chronicles contain the classic accounts of the battles of Crécy and Poitiers, the burghers of Calais, the Peasants' Revolt of 1381 and the deposition of Richard II. Froissart's outlook is aristocratic and he is often inaccurate on details, but his vividness made him a favourite of nobles, who commissioned splendidly illuminated copies, and of later readers. Lord Berners translated him into English in the 1520s, and he inspired Walter Scott and countless illustrators."
+  "description": "Froissart's Chronicles, written in French prose in four books, cover events in western Europe from the 1320s to 1400. He began by adapting the chronicle of Jean le Bel and then, by travelling and interviewing participants, extended and repeatedly revised his narrative. The Chronicles contain the classic accounts of the battles of Crécy and Poitiers, the burghers of Calais, the Peasants' Revolt of 1381 and the deposition of Richard II. Froissart's outlook is aristocratic and he is often inaccurate on details, but his vividness made him a favourite of nobles, who commissioned splendidly illuminated copies, and of later readers. Lord Berners translated him into English in the 1520s, and he inspired Walter Scott and countless illustrators.",
+  "image_file": "BNMsFr2643FroissartFol97vExecHughDespenser.jpg",
+  "image_caption": "The execution of Hugh Despenser, from a 15th-century manuscript of Froissart's Chronicles (Bibliothèque nationale de France, MS fr. 2643)"
  },
  {
   "title": "History of the Florentine People",
@@ -377,7 +435,9 @@
   "type": "Political treatise",
   "location": "Written at Sant'Andrea in Percussina near Florence; first printed in Rome and Florence, 1532",
   "note": "Machiavelli's short, notorious handbook on how new rulers win and keep power, drawn from history and experience.",
-  "description": "Machiavelli wrote The Prince in 1513 in rural exile after the Medici return to Florence, dedicating it eventually to Lorenzo de' Medici in hope of employment. In twenty-six short chapters he classifies principalities, discusses armies, and advises a prince on how to behave, arguing that it is safer to be feared than loved if one cannot be both, and that a ruler must learn to be able not to be good when necessity demands. His examples come from ancient history and from his own experience, especially of Cesare Borgia. The book closes with an appeal to free Italy from the barbarians. Published after his death in 1532, it was placed on the Index of Prohibited Books in 1559. Readers have argued ever since over whether it is a cynical manual of tyranny, a satire, or a clear-eyed description of political reality."
+  "description": "Machiavelli wrote The Prince in 1513 in rural exile after the Medici return to Florence, dedicating it eventually to Lorenzo de' Medici in hope of employment. In twenty-six short chapters he classifies principalities, discusses armies, and advises a prince on how to behave, arguing that it is safer to be feared than loved if one cannot be both, and that a ruler must learn to be able not to be good when necessity demands. His examples come from ancient history and from his own experience, especially of Cesare Borgia. The book closes with an appeal to free Italy from the barbarians. Published after his death in 1532, it was placed on the Index of Prohibited Books in 1559. Readers have argued ever since over whether it is a cynical manual of tyranny, a satire, or a clear-eyed description of political reality.",
+  "image_file": "Nicolo Machiavelli, Il Principe, 1550, title page.jpg",
+  "image_caption": "Title page of a 1550 edition of The Prince"
  },
  {
   "title": "Discourses on Livy",
@@ -387,7 +447,9 @@
   "type": "Political commentary (3 books)",
   "location": "Written in Florence; first printed 1531",
   "note": "Machiavelli's commentary on Livy's history of early Rome, the founding text of modern republican political thought.",
-  "description": "The Discourses on the First Ten Books of Titus Livy, written around 1513–19, use episodes from Livy as starting points for reflections on how republics are founded, how they expand, and how they decay and can be renewed. Machiavelli argued that Rome's conflicts between nobles and people had made it free and powerful rather than weak, that a citizen militia was superior to mercenaries, and that the Roman religion had served the state well. He praised mixed government on Polybius' model. Less famous than The Prince but longer and more systematic, the Discourses were read by English republicans of the seventeenth century, by Montesquieu and by the American founders, and they show the depth of Machiavelli's engagement with history."
+  "description": "The Discourses on the First Ten Books of Titus Livy, written around 1513–19, use episodes from Livy as starting points for reflections on how republics are founded, how they expand, and how they decay and can be renewed. Machiavelli argued that Rome's conflicts between nobles and people had made it free and powerful rather than weak, that a citizen militia was superior to mercenaries, and that the Roman religion had served the state well. He praised mixed government on Polybius' model. Less famous than The Prince but longer and more systematic, the Discourses were read by English republicans of the seventeenth century, by Montesquieu and by the American founders, and they show the depth of Machiavelli's engagement with history.",
+  "image_file": "Discorsi di Nicolo Machiavelli, firentino, sopra la prima deca di Tito Livio.jpg",
+  "image_caption": "Title page of an early edition of the Discourses on Livy"
  },
  {
   "title": "Florentine Histories",
@@ -417,7 +479,9 @@
   "type": "Polemical report",
   "location": "Written in Spain for Prince Philip; first printed in Seville, 1552",
   "note": "Las Casas's searing indictment of Spanish atrocities against Indigenous peoples in the Americas, addressed to the future Philip II.",
-  "description": "Las Casas wrote the Brevísima relación de la destrucción de las Indias in 1542 for the future Philip II and printed it in Seville in 1552. Region by region, from Hispaniola to Peru, it describes massacres, enslavement, torture and forced labour inflicted on Indigenous peoples by Spanish conquerors and settlers, and it attributes a catastrophic population collapse to their cruelty and greed. Las Casas wrote to persuade the crown to reform colonial policy, and the work contributed to debates that led to the New Laws of 1542. Modern historians accept the reality of widespread atrocity while noting that his figures are often impossible to verify and that epidemic disease caused most deaths. Translated into Dutch, English, French and German, often with lurid engravings by Theodor de Bry, it became a mainstay of anti-Spanish propaganda, the so-called Black Legend."
+  "description": "Las Casas wrote the Brevísima relación de la destrucción de las Indias in 1542 for the future Philip II and printed it in Seville in 1552. Region by region, from Hispaniola to Peru, it describes massacres, enslavement, torture and forced labour inflicted on Indigenous peoples by Spanish conquerors and settlers, and it attributes a catastrophic population collapse to their cruelty and greed. Las Casas wrote to persuade the crown to reform colonial policy, and the work contributed to debates that led to the New Laws of 1542. Modern historians accept the reality of widespread atrocity while noting that his figures are often impossible to verify and that epidemic disease caused most deaths. Translated into Dutch, English, French and German, often with lurid engravings by Theodor de Bry, it became a mainstay of anti-Spanish propaganda, the so-called Black Legend.",
+  "image_file": "Bartolomé de las Casas (1552) Brevisima relación de la destrucción de las Indias.png",
+  "image_caption": "Title page of the first edition, Seville, 1552"
  },
  {
   "title": "The True History of the Conquest of New Spain",
@@ -427,7 +491,9 @@
   "type": "Eyewitness history",
   "location": "Written in Santiago de los Caballeros, Guatemala; first printed in Madrid, 1632",
   "note": "A conquistador's memoir of Cortés's conquest of the Aztec empire, written decades later from the point of view of the common soldier.",
-  "description": "Bernal Díaz began writing his Historia verdadera de la conquista de la Nueva España in the 1550s and finished a version around 1568, revising it until his death; it was first printed in 1632. He wrote to correct accounts that credited the victory to Cortés alone and to claim recognition for the soldiers who fought alongside him. He describes the landing at Veracruz, the alliance with the Tlaxcalans, the first view of Tenochtitlan, which seemed to the soldiers like an enchanted vision, the meetings with Moctezuma, the Night of Sorrows and the final siege of 1521. He gives a central role to Malinche, the Nahua woman who served as interpreter. The work is an invaluable but partisan source, written from the conquerors' side, and is complemented by Indigenous accounts such as those in the Florentine Codex."
+  "description": "Bernal Díaz began writing his Historia verdadera de la conquista de la Nueva España in the 1550s and finished a version around 1568, revising it until his death; it was first printed in 1632. He wrote to correct accounts that credited the victory to Cortés alone and to claim recognition for the soldiers who fought alongside him. He describes the landing at Veracruz, the alliance with the Tlaxcalans, the first view of Tenochtitlan, which seemed to the soldiers like an enchanted vision, the meetings with Moctezuma, the Night of Sorrows and the final siege of 1521. He gives a central role to Malinche, the Nahua woman who served as interpreter. The work is an invaluable but partisan source, written from the conquerors' side, and is complemented by Indigenous accounts such as those in the Florentine Codex.",
+  "image_file": "Historia verdadera conquista Nueva España portada.jpg",
+  "image_caption": "Title page of the first edition, Madrid, 1632"
  },
  {
   "title": "Edict of Nantes",
@@ -437,7 +503,9 @@
   "type": "Royal edict",
   "location": "Signed at Nantes; original in the Archives nationales, Paris",
   "note": "Henry IV's decree granting French Protestants limited freedom of worship and civil rights, ending the Wars of Religion.",
-  "description": "Henry IV signed the Edict of Nantes in April 1598, after more than three decades of civil war between Catholics and Protestants. It confirmed Catholicism as the state religion but granted the Huguenots freedom of conscience, the right to worship publicly in specified places, access to public office and the universities, special courts, and, in separate articles, the right to hold around a hundred fortified towns. It was a pragmatic compromise rather than a declaration of religious liberty, and it was resented by many Catholics. Louis XIII removed the Protestants' military privileges after the siege of La Rochelle, and Louis XIV revoked the edict entirely in 1685, driving some 200,000 Huguenots into exile across Europe and America."
+  "description": "Henry IV signed the Edict of Nantes in April 1598, after more than three decades of civil war between Catholics and Protestants. It confirmed Catholicism as the state religion but granted the Huguenots freedom of conscience, the right to worship publicly in specified places, access to public office and the universities, special courts, and, in separate articles, the right to hold around a hundred fortified towns. It was a pragmatic compromise rather than a declaration of religious liberty, and it was resented by many Catholics. Louis XIII removed the Protestants' military privileges after the siege of La Rochelle, and Louis XIV revoked the edict entirely in 1685, driving some 200,000 Huguenots into exile across Europe and America.",
+  "image_file": "Edit de nantes.jpg",
+  "image_caption": "The Edict of Nantes, 1598 (Archives nationales, Paris)"
  },
  {
   "title": "Peace of Westphalia",
@@ -447,7 +515,9 @@
   "type": "Peace treaties",
   "location": "Signed at Münster and Osnabrück; originals in national archives, including Vienna, Paris and Stockholm",
   "note": "The treaties of Münster and Osnabrück that ended the Thirty Years' War and the Dutch war of independence.",
-  "description": "The Peace of Westphalia consisted of the treaties signed in 1648 at Osnabrück, between the emperor and Sweden, and at Münster, between the emperor and France, together with the separate Peace of Münster between Spain and the Dutch Republic earlier that year. They ended the Thirty Years' War, which had devastated much of Germany, and the Eighty Years' War, recognising the independence of the Dutch Republic. The treaties confirmed the right of German princes to determine the religion of their territories, now extended to Calvinists, protected religious minorities in some respects, gave territories to France and Sweden, and recognised Swiss independence. Political scientists have often treated Westphalia as the origin of the modern system of sovereign states; many historians argue that this is a later myth, since the treaties strengthened the empire's constitution rather than abolishing it."
+  "description": "The Peace of Westphalia consisted of the treaties signed in 1648 at Osnabrück, between the emperor and Sweden, and at Münster, between the emperor and France, together with the separate Peace of Münster between Spain and the Dutch Republic earlier that year. They ended the Thirty Years' War, which had devastated much of Germany, and the Eighty Years' War, recognising the independence of the Dutch Republic. The treaties confirmed the right of German princes to determine the religion of their territories, now extended to Calvinists, protected religious minorities in some respects, gave territories to France and Sweden, and recognised Swiss independence. Political scientists have often treated Westphalia as the origin of the modern system of sovereign states; many historians argue that this is a later myth, since the treaties strengthened the empire's constitution rather than abolishing it.",
+  "image_file": "The Ratification of the Treaty of Munster, Gerard Ter Borch (1648).jpg",
+  "image_caption": "Gerard ter Borch, The Ratification of the Treaty of Münster, 15 May 1648 (National Gallery, London)"
  },
  {
   "title": "The History of the Rebellion and Civil Wars in England",
@@ -467,7 +537,9 @@
   "type": "Parliamentary petition / statute",
   "location": "Parliamentary Archives, Westminster",
   "note": "A statement of civil liberties forced on Charles I by Parliament, prohibiting taxation without consent and imprisonment without cause.",
-  "description": "In 1628 Parliament, led by Sir Edward Coke, Sir John Eliot and others, responded to Charles I's forced loans, arbitrary imprisonment, billeting of soldiers on civilians and use of martial law by drafting a petition reasserting the ancient liberties of the subject, citing Magna Carta and earlier statutes. It declared that no one should be compelled to pay any tax without the consent of Parliament and that no free man should be imprisoned without cause shown. The king reluctantly gave his assent in June 1628 in return for subsidies, but soon disregarded it and ruled without Parliament from 1629 to 1640. The petition is one of the foundational documents of English constitutional law and influenced the American Bill of Rights."
+  "description": "In 1628 Parliament, led by Sir Edward Coke, Sir John Eliot and others, responded to Charles I's forced loans, arbitrary imprisonment, billeting of soldiers on civilians and use of martial law by drafting a petition reasserting the ancient liberties of the subject, citing Magna Carta and earlier statutes. It declared that no one should be compelled to pay any tax without the consent of Parliament and that no free man should be imprisoned without cause shown. The king reluctantly gave his assent in June 1628 in return for subsidies, but soon disregarded it and ruled without Parliament from 1629 to 1640. The petition is one of the foundational documents of English constitutional law and influenced the American Bill of Rights.",
+  "image_file": "Petition of Right.jpg",
+  "image_caption": "The Petition of Right, 1628"
  },
  {
   "title": "Habeas Corpus Act 1679",
@@ -497,7 +569,9 @@
   "type": "History",
   "location": "Written in France and at Potsdam; first published in Berlin, 1751",
   "note": "Voltaire's history of the reign of Louis XIV as an age of civilisation and the arts, not merely of wars and kings.",
-  "description": "Voltaire worked on Le Siècle de Louis XIV for some twenty years, publishing it in Berlin in 1751 while at the court of Frederick the Great. He declared that he intended to depict not the actions of one man but the spirit of men in the most enlightened age there had ever been. Along with the wars and politics of the reign, the book devotes chapters to government, commerce, law, the church, religious disputes, science, literature and the fine arts, and to anecdotes of court life. Voltaire consulted surviving witnesses and documents. The work admires the king's patronage of culture while condemning religious persecution, including the revocation of the Edict of Nantes. It is a founding work of cultural history."
+  "description": "Voltaire worked on Le Siècle de Louis XIV for some twenty years, publishing it in Berlin in 1751 while at the court of Frederick the Great. He declared that he intended to depict not the actions of one man but the spirit of men in the most enlightened age there had ever been. Along with the wars and politics of the reign, the book devotes chapters to government, commerce, law, the church, religious disputes, science, literature and the fine arts, and to anecdotes of court life. Voltaire consulted surviving witnesses and documents. The work admires the king's patronage of culture while condemning religious persecution, including the revocation of the Edict of Nantes. It is a founding work of cultural history.",
+  "image_file": "Louis XIV of France.jpg",
+  "image_caption": "Hyacinthe Rigaud, portrait of Louis XIV, 1701 (Louvre)"
  },
  {
   "title": "Essay on the Manners and Spirit of Nations",
@@ -507,7 +581,9 @@
   "type": "Universal history",
   "location": "First published in Geneva, 1756; expanded editions to 1769",
   "note": "Voltaire's universal history from Charlemagne to Louis XIII, which began with China and challenged the Christian view of history.",
-  "description": "The Essai sur les mœurs et l'esprit des nations grew out of Voltaire's wish to give Émilie du Châtelet a history worth reading, and was published in 1756 and repeatedly enlarged. Deliberately answering Bossuet's Discourse on Universal History, which centred on the Jews and Christianity, Voltaire opened with China, India and Persia and the Islamic world before turning to Europe, treating Christianity as one civilisation among others. He was interested in laws, customs, arts and beliefs rather than battles and dynasties, and he relentlessly attacked fanaticism and superstition. Later editions included an introduction he called the Philosophy of History. The work's scope was revolutionary, though its scholarship was uneven and its judgments often polemical."
+  "description": "The Essai sur les mœurs et l'esprit des nations grew out of Voltaire's wish to give Émilie du Châtelet a history worth reading, and was published in 1756 and repeatedly enlarged. Deliberately answering Bossuet's Discourse on Universal History, which centred on the Jews and Christianity, Voltaire opened with China, India and Persia and the Islamic world before turning to Europe, treating Christianity as one civilisation among others. He was interested in laws, customs, arts and beliefs rather than battles and dynasties, and he relentlessly attacked fanaticism and superstition. Later editions included an introduction he called the Philosophy of History. The work's scope was revolutionary, though its scholarship was uneven and its judgments often polemical.",
+  "image_file": "VoltaireEssayMorals.jpg",
+  "image_caption": "Title page of an early edition of Voltaire's Essay"
  },
  {
   "title": "The History of England",
@@ -527,7 +603,9 @@
   "type": "History (6 volumes)",
   "location": "Written in London and Lausanne; published in London by Strahan and Cadell",
   "note": "Gibbon's great narrative of thirteen centuries from the Antonine emperors to the fall of Constantinople.",
-  "description": "Gibbon published the first volume in 1776 and the last two in 1788, having finished the work in his garden house at Lausanne in June 1787. Its seventy-one chapters run from the empire at its height in the second century to the fall of Constantinople to the Ottomans in 1453, covering the barbarian invasions, the rise of Christianity, Justinian, Muhammad and the Arab conquests, the crusades and the Mongols. Gibbon combined the critical erudition of antiquarian scholars with the irony and broad view of the Enlightenment, and his footnotes are famously witty. He attributed the fall in part to the triumph of barbarism and religion, and chapters 15 and 16, which treated early Christianity's growth and martyrdoms as human phenomena, provoked furious replies. The work has never been out of print and is regarded as one of the summits of historical writing."
+  "description": "Gibbon published the first volume in 1776 and the last two in 1788, having finished the work in his garden house at Lausanne in June 1787. Its seventy-one chapters run from the empire at its height in the second century to the fall of Constantinople to the Ottomans in 1453, covering the barbarian invasions, the rise of Christianity, Justinian, Muhammad and the Arab conquests, the crusades and the Mongols. Gibbon combined the critical erudition of antiquarian scholars with the irony and broad view of the Enlightenment, and his footnotes are famously witty. He attributed the fall in part to the triumph of barbarism and religion, and chapters 15 and 16, which treated early Christianity's growth and martyrdoms as human phenomena, provoked furious replies. The work has never been out of print and is regarded as one of the summits of historical writing.",
+  "image_file": "Decline and Fall of the Roman Empire vol 1 (1777).djvu",
+  "image_caption": "Volume 1 of The Decline and Fall, 1777 edition"
  },
  {
   "title": "Declaration of Independence",
@@ -537,7 +615,9 @@
   "type": "Declaration",
   "location": "Adopted in Philadelphia; signed engrossed copy in the National Archives, Washington, D.C.",
   "note": "The statement adopted by the Continental Congress on 4 July 1776 announcing the independence of the thirteen colonies and asserting natural rights.",
-  "description": "On 2 July 1776 the Second Continental Congress voted for independence from Britain, and on 4 July it adopted a declaration drafted mainly by Thomas Jefferson, with edits by John Adams, Benjamin Franklin and the Congress itself, which cut a passage blaming George III for the slave trade. Its preamble states that all men are created equal and endowed with unalienable rights to life, liberty and the pursuit of happiness, that governments derive their just powers from the consent of the governed, and that people may alter or abolish a government that destroys these ends. A long list of grievances against the king follows. The engrossed parchment was signed by most delegates on 2 August. The gap between its language of equality and the reality of slavery and the exclusion of women and Native Americans was pointed out from the start, and abolitionists, suffragists and civil-rights leaders invoked it to demand that its promise be fulfilled. It inspired many later declarations of independence."
+  "description": "On 2 July 1776 the Second Continental Congress voted for independence from Britain, and on 4 July it adopted a declaration drafted mainly by Thomas Jefferson, with edits by John Adams, Benjamin Franklin and the Congress itself, which cut a passage blaming George III for the slave trade. Its preamble states that all men are created equal and endowed with unalienable rights to life, liberty and the pursuit of happiness, that governments derive their just powers from the consent of the governed, and that people may alter or abolish a government that destroys these ends. A long list of grievances against the king follows. The engrossed parchment was signed by most delegates on 2 August. The gap between its language of equality and the reality of slavery and the exclusion of women and Native Americans was pointed out from the start, and abolitionists, suffragists and civil-rights leaders invoked it to demand that its promise be fulfilled. It inspired many later declarations of independence.",
+  "image_file": "United States Declaration of Independence.jpg",
+  "image_caption": "The signed engrossed Declaration of Independence (National Archives, Washington)"
  },
  {
   "title": "Virginia Statute for Religious Freedom",
@@ -557,7 +637,9 @@
   "type": "Constitution",
   "location": "Signed in Philadelphia; original in the National Archives, Washington, D.C.",
   "note": "The world's oldest written national constitution still in force, establishing a federal republic with separated powers.",
-  "description": "Drafted in secret by the Philadelphia Convention between May and September 1787 and signed on 17 September, the Constitution replaced the Articles of Confederation. Its seven articles create a bicameral Congress, combining equal representation of states in the Senate with representation by population in the House, an executive president chosen by an electoral college, and a federal judiciary, with a system of checks and balances and a division of powers between national and state governments. It included compromises over slavery, including the three-fifths clause and a fugitive slave clause. It came into effect in 1789 after ratification by nine states following fierce debate between Federalists and Anti-Federalists, and it has since been amended twenty-seven times, notably by the Bill of Rights and the post-Civil War amendments that abolished slavery and guaranteed equal protection. Its preamble opens with the words 'We the People'."
+  "description": "Drafted in secret by the Philadelphia Convention between May and September 1787 and signed on 17 September, the Constitution replaced the Articles of Confederation. Its seven articles create a bicameral Congress, combining equal representation of states in the Senate with representation by population in the House, an executive president chosen by an electoral college, and a federal judiciary, with a system of checks and balances and a division of powers between national and state governments. It included compromises over slavery, including the three-fifths clause and a fugitive slave clause. It came into effect in 1789 after ratification by nine states following fierce debate between Federalists and Anti-Federalists, and it has since been amended twenty-seven times, notably by the Bill of Rights and the post-Civil War amendments that abolished slavery and guaranteed equal protection. Its preamble opens with the words 'We the People'.",
+  "image_file": "Constitution of the United States - DPLA - 9ca804144bd5965e992ae3528bc3c6a3 (page 1).jpg",
+  "image_caption": "First page of the signed Constitution, 1787 (National Archives, Washington)"
  },
  {
   "title": "The Federalist Papers",
@@ -567,7 +649,9 @@
   "type": "Political essays (85)",
   "location": "Published in New York newspapers; collected edition by J. and A. McLean, New York, 1788",
   "note": "Eighty-five essays by Hamilton, Madison and Jay, under the pen name Publius, urging ratification of the Constitution.",
-  "description": "The Federalist essays appeared in New York newspapers from October 1787 to August 1788 under the pseudonym Publius, to persuade the state to ratify the proposed Constitution. Alexander Hamilton conceived the project and wrote about fifty-one essays, James Madison about twenty-nine and John Jay five; the authorship of a few was long disputed. The essays explain and defend each part of the Constitution. Madison's Federalist No. 10 argues that a large republic can control the effects of faction, and No. 51 that ambition must be made to counteract ambition; Hamilton's No. 78 describes the judiciary as the least dangerous branch. Collected in two volumes in 1788, the essays are still cited by the Supreme Court as evidence of the framers' intentions, and the Anti-Federalist writings that answered them are increasingly studied alongside them."
+  "description": "The Federalist essays appeared in New York newspapers from October 1787 to August 1788 under the pseudonym Publius, to persuade the state to ratify the proposed Constitution. Alexander Hamilton conceived the project and wrote about fifty-one essays, James Madison about twenty-nine and John Jay five; the authorship of a few was long disputed. The essays explain and defend each part of the Constitution. Madison's Federalist No. 10 argues that a large republic can control the effects of faction, and No. 51 that ambition must be made to counteract ambition; Hamilton's No. 78 describes the judiciary as the least dangerous branch. Collected in two volumes in 1788, the essays are still cited by the Supreme Court as evidence of the framers' intentions, and the Anti-Federalist writings that answered them are increasingly studied alongside them.",
+  "image_file": "The Federalist (1st ed, 1788, vol I, title page) - 02.jpg",
+  "image_caption": "Title page of the first collected edition, volume 1, New York, 1788"
  },
  {
   "title": "United States Bill of Rights",
@@ -577,7 +661,9 @@
   "type": "Constitutional amendments",
   "location": "Proposed by Congress in New York; original enrolled copy in the National Archives, Washington, D.C.",
   "note": "The first ten amendments to the US Constitution, guaranteeing freedoms of religion, speech, press and assembly and rights of the accused.",
-  "description": "Many opponents of the Constitution demanded a bill of rights, and several states ratified only on the understanding that one would follow. In June 1789 James Madison, drawing on the Virginia Declaration of Rights and the proposals of the state conventions, introduced amendments in the first Congress. Congress sent twelve to the states in September 1789, and ten were ratified by December 1791. They protect freedom of religion, speech, press, assembly and petition, the right to keep and bear arms, protection against unreasonable searches, the rights to due process, a speedy and public jury trial and counsel, and freedom from cruel and unusual punishment, and they reserve other powers to the states or the people. Originally they restrained only the federal government; after the Fourteenth Amendment the Supreme Court gradually applied most of them to the states."
+  "description": "Many opponents of the Constitution demanded a bill of rights, and several states ratified only on the understanding that one would follow. In June 1789 James Madison, drawing on the Virginia Declaration of Rights and the proposals of the state conventions, introduced amendments in the first Congress. Congress sent twelve to the states in September 1789, and ten were ratified by December 1791. They protect freedom of religion, speech, press, assembly and petition, the right to keep and bear arms, protection against unreasonable searches, the rights to due process, a speedy and public jury trial and counsel, and freedom from cruel and unusual punishment, and they reserve other powers to the states or the people. Originally they restrained only the federal government; after the Fourteenth Amendment the Supreme Court gradually applied most of them to the states.",
+  "image_file": "Bill of Rights - DPLA - a65f6d0b6210c18d17c596908ebcf270 (page 1).jpg",
+  "image_caption": "The enrolled original of the twelve amendments proposed by Congress in 1789 (National Archives, Washington)"
  },
  {
   "title": "Common Sense",
@@ -587,7 +673,9 @@
   "type": "Political pamphlet",
   "location": "First printed in Philadelphia by Robert Bell, January 1776",
   "note": "Paine's best-selling pamphlet that made the case for American independence and against hereditary monarchy in plain language.",
-  "description": "Published anonymously in Philadelphia in January 1776, when most colonists still hoped for reconciliation with Britain, Common Sense argued that it was absurd for an island to rule a continent, that monarchy and hereditary succession were irrational and corrupt, and that the colonies should declare independence and form a republic. Paine wrote in direct, vigorous prose, avoiding Latin quotations and appealing to ordinary readers. It sold in huge numbers, with estimates often given in the tens or hundreds of thousands, a debated figure, and it was read aloud in taverns and camps. It is credited with shifting public opinion towards independence in the months before July 1776."
+  "description": "Published anonymously in Philadelphia in January 1776, when most colonists still hoped for reconciliation with Britain, Common Sense argued that it was absurd for an island to rule a continent, that monarchy and hereditary succession were irrational and corrupt, and that the colonies should declare independence and form a republic. Paine wrote in direct, vigorous prose, avoiding Latin quotations and appealing to ordinary readers. It sold in huge numbers, with estimates often given in the tens or hundreds of thousands, a debated figure, and it was read aloud in taverns and camps. It is credited with shifting public opinion towards independence in the months before July 1776.",
+  "image_file": "Commonsense.jpg",
+  "image_caption": "Title page of Common Sense, Philadelphia, 1776"
  },
  {
   "title": "Rights of Man",
@@ -597,7 +685,9 @@
   "type": "Political treatise (2 parts)",
   "location": "Published in London by J. S. Jordan",
   "note": "Paine's reply to Burke, defending the French Revolution and arguing that every generation has the right to choose its government.",
-  "description": "Paine published the first part of Rights of Man in March 1791 in answer to Burke's Reflections. He argued that rights derive from nature, not from inherited institutions, that the living cannot be bound by the dead, and that hereditary government is a form of usurpation. In the second part, published in 1792, he proposed a programme of social reform funded by progressive taxation, including support for the poor, old-age pensions and public education. The work sold widely among artisans and working people, and the British government charged Paine with seditious libel; he was convicted in absence and outlawed. It is a classic of democratic radicalism."
+  "description": "Paine published the first part of Rights of Man in March 1791 in answer to Burke's Reflections. He argued that rights derive from nature, not from inherited institutions, that the living cannot be bound by the dead, and that hereditary government is a form of usurpation. In the second part, published in 1792, he proposed a programme of social reform funded by progressive taxation, including support for the poor, old-age pensions and public education. The work sold widely among artisans and working people, and the British government charged Paine with seditious libel; he was convicted in absence and outlawed. It is a classic of democratic radicalism.",
+  "image_file": "PaineRightsOfMan.png",
+  "image_caption": "Title page of Rights of Man, 1791"
  },
  {
   "title": "Reflections on the Revolution in France",
@@ -607,7 +697,9 @@
   "type": "Political treatise",
   "location": "Published in London by J. Dodsley, November 1790",
   "note": "Burke's attack on the principles of the French Revolution and defence of tradition and gradual reform, the founding text of modern conservatism.",
-  "description": "Written as a letter to a young Frenchman and published in November 1790, before the Terror, the Reflections responded to a sermon by the Dissenting minister Richard Price praising the Revolution. Burke argued that the revolutionaries' abstract theories of rights would destroy the institutions, customs and habits of deference that held society together, and predicted that the Revolution would lead to anarchy and military dictatorship. He contrasted it with the English Revolution of 1688, which he presented as a preservation of ancient liberties. His lament for Marie Antoinette and the passing of the age of chivalry became famous. The book sold widely and provoked many replies, including Paine's Rights of Man and Mary Wollstonecraft's Vindication of the Rights of Men. It remains central to debates about reform and revolution."
+  "description": "Written as a letter to a young Frenchman and published in November 1790, before the Terror, the Reflections responded to a sermon by the Dissenting minister Richard Price praising the Revolution. Burke argued that the revolutionaries' abstract theories of rights would destroy the institutions, customs and habits of deference that held society together, and predicted that the Revolution would lead to anarchy and military dictatorship. He contrasted it with the English Revolution of 1688, which he presented as a preservation of ancient liberties. His lament for Marie Antoinette and the passing of the age of chivalry became famous. The book sold widely and provoked many replies, including Paine's Rights of Man and Mary Wollstonecraft's Vindication of the Rights of Men. It remains central to debates about reform and revolution.",
+  "image_file": "BurkeReflections.jpg",
+  "image_caption": "Title page of the first edition, London, 1790"
  },
  {
   "title": "Declaration of the Rights of Man and of the Citizen",
@@ -617,7 +709,9 @@
   "type": "Declaration",
   "location": "Adopted at Versailles, 26 August 1789; original in the Archives nationales, Paris",
   "note": "The French revolutionary declaration of natural and civil rights, adopted in August 1789, a cornerstone of modern human-rights law.",
-  "description": "The National Constituent Assembly adopted the Declaration on 26 August 1789, after the abolition of feudal privileges, as a preamble to the constitution it was preparing. Its seventeen articles proclaim that men are born and remain free and equal in rights, that the aim of political association is the preservation of the natural rights of liberty, property, security and resistance to oppression, and that sovereignty resides in the nation. It establishes the principles of law as the expression of the general will, equality before the law, presumption of innocence, freedom of opinion, including religious opinion, and of expression, and the separation of powers. Influenced by Enlightenment thought and by American declarations, it did not extend political rights to women or address slavery, omissions challenged at the time by Olympe de Gouges and by abolitionists. It remains part of the French constitution."
+  "description": "The National Constituent Assembly adopted the Declaration on 26 August 1789, after the abolition of feudal privileges, as a preamble to the constitution it was preparing. Its seventeen articles proclaim that men are born and remain free and equal in rights, that the aim of political association is the preservation of the natural rights of liberty, property, security and resistance to oppression, and that sovereignty resides in the nation. It establishes the principles of law as the expression of the general will, equality before the law, presumption of innocence, freedom of opinion, including religious opinion, and of expression, and the separation of powers. Influenced by Enlightenment thought and by American declarations, it did not extend political rights to women or address slavery, omissions challenged at the time by Olympe de Gouges and by abolitionists. It remains part of the French constitution.",
+  "image_file": "Declaration of the Rights of Man and of the Citizen in 1789.jpg",
+  "image_caption": "Jean-Jacques-François Le Barbier, painting of the Declaration, c. 1789 (Musée Carnavalet, Paris)"
  },
  {
   "title": "Declaration of the Rights of Woman and of the Female Citizen",
@@ -627,7 +721,9 @@
   "type": "Pamphlet / declaration",
   "location": "Published in Paris, September 1791",
   "note": "Olympe de Gouges's article-by-article rewriting of the 1789 Declaration to include women.",
-  "description": "In September 1791, as the new constitution was completed, Olympe de Gouges published a pamphlet addressed to Queen Marie Antoinette that rewrote the Declaration of the Rights of Man article by article to apply to women. Its first article declares that woman is born free and remains equal to man in rights. Its tenth article notes that if women have the right to mount the scaffold, they must also have the right to mount the rostrum. She called for equal rights to property and public employment, the right of unmarried mothers to name the fathers of their children, and a new social contract for marriage. The pamphlet had little impact at the time, and its author was guillotined in 1793, but it has become a classic text of feminism."
+  "description": "In September 1791, as the new constitution was completed, Olympe de Gouges published a pamphlet addressed to Queen Marie Antoinette that rewrote the Declaration of the Rights of Man article by article to apply to women. Its first article declares that woman is born free and remains equal to man in rights. Its tenth article notes that if women have the right to mount the scaffold, they must also have the right to mount the rostrum. She called for equal rights to property and public employment, the right of unmarried mothers to name the fathers of their children, and a new social contract for marriage. The pamphlet had little impact at the time, and its author was guillotined in 1793, but it has become a classic text of feminism.",
+  "image_file": "DDFC.jpg",
+  "image_caption": "Page from Olympe de Gouges's Declaration of the Rights of Woman, 1791"
  },
  {
   "title": "Haitian Declaration of Independence",
@@ -637,7 +733,9 @@
   "type": "Declaration",
   "location": "Proclaimed at Gonaïves, 1 January 1804; only known original printed copy in The National Archives, Kew",
   "note": "The proclamation of the independence of Haiti, the first state founded by people who had freed themselves from slavery.",
-  "description": "On 1 January 1804, at Gonaïves, Jean-Jacques Dessalines proclaimed the independence of the former French colony of Saint-Domingue under the Taíno name Haiti. The declaration, written by his secretary Louis Boisrond-Tonnerre, addresses the people of Haiti and urges them to renounce France forever and to defend their liberty to the death, recalling the cruelty of French rule and of Napoleon's attempt to restore slavery. It followed thirteen years of revolution that began with the slave uprising of 1791. Haiti became the second independent republic in the Americas and the first in Latin America, but France and other powers were slow to recognise it, and in 1825 France imposed a crippling indemnity. In 2010 the historian Julia Gaffield found a printed copy of the declaration in the British National Archives, the only known original printing."
+  "description": "On 1 January 1804, at Gonaïves, Jean-Jacques Dessalines proclaimed the independence of the former French colony of Saint-Domingue under the Taíno name Haiti. The declaration, written by his secretary Louis Boisrond-Tonnerre, addresses the people of Haiti and urges them to renounce France forever and to defend their liberty to the death, recalling the cruelty of French rule and of Napoleon's attempt to restore slavery. It followed thirteen years of revolution that began with the slave uprising of 1791. Haiti became the second independent republic in the Americas and the first in Latin America, but France and other powers were slow to recognise it, and in 1825 France imposed a crippling indemnity. In 2010 the historian Julia Gaffield found a printed copy of the declaration in the British National Archives, the only known original printing.",
+  "image_file": "J.-J. Dessalines, Généraux et officiers de l'armée.- Déclaration d'indépendance de Haïti, 1804.png",
+  "image_caption": "The printed Haitian Declaration of Independence, 1804"
  },
  {
   "title": "History of France",
@@ -647,7 +745,9 @@
   "type": "National history (17 volumes)",
   "location": "Written in Paris; published by Hachette and others",
   "note": "Michelet's vast, passionate history of France from its origins to the Revolution, centred on the life of the people.",
-  "description": "Michelet published the first six volumes of his Histoire de France, on the Middle Ages, between 1833 and 1844, using his privileged access to the National Archives. He then interrupted it to write his History of the French Revolution (1847–53), and returned to complete the story from the Renaissance to 1789 in eleven more volumes, finished in 1867. His famous 'Tableau de la France' describes the regions of the country as a living landscape, and his portrait of Joan of Arc as a saint of the people became a national icon. The volumes on the sixteenth century popularised the word Renaissance for the age of rediscovery of the world and of man. Later volumes are more anticlerical and polemical. Michelet's ambition was to resurrect the whole life of the past."
+  "description": "Michelet published the first six volumes of his Histoire de France, on the Middle Ages, between 1833 and 1844, using his privileged access to the National Archives. He then interrupted it to write his History of the French Revolution (1847–53), and returned to complete the story from the Renaissance to 1789 in eleven more volumes, finished in 1867. His famous 'Tableau de la France' describes the regions of the country as a living landscape, and his portrait of Joan of Arc as a saint of the people became a national icon. The volumes on the sixteenth century popularised the word Renaissance for the age of rediscovery of the world and of man. Later volumes are more anticlerical and polemical. Michelet's ambition was to resurrect the whole life of the past.",
+  "image_file": "Histoire de France Michelet Hachette.png",
+  "image_caption": "Cover of a Hachette edition of Michelet's Histoire de France"
  },
  {
   "title": "The History of England from the Accession of James the Second",
@@ -657,7 +757,9 @@
   "type": "History (5 volumes)",
   "location": "Written in London; published by Longman",
   "note": "Macaulay's vivid, Whiggish history of the Glorious Revolution and its aftermath, one of the bestselling histories ever written.",
-  "description": "Macaulay originally planned to carry his history from 1685 to the early nineteenth century, but he managed only the reigns of James II and William III; the fifth volume, edited by his sister, appeared after his death in 1859. The famous third chapter surveys the state of England in 1685, its population, roads, towns and social classes, an early attempt at social history. The narrative portrays James II as a would-be absolutist and William III as the deliverer of English liberties, and the Revolution of 1688 as the foundation of national greatness. The first two volumes sold tens of thousands of copies in Britain and many more in America. It is the classic example of what Butterfield later criticised as the Whig interpretation of history."
+  "description": "Macaulay originally planned to carry his history from 1685 to the early nineteenth century, but he managed only the reigns of James II and William III; the fifth volume, edited by his sister, appeared after his death in 1859. The famous third chapter surveys the state of England in 1685, its population, roads, towns and social classes, an early attempt at social history. The narrative portrays James II as a would-be absolutist and William III as the deliverer of English liberties, and the Revolution of 1688 as the foundation of national greatness. The first two volumes sold tens of thousands of copies in Britain and many more in America. It is the classic example of what Butterfield later criticised as the Whig interpretation of history.",
+  "image_file": "The history of England, from the accession of James the Second (1914) (14596370170).jpg",
+  "image_caption": "Illustrated page from a 1914 edition of Macaulay's History"
  },
  {
   "title": "The French Revolution: A History",
@@ -667,7 +769,9 @@
   "type": "History (3 volumes)",
   "location": "Written in Chelsea, London; published by James Fraser",
   "note": "Carlyle's visionary, present-tense narrative of the French Revolution, rewritten after the first manuscript was burned.",
-  "description": "Carlyle's French Revolution, in three volumes titled The Bastille, The Constitution and The Guillotine, covers events from the death of Louis XV in 1774 to Napoleon's 'whiff of grapeshot' in 1795. In March 1835 the only manuscript of the first volume was accidentally burned at the house of John Stuart Mill, to whom he had lent it, and Carlyle rewrote it from memory. Written largely in the present tense, with exclamations, prophecies and addresses to the characters, it presents the Revolution as a fiery judgment on a decayed aristocratic order. It made Carlyle famous, influenced Dickens's A Tale of Two Cities and remains a literary classic, though not a reliable guide to the facts."
+  "description": "Carlyle's French Revolution, in three volumes titled The Bastille, The Constitution and The Guillotine, covers events from the death of Louis XV in 1774 to Napoleon's 'whiff of grapeshot' in 1795. In March 1835 the only manuscript of the first volume was accidentally burned at the house of John Stuart Mill, to whom he had lent it, and Carlyle rewrote it from memory. Written largely in the present tense, with exclamations, prophecies and addresses to the characters, it presents the Revolution as a fiery judgment on a decayed aristocratic order. It made Carlyle famous, influenced Dickens's A Tale of Two Cities and remains a literary classic, though not a reliable guide to the facts.",
+  "image_file": "Title page of The French Revolution.jpg",
+  "image_caption": "Title page of Carlyle's The French Revolution"
  },
  {
   "title": "On Heroes, Hero-Worship, and the Heroic in History",
@@ -677,7 +781,9 @@
   "type": "Lectures",
   "location": "Delivered in London, 1840; published by James Fraser, 1841",
   "note": "Six lectures in which Carlyle argued that history is the biography of great men.",
-  "description": "In May 1840 Carlyle gave six public lectures in London on the hero as divinity (Odin), prophet (Muhammad), poet (Dante and Shakespeare), priest (Luther and Knox), man of letters (Johnson, Rousseau and Burns) and king (Cromwell and Napoleon). He declared that universal history is at bottom the history of the great men who have worked here. His sympathetic treatment of Muhammad was unusual in Britain at the time. The lectures were enormously popular and gave a name to the 'great man theory' of history, which Herbert Spencer and others criticised for ignoring the social conditions that produce great individuals. Carlyle's later glorification of strong rulers has made the book controversial."
+  "description": "In May 1840 Carlyle gave six public lectures in London on the hero as divinity (Odin), prophet (Muhammad), poet (Dante and Shakespeare), priest (Luther and Knox), man of letters (Johnson, Rousseau and Burns) and king (Cromwell and Napoleon). He declared that universal history is at bottom the history of the great men who have worked here. His sympathetic treatment of Muhammad was unusual in Britain at the time. The lectures were enormously popular and gave a name to the 'great man theory' of history, which Herbert Spencer and others criticised for ignoring the social conditions that produce great individuals. Carlyle's later glorification of strong rulers has made the book controversial.",
+  "image_file": "Title page of Heroes and Hero-Worship.jpg",
+  "image_caption": "Title page of On Heroes, Hero-Worship, and the Heroic in History"
  },
  {
   "title": "Democracy in America",
@@ -687,7 +793,9 @@
   "type": "Political and social analysis (2 volumes)",
   "location": "Written in Paris after travels in the United States in 1831–32; published by Gosselin",
   "note": "Tocqueville's classic study of American democracy as a new social condition of equality and what it meant for liberty.",
-  "description": "After nine months in the United States in 1831–32, Tocqueville published the first volume of De la démocratie en Amérique in 1835 and the second in 1840. The first describes American institutions: townships, federalism, the courts, the press, parties and the power of the majority, which he feared could become a new kind of tyranny. It ends with a long chapter on the three races of America, analysing the destruction of Native Americans and slavery, which he predicted would lead to catastrophe. The second volume asks how equality of conditions shapes ideas, feelings and manners, warning of individualism and of a mild despotism of administration, and praising voluntary associations, local liberty and religion as counterweights. It is still read as the most perceptive book ever written about the United States."
+  "description": "After nine months in the United States in 1831–32, Tocqueville published the first volume of De la démocratie en Amérique in 1835 and the second in 1840. The first describes American institutions: townships, federalism, the courts, the press, parties and the power of the majority, which he feared could become a new kind of tyranny. It ends with a long chapter on the three races of America, analysing the destruction of Native Americans and slavery, which he predicted would lead to catastrophe. The second volume asks how equality of conditions shapes ideas, feelings and manners, warning of individualism and of a mild despotism of administration, and praising voluntary associations, local liberty and religion as counterweights. It is still read as the most perceptive book ever written about the United States.",
+  "image_file": "Democracy in America by Alexis de Tocqueville title page.jpg",
+  "image_caption": "Title page of an early edition of Democracy in America"
  },
  {
   "title": "The Old Regime and the Revolution",
@@ -697,7 +805,9 @@
   "type": "Historical analysis",
   "location": "Written in Paris and Tours; published by Michel Lévy",
   "note": "Tocqueville's archival study arguing that the French Revolution completed the centralisation begun by the monarchy.",
-  "description": "In L'Ancien Régime et la Révolution Tocqueville used provincial archives, especially those of the intendants, to study France before 1789. He argued that the Revolution was less a break than a continuation of trends, above all the centralisation of administration under the absolute monarchy, which had already deprived the nobility of its political role while leaving its privileges, making them hated. He observed that revolutions tend to come not when conditions are at their worst but when a bad government begins to reform. The book was planned as the first part of a larger work that his death prevented. It is a pioneering example of archival social and administrative history."
+  "description": "In L'Ancien Régime et la Révolution Tocqueville used provincial archives, especially those of the intendants, to study France before 1789. He argued that the Revolution was less a break than a continuation of trends, above all the centralisation of administration under the absolute monarchy, which had already deprived the nobility of its political role while leaving its privileges, making them hated. He observed that revolutions tend to come not when conditions are at their worst but when a bad government begins to reform. The book was planned as the first part of a larger work that his death prevented. It is a pioneering example of archival social and administrative history.",
+  "image_file": "Alexis de Tocqueville - L'Ancien Régime et la Révolution, Lévy, 1866.djvu",
+  "image_caption": "L'Ancien Régime et la Révolution, Michel Lévy edition, 1866"
  },
  {
   "title": "Declaration of Sentiments",
@@ -707,7 +817,9 @@
   "type": "Declaration",
   "location": "Adopted at the Seneca Falls Convention, New York, July 1848",
   "note": "The founding manifesto of the American women's rights movement, modelled on the Declaration of Independence.",
-  "description": "The Declaration of Sentiments, drafted mainly by Elizabeth Cady Stanton, was adopted at the first women's rights convention, held at the Wesleyan Chapel in Seneca Falls, New York, on 19–20 July 1848. Deliberately echoing the Declaration of Independence, it declared that all men and women are created equal, and listed the injuries inflicted on women: denial of the vote, of property rights for married women, of education and professions, and of equality in church and law. It was followed by resolutions, of which the demand for the vote was the most controversial and passed only after Frederick Douglass spoke in support. It was signed by sixty-eight women and thirty-two men. The convention launched the organised movement that eventually won women's suffrage."
+  "description": "The Declaration of Sentiments, drafted mainly by Elizabeth Cady Stanton, was adopted at the first women's rights convention, held at the Wesleyan Chapel in Seneca Falls, New York, on 19–20 July 1848. Deliberately echoing the Declaration of Independence, it declared that all men and women are created equal, and listed the injuries inflicted on women: denial of the vote, of property rights for married women, of education and professions, and of equality in church and law. It was followed by resolutions, of which the demand for the vote was the most controversial and passed only after Frederick Douglass spoke in support. It was signed by sixty-eight women and thirty-two men. The convention launched the organised movement that eventually won women's suffrage.",
+  "image_file": "Woman's Rights Convention.jpg",
+  "image_caption": "Newspaper notice calling the Woman's Rights Convention at Seneca Falls, July 1848"
  },
  {
   "title": "The Communist Manifesto",
@@ -717,7 +829,9 @@
   "type": "Political manifesto",
   "location": "Written in Brussels with Friedrich Engels; first printed in London, February 1848",
   "note": "Marx and Engels's short programme for the Communist League, which presents history as the history of class struggles.",
-  "description": "The Manifest der Kommunistischen Partei was commissioned by the Communist League, a small group of German émigré workers, and written by Marx with Friedrich Engels in Brussels at the turn of 1847–48; it was printed in London in February 1848, just as revolution broke out across Europe. It opens by declaring that a spectre is haunting Europe and that the history of all hitherto existing society is the history of class struggles. It describes the bourgeoisie as a revolutionary class that has transformed the world through capitalism, and predicts that the proletariat it has created will overthrow it, abolishing private property in the means of production. It ends with a call for workers of all countries to unite. Little noticed at first, it became one of the most widely read political documents in history, and it is admired by some and condemned by others for what was done in its name."
+  "description": "The Manifest der Kommunistischen Partei was commissioned by the Communist League, a small group of German émigré workers, and written by Marx with Friedrich Engels in Brussels at the turn of 1847–48; it was printed in London in February 1848, just as revolution broke out across Europe. It opens by declaring that a spectre is haunting Europe and that the history of all hitherto existing society is the history of class struggles. It describes the bourgeoisie as a revolutionary class that has transformed the world through capitalism, and predicts that the proletariat it has created will overthrow it, abolishing private property in the means of production. It ends with a call for workers of all countries to unite. Little noticed at first, it became one of the most widely read political documents in history, and it is admired by some and condemned by others for what was done in its name.",
+  "image_file": "Communist-manifesto.png",
+  "image_caption": "Cover of the first edition, London, February 1848"
  },
  {
   "title": "The Eighteenth Brumaire of Louis Bonaparte",
@@ -727,7 +841,9 @@
   "type": "Contemporary history / political analysis",
   "location": "Written in London; first published in New York in the journal Die Revolution",
   "note": "Marx's analysis of the coup by Louis-Napoleon Bonaparte in 1851, opening with the remark that history repeats itself, first as tragedy, then as farce.",
-  "description": "Written between December 1851 and March 1852, immediately after Louis-Napoleon's coup d'état, this essay analyses the French revolution of 1848 and its collapse into a new Bonapartist dictatorship. Marx famously observes that men make their own history, but not under circumstances of their own choosing, and that history happens twice, the first time as tragedy, the second as farce. He traces the shifting alliances of classes and parties and explains how Louis-Napoleon could rise by balancing between them, with the support of the small-holding peasantry. It is considered his most brilliant piece of historical writing and a classic of political analysis."
+  "description": "Written between December 1851 and March 1852, immediately after Louis-Napoleon's coup d'état, this essay analyses the French revolution of 1848 and its collapse into a new Bonapartist dictatorship. Marx famously observes that men make their own history, but not under circumstances of their own choosing, and that history happens twice, the first time as tragedy, the second as farce. He traces the shifting alliances of classes and parties and explains how Louis-Napoleon could rise by balancing between them, with the support of the small-holding peasantry. It is considered his most brilliant piece of historical writing and a classic of political analysis.",
+  "image_file": "Marx EighteenthBrumaire.JPG",
+  "image_caption": "Cover of an early edition of The Eighteenth Brumaire"
  },
  {
   "title": "Emancipation Proclamation",
@@ -737,7 +853,9 @@
   "type": "Executive order",
   "location": "Signed in Washington, D.C., 1 January 1863; original in the National Archives",
   "note": "Lincoln's wartime order declaring enslaved people in the rebelling Confederate states to be free.",
-  "description": "Lincoln issued a preliminary proclamation after the battle of Antietam in September 1862 and signed the final proclamation on 1 January 1863. Issued as a war measure under his powers as commander-in-chief, it declared that all persons held as slaves in areas then in rebellion against the United States were and henceforward shall be free. It did not apply to slave states loyal to the Union or to Union-occupied areas, so it freed few people immediately, but every advance of Union armies thereafter brought freedom, and it authorised the enlistment of Black soldiers, nearly 200,000 of whom served. It transformed the war into a war against slavery and deterred European recognition of the Confederacy. Slavery was abolished throughout the United States by the Thirteenth Amendment in 1865."
+  "description": "Lincoln issued a preliminary proclamation after the battle of Antietam in September 1862 and signed the final proclamation on 1 January 1863. Issued as a war measure under his powers as commander-in-chief, it declared that all persons held as slaves in areas then in rebellion against the United States were and henceforward shall be free. It did not apply to slave states loyal to the Union or to Union-occupied areas, so it freed few people immediately, but every advance of Union armies thereafter brought freedom, and it authorised the enlistment of Black soldiers, nearly 200,000 of whom served. It transformed the war into a war against slavery and deterred European recognition of the Confederacy. Slavery was abolished throughout the United States by the Thirteenth Amendment in 1865.",
+  "image_file": "Emancipation Proclamation, 01-01-1863 (Page 1 of 5) (3695343876).jpg",
+  "image_caption": "First page of the Emancipation Proclamation, 1 January 1863 (National Archives)"
  },
  {
   "title": "Gettysburg Address",
@@ -747,7 +865,9 @@
   "type": "Speech",
   "location": "Delivered at the Soldiers' National Cemetery, Gettysburg, Pennsylvania, 19 November 1863; five autograph copies survive, including in the Library of Congress",
   "note": "Lincoln's 272-word speech at Gettysburg redefining the Civil War as a struggle for equality and government by the people.",
-  "description": "Lincoln spoke at the dedication of the national cemetery at Gettysburg, four and a half months after the battle, following a two-hour oration by Edward Everett. In about two minutes he recalled that the nation had been conceived in liberty and dedicated to the proposition that all men are created equal, said that the living could not consecrate the ground that the dead had already hallowed, and called for a new birth of freedom so that government of the people, by the people, for the people shall not perish from the earth. Newspaper reactions divided along party lines. Five manuscript copies in Lincoln's hand survive, which differ slightly; the Bliss copy is the one usually reproduced. The address became one of the most quoted speeches in history."
+  "description": "Lincoln spoke at the dedication of the national cemetery at Gettysburg, four and a half months after the battle, following a two-hour oration by Edward Everett. In about two minutes he recalled that the nation had been conceived in liberty and dedicated to the proposition that all men are created equal, said that the living could not consecrate the ground that the dead had already hallowed, and called for a new birth of freedom so that government of the people, by the people, for the people shall not perish from the earth. Newspaper reactions divided along party lines. Five manuscript copies in Lincoln's hand survive, which differ slightly; the Bliss copy is the one usually reproduced. The address became one of the most quoted speeches in history.",
+  "image_file": "Gettysburg Address Bliss copy.jpg",
+  "image_caption": "The Bliss copy of the Gettysburg Address in Lincoln's hand"
  },
  {
   "title": "Histories of the Latin and Germanic Peoples, 1494–1514",
@@ -797,7 +917,9 @@
   "type": "Cultural history",
   "location": "Written in Basel; published by Schweighauser, Basel",
   "note": "Burckhardt's essay portraying Renaissance Italy as the birthplace of the modern individual, the founding work of cultural history.",
-  "description": "Die Kultur der Renaissance in Italien, published in 1860, is organised not as a narrative but in six thematic parts: the state as a work of art, the development of the individual, the revival of antiquity, the discovery of the world and of man, society and festivals, and morality and religion. Burckhardt argued that in Italy the medieval veil of faith and illusion first melted away, so that people became conscious of themselves as individuals. He drew on chronicles, letters, poetry and biographies rather than archives of state. The book created the modern image of the Renaissance, and much later scholarship, stressing medieval continuities and the role of northern Europe, has been a dialogue with it. Burckhardt himself called it simply an essay."
+  "description": "Die Kultur der Renaissance in Italien, published in 1860, is organised not as a narrative but in six thematic parts: the state as a work of art, the development of the individual, the revival of antiquity, the discovery of the world and of man, society and festivals, and morality and religion. Burckhardt argued that in Italy the medieval veil of faith and illusion first melted away, so that people became conscious of themselves as individuals. He drew on chronicles, letters, poetry and biographies rather than archives of state. The book created the modern image of the Renaissance, and much later scholarship, stressing medieval continuities and the role of northern Europe, has been a dialogue with it. Burckhardt himself called it simply an essay.",
+  "image_file": "Die Kultur der Renaissance in Italien.jpg",
+  "image_caption": "Title page of Die Kultur der Renaissance in Italien"
  },
  {
   "title": "The Significance of the Frontier in American History",
@@ -817,7 +939,9 @@
   "type": "Essays",
   "location": "Published in Chicago by A. C. McClurg",
   "note": "Du Bois's collection of essays on Black life in America after slavery, which introduced the idea of 'double consciousness'.",
-  "description": "The Souls of Black Folk gathers fourteen essays, several previously published, that combine history, sociology, autobiography and fiction. Du Bois declares that the problem of the twentieth century is the problem of the colour line and describes the 'double consciousness' of Black Americans, always seeing themselves through the eyes of others. Chapters examine the Freedmen's Bureau and Reconstruction, criticise Booker T. Washington's strategy of accommodation, describe rural Georgia and the death of Du Bois's infant son, and celebrate the 'sorrow songs', the spirituals, with musical epigraphs heading each chapter. The book was a landmark in African American literature and political thought and helped inspire the civil-rights movement."
+  "description": "The Souls of Black Folk gathers fourteen essays, several previously published, that combine history, sociology, autobiography and fiction. Du Bois declares that the problem of the twentieth century is the problem of the colour line and describes the 'double consciousness' of Black Americans, always seeing themselves through the eyes of others. Chapters examine the Freedmen's Bureau and Reconstruction, criticise Booker T. Washington's strategy of accommodation, describe rural Georgia and the death of Du Bois's infant son, and celebrate the 'sorrow songs', the spirituals, with musical epigraphs heading each chapter. The book was a landmark in African American literature and political thought and helped inspire the civil-rights movement.",
+  "image_file": "The Souls of Black Folk dust jacket cover.jpg",
+  "image_caption": "Dust jacket of The Souls of Black Folk, A. C. McClurg, 1903"
  },
  {
   "title": "Black Reconstruction in America",
@@ -837,7 +961,9 @@
   "type": "Cultural history",
   "location": "Written in Leiden; first published in Haarlem by H. D. Tjeenk Willink",
   "note": "Huizinga's portrait of life, thought and art in fourteenth- and fifteenth-century France and Burgundy as an age of ripeness and decline.",
-  "description": "Herfsttij der Middeleeuwen, published in 1919 and first translated into English as The Waning of the Middle Ages in 1924, began from Huizinga's wish to understand the painting of Jan van Eyck and his contemporaries. He found in the culture of the Burgundian court and its world not the dawn of the Renaissance but the overripe end of the Middle Ages: violent contrasts of emotion, elaborate rituals of chivalry and love, obsession with death, and a tendency to give every thought a visible form. He drew on chronicles, poetry, sermons and art. The book's evocative style and focus on sensibility made it a classic of cultural history and an ancestor of the history of mentalities."
+  "description": "Herfsttij der Middeleeuwen, published in 1919 and first translated into English as The Waning of the Middle Ages in 1924, began from Huizinga's wish to understand the painting of Jan van Eyck and his contemporaries. He found in the culture of the Burgundian court and its world not the dawn of the Renaissance but the overripe end of the Middle Ages: violent contrasts of emotion, elaborate rituals of chivalry and love, obsession with death, and a tendency to give every thought a visible form. He drew on chronicles, poetry, sermons and art. The book's evocative style and focus on sensibility made it a classic of cultural history and an ancestor of the history of mentalities.",
+  "image_file": "Herfsttij der Middeleeuwen kaft.gif",
+  "image_caption": "Cover of Herfsttij der Middeleeuwen"
  },
  {
   "title": "Homo Ludens",

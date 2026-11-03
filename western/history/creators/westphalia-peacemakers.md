@@ -16,6 +16,10 @@ Negotiations dragged on for five years while fighting continued. The resulting t
 
 ### Peace of Westphalia (1648)
 
+[![Peace of Westphalia](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/The_Ratification_of_the_Treaty_of_Munster%2C_Gerard_Ter_Borch_%281648%29.jpg/1280px-The_Ratification_of_the_Treaty_of_Munster%2C_Gerard_Ter_Borch_%281648%29.jpg)](https://commons.wikimedia.org/wiki/File:The_Ratification_of_the_Treaty_of_Munster%2C_Gerard_Ter_Borch_%281648%29.jpg)
+
+<sub>Gerard ter Borch, The Ratification of the Treaty of Münster, 15 May 1648 (National Gallery, London) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_Ratification_of_the_Treaty_of_Munster%2C_Gerard_Ter_Borch_%281648%29.jpg).</sub>
+
 - **Date:** 1648
 - **Type:** Peace treaties
 - **Written / held:** Signed at Münster and Osnabrück; originals in national archives, including Vienna, Paris and Stockholm

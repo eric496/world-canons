@@ -16,6 +16,10 @@ Writing year by year in Old English, rather than in Latin, the chroniclers creat
 
 ### Anglo-Saxon Chronicle (late 9th century – 1154)
 
+[![Anglo-Saxon Chronicle](https://upload.wikimedia.org/wikipedia/commons/9/9d/Peterborough.Chronicle.firstpage.jpg)](https://commons.wikimedia.org/wiki/File:Peterborough.Chronicle.firstpage.jpg)
+
+<sub>First page of the Peterborough Chronicle (Bodleian Library, MS Laud Misc. 636) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Peterborough.Chronicle.firstpage.jpg).</sub>
+
 - **Date:** late 9th century – 1154
 - **Type:** Annals in Old English
 - **Written / held:** Compiled in Wessex and continued in several English monasteries; manuscripts in the British Library, Bodleian Library, and Corpus Christi College, Cambridge

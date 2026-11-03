@@ -1,11 +1,15 @@
 # Karl Marx
 
+<a href="https://commons.wikimedia.org/wiki/File:Karl_Marx%2C_Chef_de_l%27Internationale.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Karl_Marx%2C_Chef_de_l%27Internationale.jpg" alt="Karl Marx" title="Printed portrait of Karl Marx as 'chef de l'Internationale', c. 1871"></a>
+
 **1818 – 1883** · German  
 Born: Trier, Kingdom of Prussia · Died: London  
 Traditions & eras: [Reform, emancipation & revolution](../movements/nineteenth-century-documents.md)  
 Also in: [Philosophy](../../philosophy/eras/04-19th-century/karl-marx.md)  
 
 > Philosopher, economist and revolutionary, Marx co-wrote The Communist Manifesto and developed a materialist theory of history centred on class struggle.
+
+<sub>Portrait: Printed portrait of Karl Marx as 'chef de l'Internationale', c. 1871 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Karl_Marx%2C_Chef_de_l%27Internationale.jpg)</sub>
 
 ## Biography
 
@@ -20,6 +24,10 @@ Marx argued that the way societies produce their material life shapes their poli
 
 ### The Communist Manifesto (1848)
 
+[![The Communist Manifesto](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Communist-manifesto.png/960px-Communist-manifesto.png)](https://commons.wikimedia.org/wiki/File:Communist-manifesto.png)
+
+<sub>Cover of the first edition, London, February 1848 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Communist-manifesto.png).</sub>
+
 - **Date:** 1848
 - **Type:** Political manifesto
 - **Written / held:** Written in Brussels with Friedrich Engels; first printed in London, February 1848
@@ -28,6 +36,10 @@ Marx argued that the way societies produce their material life shapes their poli
 The Manifest der Kommunistischen Partei was commissioned by the Communist League, a small group of German émigré workers, and written by Marx with Friedrich Engels in Brussels at the turn of 1847–48; it was printed in London in February 1848, just as revolution broke out across Europe. It opens by declaring that a spectre is haunting Europe and that the history of all hitherto existing society is the history of class struggles. It describes the bourgeoisie as a revolutionary class that has transformed the world through capitalism, and predicts that the proletariat it has created will overthrow it, abolishing private property in the means of production. It ends with a call for workers of all countries to unite. Little noticed at first, it became one of the most widely read political documents in history, and it is admired by some and condemned by others for what was done in its name.
 
 ### The Eighteenth Brumaire of Louis Bonaparte (1852)
+
+[![The Eighteenth Brumaire of Louis Bonaparte](https://upload.wikimedia.org/wikipedia/commons/8/8a/Marx_EighteenthBrumaire.JPG)](https://commons.wikimedia.org/wiki/File:Marx_EighteenthBrumaire.JPG)
+
+<sub>Cover of an early edition of The Eighteenth Brumaire Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Marx_EighteenthBrumaire.JPG).</sub>
 
 - **Date:** 1852
 - **Type:** Contemporary history / political analysis

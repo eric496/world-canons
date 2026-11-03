@@ -1,10 +1,14 @@
 # Constitutional Convention
 
+<a href="https://commons.wikimedia.org/wiki/File:Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg/330px-Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg" alt="Constitutional Convention" title="Howard Chandler Christy, Scene at the Signing of the Constitution of the United States, 1940 (US Capitol)"></a>
+
 **1787 – 1787** · American  
 Born: Philadelphia, Pennsylvania · Died: Philadelphia  
 Traditions & eras: [Age of Revolutions documents](../movements/revolutionary-documents.md)  
 
 > The 55 delegates from twelve states who met in Philadelphia in 1787 and drafted the Constitution of the United States.
+
+<sub>Portrait: Howard Chandler Christy, Scene at the Signing of the Constitution of the United States, 1940 (US Capitol) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ The delegates worked in secret, and our knowledge of their debates comes largely
 ## Key histories & documents
 
 ### Constitution of the United States (1787)
+
+[![Constitution of the United States](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_%28page_1%29.jpg/1280px-Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_%28page_1%29.jpg)](https://commons.wikimedia.org/wiki/File:Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_%28page_1%29.jpg)
+
+<sub>First page of the signed Constitution, 1787 (National Archives, Washington) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_%28page_1%29.jpg).</sub>
 
 - **Date:** 1787
 - **Type:** Constitution

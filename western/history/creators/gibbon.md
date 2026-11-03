@@ -1,10 +1,14 @@
 # Edward Gibbon
 
+<a href="https://commons.wikimedia.org/wiki/File:Edward_Gibbon_by_Henry_Walton_cleaned.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Edward_Gibbon_by_Henry_Walton_cleaned.jpg/330px-Edward_Gibbon_by_Henry_Walton_cleaned.jpg" alt="Edward Gibbon" title="Henry Walton, portrait of Edward Gibbon, 1773 (National Portrait Gallery, London)"></a>
+
 **1737 – 1794** · English  
 Born: Putney, Surrey, England · Died: London  
 Traditions & eras: [Enlightenment history](../movements/enlightenment-history.md)  
 
 > Gibbon's History of the Decline and Fall of the Roman Empire is widely regarded as the greatest work of history in the English language.
+
+<sub>Portrait: Henry Walton, portrait of Edward Gibbon, 1773 (National Portrait Gallery, London) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edward_Gibbon_by_Henry_Walton_cleaned.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ The Decline and Fall, published in six volumes from 1776 to 1789, covers thirtee
 ## Key histories & documents
 
 ### The History of the Decline and Fall of the Roman Empire (1776–1789)
+
+[![The History of the Decline and Fall of the Roman Empire](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Decline_and_Fall_of_the_Roman_Empire_vol_1_%281777%29.djvu/page1-960px-Decline_and_Fall_of_the_Roman_Empire_vol_1_%281777%29.djvu.jpg)](https://commons.wikimedia.org/wiki/File:Decline_and_Fall_of_the_Roman_Empire_vol_1_%281777%29.djvu)
+
+<sub>Volume 1 of The Decline and Fall, 1777 edition Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Decline_and_Fall_of_the_Roman_Empire_vol_1_%281777%29.djvu).</sub>
 
 - **Date:** 1776–1789
 - **Type:** History (6 volumes)

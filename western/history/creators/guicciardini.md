@@ -1,10 +1,14 @@
 # Francesco Guicciardini
 
+<a href="https://commons.wikimedia.org/wiki/File:Ritratto_di_Francesco_Guicciardini.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Ritratto_di_Francesco_Guicciardini.jpg" alt="Francesco Guicciardini" title="Portrait of Francesco Guicciardini"></a>
+
 **1483 – 1540** · Italian (Florentine)  
 Born: Florence · Died: Arcetri, near Florence  
 Traditions & eras: [Renaissance humanist history](../movements/renaissance-history.md)  
 
 > A Florentine statesman and friend of Machiavelli, Guicciardini wrote the History of Italy, a masterpiece of political analysis based on documents and experience.
+
+<sub>Portrait: Portrait of Francesco Guicciardini · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ritratto_di_Francesco_Guicciardini.jpg)</sub>
 
 ## Biography
 

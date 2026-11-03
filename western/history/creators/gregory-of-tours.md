@@ -1,10 +1,14 @@
 # Gregory of Tours
 
+<a href="https://commons.wikimedia.org/wiki/File:Gregory_of_Tours_cour_Napoleon_Louvre.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Gregory_of_Tours_cour_Napoleon_Louvre.jpg/330px-Gregory_of_Tours_cour_Napoleon_Louvre.jpg" alt="Gregory of Tours" title="Statue of Gregory of Tours, Cour Napoléon, Louvre, Paris (19th century)"></a>
+
 **c. 538 – 594** · Gallo-Roman  
 Born: Clermont, Gaul (now Clermont-Ferrand, France) · Died: Tours  
 Traditions & eras: [Late antique & church history](../movements/church-history.md)  
 
 > Bishop of Tours, Gregory wrote the History of the Franks, the chief source for the early Merovingian kingdoms.
+
+<sub>Portrait: Statue of Gregory of Tours, Cour Napoléon, Louvre, Paris (19th century) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gregory_of_Tours_cour_Napoleon_Louvre.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Gregory's Ten Books of Histories run from the Creation to 591, but most of them 
 ## Key histories & documents
 
 ### History of the Franks (Ten Books of Histories) (c. 575–594)
+
+[![History of the Franks (Ten Books of Histories)](https://upload.wikimedia.org/wikipedia/commons/0/0a/Gr%C3%A9goire_de_Tours_Historia_Francorum_Fol._79v_initiale_orn%C3%A9e_A.jpg)](https://commons.wikimedia.org/wiki/File:Gr%C3%A9goire_de_Tours_Historia_Francorum_Fol._79v_initiale_orn%C3%A9e_A.jpg)
+
+<sub>Decorated initial from a medieval manuscript of Gregory's Histories, fol. 79v Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Gr%C3%A9goire_de_Tours_Historia_Francorum_Fol._79v_initiale_orn%C3%A9e_A.jpg).</sub>
 
 - **Date:** c. 575–594
 - **Type:** Chronicle / history (10 books)
