@@ -1,0 +1,9 @@
+## About this section
+
+**Scope.** The section covers the religions that shaped the Western tradition most directly: the civic and mystery cults of Greece and Rome, Judaism from the Hebrew Bible through rabbinic, medieval and modern thought, and Christianity in its Catholic, Orthodox and Protestant branches. Islam and the religions of Asia belong to other traditions in this repository. Some important works are left out because they appear in sibling sections, for example Dante, Milton and Bach (literature and music) and Spinoza (philosophy).
+
+**Neutrality.** Entries describe beliefs and practices as their communities hold them and set out what historians and biblical scholars think, side by side. Where tradition names an author, for example Moses for the Torah, the apostles for the Gospels, or Shimon bar Yochai for the Zohar, the entry gives both the traditional attribution and the main scholarly views, and points out where scholars disagree. Nothing here is meant to argue for or against any faith. Hard parts of the record, such as anti-Jewish writing by Christian authors or a theologian's slaveholding, are mentioned plainly where they matter.
+
+**Collective authors.** Many religious texts have no single author. These works are listed under collective entries such as *Authors and editors of the Hebrew Bible*, *The Evangelists*, *The Masoretes*, *Sages of the Talmud*, *Insular monastic scribes*, *Church councils and synods* and *Translators of the King James Bible*.
+
+**Images.** Pictures are manuscripts, early printed editions, icons, mosaics and public-domain painted or engraved portraits. Many early figures appear in portraits made long after their deaths, which are imagined likenesses. Twentieth-century figures known only from photographs have no portrait, and works still under copyright are described but not shown.
