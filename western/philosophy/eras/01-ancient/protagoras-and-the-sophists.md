@@ -1,5 +1,11 @@
 # Protagoras and the Sophists
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Ribera_-_Protagoras%2C_1637.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Ribera_-_Protagoras%2C_1637.jpg" alt="Protagoras and the Sophists" title="Jusepe de Ribera, Protagoras, 1637"></a>
+
+<sub>Portrait: Jusepe de Ribera, Protagoras, 1637 · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

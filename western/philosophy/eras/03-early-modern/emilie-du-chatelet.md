@@ -1,5 +1,11 @@
 # Émilie du Châtelet
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Emilie_Chatelet_portrait_by_Latour.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Emilie_Chatelet_portrait_by_Latour.jpg" alt="Émilie du Châtelet" title="Portrait of Émilie du Châtelet, after Maurice Quentin de La Tour"></a>
+
+<sub>Portrait: Portrait of Émilie du Châtelet, after Maurice Quentin de La Tour · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

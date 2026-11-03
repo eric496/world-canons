@@ -1,5 +1,11 @@
 # Zeno of Elea
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Portretbuste_van_Zeno_van_Elea_Paradigmata_graphices_variorum_artificum_%28serietitel%29%2C_RP-P-1907-4495.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Portretbuste_van_Zeno_van_Elea_Paradigmata_graphices_variorum_artificum_%28serietitel%29%2C_RP-P-1907-4495.jpg/330px-Portretbuste_van_Zeno_van_Elea_Paradigmata_graphices_variorum_artificum_%28serietitel%29%2C_RP-P-1907-4495.jpg" alt="Zeno of Elea" title="Engraving of a bust of Zeno of Elea, from Paradigmata graphices variorum artificum (Rijksmuseum)"></a>
+
+<sub>Portrait: Engraving of a bust of Zeno of Elea, from Paradigmata graphices variorum artificum (Rijksmuseum) · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

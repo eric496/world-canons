@@ -1,5 +1,11 @@
 # Plato
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.png"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/330px-Plato_Silanion_Musei_Capitolini_MC1377.png" alt="Plato" title="Roman copy of Silanion's portrait of Plato, c. 370 BC, Capitoline Museums"></a>
+
+<sub>Portrait: Roman copy of Silanion's portrait of Plato, c. 370 BC, Capitoline Museums · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

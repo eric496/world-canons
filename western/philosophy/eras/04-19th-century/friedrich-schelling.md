@@ -1,5 +1,11 @@
 # Friedrich Schelling
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Nb_pinacoteca_stieler_friedrich_wilhelm_joseph_von_schelling.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Nb_pinacoteca_stieler_friedrich_wilhelm_joseph_von_schelling.jpg" alt="Friedrich Schelling" title="Joseph Karl Stieler, portrait of Friedrich Schelling, 1835, Neue Pinakothek, Munich"></a>
+
+<sub>Portrait: Joseph Karl Stieler, portrait of Friedrich Schelling, 1835, Neue Pinakothek, Munich · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

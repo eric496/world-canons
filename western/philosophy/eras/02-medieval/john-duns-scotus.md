@@ -1,5 +1,11 @@
 # John Duns Scotus
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Scoto_%28Duns_Scoto%29.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Scoto_%28Duns_Scoto%29.jpg/330px-Scoto_%28Duns_Scoto%29.jpg" alt="John Duns Scotus" title="Imagined portrait of John Duns Scotus, 15th century"></a>
+
+<sub>Portrait: Imagined portrait of John Duns Scotus, 15th century · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

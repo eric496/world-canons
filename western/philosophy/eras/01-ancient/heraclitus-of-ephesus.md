@@ -1,5 +1,11 @@
 # Heraclitus of Ephesus
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Heraclitus_b_4_compressed.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Heraclitus_b_4_compressed.jpg" alt="Heraclitus of Ephesus" title="Heraclitus, an imagined likeness in a later artwork"></a>
+
+<sub>Portrait: Heraclitus, an imagined likeness in a later artwork · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

@@ -1,5 +1,11 @@
 # Nicholas of Cusa
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Nicholas_of_Cusa.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Nicholas_of_Cusa.jpg" alt="Nicholas of Cusa" title="Nicholas of Cusa, detail of an altarpiece in the hospital chapel at Kues"></a>
+
+<sub>Portrait: Nicholas of Cusa, detail of an altarpiece in the hospital chapel at Kues · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

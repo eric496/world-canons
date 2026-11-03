@@ -1,5 +1,11 @@
 # Søren Kierkegaard
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg" alt="Søren Kierkegaard" title="Sketch of Søren Kierkegaard by his cousin Niels Christian Kierkegaard, c. 1840"></a>
+
+<sub>Portrait: Sketch of Søren Kierkegaard by his cousin Niels Christian Kierkegaard, c. 1840 · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

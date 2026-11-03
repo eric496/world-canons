@@ -1,5 +1,11 @@
 # Democritus of Abdera
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Unknown_greek_pushkin.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Unknown_greek_pushkin.jpg" alt="Democritus" title="Ancient Greek portrait bust identified as Democritus (cast in the Pushkin Museum, Moscow)"></a>
+
+<sub>Portrait: Ancient Greek portrait bust identified as Democritus (cast in the Pushkin Museum, Moscow) · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

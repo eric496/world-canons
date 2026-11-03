@@ -1,5 +1,11 @@
 # Pyrrho of Elis & the Skeptics
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Pyrrho_Heliensis_-_Illustrium_philosophorum_et_sapientum_effigies_ab_eorum_numistatibus_extractae.png"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Pyrrho_Heliensis_-_Illustrium_philosophorum_et_sapientum_effigies_ab_eorum_numistatibus_extractae.png" alt="Pyrrho of Elis and the Skeptics" title="Pyrrho, from Illustrium philosophorum et sapientum effigies, 16th century"></a>
+
+<sub>Portrait: Pyrrho, from Illustrium philosophorum et sapientum effigies, 16th century · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

@@ -1,5 +1,11 @@
 # Mary Wollstonecraft
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Mary_Wollstonecraft_Portrait.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mary_Wollstonecraft_Portrait.jpg/330px-Mary_Wollstonecraft_Portrait.jpg" alt="Mary Wollstonecraft" title="Portrait of Mary Wollstonecraft, late 18th century"></a>
+
+<sub>Portrait: Portrait of Mary Wollstonecraft, late 18th century · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

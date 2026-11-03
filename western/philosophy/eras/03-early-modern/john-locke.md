@@ -1,5 +1,11 @@
 # John Locke
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Godfrey_Kneller_-_Portrait_of_John_Locke_%28Hermitage%29.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Godfrey_Kneller_-_Portrait_of_John_Locke_%28Hermitage%29.jpg/330px-Godfrey_Kneller_-_Portrait_of_John_Locke_%28Hermitage%29.jpg" alt="John Locke" title="Godfrey Kneller, portrait of John Locke, 1697, Hermitage Museum"></a>
+
+<sub>Portrait: Godfrey Kneller, portrait of John Locke, 1697, Hermitage Museum · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

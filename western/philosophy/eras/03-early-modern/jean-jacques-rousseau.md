@@ -1,5 +1,11 @@
 # Jean-Jacques Rousseau
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg/330px-Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg" alt="Jean-Jacques Rousseau" title="Maurice Quentin de La Tour, portrait of Jean-Jacques Rousseau, 1753"></a>
+
+<sub>Portrait: Maurice Quentin de La Tour, portrait of Jean-Jacques Rousseau, 1753 · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

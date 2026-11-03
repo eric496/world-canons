@@ -1,5 +1,11 @@
 # Thomas Hobbes
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Thomas_Hobbes_by_John_Michael_Wright_%28colour%29_%283x4_cropped%29.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Thomas_Hobbes_by_John_Michael_Wright_%28colour%29_%283x4_cropped%29.jpg/330px-Thomas_Hobbes_by_John_Michael_Wright_%28colour%29_%283x4_cropped%29.jpg" alt="Thomas Hobbes" title="John Michael Wright, portrait of Thomas Hobbes, c. 1669–70, National Portrait Gallery, London"></a>
+
+<sub>Portrait: John Michael Wright, portrait of Thomas Hobbes, c. 1669–70, National Portrait Gallery, London · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

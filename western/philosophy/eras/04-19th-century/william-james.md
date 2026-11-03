@@ -1,5 +1,11 @@
 # William James
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:John_La_Farge_-_Portrait_of_William_James_%28c._1859%29.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/John_La_Farge_-_Portrait_of_William_James_%28c._1859%29.jpg/330px-John_La_Farge_-_Portrait_of_William_James_%28c._1859%29.jpg" alt="William James" title="John La Farge, portrait of the young William James, c. 1859"></a>
+
+<sub>Portrait: John La Farge, portrait of the young William James, c. 1859 · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

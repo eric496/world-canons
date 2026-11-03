@@ -1,5 +1,11 @@
 # David Hume
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:David_Hume_Ramsay.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/David_Hume_Ramsay.jpg/330px-David_Hume_Ramsay.jpg" alt="David Hume" title="Allan Ramsay, portrait of David Hume, 1766, Scottish National Portrait Gallery"></a>
+
+<sub>Portrait: Allan Ramsay, portrait of David Hume, 1766, Scottish National Portrait Gallery · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

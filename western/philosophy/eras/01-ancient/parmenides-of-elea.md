@@ -1,5 +1,11 @@
 # Parmenides of Elea
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Busto_di_Parmenide_%28cropped%29.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Busto_di_Parmenide_%28cropped%29.jpg/330px-Busto_di_Parmenide_%28cropped%29.jpg" alt="Parmenides of Elea" title="Portrait head of Parmenides found at Velia (ancient Elea), 1st century AD"></a>
+
+<sub>Portrait: Portrait head of Parmenides found at Velia (ancient Elea), 1st century AD · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

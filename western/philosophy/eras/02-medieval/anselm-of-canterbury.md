@@ -1,5 +1,11 @@
 # Anselm of Canterbury
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Anselm_of_Canterbury%2C_seal.svg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Anselm_of_Canterbury%2C_seal.svg/330px-Anselm_of_Canterbury%2C_seal.svg.png" alt="Anselm of Canterbury" title="Anselm of Canterbury on his archiepiscopal seal (drawing)"></a>
+
+<sub>Portrait: Anselm of Canterbury on his archiepiscopal seal (drawing) · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

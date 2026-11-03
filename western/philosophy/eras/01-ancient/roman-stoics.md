@@ -1,5 +1,13 @@
 # The Roman Stoics: Seneca, Epictetus, Marcus Aurelius
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg/330px-Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg" alt="Seneca" title="Roman double herm of Socrates and Seneca, 3rd century AD, Antikensammlung Berlin"></a>
+<a href="https://commons.wikimedia.org/wiki/File:Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg/330px-Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg" alt="Epictetus" title="Imagined portrait of Epictetus, frontispiece to an edition of the Enchiridion, Oxford, 1715"></a>
+<a href="https://commons.wikimedia.org/wiki/File:MSR-ra-61-b-1-DM.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/330px-MSR-ra-61-b-1-DM.jpg" alt="Marcus Aurelius" title="Marble bust of Marcus Aurelius, Musée Saint-Raymond, Toulouse"></a>
+
+<sub>Portraits: Roman double herm of Socrates and Seneca, 3rd century AD, Antikensammlung Berlin · Imagined portrait of Epictetus, frontispiece to an edition of the Enchiridion, Oxford, 1715 · Marble bust of Marcus Aurelius, Musée Saint-Raymond, Toulouse · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

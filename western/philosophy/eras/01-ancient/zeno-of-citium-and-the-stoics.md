@@ -1,5 +1,11 @@
 # Zeno of Citium & the Stoics
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_%28Napoli%2C_1969%29_-_BEIC_6353768.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Paolo_Monti_-_Servizio_fotografico_%28Napoli%2C_1969%29_-_BEIC_6353768.jpg" alt="Zeno of Citium and the Stoics" title="Bust of Zeno of Citium, Farnese collection, Naples National Archaeological Museum (photo: Paolo Monti, 1969)"></a>
+
+<sub>Portrait: Bust of Zeno of Citium, Farnese collection, Naples National Archaeological Museum (photo: Paolo Monti, 1969) · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

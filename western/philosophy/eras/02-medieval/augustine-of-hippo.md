@@ -1,5 +1,11 @@
 # Augustine of Hippo
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Saint_Augustine_by_Philippe_de_Champaigne.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/330px-Saint_Augustine_by_Philippe_de_Champaigne.jpg" alt="Augustine of Hippo" title="Philippe de Champaigne, Saint Augustine, c. 1645–50"></a>
+
+<sub>Portrait: Philippe de Champaigne, Saint Augustine, c. 1645–50 · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

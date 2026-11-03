@@ -1,5 +1,11 @@
 # Avicenna (Ibn Sīnā)
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Avicenna-miniatur.png"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Avicenna-miniatur.png" alt="Avicenna (Ibn Sina)" title="Avicenna in a Persian miniature"></a>
+
+<sub>Portrait: Avicenna in a Persian miniature · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

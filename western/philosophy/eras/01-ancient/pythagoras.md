@@ -1,5 +1,11 @@
 # Pythagoras
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/330px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg" alt="Pythagoras" title="Roman bust of Pythagoras"></a>
+
+<sub>Portrait: Roman bust of Pythagoras · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

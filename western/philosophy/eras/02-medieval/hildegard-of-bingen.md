@@ -1,5 +1,11 @@
 # Hildegard of Bingen
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Hildegard_von_Bingen.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hildegard_von_Bingen.jpg/330px-Hildegard_von_Bingen.jpg" alt="Hildegard of Bingen" title="Hildegard of Bingen receiving a vision, from a medieval manuscript illumination"></a>
+
+<sub>Portrait: Hildegard of Bingen receiving a vision, from a medieval manuscript illumination · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

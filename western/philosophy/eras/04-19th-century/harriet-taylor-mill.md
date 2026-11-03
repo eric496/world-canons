@@ -1,5 +1,11 @@
 # Harriet Taylor Mill
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Harriet_Mill_from_NPG.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Harriet_Mill_from_NPG.jpg/330px-Harriet_Mill_from_NPG.jpg" alt="Harriet Taylor Mill" title="Portrait of Harriet Taylor Mill, c. 1834, National Portrait Gallery, London"></a>
+
+<sub>Portrait: Portrait of Harriet Taylor Mill, c. 1834, National Portrait Gallery, London · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

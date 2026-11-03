@@ -1,5 +1,11 @@
 # Baruch Spinoza
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Spinoza.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/330px-Spinoza.jpg" alt="Baruch Spinoza" title="Portrait of Baruch Spinoza, anonymous, c. 1665, Herzog August Bibliothek, Wolfenbüttel"></a>
+
+<sub>Portrait: Portrait of Baruch Spinoza, anonymous, c. 1665, Herzog August Bibliothek, Wolfenbüttel · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

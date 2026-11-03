@@ -1,5 +1,11 @@
 # Thales of Miletus
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Arte_romana%2C_testa_di_talete_di_mileto%2C_II_sec..JPG"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Arte_romana%2C_testa_di_talete_di_mileto%2C_II_sec..JPG/330px-Arte_romana%2C_testa_di_talete_di_mileto%2C_II_sec..JPG" alt="Thales of Miletus" title="Roman head of Thales, 2nd century AD, after a Greek original"></a>
+
+<sub>Portrait: Roman head of Thales, 2nd century AD, after a Greek original · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

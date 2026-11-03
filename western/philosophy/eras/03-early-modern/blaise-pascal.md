@@ -1,5 +1,11 @@
 # Blaise Pascal
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Blaise_Pascal_Versailles%2C_circa_1690.JPG"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Blaise_Pascal_Versailles%2C_circa_1690.JPG/330px-Blaise_Pascal_Versailles%2C_circa_1690.JPG" alt="Blaise Pascal" title="Portrait of Blaise Pascal, anonymous, c. 1690, Palace of Versailles"></a>
+
+<sub>Portrait: Portrait of Blaise Pascal, anonymous, c. 1690, Palace of Versailles · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

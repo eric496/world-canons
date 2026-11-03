@@ -1,5 +1,11 @@
 # Friedrich Nietzsche
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Friedrich_Nietzsche_-_MM.M.00254_-_Munch_Museum.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Edvard_Munch_-_Friedrich_Nietzsche_-_MM.M.00254_-_Munch_Museum.jpg/330px-Edvard_Munch_-_Friedrich_Nietzsche_-_MM.M.00254_-_Munch_Museum.jpg" alt="Friedrich Nietzsche" title="Edvard Munch, Friedrich Nietzsche, 1905–06, Munch Museum, Oslo"></a>
+
+<sub>Portrait: Edvard Munch, Friedrich Nietzsche, 1905–06, Munch Museum, Oslo · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

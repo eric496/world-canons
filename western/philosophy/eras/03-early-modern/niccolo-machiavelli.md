@@ -1,5 +1,11 @@
 # Niccolò Machiavelli
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg/330px-Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg" alt="Niccolò Machiavelli" title="Santi di Tito, portrait of Niccolò Machiavelli, late 16th century, Palazzo Vecchio, Florence"></a>
+
+<sub>Portrait: Santi di Tito, portrait of Niccolò Machiavelli, late 16th century, Palazzo Vecchio, Florence · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

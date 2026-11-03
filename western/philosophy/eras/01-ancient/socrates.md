@@ -1,5 +1,11 @@
 # Socrates
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Socrates_Louvre.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/330px-Socrates_Louvre.jpg" alt="Socrates" title="Roman marble bust of Socrates, 1st century AD, Louvre"></a>
+
+<sub>Portrait: Roman marble bust of Socrates, 1st century AD, Louvre · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

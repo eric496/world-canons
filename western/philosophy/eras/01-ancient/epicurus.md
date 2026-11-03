@@ -1,5 +1,11 @@
 # Epicurus
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Epikouros_BM_1843.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/330px-Epikouros_BM_1843.jpg" alt="Epicurus" title="Roman bust of Epicurus, British Museum"></a>
+
+<sub>Portrait: Roman bust of Epicurus, British Museum · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

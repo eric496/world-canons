@@ -1,5 +1,11 @@
 # George Berkeley
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:John_Smibert_-_Bishop_George_Berkeley_-_Google_Art_Project_%28cropped%29.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/John_Smibert_-_Bishop_George_Berkeley_-_Google_Art_Project_%28cropped%29.jpg/330px-John_Smibert_-_Bishop_George_Berkeley_-_Google_Art_Project_%28cropped%29.jpg" alt="George Berkeley" title="John Smibert, Bishop George Berkeley, c. 1727, National Portrait Gallery, London"></a>
+
+<sub>Portrait: John Smibert, Bishop George Berkeley, c. 1727, National Portrait Gallery, London · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

@@ -1,5 +1,11 @@
 # Diogenes of Sinope & the Cynics
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg" alt="Diogenes of Sinope and the Cynics" title="Diogenes in a Roman mosaic, Römisch-Germanisches Museum, Cologne"></a>
+
+<sub>Portrait: Diogenes in a Roman mosaic, Römisch-Germanisches Museum, Cologne · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

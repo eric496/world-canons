@@ -1,5 +1,11 @@
 # Giambattista Vico
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:GiambattistaVico.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/GiambattistaVico.jpg" alt="Giambattista Vico" title="Portrait of Giambattista Vico"></a>
+
+<sub>Portrait: Portrait of Giambattista Vico · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

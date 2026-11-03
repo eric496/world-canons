@@ -1,5 +1,11 @@
 # Sidebars: Feuerbach & Stirner
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Friedrich_Engels_-_Die_Freien_%281842%29-1.1_V01-1.2_raw_RGASPI_%28Stirner_crop%29.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Friedrich_Engels_-_Die_Freien_%281842%29-1.1_V01-1.2_raw_RGASPI_%28Stirner_crop%29.jpg" alt="Max Stirner" title="Max Stirner, detail of Friedrich Engels's caricature drawing of 'Die Freien', 1842"></a>
+
+<sub>Portrait: Max Stirner, detail of Friedrich Engels's caricature drawing of 'Die Freien', 1842 · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

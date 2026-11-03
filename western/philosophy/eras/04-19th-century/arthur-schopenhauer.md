@@ -1,5 +1,11 @@
 # Arthur Schopenhauer
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Arthur_Schopenhauer_Portrait_by_Ludwig_Sigismund_Ruhl_1815.jpeg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Arthur_Schopenhauer_Portrait_by_Ludwig_Sigismund_Ruhl_1815.jpeg/330px-Arthur_Schopenhauer_Portrait_by_Ludwig_Sigismund_Ruhl_1815.jpeg" alt="Arthur Schopenhauer" title="Ludwig Sigismund Ruhl, portrait of Arthur Schopenhauer, 1815"></a>
+
+<sub>Portrait: Ludwig Sigismund Ruhl, portrait of Arthur Schopenhauer, 1815 · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

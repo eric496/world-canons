@@ -1,5 +1,11 @@
 # Plotinus
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Plotinos.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Plotinos.jpg" alt="Plotinus" title="Roman head traditionally identified as Plotinus, Museo Ostiense, Ostia"></a>
+
+<sub>Portrait: Roman head traditionally identified as Plotinus, Museo Ostiense, Ostia · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

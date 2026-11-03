@@ -1,5 +1,11 @@
 # Thomas Aquinas
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:St-thomas-aquinasFXD.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/330px-St-thomas-aquinasFXD.jpg" alt="Thomas Aquinas" title="Carlo Crivelli, Saint Thomas Aquinas, detail of the Demidoff Altarpiece, 1476"></a>
+
+<sub>Portrait: Carlo Crivelli, Saint Thomas Aquinas, detail of the Demidoff Altarpiece, 1476 · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

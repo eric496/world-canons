@@ -1,5 +1,11 @@
 # Friedrich Schleiermacher
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Portret_van_Friedrich_Ernst_Daniel_Schleiermacher_%28cropped%29.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Portret_van_Friedrich_Ernst_Daniel_Schleiermacher_%28cropped%29.jpg" alt="Friedrich Schleiermacher" title="Printed portrait of Friedrich Schleiermacher, 19th century (Rijksmuseum)"></a>
+
+<sub>Portrait: Printed portrait of Friedrich Schleiermacher, 19th century (Rijksmuseum) · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

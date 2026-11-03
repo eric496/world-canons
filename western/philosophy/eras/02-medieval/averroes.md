@@ -1,5 +1,11 @@
 # Averroes (Ibn Rushd)
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Andrea_di_bonaiuto%2C_apoteosi_di_san_tommaso_d%27aquino%2C_11_averro%C3%A8.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Andrea_di_bonaiuto%2C_apoteosi_di_san_tommaso_d%27aquino%2C_11_averro%C3%A8.jpg/330px-Andrea_di_bonaiuto%2C_apoteosi_di_san_tommaso_d%27aquino%2C_11_averro%C3%A8.jpg" alt="Averroes (Ibn Rushd)" title="Averroes, detail of Andrea di Bonaiuto's Triumph of St Thomas Aquinas, Santa Maria Novella, Florence, 1365–67"></a>
+
+<sub>Portrait: Averroes, detail of Andrea di Bonaiuto's Triumph of St Thomas Aquinas, Santa Maria Novella, Florence, 1365–67 · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

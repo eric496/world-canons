@@ -1,5 +1,11 @@
 # Gotthold Ephraim Lessing
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Gotthold_Ephraim_Lessing.PNG"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Gotthold_Ephraim_Lessing.PNG" alt="Gotthold Ephraim Lessing" title="Portrait of Gotthold Ephraim Lessing, 18th century"></a>
+
+<sub>Portrait: Portrait of Gotthold Ephraim Lessing, 18th century · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

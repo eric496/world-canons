@@ -1,5 +1,11 @@
 # Immanuel Kant
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Immanuel_Kant_-_Gemaelde_1.jpg/330px-Immanuel_Kant_-_Gemaelde_1.jpg" alt="Immanuel Kant" title="Portrait of Immanuel Kant, 18th century"></a>
+
+<sub>Portrait: Portrait of Immanuel Kant, 18th century · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

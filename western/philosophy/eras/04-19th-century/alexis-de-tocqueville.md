@@ -1,5 +1,11 @@
 # Alexis de Tocqueville
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Alexis_de_Tocqueville.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Portrait_of_Alexis_de_Tocqueville.jpg/330px-Portrait_of_Alexis_de_Tocqueville.jpg" alt="Alexis de Tocqueville" title="Portrait of Alexis de Tocqueville, 19th century"></a>
+
+<sub>Portrait: Portrait of Alexis de Tocqueville, 19th century · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

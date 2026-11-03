@@ -1,5 +1,11 @@
 # Francis Bacon
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Somer_Francis_Bacon.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Somer_Francis_Bacon.jpg/330px-Somer_Francis_Bacon.jpg" alt="Francis Bacon" title="Paul van Somer I, portrait of Francis Bacon, 1617"></a>
+
+<sub>Portrait: Paul van Somer I, portrait of Francis Bacon, 1617 · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

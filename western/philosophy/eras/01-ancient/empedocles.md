@@ -1,5 +1,11 @@
 # Empedocles of Acragas
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Empedokles.jpeg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Empedokles.jpeg" alt="Empedocles" title="Empedocles, an imagined likeness in a later engraving"></a>
+
+<sub>Portrait: Empedocles, an imagined likeness in a later engraving · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Ancient Philosophy (c. 600 BCE – c. 270 CE) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

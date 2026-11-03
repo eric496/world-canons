@@ -1,5 +1,11 @@
 # Adam Smith
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Adam_Smith_The_Muir_portrait.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Smith_The_Muir_portrait.jpg/330px-Adam_Smith_The_Muir_portrait.jpg" alt="Adam Smith" title="The 'Muir portrait' of Adam Smith, anonymous, c. 1800"></a>
+
+<sub>Portrait: The 'Muir portrait' of Adam Smith, anonymous, c. 1800 · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

@@ -1,5 +1,11 @@
 # Gottfried Wilhelm Leibniz
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg/330px-Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg" alt="Gottfried Wilhelm Leibniz" title="Christoph Bernhard Francke, portrait of Leibniz, c. 1695, Herzog Anton Ulrich Museum, Braunschweig"></a>
+
+<sub>Portrait: Christoph Bernhard Francke, portrait of Leibniz, c. 1695, Herzog Anton Ulrich Museum, Braunschweig · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

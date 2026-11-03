@@ -1,5 +1,11 @@
 # Emerson & Thoreau
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Bust_of_Thoreau_by_Walton_Ricketson.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Bust_of_Thoreau_by_Walton_Ricketson.jpg" alt="Henry David Thoreau" title="Walton Ricketson, bust of Henry David Thoreau"></a>
+
+<sub>Portrait: Walton Ricketson, bust of Henry David Thoreau · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

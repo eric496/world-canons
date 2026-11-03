@@ -1,5 +1,11 @@
 # William of Ockham
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:William_of_Ockham.png"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/7/70/William_of_Ockham.png" alt="William of Ockham" title="Sketch labelled 'frater Occham iste' from a manuscript of Ockham's Summa logicae, 1341"></a>
+
+<sub>Portrait: Sketch labelled 'frater Occham iste' from a manuscript of Ockham's Summa logicae, 1341 · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

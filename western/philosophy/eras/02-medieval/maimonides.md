@@ -1,5 +1,11 @@
 # Maimonides (Moses ben Maimon / Rambam)
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Moses_Maimonides_in_Thesaurus_antiquitatum_sacrarum.tif"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Portrait_of_Moses_Maimonides_in_Thesaurus_antiquitatum_sacrarum.tif/lossy-page1-960px-Portrait_of_Moses_Maimonides_in_Thesaurus_antiquitatum_sacrarum.tif.jpg" alt="Maimonides" title="Imagined portrait of Maimonides, from Blasius Ugolinus, Thesaurus antiquitatum sacrarum, 18th century"></a>
+
+<sub>Portrait: Imagined portrait of Maimonides, from Blasius Ugolinus, Thesaurus antiquitatum sacrarum, 18th century · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Medieval Philosophy (c. 400 – c. 1400) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

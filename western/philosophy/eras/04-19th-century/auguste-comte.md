@@ -1,5 +1,11 @@
 # Auguste Comte
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Auguste_Comte_by_Antoine_%C3%89tex.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Portrait_of_Auguste_Comte_by_Antoine_%C3%89tex.jpg" alt="Auguste Comte" title="Antoine Étex, portrait of Auguste Comte"></a>
+
+<sub>Portrait: Antoine Étex, portrait of Auguste Comte · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

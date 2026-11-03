@@ -1,5 +1,11 @@
 # John Stuart Mill
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Stuart_Mill_G_F_Watts.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Stuart_Mill_G_F_Watts.jpg" alt="John Stuart Mill" title="George Frederic Watts, portrait of John Stuart Mill, 1873"></a>
+
+<sub>Portrait: George Frederic Watts, portrait of John Stuart Mill, 1873 · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

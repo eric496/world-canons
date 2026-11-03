@@ -1,5 +1,11 @@
 # G.W.F. Hegel
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Jakob_Schlesinger_-_Hegel_1831.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jakob_Schlesinger_-_Hegel_1831.jpg/330px-Jakob_Schlesinger_-_Hegel_1831.jpg" alt="G. W. F. Hegel" title="Jakob Schlesinger, portrait of G. W. F. Hegel, 1831, Alte Nationalgalerie, Berlin"></a>
+
+<sub>Portrait: Jakob Schlesinger, portrait of G. W. F. Hegel, 1831, Alte Nationalgalerie, Berlin · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

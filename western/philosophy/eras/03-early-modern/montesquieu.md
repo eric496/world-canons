@@ -1,5 +1,11 @@
 # Montesquieu
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Charles_Montesquieu.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Charles_Montesquieu.jpg" alt="Montesquieu" title="Portrait of Montesquieu, anonymous, 18th century"></a>
+
+<sub>Portrait: Portrait of Montesquieu, anonymous, 18th century · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

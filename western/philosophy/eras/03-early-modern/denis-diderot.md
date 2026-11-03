@@ -1,5 +1,11 @@
 # Denis Diderot
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Denis_Diderot_by_Louis-Michel_van_Loo.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Denis_Diderot_by_Louis-Michel_van_Loo.jpg" alt="Denis Diderot" title="Louis-Michel van Loo, portrait of Denis Diderot, 1767, Louvre"></a>
+
+<sub>Portrait: Louis-Michel van Loo, portrait of Denis Diderot, 1767, Louvre · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: Early Modern Philosophy (c. 1600 – 1800) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

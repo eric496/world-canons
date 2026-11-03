@@ -1,5 +1,11 @@
 # Jeremy Bentham
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Jeremy_Bentham_by_Henry_William_Pickersgill.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Jeremy_Bentham_by_Henry_William_Pickersgill.jpg/330px-Jeremy_Bentham_by_Henry_William_Pickersgill.jpg" alt="Jeremy Bentham" title="Henry William Pickersgill, portrait of Jeremy Bentham, 1829, National Portrait Gallery, London"></a>
+
+<sub>Portrait: Henry William Pickersgill, portrait of Jeremy Bentham, 1829, National Portrait Gallery, London · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance

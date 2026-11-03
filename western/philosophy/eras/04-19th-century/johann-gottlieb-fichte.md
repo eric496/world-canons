@@ -1,5 +1,11 @@
 # Johann Gottlieb Fichte
 
+<!-- portrait -->
+<a href="https://commons.wikimedia.org/wiki/File:Johann_Gottlieb_Fichte.jpg"><img align="right" width="220" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Johann_Gottlieb_Fichte.jpg" alt="Johann Gottlieb Fichte" title="Portrait of Johann Gottlieb Fichte, early 19th century"></a>
+
+<sub>Portrait: Portrait of Johann Gottlieb Fichte, early 19th century · Wikimedia Commons</sub>
+<!-- /portrait -->
+
 *Era: 19th-Century Philosophy (1801 – 1900) · [Era overview](README.md) · [Master index](../../index.md)*
 
 ## At a glance
