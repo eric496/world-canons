@@ -1,0 +1,1655 @@
+[
+ {
+  "id": "shijing-poets",
+  "name": "Poets of the Book of Songs",
+  "name_native": "詩經作者",
+  "born": "c. 11th century BC",
+  "died": "c. 6th century BC",
+  "sort": -1000,
+  "birthplace": "Zhou-dynasty states of the Yellow River plain",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "shijing-chuci"
+  ],
+  "bio": "The anonymous singers, court musicians and ritual poets whose 305 songs make up the Shijing, the oldest anthology of Chinese poetry.",
+  "bio_full": [
+   "The songs of the Shijing were composed over roughly five centuries, from the early Western Zhou to the Spring and Autumn period, by people whose names are almost entirely lost. Some were sacrificial hymns for the royal ancestral temple, some court odes on feasts, hunts and campaigns, and the largest group, the 'Airs of the States', appear to be folk songs of love, courtship, labour and complaint from fifteen regions of north China, though they were probably reworked by court musicians. Tradition held that officials collected songs so that the king could learn the mood of his people, and that Confucius selected the final 305 from some 3,000; both stories are doubted by modern scholars.",
+   "Whatever their origins, the songs became one of the Five Classics, memorised by every educated person in China, Korea, Japan and Vietnam for more than two thousand years. Their four-character lines, refrains and nature images used to open a feeling (the 'xing' or evocation) shaped all later Chinese poetry, while the allegorical readings imposed by Han commentators turned simple love songs into lessons in political virtue, a habit of interpretation that itself became part of the tradition."
+  ]
+ },
+ {
+  "id": "qu-yuan",
+  "name": "Qu Yuan",
+  "name_native": "屈原",
+  "born": "c. 340 BC",
+  "died": "278 BC",
+  "sort": -340,
+  "birthplace": "State of Chu",
+  "deathplace": "Miluo River, Chu",
+  "nationality": "Chinese",
+  "movements": [
+   "shijing-chuci"
+  ],
+  "bio": "Statesman of the southern state of Chu and the first individual poet in Chinese history, traditionally the author of Encountering Sorrow (Li Sao).",
+  "bio_full": [
+   "According to the biography written by Sima Qian two centuries later, Qu Yuan was an aristocrat and minister at the court of King Huai of Chu who urged alliance against the rising state of Qin. Slandered by rivals, he was dismissed and later banished to the south by King Huai's successor. After hearing that Qin had taken the Chu capital, he is said to have drowned himself in the Miluo River clasping a stone. Modern scholars debate how much of this story, and how many of the poems ascribed to him, are historical.",
+   "The poems of the Chuci attributed to Qu Yuan, above all the Li Sao, created the figure of the loyal minister rejected by an unworthy ruler, expressed through fragrant plants, divine journeys and courtship of goddesses. This voice of wronged integrity became a model for countless later poets in exile. The Dragon Boat Festival, held on the fifth day of the fifth month, is popularly said to commemorate the search for his body, and he remains one of China's most honoured cultural heroes."
+  ],
+  "portrait_file": "Qu Yuan Chen Hongshou 2.jpg",
+  "portrait_caption": "Chen Hongshou, imagined portrait of Qu Yuan, 17th century"
+ },
+ {
+  "id": "sima-xiangru",
+  "name": "Sima Xiangru",
+  "name_native": "司馬相如",
+  "born": "c. 179 BC",
+  "died": "117 BC",
+  "sort": -179,
+  "birthplace": "Chengdu, Shu",
+  "deathplace": "Maoling, near Chang'an",
+  "nationality": "Chinese",
+  "movements": [
+   "han-fu-yuefu"
+  ],
+  "bio": "The greatest writer of the Han rhapsody (fu), whose dazzling descriptions of imperial hunting parks delighted Emperor Wu.",
+  "bio_full": [
+   "Born in Shu (modern Sichuan), Sima Xiangru served at the court of Emperor Jing and then with the Prince of Liang, whose literary circle encouraged his rhapsodies. Back home and poor, he famously eloped with Zhuo Wenjun, the young widowed daughter of a rich ironmaster, after playing the zither for her; the couple ran a wine shop until her father relented. Emperor Wu read his Rhapsody of Sir Vacuous and summoned him to court, where he served as a literary attendant and envoy to the south-west.",
+   "Sima Xiangru's fu pile up rare words, place names, animals, plants and gems in rhyming, rhythmic catalogues, conjuring the splendour of empire while ending with a gentle moral warning against extravagance. Later critics both admired and mocked the form's excess, but his works defined the rhapsody for centuries, and the romance with Zhuo Wenjun became a favourite subject of poetry and drama."
+  ]
+ },
+ {
+  "id": "yuefu-poets",
+  "name": "Han Music Bureau poets",
+  "name_native": "樂府詩人",
+  "born": "c. 2nd century BC",
+  "died": "c. 3rd century AD",
+  "sort": -100,
+  "birthplace": "Han China",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "han-fu-yuefu"
+  ],
+  "bio": "The anonymous makers of the Han ballads collected by the imperial Music Bureau and of the Nineteen Old Poems, the founding works of five-character verse.",
+  "bio_full": [
+   "The Music Bureau (Yuefu) was an office reorganised by Emperor Wu around 120 BC to supply music for state ritual and entertainment. It collected songs from across the empire as well as composing new ones, and the term yuefu came to mean the ballads themselves. Most were anonymous: songs of soldiers, orphans, abandoned wives and lovers, often told as little dramas with dialogue. To them belong the Nineteen Old Poems of the late Eastern Han, short meditations on parting and the brevity of life by unknown literati, and the long narrative ballad The Peacock Flies Southeast.",
+   "These poems established the five-character line as the main vehicle of classical Chinese poetry and gave it a direct, unadorned emotional language quite different from the court rhapsody. Later poets from Cao Cao to Li Bai and Bai Juyi wrote 'new yuefu' on the old titles, and the ballad of the woman warrior Mulan, written down in the following centuries, belongs to the same tradition."
+  ]
+ },
+ {
+  "id": "cao-zhi",
+  "name": "Cao Zhi",
+  "name_native": "曹植",
+  "born": "192",
+  "died": "232",
+  "sort": 192,
+  "birthplace": "Dongwuyang, Han China",
+  "deathplace": "Chen, Wei",
+  "nationality": "Chinese",
+  "movements": [
+   "six-dynasties-poetry"
+  ],
+  "bio": "Son of the warlord Cao Cao and the most admired poet of the Jian'an era, at the end of the Han dynasty.",
+  "bio_full": [
+   "Cao Zhi was the third son of Cao Cao, who founded the Wei state as the Han collapsed, and was for a time his father's favourite and a possible heir. His brilliance and drinking lost him the succession to his elder brother Cao Pi, who after becoming emperor in 220 kept him under close watch, executed his friends and shifted him from fief to fief. Cao Zhi spent his last years petitioning in vain for an official role and died at forty.",
+   "Cao Zhi combined the directness of the yuefu ballads with a new richness of image and personal feeling, and critics such as Zhong Rong ranked him the finest poet of his age. His Rhapsody on the Goddess of the Luo River, about a vision of an unattainable divine woman, inspired a celebrated painted scroll attributed to Gu Kaizhi. A legend that he composed a poem about beans and their stalks in seven paces, to save his life, made him a byword for both talent and fraternal cruelty."
+  ]
+ },
+ {
+  "id": "tao-yuanming",
+  "name": "Tao Yuanming",
+  "name_native": "陶淵明",
+  "born": "c. 365",
+  "died": "427",
+  "sort": 365,
+  "birthplace": "Chaisang, Xunyang (near modern Jiujiang)",
+  "deathplace": "Chaisang",
+  "nationality": "Chinese",
+  "movements": [
+   "six-dynasties-poetry"
+  ],
+  "bio": "The poet of fields and wine who gave up office to farm, and the author of the prose fable Peach Blossom Spring.",
+  "bio_full": [
+   "Tao Yuanming, also called Tao Qian, came from a family of declining gentry in what is now Jiangxi. He held a series of minor posts in a period of usurpation and civil war, and in 405, after only some eighty days as magistrate of Pengze, resigned rather than, as the story goes, bow to a visiting inspector for five pecks of rice. He spent the rest of his life farming near his home, often in poverty, writing poems and drinking with neighbours.",
+   "Tao's poems about his garden, chrysanthemums, wine and the satisfaction of ordinary country life were little valued in his own century, which preferred ornament. From the Tang onwards, and especially after Su Shi championed him, his plain style and his choice of integrity over career made him the model of the recluse poet. Peach Blossom Spring, his tale of a hidden valley untouched by history, gave East Asia its lasting image of utopia."
+  ],
+  "portrait_file": "Ch'en Hung-shou 002.jpg",
+  "portrait_caption": "Chen Hongshou, Tao Yuanming, 17th century (detail of a handscroll)"
+ },
+ {
+  "id": "xie-lingyun",
+  "name": "Xie Lingyun",
+  "name_native": "謝靈運",
+  "born": "385",
+  "died": "433",
+  "sort": 385,
+  "birthplace": "Shining, Kuaiji (modern Zhejiang)",
+  "deathplace": "Guangzhou",
+  "nationality": "Chinese",
+  "movements": [
+   "six-dynasties-poetry"
+  ],
+  "bio": "Aristocrat, Buddhist and restless traveller who founded the Chinese landscape poem of 'mountains and waters'.",
+  "bio_full": [
+   "Xie Lingyun was heir to one of the greatest aristocratic clans of the Eastern Jin and inherited the title Duke of Kangle. When the Liu Song dynasty replaced the Jin in 420 his rank was reduced, and he served unhappily in provincial posts, preferring to explore mountains with hundreds of retainers, cutting trails and building estates. He was a serious Buddhist and wrote on sudden enlightenment. Repeatedly accused of arrogance and finally of rebellion, he was exiled to Guangzhou and executed there.",
+   "In dense, parallel couplets full of precise observation and rare words, Xie described the climbs, rivers, cliffs and changing light of the south-eastern hills, often ending with a philosophical reflection. Although later readers found him laboured beside Tao Yuanming, he established nature itself, rather than nature as backdrop, as a central subject of Chinese poetry, preparing the way for Wang Wei and the Tang."
+  ],
+  "portrait_file": "Southern and Northern Dynasties poet Xie Lingyun.jpg",
+  "portrait_caption": "Later imagined portrait of Xie Lingyun"
+ },
+ {
+  "id": "li-bai",
+  "name": "Li Bai",
+  "name_native": "李白",
+  "born": "701",
+  "died": "762",
+  "sort": 701,
+  "birthplace": "Suyab, Central Asia (traditionally)",
+  "deathplace": "Dangtu, Anhui",
+  "nationality": "Chinese",
+  "movements": [
+   "high-tang-poetry"
+  ],
+  "bio": "The most famous Chinese poet: a free-spirited wanderer of wine, moonlight and Daoist fantasy, revered as the 'Immortal Poet'.",
+  "bio_full": [
+   "Li Bai (also Li Po) is said to have been born in Central Asia and grew up in Sichuan, where he studied swordsmanship and Daoism. In his twenties he set out on a life of travel along the Yangtze and across north China, making friends, drinking, and seeking patrons. In 742 his fame brought him to the court of Emperor Xuanzong in Chang'an as a member of the Hanlin Academy, but within two years he was eased out. During the An Lushan rebellion he joined the staff of a prince who was then declared a rebel, and he was sentenced to exile in the far south-west, pardoned on the way. Legend says he drowned trying to embrace the moon's reflection; he probably died of illness.",
+   "Li Bai excelled in the freer old-style poem and the yuefu ballad, as well as in short quatrains of perfect simplicity. His poems move with sudden leaps of imagination between heaven and earth, celebrating friendship, drinking, mountains and immortals with a sense of boundless self. Paired with his friend Du Fu as the twin summits of Tang poetry, he has been memorised by schoolchildren across East Asia for over a millennium."
+  ],
+  "portrait_file": "LiBai.jpg",
+  "portrait_caption": "Liang Kai, Li Bai Strolling, 13th century, Tokyo National Museum"
+ },
+ {
+  "id": "du-fu",
+  "name": "Du Fu",
+  "name_native": "杜甫",
+  "born": "712",
+  "died": "770",
+  "sort": 712,
+  "birthplace": "Gongxian, Henan",
+  "deathplace": "On the Xiang River, near Tanzhou (Changsha), Hunan",
+  "nationality": "Chinese",
+  "movements": [
+   "high-tang-poetry"
+  ],
+  "bio": "The 'Sage of Poetry', whose verse on the An Lushan rebellion, poverty and family made him the most admired poet of the Chinese tradition.",
+  "bio_full": [
+   "Du Fu came from a family of scholar-officials but repeatedly failed to win a post through the examinations. He spent his thirties in the capital Chang'an seeking patronage, met Li Bai, and obtained only a minor office shortly before the An Lushan rebellion broke out in 755. Captured by rebels, he escaped to the court of the new emperor, served briefly as an adviser, and was then sidelined. From 759 he lived as a refugee, notably in a thatched cottage at Chengdu, then down the Yangtze, and died on a boat in Hunan.",
+   "Little read in his lifetime, Du Fu was recognised from the ninth century onward as the master of every form, above all the eight-line regulated verse, which he made capable of dense historical reflection. His poems record war, conscription, famine and the fate of ordinary people alongside intimate moments with his wife and children, earning him the title 'poet-historian'. For Confucian readers his compassion and loyalty made him a moral as well as a poetic model."
+  ],
+  "portrait_file": "Dufu.jpg",
+  "portrait_caption": "Later imagined portrait of Du Fu"
+ },
+ {
+  "id": "wang-wei",
+  "name": "Wang Wei",
+  "name_native": "王維",
+  "born": "c. 699",
+  "died": "759",
+  "sort": 699,
+  "birthplace": "Qi county, Shanxi",
+  "deathplace": "Chang'an",
+  "nationality": "Chinese",
+  "movements": [
+   "high-tang-poetry"
+  ],
+  "bio": "Tang poet, painter and devout Buddhist, master of the quiet landscape quatrain.",
+  "bio_full": [
+   "Wang Wei passed the jinshi examination young and had a long official career in Chang'an, rising to the rank of Right Assistant Director of the Department of State Affairs. Captured during the An Lushan rebellion, he was forced to serve the rebel regime, an act for which he was pardoned partly thanks to his brother and a poem expressing loyalty. A lay Buddhist, he spent much of his later life at his estate on the Wang River south of the capital, after the death of his wife and mother.",
+   "Wang Wei's short poems on hills, bamboo groves, birds and empty mountains render scenes with such restraint that the observing self seems to vanish, an effect often linked to Chan Buddhism. He was also celebrated as a painter, and Su Shi's remark that his poems contained paintings and his paintings poems made him the legendary founder of literati painting, although no work certainly by his hand survives."
+  ],
+  "portrait_file": "Wang Wei.jpg",
+  "portrait_caption": "Later imagined portrait of Wang Wei"
+ },
+ {
+  "id": "bai-juyi",
+  "name": "Bai Juyi",
+  "name_native": "白居易",
+  "born": "772",
+  "died": "846",
+  "sort": 772,
+  "birthplace": "Xinzheng, Henan",
+  "deathplace": "Luoyang",
+  "nationality": "Chinese",
+  "movements": [
+   "mid-late-tang"
+  ],
+  "bio": "Prolific and accessible Tang poet of social protest and narrative ballads, enormously popular in China and Japan.",
+  "bio_full": [
+   "Bai Juyi passed the jinshi in 800 and became an official at court, where he and his friend Yuan Zhen led a movement of 'new yuefu' poems criticising abuses of power and the sufferings of the poor. His outspoken memorials led to demotion in 815 to Jiangzhou, where he wrote the Song of the Pipa Player. He later served as governor of Hangzhou and Suzhou, building a causeway on West Lake, and retired to Luoyang, where he became a Buddhist and arranged his own collected works.",
+   "More than 2,800 of Bai's poems survive, more than any other Tang poet, partly because he carefully preserved them. He believed poetry should be clear enough for an old peasant woman to understand, and his Song of Everlasting Sorrow became one of the best-loved narrative poems in Chinese. In Heian Japan his collected works were the most read Chinese book; Murasaki Shikibu and Sei Shōnagon quote him constantly."
+  ],
+  "portrait_file": "白樂天.png",
+  "portrait_caption": "Later imagined portrait of Bai Juyi"
+ },
+ {
+  "id": "han-yu",
+  "name": "Han Yu",
+  "name_native": "韓愈",
+  "born": "768",
+  "died": "824",
+  "sort": 768,
+  "birthplace": "Heyang, Henan",
+  "deathplace": "Chang'an",
+  "nationality": "Chinese",
+  "movements": [
+   "mid-late-tang"
+  ],
+  "bio": "Tang essayist, poet and Confucian polemicist who led the guwen 'ancient prose' movement.",
+  "bio_full": [
+   "Orphaned young, Han Yu passed the examinations at the fourth attempt and had a stormy official career. In 819 he submitted a memorial denouncing Emperor Xianzong's veneration of a relic of the Buddha's finger bone, and was nearly executed before being banished to Chaozhou in the far south, where he wrote a famous address ordering the local crocodiles to leave. Recalled, he ended as vice-minister of war and personnel.",
+   "Han Yu argued that prose should return to the vigorous, flexible style of the pre-Han classics rather than ornate parallel prose, and that writing should carry the Confucian Way. His essays, letters and epitaphs, together with those of Liu Zongyuan, made guwen the standard style of Chinese prose until the twentieth century, and his defence of Confucianism against Buddhism anticipated Song Neo-Confucianism. His poetry, deliberately strange and difficult, also had many imitators."
+  ],
+  "portrait_file": "至聖先賢半身像 冊-110-韓愈.jpg",
+  "portrait_caption": "Han Yu, from the album Portraits of Sages and Worthies, National Palace Museum, Taipei"
+ },
+ {
+  "id": "liu-zongyuan",
+  "name": "Liu Zongyuan",
+  "name_native": "柳宗元",
+  "born": "773",
+  "died": "819",
+  "sort": 773,
+  "birthplace": "Chang'an",
+  "deathplace": "Liuzhou, Guangxi",
+  "nationality": "Chinese",
+  "movements": [
+   "mid-late-tang"
+  ],
+  "bio": "Tang prose master and poet, best known for his landscape essays written in exile.",
+  "bio_full": [
+   "Liu Zongyuan rose quickly in the capital and joined the reformist group of Wang Shuwen in 805. When the reform collapsed after a few months, he was banished as a minor official to Yongzhou in Hunan for ten years, and then to Liuzhou in Guangxi, where he governed conscientiously until his early death.",
+   "In exile Liu wrote the Eight Records of Yongzhou, short essays on obscure ravines, pools and rocks that turned landscape description into self-portrait, as well as fables and political essays such as the Discourse on Feudalism. With Han Yu he is counted among the founders of guwen prose and one of the Eight Great Prose Masters of the Tang and Song. His quatrain River Snow, an old fisherman alone in a snowy world, is one of the most familiar Chinese poems."
+  ],
+  "portrait_file": "Liu Zongyuan.jpg",
+  "portrait_caption": "Later imagined portrait of Liu Zongyuan"
+ },
+ {
+  "id": "li-shangyin",
+  "name": "Li Shangyin",
+  "name_native": "李商隱",
+  "born": "c. 813",
+  "died": "c. 858",
+  "sort": 813,
+  "birthplace": "Henan",
+  "deathplace": "Zhengzhou",
+  "nationality": "Chinese",
+  "movements": [
+   "mid-late-tang"
+  ],
+  "bio": "Late Tang poet of dense, allusive and often enigmatic love poems, including several simply titled 'Untitled'.",
+  "bio_full": [
+   "Li Shangyin passed the jinshi in 837 but became caught in the factional struggles of the late Tang court; his marriage into a family of one faction after patronage from the other blighted his career, and he served mostly as a secretary on the staffs of provincial governors. His wife's early death deepened the melancholy of his later work.",
+   "Li's regulated verse is famous for its rich imagery, mythological allusion and deliberate ambiguity: readers still argue whether poems such as The Ornamented Zither are about a lover, a dead wife, political disappointment or poetry itself. Neglected by some moralistic critics, he was admired by the Song and has been the favourite of many modern readers for whom his elusive beauty anticipates Symbolism."
+  ],
+  "portrait_file": "Tang dynasty poet Li Shangyin.jpg",
+  "portrait_caption": "Later imagined portrait of Li Shangyin"
+ },
+ {
+  "id": "su-shi",
+  "name": "Su Shi",
+  "name_native": "蘇軾",
+  "born": "1037",
+  "died": "1101",
+  "sort": 1037,
+  "birthplace": "Meishan, Sichuan",
+  "deathplace": "Changzhou, Jiangsu",
+  "nationality": "Chinese",
+  "movements": [
+   "song-ci"
+  ],
+  "bio": "Song-dynasty poet, essayist, calligrapher and statesman, known as Su Dongpo: the most versatile genius of Chinese letters.",
+  "bio_full": [
+   "Su Shi passed the jinshi in 1057 together with his brother Su Zhe, and both were praised by the examiner Ouyang Xiu. He opposed Wang Anshi's New Policies and in 1079 was arrested for poems judged to slander the court, the 'Crow Terrace poetry case'; after months in prison he was banished to Huangzhou, where he farmed a plot on an eastern slope and took the name Dongpo. Recalled and promoted in the 1080s, he was again exiled when the reformers returned, ending on the island of Hainan, and died on the way home after a pardon.",
+   "Su Shi wrote over 2,000 shi poems, broadened the ci beyond love songs into a vehicle for history and philosophy, and wrote some of the finest prose in the language, including the two Red Cliff rhapsodies. He was also one of the four great calligraphers of the Song and a theorist of scholar painting, valuing the expression of the mind over likeness. His good humour in adversity, Buddhist and Daoist detachment, and even the pork dish named after him have made him a beloved figure."
+  ],
+  "portrait_file": "Zhao Mengfu, Former Ode on the Red Cliff and Portrait of Su Dongpo, National Palace Museum.jpg",
+  "portrait_caption": "Zhao Mengfu, portrait of Su Shi with the Former Ode on the Red Cliff, Yuan dynasty, National Palace Museum"
+ },
+ {
+  "id": "li-qingzhao",
+  "name": "Li Qingzhao",
+  "name_native": "李清照",
+  "born": "1084",
+  "died": "c. 1155",
+  "sort": 1084,
+  "birthplace": "Zhangqiu, Shandong",
+  "deathplace": "Lin'an (Hangzhou)",
+  "nationality": "Chinese",
+  "movements": [
+   "song-ci"
+  ],
+  "bio": "The greatest woman poet of classical China, whose ci lyrics move from youthful love to the grief of war and widowhood.",
+  "bio_full": [
+   "Li Qingzhao was the daughter of a scholar-official in the circle of Su Shi and married Zhao Mingcheng, with whom she shared a passion for collecting books, bronzes and inscriptions. When the Jurchen Jin conquered north China in 1127 the couple fled south, losing most of their collection; Zhao died in 1129. Li spent her later years as a refugee in the southern Song, briefly and unhappily remarried and divorced, and completed her husband's catalogue of inscriptions with a moving afterword about their life together.",
+   "Only some fifty of her ci and a few shi and essays survive, but they are among the most admired in the language: precise in sound, with simple, colloquial words used to capture fleeting moods of longing, loneliness and loss. She also wrote a sharp critical essay on the ci, insisting it was a distinct art from shi. Later critics took her as the model of the 'delicate and restrained' (wanyue) school."
+  ],
+  "portrait_file": "Cui Hui - Portrait of Li Qingzhao on a stone.jpg",
+  "portrait_caption": "Imagined portrait of Li Qingzhao after Cui Hui, engraved on stone"
+ },
+ {
+  "id": "xin-qiji",
+  "name": "Xin Qiji",
+  "name_native": "辛棄疾",
+  "born": "1140",
+  "died": "1207",
+  "sort": 1140,
+  "birthplace": "Licheng (Jinan), Shandong",
+  "deathplace": "Yanshan, Jiangxi",
+  "nationality": "Chinese",
+  "movements": [
+   "song-ci"
+  ],
+  "bio": "Soldier and statesman of the Southern Song whose heroic ci lyrics lament the lost north.",
+  "bio_full": [
+   "Born under Jurchen Jin rule in the north, Xin Qiji joined a rebel army at twenty-one and made his name by capturing a traitor who had murdered its leader and delivering him to the Song court at Lin'an. He served the Southern Song as an able provincial administrator and military organiser, but his calls for reconquest of the north were unwelcome to a court that preferred peace, and he spent some twenty years in enforced retirement in Jiangxi.",
+   "More than 600 of his ci survive, the largest number by any Song poet. They are bold and expansive, full of historical allusion and frustrated martial energy, but also include tender, humorous and rustic poems. With Su Shi he is considered the master of the 'heroic and unrestrained' (haofang) school of ci."
+  ]
+ },
+ {
+  "id": "lu-you",
+  "name": "Lu You",
+  "name_native": "陸游",
+  "born": "1125",
+  "died": "1210",
+  "sort": 1125,
+  "birthplace": "Shanyin (Shaoxing), Zhejiang",
+  "deathplace": "Shanyin",
+  "nationality": "Chinese",
+  "movements": [
+   "song-ci"
+  ],
+  "bio": "The most prolific poet of the Song, whose 9,000 poems combine patriotic longing with quiet scenes of country life.",
+  "bio_full": [
+   "Lu You's family fled south after the fall of the north in 1127, when he was a baby. His career was hampered by his hawkish views; he served for a time on the frontier in Sichuan, an experience he idealised for the rest of his life, and spent long periods in retirement at his home in Shaoxing. His forced divorce from his first wife Tang Wan, and the poem he later wrote on the wall of the Shen Garden, became a famous love story.",
+   "Lu You left some 9,000 shi poems as well as ci and prose diaries, including an account of a journey up the Yangtze. His poems range from calls for recovery of the north, culminating in his deathbed poem to his son, to observant, gently humorous pieces on village life, old age and the seasons."
+  ],
+  "portrait_file": "陸游 肖像.jpg",
+  "portrait_caption": "Later imagined portrait of Lu You"
+ },
+ {
+  "id": "guan-hanqing",
+  "name": "Guan Hanqing",
+  "name_native": "關漢卿",
+  "born": "c. 1241",
+  "died": "c. 1320",
+  "sort": 1241,
+  "birthplace": "Dadu (Beijing)",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "yuan-drama"
+  ],
+  "bio": "The foremost playwright of Yuan zaju drama, author of The Injustice to Dou E.",
+  "bio_full": [
+   "Very little is known about Guan Hanqing. Sources of the Yuan period describe him as a resident of Dadu, the Mongol capital, possibly a physician by training, who belonged to a 'writing club' of playwrights and was intimately familiar with the theatre, perhaps acting himself. He is credited with more than sixty plays, of which about eighteen survive.",
+   "Guan's plays include courtroom dramas, historical pieces and comedies, many with clever, courageous women at their centre, such as the courtesan who outwits a cruel husband in Rescuing a Fellow Courtesan. Their vigorous colloquial arias and sympathy for victims of corrupt officials have made him the most performed and studied of Yuan dramatists, and in the twentieth century he was celebrated in China as a people's playwright."
+  ],
+  "portrait_file": "Stamp of USSR 2262.jpg",
+  "portrait_caption": "Imagined portrait of Guan Hanqing on a Soviet postage stamp, 1958"
+ },
+ {
+  "id": "wang-shifu",
+  "name": "Wang Shifu",
+  "name_native": "王實甫",
+  "born": "fl. late 13th century",
+  "died": "",
+  "sort": 1260,
+  "birthplace": "Dadu (Beijing)",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "yuan-drama"
+  ],
+  "bio": "Yuan dramatist and author of The Romance of the Western Chamber, the most famous Chinese love comedy.",
+  "bio_full": [
+   "Almost nothing is known of Wang Shifu's life beyond his origin in Dadu and a list of fourteen plays attributed to him, of which three survive. He worked in the same theatrical world as Guan Hanqing, and some later editors even suggested that Guan completed the last part of the Western Chamber, a claim now generally rejected.",
+   "Wang's fame rests on The Romance of the Western Chamber, a play of exceptional length in five parts whose lyrical arias were praised as the most beautiful in Yuan drama. Its sympathetic portrait of young lovers defying parental authority made it both cherished and censured for centuries."
+  ]
+ },
+ {
+  "id": "luo-guanzhong",
+  "name": "Luo Guanzhong",
+  "name_native": "羅貫中",
+  "born": "c. 1330",
+  "died": "c. 1400",
+  "sort": 1330,
+  "birthplace": "Taiyuan, Shanxi (or Dongping, Shandong)",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "ming-novel-drama"
+  ],
+  "bio": "Late Yuan–early Ming writer traditionally credited with Romance of the Three Kingdoms and a share in Water Margin.",
+  "bio_full": [
+   "Luo Guanzhong is a shadowy figure. A brief note by a contemporary describes him as a solitary man who wrote plays and moved restlessly during the wars at the end of the Yuan; legend links him to the rebel Zhang Shicheng. His home town is given variously as Taiyuan or Dongping. He is traditionally said to have been a pupil of Shi Nai'an.",
+   "Several novels are attributed to him, but his name is firmly attached to Romance of the Three Kingdoms, earliest printed in 1522, which reshaped centuries of history and storytelling into a coherent epic. How much of the surviving text is his, and his role in Water Margin, are debated."
+  ]
+ },
+ {
+  "id": "shi-naian",
+  "name": "Shi Nai'an",
+  "name_native": "施耐庵",
+  "born": "c. 1296",
+  "died": "c. 1370",
+  "sort": 1296,
+  "birthplace": "Jiangsu (traditionally)",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "ming-novel-drama"
+  ],
+  "bio": "The traditional author of Water Margin, whose life is so obscure that his existence has been questioned.",
+  "bio_full": [
+   "Early editions of Water Margin name Shi Nai'an as author, sometimes with Luo Guanzhong as editor. Later accounts, including a biography that appeared only in the twentieth century, describe him as a scholar from Jiangsu who served briefly as an official before retiring to write, but these are generally regarded as unreliable.",
+   "Whoever Shi Nai'an was, Water Margin grew from storytellers' and dramatists' tales about the bandit Song Jiang and his band, and its shaping into a novel of 100 or 120 chapters was the work of many hands up to the sixteenth century. The name has nonetheless become inseparable from one of the Four Classic Novels."
+  ]
+ },
+ {
+  "id": "wu-chengen",
+  "name": "Wu Cheng'en",
+  "name_native": "吳承恩",
+  "born": "c. 1500",
+  "died": "c. 1582",
+  "sort": 1500,
+  "birthplace": "Huai'an, Jiangsu",
+  "deathplace": "Huai'an",
+  "nationality": "Chinese",
+  "movements": [
+   "ming-novel-drama"
+  ],
+  "bio": "Ming scholar and poet to whom Journey to the West has been attributed since the 1920s.",
+  "bio_full": [
+   "Wu Cheng'en came from a merchant family in Huai'an, passed the lower examinations but repeatedly failed the higher ones, and held only a minor post late in life. He was known locally as a witty poet and a lover of strange tales. The 1592 first edition of Journey to the West is anonymous; in the 1920s Hu Shi and Lu Xun, following a local gazetteer, identified Wu as the author.",
+   "The attribution remains debated, since the gazetteer may refer to a different work, but most modern editions carry his name. If the novel is his, it reflects a satirical, comic imagination that turned a Buddhist pilgrimage legend into a fantasy of monsters, bureaucratic heavens and the irrepressible Monkey King."
+  ]
+ },
+ {
+  "id": "lanling-xiaoxiao-sheng",
+  "name": "Lanling Xiaoxiao Sheng",
+  "name_native": "蘭陵笑笑生",
+  "born": "fl. late 16th century",
+  "died": "",
+  "sort": 1580,
+  "birthplace": "",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "ming-novel-drama"
+  ],
+  "bio": "'The Scoffing Scholar of Lanling', pseudonymous author of the Ming novel Jin Ping Mei.",
+  "bio_full": [
+   "The author of Jin Ping Mei hid behind a pen name meaning roughly 'the laughing, laughing scholar of Lanling'. Dozens of candidates have been proposed, from the writer Wang Shizhen to the dramatist Li Kaixian, but none has won general acceptance. Manuscript copies circulated among literati in the 1590s, and the first printed edition appeared in 1617.",
+   "The anonymity reflects the novel's notoriety. Its frank sexual content, detailed picture of a corrupt merchant household and satire of officialdom made it one of the most banned books in Chinese history, yet also one of the most admired by critics, who recognised it as the first Chinese novel written by a single author about domestic, everyday life."
+  ]
+ },
+ {
+  "id": "tang-xianzu",
+  "name": "Tang Xianzu",
+  "name_native": "湯顯祖",
+  "born": "1550",
+  "died": "1616",
+  "sort": 1550,
+  "birthplace": "Linchuan, Jiangxi",
+  "deathplace": "Linchuan",
+  "nationality": "Chinese",
+  "movements": [
+   "ming-novel-drama"
+  ],
+  "bio": "The greatest playwright of the Ming, author of The Peony Pavilion, sometimes called the 'Shakespeare of China'.",
+  "bio_full": [
+   "Tang Xianzu was a precocious scholar whose refusal to join the faction of the powerful grand secretary Zhang Juzheng delayed his success in the examinations until 1583. As an official he criticised court corruption and was demoted to a remote post in Guangdong, then served as magistrate of Suichang in Zhejiang. He resigned in 1598 and returned to Linchuan, where he devoted himself to writing and directing plays.",
+   "His four 'dream' plays, of which The Peony Pavilion is the most celebrated, explore the power of feeling (qing) against convention and reason, influenced by the thinker Li Zhi and the Taizhou school. Written for the kunqu style of southern drama, their arias are among the finest in Chinese poetry. He died in the same year as Shakespeare, a coincidence often noted."
+  ],
+  "portrait_file": "湯顯祖.jpg",
+  "portrait_caption": "Portrait of Tang Xianzu"
+ },
+ {
+  "id": "pu-songling",
+  "name": "Pu Songling",
+  "name_native": "蒲松齡",
+  "born": "1640",
+  "died": "1715",
+  "sort": 1640,
+  "birthplace": "Zichuan, Shandong",
+  "deathplace": "Zichuan",
+  "nationality": "Chinese",
+  "movements": [
+   "qing-fiction-drama"
+  ],
+  "bio": "Qing writer of Strange Tales from a Chinese Studio, nearly 500 classical-language stories of ghosts, foxes and the uncanny.",
+  "bio_full": [
+   "Pu Songling passed the first level of the civil-service examinations brilliantly at eighteen but then failed the provincial examination again and again until he was in his seventies. He spent most of his life as a private tutor in the household of a wealthy family in Shandong, writing in his spare time and collecting stories, legend says, by offering tea to passers-by in exchange for tales.",
+   "His Strange Tales, written over several decades in a terse, elegant classical style, use the supernatural to comment on injustice, corrupt officials, the examination system and the relationships of men and women; the fox spirits and ghost women are often more humane than the living. The book circulated in manuscript and was printed in 1766, and remains one of the most popular works of Chinese fiction, a source for countless films and operas."
+  ],
+  "portrait_file": "Pu Songling Portrait.jpg",
+  "portrait_caption": "Portrait of Pu Songling"
+ },
+ {
+  "id": "cao-xueqin",
+  "name": "Cao Xueqin",
+  "name_native": "曹雪芹",
+  "born": "c. 1715",
+  "died": "c. 1763",
+  "sort": 1715,
+  "birthplace": "Nanjing",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "qing-fiction-drama"
+  ],
+  "bio": "Author of Dream of the Red Chamber, generally regarded as the greatest Chinese novel.",
+  "bio_full": [
+   "Cao Xueqin's family had for three generations held the lucrative post of imperial textile commissioner in Nanjing and hosted the Kangxi emperor on his southern tours. In 1728, under the Yongzheng emperor, the family was disgraced and its property confiscated, and they moved to Beijing. Cao spent his later years in poverty in the western hills outside the city, painting, drinking and writing, and died, according to friends' poems, shortly after the death of his son.",
+   "He worked for about ten years on The Story of the Stone, as the novel was first called, circulating it in manuscript with comments by a relative using the name Red Inkstone. Only eighty chapters were complete at his death; a 120-chapter version with an ending by others appeared in 1791. Its autobiographical depth, vast cast and poetic richness have generated an entire field of study, 'Redology'."
+  ]
+ },
+ {
+  "id": "wu-jingzi",
+  "name": "Wu Jingzi",
+  "name_native": "吳敬梓",
+  "born": "1701",
+  "died": "1754",
+  "sort": 1701,
+  "birthplace": "Quanjiao, Anhui",
+  "deathplace": "Yangzhou",
+  "nationality": "Chinese",
+  "movements": [
+   "qing-fiction-drama"
+  ],
+  "bio": "Qing novelist whose The Scholars is the great satire of the examination system and literati hypocrisy.",
+  "bio_full": [
+   "Wu Jingzi came from a distinguished family of officials in Anhui. He squandered his inheritance in generosity and pleasure, moved to Nanjing in 1733, and declined an invitation to sit a special examination. He lived the rest of his life in increasing poverty among scholars and artists and died suddenly while visiting Yangzhou.",
+   "His novel The Scholars, completed around 1750, is a loosely linked series of episodes satirising those who chase degrees and fame, contrasted with a few true men of integrity. Its restrained, ironic realism made it, in Lu Xun's view, the first true satire in Chinese fiction."
+  ]
+ },
+ {
+  "id": "kong-shangren",
+  "name": "Kong Shangren",
+  "name_native": "孔尚任",
+  "born": "1648",
+  "died": "1718",
+  "sort": 1648,
+  "birthplace": "Qufu, Shandong",
+  "deathplace": "Qufu",
+  "nationality": "Chinese",
+  "movements": [
+   "qing-fiction-drama"
+  ],
+  "bio": "Qing dramatist and descendant of Confucius, author of The Peach Blossom Fan.",
+  "bio_full": [
+   "A sixty-fourth-generation descendant of Confucius, Kong Shangren impressed the Kangxi emperor when he lectured during the emperor's visit to Qufu in 1684, and was given office in Beijing. A posting to the Yangzhou region let him meet survivors of the Ming collapse and visit its sites. Soon after The Peach Blossom Fan was staged in 1699 he was dismissed, perhaps because of the play's sympathy for the fallen Ming.",
+   "The Peach Blossom Fan, in forty-four scenes, tells the love story of a scholar and a courtesan against the fall of the Ming court at Nanjing, with unusual attention to historical accuracy. With Hong Sheng's Palace of Eternal Youth it is counted the last great chuanqi drama."
+  ],
+  "portrait_file": "孔尚任.jpg",
+  "portrait_caption": "Portrait of Kong Shangren"
+ },
+ {
+  "id": "shen-fu",
+  "name": "Shen Fu",
+  "name_native": "沈復",
+  "born": "1763",
+  "died": "after 1810",
+  "sort": 1763,
+  "birthplace": "Suzhou",
+  "deathplace": "",
+  "nationality": "Chinese",
+  "movements": [
+   "qing-fiction-drama"
+  ],
+  "bio": "Minor Qing clerk and painter whose memoir Six Records of a Floating Life is a classic of personal prose.",
+  "bio_full": [
+   "Shen Fu spent his life as a secretary to officials, a merchant and a painter, often in debt and travelling. He married his cousin Chen Yun in 1780; the couple's happiness was strained by family disapproval, and after her death in 1803 he drifted further. Nothing is known of him after about 1810.",
+   "His memoir, of which four of six chapters survive, was discovered in a Suzhou bookstall and published in 1877. Its candid, tender account of married love, small pleasures, quarrels and grief was unlike anything in Chinese literature and became beloved in the twentieth century."
+  ]
+ },
+ {
+  "id": "lu-xun",
+  "name": "Lu Xun",
+  "name_native": "魯迅",
+  "born": "1881",
+  "died": "1936",
+  "sort": 1881,
+  "birthplace": "Shaoxing, Zhejiang",
+  "deathplace": "Shanghai",
+  "nationality": "Chinese",
+  "movements": [
+   "may-fourth-modern"
+  ],
+  "bio": "Founder of modern Chinese literature, whose short stories and essays dissected the ills of a society in crisis.",
+  "bio_full": [
+   "Lu Xun, the pen name of Zhou Shuren, grew up in a gentry family in Shaoxing that declined after his grandfather's imprisonment and his father's long illness. He went to Japan in 1902 to study medicine in Sendai, but, as he later told it, a lantern slide of Chinese onlookers at an execution convinced him that the nation's spirit needed curing more than its bodies. Back in China he worked in the Ministry of Education and taught; in 1918 he published A Madman's Diary in the magazine New Youth. He later lived in Xiamen and Guangzhou before settling in Shanghai in 1927, where he led left-wing writers until his death.",
+   "Lu Xun wrote only two collections of short stories and a book of retold legends, but they defined modern Chinese fiction: ironic, compassionate and merciless toward hypocrisy, superstition and the 'cannibalism' of the old moral order. He also wrote hundreds of sharp essays (zawen), prose poems, a pioneering history of Chinese fiction and translations. Canonised after 1949 by the Communist Party, he remains the most studied modern Chinese writer."
+  ]
+ },
+ {
+  "id": "mao-dun",
+  "name": "Mao Dun",
+  "name_native": "茅盾",
+  "born": "1896",
+  "died": "1981",
+  "sort": 1896,
+  "birthplace": "Tongxiang, Zhejiang",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "may-fourth-modern"
+  ],
+  "bio": "Leading realist novelist and critic of the May Fourth era, author of Midnight.",
+  "bio_full": [
+   "Mao Dun, the pen name of Shen Yanbing, worked as an editor at the Commercial Press in Shanghai and in 1921 took over the influential Short Story Monthly, turning it into a platform for the new literature. He co-founded the Literary Research Association and was an early member of the Communist Party. After the failure of the 1927 revolution he began writing fiction. After 1949 he served as Minister of Culture until 1964.",
+   "Mao Dun aimed to depict Chinese society as a whole in the manner of European realism. His novel Midnight (1933) is a panorama of Shanghai's industrialists, speculators and workers, and his stories of silkworm farmers portray rural decline. The Mao Dun Literature Prize, one of China's highest, is named after him."
+  ]
+ },
+ {
+  "id": "lao-she",
+  "name": "Lao She",
+  "name_native": "老舍",
+  "born": "1899",
+  "died": "1966",
+  "sort": 1899,
+  "birthplace": "Beijing",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "may-fourth-modern"
+  ],
+  "bio": "Novelist and playwright of Beijing life, author of Rickshaw Boy and Teahouse.",
+  "bio_full": [
+   "Lao She, the pen name of Shu Qingchun, was born into a poor Manchu family in Beijing; his father, a palace guard, was killed during the Boxer crisis of 1900. He became a teacher, then taught Chinese at the School of Oriental Studies in London from 1924 to 1929, where he read Dickens and wrote his first novels. During the war against Japan he led the national writers' association. He returned from a stay in the United States in 1949 and wrote plays for the new regime, but at the start of the Cultural Revolution he was beaten by Red Guards and was found drowned the following day.",
+   "Lao She's humour, colloquial Beijing dialect and sympathy for the poor made him one of the most popular modern Chinese writers. Rickshaw Boy, about a puller's struggle and fall, is his best-known novel, and his play Teahouse, spanning fifty years of history in one Beijing teahouse, is a classic of Chinese spoken drama."
+  ]
+ },
+ {
+  "id": "shen-congwen",
+  "name": "Shen Congwen",
+  "name_native": "沈從文",
+  "born": "1902",
+  "died": "1988",
+  "sort": 1902,
+  "birthplace": "Fenghuang, Hunan",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "may-fourth-modern"
+  ],
+  "bio": "Lyrical writer of western Hunan's river towns and their people, author of Border Town.",
+  "bio_full": [
+   "Shen Congwen grew up in a garrison town in western Hunan among Han, Miao and Tujia peoples and served as a teenage soldier before going to Beijing in 1923 to become a writer, with little formal schooling. He taught at universities in Qingdao, Wuhan and Kunming and edited literary supplements. Criticised by leftist writers as reactionary, he gave up fiction after 1949, attempted suicide, and became a respected historian of Chinese costume at the Palace Museum.",
+   "His stories and novellas, above all Border Town (1934), portray the people of the Hunan borderlands with a gentle lyricism and an affection for the natural and the unspoiled, set against the corruption of the city. Ignored in the People's Republic for decades, he was rediscovered in the 1980s and is now ranked among the finest Chinese stylists of the century."
+  ]
+ },
+ {
+  "id": "ba-jin",
+  "name": "Ba Jin",
+  "name_native": "巴金",
+  "born": "1904",
+  "died": "2005",
+  "sort": 1904,
+  "birthplace": "Chengdu, Sichuan",
+  "deathplace": "Shanghai",
+  "nationality": "Chinese",
+  "movements": [
+   "may-fourth-modern"
+  ],
+  "bio": "Novelist whose Family attacked the patriarchal household and inspired a generation of young readers.",
+  "bio_full": [
+   "Ba Jin, the pen name of Li Yaotang, grew up in a large, wealthy gentry family in Chengdu, the model for the household of his novels. He left in 1923, studied in Shanghai and Nanjing and then in France, and was drawn to anarchism; his pen name has been linked to Bakunin and Kropotkin. He was persecuted during the Cultural Revolution.",
+   "Family (1933), the first part of his Turbulent Stream trilogy, depicts young people struggling against the authority of their grandfather and arranged marriages, and became a manifesto for youth rebelling against tradition. In old age his Random Thoughts, a series of essays examining his own conduct during the Cultural Revolution, made him a moral voice in China."
+  ]
+ },
+ {
+  "id": "eileen-chang",
+  "name": "Eileen Chang",
+  "name_native": "張愛玲",
+  "born": "1920",
+  "died": "1995",
+  "sort": 1920,
+  "birthplace": "Shanghai",
+  "deathplace": "Los Angeles",
+  "nationality": "Chinese",
+  "movements": [
+   "may-fourth-modern"
+  ],
+  "bio": "Writer of wartime Shanghai and Hong Kong whose stories of love and survival made her one of the most celebrated modern Chinese authors.",
+  "bio_full": [
+   "Eileen Chang (Zhang Ailing) was born into an aristocratic family, the great-granddaughter of the statesman Li Hongzhang, and grew up amid her parents' unhappy marriage. She studied at the University of Hong Kong until the Japanese invasion in 1941 and became a literary sensation in occupied Shanghai in 1943–45. Her brief marriage to Hu Lancheng, a collaborator, later counted against her. She left China in 1952 for Hong Kong and then the United States, where she lived increasingly reclusively.",
+   "Chang's stories, notably those in Romances (1944) such as Love in a Fallen City and The Golden Cangue, combine the textures of traditional fiction with a modern, sardonic sense of desire, money and the fragility of personal life in a time of war. Long excluded from the mainland canon, she has been hugely influential in Taiwan and Hong Kong, and widely read in China since the 1980s."
+  ]
+ },
+ {
+  "id": "kojiki-compilers",
+  "name": "Compilers of the Kojiki",
+  "name_native": "古事記編者",
+  "born": "fl. 680–712",
+  "died": "",
+  "sort": 700,
+  "birthplace": "Yamato",
+  "deathplace": "Heijō-kyō (Nara)",
+  "nationality": "Japanese",
+  "movements": [
+   "nara-anthologies"
+  ],
+  "bio": "Hieda no Are, who memorised the old traditions, and Ō no Yasumaro, who wrote them down in 712 as Japan's oldest book.",
+  "bio_full": [
+   "According to Ō no Yasumaro's preface, Emperor Tenmu (r. 673–686), concerned that the genealogies and legends held by the great clans were full of errors, had a court attendant of prodigious memory, Hieda no Are, learn the correct versions. After Tenmu's death the project lapsed until Empress Genmei ordered Yasumaro, a court noble, to record what Are recited; he presented the Kojiki in 712. Little else is known of Are, whose gender is even debated. Yasumaro's existence was confirmed in 1979 when his tomb and bronze epitaph were found near Nara.",
+   "The compilers faced the problem of writing Japanese in Chinese characters, mixing Chinese prose with characters used for their sound to preserve names, songs and key words. Their work legitimised the imperial line by tracing it to the sun goddess Amaterasu, and in the eighteenth century the scholar Motoori Norinaga made it the foundation of the 'National Learning' movement."
+  ],
+  "portrait_file": "Ono-Yasumaro.jpg",
+  "portrait_caption": "Imagined portrait of Ō no Yasumaro, 19th century"
+ },
+ {
+  "id": "kakinomoto-no-hitomaro",
+  "name": "Kakinomoto no Hitomaro",
+  "name_native": "柿本人麻呂",
+  "born": "c. 662",
+  "died": "c. 710",
+  "sort": 662,
+  "birthplace": "Yamato",
+  "deathplace": "Iwami Province (traditionally)",
+  "nationality": "Japanese",
+  "movements": [
+   "nara-anthologies"
+  ],
+  "bio": "The greatest poet of the Man'yōshū, revered in Japan as a 'saint of poetry'.",
+  "bio_full": [
+   "Hitomaro was a court poet in the reigns of Empress Jitō and Emperor Monmu, at the end of the seventh century. Almost everything known about him comes from his poems and their headnotes in the Man'yōshū: he composed laments for princes, poems for imperial excursions, and personal poems on parting from and mourning for his wives, and seems to have held a modest rank and served in the provinces, perhaps dying in Iwami.",
+   "Hitomaro brought the long chōka form to its height, with grand parallel structures, pillow words and a ceremonial dignity that also allowed deep personal grief, and he wrote many of the finest tanka. From the Heian period onward he was worshipped as a deity of poetry, and his imagined portrait was hung at poetry gatherings."
+  ],
+  "portrait_file": "Sanjūrokkasen-gaku - 1 - Kanō Tan’yū - Hitomaru.jpg",
+  "portrait_caption": "Kanō Tan'yū, Hitomaro, from the plaques of the Thirty-Six Poetic Immortals, 1648"
+ },
+ {
+  "id": "otomo-no-yakamochi",
+  "name": "Ōtomo no Yakamochi",
+  "name_native": "大伴家持",
+  "born": "c. 718",
+  "died": "785",
+  "sort": 718,
+  "birthplace": "Yamato",
+  "deathplace": "Mutsu Province (Tagajō)",
+  "nationality": "Japanese",
+  "movements": [
+   "nara-anthologies"
+  ],
+  "bio": "Nara poet and official, the most represented poet in the Man'yōshū and probably its final compiler.",
+  "bio_full": [
+   "Yakamochi was the son of the poet and statesman Ōtomo no Tabito and head of an ancient military clan whose power declined as the Fujiwara rose. He served as governor of Etchū Province (746–751), where he wrote many of his finest poems, and later in a succession of posts, becoming involved in court intrigues that twice led to his demotion. He died while serving as general on the northern frontier and was posthumously stripped of his rank because of a conspiracy, later restored.",
+   "About 470 of his poems, more than a tenth of the anthology, appear in the Man'yōshū, whose last four books read like his poetic diary. His work moves from public and clan poems to delicate, melancholy tanka on spring and solitude that look ahead to the Heian sensibility."
+  ],
+  "portrait_file": "Sanjūrokkasen-gaku - 5 - Kanō Tan’yū - Chūnagon Yakamochi.jpg",
+  "portrait_caption": "Kanō Tan'yū, Yakamochi, from the plaques of the Thirty-Six Poetic Immortals, 1648"
+ },
+ {
+  "id": "ki-no-tsurayuki",
+  "name": "Ki no Tsurayuki",
+  "name_native": "紀貫之",
+  "born": "c. 872",
+  "died": "945",
+  "sort": 872,
+  "birthplace": "Heian-kyō (Kyoto)",
+  "deathplace": "Heian-kyō",
+  "nationality": "Japanese",
+  "movements": [
+   "heian-court-literature"
+  ],
+  "bio": "Heian poet and critic, chief compiler of the Kokinshū and author of the Tosa Diary.",
+  "bio_full": [
+   "Tsurayuki came from a minor branch of the Ki clan and held mid-ranking court posts. In 905 Emperor Daigo commissioned him and three others to compile the first imperial anthology of Japanese poetry, the Kokin Wakashū. From 930 to 935 he was governor of Tosa Province on Shikoku, and his voyage home became the Tosa Diary.",
+   "His kana preface to the Kokinshū, which begins by saying that Japanese poetry takes the human heart as its seed, is the founding statement of Japanese poetics, and his elegant, witty waka set the standard for court poetry. By writing the Tosa Diary in kana in the voice of a woman, he opened the way for women's diary literature."
+  ],
+  "portrait_file": "Ki no Tsurayuki.jpg",
+  "portrait_caption": "Later imagined portrait of Ki no Tsurayuki"
+ },
+ {
+  "id": "ono-no-komachi",
+  "name": "Ono no Komachi",
+  "name_native": "小野小町",
+  "born": "c. 825",
+  "died": "c. 900",
+  "sort": 825,
+  "birthplace": "",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "heian-court-literature"
+  ],
+  "bio": "Early Heian waka poet famed for her passionate love poems and legendary beauty.",
+  "bio_full": [
+   "Almost nothing certain is known about Ono no Komachi beyond her poems; she was probably a lady-in-waiting at the court in the mid-ninth century. Ki no Tsurayuki named her among the Six Poetic Immortals in the Kokinshū preface, comparing her poems to a beautiful woman troubled by illness.",
+   "Some eighteen poems in the Kokinshū are securely hers, many about love, dreams and the fading of beauty. Later legend made her a proud beauty who rejected suitors and ended as a wandering beggar, a story told in several Noh plays, including Sotoba Komachi."
+  ],
+  "portrait_file": "Suzuki Harunobu - The Poetess Ono no Komachi - 1925.2046 - Art Institute of Chicago.jpg",
+  "portrait_caption": "Suzuki Harunobu, The Poetess Ono no Komachi, woodblock print, Art Institute of Chicago"
+ },
+ {
+  "id": "heian-anonymous-authors",
+  "name": "Anonymous Heian authors",
+  "name_native": "平安時代の作者不詳",
+  "born": "9th century",
+  "died": "12th century",
+  "sort": 900,
+  "birthplace": "Heian-kyō (Kyoto)",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "heian-court-literature"
+  ],
+  "bio": "The unknown writers behind early monogatari such as The Tale of the Bamboo Cutter and The Tales of Ise, and the tale collection Konjaku monogatarishū.",
+  "bio_full": [
+   "Many of the founding works of Japanese prose fiction are anonymous. The Tale of the Bamboo Cutter, which Murasaki Shikibu called the ancestor of all tales, was probably written by a learned man familiar with Chinese texts in the late ninth or early tenth century. The Tales of Ise, a sequence of episodes built around poems, many by Ariwara no Narihira, grew in stages over the tenth century. Konjaku monogatarishū, more than a thousand tales from India, China and Japan, was compiled around 1120 by an unknown hand, perhaps a monk.",
+   "These works established the basic forms of Japanese narrative: the supernatural tale, the poem-tale in which prose frames waka, and the anecdotal tale collection. They were endlessly retold in later literature, painting and theatre."
+  ]
+ },
+ {
+  "id": "murasaki-shikibu",
+  "name": "Murasaki Shikibu",
+  "name_native": "紫式部",
+  "born": "c. 973",
+  "died": "c. 1014 or later",
+  "sort": 973,
+  "birthplace": "Heian-kyō (Kyoto)",
+  "deathplace": "Heian-kyō",
+  "nationality": "Japanese",
+  "movements": [
+   "heian-court-literature"
+  ],
+  "bio": "Lady-in-waiting at the Heian court and author of The Tale of Genji, often called the world's first novel.",
+  "bio_full": [
+   "Murasaki Shikibu is a nickname; her real name is unknown. She was the daughter of Fujiwara no Tametoki, a scholar of Chinese and provincial governor, and learned Chinese classics by listening to her brother's lessons. She married an older official, Fujiwara no Nobutaka, around 998 and was widowed with a daughter in 1001. Probably already known for parts of Genji, she was brought around 1005 into the service of Empress Shōshi, daughter of the regent Fujiwara no Michinaga, and her diary records life at court in 1008–10. The date of her death is uncertain.",
+   "The Tale of Genji, in fifty-four chapters, follows the loves and losses of an imperial prince and then of his descendants, with a psychological subtlety, sense of impermanence and refinement of feeling summed up by later critics as mono no aware, the 'pathos of things'. It has shaped Japanese literature, painting and aesthetics for a millennium. Her diary and a small collection of her poems also survive."
+  ],
+  "portrait_file": "Murasaki-Shikibu-composing-Genji-Monogatari.png",
+  "portrait_caption": "Murasaki Shikibu composing The Tale of Genji, Edo-period painting"
+ },
+ {
+  "id": "sei-shonagon",
+  "name": "Sei Shōnagon",
+  "name_native": "清少納言",
+  "born": "c. 966",
+  "died": "c. 1025",
+  "sort": 966,
+  "birthplace": "Heian-kyō (Kyoto)",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "heian-court-literature"
+  ],
+  "bio": "Witty lady-in-waiting of the Heian court and author of The Pillow Book.",
+  "bio_full": [
+   "Sei Shōnagon, a court name, was the daughter of the poet Kiyohara no Motosuke. Around 993 she entered the service of Empress Teishi, consort of Emperor Ichijō, and served her until the empress's death in 1000, after the rival Fujiwara faction of Michinaga had eclipsed Teishi's family. Little is known of her later life.",
+   "The Pillow Book, a collection of lists, anecdotes, observations and opinions, is sharp, funny, confident and visually precise, celebrating the elegance of Teishi's salon. It founded the zuihitsu ('following the brush') genre of the miscellany. Murasaki Shikibu's diary criticised her as conceited, and the two women have been compared ever since."
+  ],
+  "portrait_file": "Hyakuninisshu 062.jpg",
+  "portrait_caption": "Sei Shōnagon in an Edo-period illustrated edition of the Hyakunin Isshu"
+ },
+ {
+  "id": "saigyo",
+  "name": "Saigyō",
+  "name_native": "西行",
+  "born": "1118",
+  "died": "1190",
+  "sort": 1118,
+  "birthplace": "Kii or Heian-kyō",
+  "deathplace": "Hirokawa-dera, Kawachi",
+  "nationality": "Japanese",
+  "movements": [
+   "kamakura-muromachi"
+  ],
+  "bio": "Warrior turned wandering Buddhist monk, the most loved waka poet of medieval Japan.",
+  "bio_full": [
+   "Born Satō Norikiyo into a warrior family, Saigyō served as a guard of the retired emperor Toba before suddenly renouncing the world at twenty-two, in 1140. He lived in hermitages at Mount Kōya and elsewhere and travelled widely, twice journeying to the far north, partly to raise funds for the rebuilding of Tōdai-ji.",
+   "His poems on cherry blossoms, the moon, travel and solitude combine Buddhist reflection with deep personal feeling. Ninety-four were included in the Shin Kokinshū, more than by any other poet, and his life as a travelling poet-monk became the model that Bashō consciously followed."
+  ],
+  "portrait_file": "Hyakuninisshu 086.jpg",
+  "portrait_caption": "Saigyō in an Edo-period illustrated edition of the Hyakunin Isshu"
+ },
+ {
+  "id": "fujiwara-no-teika",
+  "name": "Fujiwara no Teika",
+  "name_native": "藤原定家",
+  "born": "1162",
+  "died": "1241",
+  "sort": 1162,
+  "birthplace": "Heian-kyō (Kyoto)",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "kamakura-muromachi"
+  ],
+  "bio": "Poet, critic and editor who co-compiled the Shin Kokinshū and is credited with the Hyakunin Isshu.",
+  "bio_full": [
+   "Teika (or Sadaie) was the son of the poet Fujiwara no Shunzei. He was a leading poet at the court of Retired Emperor Go-Toba, who appointed him one of the compilers of the Shin Kokinshū (1205), and later compiled the Shin Chokusenshū alone. His diary, Meigetsuki, covers more than fifty years of court life.",
+   "Teika developed an ideal of ethereal, suggestive beauty (yōen and ushin) and wrote influential treatises on poetry. His copies and editions of classical texts, including The Tale of Genji, preserved them for later ages. The anthology of a hundred poets each represented by one poem, associated with his villa at Ogura, became the basis of a card game still played at New Year."
+  ],
+  "portrait_file": "Teika(3).jpg",
+  "portrait_caption": "Portrait of Fujiwara no Teika"
+ },
+ {
+  "id": "kamo-no-chomei",
+  "name": "Kamo no Chōmei",
+  "name_native": "鴨長明",
+  "born": "1155",
+  "died": "1216",
+  "sort": 1155,
+  "birthplace": "Kyoto",
+  "deathplace": "Hino, near Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "kamakura-muromachi"
+  ],
+  "bio": "Poet and musician who became a Buddhist recluse and wrote Hōjōki, An Account of My Hut.",
+  "bio_full": [
+   "Chōmei was the son of the head priest of the Shimogamo Shrine in Kyoto but failed to inherit the post. He was a skilled poet and biwa player and served in Go-Toba's poetry bureau. Around 1204 he took Buddhist vows and eventually built a tiny portable hut on Mount Hino, where in 1212 he wrote his famous essay.",
+   "Hōjōki describes the fires, whirlwind, famine and earthquake that struck Kyoto in his lifetime as proof of impermanence, then describes his contentment in his hut, ending with a doubt whether his attachment to it is itself a sin. He also wrote a treatise on poetry and a collection of Buddhist tales."
+  ],
+  "portrait_file": "Kamo no Chomei.jpg",
+  "portrait_caption": "Later imagined portrait of Kamo no Chōmei"
+ },
+ {
+  "id": "heike-storytellers",
+  "name": "Biwa storytellers of the Heike",
+  "name_native": "平家物語の作者・琵琶法師",
+  "born": "13th century",
+  "died": "14th century",
+  "sort": 1250,
+  "birthplace": "Kyoto",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "kamakura-muromachi"
+  ],
+  "bio": "The blind biwa-playing monks (biwa hōshi) and unknown authors who shaped The Tale of the Heike.",
+  "bio_full": [
+   "The authorship of The Tale of the Heike is unknown. The essayist Yoshida Kenkō reported that a former official, Yukinaga, wrote it and taught it to a blind man named Shōbutsu to chant, but this cannot be verified. The tale developed over the thirteenth and fourteenth centuries in many versions, read and recited, and was finally fixed in 1371 by the blind master Kakuichi, whose text is the standard one.",
+   "The biwa hōshi chanted the tale to the lute in temples and at gatherings, partly as a Buddhist pacification of the spirits of the dead. Their art gave the war tale its rhythmic prose, its stock scenes of battle and death, and its overarching theme of the impermanence of worldly glory."
+  ]
+ },
+ {
+  "id": "yoshida-kenko",
+  "name": "Yoshida Kenkō",
+  "name_native": "吉田兼好",
+  "born": "c. 1283",
+  "died": "c. 1352",
+  "sort": 1283,
+  "birthplace": "Kyoto",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "kamakura-muromachi"
+  ],
+  "bio": "Court official turned Buddhist monk and author of Essays in Idleness (Tsurezuregusa).",
+  "bio_full": [
+   "Born Urabe Kaneyoshi into a family of Shinto priests at the Yoshida Shrine, Kenkō served at court under Emperor Go-Nijō and took Buddhist vows around 1313, perhaps after the emperor's death. He lived in and around Kyoto, was known as a waka poet, and moved in the circles of warriors and courtiers during the turbulent years of the fall of the Kamakura shogunate.",
+   "Essays in Idleness, 243 passages ranging from anecdotes to aesthetic reflections, praises imperfection, impermanence and the beauty of things past their prime. Little noticed at first, it became one of the most widely read Japanese classics from the seventeenth century on."
+  ],
+  "portrait_file": "Yoshida Kenko.jpg",
+  "portrait_caption": "Later imagined portrait of Yoshida Kenkō"
+ },
+ {
+  "id": "zeami",
+  "name": "Zeami Motokiyo",
+  "name_native": "世阿弥",
+  "born": "c. 1363",
+  "died": "c. 1443",
+  "sort": 1363,
+  "birthplace": "",
+  "deathplace": "Sado Island or Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "kamakura-muromachi"
+  ],
+  "bio": "Actor, playwright and theorist who, with his father Kan'ami, created Noh theatre.",
+  "bio_full": [
+   "Zeami was the son of Kan'ami, leader of a sarugaku troupe from Yamato. In 1374 the young shogun Ashikaga Yoshimitsu saw them perform and took the boy under his patronage, giving him access to court poets and aristocratic culture. After his father's death Zeami led the troupe and wrote many plays and treatises. Under later shoguns he fell from favour; his son and heir died young, and in 1434 he was exiled to Sado Island, where he is thought to have spent his last years.",
+   "Zeami's treatises, beginning with the Fūshikaden, are among the earliest works of theatre theory anywhere, built around the ideals of yūgen (subtle grace) and hana (the 'flower' of performance). His dream plays, in which a ghost relives a moment of passion or suffering for a travelling monk, gave Noh its characteristic form. Some fifty plays are attributed to him, many still in the repertory."
+  ]
+ },
+ {
+  "id": "ihara-saikaku",
+  "name": "Ihara Saikaku",
+  "name_native": "井原西鶴",
+  "born": "1642",
+  "died": "1693",
+  "sort": 1642,
+  "birthplace": "Osaka",
+  "deathplace": "Osaka",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-literature"
+  ],
+  "bio": "Osaka merchant-poet who created the ukiyo-zōshi, witty prose fiction of love and money in the 'floating world'.",
+  "bio_full": [
+   "Saikaku was probably born into a prosperous merchant family in Osaka. He first won fame as a haikai poet of the Danrin school, renowned for speed composition: in 1684 he is said to have composed 23,500 verses in a day and a night. After the death of his young wife he handed his business to others and turned to writing.",
+   "Beginning with The Life of an Amorous Man (1682), Saikaku wrote fiction about the pleasures and passions of townspeople, then turned to warrior tales and to the merchant's pursuit of wealth, as in The Japanese Family Storehouse. His terse, elliptical style, comic realism and close knowledge of the pleasure quarters made him the founder of popular Edo fiction."
+  ],
+  "portrait_file": "Ihara-Saikaku-Portrait.png",
+  "portrait_caption": "Portrait of Ihara Saikaku"
+ },
+ {
+  "id": "chikamatsu-monzaemon",
+  "name": "Chikamatsu Monzaemon",
+  "name_native": "近松門左衛門",
+  "born": "1653",
+  "died": "1725",
+  "sort": 1653,
+  "birthplace": "Echizen Province",
+  "deathplace": "Osaka",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-literature"
+  ],
+  "bio": "The greatest Japanese playwright, who wrote for the puppet (jōruri) and kabuki theatres.",
+  "bio_full": [
+   "Born Sugimori Nobumori into a samurai family that lost its position, Chikamatsu served in the household of a Kyoto court noble and began writing for puppet theatre in the 1680s, in partnership with the chanter Takemoto Gidayū. He also wrote kabuki plays for the actor Sakata Tōjūrō, then from 1705 worked as staff writer for Gidayū's Takemoto-za in Osaka.",
+   "He wrote more than a hundred plays: historical dramas such as The Battles of Coxinga, a huge success in 1715, and domestic tragedies (sewamono) based on recent events, such as The Love Suicides at Sonezaki, in which townsmen torn between duty (giri) and feeling (ninjō) die for love. His plays remain staples of bunraku and kabuki."
+  ],
+  "portrait_file": "Chikamatsu Monzaemon.jpg",
+  "portrait_caption": "Edo-period portrait of Chikamatsu Monzaemon"
+ },
+ {
+  "id": "matsuo-basho",
+  "name": "Matsuo Bashō",
+  "name_native": "松尾芭蕉",
+  "born": "1644",
+  "died": "1694",
+  "sort": 1644,
+  "birthplace": "Iga Province",
+  "deathplace": "Osaka",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-literature"
+  ],
+  "bio": "The supreme master of haikai poetry and author of travel journals such as The Narrow Road to the Deep North.",
+  "bio_full": [
+   "Born near Ueno in Iga to a family of low-ranking samurai, Bashō served a young lord with whom he studied haikai linked verse. After his master's death he moved to Edo, where he became a professional teacher of poetry. In 1680 he withdrew to a hut in Fukagawa, where a disciple planted a banana tree (bashō) that gave him his name. From 1684 he made a series of journeys on foot, the longest in 1689 through northern Honshū, and he died of illness in Osaka on another journey.",
+   "Bashō turned haikai, until then mostly a game of wit, into a serious art infused with Zen and Daoist ideas and the tradition of Saigyō and Chinese poets, using the opening hokku (later called haiku) to capture moments of insight in ordinary things. His ideal of sabi, lonely beauty, and later of karumi, lightness, and his poetic travel diaries made him the central figure of Japanese poetry."
+  ],
+  "portrait_file": "Basho by Morikawa Kyoriku (1656-1715).jpg",
+  "portrait_caption": "Morikawa Kyoriku, portrait of Bashō by his disciple"
+ },
+ {
+  "id": "yosa-buson",
+  "name": "Yosa Buson",
+  "name_native": "与謝蕪村",
+  "born": "1716",
+  "died": "1784",
+  "sort": 1716,
+  "birthplace": "Kema, Settsu Province (Osaka)",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-literature"
+  ],
+  "bio": "Haiku poet and painter of the literati school, admired for vivid, painterly verse.",
+  "bio_full": [
+   "Buson left his home village near Osaka young, studied haikai in Edo, and spent years travelling in the north in Bashō's footsteps. He settled in Kyoto around 1751 and became a leading painter in the Chinese-inspired nanga style, collaborating with Ike no Taiga. Late in life he led a revival of haikai that looked back to Bashō.",
+   "Buson's poems are sensuous, pictorial and often romantic or narrative, reflecting his painter's eye and learning in Chinese poetry. He also illustrated haikai texts, including Bashō's Narrow Road. Masaoka Shiki's championing of him in the 1890s raised him almost to Bashō's level."
+  ],
+  "portrait_file": "Yosa Buson uk.jpg",
+  "portrait_caption": "Portrait of Yosa Buson"
+ },
+ {
+  "id": "kobayashi-issa",
+  "name": "Kobayashi Issa",
+  "name_native": "小林一茶",
+  "born": "1763",
+  "died": "1828",
+  "sort": 1763,
+  "birthplace": "Kashiwabara, Shinano Province",
+  "deathplace": "Kashiwabara",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-literature"
+  ],
+  "bio": "Haiku poet of compassion and humour, famous for poems about small creatures.",
+  "bio_full": [
+   "Issa was the son of a farmer in the mountains of Shinano. After his mother's death and conflicts with his stepmother he was sent to Edo at fourteen, where he became a haikai poet and travelled widely as a teacher. Returning home after a long inheritance dispute, he married at fifty-one, but all his children and his first wife died young, and his house burned the year before his death.",
+   "Issa wrote some 20,000 haiku, many about frogs, snails, flies and sparrows, in a colloquial, playful and deeply compassionate voice shaped by his Pure Land Buddhist faith and personal grief. His prose-and-poetry journal The Year of My Life (Oraga haru) is a masterpiece of haibun."
+  ],
+  "portrait_file": "Kobayashi Issa-Portrait.jpg",
+  "portrait_caption": "Portrait of Kobayashi Issa"
+ },
+ {
+  "id": "ueda-akinari",
+  "name": "Ueda Akinari",
+  "name_native": "上田秋成",
+  "born": "1734",
+  "died": "1809",
+  "sort": 1734,
+  "birthplace": "Osaka",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-literature"
+  ],
+  "bio": "Scholar and writer of Tales of Moonlight and Rain, the classic of Japanese supernatural fiction.",
+  "bio_full": [
+   "Akinari was born in Osaka to an unknown mother and adopted by a merchant family; a childhood illness left his fingers deformed. He wrote comic fiction, studied Japanese classics in the National Learning movement, debated Motoori Norinaga, and practised medicine after his house burned in 1771. His last years in Kyoto were spent in poverty and near blindness.",
+   "Tales of Moonlight and Rain (1776), nine stories adapted from Chinese and Japanese sources in an elegant classical style, combine ghosts and demons with psychological intensity. Akinari later wrote the more personal Tales of Spring Rain. Mizoguchi's film Ugetsu (1953) drew on two of his tales."
+  ],
+  "portrait_file": "Ueda Akinari.jpg",
+  "portrait_caption": "Portrait of Ueda Akinari"
+ },
+ {
+  "id": "kyokutei-bakin",
+  "name": "Kyokutei Bakin",
+  "name_native": "曲亭馬琴",
+  "born": "1767",
+  "died": "1848",
+  "sort": 1767,
+  "birthplace": "Edo",
+  "deathplace": "Edo",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-literature"
+  ],
+  "bio": "The leading writer of late Edo historical romance, author of the 106-volume Hakkenden.",
+  "bio_full": [
+   "Born Takizawa Okikuni into a samurai family in Edo, Bakin gave up service, studied with the comic writer Santō Kyōden, and became one of the first Japanese authors to live from writing. His collaborations with illustrators, including Hokusai, were bestsellers. Blind in his last years, he dictated the end of Hakkenden to his daughter-in-law.",
+   "Bakin's yomihon, long illustrated novels influenced by Chinese fiction such as Water Margin, combine adventure and Confucian morality, rewarding good and punishing evil. Nansō Satomi Hakkenden, published 1814–42, follows eight heroes each bearing a Confucian virtue, and remains a source for modern manga and anime."
+  ],
+  "portrait_file": "Kyokutei Bakin.jpg",
+  "portrait_caption": "Portrait of Kyokutei Bakin"
+ },
+ {
+  "id": "mori-ogai",
+  "name": "Mori Ōgai",
+  "name_native": "森鷗外",
+  "born": "1862",
+  "died": "1922",
+  "sort": 1862,
+  "birthplace": "Tsuwano, Iwami Province",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-modern"
+  ],
+  "bio": "Army surgeon, translator and novelist, a founding figure of modern Japanese literature.",
+  "bio_full": [
+   "Born Mori Rintarō into a family of physicians to the lord of Tsuwano, Ōgai graduated in medicine from Tokyo and joined the army, which sent him to Germany from 1884 to 1888. He rose to Surgeon General of the Imperial Army while pursuing a parallel literary career, translating Goethe, Andersen and Ibsen and founding literary magazines.",
+   "His first story, The Dancing Girl (1890), about a Japanese student's love affair in Berlin, opened modern Japanese fiction of the self. After the death of Emperor Meiji and General Nogi's ritual suicide in 1912, he turned to historical fiction and biographies of Edo-period figures, written in a restrained, precise style that influenced many later writers."
+  ]
+ },
+ {
+  "id": "natsume-soseki",
+  "name": "Natsume Sōseki",
+  "name_native": "夏目漱石",
+  "born": "1867",
+  "died": "1916",
+  "sort": 1867,
+  "birthplace": "Edo (Tokyo)",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-modern"
+  ],
+  "bio": "The most beloved modern Japanese novelist, author of I Am a Cat, Botchan and Kokoro.",
+  "bio_full": [
+   "Born Natsume Kinnosuke in Edo the year before the Meiji Restoration, Sōseki was given up for adoption and later returned to his family. He studied English literature at Tokyo Imperial University, taught in Matsuyama and Kumamoto, and spent two miserable years in London (1900–02) on a government scholarship. Back in Tokyo, he lectured at the university and in 1905 began serialising I Am a Cat; in 1907 he left academia to write full-time for the Asahi newspaper. He suffered from stomach ulcers and died at forty-nine.",
+   "Sōseki moved from comic satire to psychological novels about loneliness, egoism and the cost of modernisation for individuals caught between Japanese and Western values, culminating in Kokoro and the unfinished Light and Darkness. He mentored a circle of younger writers, including Akutagawa, and his portrait appeared on the 1,000-yen note from 1984 to 2004."
+  ]
+ },
+ {
+  "id": "higuchi-ichiyo",
+  "name": "Higuchi Ichiyō",
+  "name_native": "樋口一葉",
+  "born": "1872",
+  "died": "1896",
+  "sort": 1872,
+  "birthplace": "Tokyo",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-modern"
+  ],
+  "bio": "The first major woman writer of modern Japan, whose stories of Tokyo's poor were written in a last flowering of classical prose.",
+  "bio_full": [
+   "Born Higuchi Natsu, Ichiyō studied classical poetry at a private academy. After her father's death in 1889 she became the support of her mother and sister, taking in sewing and briefly running a small shop near the Yoshiwara pleasure quarter. She began publishing fiction in 1892, and in the fourteen months before her death from tuberculosis at twenty-four she wrote the stories that made her famous.",
+   "Takekurabe (Child's Play), Nigorie (Troubled Waters) and other stories depict children, prostitutes and the urban poor with sympathy and irony, in an elegant pseudo-classical style. Her diaries are also valued, and her portrait has appeared on the 5,000-yen note since 2004."
+  ]
+ },
+ {
+  "id": "masaoka-shiki",
+  "name": "Masaoka Shiki",
+  "name_native": "正岡子規",
+  "born": "1867",
+  "died": "1902",
+  "sort": 1867,
+  "birthplace": "Matsuyama, Iyo Province",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-modern"
+  ],
+  "bio": "Poet and critic who reformed haiku and tanka for the modern age.",
+  "bio_full": [
+   "Born in Matsuyama, Shiki went to Tokyo, where he befriended Natsume Sōseki at university. He left without a degree to work for the newspaper Nippon. Tuberculosis, contracted after a stint as a war correspondent in 1895, confined him to bed for his last seven years, during which he wrote prolifically.",
+   "Shiki coined the term haiku for the independent verse, criticised the stale conventions of his day and praised Buson above Bashō, advocating shasei, 'sketching from life'. He also revived the tanka through his Negishi poetry circle, and his bed-ridden diaries are classics."
+  ]
+ },
+ {
+  "id": "akutagawa-ryunosuke",
+  "name": "Akutagawa Ryūnosuke",
+  "name_native": "芥川龍之介",
+  "born": "1892",
+  "died": "1927",
+  "sort": 1892,
+  "birthplace": "Tokyo",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-modern"
+  ],
+  "bio": "Master of the modern Japanese short story, author of Rashōmon and In a Grove.",
+  "bio_full": [
+   "Akutagawa was born in Tokyo; his mother became mentally ill soon after his birth and he was raised by her family. While studying English at Tokyo Imperial University he published Rashōmon (1915) and The Nose, which Natsume Sōseki praised. He became a celebrated writer, but suffered declining health, fear of inherited madness and anxiety, and took his own life at thirty-five.",
+   "Many of his stories retell tales from the Konjaku monogatarishū and other classics with modern psychological irony; later works turned to autobiography and despair. The Akutagawa Prize, Japan's most prestigious literary award for new writers, was founded in his memory in 1935. Kurosawa's film Rashomon (1950) combined two of his stories."
+  ]
+ },
+ {
+  "id": "tanizaki-junichiro",
+  "name": "Tanizaki Jun'ichirō",
+  "name_native": "谷崎潤一郎",
+  "born": "1886",
+  "died": "1965",
+  "sort": 1886,
+  "birthplace": "Tokyo",
+  "deathplace": "Yugawara, Kanagawa",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-modern",
+   "postwar-japanese"
+  ],
+  "bio": "Novelist of desire, beauty and tradition, author of The Makioka Sisters and In Praise of Shadows.",
+  "bio_full": [
+   "Born into a merchant family in Tokyo, Tanizaki made his name with stories of sensual obsession such as The Tattooer (1910). After the 1923 Kantō earthquake he moved to the Kansai region, whose culture increasingly attracted him. He made three modern-language translations of The Tale of Genji. His long novel The Makioka Sisters was banned by wartime censors and published after the war.",
+   "Tanizaki's work moves from Western-influenced decadence to an exploration of traditional Japanese aesthetics, as in the essay In Praise of Shadows (1933), while keeping his fascination with erotic power and masochism, as in The Key and Diary of a Mad Old Man. He was repeatedly shortlisted for the Nobel Prize."
+  ]
+ },
+ {
+  "id": "kawabata-yasunari",
+  "name": "Kawabata Yasunari",
+  "name_native": "川端康成",
+  "born": "1899",
+  "died": "1972",
+  "sort": 1899,
+  "birthplace": "Osaka",
+  "deathplace": "Zushi, Kanagawa",
+  "nationality": "Japanese",
+  "movements": [
+   "meiji-modern",
+   "postwar-japanese"
+  ],
+  "bio": "Novelist of melancholy beauty and the first Japanese winner of the Nobel Prize in Literature (1968).",
+  "bio_full": [
+   "Orphaned in early childhood, Kawabata was raised by his grandfather, who also died when he was fifteen. At Tokyo Imperial University he co-founded the Neo-Perceptionist group of modernist writers. His story The Dancing Girl of Izu (1926) brought success, and he worked on Snow Country from 1935 to 1948. He was a generous supporter of younger writers, including Mishima. He died in 1972 of gas poisoning, generally believed to be suicide.",
+   "Kawabata's novels, including Snow Country, Thousand Cranes and The Sound of the Mountain, use haiku-like juxtaposition and silence to portray loneliness, love and the transience of beauty, often with a sense of a traditional Japan slipping away. His very short 'palm-of-the-hand stories' are also admired."
+  ]
+ },
+ {
+  "id": "dazai-osamu",
+  "name": "Dazai Osamu",
+  "name_native": "太宰治",
+  "born": "1909",
+  "died": "1948",
+  "sort": 1909,
+  "birthplace": "Kanagi, Aomori",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "postwar-japanese"
+  ],
+  "bio": "Confessional novelist of postwar despair, author of The Setting Sun and No Longer Human.",
+  "bio_full": [
+   "Born Tsushima Shūji, the son of a wealthy landowner and politician in northern Japan, Dazai studied French literature in Tokyo, flirted with communism and made several suicide attempts, one of which killed his companion. Addiction and scandal marked his life, but he produced a large body of work through the war. In 1948 he drowned himself with a lover in the Tamagawa Aqueduct.",
+   "His novel The Setting Sun (1947), about a declining aristocratic family, gave its name to the dispossessed postwar class, and No Longer Human, a fictionalised self-portrait of a man who feels unable to be human, is one of the best-selling Japanese novels. His humour and intimacy keep him popular with young readers."
+  ]
+ },
+ {
+  "id": "mishima-yukio",
+  "name": "Mishima Yukio",
+  "name_native": "三島由紀夫",
+  "born": "1925",
+  "died": "1970",
+  "sort": 1925,
+  "birthplace": "Tokyo",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "postwar-japanese"
+  ],
+  "bio": "Novelist, playwright and nationalist, author of The Temple of the Golden Pavilion and The Sea of Fertility.",
+  "bio_full": [
+   "Born Hiraoka Kimitake, Mishima was raised largely by his grandmother and published while still at school. His Confessions of a Mask (1949) made him famous. Enormously prolific, he wrote novels, modern Noh plays and essays, built up his body through bodybuilding and martial arts, and formed a private militia. On 25 November 1970, having finished his tetralogy The Sea of Fertility, he seized a general's office in Tokyo, called on soldiers to restore the emperor's power, and committed ritual suicide.",
+   "Mishima's ornate, intellectual prose explores beauty, death, the body and the gap between ideals and reality. The Temple of the Golden Pavilion (1956), based on the arson of Kinkaku-ji, is often considered his masterpiece. His spectacular death has continued to colour readings of his work."
+  ]
+ },
+ {
+  "id": "oe-kenzaburo",
+  "name": "Ōe Kenzaburō",
+  "name_native": "大江健三郎",
+  "born": "1935",
+  "died": "2023",
+  "sort": 1935,
+  "birthplace": "Ōse, Ehime",
+  "deathplace": "",
+  "nationality": "Japanese",
+  "movements": [
+   "postwar-japanese"
+  ],
+  "bio": "Novelist of moral engagement, winner of the Nobel Prize in Literature in 1994.",
+  "bio_full": [
+   "Ōe grew up in a forested village on Shikoku and studied French literature at the University of Tokyo, winning the Akutagawa Prize in 1958 while still a student. The birth in 1963 of his son Hikari with a serious brain abnormality transformed his work. He was a prominent pacifist and anti-nuclear campaigner, wrote Hiroshima Notes, and declined Japan's Order of Culture in 1994.",
+   "His novels, from A Personal Matter (1964) and The Silent Cry (1967) onward, combine personal experience, myth of his native village and political themes in a dense style influenced by Sartre and Rabelais. The Nobel committee praised his creation of an imagined world where life and myth condense into a picture of the human predicament."
+  ]
+ },
+ {
+  "id": "hyangga-poets",
+  "name": "Hyangga poets",
+  "name_native": "鄕歌 작가",
+  "born": "c. 600",
+  "died": "c. 1000",
+  "sort": 650,
+  "birthplace": "Silla",
+  "deathplace": "",
+  "nationality": "Korean",
+  "movements": [
+   "silla-goryeo-literature"
+  ],
+  "bio": "The monks, hwarang youths and others of Silla and early Goryeo who composed the hyangga, the earliest surviving poems in Korean.",
+  "bio_full": [
+   "Hyangga, 'native songs', were composed in Silla from roughly the late sixth to the tenth century. A royal anthology of them, the Samdaemok, was compiled in 888 but is lost; only fourteen survive in Iryeon's Samguk yusa (c. 1281) and eleven Buddhist hymns by the monk Gyunyeo (923–973) in his biography. Named authors include the monk Wolmyeong, author of the Song of Dosol and a requiem for his sister, and Master Chungdam, who wrote the Ode to the Knight Kipa.",
+   "The poems are written in hyangchal, a system that used Chinese characters partly for their meaning and partly for their Korean sound, so their exact readings are still debated. Many are Buddhist prayers, elegies or spells believed to have power over nature and spirits, and their four-, eight- and ten-line forms were the first Korean poetic structures."
+  ]
+ },
+ {
+  "id": "choe-chiwon",
+  "name": "Choe Chiwon",
+  "name_native": "崔致遠",
+  "born": "857",
+  "died": "after 908",
+  "sort": 857,
+  "birthplace": "Gyeongju, Silla",
+  "deathplace": "Gayasan (traditionally)",
+  "nationality": "Korean",
+  "movements": [
+   "silla-goryeo-literature"
+  ],
+  "bio": "Silla scholar who passed the Tang examinations, the founding master of Korean literature in Chinese.",
+  "bio_full": [
+   "Sent to Tang China at twelve, Choe Chiwon passed the imperial examination at eighteen and served as an official, becoming famous for a proclamation against the rebel Huang Chao in 881. He returned to Silla in 885 but found his reform proposals blocked by the rigid bone-rank aristocracy of a declining kingdom, served in provincial posts, and withdrew into retirement, traditionally on Mount Gaya at Haeinsa temple.",
+   "His collection Gyewon pilgyeong, compiled from his writings in China, is the oldest surviving individual literary collection by a Korean. His poems in Chinese express the loneliness of the outsider, and later Koreans honoured him as the father of their classical literature; he was enshrined in the Confucian shrine in 1020."
+  ],
+  "portrait_file": "Choi Chi-won.jpg",
+  "portrait_caption": "Joseon-period imagined portrait of Choe Chiwon"
+ },
+ {
+  "id": "kim-si-seup",
+  "name": "Kim Si-seup",
+  "name_native": "金時習",
+  "born": "1435",
+  "died": "1493",
+  "sort": 1435,
+  "birthplace": "Seoul",
+  "deathplace": "Muryangsa temple, Buyeo",
+  "nationality": "Korean",
+  "movements": [
+   "joseon-sijo-gasa"
+  ],
+  "bio": "Child prodigy turned wandering monk, author of New Stories of the Golden Turtle, the first Korean fiction collection.",
+  "bio_full": [
+   "Kim Si-seup was a celebrated prodigy said to have been praised by King Sejong at five. When Prince Suyang usurped the throne from his nephew in 1455 (becoming King Sejo), Kim burned his books, became a Buddhist monk and spent most of his life wandering, as one of the 'Six Loyal Subjects Who Lived'. He lived for some years at Geumo-san near Gyeongju, where he wrote his tales.",
+   "His Geumo sinhwa, five tales in classical Chinese modelled on the Ming collection New Tales Under the Lamplight, tell of love between the living and ghosts and of journeys to other worlds. They are regarded as the beginning of Korean prose fiction. He also left some 2,200 poems and philosophical writings."
+  ],
+  "portrait_file": "Kim Si-seup.jpg",
+  "portrait_caption": "Joseon-period portrait of Kim Si-seup"
+ },
+ {
+  "id": "hwang-jini",
+  "name": "Hwang Jini",
+  "name_native": "黃眞伊",
+  "born": "c. 1506",
+  "died": "c. 1560",
+  "sort": 1506,
+  "birthplace": "Kaesong",
+  "deathplace": "",
+  "nationality": "Korean",
+  "movements": [
+   "joseon-sijo-gasa"
+  ],
+  "bio": "The most famous kisaeng of the Joseon dynasty, whose sijo are among the finest in Korean.",
+  "bio_full": [
+   "Hwang Jini lived in Kaesong in the first half of the sixteenth century; her dates are uncertain and most of her biography comes from later anecdotes. She became a kisaeng, a female entertainer trained in poetry, music and dance, and was celebrated for her beauty, wit and learning, and her friendships with the Neo-Confucian philosopher Seo Gyeong-deok and other scholars.",
+   "Only a handful of sijo and Chinese poems survive under her name, but they show a mastery of the form, using native Korean words and natural images with startling directness. Her legend has been the subject of novels, films and television dramas in both North and South Korea."
+  ]
+ },
+ {
+  "id": "jeong-cheol",
+  "name": "Jeong Cheol",
+  "name_native": "鄭澈",
+  "born": "1536",
+  "died": "1593",
+  "sort": 1536,
+  "birthplace": "Seoul",
+  "deathplace": "Ganghwa Island",
+  "nationality": "Korean",
+  "movements": [
+   "joseon-sijo-gasa"
+  ],
+  "bio": "Joseon statesman and poet, the supreme master of the gasa.",
+  "bio_full": [
+   "Jeong Cheol, pen name Songgang, was a leading member of the Western faction at the court of King Seonjo and held high office, including chief state councillor. His career alternated between power and exile in the factional struggles, and he led a harsh purge of the opposing faction in 1589. He died on Ganghwa Island during the Japanese invasions.",
+   "His four gasa, including Gwandong byeolgok, a poetic journey through the Diamond Mountains, and the paired Samiingok and Sokmiingok, in which a woman longing for her lover expresses a minister's devotion to the king, are considered the summit of Korean vernacular poetry. He also wrote some eighty sijo."
+  ]
+ },
+ {
+  "id": "heo-nanseolheon",
+  "name": "Heo Nanseolheon",
+  "name_native": "許蘭雪軒",
+  "born": "1563",
+  "died": "1589",
+  "sort": 1563,
+  "birthplace": "Gangneung",
+  "deathplace": "",
+  "nationality": "Korean",
+  "movements": [
+   "joseon-sijo-gasa"
+  ],
+  "bio": "Joseon woman poet whose Chinese poems became famous in Ming China.",
+  "bio_full": [
+   "Heo Chohui, known by her pen name Nanseolheon, was the daughter of a scholarly family and the elder sister of Heo Gyun, and was taught poetry alongside her brothers. Her marriage was unhappy, and both her children died young; she died at twenty-six.",
+   "Before her death she asked that her poems be burned, but Heo Gyun preserved those he could and showed them to a Ming envoy, who published them in China; a collection later also appeared in Japan. Her poems include Daoist fantasies of immortal realms and laments on the lot of women."
+  ]
+ },
+ {
+  "id": "heo-gyun",
+  "name": "Heo Gyun",
+  "name_native": "許筠",
+  "born": "1569",
+  "died": "1618",
+  "sort": 1569,
+  "birthplace": "Gangneung (traditionally)",
+  "deathplace": "Seoul",
+  "nationality": "Korean",
+  "movements": [
+   "joseon-sijo-gasa"
+  ],
+  "bio": "Unconventional Joseon official and writer, traditionally credited with The Tale of Hong Gildong.",
+  "bio_full": [
+   "Heo Gyun came from a distinguished literary family; his sister was the poet Heo Nanseolheon. He passed the examinations and served as an envoy to Ming China, but his open interest in Buddhism and Catholicism and his disregard for Confucian decorum caused repeated dismissals. In 1618 he was accused of plotting rebellion and executed.",
+   "He was a prolific critic, poet and essayist, sympathetic to illegitimate sons and other outcasts barred from office. Since the seventeenth century he has been named as the author of Hong Gildong jeon, though the surviving versions are later and the attribution is debated by modern scholars."
+  ]
+ },
+ {
+  "id": "kim-man-jung",
+  "name": "Kim Man-jung",
+  "name_native": "金萬重",
+  "born": "1637",
+  "died": "1692",
+  "sort": 1637,
+  "birthplace": "On a boat off Ganghwa (traditionally)",
+  "deathplace": "Namhae Island",
+  "nationality": "Korean",
+  "movements": [
+   "joseon-sijo-gasa"
+  ],
+  "bio": "Joseon official and novelist, author of The Cloud Dream of the Nine.",
+  "bio_full": [
+   "Kim Man-jung was born after his father's death during the Manchu invasion, reportedly on a boat as his mother fled. He passed the examinations and held high office but was repeatedly exiled in factional disputes. He is said to have written The Cloud Dream of the Nine in exile to console his mother, and died in exile on Namhae.",
+   "Besides that novel, a Buddhist allegory of worldly glory, he wrote Record of Lady Sa's Journey South, a critique of the king's treatment of his queen. He argued that Korean literature should be written in Korean rather than Chinese, an unusual view among scholars of his time."
+  ]
+ },
+ {
+  "id": "pansori-singers",
+  "name": "Pansori singers",
+  "name_native": "판소리 광대",
+  "born": "18th century",
+  "died": "19th century",
+  "sort": 1750,
+  "birthplace": "Jeolla region",
+  "deathplace": "",
+  "nationality": "Korean",
+  "movements": [
+   "late-joseon-prose"
+  ],
+  "bio": "The professional storytellers (gwangdae) who created pansori, sung narratives that became the classic Korean popular novels.",
+  "bio_full": [
+   "Pansori emerged in the south-western provinces in the late seventeenth or eighteenth century, performed by a singer with a fan and a drummer for audiences in markets and at festivals and, later, at yangban gatherings. Twelve stories (madang) were known, of which five survive in performance: Chunhyang, Sim Cheong, Heungbu, the Song of the Underwater Palace and the Song of the Red Cliff. In the 1860s the patron Sin Jae-hyo wrote down and revised texts of six of them.",
+   "Pansori combines singing, speech and gesture, mixing vulgar humour with elevated Chinese phrases, and its stories spread as anonymous printed Hangul novels. It was proclaimed a Masterpiece of the Oral and Intangible Heritage of Humanity by UNESCO in 2003."
+  ]
+ },
+ {
+  "id": "lady-hyegyeong",
+  "name": "Lady Hyegyeong",
+  "name_native": "惠慶宮 洪氏",
+  "born": "1735",
+  "died": "1816",
+  "sort": 1735,
+  "birthplace": "Seoul",
+  "deathplace": "Seoul",
+  "nationality": "Korean",
+  "movements": [
+   "late-joseon-prose"
+  ],
+  "bio": "Crown princess of Joseon whose memoirs recount the death of her husband, Crown Prince Sado.",
+  "bio_full": [
+   "Born into the Hong family of officials, she was married at nine to Crown Prince Sado, son of King Yeongjo. Sado's mental illness and violence led Yeongjo in 1762 to order him confined in a rice chest, where he died after eight days. Lady Hyegyeong survived to see her son become King Jeongjo, and lived on into the reign of her grandson.",
+   "Her memoirs, written in Hangul in four parts between 1795 and 1805, defend her family and give a searing first-hand account of court life and the tragedy of Sado. They are a masterpiece of Korean prose and of court literature by women."
+  ]
+ },
+ {
+  "id": "bak-ji-won",
+  "name": "Pak Ji-won",
+  "name_native": "朴趾源",
+  "born": "1737",
+  "died": "1805",
+  "sort": 1737,
+  "birthplace": "Seoul",
+  "deathplace": "Seoul",
+  "nationality": "Korean",
+  "movements": [
+   "late-joseon-prose"
+  ],
+  "bio": "Silhak scholar and satirist, author of The Jehol Diary and the Tale of the Yangban.",
+  "bio_full": [
+   "Pak Ji-won, pen name Yeonam, came from a noble family but avoided the examinations and spent years in study with a circle of reform-minded scholars. In 1780 he accompanied a Korean embassy to the Qing court and to the emperor's summer retreat at Rehe (Jehol). He later served in local office.",
+   "His Jehol Diary praises Qing technology and argues for practical learning, and his tales, such as The Tale of the Yangban and Master Heo, satirise the idle nobility. His lively style, mixing colloquial and classical Chinese, was censured by King Jeongjo, who saw it as a threat to proper prose."
+  ]
+ },
+ {
+  "id": "yi-kwang-su",
+  "name": "Yi Kwang-su",
+  "name_native": "李光洙",
+  "born": "1892",
+  "died": "1950",
+  "sort": 1892,
+  "birthplace": "Jeongju, North Pyeongan",
+  "deathplace": "",
+  "nationality": "Korean",
+  "movements": [
+   "modern-korean"
+  ],
+  "bio": "Novelist whose Mujeong (The Heartless, 1917) is regarded as the first modern Korean novel.",
+  "bio_full": [
+   "Orphaned young, Yi Kwang-su studied in Tokyo, where he drafted the 1919 Korean declaration of independence by students. He joined the provisional government in Shanghai, returned to Korea, and became the most famous writer of the colonial period. From the late 1930s he collaborated with the Japanese authorities, a fact that has clouded his reputation. He was taken north during the Korean War and died there.",
+   "Mujeong, serialised in a newspaper, broke with traditional fiction in its colloquial Hangul style and its themes of free love, education and enlightenment."
+  ]
+ },
+ {
+  "id": "han-yong-un",
+  "name": "Han Yong-un",
+  "name_native": "韓龍雲",
+  "born": "1879",
+  "died": "1944",
+  "sort": 1879,
+  "birthplace": "Hongseong, Chungcheong",
+  "deathplace": "Seoul",
+  "nationality": "Korean",
+  "movements": [
+   "modern-korean"
+  ],
+  "bio": "Buddhist monk, independence activist and poet, author of The Silence of Love.",
+  "bio_full": [
+   "Han Yong-un, known as Manhae, became a Buddhist monk, sought to reform Korean Buddhism, and was one of the thirty-three signatories of the 1919 March First Declaration of Independence, for which he was imprisoned. He refused all cooperation with the colonial authorities until his death.",
+   "His collection The Silence of Love (1926) uses the voice of a lover addressing an absent 'you' (nim) who may be a beloved, the Buddha or the lost nation, in free verse that helped found modern Korean poetry."
+  ]
+ },
+ {
+  "id": "kim-sowol",
+  "name": "Kim Sowol",
+  "name_native": "金素月",
+  "born": "1902",
+  "died": "1934",
+  "sort": 1902,
+  "birthplace": "Guseong, North Pyeongan",
+  "deathplace": "Kwaksan, North Pyeongan",
+  "nationality": "Korean",
+  "movements": [
+   "modern-korean"
+  ],
+  "bio": "The best-loved lyric poet of modern Korea, author of Azaleas.",
+  "bio_full": [
+   "Born Kim Jeong-sik, Kim Sowol studied at the Osan School under the poet Kim Eok and briefly in Tokyo. He published his only collection, Azaleas, in 1925 and later ran a newspaper office in his home region, struggling with poverty and drink, and died at thirty-two.",
+   "His poems use the rhythms of Korean folk song and simple language to express han, a sorrow of separation and longing. Many have been set to music."
+  ]
+ },
+ {
+  "id": "yi-sang",
+  "name": "Yi Sang",
+  "name_native": "李箱",
+  "born": "1910",
+  "died": "1937",
+  "sort": 1910,
+  "birthplace": "Seoul",
+  "deathplace": "Tokyo",
+  "nationality": "Korean",
+  "movements": [
+   "modern-korean"
+  ],
+  "bio": "Avant-garde poet and fiction writer, the leading modernist of colonial Korea, author of Wings.",
+  "bio_full": [
+   "Yi Sang, born Kim Hae-gyeong, trained as an architect and worked for the colonial government before tuberculosis forced him to resign. He ran a café in Seoul, joined the modernist Group of Nine, and went to Tokyo in 1936, where he was arrested as a suspicious Korean and died shortly after his release.",
+   "His Crow's-Eye View poems, with their numbers and diagrams, shocked readers when serialised in 1934, and his story Wings (1936) is a landmark of Korean psychological fiction. The Yi Sang Literary Award is named after him."
+  ]
+ },
+ {
+  "id": "yun-dong-ju",
+  "name": "Yun Dong-ju",
+  "name_native": "尹東柱",
+  "born": "1917",
+  "died": "1945",
+  "sort": 1917,
+  "birthplace": "Longjing, Jiandao (Manchuria)",
+  "deathplace": "Fukuoka Prison, Japan",
+  "nationality": "Korean",
+  "movements": [
+   "modern-korean"
+  ],
+  "bio": "Poet of conscience of the colonial era, who died in a Japanese prison at twenty-seven.",
+  "bio_full": [
+   "Yun Dong-ju grew up in a Korean Christian community in Manchuria and studied at Yonhi College (now Yonsei University) in Seoul. He went to Japan in 1942 to study English literature at Doshisha University. In 1943 he was arrested for alleged independence activities and died in Fukuoka Prison in February 1945, months before liberation.",
+   "His poems, published posthumously in 1948 as Sky, Wind, Stars and Poems, combine Christian faith, self-examination and quiet resistance in simple lyric language, and he is one of the most widely read poets in Korea."
+  ]
+ }
+]
