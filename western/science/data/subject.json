@@ -1,0 +1,17 @@
+{
+ "title": "Science",
+ "order": 7,
+ "tagline": "Science, mathematics and medicine from Greek geometry to DNA and the computer",
+ "hero_file": "",
+ "hero_caption": "",
+ "labels": {
+  "creator": "Scientist",
+  "creators": "Scientists",
+  "work": "Work / discovery",
+  "works": "Works & discoveries",
+  "movement": "Era / field",
+  "movements": "Eras & fields",
+  "location": "Published / where"
+ },
+ "intro": "Western science, mathematics and medicine from the first Greek attempts to explain nature without the gods to the double helix and the stored-program computer, told through the people and their landmark books, papers, experiments and instruments. Islamic, Indian and Chinese learning appears where it fed directly into the European story, mostly through translation; those traditions will have sections of their own. Pictures are first editions, manuscripts, plates, diagrams and surviving instruments from Wikimedia Commons, and portraits are paintings, drawings, engravings or sculpture only, never photographs."
+}

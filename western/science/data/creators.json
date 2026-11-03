@@ -1,0 +1,1370 @@
+[
+ {
+  "id": "hippocrates",
+  "name": "Hippocrates of Kos",
+  "born": "c. 460 BC",
+  "died": "c. 370 BC",
+  "sort": -460,
+  "birthplace": "Kos, Greece",
+  "deathplace": "Larissa, Thessaly (traditionally)",
+  "nationality": "Greek",
+  "movements": [
+   "greek-natural-philosophy"
+  ],
+  "bio": "Physician of Kos, traditionally called the father of medicine. The large body of medical writings that bears his name taught that illness has natural causes and should be treated by careful observation.",
+  "bio_full": [
+   "Almost nothing certain is known about Hippocrates' life. Ancient sources, including Plato, describe him as a famous physician and teacher of medicine from the island of Kos, born into a family of healers who claimed descent from the god Asclepius. Later biographies, written centuries after his death, have him travel widely in Greece and die in Thessaly, but most of these stories are legend.",
+   "His name is attached to the Hippocratic Corpus, some sixty treatises written by many authors between about 430 and 330 BC and beyond; which, if any, are by Hippocrates himself is unknown. The ideal they share, of medicine as a craft built on observation, prognosis and natural explanation rather than divine punishment, made him the emblem of the rational physician. The Hippocratic Oath, still echoed in medical ceremonies, carries that ideal into the present."
+  ]
+ },
+ {
+  "id": "aristotle",
+  "name": "Aristotle",
+  "born": "384 BC",
+  "died": "322 BC",
+  "sort": -384,
+  "birthplace": "Stagira, Chalcidice",
+  "deathplace": "Chalcis, Euboea",
+  "nationality": "Greek",
+  "movements": [
+   "greek-natural-philosophy"
+  ],
+  "bio": "Philosopher and naturalist whose physics, cosmology and biology dominated European and Islamic science until the seventeenth century. He was the first great field biologist.",
+  "bio_full": [
+   "Aristotle was the son of a court physician in Macedon. He studied for twenty years in Plato's Academy in Athens, then spent several years on the island of Lesbos and around the Aegean, where he and his student Theophrastus carried out much of their biological research. He tutored the young Alexander the Great, and in 335 BC founded his own school in Athens, the Lyceum, which gathered collections and research on an unprecedented scale.",
+   "In natural science Aristotle described a universe of nested celestial spheres around a central Earth, explained motion by the natural places of four elements, and sought the purposes, or final causes, of things. Many of these ideas were later overturned, but his biological works, based on dissection and careful observation of hundreds of animals, were unmatched for two thousand years. Translated into Arabic and then Latin, his system framed the questions that the Scientific Revolution set out to answer differently."
+  ]
+ },
+ {
+  "id": "euclid",
+  "name": "Euclid of Alexandria",
+  "born": "fl. c. 300 BC",
+  "died": "",
+  "sort": -325,
+  "birthplace": "",
+  "deathplace": "Alexandria (presumed)",
+  "nationality": "Greek",
+  "movements": [
+   "hellenistic-science"
+  ],
+  "bio": "Mathematician of Alexandria whose Elements set out geometry and number theory as a chain of proofs from a few definitions and axioms. It became the most influential mathematics textbook ever written.",
+  "bio_full": [
+   "Euclid's life is almost a blank. Later writers say that he taught in Alexandria in the time of the first Ptolemy, around 300 BC, and he probably learned his mathematics from students of Plato's Academy. Stories about him, such as his reply that there is no royal road to geometry, come from much later and may not be true.",
+   "Besides the Elements, works on optics, astronomy, music and conic sections are attributed to him, some surviving and some lost. His achievement was less to discover new results than to organise the mathematics of his predecessors into a single deductive system, starting from definitions, postulates and common notions. That model of rigorous proof shaped mathematics, philosophy and even political writing, from Islamic scholars to Newton, Spinoza and the authors of the American Declaration of Independence."
+  ]
+ },
+ {
+  "id": "archimedes",
+  "name": "Archimedes of Syracuse",
+  "born": "c. 287 BC",
+  "died": "c. 212 BC",
+  "sort": -287,
+  "birthplace": "Syracuse, Sicily",
+  "deathplace": "Syracuse, Sicily",
+  "nationality": "Greek",
+  "movements": [
+   "hellenistic-science"
+  ],
+  "bio": "Mathematician, physicist and engineer, the greatest of the ancient world. He calculated areas and volumes with methods close to the integral calculus and founded statics and hydrostatics.",
+  "bio_full": [
+   "Archimedes was the son of an astronomer and spent most of his life in Syracuse, probably with a period of study in Alexandria, where he kept up a correspondence with mathematicians such as Eratosthenes. He served King Hiero II, and according to ancient accounts designed war machines that held off the Roman siege of the city for two years. He was killed when Syracuse fell in 212 BC, by tradition while absorbed in a geometrical diagram.",
+   "His surviving treatises calculate the area of the circle and parabola, the volume and surface of the sphere, and estimate pi, using an exhaustion method that anticipates calculus. He gave rigorous laws for the lever and for floating bodies, and the screw pump still bears his name. Many anecdotes, such as the cry of 'Eureka!' in the bath, are later legends. Rediscovered in Latin and Arabic translations, his works inspired Galileo, and the twentieth-century study of the Archimedes Palimpsest revealed texts thought lost."
+  ]
+ },
+ {
+  "id": "eratosthenes",
+  "name": "Eratosthenes of Cyrene",
+  "born": "c. 276 BC",
+  "died": "c. 195 BC",
+  "sort": -276,
+  "birthplace": "Cyrene, Libya",
+  "deathplace": "Alexandria",
+  "nationality": "Greek",
+  "movements": [
+   "hellenistic-science"
+  ],
+  "bio": "Scholar and chief librarian of Alexandria who measured the circumference of the Earth with remarkable accuracy and founded scientific geography.",
+  "bio_full": [
+   "Born in the Greek city of Cyrene in North Africa, Eratosthenes studied in Athens and was invited to Alexandria by Ptolemy III, where he became head of the great Library. He wrote on an astonishing range of subjects, from literary criticism and chronology to poetry, mathematics and geography, and his rivals nicknamed him 'Beta', second best at everything. He is said to have starved himself to death after losing his sight in old age.",
+   "His best-known achievement is the measurement of the Earth's circumference from the angle of the Sun's shadow at Alexandria and Syene. He also drew a world map with lines of latitude and longitude, coined the word geography, compiled a chronology of Greek history, and devised the sieve of Eratosthenes for finding prime numbers. His works survive only in fragments and in the reports of later authors."
+  ]
+ },
+ {
+  "id": "hipparchus",
+  "name": "Hipparchus of Nicaea",
+  "born": "c. 190 BC",
+  "died": "c. 120 BC",
+  "sort": -190,
+  "birthplace": "Nicaea, Bithynia",
+  "deathplace": "Rhodes (probably)",
+  "nationality": "Greek",
+  "movements": [
+   "hellenistic-science"
+  ],
+  "bio": "Astronomer who turned Greek astronomy into a precise, predictive science, discovered the precession of the equinoxes and compiled the first known star catalogue.",
+  "bio_full": [
+   "Hipparchus was born in Nicaea in Asia Minor and made most of his observations on the island of Rhodes between about 147 and 127 BC. Only one of his works survives, a critical commentary on an astronomical poem, so most of what is known about him comes from Ptolemy's Almagest, which drew on him heavily.",
+   "He used Babylonian eclipse records alongside Greek observations, built geometrical models of the motions of the Sun and Moon that could predict eclipses, and developed an early form of trigonometry, with a table of chords, to do the calculations. Comparing his own star positions with older ones, he detected the slow shift of the equinoxes now called precession. His star catalogue, which ranked stars by brightness in a forerunner of the magnitude system, became the basis of Ptolemy's."
+  ]
+ },
+ {
+  "id": "antikythera-makers",
+  "name": "Makers of the Antikythera mechanism",
+  "born": "fl. c. 150–60 BC",
+  "died": "",
+  "sort": -150,
+  "birthplace": "",
+  "deathplace": "",
+  "nationality": "Greek",
+  "movements": [
+   "hellenistic-science"
+  ],
+  "bio": "The unknown Greek craftsmen and astronomers who designed and built the Antikythera mechanism, the oldest known geared calculating device.",
+  "bio_full": [
+   "Nothing is known of the people who made the Antikythera mechanism. Its inscriptions and calendar suggest links with Corinth or its colonies, possibly Syracuse, and with the astronomical school of Rhodes associated with Hipparchus and later Posidonius, but every attribution is debated. Its date of construction is variously put between about 200 and 60 BC.",
+   "Whoever they were, they combined Babylonian cycles, Greek geometrical astronomy and fine bronze gear-work into a portable machine of a complexity not seen again in Europe until the astronomical clocks of the Middle Ages. The mechanism shows that ancient science was not only theoretical, and that a tradition of precision instrument-making existed of which this is the only survivor."
+  ]
+ },
+ {
+  "id": "ptolemy",
+  "name": "Claudius Ptolemy",
+  "born": "c. AD 100",
+  "died": "c. AD 170",
+  "sort": 100,
+  "birthplace": "Egypt (probably)",
+  "deathplace": "Alexandria (probably)",
+  "nationality": "Greco-Roman Egyptian",
+  "movements": [
+   "roman-science"
+  ],
+  "bio": "Alexandrian astronomer, mathematician and geographer whose Almagest gave the definitive Earth-centred model of the universe, unchallenged for fourteen hundred years.",
+  "bio_full": [
+   "Ptolemy lived and worked in Alexandria under Roman rule, and his recorded observations run from AD 127 to 141. His name combines a Roman citizen's Claudius with the Greek-Egyptian Ptolemaeus; beyond that and his writings, nothing is known about his life.",
+   "His Almagest was a complete mathematical astronomy that explained the motions of the Sun, Moon and planets with circles, epicycles and the device called the equant, accurate enough to predict their positions for centuries. He also wrote the Geography, a guide to mapping the known world with coordinates, the astrological Tetrabiblos, and works on optics and harmonics. Through Arabic and Latin translations he dominated astronomy until Copernicus and Kepler."
+  ]
+ },
+ {
+  "id": "galen",
+  "name": "Galen of Pergamon",
+  "born": "AD 129",
+  "died": "c. 216",
+  "sort": 129,
+  "birthplace": "Pergamon, Asia Minor",
+  "deathplace": "Rome (probably)",
+  "nationality": "Greek",
+  "movements": [
+   "roman-science"
+  ],
+  "bio": "Physician to Roman emperors whose voluminous writings on anatomy, physiology and therapy were the foundation of medicine in Europe and the Islamic world until the seventeenth century.",
+  "bio_full": [
+   "Galen was the son of a wealthy architect in Pergamon, a city with a famous healing sanctuary. He studied medicine there, in Smyrna and in Alexandria, then served as physician to the gladiators of Pergamon, where he learned much about wounds. From about AD 162 he lived in Rome, winning fame through public anatomical demonstrations, and became physician to Marcus Aurelius and his successors.",
+   "Galen wrote more than any other ancient author whose works survive. He combined Hippocratic medicine and the theory of the four humours with Aristotle's philosophy and his own extensive dissections, mostly of animals such as Barbary apes and pigs, and he showed by experiment that the arteries carry blood and that the nerves control the voice. Because human dissection was then forbidden, some of his anatomy was wrong, but his authority was so great that Vesalius and Harvey had to overturn him from his own methods."
+  ]
+ },
+ {
+  "id": "hypatia",
+  "name": "Hypatia of Alexandria",
+  "born": "c. 355–370",
+  "died": "415",
+  "sort": 360,
+  "birthplace": "Alexandria",
+  "deathplace": "Alexandria",
+  "nationality": "Greek",
+  "movements": [
+   "roman-science"
+  ],
+  "bio": "Mathematician, astronomer and Neoplatonist philosopher who taught in Alexandria and was murdered by a Christian mob. She is the first woman mathematician whose life is reasonably well documented.",
+  "bio_full": [
+   "Hypatia was the daughter of the mathematician Theon of Alexandria, who prepared editions of Euclid and Ptolemy. She became a celebrated teacher of philosophy and mathematics in her own right, with pupils from across the eastern Mediterranean, and was an influential figure in the city's public life. In 415, amid a bitter political conflict between the city's prefect and its bishop Cyril, she was attacked and killed by a Christian mob.",
+   "None of her writings survives under her name. Ancient sources credit her with commentaries on the Arithmetica of Diophantus and the Conics of Apollonius and with an astronomical table, and scholars think she worked with her father on his edition of Ptolemy. Her life and violent death were later turned into a symbol of the end of classical learning, a picture that historians now regard as simplified."
+  ]
+ },
+ {
+  "id": "al-khwarizmi",
+  "name": "Muhammad ibn Musa al-Khwarizmi",
+  "born": "c. 780",
+  "died": "c. 850",
+  "sort": 780,
+  "birthplace": "Khwarazm, Central Asia (probably)",
+  "deathplace": "Baghdad (probably)",
+  "nationality": "Persian",
+  "movements": [
+   "islamic-science"
+  ],
+  "bio": "Scholar of the House of Wisdom in Baghdad whose books gave the world algebra and spread Indian decimal numerals. The words algebra and algorithm come from his book title and his name.",
+  "bio_full": [
+   "Al-Khwarizmi's name suggests that his family came from Khwarazm, south of the Aral Sea. He worked in Baghdad under the Abbasid caliph al-Ma'mun, as a scholar associated with the House of Wisdom, a centre where Greek, Persian and Indian works were translated and studied. Besides mathematics he wrote on astronomy, producing astronomical tables, and on geography, revising Ptolemy's coordinates.",
+   "His treatise on calculation by completion and balancing taught the systematic solution of linear and quadratic equations, and its key term al-jabr became 'algebra'. A second work, on calculating with Indian numerals, survives only in a Latin translation whose opening words 'Dixit Algorizmi' gave us 'algorithm'. Through twelfth-century translations in Spain, his books taught Europe the place-value numerals with zero and the beginnings of algebra. Islamic science will be covered in its own section."
+  ]
+ },
+ {
+  "id": "ibn-al-haytham",
+  "name": "Ibn al-Haytham (Alhazen)",
+  "born": "c. 965",
+  "died": "c. 1040",
+  "sort": 965,
+  "birthplace": "Basra, Iraq",
+  "deathplace": "Cairo",
+  "nationality": "Arab",
+  "movements": [
+   "islamic-science"
+  ],
+  "bio": "Mathematician and physicist of Basra and Cairo whose Book of Optics showed that vision occurs when light enters the eye, and set out a programme of controlled experiment.",
+  "bio_full": [
+   "Born in Basra, Ibn al-Haytham moved to Cairo under the Fatimid caliph al-Hakim. Later biographers tell that he offered to regulate the Nile floods, realised the scheme was impossible and feigned madness to escape the caliph's anger; whether true or not, he spent much of his life in Cairo writing on mathematics, astronomy and optics. Close to a hundred works are attributed to him.",
+   "His Book of Optics rejected the ancient theory that the eye sends out rays, combined geometry with the anatomy of the eye, and tested claims about reflection, refraction and the camera obscura by experiment. Translated into Latin around 1200 as De aspectibus under the name Alhazen, it shaped the optics of Roger Bacon, Witelo and Kepler. He also wrote a critique of Ptolemy's astronomy. Islamic science will be covered in its own section."
+  ]
+ },
+ {
+  "id": "avicenna",
+  "name": "Avicenna (Ibn Sina)",
+  "born": "c. 980",
+  "died": "1037",
+  "sort": 980,
+  "birthplace": "Afshana, near Bukhara",
+  "deathplace": "Hamadan, Persia",
+  "nationality": "Persian",
+  "movements": [
+   "islamic-science"
+  ],
+  "bio": "Persian physician and philosopher whose Canon of Medicine was the standard medical textbook of the Islamic world and of European universities for some five hundred years.",
+  "bio_full": [
+   "Ibn Sina was born near Bukhara and, by his own account, had mastered logic, mathematics and medicine by his late teens; curing the Samanid ruler gave him access to the royal library. Political upheavals sent him moving between the courts of Persia, where he served as physician and sometimes as vizier, writing at night and in hiding. He died at Hamadan in 1037.",
+   "His Canon of Medicine organised Greek, Persian and Indian medical knowledge, with his own observations, into a clear systematic whole, including rules for testing drugs. His philosophical encyclopedia, the Book of Healing, made him the most influential philosopher of the Islamic world. Translated into Latin by Gerard of Cremona in the twelfth century, the Canon was taught in European medical schools into the seventeenth century. Islamic science will be covered in its own section."
+  ]
+ },
+ {
+  "id": "fibonacci",
+  "name": "Leonardo of Pisa (Fibonacci)",
+  "born": "c. 1170",
+  "died": "c. 1250",
+  "sort": 1170,
+  "birthplace": "Pisa",
+  "deathplace": "Pisa (probably)",
+  "nationality": "Italian",
+  "movements": [
+   "medieval-latin-science"
+  ],
+  "bio": "Merchant mathematician of Pisa whose Liber Abaci introduced Hindu-Arabic numerals and their arithmetic to European commerce. He was the most original European mathematician of the Middle Ages.",
+  "bio_full": [
+   "Leonardo was the son of a Pisan merchant and customs official stationed at Bugia (Béjaïa) in North Africa, where as a boy he learned to calculate with the Indian numerals used by Arab merchants. He travelled around the Mediterranean, to Egypt, Syria, Byzantium and Sicily, studying the methods of the mathematicians he met. Back in Pisa he wrote a series of books and was honoured by the city with a salary; he also met and corresponded with the scholars at the court of Emperor Frederick II. The nickname Fibonacci, 'son of Bonacci', was popularised in the nineteenth century.",
+   "His Liber Abaci of 1202 taught the new numerals, place value and zero through hundreds of practical problems, and helped them displace Roman numerals and the counting board in Italian business. His other works, on geometry and on number theory, contain original results. A problem about breeding rabbits gave the sequence named after him, which turns up throughout mathematics and nature."
+  ]
+ },
+ {
+  "id": "roger-bacon",
+  "name": "Roger Bacon",
+  "born": "c. 1219",
+  "died": "c. 1292",
+  "sort": 1219,
+  "birthplace": "Ilchester, Somerset (probably)",
+  "deathplace": "Oxford",
+  "nationality": "English",
+  "movements": [
+   "medieval-latin-science"
+  ],
+  "bio": "Franciscan friar and Oxford scholar who argued that mathematics and experience were the keys to knowledge of nature, and wrote influential work on optics.",
+  "bio_full": [
+   "Bacon studied and taught at Oxford and Paris, lecturing on Aristotle, and became a Franciscan friar around 1257. At the request of Pope Clement IV he composed, in great haste, a series of works setting out a reform of learning, of which the Opus Majus of 1267 is the largest. Later in life he seems to have fallen foul of his order, and a story that he was imprisoned for his teaching is uncertain.",
+   "Bacon drew heavily on Arabic sources, above all Ibn al-Haytham's optics, and argued that a 'science of experience' should confirm the conclusions of reasoning. His writings describe lenses, the rainbow and an early recipe for gunpowder. Later legend made him a wizard who built a brazen talking head; in the nineteenth century he was hailed as a lone prophet of experimental science, a view historians now see as exaggerated, but he was among the most forceful medieval advocates of mathematical natural science."
+  ]
+ },
+ {
+  "id": "oresme",
+  "name": "Nicole Oresme",
+  "born": "c. 1320",
+  "died": "1382",
+  "sort": 1320,
+  "birthplace": "Normandy (probably near Caen)",
+  "deathplace": "Lisieux",
+  "nationality": "French",
+  "movements": [
+   "medieval-latin-science"
+  ],
+  "bio": "Paris scholar and bishop who graphed changing quantities, analysed motion and argued that the daily rotation of the Earth could not be disproved. He was one of the most original thinkers of the fourteenth century.",
+  "bio_full": [
+   "Oresme studied at the University of Paris and became master of the College of Navarre. He was an adviser to King Charles V of France, for whom he translated Aristotle's works on ethics, politics and the heavens into French, coining many French scientific words in the process, and he wrote an important treatise on money. He ended his life as bishop of Lisieux.",
+   "In his treatise on the configurations of qualities he represented changing quantities by geometrical figures, a forerunner of the graph, and gave a geometric proof of the mean-speed rule for uniformly accelerated motion later used by Galileo. In his commentary on Aristotle's On the Heavens he argued that no observation or argument could prove that the Earth does not rotate daily, though he concluded, as faith required, that it stands still. He also attacked astrology and proved that the harmonic series diverges."
+  ]
+ },
+ {
+  "id": "leonardo",
+  "name": "Leonardo da Vinci",
+  "born": "1452",
+  "died": "1519",
+  "birthplace": "Vinci, Republic of Florence",
+  "deathplace": "Amboise, France",
+  "nationality": "Italian",
+  "movements": [
+   "renaissance-science"
+  ],
+  "bio": "Painter, engineer and investigator of nature whose notebooks contain anatomical, geological, hydraulic and mechanical studies far ahead of their time. They were largely unpublished until modern times.",
+  "bio_full": [
+   "Leonardo was the illegitimate son of a Florentine notary, trained in Verrocchio's workshop and worked for Lorenzo de' Medici, Ludovico Sforza in Milan, Cesare Borgia, the papal court and finally Francis I of France. Throughout his career he filled thousands of notebook pages with drawings and mirror-written notes, studying everything from the flight of birds and the flow of water to fossils, optics and machines.",
+   "In anatomy he dissected some thirty human bodies in Florence, Milan and Rome, producing drawings of the heart, skeleton, muscles and fetus of a quality not matched until Vesalius. He was guided by direct observation and by analogies between the body and the Earth. Because the notebooks were scattered after his death and not published, they had little influence on the science of his time; their rediscovery since the nineteenth century has made him the emblem of Renaissance curiosity."
+  ]
+ },
+ {
+  "id": "copernicus",
+  "name": "Nicolaus Copernicus",
+  "born": "1473",
+  "died": "1543",
+  "birthplace": "Toruń, Royal Prussia, Kingdom of Poland",
+  "deathplace": "Frombork, Royal Prussia",
+  "nationality": "Polish",
+  "movements": [
+   "renaissance-science"
+  ],
+  "bio": "Astronomer and church administrator who proposed that the Earth and planets move around the Sun, the starting point of modern astronomy.",
+  "bio_full": [
+   "Copernicus was born into a merchant family in Toruń and raised by his uncle, later Prince-Bishop of Warmia. He studied at Kraków and then for years in Italy, at Bologna, Padua and Ferrara, taking a doctorate in canon law and studying medicine. Back in Warmia he served as a canon of Frombork cathedral, administering estates, practising medicine and writing on currency reform, while pursuing astronomy in his spare time.",
+   "Around 1510 he circulated a short sketch of a Sun-centred system, but held back his full treatise for decades. Encouraged by the young Lutheran mathematician Rheticus, he finally allowed De revolutionibus to be printed in 1543, and is said to have received a copy on his deathbed. His model still used circular orbits and was no more accurate than Ptolemy's, but it set the stage for Kepler, Galileo and Newton, and 'Copernican revolution' became a phrase for any fundamental change of view."
+  ]
+ },
+ {
+  "id": "vesalius",
+  "name": "Andreas Vesalius",
+  "born": "1514",
+  "died": "1564",
+  "birthplace": "Brussels, Habsburg Netherlands",
+  "deathplace": "Zakynthos, Venetian Republic",
+  "nationality": "Flemish",
+  "movements": [
+   "renaissance-science"
+  ],
+  "bio": "Anatomist who founded modern human anatomy on dissection, correcting Galen in his magnificently illustrated Fabrica of 1543.",
+  "bio_full": [
+   "Vesalius came from a family of imperial physicians and apothecaries in Brussels. He studied at Leuven and Paris, where he collected bones from cemeteries and gallows, and in 1537 took his medical degree at Padua and was immediately appointed to teach surgery and anatomy. Unusually, he performed dissections himself before his students rather than leaving them to a barber-surgeon. After the Fabrica he became physician to Emperor Charles V and then Philip II of Spain; he died on the island of Zakynthos returning from a pilgrimage to Jerusalem.",
+   "By dissecting human bodies, Vesalius showed that many of Galen's descriptions were based on animals and did not apply to humans, and he insisted that anatomy should be learned from the body itself rather than from books. The Fabrica, with its large woodcuts from the workshop of Titian, set a new standard for scientific illustration. His approach of direct observation made Padua the leading medical school of Europe, where Harvey later studied."
+  ]
+ },
+ {
+  "id": "tycho-brahe",
+  "name": "Tycho Brahe",
+  "born": "1546",
+  "died": "1601",
+  "birthplace": "Knutstorp, Scania, Denmark",
+  "deathplace": "Prague, Bohemia",
+  "nationality": "Danish",
+  "movements": [
+   "renaissance-science"
+  ],
+  "bio": "Danish nobleman and astronomer whose naked-eye observations, made with great instruments of his own design, were the most accurate before the telescope. Kepler used them to find the laws of planetary motion.",
+  "bio_full": [
+   "Tycho was born into the high Danish nobility and studied at Copenhagen, Leipzig and other German universities, losing part of his nose in a duel and wearing a metal replacement for the rest of his life. His observation of a new star in 1572 made him famous, and King Frederick II gave him the island of Hven, where he built the observatory-palace Uraniborg and the underground observatory Stjerneborg. After quarrels with Frederick's successor he left Denmark in 1597 and became imperial mathematician to Rudolf II in Prague, where he died in 1601.",
+   "Tycho's large quadrants, sextants and armillary spheres, used systematically over twenty years with attention to error, measured positions to about a minute of arc. He showed that the new star of 1572 and the comet of 1577 lay beyond the Moon, undermining the idea of unchanging heavens. He proposed a compromise system in which the planets go around the Sun and the Sun around a stationary Earth. His greatest legacy was the observational record he left to his assistant Kepler."
+  ]
+ },
+ {
+  "id": "kepler",
+  "name": "Johannes Kepler",
+  "born": "1571",
+  "died": "1630",
+  "birthplace": "Weil der Stadt, Württemberg",
+  "deathplace": "Regensburg, Bavaria",
+  "nationality": "German",
+  "movements": [
+   "scientific-revolution"
+  ],
+  "bio": "Astronomer who discovered that the planets move in ellipses, with speeds and periods governed by exact laws. He also founded modern optics and explained how the eye and the telescope work.",
+  "bio_full": [
+   "Kepler grew up in modest and troubled circumstances in Württemberg and was educated for the Lutheran ministry at Tübingen, where his teacher Michael Maestlin introduced him to Copernicus. He became a mathematics teacher in Graz, joined Tycho Brahe in Prague in 1600 and succeeded him as imperial mathematician. His later life was disrupted by religious war and persecution: he had to defend his mother in a witchcraft trial, and he moved between Linz, Ulm and Sagan before dying at Regensburg in 1630.",
+   "Kepler was a convinced Copernican who sought the geometrical harmonies by which he believed God had ordered the cosmos. Working for years on Tycho's observations of Mars, he abandoned circles and found that the orbit is an ellipse with the Sun at one focus, and that a planet sweeps out equal areas in equal times; later he found the relation between orbital period and distance. He also explained the inverted image on the retina, the theory of the telescope and the inverse-square fall of light. His laws became the foundation on which Newton built his theory of gravity."
+  ]
+ },
+ {
+  "id": "galileo",
+  "name": "Galileo Galilei",
+  "born": "1564",
+  "died": "1642",
+  "birthplace": "Pisa, Duchy of Florence",
+  "deathplace": "Arcetri, near Florence",
+  "nationality": "Italian",
+  "movements": [
+   "scientific-revolution"
+  ],
+  "bio": "Mathematician, physicist and astronomer who turned the telescope on the heavens and founded the mathematical science of motion. His trial by the Inquisition made him a symbol of the conflict between science and authority.",
+  "bio_full": [
+   "Galileo was the son of a Florentine musician and music theorist. He abandoned medicine for mathematics, taught at Pisa and then for eighteen years at Padua, where he studied falling bodies and pendulums. In 1609 he built improved telescopes, and the discoveries he announced in 1610 won him the post of mathematician and philosopher to the Grand Duke of Tuscany. His open support for Copernicus led to a warning from the Church in 1616, and after the publication of his Dialogue in 1632 he was tried by the Roman Inquisition, forced to recant and confined to his villa at Arcetri until his death.",
+   "Galileo insisted that the book of nature is written in the language of mathematics and combined experiment, idealisation and geometrical argument. He found that falling bodies accelerate uniformly regardless of weight, that projectiles follow parabolas and that motion persists unless something stops it, the beginnings of the concept of inertia. His telescopic observations of the Moon, Jupiter's satellites, the phases of Venus and sunspots destroyed the old picture of perfect heavens. Two New Sciences, written under house arrest, founded modern mechanics."
+  ]
+ },
+ {
+  "id": "francis-bacon",
+  "name": "Francis Bacon",
+  "born": "1561",
+  "died": "1626",
+  "birthplace": "London",
+  "deathplace": "Highgate, London",
+  "nationality": "English",
+  "movements": [
+   "scientific-revolution"
+  ],
+  "bio": "Statesman and philosopher who called for a new science based on systematic observation, experiment and induction, carried out collectively for the benefit of humanity.",
+  "bio_full": [
+   "Bacon was the son of Elizabeth I's Lord Keeper of the Great Seal and studied at Trinity College, Cambridge. A lawyer and member of Parliament, he rose under James I to become Attorney General and Lord Chancellor, but in 1621 he was convicted of accepting bribes and removed from office. He spent his last years writing, and is said to have died of a chill caught while experimenting with stuffing a chicken with snow.",
+   "In the Novum Organum and other works Bacon attacked reliance on ancient authority and on deduction from first principles, and proposed a method of gathering natural histories and reasoning step by step to general laws, guarding against the 'idols' that distort human judgement. His utopia New Atlantis imagined a state research institution. Though he made no great discoveries himself, the founders of the Royal Society in 1660 claimed him as their inspiration, and his vision of organised, useful science has remained powerful."
+  ]
+ },
+ {
+  "id": "harvey",
+  "name": "William Harvey",
+  "born": "1578",
+  "died": "1657",
+  "birthplace": "Folkestone, Kent",
+  "deathplace": "Roehampton, Surrey",
+  "nationality": "English",
+  "movements": [
+   "scientific-revolution"
+  ],
+  "bio": "Physician who demonstrated that the blood circulates continuously around the body, pumped by the heart. His work began modern physiology.",
+  "bio_full": [
+   "Harvey was the son of a prosperous yeoman in Kent. He studied at Cambridge and then at Padua, the leading medical school of the day, under the anatomist Fabricius, who had described the valves of the veins. Returning to London, he became physician at St Bartholomew's Hospital, a lecturer at the College of Physicians and physician to James I and Charles I, whom he accompanied during the Civil War.",
+   "Through dissection, vivisection of many animals and simple quantitative reasoning, Harvey showed that the heart pumps far more blood than the body could ever produce from food, and that the blood must therefore return to the heart in a circuit, through the arteries and back by the veins. His De motu cordis of 1628 met fierce opposition but was widely accepted within a generation. He also studied the development of embryos, arguing that all animals come from an egg."
+  ]
+ },
+ {
+  "id": "descartes",
+  "name": "René Descartes",
+  "born": "1596",
+  "died": "1650",
+  "birthplace": "La Haye en Touraine, France",
+  "deathplace": "Stockholm, Sweden",
+  "nationality": "French",
+  "movements": [
+   "scientific-revolution"
+  ],
+  "bio": "Philosopher and mathematician who joined algebra and geometry in analytic geometry and proposed a mechanical picture of the whole physical world.",
+  "bio_full": [
+   "Descartes was educated at the Jesuit college of La Flèche and took a law degree at Poitiers. As a young man he served as a gentleman soldier in the Dutch and Bavarian armies, and in 1619 had the dreams that, he said, revealed his mission to found a unified science. He spent most of his working life in the Dutch Republic, and died in Stockholm in 1650, a few months after going to teach philosophy to Queen Christina.",
+   "His Discourse on Method of 1637 was published with three scientific essays, on optics, meteorology and geometry. La Géométrie showed how to describe curves by equations and solve geometrical problems by algebra, introducing the notation still in use. In physics he described the universe as matter in motion filling space, with planets carried by vortices, and he gave an early statement of the law of inertia and of the law of refraction. His mechanical philosophy was later displaced by Newton's, but it set the agenda for seventeenth-century science."
+  ]
+ },
+ {
+  "id": "pascal",
+  "name": "Blaise Pascal",
+  "born": "1623",
+  "died": "1662",
+  "birthplace": "Clermont-Ferrand, France",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "scientific-revolution"
+  ],
+  "bio": "Mathematician, physicist and religious thinker who built one of the first calculating machines, founded probability theory with Fermat and proved that air has weight.",
+  "bio_full": [
+   "Pascal was educated at home by his father, a tax official with a strong interest in mathematics, who took him to the scientific meetings of Marin Mersenne in Paris. At sixteen he wrote an essay on conic sections, and at nineteen he began building a mechanical calculator to help his father with tax accounts. After a religious experience in 1654 he turned increasingly to theology and the Jansenist cause, writing the Provincial Letters and the notes later published as the Pensées. He suffered poor health all his life and died at thirty-nine.",
+   "His experiments on the vacuum, including the measurement organised in 1648 on the Puy de Dôme showing that a barometer reads lower on a mountain, established that air pressure supports the column of mercury. He formulated the principle of pressure in fluids that bears his name. In correspondence with Fermat he founded the mathematical theory of probability, and his treatise on the arithmetical triangle gave a systematic account of the number pattern now called Pascal's triangle."
+  ]
+ },
+ {
+  "id": "fermat",
+  "name": "Pierre de Fermat",
+  "born": "1601",
+  "died": "1665",
+  "sort": 1601,
+  "birthplace": "Beaumont-de-Lomagne, France",
+  "deathplace": "Castres, France",
+  "nationality": "French",
+  "movements": [
+   "scientific-revolution"
+  ],
+  "bio": "Lawyer and amateur mathematician who founded modern number theory, invented analytic geometry independently of Descartes and helped create probability theory and calculus.",
+  "bio_full": [
+   "Fermat was the son of a wealthy merchant and studied law, probably at Orléans. He spent his career as a councillor of the parliament of Toulouse, a judicial post, and did mathematics in his leisure. His birth year is uncertain, given as 1601 or about 1607. He published almost nothing, communicating his results in letters to Mersenne, Pascal and others, often without proofs, and his work became widely known only when his son published his papers after his death.",
+   "Fermat developed a method of finding maxima, minima and tangents that anticipated the differential calculus, devised coordinate geometry at the same time as Descartes, and in letters with Pascal in 1654 laid the foundations of probability. In optics he stated the principle that light takes the path of least time. Above all he revived number theory, with results such as his 'little theorem' on primes, and left the famous marginal note claiming a proof of what became known as Fermat's Last Theorem."
+  ]
+ },
+ {
+  "id": "boyle",
+  "name": "Robert Boyle",
+  "born": "1627",
+  "died": "1691",
+  "birthplace": "Lismore Castle, County Waterford, Ireland",
+  "deathplace": "London",
+  "nationality": "Anglo-Irish",
+  "movements": [
+   "scientific-revolution"
+  ],
+  "bio": "Natural philosopher and founder member of the Royal Society who made chemistry an experimental science and discovered the law relating the pressure and volume of a gas.",
+  "bio_full": [
+   "Boyle was the fourteenth child of Richard Boyle, 1st Earl of Cork, one of the richest men in Britain. Educated at Eton and on a long tour of the Continent, he settled first in Dorset and then in Oxford, where from about 1656 he worked with a circle of experimenters and hired the young Robert Hooke as his assistant. He was a founder of the Royal Society in 1660 and lived his last decades in London with his sister Katherine, Lady Ranelagh. Deeply pious, he funded Bible translations and endowed lectures defending Christianity.",
+   "With Hooke's improved air pump Boyle carried out a famous series of experiments on air and vacuum, finding that the volume of a gas varies inversely with its pressure. In The Sceptical Chymist he attacked both the Aristotelian elements and the alchemists' principles, arguing for a corpuscular view of matter tested by experiment. He wrote in detail about his procedures so that others could repeat them, and his idea of the experimental report and the credible witness shaped the practice of modern science."
+  ]
+ },
+ {
+  "id": "huygens",
+  "name": "Christiaan Huygens",
+  "born": "1629",
+  "died": "1695",
+  "birthplace": "The Hague, Dutch Republic",
+  "deathplace": "The Hague",
+  "nationality": "Dutch",
+  "movements": [
+   "scientific-revolution"
+  ],
+  "bio": "Mathematician, astronomer and physicist who invented the pendulum clock, discovered Saturn's ring and its moon Titan and developed the wave theory of light.",
+  "bio_full": [
+   "Huygens was the son of Constantijn Huygens, poet and secretary to the princes of Orange, and grew up among the cultural elite of the Dutch Republic; Descartes was a family friend. He studied law and mathematics at Leiden and Breda. With his brother he ground excellent telescope lenses, and in 1655 discovered Titan. From 1666 to 1681 he was the leading member of the new Académie Royale des Sciences in Paris, before returning to The Hague.",
+   "Huygens patented the pendulum clock in 1657, the first accurate timekeeper, and in Horologium Oscillatorium analysed the pendulum mathematically, with results on centrifugal force and curves that influenced Newton. He explained the strange appearance of Saturn as a ring, wrote an early treatise on probability, and proposed that light is a wave spreading through an ether, explaining reflection and refraction with the principle that still bears his name. He was perhaps the greatest scientist between Galileo and Newton."
+  ]
+ },
+ {
+  "id": "hooke",
+  "name": "Robert Hooke",
+  "born": "1635",
+  "died": "1703",
+  "birthplace": "Freshwater, Isle of Wight",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "scientific-revolution"
+  ],
+  "bio": "Experimenter, architect and first curator of experiments of the Royal Society, whose Micrographia revealed the microscopic world and named the cell.",
+  "bio_full": [
+   "Hooke was the son of a curate on the Isle of Wight. He went to Westminster School and Oxford, where he became assistant to Robert Boyle and built his air pump. In 1662 he was appointed curator of experiments to the new Royal Society, charged with demonstrating several experiments at each meeting, and he later became professor of geometry at Gresham College. After the Great Fire of 1666 he was a City surveyor and worked with Christopher Wren on the rebuilding of London.",
+   "Hooke's ideas ranged across microscopy, elasticity, where Hooke's law describes springs, astronomy, geology, horology and the theory of light. He suggested that gravity weakens with the square of distance and quarrelled bitterly with Newton over credit. Micrographia made him famous, and its plates of insects and plant tissue are among the most celebrated scientific images ever published. No authenticated portrait of him survives."
+  ]
+ },
+ {
+  "id": "leeuwenhoek",
+  "name": "Antonie van Leeuwenhoek",
+  "born": "1632",
+  "died": "1723",
+  "birthplace": "Delft, Dutch Republic",
+  "deathplace": "Delft",
+  "nationality": "Dutch",
+  "movements": [
+   "scientific-revolution"
+  ],
+  "bio": "Delft cloth merchant who made the finest single-lens microscopes of his age and was the first to see bacteria, protozoa and sperm cells.",
+  "bio_full": [
+   "Leeuwenhoek had no university education and knew no Latin. He ran a drapery business in Delft and held minor civic posts. Probably inspired by Hooke's Micrographia and by the use of lenses to check cloth, he began grinding or blowing tiny lenses and mounting them in small brass and silver holders, reaching magnifications of over two hundred times. From 1673 until his death he sent hundreds of letters describing his observations to the Royal Society in London, which elected him a fellow in 1680.",
+   "Leeuwenhoek saw and described single-celled organisms in pond water, bacteria from his own teeth, red blood cells, the flow of blood in capillaries and spermatozoa, and he argued against the spontaneous generation of small creatures. He kept his lens-making techniques secret, so few could match his results for more than a century. He is regarded as the founder of microbiology."
+  ]
+ },
+ {
+  "id": "newton",
+  "name": "Isaac Newton",
+  "born": "1643",
+  "died": "1727",
+  "sort": 1643,
+  "birthplace": "Woolsthorpe, Lincolnshire",
+  "deathplace": "Kensington, London",
+  "nationality": "English",
+  "movements": [
+   "newtonian-age"
+  ],
+  "bio": "Mathematician and physicist who discovered the laws of motion and universal gravitation, invented calculus independently of Leibniz and showed that white light is a mixture of colours.",
+  "bio_full": [
+   "Newton was born on Christmas Day 1642 by the old calendar, 4 January 1643 by the modern one, after his father's death, and was largely raised by his grandmother. He studied at Trinity College, Cambridge, and in 1665–66, when the university closed for the plague, made his first great discoveries in mathematics, optics and gravitation at home. He became Lucasian Professor at Cambridge in 1669, and later Warden and Master of the Royal Mint in London and President of the Royal Society. He also devoted great effort to alchemy and biblical chronology, and was knighted in 1705.",
+   "Newton's Principia of 1687 set out three laws of motion and a law of universal gravitation that explained the orbits of planets and comets, the tides and falling bodies with one set of principles. In optics he showed with prisms that white light is composed of colours and built the first reflecting telescope. His development of the calculus led to a bitter priority dispute with Leibniz. His work became the model of physical science for two centuries, until relativity and quantum theory showed its limits."
+  ]
+ },
+ {
+  "id": "leibniz",
+  "name": "Gottfried Wilhelm Leibniz",
+  "born": "1646",
+  "died": "1716",
+  "birthplace": "Leipzig, Saxony",
+  "deathplace": "Hanover",
+  "nationality": "German",
+  "movements": [
+   "newtonian-age"
+  ],
+  "bio": "Philosopher and mathematician who invented the calculus independently of Newton, with the notation still used today, and worked out binary arithmetic.",
+  "bio_full": [
+   "Leibniz was the son of a professor of moral philosophy at Leipzig and studied law. He entered the service of the Elector of Mainz and in 1672–76 was in Paris on a diplomatic mission, where Huygens taught him modern mathematics and where he developed the calculus. From 1676 he was librarian, historian and adviser to the dukes of Brunswick-Lüneburg in Hanover. He founded the Berlin Academy of Sciences, corresponded with hundreds of scholars and died somewhat neglected in Hanover.",
+   "Leibniz published his differential calculus in 1684 and his integral calculus in 1686; his symbols dx and the integral sign proved so effective that they became standard. The bitter priority dispute with Newton's followers divided British and Continental mathematics for a century. He also built a calculating machine that could multiply, explored binary numbers, and dreamed of a universal logical language in which reasoning could be done by calculation, an idea later realised in symbolic logic and computing."
+  ]
+ },
+ {
+  "id": "harrison",
+  "name": "John Harrison",
+  "born": "1693",
+  "died": "1776",
+  "sort": 1693,
+  "birthplace": "Foulby, Yorkshire",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "newtonian-age"
+  ],
+  "bio": "Self-taught carpenter and clockmaker who solved the problem of finding longitude at sea with a series of precision marine timekeepers.",
+  "bio_full": [
+   "Harrison was the son of a carpenter and grew up in Barrow upon Humber in Lincolnshire, where he built wooden clocks with remarkable innovations to reduce friction and the effects of temperature. In 1714 the British Parliament offered a prize of up to £20,000 for a practical method of finding longitude at sea, and Harrison moved to London and devoted the rest of his life to the problem, supported by the clockmaker George Graham.",
+   "Over some thirty years he built three large sea clocks, H1 to H3, and then the large watch H4, which on trials to Jamaica and Barbados in the 1760s kept time well enough to fix longitude within the terms of the prize. The Board of Longitude was slow to pay, partly because many favoured an astronomical method, and Harrison received his reward only in stages, with the help of George III. His work led to the marine chronometer, essential for navigation until the age of radio."
+  ]
+ },
+ {
+  "id": "euler",
+  "name": "Leonhard Euler",
+  "born": "1707",
+  "died": "1783",
+  "birthplace": "Basel, Switzerland",
+  "deathplace": "Saint Petersburg, Russia",
+  "nationality": "Swiss",
+  "movements": [
+   "newtonian-age"
+  ],
+  "bio": "The most prolific mathematician in history, whose work shaped analysis, number theory, mechanics and much of modern notation.",
+  "bio_full": [
+   "Euler was the son of a pastor near Basel and studied under Johann Bernoulli. In 1727 he joined the new Academy of Sciences in Saint Petersburg, moved in 1741 to Frederick the Great's academy in Berlin, and returned to Saint Petersburg in 1766, where he spent the rest of his life. He lost the sight of one eye in the 1730s and became almost totally blind around 1771, yet his output increased, as he dictated to assistants and his sons.",
+   "Euler wrote some 850 papers and books on almost every branch of pure and applied mathematics, from infinite series and differential equations to the mechanics of fluids and rigid bodies, the motion of the Moon, optics and ship design. He solved the Königsberg bridge problem, founding graph theory, and introduced or popularised the notations f(x), e, i and the summation sign. His textbooks taught the calculus to Europe and the remark attributed to Laplace, that Euler was the master of us all, sums up his influence."
+  ]
+ },
+ {
+  "id": "linnaeus",
+  "name": "Carl Linnaeus",
+  "born": "1707",
+  "died": "1778",
+  "birthplace": "Råshult, Småland, Sweden",
+  "deathplace": "Uppsala, Sweden",
+  "nationality": "Swedish",
+  "movements": [
+   "enlightenment-science"
+  ],
+  "bio": "Swedish botanist and physician who created the modern system of naming and classifying living things, giving every species a two-part Latin name.",
+  "bio_full": [
+   "Linnaeus was the son of a Lutheran pastor and keen gardener. He studied medicine at Lund and Uppsala, made a botanical expedition to Lapland in 1732, and took his medical degree in the Dutch Republic in 1735, where he published the first edition of Systema Naturae. Returning to Sweden, he practised medicine in Stockholm and from 1741 was professor at Uppsala, where he restored the botanical garden. He sent his students, the 'apostles', on voyages around the world to collect specimens, and was ennobled as Carl von Linné in 1761.",
+   "Linnaeus classified plants by the number and arrangement of their sexual organs, an artificial system that was easy to use, and from 1753 consistently gave each species a binomial name such as Homo sapiens, a term he coined. His system of nested categories made it possible to catalogue the flood of new organisms reaching Europe, and binomial names remain the basis of biological nomenclature, though his classification has long been replaced by evolutionary ones."
+  ]
+ },
+ {
+  "id": "benjamin-franklin",
+  "name": "Benjamin Franklin",
+  "born": "1706",
+  "died": "1790",
+  "birthplace": "Boston, Massachusetts Bay",
+  "deathplace": "Philadelphia, Pennsylvania",
+  "nationality": "American",
+  "movements": [
+   "enlightenment-science"
+  ],
+  "bio": "Printer, statesman and natural philosopher who showed that lightning is electrical and invented the lightning rod. His theory of a single electrical fluid introduced the terms positive and negative charge.",
+  "bio_full": [
+   "Franklin was the fifteenth child of a Boston candle maker and was apprenticed to his brother, a printer. He ran away to Philadelphia, where he built a successful printing and publishing business and founded a library, a fire company and the institutions that became the University of Pennsylvania and the American Philosophical Society. Retiring from business in 1748, he devoted himself to science, and later to politics, as colonial agent in London, signer of the Declaration of Independence, ambassador to France and delegate to the Constitutional Convention.",
+   "In the late 1740s Franklin's electrical experiments, reported in letters to London, led him to describe electricity as a single fluid that bodies could have in excess or deficit, which he called positive and negative, and to state the conservation of charge. He proposed that lightning is an electrical discharge and that pointed iron rods could protect buildings; the experiment was first carried out in France in 1752, and Franklin's own kite experiment is said to have followed. He also charted the Gulf Stream and invented bifocals and an efficient stove."
+  ]
+ },
+ {
+  "id": "lavoisier",
+  "name": "Antoine Lavoisier",
+  "born": "1743",
+  "died": "1794",
+  "birthplace": "Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "enlightenment-science"
+  ],
+  "bio": "Chemist who explained combustion by oxygen, established the conservation of mass and reformed chemical names, laying the foundations of modern chemistry. He was guillotined in the Terror.",
+  "bio_full": [
+   "Lavoisier was born into a wealthy Parisian family and trained in law before turning to science. He joined the Royal Academy of Sciences in 1768 and bought a share in the Ferme générale, the private company that collected taxes, which financed his laboratory. His wife, Marie-Anne Paulze Lavoisier, translated English chemistry for him, kept his records and drew the plates of his books. He also directed the royal gunpowder administration and worked on agriculture and the metric system. Because of his role as a tax farmer he was arrested during the Revolution and guillotined in May 1794.",
+   "Using precise balances and sealed vessels, Lavoisier showed that combustion and the rusting of metals involve combination with a component of the air, which he named oxygen, overturning the theory of phlogiston. He showed that water is a compound of oxygen and hydrogen, and he treated chemical reactions as balanced equations in which mass is conserved. With colleagues he introduced the systematic chemical nomenclature still in use, and his Traité élémentaire de chimie of 1789 defined an element as a substance that cannot be further decomposed."
+  ]
+ },
+ {
+  "id": "laplace",
+  "name": "Pierre-Simon Laplace",
+  "born": "1749",
+  "died": "1827",
+  "birthplace": "Beaumont-en-Auge, Normandy",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "enlightenment-science"
+  ],
+  "bio": "Mathematician and astronomer who showed the stability of the solar system under Newtonian gravity and made probability theory a tool of science.",
+  "bio_full": [
+   "Laplace came from a family of modest farmers in Normandy and was intended for the Church, but at Caen he discovered mathematics and went to Paris, where d'Alembert found him a teaching post at the military school. He was elected to the Academy of Sciences and collaborated with Lavoisier on heat. He survived the Revolution, helped design the metric system, briefly served Napoleon as minister of the interior, and was made a marquis under the restored monarchy.",
+   "In his five-volume Celestial Mechanics he showed that the apparent irregularities in the motions of the planets are periodic and that the solar system is stable, completing the Newtonian programme; he also suggested that it formed from a rotating nebula. His Analytical Theory of Probabilities and its popular companion set out the mathematics of chance and errors and applied it to astronomy, demography and judgement. He expressed the ideal of a strict determinism, imagining an intellect that could know the future from the present state of the universe."
+  ]
+ },
+ {
+  "id": "jenner",
+  "name": "Edward Jenner",
+  "born": "1749",
+  "died": "1823",
+  "birthplace": "Berkeley, Gloucestershire",
+  "deathplace": "Berkeley, Gloucestershire",
+  "nationality": "English",
+  "movements": [
+   "enlightenment-science"
+  ],
+  "bio": "Country doctor who showed that inoculation with cowpox protects against smallpox, creating the first vaccine.",
+  "bio_full": [
+   "Jenner was the son of the vicar of Berkeley. He was apprenticed to a surgeon and then studied in London under the great surgeon-anatomist John Hunter, who encouraged him to experiment. He returned to Berkeley as a country practitioner, studied the nesting of cuckoos and the hibernation of hedgehogs, and was elected to the Royal Society for his work on the cuckoo.",
+   "Smallpox was then one of the great killers, and the risky practice of variolation, inoculating with smallpox matter itself, was common. Jenner investigated the country belief that milkmaids who caught cowpox were immune, and in 1796 inoculated a boy, James Phipps, with cowpox and later showed he could not be infected with smallpox. He published his results in 1798, and vaccination, from the Latin vacca for cow, spread rapidly around the world. Jenner spent much of his life promoting it; smallpox was declared eradicated in 1980."
+  ]
+ },
+ {
+  "id": "humboldt",
+  "name": "Alexander von Humboldt",
+  "born": "1769",
+  "died": "1859",
+  "birthplace": "Berlin, Prussia",
+  "deathplace": "Berlin",
+  "nationality": "German",
+  "movements": [
+   "enlightenment-science"
+  ],
+  "bio": "Naturalist and explorer whose travels in the Americas and vision of nature as a web of interconnections founded plant geography and inspired a generation of scientists, including Darwin.",
+  "bio_full": [
+   "Humboldt was born into a wealthy Prussian family; his brother Wilhelm became a famous linguist and educational reformer. After studying at several universities and the Freiberg mining academy, he worked as a mining inspector. On his mother's death he used his inheritance to fund a five-year expedition with the botanist Aimé Bonpland through Venezuela, Cuba, the Andes and Mexico in 1799–1804, then spent over twenty years in Paris writing up the results, and lived his last decades in Berlin.",
+   "Humboldt measured everything he could, from temperature and altitude to magnetism, and he mapped how vegetation changes with climate and height, introducing isotherms to show climate on maps. He saw nature as a unified whole in which life, climate and geology interact, and he wrote about it with literary passion. His late work Kosmos sought to describe the entire physical universe. Darwin carried his travel narrative on the Beagle, and many places and species bear his name."
+  ]
+ },
+ {
+  "id": "gauss",
+  "name": "Carl Friedrich Gauss",
+  "born": "1777",
+  "died": "1855",
+  "birthplace": "Brunswick, Duchy of Brunswick-Wolfenbüttel",
+  "deathplace": "Göttingen, Kingdom of Hanover",
+  "nationality": "German",
+  "movements": [
+   "nineteenth-century-mathematics"
+  ],
+  "bio": "Mathematician and astronomer, often called the prince of mathematicians, who transformed number theory, geometry, statistics and the theory of magnetism.",
+  "bio_full": [
+   "Gauss was the son of a poor bricklayer and gardener in Brunswick. His precocious gift for calculation came to the attention of the Duke of Brunswick, who paid for his education at the Collegium Carolinum and the University of Göttingen. In 1796 he showed that a regular seventeen-sided polygon can be constructed with ruler and compass, and in 1801 published his Disquisitiones Arithmeticae. From 1807 until his death he was director of the Göttingen observatory and professor of astronomy.",
+   "Gauss made fundamental contributions to number theory, algebra, where he gave a proof of the fundamental theorem, complex numbers, differential geometry and statistics, where the normal distribution is often named after him. He calculated the orbit of the newly found asteroid Ceres from a handful of observations using his method of least squares, surveyed the Kingdom of Hanover, and with Wilhelm Weber studied the Earth's magnetism and built an early electric telegraph. Cautious and perfectionist, he left many discoveries, including non-Euclidean geometry, unpublished, guided by the motto 'few, but ripe'."
+  ]
+ },
+ {
+  "id": "dalton",
+  "name": "John Dalton",
+  "born": "1766",
+  "died": "1844",
+  "birthplace": "Eaglesfield, Cumberland",
+  "deathplace": "Manchester",
+  "nationality": "English",
+  "movements": [
+   "chemical-atomism"
+  ],
+  "bio": "Quaker teacher in Manchester who turned the ancient idea of atoms into a quantitative chemical theory, with each element made of atoms of a characteristic weight.",
+  "bio_full": [
+   "Dalton was the son of a Quaker weaver in Cumberland and was teaching school by the age of twelve. In 1793 he moved to Manchester to teach at a dissenting academy, and spent the rest of his life there as a private tutor and an active member of the Manchester Literary and Philosophical Society. He kept a daily weather diary for over fifty years, and his account of his own colour blindness was the first scientific description of the condition, sometimes called Daltonism.",
+   "From studies of gases and the weather, Dalton came to the view that each chemical element consists of identical, indestructible atoms with a particular weight, and that compounds form when atoms combine in simple whole-number ratios. He set out the theory, with the first table of relative atomic weights and circular symbols for the elements, in his New System of Chemical Philosophy from 1808. Many of his values were wrong and his symbols did not catch on, but the atomic theory became the foundation of nineteenth-century chemistry."
+  ]
+ },
+ {
+  "id": "faraday",
+  "name": "Michael Faraday",
+  "born": "1791",
+  "died": "1867",
+  "birthplace": "Newington Butts, Surrey",
+  "deathplace": "Hampton Court, Middlesex",
+  "nationality": "English",
+  "movements": [
+   "electromagnetism"
+  ],
+  "bio": "Self-taught experimenter at the Royal Institution who discovered electromagnetic induction, built the first electric motor and generator, and introduced the idea of the field.",
+  "bio_full": [
+   "Faraday was the son of a blacksmith and had little schooling. Apprenticed to a bookbinder, he educated himself by reading the books he bound, and after attending lectures by Humphry Davy he obtained a post as Davy's laboratory assistant at the Royal Institution in London in 1813. He spent his whole career there, becoming its director of the laboratory and Fullerian Professor of Chemistry, and was a devout member of a small Christian sect, the Sandemanians. He refused a knighthood and lived his last years in a house at Hampton Court given by Queen Victoria.",
+   "Faraday made important chemical discoveries, including benzene and the laws of electrolysis, but his greatest work was in electricity and magnetism. In 1821 he made a wire rotate around a magnet, the first electric motor, and in 1831 he discovered that a changing magnetic field induces a current, the principle of the dynamo and the transformer. Lacking mathematics, he thought in terms of lines of force filling space, an idea that Maxwell turned into field theory. His Christmas lectures for young people, still held today, made him a celebrated popular teacher."
+  ]
+ },
+ {
+  "id": "lyell",
+  "name": "Charles Lyell",
+  "born": "1797",
+  "died": "1875",
+  "birthplace": "Kinnordy, Forfarshire, Scotland",
+  "deathplace": "London",
+  "nationality": "Scottish",
+  "movements": [
+   "evolution-biology"
+  ],
+  "bio": "Geologist whose Principles of Geology argued that the Earth was shaped over immense time by the same slow processes still at work today. The book deeply influenced Darwin.",
+  "bio_full": [
+   "Lyell was the eldest son of a wealthy Scottish landowner and botanist. He studied at Oxford, where William Buckland's lectures drew him to geology, and trained as a barrister, but soon devoted himself to science. Field trips in France, Italy and Sicily, including the volcano Etna, convinced him of the power of gradual change. He was professor of geology at King's College London for a short time, and travelled widely in Europe and North America.",
+   "In the Principles of Geology, Lyell argued against catastrophist theories that the Earth's features were made by sudden upheavals, and claimed that present-day causes acting over vast periods were sufficient, a view later called uniformitarianism. Darwin read the first volume on the Beagle and later became Lyell's close friend. Lyell was long reluctant to accept evolution, especially for humans, but in his later work he came to support Darwin's theory."
+  ]
+ },
+ {
+  "id": "darwin",
+  "name": "Charles Darwin",
+  "born": "1809",
+  "died": "1882",
+  "birthplace": "Shrewsbury, Shropshire",
+  "deathplace": "Downe, Kent",
+  "nationality": "English",
+  "movements": [
+   "evolution-biology"
+  ],
+  "bio": "Naturalist who showed that species evolve by natural selection, explaining the diversity and adaptation of life as the result of descent with modification from common ancestors.",
+  "bio_full": [
+   "Darwin was the son of a wealthy doctor and grandson of the potter Josiah Wedgwood and of the naturalist Erasmus Darwin. He abandoned medicine at Edinburgh and studied for the Church at Cambridge, where he became devoted to natural history. From 1831 to 1836 he sailed around the world as naturalist on HMS Beagle, collecting fossils, observing the geology of South America and the animals of the Galápagos. Back in England he married his cousin Emma Wedgwood and settled at Down House in Kent, where, often ill, he worked for the rest of his life.",
+   "By 1838 Darwin had conceived the theory of natural selection, but he spent twenty years gathering evidence, including long studies of barnacles and domestic breeding. When Alfred Russel Wallace sent him an essay with the same idea in 1858, their papers were read together, and On the Origin of Species followed in 1859. Later books extended the theory to human origins, sexual selection, emotions, orchids, climbing plants and earthworms. Evolution was accepted quickly; natural selection as its main mechanism became established only in the twentieth century, when it was united with genetics."
+  ]
+ },
+ {
+  "id": "mendel",
+  "name": "Gregor Mendel",
+  "born": "1822",
+  "died": "1884",
+  "birthplace": "Heinzendorf, Austrian Silesia",
+  "deathplace": "Brno, Moravia",
+  "nationality": "Austrian (Moravian)",
+  "movements": [
+   "evolution-biology"
+  ],
+  "bio": "Augustinian friar in Brno whose experiments on pea plants revealed the basic laws of inheritance. His work was overlooked until 1900 and is now the foundation of genetics.",
+  "bio_full": [
+   "Johann Mendel was the son of German-speaking peasant farmers in Silesia. To pursue his education he entered the Augustinian abbey of St Thomas in Brno in 1843, taking the name Gregor, and the abbey sent him to the University of Vienna in 1851–53, where he studied physics, mathematics and botany. Back in Brno he taught natural science at a secondary school and from 1856 carried out breeding experiments in the abbey garden. In 1868 he was elected abbot, and administrative duties and a dispute over taxation of the monastery took up his later years.",
+   "Over eight years Mendel crossed and counted thousands of pea plants with contrasting traits, and found that the traits reappeared in fixed ratios in later generations. He explained this by hereditary factors that come in pairs, one from each parent, and are passed on independently. He presented the work in 1865 and published it in 1866, but it attracted little attention. In 1900 three botanists independently rediscovered his results, and his factors became the genes of the new science of genetics."
+  ]
+ },
+ {
+  "id": "pasteur",
+  "name": "Louis Pasteur",
+  "born": "1822",
+  "died": "1895",
+  "birthplace": "Dole, Jura, France",
+  "deathplace": "Marnes-la-Coquette, near Paris",
+  "nationality": "French",
+  "movements": [
+   "germ-theory"
+  ],
+  "bio": "Chemist and microbiologist who showed that fermentation and many diseases are caused by microorganisms, disproved spontaneous generation and developed vaccines against anthrax and rabies.",
+  "bio_full": [
+   "Pasteur was the son of a tanner in the Jura. He studied at the École normale supérieure in Paris and made his name as a chemist with the discovery that some molecules exist in mirror-image forms. He was professor at Strasbourg and Lille and then at the École normale in Paris. Despite a stroke in 1868 that left him partly paralysed, he continued working, and in 1888 the Institut Pasteur was founded in his honour by public subscription.",
+   "Studying fermentation for the wine and beer industries, Pasteur showed that it is the work of living microorganisms, and that gentle heating, now called pasteurisation, could prevent spoilage. His experiments with swan-necked flasks discredited spontaneous generation. He helped save the French silk industry from silkworm diseases and championed the germ theory of disease. With his collaborators he developed vaccines by weakening microbes, against chicken cholera, anthrax and, in 1885, rabies, which made him a national hero. Studies of his notebooks have shown that his public accounts sometimes simplified what he actually did."
+  ]
+ },
+ {
+  "id": "maxwell",
+  "name": "James Clerk Maxwell",
+  "born": "1831",
+  "died": "1879",
+  "birthplace": "Edinburgh, Scotland",
+  "deathplace": "Cambridge",
+  "nationality": "Scottish",
+  "movements": [
+   "electromagnetism"
+  ],
+  "bio": "Physicist who unified electricity, magnetism and light in a single theory, expressed in the equations that bear his name, and founded the statistical theory of gases.",
+  "bio_full": [
+   "Maxwell grew up on the family estate of Glenlair in Galloway and published his first scientific paper, on oval curves, at fourteen. He studied at Edinburgh and Cambridge, then taught at Aberdeen and King's College London, where he did his most important work on electromagnetism. After some years at Glenlair he became the first Cavendish Professor of Experimental Physics at Cambridge in 1871 and planned the Cavendish Laboratory. He died of abdominal cancer at forty-eight.",
+   "Building on Faraday's lines of force, Maxwell developed a set of equations describing electric and magnetic fields and showed that they predict waves travelling at the speed of light, concluding that light is an electromagnetic wave. Heinrich Hertz produced such waves in 1887, opening the way to radio. Maxwell also explained Saturn's rings, made the first colour photograph with his three-colour method, and with Boltzmann founded statistical mechanics. Einstein kept his picture on the wall of his study, alongside those of Newton and Faraday."
+  ]
+ },
+ {
+  "id": "mendeleev",
+  "name": "Dmitri Mendeleev",
+  "born": "1834",
+  "died": "1907",
+  "birthplace": "Verkhnie Aremzyani, near Tobolsk, Siberia",
+  "deathplace": "Saint Petersburg",
+  "nationality": "Russian",
+  "movements": [
+   "chemical-atomism"
+  ],
+  "bio": "Russian chemist who arranged the elements in a periodic table by atomic weight and properties, and used its gaps to predict elements not yet discovered.",
+  "bio_full": [
+   "Mendeleev was the youngest of a large family in Siberia; after his father's death his mother took him to Saint Petersburg to study. He trained as a teacher, studied in Heidelberg and attended the 1860 Karlsruhe Congress, where chemists agreed on reliable atomic weights. He became professor of chemistry at Saint Petersburg University, and later director of the Russian bureau of weights and measures. He advised the government on oil, agriculture and industry.",
+   "While writing a textbook, The Principles of Chemistry, Mendeleev looked for a natural way to order the elements and in 1869 published a table arranging them by atomic weight in which chemical properties recurred periodically. He boldly left gaps and predicted the properties of the missing elements, and the discovery of gallium, scandium and germanium within two decades made the table famous. Others, notably Lothar Meyer, made similar arrangements, but Mendeleev's predictions won him the credit. Element 101, mendelevium, is named after him."
+  ]
+ },
+ {
+  "id": "lister",
+  "name": "Joseph Lister",
+  "born": "1827",
+  "died": "1912",
+  "birthplace": "Upton, Essex",
+  "deathplace": "Walmer, Kent",
+  "nationality": "English",
+  "movements": [
+   "germ-theory"
+  ],
+  "bio": "Surgeon who applied Pasteur's germ theory to surgery, using carbolic acid to prevent wound infection, and so founded antiseptic surgery.",
+  "bio_full": [
+   "Lister was born into a Quaker family; his father, a wine merchant, was an expert on microscope lenses. He studied medicine at University College London and became a surgeon in Edinburgh and then professor of surgery at Glasgow, later returning to Edinburgh and then King's College London. He was surgeon to Queen Victoria and in 1897 became the first medical man raised to the peerage.",
+   "At Glasgow Royal Infirmary Lister saw that many patients died of infection after operations. Reading Pasteur's work on microbes, he reasoned that germs from the air and hands caused wound sepsis, and from 1865 treated wounds, dressings and instruments with carbolic acid, reporting a sharp fall in deaths. His methods were resisted at first but spread rapidly, and developed into today's aseptic surgery. The bacterial genus Listeria and the mouthwash Listerine are named after him."
+  ]
+ },
+ {
+  "id": "koch",
+  "name": "Robert Koch",
+  "born": "1843",
+  "died": "1910",
+  "birthplace": "Clausthal, Kingdom of Hanover",
+  "deathplace": "Baden-Baden, Germany",
+  "nationality": "German",
+  "movements": [
+   "germ-theory"
+  ],
+  "bio": "Physician and microbiologist who identified the bacteria causing anthrax, tuberculosis and cholera and established methods and criteria for proving that a microbe causes a disease.",
+  "bio_full": [
+   "Koch was the son of a mining official in the Harz mountains and studied medicine at Göttingen. While working as a country doctor in Wollstein, in Prussian Poland, he set up a laboratory in his home and in 1876 described the life cycle of the anthrax bacillus. He moved to the Imperial Health Office in Berlin, then became professor at Berlin and director of a new institute for infectious diseases, now the Robert Koch Institute. He won the Nobel Prize in Physiology or Medicine in 1905.",
+   "Koch's laboratory introduced techniques that made bacteriology a precise science: growing pure cultures on solid media, staining and photographing bacteria. In 1882 he announced that tuberculosis, then the leading cause of death in Europe, is caused by a bacillus, and in 1883–84 he identified the cholera bacterium in Egypt and India. His criteria for linking a microbe to a disease are known as Koch's postulates. His claim to have found a cure for tuberculosis, tuberculin, proved a failure, though it became useful as a diagnostic test."
+  ]
+ },
+ {
+  "id": "john-snow",
+  "name": "John Snow",
+  "born": "1813",
+  "died": "1858",
+  "birthplace": "York",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "germ-theory"
+  ],
+  "bio": "London physician who showed that cholera spreads through contaminated water, and a pioneer of anaesthesia. He is regarded as a founder of epidemiology.",
+  "bio_full": [
+   "Snow was the son of a labourer in York. He was apprenticed to a surgeon in Newcastle, where he saw the first cholera epidemic of 1831–32, and then studied in London, setting up practice in Soho. He became the leading expert in anaesthesia with ether and chloroform, and gave chloroform to Queen Victoria at the births of two of her children. He died of a stroke at forty-five.",
+   "At a time when most doctors believed cholera was spread by bad air, or miasma, Snow argued that it was caused by something swallowed in contaminated water. During the 1854 outbreak in Soho he mapped deaths clustering around a pump in Broad Street and persuaded the parish to remove its handle. His larger study comparing households supplied by two water companies provided strong statistical evidence. His ideas were slow to be accepted, but he is now honoured as a founder of modern epidemiology."
+  ]
+ },
+ {
+  "id": "nightingale",
+  "name": "Florence Nightingale",
+  "born": "1820",
+  "died": "1910",
+  "birthplace": "Florence, Grand Duchy of Tuscany",
+  "deathplace": "London",
+  "nationality": "British",
+  "movements": [
+   "germ-theory"
+  ],
+  "bio": "Nurse, reformer and statistician who used data and innovative diagrams to show that most soldiers' deaths in the Crimean War came from preventable disease.",
+  "bio_full": [
+   "Nightingale was born into a wealthy English family and named after the city of her birth. Against her family's wishes she trained as a nurse, and in 1854 led a team of nurses to the British military hospital at Scutari during the Crimean War, where she became famous as 'the Lady with the Lamp'. On her return she worked tirelessly, though often bedridden, for reform of army medicine, hospital design and nursing, founding a nursing school at St Thomas' Hospital in 1860.",
+   "Nightingale had been taught mathematics as a girl and worked with the statistician William Farr. She collected mortality figures and presented them in striking graphics, notably her polar-area 'rose' diagrams, to persuade officials that sanitary conditions were killing far more soldiers than wounds. In 1858 she became the first woman elected a fellow of the Royal Statistical Society. She held to a miasma view of disease long after germ theory arose, but her use of evidence made her a pioneer of public health statistics."
+  ]
+ },
+ {
+  "id": "cajal",
+  "name": "Santiago Ramón y Cajal",
+  "born": "1852",
+  "died": "1934",
+  "birthplace": "Petilla de Aragón, Navarre, Spain",
+  "deathplace": "Madrid",
+  "nationality": "Spanish",
+  "movements": [
+   "germ-theory"
+  ],
+  "bio": "Spanish histologist who showed that the nervous system is made of separate cells, neurons, and drew them with unmatched skill. He is regarded as the founder of modern neuroscience.",
+  "bio_full": [
+   "Cajal was the son of a country doctor and anatomy teacher in Aragon. A rebellious boy who wanted to be an artist, he trained in medicine at Zaragoza, served as an army doctor in Cuba, where he caught malaria, and became professor of anatomy at Valencia, then of histology at Barcelona and Madrid. He shared the Nobel Prize in Physiology or Medicine in 1906 with Camillo Golgi.",
+   "Using and improving Golgi's silver staining method, Cajal studied the brain, spinal cord and retina and argued that nerve tissue is not a continuous network, as Golgi believed, but a mass of distinct cells that communicate across small gaps, and that signals flow in one direction through each cell. This neuron doctrine was confirmed by electron microscopy in the 1950s. His thousands of drawings remain both scientific evidence and admired works of art."
+  ]
+ },
+ {
+  "id": "boole",
+  "name": "George Boole",
+  "born": "1815",
+  "died": "1864",
+  "birthplace": "Lincoln, England",
+  "deathplace": "Ballintemple, Cork, Ireland",
+  "nationality": "English",
+  "movements": [
+   "logic-foundations"
+  ],
+  "bio": "Self-taught mathematician who turned logic into algebra. Boolean algebra later became the mathematical basis of digital circuits and computing.",
+  "bio_full": [
+   "Boole was the son of a Lincoln shoemaker with a passion for science and instruments. Unable to afford university, he taught himself mathematics and languages and opened his own school at nineteen. His papers on differential equations and invariants won him a gold medal of the Royal Society, and in 1849, without a degree, he became the first professor of mathematics at Queen's College, Cork. He died at forty-nine after catching a chill walking to a lecture in the rain.",
+   "In The Mathematical Analysis of Logic of 1847 and The Laws of Thought of 1854, Boole showed that logical reasoning could be expressed as algebraic equations in which variables stand for classes and take only the values 0 and 1. In 1937 Claude Shannon showed that this algebra could describe switching circuits, and Boolean logic became the foundation of digital electronics and computer programming."
+  ]
+ },
+ {
+  "id": "babbage",
+  "name": "Charles Babbage",
+  "born": "1791",
+  "died": "1871",
+  "birthplace": "London",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "computing"
+  ],
+  "bio": "Mathematician and inventor who designed the Difference Engine and the Analytical Engine, a mechanical general-purpose computer conceived a century before electronic ones.",
+  "bio_full": [
+   "Babbage was the son of a wealthy London banker and studied at Cambridge, where he helped introduce Continental calculus notation. He was Lucasian Professor of Mathematics at Cambridge from 1828 to 1839, though he rarely lectured, and was a founder of the Astronomical and Statistical Societies. He wrote on manufacturing, economics and the decline of British science, campaigned against street musicians and held famous Saturday evening parties in London.",
+   "Frustrated by errors in printed mathematical tables, Babbage designed in 1822 a Difference Engine to calculate and print them mechanically, and obtained government funds to build it; it was never completed. He then conceived the Analytical Engine, with a separate store and mill, the equivalent of memory and processor, programmed by punched cards like a Jacquard loom. Neither machine was built in his lifetime, but in 1991 the Science Museum in London completed a working Difference Engine No. 2 from his drawings."
+  ]
+ },
+ {
+  "id": "lovelace",
+  "name": "Ada Lovelace",
+  "born": "1815",
+  "died": "1852",
+  "birthplace": "London",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "computing"
+  ],
+  "bio": "Mathematician who wrote the first published account of programming a general-purpose computer, Babbage's Analytical Engine, and foresaw that such machines could handle symbols as well as numbers.",
+  "bio_full": [
+   "Augusta Ada Byron was the only legitimate child of the poet Lord Byron, who left the family weeks after her birth. Her mother, Annabella Milbanke, had her taught mathematics and science, partly to steer her away from her father's temperament. She met Charles Babbage in 1833 and became a close friend and correspondent. In 1835 she married William King, later Earl of Lovelace. She studied mathematics with Augustus De Morgan, suffered long periods of illness and died of cancer at thirty-six.",
+   "In 1843 Lovelace translated an Italian article by Luigi Menabrea on the Analytical Engine and added notes three times its length. They explained how the engine could be instructed and included a table of operations for calculating Bernoulli numbers, often called the first computer program, and speculated that it might compose music. How much of the mathematics was her own and how much Babbage's is debated, but her vision of the computer as a general symbol-manipulating machine was unique in her time."
+  ]
+ },
+ {
+  "id": "riemann",
+  "name": "Bernhard Riemann",
+  "born": "1826",
+  "died": "1866",
+  "birthplace": "Breselenz, Kingdom of Hanover",
+  "deathplace": "Selasca, Italy",
+  "nationality": "German",
+  "movements": [
+   "nineteenth-century-mathematics"
+  ],
+  "bio": "Mathematician whose geometry of curved spaces provided the mathematics of general relativity, and whose hypothesis about prime numbers remains the most famous unsolved problem in mathematics.",
+  "bio_full": [
+   "Riemann was the son of a Lutheran pastor in a village near the Elbe and was shy and often unwell. He studied at Göttingen and Berlin and took his doctorate under Gauss in 1851. He taught at Göttingen, succeeding Dirichlet as professor in 1859. Tuberculosis forced him to seek the Italian climate, and he died on Lake Maggiore at thirty-nine.",
+   "In a few highly original papers Riemann transformed complex analysis, introduced the Riemann integral and Riemann surfaces, and in his 1854 lecture on the foundations of geometry described spaces of any number of dimensions whose curvature can vary from point to point. Einstein used this geometry for general relativity. His single paper on prime numbers of 1859 linked their distribution to the zeros of a function, the zeta function, and his conjecture about those zeros, the Riemann hypothesis, is still unproved."
+  ]
+ },
+ {
+  "id": "cantor",
+  "name": "Georg Cantor",
+  "born": "1845",
+  "died": "1918",
+  "birthplace": "Saint Petersburg, Russia",
+  "deathplace": "Halle, Germany",
+  "nationality": "German",
+  "movements": [
+   "nineteenth-century-mathematics",
+   "logic-foundations"
+  ],
+  "bio": "Mathematician who created set theory and showed that there are different sizes of infinity, some infinite sets being strictly larger than others.",
+  "bio_full": [
+   "Cantor was born in Saint Petersburg to a merchant family that moved to Germany when he was eleven. He studied at Zurich, Berlin and Göttingen and spent his whole career at the University of Halle. His ideas met fierce opposition, especially from Leopold Kronecker, and he suffered recurring bouts of depression from 1884 onwards, spending periods in sanatoriums. He died in a Halle sanatorium during the First World War.",
+   "Starting from problems about trigonometric series, Cantor developed a theory of sets and their sizes. In 1874 he proved that the real numbers cannot be put in one-to-one correspondence with the whole numbers, and in 1891 gave his famous diagonal argument showing that for any set there is a larger one. He built an arithmetic of transfinite numbers and posed the continuum hypothesis. Hilbert called set theory a paradise from which no one would drive mathematicians, and it became the common language of modern mathematics."
+  ]
+ },
+ {
+  "id": "hilbert",
+  "name": "David Hilbert",
+  "born": "1862",
+  "died": "1943",
+  "birthplace": "Königsberg, Prussia",
+  "deathplace": "Göttingen, Germany",
+  "nationality": "German",
+  "movements": [
+   "logic-foundations"
+  ],
+  "bio": "Leading mathematician of the early twentieth century, who set the agenda of modern mathematics with his 23 problems and sought to place it on secure formal foundations.",
+  "bio_full": [
+   "Hilbert was born and educated in Königsberg, where he formed a lifelong friendship with Hermann Minkowski. In 1895 he moved to Göttingen, which under him and Felix Klein became the world centre of mathematics, attracting students and visitors from everywhere, including Emmy Noether, whom he fought to have appointed. After the Nazis expelled many of his colleagues in 1933, the institute was a shadow of itself, and he died in Göttingen during the Second World War.",
+   "Hilbert did fundamental work in invariant theory, number theory, the axioms of geometry, integral equations and the mathematics of physics, where the Hilbert space is named after him. At the 1900 International Congress in Paris he presented a list of problems that shaped twentieth-century research. His programme to prove mathematics consistent and complete by finite formal methods was shown by Gödel in 1931 to be unachievable as he had hoped, but it gave birth to modern logic and proof theory."
+  ]
+ },
+ {
+  "id": "rontgen",
+  "name": "Wilhelm Conrad Röntgen",
+  "born": "1845",
+  "died": "1923",
+  "birthplace": "Lennep, Prussia",
+  "deathplace": "Munich, Germany",
+  "nationality": "German",
+  "movements": [
+   "radioactivity-atom"
+  ],
+  "bio": "Physicist who discovered X-rays in 1895 and was awarded the first Nobel Prize in Physics.",
+  "bio_full": [
+   "Röntgen was the only child of a cloth merchant and grew up in the Netherlands. Expelled from school for a prank he did not commit, he studied mechanical engineering at the Zurich Polytechnic and then physics. He held posts at Strasbourg, Hohenheim and Giessen, and in 1888 became professor of physics at Würzburg, later moving to Munich. He received the first Nobel Prize in Physics in 1901 and gave the prize money to his university.",
+   "In November 1895, experimenting with cathode-ray tubes, Röntgen noticed that a fluorescent screen across the room glowed even when the tube was covered. He spent weeks investigating the invisible, penetrating radiation, which he called X-rays, and made an image of the bones in his wife's hand. Within months X-rays were being used by doctors around the world. Röntgen refused to patent the discovery, believing it belonged to humanity. The discovery also launched the research that led to radioactivity and atomic physics."
+  ]
+ },
+ {
+  "id": "marie-curie",
+  "name": "Marie Curie",
+  "born": "1867",
+  "died": "1934",
+  "birthplace": "Warsaw, Congress Poland, Russian Empire",
+  "deathplace": "Passy, Haute-Savoie, France",
+  "nationality": "Polish-French",
+  "movements": [
+   "radioactivity-atom"
+  ],
+  "bio": "Physicist and chemist who pioneered the study of radioactivity, discovered polonium and radium, and was the first person to win two Nobel Prizes.",
+  "bio_full": [
+   "Maria Skłodowska was the daughter of teachers in Russian-ruled Warsaw, where women could not attend university. She worked as a governess to pay for her sister's medical studies, then in 1891 went to Paris to study physics and mathematics at the Sorbonne. In 1895 she married the physicist Pierre Curie. After Pierre's death in a street accident in 1906 she took over his chair, becoming the first woman professor at the Sorbonne. During the First World War she organised mobile X-ray units for the front. She died of aplastic anaemia, almost certainly caused by her long exposure to radiation.",
+   "Following Henri Becquerel's discovery of uranium rays, Curie found that the intensity of the radiation depended only on the amount of uranium, suggesting it came from the atom itself, and she coined the word radioactivity. With Pierre she discovered polonium and radium in 1898, and after years of processing tonnes of pitchblende she isolated radium salts. She shared the 1903 Nobel Prize in Physics with Pierre and Becquerel, and won the 1911 Nobel Prize in Chemistry alone. Her daughter Irène Joliot-Curie also won a Nobel Prize."
+  ]
+ },
+ {
+  "id": "planck",
+  "name": "Max Planck",
+  "born": "1858",
+  "died": "1947",
+  "birthplace": "Kiel, Duchy of Holstein",
+  "deathplace": "Göttingen, Germany",
+  "nationality": "German",
+  "movements": [
+   "relativity-quantum"
+  ],
+  "bio": "Theoretical physicist whose hypothesis that energy is emitted in discrete quanta, made in 1900, began quantum theory.",
+  "bio_full": [
+   "Planck came from a family of scholars and lawyers and studied at Munich and Berlin, where he heard Helmholtz and Kirchhoff. He was professor of theoretical physics at Berlin from 1889 to 1926 and a dominant figure in German science, presiding over the Kaiser Wilhelm Society. He won the Nobel Prize in Physics in 1918. His later life was marked by tragedy: his elder son was killed at Verdun, and his younger son was executed in 1945 for involvement in the plot against Hitler.",
+   "Working on the problem of how the radiation emitted by a hot body depends on temperature and wavelength, Planck found in 1900 a formula that matched experiment, and could derive it only by assuming that energy is exchanged in packets proportional to frequency, with a new constant now called Planck's constant. He regarded this at first as a mathematical device; Einstein and Bohr showed it to be fundamental. Planck was also an early champion of Einstein's relativity."
+  ]
+ },
+ {
+  "id": "rutherford",
+  "name": "Ernest Rutherford",
+  "born": "1871",
+  "died": "1937",
+  "birthplace": "Brightwater, New Zealand",
+  "deathplace": "Cambridge, England",
+  "nationality": "New Zealander",
+  "movements": [
+   "radioactivity-atom"
+  ],
+  "bio": "New Zealand-born physicist who explained radioactivity as the transformation of elements, discovered the atomic nucleus and first split an atom by artificial means.",
+  "bio_full": [
+   "Rutherford was the son of a flax-miller and farmer in New Zealand. A scholarship took him from Canterbury College to the Cavendish Laboratory in Cambridge in 1895, where he worked under J. J. Thomson. He was professor at McGill University in Montreal, then at Manchester, and from 1919 director of the Cavendish Laboratory, where many future Nobel laureates trained under him. He won the Nobel Prize in Chemistry in 1908 and was made Baron Rutherford of Nelson.",
+   "At McGill, with Frederick Soddy, Rutherford showed that radioactive atoms spontaneously turn into other elements, and he named alpha and beta radiation. At Manchester, experiments by Hans Geiger and Ernest Marsden firing alpha particles at gold foil led him in 1911 to propose that the atom's mass is concentrated in a tiny, positive nucleus. In 1917–19 he transformed nitrogen into oxygen by alpha bombardment, the first artificial nuclear reaction, and he identified the proton."
+  ]
+ },
+ {
+  "id": "einstein",
+  "name": "Albert Einstein",
+  "born": "1879",
+  "died": "1955",
+  "birthplace": "Ulm, Kingdom of Württemberg",
+  "deathplace": "Princeton, New Jersey",
+  "nationality": "German-born (Swiss, American)",
+  "movements": [
+   "relativity-quantum",
+   "cosmology"
+  ],
+  "bio": "Theoretical physicist who created the special and general theories of relativity and helped found quantum theory. He became the most famous scientist of the twentieth century.",
+  "bio_full": [
+   "Einstein grew up in Munich, left school without graduating and studied physics at the Zurich Polytechnic. Unable to find an academic post, he worked at the Swiss patent office in Bern, where in 1905 he published four papers that changed physics. He held professorships in Zurich and Prague and from 1914 in Berlin. The 1919 eclipse expedition confirming general relativity made him world-famous, and he won the 1921 Nobel Prize in Physics for the photoelectric effect. Jewish and a pacifist, he left Germany in 1933 and settled at the Institute for Advanced Study in Princeton.",
+   "Special relativity showed that space and time depend on the observer's motion and that mass and energy are equivalent. General relativity, completed in 1915, explained gravity as the curvature of spacetime by matter and energy and predicted the bending of light, gravitational waves and black holes. His 1905 explanation of the photoelectric effect treated light as quanta, and he made many other contributions to quantum and statistical physics, though he never accepted that quantum mechanics was a complete description of reality. He spent his last decades seeking a unified field theory and speaking for peace and civil rights."
+  ]
+ },
+ {
+  "id": "bohr",
+  "name": "Niels Bohr",
+  "born": "1885",
+  "died": "1962",
+  "birthplace": "Copenhagen, Denmark",
+  "deathplace": "Copenhagen",
+  "nationality": "Danish",
+  "movements": [
+   "radioactivity-atom",
+   "relativity-quantum"
+  ],
+  "bio": "Physicist who applied quantum ideas to the structure of the atom and led the development and interpretation of quantum mechanics from his institute in Copenhagen.",
+  "bio_full": [
+   "Bohr was the son of a physiology professor in Copenhagen and studied at the university there. In 1911–12 he worked in England, first with J. J. Thomson in Cambridge and then with Rutherford in Manchester. In 1921 he founded the Institute for Theoretical Physics in Copenhagen, which became the meeting place of the new quantum physics. He won the Nobel Prize in Physics in 1922. In 1943 he escaped occupied Denmark and took part in the atomic bomb project, afterwards campaigning for openness and international control of nuclear weapons.",
+   "In 1913 Bohr proposed that electrons in atoms occupy only certain allowed orbits and emit or absorb light when they jump between them, explaining the spectrum of hydrogen. This model, though soon superseded, linked quantum theory to atomic structure. He then guided the younger physicists who created quantum mechanics and developed the principle of complementarity, at the heart of the Copenhagen interpretation, debating its meaning with Einstein for decades. He also explained nuclear fission with the liquid-drop model."
+  ]
+ },
+ {
+  "id": "noether",
+  "name": "Emmy Noether",
+  "born": "1882",
+  "died": "1935",
+  "birthplace": "Erlangen, Bavaria",
+  "deathplace": "Bryn Mawr, Pennsylvania",
+  "nationality": "German",
+  "movements": [
+   "relativity-quantum",
+   "nineteenth-century-mathematics"
+  ],
+  "bio": "Mathematician who discovered the deep link between symmetries and conservation laws in physics and was a founder of modern abstract algebra.",
+  "bio_full": [
+   "Noether was the daughter of the mathematician Max Noether in Erlangen, where women were allowed to enrol at the university only from 1904. She took her doctorate there in 1907 and worked for years without pay. In 1915 Hilbert and Klein invited her to Göttingen, but faculty opposition to a woman lecturer meant she could only teach under Hilbert's name until 1919, and she was never given a full professorship. Dismissed in 1933 because she was Jewish, she moved to Bryn Mawr College in the United States, where she died after surgery two years later.",
+   "Noether's theorem of 1918 shows that every continuous symmetry of a physical system corresponds to a conserved quantity: symmetry in time gives conservation of energy, symmetry in space conservation of momentum. It became a guiding principle of twentieth-century physics. In the 1920s her work on rings, ideals and modules transformed algebra into the abstract, structural subject it is today, and she inspired a large circle of students, the 'Noether boys'."
+  ]
+ },
+ {
+  "id": "heisenberg",
+  "name": "Werner Heisenberg",
+  "born": "1901",
+  "died": "1976",
+  "birthplace": "Würzburg, Bavaria",
+  "deathplace": "Munich, West Germany",
+  "nationality": "German",
+  "movements": [
+   "relativity-quantum"
+  ],
+  "bio": "Physicist who created matrix mechanics, the first complete form of quantum mechanics, and formulated the uncertainty principle.",
+  "bio_full": [
+   "Heisenberg was the son of a professor of Greek in Munich. He studied with Arnold Sommerfeld, took his doctorate at twenty-two, and worked with Max Born in Göttingen and with Bohr in Copenhagen. In 1927 he became professor at Leipzig, and he received the Nobel Prize in Physics for 1932. He stayed in Germany under the Nazis and led the German nuclear research programme during the Second World War; how far he worked for or against a bomb remains intensely debated. After the war he directed the Max Planck Institute for Physics.",
+   "On the island of Heligoland in 1925 Heisenberg found a way to describe atomic systems purely in terms of observable quantities, which Born and Pascual Jordan recognised as matrix algebra. In 1927 he showed that certain pairs of quantities, such as position and momentum, cannot both be known precisely at once, the uncertainty principle. These ideas, with Bohr's, formed the Copenhagen interpretation of quantum mechanics. He later worked on nuclear physics and the theory of elementary particles."
+  ]
+ },
+ {
+  "id": "schrodinger",
+  "name": "Erwin Schrödinger",
+  "born": "1887",
+  "died": "1961",
+  "birthplace": "Vienna, Austria-Hungary",
+  "deathplace": "Vienna",
+  "nationality": "Austrian",
+  "movements": [
+   "relativity-quantum",
+   "molecular-biology"
+  ],
+  "bio": "Physicist whose wave equation became the central equation of quantum mechanics. His book What Is Life? inspired a generation of molecular biologists.",
+  "bio_full": [
+   "Schrödinger studied at the University of Vienna and served as an artillery officer in the First World War. He was professor in Zurich from 1921, where he made his great discovery, and succeeded Planck in Berlin in 1927. Opposed to the Nazis, he left Germany in 1933, the year he shared the Nobel Prize in Physics with Paul Dirac, and after periods in Oxford and Graz settled at the Dublin Institute for Advanced Studies from 1939 to 1956, before returning to Vienna.",
+   "In 1926 Schrödinger described electrons as waves governed by an equation that gave the energy levels of the hydrogen atom, and showed that his wave mechanics was equivalent to Heisenberg's matrix mechanics. He was unhappy with the probabilistic interpretation, and in 1935 devised the thought experiment of a cat both alive and dead to show its strangeness. His 1944 book What Is Life? suggested that genes contain a coded message in an 'aperiodic crystal', an idea that Watson and Crick both acknowledged as an inspiration."
+  ]
+ },
+ {
+  "id": "hubble",
+  "name": "Edwin Hubble",
+  "born": "1889",
+  "died": "1953",
+  "birthplace": "Marshfield, Missouri",
+  "deathplace": "San Marino, California",
+  "nationality": "American",
+  "movements": [
+   "cosmology"
+  ],
+  "bio": "Astronomer who showed that the spiral nebulae are galaxies far beyond the Milky Way and that more distant galaxies recede faster, the observational basis of the expanding universe.",
+  "bio_full": [
+   "Hubble grew up in Missouri and Illinois, studied mathematics and astronomy at the University of Chicago and law at Oxford as a Rhodes Scholar, and briefly taught high school. After a doctorate at Chicago and service in the First World War, he joined the Mount Wilson Observatory in California in 1919, where he had use of the 100-inch Hooker telescope, then the largest in the world. He worked there for the rest of his life, apart from war service in ballistics during the Second World War.",
+   "In 1923–24 Hubble identified Cepheid variable stars in the Andromeda nebula and used them to show that it lies far outside our galaxy, settling the debate over whether the universe contains other galaxies. He devised the classification of galaxies by shape still used today. In 1929, combining his distances with redshifts measured largely by Vesto Slipher and with Milton Humason's work, he showed that galaxies recede at speeds proportional to their distance. Lemaître had found the relation two years earlier, and since 2018 it has been officially called the Hubble–Lemaître law. The Hubble Space Telescope is named after him."
+  ]
+ },
+ {
+  "id": "lemaitre",
+  "name": "Georges Lemaître",
+  "born": "1894",
+  "died": "1966",
+  "birthplace": "Charleroi, Belgium",
+  "deathplace": "Leuven, Belgium",
+  "nationality": "Belgian",
+  "movements": [
+   "cosmology"
+  ],
+  "bio": "Belgian priest and physicist who proposed that the universe is expanding and that it began from a 'primeval atom', the idea now called the Big Bang.",
+  "bio_full": [
+   "Lemaître studied engineering at Leuven, fought in the Belgian army in the First World War, then turned to mathematics and physics and was ordained a Catholic priest in 1923. He studied with Arthur Eddington in Cambridge and at Harvard and MIT, and from 1925 taught at the Catholic University of Leuven for the rest of his career. He later became president of the Pontifical Academy of Sciences, and was an early user of electronic computers.",
+   "In 1927 Lemaître published, in a little-read Belgian journal, a solution of Einstein's equations describing an expanding universe, with an estimate of the expansion rate from galaxy data, two years before Hubble. In 1931 he proposed that the universe began from a single 'primeval atom', whose decay produced everything since. The idea was later developed by George Gamow and others, and the discovery of the cosmic microwave background in 1965, shortly before Lemaître's death, gave it strong support. He kept his science and faith distinct."
+  ]
+ },
+ {
+  "id": "fleming",
+  "name": "Alexander Fleming",
+  "born": "1881",
+  "died": "1955",
+  "birthplace": "Darvel, Ayrshire, Scotland",
+  "deathplace": "London",
+  "nationality": "Scottish",
+  "movements": [
+   "germ-theory"
+  ],
+  "bio": "Bacteriologist who discovered penicillin in 1928, the first antibiotic, and the antibacterial enzyme lysozyme.",
+  "bio_full": [
+   "Fleming grew up on a farm in Ayrshire, moved to London and worked in a shipping office before a legacy allowed him to study medicine at St Mary's Hospital Medical School. He spent his career at St Mary's, in the inoculation department of Sir Almroth Wright, and served in battlefield hospitals in France in the First World War, where he saw many soldiers die of infected wounds. He shared the Nobel Prize in Physiology or Medicine in 1945 with Howard Florey and Ernst Chain and was knighted in 1944.",
+   "In 1928 Fleming noticed that a mould contaminating a culture plate of staphylococci had killed the bacteria around it. He identified it as Penicillium and named its active substance penicillin, but could not purify it in useful quantities. A decade later Florey, Chain, Norman Heatley and colleagues in Oxford developed it into a drug, and it was mass-produced during the Second World War. Penicillin opened the age of antibiotics, and Fleming warned early that misuse would breed resistant bacteria."
+  ]
+ },
+ {
+  "id": "godel",
+  "name": "Kurt Gödel",
+  "born": "1906",
+  "died": "1978",
+  "birthplace": "Brünn (Brno), Austria-Hungary",
+  "deathplace": "Princeton, New Jersey",
+  "nationality": "Austrian-American",
+  "movements": [
+   "logic-foundations"
+  ],
+  "bio": "Logician who proved that any consistent formal system rich enough for arithmetic contains true statements it cannot prove, transforming the foundations of mathematics.",
+  "bio_full": [
+   "Gödel was born into a German-speaking family in Brno and studied mathematics and physics at the University of Vienna, where he took part in meetings of the Vienna Circle of philosophers. He proved the completeness of first-order logic in his doctoral thesis and his incompleteness theorems in 1931. After the annexation of Austria he emigrated in 1940 to the United States, crossing Siberia and the Pacific, and joined the Institute for Advanced Study in Princeton, where he became a close friend of Einstein. He suffered from paranoia and died of malnutrition, having refused to eat for fear of poisoning.",
+   "Gödel's first incompleteness theorem showed that in any consistent formal system that includes arithmetic there are statements that can neither be proved nor disproved within it; the second showed that such a system cannot prove its own consistency. This ended the hope of Hilbert's programme in its original form. He also showed that the continuum hypothesis cannot be disproved from the usual axioms of set theory, and found solutions to Einstein's equations that allow travel into the past."
+  ]
+ },
+ {
+  "id": "turing",
+  "name": "Alan Turing",
+  "born": "1912",
+  "died": "1954",
+  "birthplace": "Maida Vale, London",
+  "deathplace": "Wilmslow, Cheshire",
+  "nationality": "English",
+  "movements": [
+   "computing",
+   "logic-foundations"
+  ],
+  "bio": "Mathematician who defined the theoretical idea of the universal computer, led the breaking of German naval codes in the Second World War, and posed the question of machine intelligence.",
+  "bio_full": [
+   "Turing studied mathematics at King's College, Cambridge, and wrote his paper on computable numbers in 1936, then took a doctorate at Princeton under Alonzo Church. During the Second World War he worked at Bletchley Park, designing the electromechanical Bombe used to break Enigma messages and leading the attack on German naval codes. After the war he designed the ACE computer at the National Physical Laboratory and worked on early computers at Manchester. In 1952 he was convicted of homosexual acts and subjected to chemical castration; he died of cyanide poisoning in 1954, ruled a suicide. He received a posthumous royal pardon in 2013.",
+   "Turing's 1936 paper described a simple abstract machine that can perform any computation that can be precisely specified, and a universal machine that can imitate any other, the theoretical basis of the stored-program computer; he used it to show that some mathematical problems cannot be solved by any mechanical procedure. In 1950 he proposed the imitation game, now called the Turing test, as a way of asking whether machines can think, and in his last years he did pioneering work on the mathematics of biological pattern formation."
+  ]
+ },
+ {
+  "id": "shannon",
+  "name": "Claude Shannon",
+  "born": "1916",
+  "died": "2001",
+  "birthplace": "Petoskey, Michigan",
+  "deathplace": "Medford, Massachusetts",
+  "nationality": "American",
+  "movements": [
+   "computing"
+  ],
+  "bio": "Mathematician and engineer who founded information theory and showed that Boolean logic could be used to design switching circuits.",
+  "bio_full": [
+   "Shannon grew up in Gaylord, Michigan, studied electrical engineering and mathematics at the University of Michigan and went to MIT, where he worked on Vannevar Bush's differential analyser. His 1937 master's thesis showed that relay circuits could be analysed and designed with Boole's algebra. He worked at Bell Telephone Laboratories from 1941, including wartime work on cryptography, and from 1956 taught at MIT. He was also known for his juggling, unicycling and playful machines.",
+   "Shannon's 1948 paper 'A Mathematical Theory of Communication' defined information as a measurable quantity, measured in bits, and showed that every communication channel has a capacity below which messages can be sent with as few errors as desired using suitable codes. It laid the foundation for digital communication, data compression and error-correcting codes. He also wrote early papers on programming a computer to play chess."
+  ]
+ },
+ {
+  "id": "rosalind-franklin",
+  "name": "Rosalind Franklin",
+  "born": "1920",
+  "died": "1958",
+  "birthplace": "Notting Hill, London",
+  "deathplace": "Chelsea, London",
+  "nationality": "English",
+  "movements": [
+   "molecular-biology"
+  ],
+  "bio": "Chemist and X-ray crystallographer whose diffraction images and measurements of DNA were essential to the discovery of the double helix. She also did pioneering work on coal and viruses.",
+  "bio_full": [
+   "Franklin came from a prominent London Jewish family and studied chemistry at Newnham College, Cambridge. During the Second World War she studied the structure of coal for the British Coal Utilisation Research Association, and from 1947 to 1950 worked in Paris, where she mastered X-ray diffraction. In 1951 she joined King's College London to study DNA, in a difficult working relationship with Maurice Wilkins. In 1953 she moved to Birkbeck College, where she led important studies of the structure of viruses. She died of ovarian cancer at thirty-seven.",
+   "At King's, Franklin and her student Raymond Gosling distinguished two forms of DNA and produced sharp diffraction images, including Photo 51, together with precise measurements showing that the phosphate backbone lies on the outside. Without her knowledge, Wilkins showed Photo 51 to James Watson, and a report containing her data reached Francis Crick; these were crucial to their model. Her contribution was long underplayed, partly because she died before the 1962 Nobel Prize was awarded, and she has since become a symbol of overlooked women in science."
+  ]
+ },
+ {
+  "id": "watson",
+  "name": "James Watson",
+  "born": "1928",
+  "died": "2025",
+  "birthplace": "Chicago, Illinois",
+  "deathplace": "East Northport, New York",
+  "nationality": "American",
+  "movements": [
+   "molecular-biology"
+  ],
+  "bio": "Biologist who with Francis Crick proposed the double-helix structure of DNA in 1953, and later led the Cold Spring Harbor Laboratory and the early Human Genome Project.",
+  "bio_full": [
+   "Watson entered the University of Chicago at fifteen, took his doctorate at Indiana University on viruses that infect bacteria, and went to Europe as a postdoctoral fellow. In 1951 he joined the Cavendish Laboratory in Cambridge, where he met Francis Crick. He later taught at Harvard, was director and later president of the Cold Spring Harbor Laboratory in New York, and was the first head of the National Institutes of Health genome effort. His late career was overshadowed by repeated public remarks about race and intelligence that led institutions to strip him of honours.",
+   "With Crick he built a model of DNA as two helical chains held together by paired bases, using the X-ray data of Rosalind Franklin and Maurice Wilkins, and published it in Nature in 1953. Watson, Crick and Wilkins shared the 1962 Nobel Prize in Physiology or Medicine. His candid memoir The Double Helix (1968) became a bestseller and was criticised for its portrayal of Franklin. His textbooks shaped the teaching of molecular biology."
+  ]
+ },
+ {
+  "id": "crick",
+  "name": "Francis Crick",
+  "born": "1916",
+  "died": "2004",
+  "birthplace": "Weston Favell, Northamptonshire",
+  "deathplace": "San Diego, California",
+  "nationality": "English",
+  "movements": [
+   "molecular-biology"
+  ],
+  "bio": "Physicist turned biologist who co-discovered the structure of DNA with James Watson and did more than anyone to work out how the genetic code is read.",
+  "bio_full": [
+   "Crick studied physics at University College London, and his doctoral research was interrupted by the Second World War, when he designed magnetic and acoustic mines for the Admiralty. Inspired partly by Schrödinger's What Is Life?, he moved into biology and in 1949 joined the Medical Research Council unit at the Cavendish Laboratory in Cambridge, where he met Watson in 1951. He spent most of his career in Cambridge and from 1976 at the Salk Institute in California, where he turned to the study of consciousness.",
+   "After the double helix of 1953, Crick set out the 'sequence hypothesis' and the 'central dogma' that information flows from nucleic acid to protein and not back, proposed the existence of adaptor molecules, later found to be transfer RNA, and with Sydney Brenner showed in 1961 that the genetic code is read in groups of three bases. He shared the 1962 Nobel Prize with Watson and Wilkins. He was the leading theorist of molecular biology in its classic period."
+  ]
+ }
+]

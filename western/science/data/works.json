@@ -1,0 +1,1202 @@
+[
+ {
+  "title": "Hippocratic Corpus",
+  "creator": "hippocrates",
+  "year": "c. 430–330 BC",
+  "sort": -400,
+  "type": "Collection of medical treatises",
+  "location": "Greek manuscripts; first printed edition Venice, 1526",
+  "note": "Some sixty Greek medical writings that treat disease as a natural process to be observed, predicted and treated.",
+  "description": "The Hippocratic Corpus is a collection of about sixty medical texts written in Ionic Greek by many authors, mostly between about 430 and 330 BC, and gathered under the name of Hippocrates, probably in Alexandria. Which, if any, Hippocrates wrote himself has been debated since antiquity. The treatises range from case histories in Epidemics and practical surgery on fractures and head wounds to theoretical works such as On the Nature of Man, which set out the theory of four humours, and On the Sacred Disease, which argues that epilepsy has natural causes like any other illness. Airs, Waters, Places links health to climate and environment, and the Aphorisms condense medical wisdom into short sayings, beginning with the famous observation that life is short and the art long. Preserved by Galen and by Arabic and Byzantine scholars, the corpus was the foundation of medical teaching in Europe until the seventeenth century."
+ },
+ {
+  "title": "Hippocratic Oath",
+  "creator": "hippocrates",
+  "year": "c. 400 BC",
+  "sort": -399,
+  "type": "Medical oath",
+  "location": "Part of the Hippocratic Corpus",
+  "note": "An oath sworn by physicians to the healing gods, promising to help the sick, keep confidences and do no harm.",
+  "description": "The Hippocratic Oath is one of the best-known texts of the Hippocratic Corpus, though its date and authorship are uncertain and it may reflect the views of only one group of physicians. The new doctor swears by Apollo, Asclepius and the healing goddesses to honour his teacher as a parent, to treat the sick by diet and regimen for their benefit and never to harm them, not to give a deadly drug or an abortive remedy, to leave cutting for stones to specialists, to avoid wrongdoing in patients' houses and to keep secret what he learns there. Byzantine scribes copied it, sometimes in the shape of a cross, and from the sixteenth century European medical schools adopted versions of it. Modernised oaths, such as the Declaration of Geneva of 1948, still carry its principles of beneficence and confidentiality."
+ },
+ {
+  "title": "History of Animals",
+  "creator": "aristotle",
+  "year": "c. 343–330 BC",
+  "sort": -340,
+  "type": "Zoological treatise",
+  "location": "Greek manuscripts; Latin translation by Theodorus Gaza, 1476",
+  "note": "A vast descriptive survey of animal anatomy, behaviour and reproduction, the founding work of zoology.",
+  "description": "The History of Animals, in Greek Historia peri ta zoa, meaning inquiry into animals, collects observations on more than five hundred kinds of animal, many of them marine creatures studied around the lagoon of Pyrrha on Lesbos. Aristotle compares their parts, ways of life, habitats, feeding, breeding and character, drawing on dissection, the reports of fishermen and hunters, and earlier writers. Some observations were not confirmed for two thousand years, such as the placenta-like attachment of the young in the smooth dogfish and the arm used for mating by the octopus; others are mistaken. With its companion works On the Parts of Animals and On the Generation of Animals, it set out a programme of comparative biology. Through Arabic translations and Latin versions by Michael Scot and later Theodorus Gaza, it shaped natural history into the Renaissance, and Darwin praised Aristotle as one of the greatest observers."
+ },
+ {
+  "title": "Physics",
+  "creator": "aristotle",
+  "year": "c. 350 BC",
+  "sort": -350,
+  "type": "Treatise on natural philosophy",
+  "location": "Greek manuscripts; Latin translations from the 12th century",
+  "note": "Aristotle's account of nature, change, causes, motion, place, time and the infinite.",
+  "description": "Aristotle's Physics, from physis, nature, is a set of eight books of lectures on the principles of everything that changes. It defines nature as an inner source of motion and rest, distinguishes the four causes, material, formal, efficient and final, and analyses change, the infinite, place, void and time. Aristotle argues that a void is impossible, that a moving body needs a mover in contact with it, and, in the final books, that the eternal motion of the heavens requires an unmoved first mover. Together with On the Heavens, which described the four elements seeking their natural places at the centre of a spherical cosmos, it framed physics in the Islamic world and medieval Europe, where scholars wrote long commentaries on it and criticised its theory of projectiles. The new mechanics of Galileo and Newton was built largely in opposition to it."
+ },
+ {
+  "title": "Elements",
+  "creator": "euclid",
+  "year": "c. 300 BC",
+  "sort": -300,
+  "type": "Mathematical treatise",
+  "location": "Alexandria; first printed edition Venice, 1482",
+  "note": "Thirteen books building plane and solid geometry and number theory by proof from definitions and axioms.",
+  "description": "Euclid's Elements, in Greek Stoicheia, gathers the mathematics of the Greek world into thirteen books. It starts from twenty-three definitions, five postulates and five common notions and proves 465 propositions from them in strict logical order: plane geometry, including Pythagoras' theorem, in the first books; proportion, probably following Eudoxus; number theory, with the proof that there are infinitely many primes and the Euclidean algorithm; incommensurable magnitudes; and solid geometry, ending with the five regular solids. The fifth or parallel postulate, which seemed less evident than the others, puzzled mathematicians for two thousand years until non-Euclidean geometries were found in the nineteenth century. Translated into Arabic in Baghdad and from Arabic into Latin by Adelard of Bath in the twelfth century, it was printed in Venice in 1482 and has appeared in more editions than any book except the Bible. It was the standard geometry textbook into the twentieth century."
+ },
+ {
+  "title": "On the Sphere and Cylinder",
+  "creator": "archimedes",
+  "year": "c. 225 BC",
+  "sort": -225,
+  "type": "Mathematical treatise",
+  "location": "Syracuse; sent to Dositheus in Alexandria",
+  "note": "Two books proving that a sphere has two-thirds the volume and surface of the cylinder that encloses it.",
+  "description": "On the Sphere and Cylinder is a two-book treatise that Archimedes sent as a letter to the mathematician Dositheus in Alexandria. Using the method of exhaustion, squeezing a curved figure between inscribed and circumscribed shapes, he proved that the surface area of a sphere is four times that of its greatest circle, and that a sphere has two-thirds the volume and two-thirds the surface of the smallest cylinder that contains it. The second book solves problems such as cutting a sphere by a plane so that the two pieces have a given ratio. Archimedes regarded this as his finest result and, according to Cicero, asked for a sphere inscribed in a cylinder to be carved on his tomb; Cicero found the overgrown tomb in Syracuse by this sign. The treatise survived through Byzantine manuscripts, the commentary of Eutocius and Arabic and Latin translations."
+ },
+ {
+  "title": "On Floating Bodies",
+  "creator": "archimedes",
+  "year": "c. 250 BC",
+  "sort": -250,
+  "type": "Treatise on hydrostatics",
+  "location": "Syracuse",
+  "note": "The founding work of hydrostatics, stating the principle that a body in a fluid is buoyed up by the weight of fluid it displaces.",
+  "description": "In On Floating Bodies Archimedes treats fluids mathematically for the first time. Starting from a postulate about how pressure is transmitted in a fluid, the first book proves what is now called Archimedes' principle: a solid immersed in a fluid is pushed up by a force equal to the weight of the fluid it displaces, so a body lighter than the fluid floats with just enough of itself submerged. The second book, a tour de force of geometry, finds the positions in which a floating paraboloid, a model of a ship's hull, is stable. The famous story of Archimedes discovering the principle in his bath while testing King Hiero's crown is told only by the Roman writer Vitruvius two centuries later and is probably a legend. The Greek text was long known only in a Latin translation by William of Moerbeke of 1269, until a Greek version was found in the Archimedes Palimpsest."
+ },
+ {
+  "title": "The Method of Mechanical Theorems (Archimedes Palimpsest)",
+  "creator": "archimedes",
+  "year": "c. 250 BC; manuscript 10th century",
+  "sort": -249,
+  "type": "Mathematical treatise in a palimpsest manuscript",
+  "location": "Walters Art Museum, Baltimore (manuscript)",
+  "note": "A lost treatise in which Archimedes explained how he discovered results by imagining figures balanced on a lever, recovered from a prayer book.",
+  "description": "The Method, addressed to Eratosthenes, explains how Archimedes found his results before proving them rigorously: he imagined geometrical figures sliced into infinitely many thin sections and balanced against each other on a lever, a heuristic remarkably close to the integral calculus. It survives in only one copy, a tenth-century Byzantine manuscript whose parchment was scraped and reused in the thirteenth century for a prayer book. The Danish philologist Johan Ludvig Heiberg recognised the hidden text in Constantinople in 1906. The manuscript then disappeared, was damaged by mould and forged paintings, and reappeared at auction in 1998. Between 1999 and 2008, imaging with ultraviolet light, multispectral cameras and X-ray fluorescence at the Walters Art Museum recovered much more of The Method, the Greek text of On Floating Bodies and the Stomachion, a puzzle that may be an early study in combinatorics."
+ },
+ {
+  "title": "The Sand Reckoner",
+  "creator": "archimedes",
+  "year": "c. 216 BC",
+  "sort": -216,
+  "type": "Mathematical essay",
+  "location": "Syracuse; addressed to King Gelon II",
+  "note": "A calculation of how many grains of sand would fill the universe, inventing a notation for enormous numbers.",
+  "description": "In The Sand Reckoner, addressed to Gelon, son of King Hiero of Syracuse, Archimedes sets out to show that the number of grains of sand is not infinite, as some believed, but can be named. Greek numerals went only up to a myriad of myriads, a hundred million, so he built a system of orders and periods that can express numbers vastly larger, in effect working with powers of ten. He then estimated the size of the universe and found that it would hold fewer than about ten to the power of sixty-three grains. On the way he reports that Aristarchus of Samos had proposed that the Earth goes around the Sun, which is the main ancient testimony to that heliocentric hypothesis, and he describes his own measurement of the Sun's apparent diameter. It is one of the earliest works to discuss experimental error."
+ },
+ {
+  "title": "Measurement of the Earth's circumference",
+  "creator": "eratosthenes",
+  "year": "c. 240 BC",
+  "sort": -240,
+  "type": "Geodetic measurement",
+  "location": "Alexandria and Syene (Aswan), Egypt",
+  "note": "Using the angle of the noon Sun at Alexandria and Syene, Eratosthenes calculated the size of the Earth.",
+  "description": "Eratosthenes' treatise On the Measurement of the Earth is lost, but the Greek astronomer Cleomedes describes his method. At Syene, near the Tropic of Cancer, the Sun stood directly overhead at noon on the summer solstice and lit the bottom of a well, while at Alexandria, believed to lie due north, a vertical rod cast a shadow showing the Sun about one-fiftieth of a circle from the vertical. Since the Sun is so far away that its rays are effectively parallel, the arc between the two cities must be one-fiftieth of the Earth's circumference. Taking the distance as 5,000 stadia, he obtained 250,000 stadia, later adjusted to 252,000. How accurate this was depends on the length of the stadion he used, which is debated, but estimates fall within a few per cent to about fifteen per cent of the true value. The method is a classic of scientific reasoning and is still repeated by schoolchildren."
+ },
+ {
+  "title": "Discovery of the precession of the equinoxes",
+  "creator": "hipparchus",
+  "year": "c. 130 BC",
+  "sort": -130,
+  "type": "Astronomical discovery and star catalogue",
+  "location": "Rhodes; reported in Ptolemy's Almagest",
+  "note": "Comparing his star positions with older records, Hipparchus found that the equinoxes slowly shift against the stars.",
+  "description": "Hipparchus measured the positions of stars relative to the equinoxes, the points where the Sun's path crosses the celestial equator, and compared them with observations made by Timocharis and Aristyllus in Alexandria about 150 years earlier. He found that the longitude of the star Spica had increased by about two degrees, and concluded that the equinoxes move slowly westward against the stars, by at least one degree a century; the true value is about one degree in 72 years. This also showed that the solar year measured by the seasons is slightly shorter than the year measured by the stars. His works On the Displacement of the Solstitial and Equinoctial Points and his star catalogue are lost, and we know them through Ptolemy. Precession is now explained, following Newton, as a slow wobble of the Earth's axis caused by the pull of the Sun and Moon on its equatorial bulge, with a period of about 26,000 years."
+ },
+ {
+  "title": "Antikythera mechanism",
+  "creator": "antikythera-makers",
+  "year": "c. 150–60 BC",
+  "sort": -100,
+  "type": "Geared astronomical calculator (bronze)",
+  "location": "National Archaeological Museum, Athens",
+  "note": "A hand-cranked bronze device of interlocking gears that modelled the movements of the Sun, Moon and probably the planets.",
+  "description": "The Antikythera mechanism was recovered in 1901 by sponge divers from a Roman-era shipwreck off the Greek island of Antikythera, as a lump of corroded bronze and wood in 82 fragments. Decades of study, culminating in X-ray tomography and surface imaging from 2005, revealed at least thirty bronze gears in a box about the size of a shoebox. Turning a handle moved pointers on the front showing the positions of the Sun and Moon in the zodiac and the phase of the Moon, with a pin-and-slot gear reproducing the Moon's varying speed as described by Hipparchus; inscriptions suggest that it also showed the planets. Spiral dials on the back tracked the 19-year Metonic calendar, the four-year cycle of the Panhellenic games and the 18-year Saros cycle for predicting eclipses. Its date is debated, with proposals from the late third to the early first century BC. Nothing of comparable complexity survives from the ancient world, and it has transformed views of ancient technology."
+ },
+ {
+  "title": "Almagest",
+  "creator": "ptolemy",
+  "year": "c. 150",
+  "sort": 150,
+  "type": "Astronomical treatise",
+  "location": "Alexandria; Latin translation from Arabic by Gerard of Cremona, Toledo, 1175",
+  "note": "The comprehensive Greek treatise of geocentric mathematical astronomy, standard for fourteen centuries.",
+  "description": "Ptolemy called his thirteen-book treatise the Mathematical Syntaxis; Arabic translators knew it as al-majisti, the greatest, from which comes Almagest. Starting from the arguments that the heavens are spherical and the Earth stationary at the centre, it develops the trigonometry required, then constructs geometrical models for the Sun, the Moon, eclipses and each of the five planets, using eccentric circles, epicycles and the equant, a point from which a planet's motion appears uniform. It includes a catalogue of 1,022 stars in 48 constellations, largely based on Hipparchus. The models predicted positions well enough for practical astronomy and astrology for over a thousand years. Translated into Arabic in the ninth century and corrected by astronomers such as al-Battani, it reached Latin Europe through Gerard of Cremona's translation in Toledo. Copernicus, though he moved the Sun to the centre, followed its structure closely in De revolutionibus."
+ },
+ {
+  "title": "Geography",
+  "creator": "ptolemy",
+  "year": "c. 150",
+  "sort": 151,
+  "type": "Geographical treatise with world map",
+  "location": "Alexandria; Latin translation Florence, c. 1406; first printed with maps, Bologna, 1477",
+  "note": "A guide to drawing maps with latitude and longitude, listing coordinates for some 8,000 places.",
+  "description": "Ptolemy's Geography, or Geographike hyphegesis, explains how to represent the spherical Earth on a flat map using two projections, and lists the latitude and longitude of about eight thousand places from the Atlantic to China, based on travellers' reports and earlier geographers such as Marinus of Tyre. Because it relied on itineraries rather than measurement, many positions are distorted; the Mediterranean is too long, and Asia stretches too far east, which helped Columbus believe Asia could be reached by sailing west. The text was rediscovered in Byzantium around 1300, and a Latin translation made in Florence around 1406 caused a sensation among Renaissance humanists. Printed editions with maps redrawn from its coordinates, from 1477 onwards, shaped European cartography until new discoveries made it obsolete, and its grid of coordinates became the basis of modern mapping."
+ },
+ {
+  "title": "On the Usefulness of the Parts of the Body",
+  "creator": "galen",
+  "year": "c. 165–175",
+  "sort": 170,
+  "type": "Anatomical and physiological treatise",
+  "location": "Rome; Latin translations from the 14th century",
+  "note": "Galen's seventeen-book account of human anatomy as the perfect work of a wise creator, in which every part serves a purpose.",
+  "description": "De usu partium, in Greek Peri chreias morion, is Galen's great work of functional anatomy, written in Rome. Book by book he describes the hand, arm, leg, organs of nutrition and breathing, heart, brain, nerves and eyes, explaining how each is perfectly designed for its purpose, in a spirit inspired by Plato and Aristotle that made it attractive to later Christian, Jewish and Muslim readers. His anatomy was based on careful dissection, but because human bodies were not available he relied on apes and other animals; he described, for example, the rete mirabile, a network of blood vessels at the base of the brain found in ungulates but not in humans. He believed that blood is made in the liver and consumed by the body, and that some passes through tiny pores in the wall between the ventricles of the heart. Vesalius exposed many of these errors in 1543, and Harvey overturned his physiology of the blood in 1628."
+ },
+ {
+  "title": "Edition of Ptolemy's Almagest (with Theon)",
+  "creator": "hypatia",
+  "year": "c. 380–400",
+  "sort": 390,
+  "type": "Mathematical commentary and edition",
+  "location": "Alexandria",
+  "note": "Hypatia is thought to have prepared the text of the third book of her father's commentary on the Almagest.",
+  "description": "None of Hypatia's works survives under her own name, but the heading of the third book of Theon of Alexandria's commentary on Ptolemy's Almagest describes it as an edition revised by his daughter, the philosopher Hypatia. Scholars debate whether this means she edited the commentary or prepared the text of the Almagest itself, and some think the surviving text of Ptolemy may descend from her version. Ancient sources, especially the Byzantine Suda, also credit her with commentaries on the Arithmetica of Diophantus, a pioneering work on number problems, and on the Conics of Apollonius, and with an astronomical canon. Her pupil Synesius of Cyrene wrote to her about building an astrolabe and a hydrometer. Through such teaching and editing, the work of Greek mathematicians was preserved for Byzantine and later Arabic scholars."
+ },
+ {
+  "title": "The Compendious Book on Calculation by Completion and Balancing (Al-jabr)",
+  "creator": "al-khwarizmi",
+  "year": "c. 820",
+  "sort": 820,
+  "type": "Mathematical treatise",
+  "location": "Baghdad; Latin translation by Robert of Chester, Segovia, 1145",
+  "note": "The first systematic treatment of solving linear and quadratic equations, which gave algebra its name.",
+  "description": "Al-Kitab al-mukhtasar fi hisab al-jabr wal-muqabala was written in Baghdad for the caliph al-Ma'mun as a practical handbook. Al-Khwarizmi reduced all linear and quadratic equations to six standard types and gave rules for solving each, justified by geometrical diagrams of completing the square. Al-jabr, restoring, refers to moving subtracted terms to the other side of an equation, and al-muqabala, balancing, to cancelling like terms. Everything is written in words, without symbols, and the book continues with applications to measurement, trade and the Islamic law of inheritance. It drew on Babylonian, Greek and Indian methods but organised them as an independent discipline. Latin translations by Robert of Chester in 1145 and Gerard of Cremona introduced the subject to Europe, where 'algebra' entered the vocabulary of mathematics."
+ },
+ {
+  "title": "On Calculation with Hindu Numerals (Algoritmi de numero Indorum)",
+  "creator": "al-khwarizmi",
+  "year": "c. 825",
+  "sort": 825,
+  "type": "Arithmetic treatise",
+  "location": "Baghdad; survives in a 12th-century Latin translation",
+  "note": "The book that taught Europe decimal place-value arithmetic with Indian numerals and zero, and gave us the word algorithm.",
+  "description": "Al-Khwarizmi's book on arithmetic with Indian numerals is lost in Arabic and survives only in a twelfth-century Latin version, probably made in Spain, which begins 'Dixit Algorizmi', thus spoke al-Khwarizmi. It explains the nine Indian digits and the small circle for zero, how place value works, and methods for addition, subtraction, halving, doubling, multiplication, division and square roots, as well as calculation with fractions. Indian mathematicians had developed decimal place value with zero by around the sixth century, and the system reached Baghdad by the eighth. Through this and related Latin treatises, the Hindu-Arabic numerals spread among European scholars, and the methods of calculating with them became known as algorism, the origin of the modern word algorithm. They took centuries to displace Roman numerals in everyday use."
+ },
+ {
+  "title": "Book of Optics (Kitab al-Manazir)",
+  "creator": "ibn-al-haytham",
+  "year": "1011–1021",
+  "sort": 1021,
+  "type": "Treatise on optics",
+  "location": "Cairo; Latin translation De aspectibus c. 1200; printed Basel, 1572",
+  "note": "Seven books showing that vision occurs when light from objects enters the eye, tested by systematic experiment.",
+  "description": "In the Kitab al-Manazir Ibn al-Haytham combined the mathematical optics of Euclid and Ptolemy, the medical anatomy of the eye from Galen and the physical theories of the philosophers into a single new theory. He argued that every point of a visible object sends rays of light in all directions, and that vision occurs when the rays falling perpendicularly on the eye form an image of the object, rejecting the ancient idea that the eye emits rays. He investigated reflection and refraction in plane and curved mirrors and lenses, explained the camera obscura and visual illusions, and insisted that claims be tested by controlled experiments with tubes, screens and instruments. Translated into Latin around 1200 as De aspectibus or Perspectiva, under the name Alhazen, it was the foundation of medieval European optics in Roger Bacon, Witelo and John Pecham, and was printed by Friedrich Risner in 1572, when Kepler read it."
+ },
+ {
+  "title": "The Canon of Medicine",
+  "creator": "avicenna",
+  "year": "1025",
+  "sort": 1025,
+  "type": "Medical encyclopedia",
+  "location": "Persia; Latin translation by Gerard of Cremona, Toledo, 12th century; printed Milan, 1473",
+  "note": "Five books organising the whole of Greek and Islamic medicine, the standard textbook in Europe until the 1600s.",
+  "description": "Al-Qanun fi al-Tibb is a five-book encyclopedia completed around 1025. The first book covers the principles of medicine, from the humours and anatomy to the causes of disease and general therapy; the second lists some 800 simple drugs, with rules for testing their effects on the body; the third and fourth deal with diseases of each organ and those affecting the whole body, such as fevers; and the fifth with compound drugs. It synthesised Galen, Hippocrates, Aristotle and Persian and Indian sources into a clear, logical system, adding original observations, for example on the contagious nature of tuberculosis and the spread of disease through water and soil. Translated into Latin in Toledo in the twelfth century, it became the core of the medical curriculum at universities such as Montpellier and Leuven, with dozens of printed editions after 1473, and was still being taught in some places in the seventeenth century."
+ },
+ {
+  "title": "Liber Abaci",
+  "creator": "fibonacci",
+  "year": "1202; revised 1228",
+  "sort": 1202,
+  "type": "Mathematical treatise",
+  "location": "Pisa",
+  "note": "The book that introduced Hindu-Arabic numerals and their arithmetic to European merchants and mathematicians.",
+  "description": "Liber Abaci, the Book of Calculation, opens by introducing the nine Indian figures and the sign 0, which in Arabic is called zephirum, and teaches how to read, write and calculate with them. Its fifteen chapters then apply the new arithmetic to practical commerce, including prices, currency exchange, barter, partnerships, alloys and interest, and to recreational problems and algebra drawn from Arabic sources. One problem asks how many pairs of rabbits will be produced in a year from one pair, if each pair produces a new pair every month from its second month; the answer generates the sequence 1, 1, 2, 3, 5, 8 and so on, later named after Fibonacci, though it was known earlier to Indian mathematicians. The book, surviving in a revised version of 1228, inspired the abacus schools of Italian merchant cities, where generations learned to calculate in the new numerals, and helped make Italy the centre of European mathematics."
+ },
+ {
+  "title": "Opus Majus",
+  "creator": "roger-bacon",
+  "year": "1267",
+  "sort": 1267,
+  "type": "Encyclopedic treatise",
+  "location": "Paris; sent to Pope Clement IV",
+  "note": "Bacon's plan for the reform of learning, arguing for languages, mathematics, optics and experimental science.",
+  "description": "The Opus Majus, Greater Work, was written in great haste after Pope Clement IV asked Bacon in 1266 to send him his writings in secret. Its seven parts discuss the causes of error, the relation of philosophy to theology, the study of languages so that scripture and science could be read in the original, the usefulness of mathematics in every science, optics, which Bacon called perspectiva, 'experimental science', and moral philosophy. The section on optics, drawing on Ibn al-Haytham, describes vision, reflection, refraction, the rainbow and the use of lenses to magnify letters for those with weak sight. In the part on experimental science Bacon argues that arguments alone cannot give certainty without the verification of experience. The pope died in 1268 and there is no evidence that he read it. It was printed only in 1733, but it has been seen as a landmark in the medieval defence of mathematics and observation."
+ },
+ {
+  "title": "Le Livre du ciel et du monde",
+  "creator": "oresme",
+  "year": "1377",
+  "sort": 1377,
+  "type": "Translation and commentary",
+  "location": "Paris; written for King Charles V",
+  "note": "A French translation of Aristotle's On the Heavens with a commentary arguing that the Earth's daily rotation cannot be disproved.",
+  "description": "Oresme translated Aristotle's On the Heavens into French for King Charles V and added a long commentary, finished in 1377. In its most famous passage he examines the question whether the Earth rotates daily while the heavens are at rest. He argues that all observations would look the same either way, since motion is relative, answering objections about falling stones and arrows shot into the air by pointing out that they share the Earth's motion. He adds that a rotating Earth would be simpler and more economical than turning the vast heavens. Yet he ends by saying that he believes, as is commonly held, that the heavens move and the Earth does not. The text also discusses the possibility of other worlds and compares the universe to a clock set going by God. Whether Copernicus knew Oresme's arguments is uncertain, but they show that medieval thinkers had already undermined some arguments against the Earth's motion."
+ },
+ {
+  "title": "Anatomical drawings",
+  "creator": "leonardo",
+  "year": "c. 1487–1513",
+  "sort": 1510,
+  "type": "Drawings in pen, ink and chalk",
+  "location": "Royal Collection, Windsor Castle",
+  "note": "Some of the most accurate anatomical drawings of the Renaissance, made from Leonardo's own dissections.",
+  "description": "Leonardo's anatomical studies began in Milan in the late 1480s with drawings of the skull and became intensive around 1507–13, when he dissected human bodies at the hospital of Santa Maria Nuova in Florence and with the anatomist Marcantonio della Torre in Pavia. He drew the skeleton, muscles, heart, blood vessels, nerves and a fetus in the womb from several viewpoints, used cross-sections and exploded views, and made a wax cast of the ventricles of an ox brain. His studies of the heart describe the action of the valves and the eddies of blood in the aorta, in work that modern cardiologists have found remarkably perceptive, though he kept Galen's view of the blood's movement. He planned a treatise on anatomy that was never published. After his death the drawings passed to his pupil Francesco Melzi and later entered the English royal collection, where they remained largely unknown until the late eighteenth and nineteenth centuries."
+ },
+ {
+  "title": "Codex Leicester",
+  "creator": "leonardo",
+  "year": "c. 1506–1510",
+  "sort": 1508,
+  "type": "Notebook (72 pages)",
+  "location": "Private collection (Bill Gates)",
+  "note": "Leonardo's notebook on water, the Earth and the Moon, explaining fossils and the glow of the Moon's dark side.",
+  "description": "The Codex Leicester is a set of eighteen double sheets written in Leonardo's mirror script with sketches in the margins, named after the Earl of Leicester who bought it in 1719. Its main subject is water: how it moves in rivers and seas, forms eddies and waves, erodes mountains and might be controlled by engineering. Leonardo argues that fossil shells found high in the mountains were left by living creatures in ancient seas, not by Noah's flood, an insight that anticipated modern geology. He also explains the faint light on the dark part of the crescent Moon, the earthshine, as sunlight reflected from the Earth, a correct explanation later given by Kepler's teacher Maestlin. The codex was bought by the industrialist Armand Hammer in 1980 and by Bill Gates in 1994, the most expensive manuscript sold at that time, and it has been exhibited around the world."
+ },
+ {
+  "title": "Commentariolus",
+  "creator": "copernicus",
+  "year": "c. 1510–1514",
+  "sort": 1512,
+  "type": "Manuscript treatise",
+  "location": "Circulated in manuscript; first printed Vienna, 1878",
+  "note": "A short manuscript sketch of Copernicus' Sun-centred astronomy, shared privately decades before De revolutionibus.",
+  "description": "The Commentariolus, Little Commentary, was a short text that Copernicus circulated among friends without a title or his name some time before 1514, when a Kraków professor listed it in his library. It sets out seven assumptions: that there is no single centre for all the celestial spheres, that the centre of the Earth is not the centre of the universe, that the Sun is near the centre of the planetary spheres, that the distance to the stars is immeasurably greater than that to the Sun, that the daily motion of the heavens is due to the Earth's rotation, that the Sun's apparent annual motion results from the Earth's orbit, and that the apparent backward loops of the planets are caused by the Earth's own motion. It then describes the models with small epicycles that would replace Ptolemy's equant. Only three manuscript copies are known, rediscovered in the nineteenth century."
+ },
+ {
+  "title": "De revolutionibus orbium coelestium",
+  "creator": "copernicus",
+  "year": "1543",
+  "sort": 1543,
+  "type": "Astronomical treatise",
+  "location": "Nuremberg: Johannes Petreius",
+  "note": "On the Revolutions of the Heavenly Spheres, which set out the heliocentric system in full.",
+  "description": "De revolutionibus was printed in Nuremberg in 1543, after Copernicus' disciple Rheticus had persuaded him to publish and taken the manuscript to the printer. In six books, modelled on Ptolemy's Almagest, it argues that the Earth spins daily on its axis and orbits the Sun yearly with the other planets, then provides the mathematics and tables to compute their positions. The system explained naturally why Mercury and Venus are always near the Sun, why the planets seem to loop backwards, and gave their order and relative distances, but still used circles and epicycles and was no more accurate than Ptolemy's. A preface added without permission by the Lutheran theologian Andreas Osiander presented it as a calculating hypothesis rather than physical truth. The Catholic Church placed it on the Index pending correction in 1616. The historian Owen Gingerich's census of surviving copies showed that it was widely read and annotated by astronomers."
+ },
+ {
+  "title": "De humani corporis fabrica",
+  "creator": "vesalius",
+  "year": "1543",
+  "sort": 1543.5,
+  "type": "Anatomical atlas",
+  "location": "Basel: Johannes Oporinus",
+  "note": "On the Fabric of the Human Body, a seven-book anatomy based on human dissection, with magnificent woodcuts.",
+  "description": "The Fabrica, published in Basel in 1543, the same year as Copernicus' book, describes the human body in seven books on bones, muscles, blood vessels, nerves, abdominal organs, heart and lungs, and brain. It was based on Vesalius's own dissections in Padua, and he pointed out more than two hundred errors in Galen, showing that Galen had described animals rather than humans. Over two hundred woodcut illustrations, probably by artists in Titian's workshop including Jan Steven van Calcar, show skeletons and flayed 'muscle men' posed in Italian landscapes, and the title page depicts Vesalius dissecting before a crowd. The woodblocks were carefully cut and shipped across the Alps to the printer. The Fabrica, and the shorter Epitome for students, set a new standard for accuracy and illustration, and established the principle that anatomy must be learned from the body. The surviving blocks were destroyed in the bombing of Munich in 1944."
+ },
+ {
+  "title": "De nova stella",
+  "creator": "tycho-brahe",
+  "year": "1573",
+  "sort": 1573,
+  "type": "Astronomical treatise",
+  "location": "Copenhagen: Lorentz Benedicht",
+  "note": "Tycho's report showing that the new star of 1572 lay far beyond the Moon, so the heavens could change.",
+  "description": "On 11 November 1572 Tycho noticed a brilliant new star in Cassiopeia, as bright as Venus. Over the following months he measured its position with a large sextant and found that it showed no daily parallax, the shift that a nearby object would show as the Earth turned, and no motion against the stars. It must therefore lie beyond the Moon, among the fixed stars, contradicting the Aristotelian doctrine that the heavens are perfect and unchangeable. The star faded and disappeared by early 1574. Tycho's short book On the New Star, published in 1573, made his reputation and led to royal support for his observatory on Hven. The object is now known to have been a supernova, an exploding star, and is called Tycho's Supernova; its remnant has been studied with modern telescopes."
+ },
+ {
+  "title": "Astronomiae instauratae mechanica",
+  "creator": "tycho-brahe",
+  "year": "1598",
+  "sort": 1598,
+  "type": "Illustrated book of instruments",
+  "location": "Wandsbek, near Hamburg (printed by Tycho's own press)",
+  "note": "Tycho's illustrated description of the instruments and observatories with which he made his precise observations.",
+  "description": "Instruments for the Restored Astronomy was printed in 1598 after Tycho had left Denmark, as a lavish presentation volume to win the patronage of Emperor Rudolf II. It describes and illustrates with handsome hand-coloured woodcuts and engravings the instruments he had developed at Uraniborg and Stjerneborg, including great quadrants, sextants, armillary spheres and a large brass celestial globe, together with views of the buildings, and his autobiography. The most famous plate shows the mural quadrant, a large arc fixed to a wall, with Tycho pointing at the sky and his assistants at work in the observatory behind. The book explains how he improved accuracy, for example with new sights and transversal scales, and how errors could be checked by multiple instruments. It is a key document of the rise of precision measurement."
+ },
+ {
+  "title": "Mysterium Cosmographicum",
+  "creator": "kepler",
+  "year": "1596",
+  "sort": 1596,
+  "type": "Astronomical treatise",
+  "location": "Tübingen: Georg Gruppenbach",
+  "note": "Kepler's first book, explaining the spacing of the planets by nesting the five regular solids between their spheres.",
+  "description": "The Cosmographic Mystery was Kepler's first book and the first openly Copernican treatise since De revolutionibus. Kepler believed he had discovered why there are exactly six planets and why they are spaced as they are: between the spheres of the planets, God had placed the five Platonic solids, cube, tetrahedron, dodecahedron, icosahedron and octahedron, nested within one another. A famous fold-out plate shows this model, which Kepler even hoped to have made as a silver drinking bowl for the Duke of Württemberg. The scheme was wrong, but the book was significant because Kepler sought physical causes, suggesting that a force from the Sun drives the planets and weakens with distance. It brought him to the attention of Tycho Brahe and Galileo, and he republished it with notes in 1621, saying that almost all his later work had grown from it."
+ },
+ {
+  "title": "Astronomia nova",
+  "creator": "kepler",
+  "year": "1609",
+  "sort": 1609,
+  "type": "Astronomical treatise",
+  "location": "Heidelberg: Gotthard Vögelin (printed in Prague)",
+  "note": "The New Astronomy, in which Kepler showed that Mars moves in an ellipse and set out his first two laws.",
+  "description": "Astronomia nova grew out of Kepler's 'war with Mars', years of calculation using Tycho Brahe's observations of the planet whose orbit was hardest to fit. Kepler recounts his struggle step by step, including false starts: a model that fitted Tycho's positions to within eight minutes of arc was rejected because Tycho's data were better than that. He found that the planet's speed varies so that a line from the Sun sweeps out equal areas in equal times, and finally that the orbit is an ellipse with the Sun at one focus, the first two of Kepler's laws. The subtitle presents it as a celestial physics based on causes, with the Sun moving the planets by a magnetic-like force. The book broke with two thousand years of uniform circular motion and was the basis of the Rudolphine Tables of 1627, which proved far more accurate than earlier tables."
+ },
+ {
+  "title": "Harmonices Mundi",
+  "creator": "kepler",
+  "year": "1619",
+  "sort": 1619,
+  "type": "Treatise on cosmic harmony",
+  "location": "Linz: Johann Planck",
+  "note": "The Harmony of the World, which contains Kepler's third law relating planetary periods and distances.",
+  "description": "In The Harmony of the World Kepler pursued his lifelong belief that God created the cosmos according to geometrical and musical harmony. Its five books discuss regular polygons and solids, musical consonance, astrology and the motions of the planets, whose varying speeds he translated into musical intervals, giving each planet a melody and imagining the heavens singing in polyphony. Amid this, in the fifth book, he announced the discovery, made on 15 May 1618, that the squares of the planets' periods are proportional to the cubes of their mean distances from the Sun. This third law, along with the two of 1609, became the foundation of Newton's theory of gravitation. Kepler regarded the book as his greatest achievement, and its mixture of mysticism and mathematics shows how differently from modern scientists the founders of modern science could think."
+ },
+ {
+  "title": "Galileo's telescopes",
+  "creator": "galileo",
+  "year": "1609–1610",
+  "sort": 1609.5,
+  "type": "Scientific instrument",
+  "location": "Museo Galileo, Florence",
+  "note": "The refracting telescopes, made by Galileo himself, with which he first studied the heavens systematically.",
+  "description": "Hearing in 1609 of a Dutch spyglass that made distant objects appear near, Galileo worked out its principle and ground his own lenses in Padua, quickly improving the magnification from three to about twenty times. A convex objective lens and a concave eyepiece gave an upright image with a small field of view. He presented one to the Venetian Senate for its value at sea and in war, winning a salary increase, and then turned the instrument to the sky. Two of his telescopes survive in the Museo Galileo in Florence, one covered in paper and one in leather, together with the cracked objective lens of the instrument with which he discovered the moons of Jupiter. They are modest tubes of wood and paper about a metre long, but with them he discovered the mountains of the Moon, the moons of Jupiter, the phases of Venus, sunspots and the countless stars of the Milky Way."
+ },
+ {
+  "title": "Sidereus Nuncius",
+  "creator": "galileo",
+  "year": "1610",
+  "sort": 1610,
+  "type": "Astronomical pamphlet",
+  "location": "Venice: Tommaso Baglioni",
+  "note": "The Starry Messenger, announcing Galileo's first telescopic discoveries: mountains on the Moon, countless stars and four moons of Jupiter.",
+  "description": "Sidereus Nuncius was a short Latin pamphlet printed in March 1610, a few weeks after Galileo's observations, in an edition of 550 copies that sold out at once. With engravings made from his own wash drawings, it showed that the Moon has mountains, valleys and craters like the Earth, whose heights he estimated from their shadows; that the telescope revealed vast numbers of stars invisible to the eye, and that the Milky Way is made of them; and, most sensationally, that Jupiter has four moons, which he named the Medicean Stars after the Medici rulers of Tuscany. Moons circling another planet showed that the Earth is not the only centre of motion and weakened a common objection to Copernicus. The book made Galileo famous across Europe, won him a post at the Medici court, and opened telescopic astronomy. Kepler quickly published an enthusiastic response."
+ },
+ {
+  "title": "Dialogue Concerning the Two Chief World Systems",
+  "creator": "galileo",
+  "year": "1632",
+  "sort": 1632,
+  "type": "Dialogue",
+  "location": "Florence: Giovanni Battista Landini",
+  "note": "A dialogue in Italian comparing the Ptolemaic and Copernican systems, which led to Galileo's trial.",
+  "description": "Written in Italian for a broad readership, the Dialogue presents four days of conversation in Venice between Salviati, who speaks for Galileo and Copernicus, Simplicio, a follower of Aristotle, and Sagredo, an intelligent layman. They examine Aristotle's arguments for an unchanging heaven and a stationary Earth, the evidence of the telescope and the problem of why we do not feel the Earth move, which Galileo answered with a principle of relativity of motion illustrated by a ship's cabin. In the final day Galileo presented his theory that the tides prove the Earth's motion, an argument that was wrong. Although the book had been licensed by the censors, it was taken as a clear defence of Copernicanism, and putting a favourite argument of Pope Urban VIII into the mouth of Simplicio was seen as an insult. Galileo was tried by the Inquisition in 1633, and the book was placed on the Index of Prohibited Books, where it remained until 1835."
+ },
+ {
+  "title": "Two New Sciences",
+  "creator": "galileo",
+  "year": "1638",
+  "sort": 1638,
+  "type": "Treatise on mechanics",
+  "location": "Leiden: Elsevier",
+  "note": "Galileo's final book, founding the sciences of the strength of materials and of motion, with the laws of falling bodies.",
+  "description": "Discourses and Mathematical Demonstrations Relating to Two New Sciences was written while Galileo was under house arrest at Arcetri and, since he was forbidden to publish, smuggled out to the Protestant Netherlands and printed by Elsevier in Leiden. The same three speakers as in the Dialogue discuss the first science, the strength of materials, explaining why large animals and buildings need proportionally thicker supports, and the second, local motion. Galileo showed that freely falling bodies accelerate uniformly, so that distance increases with the square of time, which he tested by rolling balls down inclined planes, and that a projectile follows a parabola, combining uniform horizontal motion with accelerated fall. He also discussed pendulums and the paradoxes of infinite sets. The book founded the modern science of mechanics on which Newton built."
+ },
+ {
+  "title": "Novum Organum",
+  "creator": "francis-bacon",
+  "year": "1620",
+  "sort": 1620,
+  "type": "Treatise on scientific method",
+  "location": "London: John Bill",
+  "note": "The New Instrument, Bacon's plan for a method of inquiry based on careful observation and gradual induction.",
+  "description": "Novum Organum was published as part of a vast unfinished project, the Great Instauration, for the renewal of all knowledge. Its title challenges Aristotle's logical works, known as the Organon, and its frontispiece shows a ship sailing beyond the Pillars of Hercules, the limits of the ancient world, with a motto from the Book of Daniel promising that many shall pass to and fro and knowledge shall increase. In a series of aphorisms Bacon criticises hasty generalisation and describes four kinds of 'idols', the illusions of human nature, of the individual, of language and of philosophical systems, that mislead the mind. He then proposes a method of collecting natural histories and arranging instances in tables of presence, absence and degree to arrive step by step at the causes of phenomena, illustrated with an inquiry into heat, which he concludes is a kind of motion. His method was rarely followed literally, but his ideals inspired the Royal Society."
+ },
+ {
+  "title": "De motu cordis",
+  "creator": "harvey",
+  "year": "1628",
+  "sort": 1628,
+  "type": "Physiological treatise",
+  "location": "Frankfurt: William Fitzer",
+  "note": "On the Motion of the Heart and Blood, demonstrating the circulation of the blood.",
+  "description": "Exercitatio anatomica de motu cordis et sanguinis in animalibus is a short book of 72 pages printed in Frankfurt for the book fair. Harvey described his observations of the beating heart in many animals, including cold-blooded ones whose heartbeat is slow, and showed that the heart contracts actively to expel blood. He estimated how much blood the heart pumps with each beat and showed that in an hour it far exceeds the weight of the whole body, so blood cannot be continually made from food in the liver and consumed, as Galen taught, but must circulate. With simple experiments on ligatures on the arm, illustrated in the book, he showed that the valves in the veins allow blood to flow only towards the heart. Harvey could not see the connections between arteries and veins, which Marcello Malpighi observed with the microscope in 1661. Despite early ridicule, the circulation was widely accepted within a few decades and is the foundation of modern physiology."
+ },
+ {
+  "title": "La Géométrie",
+  "creator": "descartes",
+  "year": "1637",
+  "sort": 1637,
+  "type": "Mathematical treatise",
+  "location": "Leiden: Jan Maire (appendix to the Discourse on Method)",
+  "note": "Descartes's treatise joining algebra and geometry, so that curves could be studied through equations.",
+  "description": "La Géométrie was the third of three essays published in French with the Discourse on Method in 1637, to show the power of Descartes's method. In three books he showed how geometrical problems can be translated into algebraic equations by assigning letters to lengths, and how equations can in turn be represented by curves, the basis of analytic or coordinate geometry; the familiar x and y axes were developed later by his followers. He solved the problem of Pappus, an ancient challenge, classified curves by the degree of their equations, and introduced the convention of using letters from the end of the alphabet for unknowns and from the beginning for known quantities, and superscripts for powers. Fermat developed similar ideas at the same time. Frans van Schooten's Latin edition with commentaries made it widely accessible, and it was the foundation from which Newton and Leibniz developed the calculus."
+ },
+ {
+  "title": "Pascaline",
+  "creator": "pascal",
+  "year": "1642–1652",
+  "sort": 1645,
+  "type": "Mechanical calculator",
+  "location": "Surviving examples in the Musée des Arts et Métiers, Paris, and elsewhere",
+  "note": "One of the first mechanical calculators, built by Pascal to help his father with tax accounts.",
+  "description": "Pascal began designing a calculating machine in 1642, aged nineteen, to help his father, then supervising tax collection in Rouen. After some fifty prototypes he presented a finished machine in 1645 and obtained a royal privilege in 1649. It is a brass box with dials operated by a stylus; each dial turns a wheel, and an ingenious falling weight called a sautoir carries a one to the next wheel when a wheel passes nine, allowing reliable addition with carries across many digits. Subtraction was done by adding complements, and models for French currency had wheels for twenty sols and twelve deniers. About twenty machines were made, and nine survive. The Pascaline was expensive and delicate and sold poorly, but it was the first calculator to be produced in numbers and inspired Leibniz's stepped reckoner. The computer language Pascal is named in his honour."
+ },
+ {
+  "title": "Traité du triangle arithmétique",
+  "creator": "pascal",
+  "year": "1654; published 1665",
+  "sort": 1654,
+  "type": "Mathematical treatise",
+  "location": "Paris: Guillaume Desprez (posthumous)",
+  "note": "Pascal's systematic treatise on the arithmetical triangle and its use in combinations and probability.",
+  "description": "The arithmetical triangle, in which each number is the sum of the two above it, was known long before Pascal to mathematicians in India, Persia, China and Europe, where it appears for instance in the work of al-Karaji, Omar Khayyam and Yang Hui. Pascal's treatise, written in 1654 and printed after his death in 1665, gave the first systematic account of its properties and applications in Europe. He proved its properties using an early explicit statement of mathematical induction, and applied the triangle to combinations, the expansion of powers of binomials and the problem of points, how to divide the stakes fairly when a game of chance is interrupted, which he was discussing with Fermat at the same time. Because of this work the triangle is called Pascal's triangle in the West, though it is known as Yang Hui's triangle in China and Khayyam's in Iran."
+ },
+ {
+  "title": "Correspondence with Pascal on probability",
+  "creator": "fermat",
+  "year": "1654",
+  "sort": 1654.5,
+  "type": "Letters",
+  "location": "Toulouse and Paris; published in Fermat's Varia Opera, 1679",
+  "note": "An exchange of letters that solved the problem of points and founded the mathematical theory of probability.",
+  "description": "In the summer of 1654 Pascal and Fermat exchanged a series of letters about problems posed by the gambler Antoine Gombaud, the Chevalier de Méré. The central one, known since the fifteenth century, was the problem of points: how to divide the stakes fairly between two players when a game is broken off before either has won. Fermat solved it by listing all the possible ways the remaining rounds could turn out and counting those favourable to each player; Pascal used a recursive method based on expected values and his arithmetical triangle. Their letters agreed on the answers and established the idea that uncertain outcomes can be treated mathematically by counting equally possible cases. Huygens, hearing of their work in Paris, wrote the first published book on probability in 1657, and the subject was developed by Jacob Bernoulli, de Moivre and Laplace."
+ },
+ {
+  "title": "Fermat's Last Theorem (marginal note)",
+  "creator": "fermat",
+  "year": "c. 1637; published 1670",
+  "sort": 1637.5,
+  "type": "Mathematical conjecture",
+  "location": "Note in Fermat's copy of Diophantus' Arithmetica; published Toulouse, 1670",
+  "note": "Fermat's claim that no three positive whole numbers satisfy x^n + y^n = z^n for n greater than two, proved only in 1994.",
+  "description": "Around 1637, reading Claude Bachet's 1621 Latin edition of the Arithmetica of Diophantus, Fermat wrote in the margin beside a problem about dividing a square into two squares that it is impossible to divide a cube into two cubes, or any higher power into two like powers, adding that he had found a truly marvellous proof which the margin was too narrow to contain. His original copy is lost; the note is known because his son Samuel published an edition of Diophantus with his father's notes in 1670. Fermat did leave a proof for the case of fourth powers, but no general proof was ever found, and most mathematicians doubt he had one. Attempts to prove it over three centuries drove the development of algebraic number theory. The theorem was finally proved by Andrew Wiles in 1994, with help from Richard Taylor, using methods far beyond anything available to Fermat."
+ },
+ {
+  "title": "New Experiments Physico-Mechanical, Touching the Spring of the Air",
+  "creator": "boyle",
+  "year": "1660; 2nd ed. 1662",
+  "sort": 1660,
+  "type": "Experimental report",
+  "location": "Oxford: H. Hall for Thomas Robinson",
+  "note": "Boyle's experiments with the air pump on pressure, vacuum and life, from which came Boyle's law.",
+  "description": "In New Experiments, Boyle described 43 experiments made with an air pump designed with Robert Hooke, a glass globe from which air could be largely removed. He showed that sound does not travel through a vacuum, that a feather and a coin fall at the same rate, that candles go out and small animals die without air, and that the mercury in a barometer placed inside falls as the air is pumped out, confirming that air pressure supports it. The second edition of 1662, answering critics, included measurements with a J-shaped tube showing that the volume of trapped air varies inversely with the pressure on it, the relation now known as Boyle's law; it had also been found by Richard Towneley and Henry Power, and was independently published by Edme Mariotte in 1676. Boyle's detailed, circumstantial style of reporting, written so that readers could virtually witness the experiments, became a model for scientific writing."
+ },
+ {
+  "title": "The Sceptical Chymist",
+  "creator": "boyle",
+  "year": "1661",
+  "sort": 1661,
+  "type": "Chemical treatise (dialogue)",
+  "location": "London: J. Cadwell for J. Crooke",
+  "note": "A dialogue attacking both Aristotle's four elements and the alchemists' three principles, arguing for experiment and atoms.",
+  "description": "The Sceptical Chymist: or Chymico-Physical Doubts & Paradoxes is a dialogue among several speakers in which Carneades, Boyle's spokesman, questions the evidence for the two ruling theories of the composition of matter: the four Aristotelian elements, earth, water, air and fire, and the three principles of the followers of Paracelsus, salt, sulphur and mercury. Boyle argues that analysis by fire does not reveal the true components of bodies and that experiments do not support either theory. He favours a corpuscular philosophy in which matter is made of tiny particles whose size, shape and motion explain chemical properties, and gives a definition of elements as simple bodies not made of other bodies, while doubting that any such elements had yet been found. The book helped make chemistry a respectable branch of natural philosophy, though Boyle himself remained interested in alchemical transmutation all his life."
+ },
+ {
+  "title": "Horologium Oscillatorium",
+  "creator": "huygens",
+  "year": "1673",
+  "sort": 1673,
+  "type": "Treatise on clocks and mechanics",
+  "location": "Paris: F. Muguet",
+  "note": "Huygens's mathematical theory of the pendulum clock, with results on curves and centrifugal force that influenced Newton.",
+  "description": "Huygens built the first pendulum clock in 1656 and had it made by the clockmaker Salomon Coster in The Hague, reducing the error of the best clocks from about fifteen minutes to well under a minute a day. In Horologium Oscillatorium, published in Paris and dedicated to Louis XIV, he described improved clocks and provided their mathematical theory. He showed that a pendulum swinging in a circular arc is not exactly regular, but one swinging along a cycloid is, and he showed how to make it follow that curve with curved metal cheeks. On the way he developed the theory of evolutes of curves, found the formula for the period of a pendulum, analysed the compound pendulum and stated the laws of centrifugal force. The book was one of the most important works of mechanics before Newton's Principia, which owed much to it."
+ },
+ {
+  "title": "Treatise on Light",
+  "creator": "huygens",
+  "year": "1690",
+  "sort": 1690,
+  "type": "Treatise on optics",
+  "location": "Leiden: Pieter van der Aa",
+  "note": "Huygens's wave theory of light, explaining reflection and refraction by the spreading of wavelets.",
+  "description": "Huygens read his Traité de la lumière to the Paris Academy in 1679 but published it only in 1690. He proposed that light is a disturbance travelling at a finite speed through an elastic ether, and that each point on a wave front acts as the source of new spherical wavelets, whose common envelope forms the next wave front. This construction, Huygens's principle, gave elegant explanations of reflection and refraction, and he used it to explain the strange double refraction of Iceland spar, a crystal that splits light into two rays. His theory was eclipsed for a century by Newton's view that light consists of particles, but it was revived when Thomas Young and Augustin Fresnel showed in the early nineteenth century that light waves can interfere, and Huygens's principle remains part of optics today."
+ },
+ {
+  "title": "Micrographia",
+  "creator": "hooke",
+  "year": "1665",
+  "sort": 1665,
+  "type": "Illustrated book of observations",
+  "location": "London: John Martyn and James Allestry, printers to the Royal Society",
+  "note": "The first major book of microscope observations, with large engravings of a flea, a louse, a fly's eye and cork cells.",
+  "description": "Micrographia, or Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses, was the first important publication of the Royal Society. Hooke described about sixty observations made with a compound microscope he had improved, of objects from the point of a needle and the edge of a razor to snowflakes, moulds, mineral crystals and insects, and some telescopic observations of the Moon and stars. In observing a slice of cork he saw tiny box-like compartments which he called cells, the origin of the biological term, though he saw only the empty walls of dead plant tissue. The large fold-out engravings, mostly from Hooke's own drawings, of a flea and a louse caused a sensation; Samuel Pepys sat up until two in the morning reading it and called it the most ingenious book he had ever read. Hooke also put forward ideas on light as a wave, combustion and the origin of fossils."
+ },
+ {
+  "title": "Letter on the 'little animals'",
+  "creator": "leeuwenhoek",
+  "year": "1676",
+  "sort": 1676,
+  "type": "Letter to the Royal Society",
+  "location": "Delft; published in the Philosophical Transactions, London, 1677",
+  "note": "Leeuwenhoek's report of single-celled organisms in water, the discovery of the microbial world.",
+  "description": "In a long letter dated 9 October 1676 to Henry Oldenburg, secretary of the Royal Society, Leeuwenhoek described tiny living creatures that he had seen through his single-lens microscopes in rainwater, well water, sea water and water in which he had steeped pepper. He estimated their sizes, observed their movements and calculated that thousands would fit in a grain of sand. These 'animalcules' were protozoa and, in some cases, almost certainly bacteria. His claims were so astonishing that the Society asked Robert Hooke to confirm them, which he did in 1677 with witnesses' signatures. In later letters Leeuwenhoek described bacteria in the plaque of his own teeth, spermatozoa, red blood cells and capillaries. His instruments, of which about a dozen survive, were small brass plates holding a tiny lens, with which he achieved magnifications well above those of the compound microscopes of his day."
+ },
+ {
+  "title": "Philosophiæ Naturalis Principia Mathematica",
+  "creator": "newton",
+  "year": "1687",
+  "sort": 1687,
+  "type": "Treatise on mechanics and gravitation",
+  "location": "London: Joseph Streater for the Royal Society",
+  "note": "The Mathematical Principles of Natural Philosophy, setting out the laws of motion and universal gravitation.",
+  "description": "The Principia grew out of a visit by Edmond Halley to Cambridge in 1684 to ask Newton what orbit a planet would follow under a force decreasing with the square of distance; Newton replied that it would be an ellipse and spent the next two years writing the book, which Halley edited and paid to have printed. It opens with definitions and three laws of motion, including the law of inertia and the relation between force and change of motion. Book I develops the mathematics of motion under central forces, Book II treats motion in resisting media and refutes Descartes's vortices, and Book III, The System of the World, shows that a single universal gravitation, acting between all bodies in proportion to their masses and inversely as the square of their distance, explains Kepler's laws, the motions of the Moon and comets, the tides and the flattening of the Earth. Written largely in the language of geometry, it was hard reading, but it became the foundation of physics for two centuries. Revised editions appeared in 1713 and 1726."
+ },
+ {
+  "title": "Opticks",
+  "creator": "newton",
+  "year": "1704",
+  "sort": 1704,
+  "type": "Treatise on light and colour",
+  "location": "London: Samuel Smith and Benjamin Walford, printers to the Royal Society",
+  "note": "Newton's experiments showing that white light is a mixture of colours, with speculative 'Queries' on nature.",
+  "description": "Opticks: or, a Treatise of the Reflexions, Refractions, Inflexions and Colours of Light was published in English the year after the death of Newton's rival Robert Hooke, though much of its content dated from experiments of the 1660s and 1670s. Using prisms, Newton showed that white sunlight is split into a spectrum of colours that cannot be further changed by a second prism, and that a second prism can recombine them into white, so that colour is a property of light, not something added by the prism. He explained the rainbow and the colours of thin films, including the rings now named after him, and described his reflecting telescope, built to avoid the colour fringes of lenses. In the Queries at the end, which grew with each edition, he speculated on the particle nature of light, the ether, chemical forces and the method of science. Written more accessibly than the Principia, the Opticks was a model of experimental science for the eighteenth century."
+ },
+ {
+  "title": "Newton's reflecting telescope",
+  "creator": "newton",
+  "year": "1668",
+  "sort": 1668,
+  "type": "Scientific instrument",
+  "location": "Replica at the Royal Society, London",
+  "note": "The first practical reflecting telescope, using a curved mirror instead of a lens to avoid colour fringes.",
+  "description": "Newton's studies of colour convinced him that lens telescopes could never be free of chromatic aberration, the coloured fringes caused by different colours bending by different amounts. In 1668 he built a small telescope that used a concave mirror of speculum metal, an alloy of copper and tin that he cast and polished himself, to gather light, with a small flat mirror at an angle to send the image to an eyepiece in the side of the tube. Only about fifteen centimetres long, it magnified about forty times, as well as a refracting telescope several times its length. A second instrument was shown to the Royal Society in 1671, which led to Newton's election as a fellow and the publication of his theory of light. The design, now called the Newtonian telescope, remains popular with amateur astronomers, and all the largest modern telescopes are reflectors."
+ },
+ {
+  "title": "Nova methodus pro maximis et minimis",
+  "creator": "leibniz",
+  "year": "1684",
+  "sort": 1684,
+  "type": "Mathematical paper",
+  "location": "Acta Eruditorum, Leipzig",
+  "note": "The first published account of the differential calculus, introducing the notation dx and dy.",
+  "description": "Leibniz's six-page paper, A New Method for Maxima and Minima, and for Tangents, which is not hindered by fractional or irrational quantities, appeared in the Leipzig journal Acta Eruditorum in October 1684. In compressed and sometimes obscure form, it gave rules for finding the differentials of sums, products, quotients, powers and roots, and showed how to use them to find tangents, maxima, minima and points of inflection, with applications to optics and geometry. Two years later he published the integral calculus, introducing the elongated S sign for summation. Leibniz had developed these methods in Paris in 1675–76, about a decade after Newton's unpublished work on fluxions. The bitter priority dispute that erupted around 1700, in which the Royal Society under Newton found Leibniz guilty of plagiarism, is now regarded as a case of independent discovery. Leibniz's notation, spread by the Bernoulli brothers and their pupils, became universal."
+ },
+ {
+  "title": "Explication de l'arithmétique binaire",
+  "creator": "leibniz",
+  "year": "1703",
+  "sort": 1703,
+  "type": "Mathematical paper",
+  "location": "Mémoires de l'Académie Royale des Sciences, Paris",
+  "note": "Leibniz's account of binary arithmetic, using only 0 and 1, which he compared to the hexagrams of the Chinese Yijing.",
+  "description": "Leibniz had worked on counting with only two digits since the 1670s, and in this paper for the Paris Academy he explained how all numbers can be written using only 0 and 1, and how addition, subtraction, multiplication and division can be done in this system, with remarkable regularities in the patterns. He had recently learned from the Jesuit missionary Joachim Bouvet in China about the 64 hexagrams of the Yijing, the Book of Changes, built from broken and unbroken lines, and argued that they matched the binary numbers from 0 to 63, which he took as evidence of ancient Chinese wisdom. Leibniz also saw religious meaning in binary, with all things created from one and nothing. The binary system had little practical use until the twentieth century, when Boolean logic and electronic switching made it the basis of all digital computers."
+ },
+ {
+  "title": "Marine chronometer H4",
+  "creator": "harrison",
+  "year": "1759",
+  "sort": 1759,
+  "type": "Marine timekeeper",
+  "location": "National Maritime Museum, Royal Observatory, Greenwich",
+  "note": "Harrison's large watch that kept time accurately enough at sea to determine longitude, winning him the Longitude Prize.",
+  "description": "To find longitude at sea, a navigator needs to know the time at a reference place such as Greenwich while measuring local time by the Sun; each hour of difference corresponds to fifteen degrees. Pendulum clocks are useless on a rolling ship, and Harrison's first three sea clocks, H1 to H3, were large and complex machines with balances and springs. In H4, completed in 1759, he turned to a watch about thirteen centimetres across, with a fast-beating balance, diamond pallets and a mechanism to compensate for temperature. On a voyage to Jamaica in 1761–62 it lost only five seconds in 81 days, and a second trial to Barbados in 1764 confirmed its accuracy. The Board of Longitude demanded further proof and copies, and Harrison was fully rewarded only after appealing to George III and Parliament in 1773. Larcum Kendall's copy, K1, accompanied Captain Cook on his second voyage, and Harrison's ideas led to the chronometers that guided ships for two centuries. H1 to H4 are displayed at Greenwich."
+ },
+ {
+  "title": "Solution of the Seven Bridges of Königsberg",
+  "creator": "euler",
+  "year": "1736",
+  "sort": 1736,
+  "type": "Mathematical paper",
+  "location": "Commentarii Academiae Scientiarum Petropolitanae, Saint Petersburg (published 1741)",
+  "note": "Euler's proof that no walk can cross each of Königsberg's seven bridges exactly once, founding graph theory.",
+  "description": "The city of Königsberg in Prussia, now Kaliningrad, was built on both banks of the river Pregel and on two islands, joined by seven bridges, and its citizens wondered whether it was possible to walk through the city crossing each bridge exactly once. In a paper presented to the Saint Petersburg Academy in 1736, Euler showed that the answer depends only on how the land areas are connected, not on distances or shapes. Representing each area and its bridges, he showed that such a walk is possible only if no more than two areas have an odd number of bridges, and in Königsberg all four did. The reasoning, though Euler did not draw the diagram of points and lines now used, is regarded as the first theorem of graph theory and an early step towards topology, the study of properties unchanged by stretching. Two of the bridges were destroyed in the Second World War."
+ },
+ {
+  "title": "Introductio in analysin infinitorum",
+  "creator": "euler",
+  "year": "1748",
+  "sort": 1748,
+  "type": "Mathematical textbook",
+  "location": "Lausanne: Marc-Michel Bousquet",
+  "note": "Euler's introduction to analysis, which made the function the central concept and gave the formula linking e, i and trigonometry.",
+  "description": "In the two volumes of the Introduction to the Analysis of the Infinite, Euler reorganised mathematics around the concept of the function, which he defined as an analytic expression of a variable quantity. The first volume treats exponential and logarithmic functions, defining them through infinite series and products, and establishes the number e, using that letter, as the base of natural logarithms. It presents Euler's formula connecting the exponential function with sine and cosine for imaginary numbers, from which follows the identity relating e, i, pi, 1 and 0. It also contains his solution of the Basel problem, the sum of the reciprocals of the squares, and the product formula linking the zeta function to prime numbers. The second volume covers analytic geometry of curves and surfaces. Written with great clarity, it was the model for mathematical textbooks for a century, and has been compared in importance to Euclid's Elements."
+ },
+ {
+  "title": "Systema Naturae",
+  "creator": "linnaeus",
+  "year": "1735",
+  "sort": 1735,
+  "type": "Taxonomic treatise",
+  "location": "Leiden: Theodor Haak",
+  "note": "Linnaeus's classification of the three kingdoms of nature, which grew from eleven pages to over two thousand.",
+  "description": "The first edition of Systema Naturae, printed in Leiden when Linnaeus was a 28-year-old medical student, was just eleven large pages of tables classifying the three kingdoms of nature, animal, vegetable and mineral, into classes, orders, genera and species. Plants were sorted by their sexual system, the number and arrangement of their stamens and pistils, which made identification easy but caused offence to some readers for its frankness. Linnaeus revised and expanded it through twelve editions in his lifetime. The tenth edition of 1758–59, which consistently used two-word names for animals, is the official starting point of zoological nomenclature, as his Species Plantarum of 1753 is for plants. In it he placed humans with apes and monkeys in the order Primates under the name Homo sapiens. The hierarchy of ranks and the binomial system survive in modern biology, though the classification itself is now based on evolutionary relationships."
+ },
+ {
+  "title": "Species Plantarum",
+  "creator": "linnaeus",
+  "year": "1753",
+  "sort": 1753,
+  "type": "Botanical catalogue",
+  "location": "Stockholm: Laurentius Salvius",
+  "note": "Linnaeus's catalogue of all plant species then known, the official starting point of botanical names.",
+  "description": "Species Plantarum, The Species of Plants, published in two volumes in 1753, describes about 5,900 species, everything Linnaeus knew of the world's flora, arranged by his sexual system. For each species he gave a short Latin descriptive phrase and, in the margin, a 'trivial name', a single word that combined with the genus name formed a convenient two-word label such as Bellis perennis for the daisy. Linnaeus meant these names as a practical shorthand, but they proved so useful that they replaced the long phrases. International rules of botanical nomenclature take 1 May 1753, the nominal publication date of this book, as the starting point for the names of most plants, so that many names still used today date from it. The specimens he used are preserved by the Linnean Society of London and are consulted to fix the meaning of names."
+ },
+ {
+  "title": "Experiments and Observations on Electricity",
+  "creator": "benjamin-franklin",
+  "year": "1751",
+  "sort": 1751,
+  "type": "Collection of letters on electricity",
+  "location": "London: E. Cave",
+  "note": "Franklin's letters on electricity, proposing the single-fluid theory, positive and negative charge and the lightning rod.",
+  "description": "Franklin's electrical letters, written to the London merchant and naturalist Peter Collinson from 1747, were collected and published in London in 1751, with later expanded editions, and translated into French in 1752. Franklin described experiments with Leyden jars, early capacitors, and explained electricity as a single subtle fluid present in all bodies, which could be in excess, which he called plus or positive, or in deficit, minus or negative, and which was never created or destroyed. He observed that pointed conductors draw off electricity silently and proposed that a pointed iron rod on a building, connected to the ground, could protect it from lightning, and that a rod on a high tower could test whether thunderclouds are electrified. In May 1752 Thomas-François Dalibard carried out the experiment at Marly near Paris, drawing sparks from a storm cloud, and Franklin's kite experiment in Philadelphia is said to have followed in June. The book made Franklin famous across Europe, and lightning rods spread rapidly."
+ },
+ {
+  "title": "Traité élémentaire de chimie",
+  "creator": "lavoisier",
+  "year": "1789",
+  "sort": 1789,
+  "type": "Chemical textbook",
+  "location": "Paris: Cuchet",
+  "note": "Lavoisier's textbook of the new chemistry, with a list of elements, the conservation of mass and plates of apparatus.",
+  "description": "The Elementary Treatise of Chemistry, published in the year the French Revolution began, presented Lavoisier's new chemistry as a coherent system for students. Using the reformed nomenclature that he and his colleagues had introduced in 1787, it explained combustion, respiration and the calcination of metals as combination with oxygen, rejecting the phlogiston theory. It defined a chemical element practically, as any substance that has not yet been decomposed, and listed 33 of them, including oxygen, hydrogen, nitrogen and carbon, but also light and caloric, the supposed fluid of heat. It stated clearly that in every operation the quantity of matter is the same before and after, the principle of conservation of mass that underlies chemical equations. The second part describes the apparatus of the laboratory, illustrated by thirteen plates engraved from drawings by Marie-Anne Paulze Lavoisier. It was translated into English in 1790 and won over most chemists within a decade."
+ },
+ {
+  "title": "Traité de mécanique céleste",
+  "creator": "laplace",
+  "year": "1799–1825",
+  "sort": 1799,
+  "type": "Treatise on celestial mechanics",
+  "location": "Paris: J. B. M. Duprat and Courcier",
+  "note": "Laplace's five-volume treatise extending Newtonian gravitation to the whole solar system.",
+  "description": "Celestial Mechanics, published in five volumes between 1799 and 1825, gathered a century of work by Euler, Lagrange, Laplace himself and others into a systematic mathematical treatment of the solar system under Newton's law of gravitation, using the calculus rather than Newton's geometry. Laplace treated the shapes of the Earth and planets, the tides, the motion of the Moon, the satellites of Jupiter and Saturn's rings, and showed that the long-term inequalities in the motions of Jupiter and Saturn that had puzzled astronomers are periodic, so the solar system is stable. According to a well-known anecdote, Napoleon remarked that the work did not mention God and Laplace replied that he had had no need of that hypothesis; the story may have been embroidered. The book was translated into English with an extensive commentary by the American navigator Nathaniel Bowditch, and established the deterministic picture of a clockwork universe."
+ },
+ {
+  "title": "An Inquiry into the Causes and Effects of the Variolae Vaccinae",
+  "creator": "jenner",
+  "year": "1798",
+  "sort": 1798,
+  "type": "Medical treatise",
+  "location": "London: Sampson Low",
+  "note": "Jenner's report that inoculation with cowpox protects against smallpox, the beginning of vaccination.",
+  "description": "In May 1796 Jenner took matter from cowpox sores on the hand of a dairymaid, Sarah Nelmes, and inserted it into scratches on the arm of James Phipps, the eight-year-old son of his gardener. Six weeks later he inoculated the boy with smallpox matter and no disease followed. The Royal Society declined to publish his short paper, so Jenner gathered more cases and in 1798 published this 75-page book at his own expense, with coloured plates of cowpox pustules on Sarah Nelmes's hand. He argued that cowpox, variolae vaccinae, gave lasting protection against smallpox without the dangers of variolation with smallpox itself. Despite opposition and caricatures showing vaccinated people sprouting cows, vaccination spread across Europe and the Americas within a few years, Napoleon had his army vaccinated, and Spain sent a vaccination expedition around its empire. Jenner's work led to the global eradication of smallpox, declared by the World Health Organization in 1980. The word vaccine was later generalised by Pasteur."
+ },
+ {
+  "title": "Essay on the Geography of Plants",
+  "creator": "humboldt",
+  "year": "1807",
+  "sort": 1807,
+  "type": "Treatise with illustrated profile",
+  "location": "Paris and Tübingen: F. Schoell and J. G. Cotta",
+  "note": "Humboldt's study of how vegetation changes with altitude and climate, with his great cross-section of the Andes.",
+  "description": "The Essai sur la géographie des plantes, written with Aimé Bonpland, was the first publication from Humboldt's American expedition. It is accompanied by a large engraved plate, the Tableau physique or Naturgemälde, showing a cross-section of the volcanoes Chimborazo and Cotopaxi in the Andes, with the names of plants written at the heights where they grow, and columns on either side giving, for each altitude, the temperature, air pressure, humidity, the blueness of the sky, the boiling point of water and other measurements. The plate showed at a glance how zones of vegetation are linked to climate and altitude, and how similar zones recur from the equator to the poles. It founded the science of plant geography, or biogeography, and expressed Humboldt's view of nature as an interconnected whole. In 1802 Humboldt and Bonpland had climbed to about 5,900 metres on Chimborazo, then believed the highest mountain on Earth, a record for decades."
+ },
+ {
+  "title": "Kosmos",
+  "creator": "humboldt",
+  "year": "1845–1862",
+  "sort": 1845,
+  "type": "Scientific survey in five volumes",
+  "location": "Stuttgart and Tübingen: J. G. Cotta",
+  "note": "Humboldt's attempt, in his old age, to describe the whole physical universe as a harmonious whole.",
+  "description": "Kosmos: Entwurf einer physischen Weltbeschreibung, Sketch of a Physical Description of the Universe, grew out of popular lectures Humboldt gave in Berlin in 1827–28 and occupied him for the rest of his life; the fifth volume appeared after his death. The first volume surveyed the whole of nature, from nebulae and stars to the Earth's interior, magnetism, oceans, climate, plants and animals, while the second traced the history of humanity's understanding of nature and its expression in poetry, landscape painting and gardens. Later volumes treated astronomy and the Earth in detail. Humboldt wanted to show the unity of nature and the interconnection of all its phenomena, and to combine scientific precision with aesthetic feeling. Kosmos was a best-seller, translated into most European languages, and inspired scientists, writers and artists including Darwin, Thoreau and Frederic Edwin Church."
+ },
+ {
+  "title": "Disquisitiones Arithmeticae",
+  "creator": "gauss",
+  "year": "1801",
+  "sort": 1801,
+  "type": "Mathematical treatise",
+  "location": "Leipzig: Gerhard Fleischer",
+  "note": "Gauss's treatise on number theory, introducing modular arithmetic and making the subject a systematic discipline.",
+  "description": "The Disquisitiones Arithmeticae, Arithmetical Investigations, was written in Latin when Gauss was twenty-one and published in 1801 with funding from the Duke of Brunswick. It turned number theory, previously a collection of isolated results by Fermat, Euler, Lagrange and Legendre, into a coherent discipline. It introduced the notation of congruence, writing a ≡ b (mod m) when two numbers leave the same remainder on division by m, which made 'clock arithmetic' a powerful tool. It gave the first complete proof of the law of quadratic reciprocity, which Gauss called the golden theorem, developed the theory of quadratic forms, and in its final section explained which regular polygons can be constructed with ruler and compass, including the 17-sided polygon he had discovered at eighteen. Its compressed style made it hard reading, but it set the agenda of number theory throughout the nineteenth century."
+ },
+ {
+  "title": "Theoria motus corporum coelestium",
+  "creator": "gauss",
+  "year": "1809",
+  "sort": 1809,
+  "type": "Astronomical treatise",
+  "location": "Hamburg: Friedrich Perthes and I. H. Besser",
+  "note": "Gauss's method for computing orbits from a few observations, with the method of least squares and the normal distribution of errors.",
+  "description": "On 1 January 1801 Giuseppe Piazzi discovered a small new planet, Ceres, but lost it behind the glare of the Sun after observing it for only about forty days. Gauss, using new methods, calculated its orbit from these few observations and predicted where it would reappear, and astronomers found it there in December 1801, making him famous. The Theory of the Motion of Heavenly Bodies Moving about the Sun in Conic Sections, published in 1809, set out his methods for determining orbits. It included the method of least squares, for finding the best fit to observations affected by error, with a justification based on the assumption that errors follow what is now called the normal or Gaussian distribution. Legendre had published least squares in 1805, and Gauss's claim to have used it since 1795 led to a priority dispute. The method became the standard tool for analysing measurements in all the sciences."
+ },
+ {
+  "title": "A New System of Chemical Philosophy",
+  "creator": "dalton",
+  "year": "1808–1827",
+  "sort": 1808,
+  "type": "Chemical treatise",
+  "location": "Manchester: R. Bickerstaff (London) and S. Russell (Manchester)",
+  "note": "Dalton's statement of the chemical atomic theory, with the first table of relative atomic weights.",
+  "description": "In the first part of A New System of Chemical Philosophy, published in 1808, Dalton set out the atomic theory he had been developing since about 1803. Each chemical element, he proposed, is made of identical atoms that cannot be created, destroyed or divided in chemical reactions, the atoms of different elements differ in weight, and compounds are formed when atoms combine in fixed simple ratios. This explained why elements combine in definite proportions, and why, when two elements form more than one compound, the amounts of one combining with a fixed amount of the other are in simple whole-number ratios, the law of multiple proportions. A plate showed his symbols for elements, circles with dots, lines or letters, and diagrams of compound atoms. Taking hydrogen as one, he gave a table of relative weights. Because he assumed the simplest formulas, such as HO for water, many of his weights were wrong, and it took half a century to agree on correct values, but his theory became the foundation of chemistry."
+ },
+ {
+  "title": "Discovery of electromagnetic induction",
+  "creator": "faraday",
+  "year": "1831",
+  "sort": 1831,
+  "type": "Experimental discovery",
+  "location": "Royal Institution, London; published in the Philosophical Transactions, 1832",
+  "note": "Faraday showed that a changing magnetic field produces an electric current, the principle of the generator and transformer.",
+  "description": "After Hans Christian Ørsted showed in 1820 that an electric current deflects a compass needle, many tried to find the reverse effect, electricity from magnetism. On 29 August 1831 Faraday wound two coils of insulated wire on opposite sides of an iron ring and found that when he switched on or off the current in one coil, a brief current flowed in the other, but none while the current was steady. Over the following weeks he showed that moving a magnet into or out of a coil also produced a current, and that a copper disc rotating between the poles of a magnet gave a continuous current, the first dynamo. He reported the results to the Royal Society in November as the first series of his Experimental Researches in Electricity. Induction is the principle of the electric generator and the transformer, on which electric power systems depend. Joseph Henry in America discovered it independently at about the same time. The induction ring survives at the Royal Institution."
+ },
+ {
+  "title": "The Chemical History of a Candle",
+  "creator": "faraday",
+  "year": "1848; published 1861",
+  "sort": 1861,
+  "type": "Lectures for young people",
+  "location": "Royal Institution, London; published London: Griffin, Bohn",
+  "note": "Faraday's Christmas lectures explaining the science of a burning candle, a classic of popular science.",
+  "description": "Faraday gave the Royal Institution's Christmas lectures for young people nineteen times, and his series on The Chemical History of a Candle, first given in 1848 and repeated in 1860–61, became the most famous. In six lectures he used the burning candle to explain capillary action, the shape of the flame, the products of combustion, the composition of water and air, the properties of hydrogen, oxygen and carbon dioxide, and finally respiration, comparing the slow burning of carbon in our bodies to the candle. Each lecture was full of demonstrations. The lectures were taken down in shorthand by William Crookes and published in 1861, and have been in print ever since in many languages. Faraday ended by wishing that his listeners might, like the candle, shine as lights to those about them. The Christmas lectures continue today, broadcast on television."
+ },
+ {
+  "title": "Principles of Geology",
+  "creator": "lyell",
+  "year": "1830–1833",
+  "sort": 1830,
+  "type": "Geological treatise in three volumes",
+  "location": "London: John Murray",
+  "note": "Lyell's argument that the Earth's surface was shaped over vast time by causes still operating today.",
+  "description": "Principles of Geology, being an Attempt to Explain the Former Changes of the Earth's Surface, by Reference to Causes now in Operation, was published in three volumes and revised through twelve editions in Lyell's lifetime. Against geologists who explained mountains, valleys and fossil extinctions by past catastrophes far more violent than any seen today, Lyell argued that ordinary processes, erosion, sedimentation, earthquakes and volcanic eruptions, acting over immense periods of time, were sufficient to explain everything. The frontispiece shows the columns of the so-called Temple of Serapis at Pozzuoli near Naples, bored by marine molluscs, as evidence that the land had slowly sunk beneath the sea and risen again. The second volume discussed the distribution and extinction of species, though Lyell then rejected transmutation. Darwin took the first volume on the Beagle and saw the land through Lyell's eyes; the long timescale Lyell established was essential to the theory of evolution."
+ },
+ {
+  "title": "Journal of Researches (The Voyage of the Beagle)",
+  "creator": "darwin",
+  "year": "1839",
+  "sort": 1839,
+  "type": "Travel narrative and natural history",
+  "location": "London: Henry Colburn",
+  "note": "Darwin's account of his five-year voyage round the world on HMS Beagle, including the Galápagos Islands.",
+  "description": "Darwin's journal of the voyage of HMS Beagle, 1831–36, was first published in 1839 as the third volume of the official narrative of the expedition, edited by Captain Robert FitzRoy, and was so popular that it was reissued separately the same year; a revised edition of 1845 added more about evolution in all but name. It describes the geology, plants, animals and peoples of the places he visited: the fossils of giant extinct mammals in Argentina, the rise of the Chilean coast after an earthquake, the Andes, the coral reefs of the Indian Ocean, which he explained by the slow sinking of islands, and the Galápagos, where he noted that the islands had distinct forms of tortoises, mockingbirds and finches. It made his reputation as a naturalist and writer and is still read as one of the great travel books. Its observations of species varying from place to place were among the seeds of his theory of natural selection."
+ },
+ {
+  "title": "'I think' tree sketch (Notebook B)",
+  "creator": "darwin",
+  "year": "1837",
+  "sort": 1837,
+  "type": "Notebook sketch",
+  "location": "Cambridge University Library",
+  "note": "A small branching diagram in Darwin's private notebook, his first sketch of an evolutionary tree of life.",
+  "description": "In July 1837, back in London, Darwin began a series of private notebooks on the 'transmutation of species'. On page 36 of the first of them, Notebook B, he wrote the words 'I think' and below them drew a small branching tree, with a single trunk dividing into branches, some ending in lines and some marked with letters, to show how species might be related by common descent, with extinct forms explaining the gaps between living groups. It is his earliest known diagram of evolution as a branching process rather than a ladder, and it anticipates the only illustration in On the Origin of Species, a more abstract tree. The notebook was among two that went missing from Cambridge University Library around 2000 and were returned anonymously, in good condition, in 2022."
+ },
+ {
+  "title": "On the Origin of Species",
+  "creator": "darwin",
+  "year": "1859",
+  "sort": 1859,
+  "type": "Scientific book",
+  "location": "London: John Murray",
+  "note": "Darwin's theory that species evolve by natural selection, descending with modification from common ancestors.",
+  "description": "On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life was published on 24 November 1859, and its first printing of 1,250 copies was taken up by booksellers on the first day. Darwin, prompted by Alfred Russel Wallace's independent discovery, presented what he called one long argument. Starting from the variation produced by breeders of pigeons and other domestic animals, he argued that in nature more individuals are born than can survive, so those with variations better suited to their conditions tend to leave more offspring, and over long periods this natural selection produces new species. He showed how the theory explained the geological record, the geographical distribution of species, classification, embryology and rudimentary organs, and frankly discussed difficulties such as the evolution of the eye. He said almost nothing about humans. The book provoked fierce debate, but within two decades most scientists accepted evolution. It went through six editions, in which Darwin answered critics."
+ },
+ {
+  "title": "The Descent of Man",
+  "creator": "darwin",
+  "year": "1871",
+  "sort": 1871,
+  "type": "Scientific book in two volumes",
+  "location": "London: John Murray",
+  "note": "Darwin's application of evolution to humans, and his theory of sexual selection.",
+  "description": "The Descent of Man, and Selection in Relation to Sex applied the theory of evolution to the human species, which Darwin had avoided discussing in the Origin. He argued, from anatomy, embryology and rudimentary organs, that humans are descended from an ancestor shared with the apes, probably in Africa, and that human mental and moral faculties, including conscience and sympathy, differ from those of animals in degree rather than kind. Most of the book develops the theory of sexual selection: traits such as the peacock's tail, the antlers of deer and the songs of birds evolved because they helped individuals win mates, either by attracting the opposite sex or by defeating rivals. Darwin used it to explain differences between human populations and between the sexes, in passages that reflect the racial and gender assumptions of Victorian England and have been much criticised. Sexual selection, neglected for a century, is now a major field of evolutionary biology."
+ },
+ {
+  "title": "Experiments on Plant Hybridization",
+  "creator": "mendel",
+  "year": "1866",
+  "sort": 1866,
+  "type": "Scientific paper",
+  "location": "Verhandlungen des naturforschenden Vereines in Brünn",
+  "note": "Mendel's paper on crossing peas, which revealed the statistical laws of inheritance.",
+  "description": "Versuche über Pflanzenhybriden reported eight years of experiments in the abbey garden at Brno with some 28,000 pea plants. Mendel chose seven characters that appeared in two clear forms, such as round or wrinkled seeds and tall or short stems, crossed pure-breeding plants, and counted the offspring over several generations. In the first generation all plants showed one form, the dominant; in the next the recessive form reappeared in about a quarter of the plants, a ratio of three to one. He explained this by hereditary elements that come in pairs and separate when germ cells form, and showed that different characters are inherited independently of each other. He read the paper to the Natural History Society of Brno in 1865 and it was published in 1866, but its significance was not recognised. In 1900 Hugo de Vries, Carl Correns and Erich von Tschermak independently rediscovered it, and it became the foundation of genetics. Statisticians including R. A. Fisher later suggested that his data fit the expected ratios suspiciously well, a question still discussed."
+ },
+ {
+  "title": "Swan-neck flask experiments",
+  "creator": "pasteur",
+  "year": "1859–1862",
+  "sort": 1860,
+  "type": "Experiment",
+  "location": "École normale supérieure, Paris; Institut Pasteur, Paris (original flasks)",
+  "note": "Pasteur's experiments showing that broth stays sterile if dust is kept out, refuting spontaneous generation.",
+  "description": "The question of whether living things can arise spontaneously from non-living matter was revived in 1859 by the naturalist Félix Pouchet, and the French Academy of Sciences offered a prize for experiments that would settle it. Pasteur boiled nutrient broth in flasks whose necks he had drawn out into long S-shaped curves, open to the air. Dust and microbes settled in the bend and did not reach the liquid, which remained clear indefinitely; when the neck was broken off or the flask tilted so that broth touched the trapped dust, it soon teemed with life. He also exposed flasks to air at different altitudes, including on a glacier near Mont Blanc, and found fewer contaminations in pure mountain air. He won the prize in 1862 and announced in a lecture at the Sorbonne in 1864 that spontaneous generation would never recover. The experiments supported his germ theory of fermentation and disease. Some of the original flasks, still sterile, are kept at the Institut Pasteur."
+ },
+ {
+  "title": "Rabies vaccine",
+  "creator": "pasteur",
+  "year": "1885",
+  "sort": 1885,
+  "type": "Vaccine",
+  "location": "Laboratory of the École normale supérieure, Paris",
+  "note": "The first vaccine against rabies, given in 1885 to a boy bitten by a rabid dog.",
+  "description": "Rabies was then always fatal once symptoms appeared. Pasteur and his collaborators, especially Émile Roux, could not see the infectious agent, which is a virus, but they passed it through rabbits and weakened it by drying the infected spinal cords in sealed flasks for different numbers of days. Because rabies takes weeks to develop, they reasoned that a series of injections of increasingly virulent material might produce immunity after a bite. On 6 July 1885 a nine-year-old Alsatian boy, Joseph Meister, was brought to Paris two days after being badly bitten by a rabid dog, and Pasteur, who was not a physician, had doctors give him thirteen injections over ten days. The boy survived, as did a young shepherd, Jean-Baptiste Jupille, treated in October. News spread, and patients came from around the world. The success led to the founding of the Institut Pasteur in 1888. Historians studying his notebooks have shown that the vaccine had been less thoroughly tested in animals than he publicly implied."
+ },
+ {
+  "title": "A Dynamical Theory of the Electromagnetic Field",
+  "creator": "maxwell",
+  "year": "1865",
+  "sort": 1865,
+  "type": "Scientific paper",
+  "location": "Philosophical Transactions of the Royal Society of London",
+  "note": "Maxwell's paper setting out the equations of the electromagnetic field and identifying light as an electromagnetic wave.",
+  "description": "Maxwell read this paper to the Royal Society in December 1864 and published it in 1865. Earlier he had modelled Faraday's lines of force with an imaginary mechanism of spinning vortices, and had found that it predicted waves travelling at the speed of light. In this paper he dropped the mechanical model and described the electromagnetic field directly by twenty equations relating electric and magnetic forces, currents and charges, including the displacement current he had introduced. From them he derived waves of electric and magnetic disturbance travelling at a speed that matched the measured speed of light, and concluded that light itself is an electromagnetic disturbance. Oliver Heaviside later condensed the equations into the four now known as Maxwell's equations. Heinrich Hertz produced and detected electromagnetic waves in 1887–88, leading to radio, and the theory raised the questions about the speed of light that Einstein answered with relativity."
+ },
+ {
+  "title": "A Treatise on Electricity and Magnetism",
+  "creator": "maxwell",
+  "year": "1873",
+  "sort": 1873,
+  "type": "Treatise in two volumes",
+  "location": "Oxford: Clarendon Press",
+  "note": "Maxwell's comprehensive treatise on electromagnetism, from which a generation of physicists learned field theory.",
+  "description": "In the two volumes of the Treatise, Maxwell gathered the whole of electricity and magnetism, experimental and theoretical, into a single system based on the field. He covered electrostatics, electric currents, magnetism and electromagnetism, treated mathematical methods such as potential theory and spherical harmonics, described measuring instruments, and set out his electromagnetic theory of light. He predicted that light would exert a pressure on surfaces it falls on, which was later confirmed. The book was difficult and in places obscure, and much of the work of the following generation, by Heaviside, Hertz, George FitzGerald, Oliver Lodge and others, the so-called Maxwellians, consisted of clarifying and simplifying it. Einstein later called the change from action at a distance to fields the most profound since Newton."
+ },
+ {
+  "title": "First colour photograph (tartan ribbon)",
+  "creator": "maxwell",
+  "year": "1861",
+  "sort": 1861,
+  "type": "Three-colour photographic demonstration",
+  "location": "Royal Institution, London; plates at the James Clerk Maxwell Foundation, Edinburgh",
+  "note": "A demonstration of the three-colour method of colour photography that Maxwell proposed in 1855.",
+  "description": "Maxwell's studies of colour vision showed that any colour the eye perceives can be matched by mixing three primary lights, red, green and blue. In 1855 he suggested that a colour photograph could be made by taking three black-and-white photographs through red, green and blue filters, and projecting them superimposed through the same filters. For a lecture at the Royal Institution in May 1861, the photographer Thomas Sutton photographed a tartan ribbon in this way, and the projected image reproduced its colours. The result was better than it should have been, because the photographic emulsions of the time were barely sensitive to red; a century later it was found that the red filter had passed ultraviolet light reflected by the red dyes. The three-colour principle underlies colour photography, television and digital screens."
+ },
+ {
+  "title": "Periodic table of the elements",
+  "creator": "mendeleev",
+  "year": "1869",
+  "sort": 1869,
+  "type": "Classification of the elements",
+  "location": "Saint Petersburg; published in the Zhurnal Russkogo Khimicheskogo Obshchestva and Zeitschrift für Chemie",
+  "note": "Mendeleev's arrangement of the elements by atomic weight and properties, with gaps for undiscovered elements.",
+  "description": "In February 1869, while writing his textbook, Mendeleev drew up a table of the 63 known elements in order of atomic weight, arranged so that elements with similar properties, such as the alkali metals or the halogens, fell into the same groups. He printed it as a single sheet titled An Attempt at a System of Elements, and presented a paper on it to the Russian Chemical Society in March. Where the order of weights clashed with chemical properties, he trusted the properties and suggested the weights were wrong, and he left gaps for missing elements. In 1871 he predicted in detail the properties of three of them, which he called eka-aluminium, eka-boron and eka-silicon. Gallium was discovered in 1875, scandium in 1879 and germanium in 1886, with properties closely matching his predictions. Later work showed that the order is set by atomic number, the charge of the nucleus, and the table's structure was explained by quantum mechanics. It is the central icon of chemistry."
+ },
+ {
+  "title": "On the Antiseptic Principle in the Practice of Surgery",
+  "creator": "lister",
+  "year": "1867",
+  "sort": 1867,
+  "type": "Medical papers",
+  "location": "The Lancet, London",
+  "note": "Lister's reports on preventing wound infection with carbolic acid, founding antiseptic surgery.",
+  "description": "In the mid nineteenth century almost half of patients who had a limb amputated in some hospitals died of infection, and 'hospital gangrene' was widely blamed on bad air. At Glasgow Royal Infirmary, Lister read Pasteur's work showing that fermentation and putrefaction are caused by microbes, and reasoned that germs entering wounds caused sepsis. In August 1865 he treated a boy's compound fracture of the leg, in which the bone had broken the skin, with lint soaked in carbolic acid, a chemical used to treat sewage, and the wound healed without infection. In a series of articles in The Lancet in 1867 he reported his results with compound fractures and abscesses, and in a lecture that year described a striking fall in deaths on his wards. He later sprayed carbolic acid in the operating theatre, a method he eventually abandoned. Antisepsis met resistance, especially in Britain, but spread through Germany and elsewhere, and developed into modern aseptic surgery with sterilised instruments, gowns and gloves."
+ },
+ {
+  "title": "Discovery of the tubercle bacillus",
+  "creator": "koch",
+  "year": "1882",
+  "sort": 1882,
+  "type": "Medical discovery",
+  "location": "Imperial Health Office, Berlin; announced to the Berlin Physiological Society, 24 March 1882",
+  "note": "Koch's identification of the bacterium that causes tuberculosis, then the leading cause of death in Europe.",
+  "description": "Tuberculosis, also known as consumption, killed about one in seven people in nineteenth-century Europe, and many thought it hereditary. Koch developed a new staining method that made a tiny rod-shaped bacterium visible in tubercular tissue from humans and animals, grew it in pure culture on coagulated blood serum, which took weeks because it grows very slowly, and showed that injecting the culture into guinea pigs produced the disease. He announced the discovery at a meeting of the Berlin Physiological Society on 24 March 1882, a date now marked as World Tuberculosis Day, and published it as Die Ätiologie der Tuberculose. His systematic chain of proof became the model for linking a microbe to a disease, later formalised as Koch's postulates. His later claim that a substance from the bacilli, tuberculin, could cure the disease proved a costly failure, though it became a diagnostic test. Effective treatment came only with antibiotics after the Second World War."
+ },
+ {
+  "title": "On the Mode of Communication of Cholera and the Broad Street map",
+  "creator": "john-snow",
+  "year": "1849; 2nd ed. 1855",
+  "sort": 1854,
+  "type": "Epidemiological study and map",
+  "location": "London: John Churchill",
+  "note": "Snow's study showing that cholera spreads through contaminated water, with his map of deaths around the Broad Street pump.",
+  "description": "Snow first set out his theory that cholera is spread by a poison or agent in contaminated water, not by bad air, in a pamphlet of 1849. When a violent outbreak killed over five hundred people in a few weeks in Soho in late August and September 1854, he investigated house by house and found that the deaths were concentrated around a public water pump in Broad Street, now Broadwick Street, while workers at a nearby brewery who drank beer and a workhouse with its own well were largely spared. He persuaded the local board to remove the pump's handle on 8 September, by which time the outbreak was already waning. In the second edition of his book in 1855 he published a map marking each death with a bar, which became a famous image, and the results of his 'grand experiment' comparing death rates among households supplied by two water companies, one drawing from sewage-polluted Thames water. The local curate Henry Whitehead, at first sceptical, traced the source to a baby's nappies washed into a leaking cesspool next to the well."
+ },
+ {
+  "title": "Diagram of the Causes of Mortality in the Army in the East",
+  "creator": "nightingale",
+  "year": "1858",
+  "sort": 1858,
+  "type": "Statistical diagram",
+  "location": "London; published in Notes on Matters Affecting the Health, Efficiency and Hospital Administration of the British Army",
+  "note": "Nightingale's polar-area 'rose' diagrams showing that preventable disease killed far more soldiers than wounds.",
+  "description": "After the Crimean War, Nightingale worked with the statistician William Farr to analyse the deaths of British soldiers in the military hospitals at Scutari and in the Crimea. To make the findings unmistakable to officials and the public, she designed coloured diagrams, now usually called rose or coxcomb diagrams, in which each month is a wedge of a circle and the area of coloured sections shows the number of deaths from wounds, from other causes, and from 'zymotic', infectious, diseases such as cholera, typhus and dysentery. The large blue areas of preventable disease dwarfed the red of wounds, and the diagrams showed how deaths fell after a Sanitary Commission improved drains, ventilation and water in 1855. Polar-area charts had been used before, but her diagrams became the most famous early example of statistical graphics used for persuasion, and they helped bring about reforms in army health and the design of hospitals."
+ },
+ {
+  "title": "Drawings of neurons and the neuron doctrine",
+  "creator": "cajal",
+  "year": "1888–1904",
+  "sort": 1888,
+  "type": "Histological drawings and treatises",
+  "location": "Instituto Cajal, Madrid (Legado Cajal)",
+  "note": "Cajal's detailed drawings of nerve cells, which showed that the nervous system is made of separate neurons.",
+  "description": "In 1887 Cajal learned of the 'black reaction' discovered by Camillo Golgi, a silver stain that colours just a few nerve cells completely, revealing their branching shapes against a clear background. He improved it and applied it to the brains of young animals and birds, where cells were less tangled. In 1888 he published evidence, from the cerebellum, that the endings of nerve fibres touch other cells but do not fuse with them, so the nervous system is made of independent units, later called neurons, rather than a continuous net as Golgi and most others held. He proposed that nerve impulses travel in one direction, from the branching dendrites through the cell body to the axon. He set out his findings in his great Textura del sistema nervioso del hombre y de los vertebrados of 1899–1904, illustrated with thousands of drawings in ink and pencil, of the retina, cortex, spinal cord and other tissues, which combine scientific accuracy with remarkable beauty. The neuron doctrine was definitively confirmed by electron microscopy in the 1950s."
+ },
+ {
+  "title": "History of penicillin: Fleming's discovery",
+  "creator": "fleming",
+  "year": "1928; published 1929",
+  "sort": 1928,
+  "type": "Discovery of an antibiotic",
+  "location": "St Mary's Hospital, London; published in the British Journal of Experimental Pathology, 1929",
+  "note": "Fleming noticed that a mould killed bacteria on a culture plate and named its active substance penicillin.",
+  "description": "Returning from holiday in September 1928, Fleming examined culture plates of Staphylococcus bacteria that he had left on his bench at St Mary's Hospital and noticed that on one of them a contaminating mould was surrounded by a clear zone where the bacteria had been destroyed. He grew the mould, identified as Penicillium notatum, now Penicillium rubens, found that its broth killed many disease-causing bacteria but was harmless to white blood cells, and named the active substance penicillin. He published his findings in 1929 and used it as a laboratory tool for separating bacteria, but its instability and the difficulty of purifying it discouraged him from developing it as a drug. In 1939–41 Howard Florey, Ernst Chain, Norman Heatley and their colleagues in Oxford purified it, showed its spectacular effects in mice and then in patients, and with American industry developed mass production during the Second World War. His laboratory at St Mary's is now the Alexander Fleming Laboratory Museum."
+ },
+ {
+  "title": "The Laws of Thought",
+  "creator": "boole",
+  "year": "1854",
+  "sort": 1854,
+  "type": "Treatise on logic and probability",
+  "location": "London: Walton and Maberly; Cambridge: Macmillan",
+  "note": "Boole's algebra of logic, in which reasoning is calculation with symbols taking the values 0 and 1.",
+  "description": "An Investigation of the Laws of Thought, on which are Founded the Mathematical Theories of Logic and Probabilities developed ideas Boole had first published in 1847. He represented classes of things, or propositions, by letters such as x and y, the combination 'x and y' by multiplication and 'either x or y' by addition, with 1 standing for the universe of discourse and 0 for nothing. Because a class combined with itself is unchanged, x times x equals x, which holds only for the numbers 0 and 1, so logic becomes an algebra of those two values. With this system the syllogisms of traditional logic, and far more complex arguments, could be worked out by calculation. Boole also applied it to probability. His algebra was simplified by later logicians such as William Stanley Jevons and Charles Sanders Peirce, and in 1937 Claude Shannon showed that it describes electrical switching circuits, making it the foundation of digital computer design."
+ },
+ {
+  "title": "Difference Engine",
+  "creator": "babbage",
+  "year": "1822–1849; built 1991",
+  "sort": 1822,
+  "type": "Mechanical calculator",
+  "location": "Science Museum, London; Computer History Museum, Mountain View (Difference Engine No. 2)",
+  "note": "Babbage's design for a machine to calculate and print mathematical tables automatically, built only in modern times.",
+  "description": "Mathematical tables of logarithms, astronomical positions and navigation were calculated by hand and full of errors. In 1822 Babbage proposed a machine that would compute tables by the method of finite differences, which needs only repeated addition, and print the results to avoid copying mistakes. With government money he employed the engineer Joseph Clement to build Difference Engine No. 1, but after disputes and costs of over £17,000 work stopped in 1833, leaving only a demonstration section of about 2,000 parts, which Babbage showed at his parties. Between 1847 and 1849 he designed a simpler and more elegant Difference Engine No. 2. Its plans lay unused until the Science Museum in London built it, completing the calculating section in 1991 for the bicentenary of Babbage's birth and the printer in 2002. It weighs about five tonnes, has some 8,000 parts and works exactly as he intended, proving that the design was sound. The Swedish engineers Georg and Edvard Scheutz built a working difference engine of their own in the 1850s."
+ },
+ {
+  "title": "Analytical Engine",
+  "creator": "babbage",
+  "year": "1834–1871",
+  "sort": 1834,
+  "type": "Design for a mechanical general-purpose computer",
+  "location": "Science Museum, London (trial model of the mill and printing mechanism)",
+  "note": "Babbage's design for a programmable mechanical computer with a store, a mill and punched-card input.",
+  "description": "From 1834 Babbage worked on a far more ambitious machine than the Difference Engine. The Analytical Engine was to have a 'store' holding a thousand numbers of fifty digits each, and a 'mill' that would perform arithmetic on numbers brought from the store, the equivalent of a modern computer's memory and central processor. It would be programmed by punched cards, borrowed from the Jacquard loom that wove patterns in silk, with separate cards for operations and for the addresses of variables, and it could make decisions by branching according to the results of calculations, and repeat sequences in loops. Output would be printed or punched. The engine was never built, partly for lack of funding; Babbage made thousands of pages of drawings and notes and built only small parts, and his son Henry assembled a piece of the mill after his death. It was a general-purpose computer in principle, a century before electronic computers, though there is little evidence that its designers in the 1940s were influenced by it."
+ },
+ {
+  "title": "Notes on the Analytical Engine (Note G)",
+  "creator": "lovelace",
+  "year": "1843",
+  "sort": 1843,
+  "type": "Translation with notes",
+  "location": "Scientific Memoirs, vol. 3, London: Richard and John E. Taylor",
+  "note": "Lovelace's notes on Babbage's engine, with a program for Bernoulli numbers and a vision of computing beyond numbers.",
+  "description": "In 1842 the Italian engineer Luigi Menabrea published in French a description of the Analytical Engine based on lectures Babbage had given in Turin. Ada Lovelace translated it into English and, at Babbage's suggestion, added seven notes, labelled A to G, signed only with her initials A.A.L. In them she explained the difference between the Difference Engine and the Analytical Engine, how the engine could be instructed through cards, and the use of repeated sequences of operations. Note G gave a detailed table of the steps by which the engine could calculate Bernoulli numbers, often described as the first published computer program, though how much she and Babbage each contributed is debated. Most strikingly, she argued that the engine could act on any objects whose relations could be expressed by symbols, so that it might compose elaborate music, while adding that it could originate nothing and only do what it was ordered to perform, a remark that Alan Turing discussed as 'Lady Lovelace's objection'."
+ },
+ {
+  "title": "On the Hypotheses which Lie at the Foundations of Geometry",
+  "creator": "riemann",
+  "year": "1854; published 1868",
+  "sort": 1854.5,
+  "type": "Lecture",
+  "location": "University of Göttingen; published in the Abhandlungen der Königlichen Gesellschaft der Wissenschaften zu Göttingen",
+  "note": "Riemann's lecture introducing curved spaces of any dimension, the geometry later used for general relativity.",
+  "description": "For his habilitation, the qualification to teach in a German university, Riemann had to give a lecture on a topic chosen by the faculty from three he proposed, and Gauss, against custom, chose the third, on the foundations of geometry. Delivered on 10 June 1854 before an audience that mostly could not follow it, the lecture contained almost no formulas. Riemann described manifolds, spaces of any number of dimensions, and showed how their geometry could be determined by a rule for measuring distances between nearby points, so that curvature could vary from place to place. Euclidean geometry and the non-Euclidean geometries of Lobachevsky and Bolyai became special cases. He suggested that the geometry of physical space was a question for experience and might depend on the forces acting in it. The lecture was published only after his death, in 1868. The mathematics it opened, developed by Christoffel, Ricci and Levi-Civita, provided the language Einstein needed for general relativity."
+ },
+ {
+  "title": "On the Number of Primes Less Than a Given Magnitude",
+  "creator": "riemann",
+  "year": "1859",
+  "sort": 1859.5,
+  "type": "Mathematical paper",
+  "location": "Monatsberichte der Berliner Akademie, Berlin",
+  "note": "Riemann's only paper on number theory, linking primes to the zeta function and stating the Riemann hypothesis.",
+  "description": "Riemann wrote this eight-page paper on his election to the Berlin Academy. Taking the zeta function, which Euler had shown is related to the prime numbers, he extended it to complex numbers and showed how an exact formula for the number of primes up to any given size could be written in terms of the zeros of this function. He remarked, almost in passing, that it was very likely that all the non-trivial zeros lie on a single line in the complex plane, but that he had put aside the search for a proof. This statement, the Riemann hypothesis, would give the most precise possible information about how the primes are distributed. It was the eighth of Hilbert's problems in 1900 and is one of the Clay Mathematics Institute's Millennium Prize Problems; billions of zeros have been checked by computer, but it remains unproved. The paper's methods were used in 1896 to prove the prime number theorem."
+ },
+ {
+  "title": "Cantor's diagonal argument and the theory of transfinite numbers",
+  "creator": "cantor",
+  "year": "1874–1897",
+  "sort": 1891,
+  "type": "Mathematical papers",
+  "location": "Journal für die reine und angewandte Mathematik; Jahresbericht der Deutschen Mathematiker-Vereinigung, 1891",
+  "note": "Cantor's proofs that the real numbers are uncountable and that there is an endless hierarchy of infinite sizes.",
+  "description": "In an 1874 paper with a deliberately modest title, Cantor proved that although the algebraic numbers can be listed one by one, like the whole numbers, the real numbers cannot: there are, in a precise sense, more points on a line than there are whole numbers. In 1891 he gave a simpler and more general proof, the diagonal argument: given any list of infinite sequences of digits, one can construct a new sequence that differs from the first in its first digit, from the second in its second, and so on, so it cannot be in the list. The same idea shows that the set of all subsets of any set is always larger than the set itself, so there is no largest infinity. In papers up to 1897 Cantor built an arithmetic of infinite cardinal and ordinal numbers. His work was attacked by some mathematicians as meaningless, and paradoxes found around 1900 led to the axiomatic set theory that now underlies most of mathematics. The diagonal method was later used by Gödel and Turing."
+ },
+ {
+  "title": "Hilbert's problems",
+  "creator": "hilbert",
+  "year": "1900",
+  "sort": 1900,
+  "type": "Lecture and list of problems",
+  "location": "International Congress of Mathematicians, Paris",
+  "note": "Twenty-three unsolved problems presented by Hilbert in 1900, which shaped mathematical research in the twentieth century.",
+  "description": "On 8 August 1900, at the second International Congress of Mathematicians in Paris, Hilbert gave a lecture on the future of mathematics, arguing that every well-posed problem has a solution and that problems are the lifeblood of the subject. He presented ten problems in the lecture and published twenty-three in the printed version. They included Cantor's continuum hypothesis, the consistency of the axioms of arithmetic, the Riemann hypothesis, the axiomatisation of physics and the existence of an algorithm to decide whether a Diophantine equation has whole-number solutions. Over the following century work on them produced major advances: Gödel's and Paul Cohen's work showed that the continuum hypothesis cannot be decided from the usual axioms, Gödel's incompleteness theorems bore on the second problem, and Yuri Matiyasevich showed in 1970 that the tenth has no general solution. Some are solved, some were too vague to be settled, and some, including the Riemann hypothesis, remain open."
+ },
+ {
+  "title": "Discovery of X-rays (Hand mit Ringen)",
+  "creator": "rontgen",
+  "year": "1895",
+  "sort": 1895,
+  "type": "Discovery and first radiograph",
+  "location": "University of Würzburg; published in the Sitzungsberichte der Physikalisch-Medizinischen Gesellschaft zu Würzburg",
+  "note": "Röntgen's discovery of a penetrating radiation, announced with an X-ray image of his wife's hand.",
+  "description": "On 8 November 1895, working alone in his laboratory at Würzburg with a cathode-ray tube covered in black cardboard, Röntgen noticed a faint glow on a screen coated with barium platinocyanide lying nearby. He spent seven weeks investigating the unknown rays, which he called X-rays, showing that they travel in straight lines, are not deflected by magnets, pass through paper, wood and flesh but are stopped by metals and bone, and darken photographic plates. On 22 December he made an image of the hand of his wife, Anna Bertha, showing her bones and wedding ring; she is said to have exclaimed that she had seen her death. His paper On a New Kind of Rays, submitted on 28 December, and copies of the image sent to colleagues caused an international sensation. Within weeks X-rays were being used to locate bullets and set fractures. Their nature as short-wavelength electromagnetic radiation was shown by Max von Laue's diffraction experiments in 1912, which also founded X-ray crystallography. The dangers of overexposure were learned only slowly."
+ },
+ {
+  "title": "Discovery of polonium and radium",
+  "creator": "marie-curie",
+  "year": "1898",
+  "sort": 1898,
+  "type": "Discovery of chemical elements",
+  "location": "École municipale de physique et chimie industrielles, Paris; announced in the Comptes rendus de l'Académie des sciences",
+  "note": "Marie and Pierre Curie found two new radioactive elements in the uranium ore pitchblende.",
+  "description": "For her doctoral research Marie Curie chose to study the rays from uranium discovered by Henri Becquerel in 1896. Using an electrometer designed by Pierre Curie and his brother Jacques, she measured the faint electric currents the rays produced in air, and found that thorium also emits them and that the intensity depends only on the amount of the element, suggesting that it is a property of the atom; she called it radioactivity. Pitchblende, a uranium ore, was more active than its uranium content could explain, so she and Pierre, who abandoned his own research to join her, chemically separated it. In July 1898 they announced polonium, named after her occupied homeland, and in December, with Gustave Bémont, radium. Working in a leaky shed, Marie processed several tonnes of pitchblende residues to obtain a tenth of a gram of radium chloride in 1902 and determine its atomic weight. Radium became a sensation and was used in cancer treatment. Her notebooks are still so radioactive that they are kept in lead-lined boxes at the Bibliothèque nationale de France."
+ },
+ {
+  "title": "Planck's radiation law and the quantum of action",
+  "creator": "planck",
+  "year": "1900",
+  "sort": 1900.5,
+  "type": "Scientific papers",
+  "location": "Verhandlungen der Deutschen Physikalischen Gesellschaft, Berlin; Annalen der Physik, 1901",
+  "note": "Planck's formula for black-body radiation, which required energy to come in discrete packets: the birth of quantum theory.",
+  "description": "A black body, an ideal object that absorbs all radiation falling on it, emits light with a spectrum that depends only on its temperature, and measurements at the Physikalisch-Technische Reichsanstalt in Berlin in the 1890s gave precise data that no theory could fully explain. In October 1900 Planck found a formula that fitted the measurements perfectly at all wavelengths. To derive it, in a paper read to the German Physical Society on 14 December 1900, he had to assume that the oscillators emitting the radiation could only have energies in whole multiples of a small unit, proportional to frequency, with a constant of proportionality h, now called Planck's constant. Planck regarded this at first as a mathematical device and for years tried to reconcile it with classical physics. It was Einstein in 1905, treating light itself as made of quanta, and Bohr in 1913 who showed that quantisation was fundamental. Planck's constant is now one of the constants used to define the kilogram, since 2019."
+ },
+ {
+  "title": "Rutherford model of the atom",
+  "creator": "rutherford",
+  "year": "1911",
+  "sort": 1911,
+  "type": "Theory and experiment",
+  "location": "University of Manchester; published in the Philosophical Magazine",
+  "note": "Rutherford's interpretation of the gold-foil experiment: the atom has a tiny, dense, positively charged nucleus.",
+  "description": "In 1909 at Manchester, Hans Geiger and the student Ernest Marsden, working under Rutherford, fired alpha particles from a radioactive source at a very thin gold foil and counted the flashes they made on a fluorescent screen. Most passed straight through, but about one in eight thousand bounced back at large angles. The prevailing 'plum pudding' model of J. J. Thomson, with electrons scattered through a diffuse sphere of positive charge, could not explain this; Rutherford later said it was as if a fifteen-inch shell had bounced back from tissue paper. In a paper of May 1911 he showed mathematically that the results fitted an atom with almost all its mass and positive charge concentrated in a minute central nucleus, with electrons at a great distance, so that the atom is mostly empty space. Geiger and Marsden confirmed his scattering formula in detail in 1913. The model was unstable according to classical physics, a problem that Bohr resolved with quantum theory, and it opened the way to nuclear physics."
+ },
+ {
+  "title": "On the Electrodynamics of Moving Bodies (special relativity)",
+  "creator": "einstein",
+  "year": "1905",
+  "sort": 1905.5,
+  "type": "Scientific paper",
+  "location": "Annalen der Physik, Leipzig",
+  "note": "Einstein's paper on special relativity, showing that measurements of time and space depend on the observer's motion.",
+  "description": "Zur Elektrodynamik bewegter Körper was received by the Annalen der Physik on 30 June 1905 and published in September, one of four papers that made 1905 Einstein's 'miracle year'. Starting from two postulates, that the laws of physics are the same for all observers moving uniformly, and that light always travels at the same speed in empty space regardless of the motion of its source, Einstein showed that the ideas of absolute time and simultaneity must be abandoned. Moving clocks run slow and moving rods are shortened in their direction of motion, as seen by a stationary observer, and the transformations between observers' measurements, found earlier by Lorentz in a different interpretation, follow simply. The ether, the supposed medium of light, becomes superfluous. In a short follow-up paper later that year Einstein showed that a body's mass is a measure of its energy content, the relation usually written E = mc². In 1908 Hermann Minkowski reformulated the theory as a geometry of four-dimensional spacetime."
+ },
+ {
+  "title": "On a Heuristic Point of View Concerning the Production and Transformation of Light",
+  "creator": "einstein",
+  "year": "1905",
+  "sort": 1905,
+  "type": "Scientific paper",
+  "location": "Annalen der Physik, Leipzig",
+  "note": "Einstein's proposal that light consists of quanta of energy, explaining the photoelectric effect.",
+  "description": "In this paper, received in March 1905, Einstein proposed that light, despite all the evidence that it is a wave, behaves in some situations as if it consists of independent packets, or quanta, of energy proportional to its frequency, extending Planck's quantum hypothesis from matter to radiation itself. He applied the idea to the photoelectric effect, in which light falling on a metal surface ejects electrons: experiments by Philipp Lenard had shown that the electrons' energy depends on the light's colour, not its brightness, which wave theory could not explain. Einstein predicted a simple linear relation between frequency and electron energy. The idea was received with great scepticism, even by Planck, and Robert Millikan set out to disprove the relation, but confirmed it precisely in 1914–16. It was for this work, rather than relativity, that Einstein received the 1921 Nobel Prize in Physics. The light quanta, later called photons, were central to quantum mechanics and the idea of wave-particle duality."
+ },
+ {
+  "title": "General theory of relativity",
+  "creator": "einstein",
+  "year": "1915–1916",
+  "sort": 1915,
+  "type": "Scientific papers",
+  "location": "Prussian Academy of Sciences, Berlin; Annalen der Physik, 1916",
+  "note": "Einstein's theory of gravity as the curvature of spacetime, confirmed by the bending of starlight in 1919.",
+  "description": "From 1907, when he realised that a person falling freely would not feel their own weight, Einstein worked to extend relativity to accelerated motion and gravity. With the help of his friend the mathematician Marcel Grossmann he learned Riemann's geometry and the tensor calculus, and after years of false starts presented the final field equations to the Prussian Academy in Berlin in November 1915, publishing a full account in the Annalen der Physik in 1916. In general relativity, matter and energy curve spacetime, and bodies move along the straightest possible paths in the curved geometry, which appears to us as gravitational attraction. The theory explained the long-standing anomaly in the orbit of Mercury and predicted that light passing the Sun would be deflected by twice the Newtonian amount; the British eclipse expeditions led by Arthur Eddington and Frank Dyson in 1919 reported confirmation, making Einstein world-famous. Its later predictions, the expansion of the universe, black holes, gravitational lensing and gravitational waves, first detected directly in 2015, have all been confirmed."
+ },
+ {
+  "title": "On the Constitution of Atoms and Molecules (Bohr model)",
+  "creator": "bohr",
+  "year": "1913",
+  "sort": 1913,
+  "type": "Scientific papers",
+  "location": "Philosophical Magazine, London",
+  "note": "Bohr's quantum model of the atom, in which electrons occupy fixed orbits and emit light when they jump between them.",
+  "description": "In a trilogy of papers published in 1913, Bohr combined Rutherford's nuclear atom with Planck's quantum. He postulated that the electron in a hydrogen atom can circle the nucleus only in certain stationary orbits, in which it does not radiate as classical physics would require, and that it emits or absorbs light of a single frequency when it jumps from one orbit to another, the energy of the light being the difference between the energies of the orbits. From these assumptions he derived the Balmer formula for the lines in the hydrogen spectrum, known empirically since 1885, and calculated the Rydberg constant from fundamental constants, a striking success. The model also explained spectra of ionised helium and the general structure of the periodic table. It could not explain atoms with more than one electron or the intensities of spectral lines, and was replaced by quantum mechanics in the 1920s, but its picture of an atom with electrons in shells remains a common teaching image."
+ },
+ {
+  "title": "Invariante Variationsprobleme (Noether's theorem)",
+  "creator": "noether",
+  "year": "1918",
+  "sort": 1918,
+  "type": "Mathematical paper",
+  "location": "Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen",
+  "note": "Noether's proof that every continuous symmetry of a physical system corresponds to a conservation law.",
+  "description": "Hilbert and Klein had asked Noether to help them understand a puzzle in general relativity: energy did not seem to be conserved in the usual way. In this paper, presented to the Göttingen society by Klein in July 1918 because she was not a member, Noether proved two general theorems about systems described by a principle of least action. The first shows that every continuous symmetry of such a system corresponds to a conserved quantity: if the laws are unchanged by shifts in time, energy is conserved; by shifts in space, momentum; by rotations, angular momentum. The second explains why in theories like general relativity, whose symmetries depend on arbitrary functions, conservation laws take a different form. The first theorem became one of the most important tools of twentieth-century physics, used throughout quantum field theory and the Standard Model of particle physics, where conserved quantities such as electric charge are traced to symmetries. Einstein praised her penetrating mathematical thinking."
+ },
+ {
+  "title": "Matrix mechanics and the uncertainty principle",
+  "creator": "heisenberg",
+  "year": "1925–1927",
+  "sort": 1925,
+  "type": "Scientific papers",
+  "location": "Zeitschrift für Physik, Berlin",
+  "note": "Heisenberg's first formulation of quantum mechanics, and his principle that position and momentum cannot both be known exactly.",
+  "description": "Suffering from hay fever, Heisenberg went to the treeless North Sea island of Heligoland in June 1925 and there worked out a new mechanics for atoms that used only observable quantities, such as the frequencies and intensities of spectral lines, rather than unobservable electron orbits. His paper, published in July 1925, contained a strange rule of multiplication in which the order of factors mattered; Max Born recognised it as matrix algebra, and Born, Heisenberg and Pascual Jordan developed matrix mechanics into a complete theory by the end of the year. In 1927, working in Bohr's institute in Copenhagen, Heisenberg showed that the theory implies that the more precisely the position of a particle is determined, the less precisely its momentum can be known, and vice versa, with the product of the uncertainties never smaller than a quantity set by Planck's constant. The uncertainty principle became a cornerstone of the Copenhagen interpretation, and Heisenberg received the Nobel Prize in Physics for 1932."
+ },
+ {
+  "title": "Quantisation as an Eigenvalue Problem (Schrödinger equation)",
+  "creator": "schrodinger",
+  "year": "1926",
+  "sort": 1926,
+  "type": "Scientific papers",
+  "location": "Annalen der Physik, Leipzig",
+  "note": "Schrödinger's wave equation, which describes how the quantum state of a system evolves and gives atomic energy levels.",
+  "description": "Inspired by Louis de Broglie's suggestion that electrons have wave properties, Schrödinger sought an equation for these matter waves, and over the Christmas holiday of 1925, in a villa in Arosa in the Swiss Alps, found it. In four papers published in the first half of 1926 he showed that the allowed energy levels of the hydrogen atom follow naturally as the frequencies at which the electron wave can vibrate in a stable pattern, much as a guitar string can vibrate only at certain notes. Unlike Heisenberg's matrices, his wave mechanics used familiar mathematics of differential equations and was quickly adopted. He also showed that the two theories were mathematically equivalent. Schrödinger hoped that the wave represented a real smeared-out electron, but Max Born proposed in 1926 that the square of its size gives the probability of finding the particle at a place, the interpretation that prevailed. The Schrödinger equation is the basic equation of quantum chemistry, materials science and much of modern physics."
+ },
+ {
+  "title": "What Is Life?",
+  "creator": "schrodinger",
+  "year": "1944",
+  "sort": 1944,
+  "type": "Book of lectures",
+  "location": "Trinity College, Dublin (lectures, 1943); Cambridge University Press",
+  "note": "Schrödinger's lectures asking how physics and chemistry can explain life, which inspired the founders of molecular biology.",
+  "description": "In February 1943 Schrödinger gave three public lectures at Trinity College, Dublin, published the following year as What Is Life? The Physical Aspect of the Living Cell. Drawing on the work of the geneticist Max Delbrück and his colleagues on mutations caused by X-rays, he argued that the hereditary material must be a very small but extremely stable molecular structure, an 'aperiodic crystal' whose arrangement of atoms forms a 'code-script' determining the development of the organism. He also discussed how living things maintain their order against the tendency to disorder by drawing 'negative entropy' from their surroundings. Many of the ideas were not new, and biologists have criticised some of them, but the short book, written for a general audience, made the physical problem of heredity exciting to physicists. James Watson, Francis Crick and Maurice Wilkins all said it influenced their decision to work on genes."
+ },
+ {
+  "title": "Hubble's law of galaxy recession",
+  "creator": "hubble",
+  "year": "1929",
+  "sort": 1929,
+  "type": "Scientific paper",
+  "location": "Mount Wilson Observatory; published in the Proceedings of the National Academy of Sciences",
+  "note": "Hubble's evidence that galaxies recede at speeds proportional to their distance, the basis of the expanding universe.",
+  "description": "In 1924–25 Hubble had shown that the spiral nebulae are distant galaxies by finding Cepheid variable stars in them, whose regular pulsations reveal their true brightness and hence their distance. In a short paper of 1929, A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae, he plotted the distances of 24 galaxies against their velocities, most of them measured from redshifts in their spectra by Vesto Slipher at Lowell Observatory, and found a roughly linear relation: the farther away a galaxy is, the faster it is receding. With Milton Humason he extended the relation to much greater distances in 1931. Hubble was cautious about the interpretation, but the relation was soon understood as evidence that the universe is expanding, as Georges Lemaître had predicted from general relativity in 1927. Hubble's distances were too small by a large factor, giving too young an age for the universe, a problem corrected in the 1950s. In 2018 the International Astronomical Union recommended calling it the Hubble–Lemaître law."
+ },
+ {
+  "title": "The primeval atom and the expanding universe",
+  "creator": "lemaitre",
+  "year": "1927–1931",
+  "sort": 1927,
+  "type": "Scientific papers",
+  "location": "Annales de la Société Scientifique de Bruxelles, 1927; Nature, 1931",
+  "note": "Lemaître's proposals that the universe is expanding and that it began from a single 'primeval atom', the origin of the Big Bang theory.",
+  "description": "In 1927 Lemaître published in a Belgian journal a paper showing that Einstein's equations of general relativity allow a universe of constant mass with a growing radius, and that this would account for the recession of the galaxies; using published distances and velocities, he derived an expansion rate close to the one Hubble found two years later. Einstein reportedly told him that his calculations were correct but his physics abominable. The paper was little noticed until Eddington arranged for an English translation in 1931, in which the passage estimating the expansion rate was omitted, a fact that later prompted speculation but was shown in 2011 to be Lemaître's own decision. In a letter to Nature in 1931, Lemaître went further and suggested that the universe began as a single quantum, a 'primeval atom', which split into the matter of the cosmos. The idea, mocked as the 'Big Bang' by Fred Hoyle in 1949, was developed by George Gamow and colleagues and confirmed by the discovery of the cosmic microwave background in 1965."
+ },
+ {
+  "title": "On a Remarkable Bacteriolytic Element Found in Tissues and Secretions (lysozyme)",
+  "creator": "fleming",
+  "year": "1922",
+  "sort": 1922,
+  "type": "Scientific paper",
+  "location": "Proceedings of the Royal Society B, London",
+  "note": "Fleming's discovery of lysozyme, a natural antibacterial enzyme in tears, saliva and mucus.",
+  "description": "In 1921, while suffering from a cold, Fleming added a drop of his own nasal mucus to a culture plate of bacteria and later noticed that the bacteria around it had dissolved. He went on to show that a similar substance was present in tears, saliva, egg white, blood and many tissues, and named it lysozyme, an enzyme that breaks down the cell walls of some bacteria. He published the discovery in 1922. Lysozyme mostly attacks harmless bacteria and was of little use as a drug, but the experience of looking for natural substances that kill bacteria prepared Fleming to recognise the significance of the contaminating mould he found in 1928. Lysozyme later became important in research: it was the first enzyme whose three-dimensional structure was determined, by David Phillips's group in 1965, and it is part of the body's innate defence against infection."
+ },
+ {
+  "title": "On Formally Undecidable Propositions (incompleteness theorems)",
+  "creator": "godel",
+  "year": "1931",
+  "sort": 1931,
+  "type": "Mathematical paper",
+  "location": "Monatshefte für Mathematik und Physik, Vienna",
+  "note": "Gödel's proof that any consistent formal system that includes arithmetic contains true statements it cannot prove.",
+  "description": "Gödel's paper Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme, received in November 1930 and published in 1931, answered a central question of Hilbert's programme. Gödel showed how statements about a formal system, such as 'this formula is provable', can be encoded as statements about numbers within the system itself, by assigning a number to every symbol, formula and proof. He then constructed a statement that in effect says of itself that it is not provable. If the system is consistent, this statement can be neither proved nor disproved within it, and so is true but unprovable. This is the first incompleteness theorem. The second shows that such a system cannot prove its own consistency. The results apply to any system strong enough to express basic arithmetic, including the Principia Mathematica of Whitehead and Russell. They ended the hope of a complete and self-certifying foundation for mathematics, influenced Turing's work on computability and remain among the most discussed results in logic and philosophy."
+ },
+ {
+  "title": "On Computable Numbers, with an Application to the Entscheidungsproblem",
+  "creator": "turing",
+  "year": "1936",
+  "sort": 1936,
+  "type": "Mathematical paper",
+  "location": "Proceedings of the London Mathematical Society",
+  "note": "Turing's paper defining the Turing machine and the universal machine, and showing that some problems cannot be solved by computation.",
+  "description": "Hilbert had asked whether there is a definite mechanical procedure that can decide, for any statement of mathematical logic, whether it is provable, the Entscheidungsproblem or decision problem. To answer, Turing, aged twenty-three, analysed what a human computer does when calculating with pencil and paper, and reduced it to a simple abstract machine that reads and writes symbols on an endless tape, one square at a time, following a finite table of rules. He showed that there is a universal machine that, given the description of any other machine on its tape, can imitate it, the essential idea of the stored-program computer. He then proved that no machine can decide, for every machine, whether it will ever print a certain symbol, a result related to what is now called the halting problem, and concluded that the decision problem has no solution. Alonzo Church had reached the same conclusion by a different method shortly before. The Turing machine became the standard definition of computation and the foundation of computer science."
+ },
+ {
+  "title": "The Bombe",
+  "creator": "turing",
+  "year": "1940",
+  "sort": 1940,
+  "type": "Electromechanical codebreaking machine",
+  "location": "Bletchley Park, Buckinghamshire (working reconstruction at The National Museum of Computing)",
+  "note": "The machine designed by Turing, improved by Gordon Welchman, that found the daily settings of the German Enigma cipher.",
+  "description": "The German armed forces enciphered their messages with Enigma machines whose rotors and plugboard settings were changed daily, giving an astronomical number of possibilities. Polish mathematicians led by Marian Rejewski had broken early Enigma traffic and built a machine called the bomba, and shared their methods with Britain and France in July 1939. At Bletchley Park, Turing designed a much more powerful and general machine that tested possible rotor settings against a 'crib', a guessed fragment of plain text, using chains of logical deductions to eliminate impossible settings quickly. Gordon Welchman added the 'diagonal board', which greatly increased its power. The first Bombe, named Victory, began work in March 1940, built by the British Tabulating Machine Company, and over two hundred were in use by the end of the war, operated mostly by members of the Women's Royal Naval Service. The intelligence obtained, code-named Ultra, was vital in the Battle of the Atlantic. All the Bombes were dismantled after the war; a working reconstruction was completed in 2006."
+ },
+ {
+  "title": "Computing Machinery and Intelligence",
+  "creator": "turing",
+  "year": "1950",
+  "sort": 1950,
+  "type": "Philosophical paper",
+  "location": "Mind, Oxford",
+  "note": "Turing's paper proposing the imitation game, now known as the Turing test, as a way of asking whether machines can think.",
+  "description": "Turing opens this paper by proposing to replace the question 'Can machines think?', which he regarded as too vague to discuss, with a game: an interrogator communicates by typed messages with a human and a machine and tries to tell which is which. If the machine can play the imitation game as well as a human, he suggests, there is no good reason to deny that it thinks. He then explains what digital computers are and why one could in principle imitate any discrete machine, and answers nine objections, including theological ones, the argument from consciousness, the mathematical objection from Gödel's theorem and Lady Lovelace's objection that a machine can only do what it is told. He predicts that by about the end of the century machines would play the game well enough that general opinion would accept talk of machines thinking. He ends by proposing that, rather than programming an adult mind, it would be better to build a 'child machine' and educate it, an early statement of the idea of machine learning. The paper is a founding text of artificial intelligence."
+ },
+ {
+  "title": "A Mathematical Theory of Communication",
+  "creator": "shannon",
+  "year": "1948",
+  "sort": 1948,
+  "type": "Scientific paper",
+  "location": "Bell System Technical Journal, New York",
+  "note": "Shannon's paper founding information theory, defining the bit and the capacity of a communication channel.",
+  "description": "Published in two parts in the Bell System Technical Journal in July and October 1948, Shannon's paper set out a general mathematical model of communication: a source produces a message, a transmitter encodes it into a signal, the signal passes through a channel where noise may corrupt it, and a receiver decodes it for its destination. He defined the information produced by a source as a measure of its uncertainty, which he called entropy by analogy with physics, and measured it in binary digits, or bits, a term he credited to John Tukey. He proved that messages can be compressed down to their entropy and no further, and that every noisy channel has a capacity: below that rate, information can be transmitted with an arbitrarily small rate of error by suitable coding, while above it reliable communication is impossible. These results gave engineers the limits within which they worked and the goals to aim for, and they underlie data compression, error-correcting codes, mobile telephones, the internet and space communication. The paper was republished as a book with Warren Weaver in 1949."
+ },
+ {
+  "title": "Photo 51",
+  "creator": "rosalind-franklin",
+  "year": "1952",
+  "sort": 1952,
+  "type": "X-ray diffraction photograph",
+  "location": "King's College London; published in Nature, 25 April 1953",
+  "note": "The X-ray diffraction image of B-form DNA, made in Franklin's laboratory, whose cross pattern showed a helix.",
+  "description": "At King's College London, Franklin and her doctoral student Raymond Gosling found that DNA fibres take two forms depending on humidity, a dry crystalline A form and a wet B form, and they made very fine X-ray diffraction photographs of each. Photograph number 51, of the B form, was taken in May 1952 after an exposure of many hours. Its striking X-shaped pattern of spots indicated a helical structure, and the spacing of the layers gave its dimensions. In January 1953, after Franklin had decided to leave King's, Gosling passed the photograph to Maurice Wilkins, who showed it to James Watson without Franklin's knowledge. Watson later wrote that his mouth fell open and his pulse began to race. With Franklin's measurements, which reached Crick through a Medical Research Council report, it helped Watson and Crick build their model. The photograph was published with an article by Franklin and Gosling in the same issue of Nature as the Watson and Crick paper, and has become a symbol both of the discovery and of the debate about credit for it."
+ },
+ {
+  "title": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+  "creator": "watson",
+  "year": "1953",
+  "sort": 1953,
+  "type": "Scientific paper (with Francis Crick)",
+  "location": "Nature, London, 25 April 1953",
+  "note": "The one-page paper by Watson and Crick proposing the double-helix structure of DNA.",
+  "description": "Working at the Cavendish Laboratory in Cambridge, Watson and Crick built physical models from wire and metal plates to find a structure that fitted the chemical facts about DNA and the X-ray evidence. After a failed triple-helix model in 1951, and with the help of Franklin's Photo 51 and measurements and Erwin Chargaff's finding that DNA contains equal amounts of adenine and thymine and of guanine and cytosine, they arrived at the final model in early March 1953. In it two chains of sugars and phosphates wind around each other in opposite directions, with the bases on the inside joined in pairs, adenine with thymine and guanine with cytosine, by hydrogen bonds. The paper, little more than a page with a single diagram drawn by Crick's wife Odile, ends with a famously understated sentence noting that the specific pairing immediately suggests a possible copying mechanism for the genetic material. It appeared with supporting papers from Wilkins's and Franklin's groups. The structure explained how genes can be copied and how they can carry information, and it launched molecular biology. Watson, Crick and Wilkins shared the Nobel Prize in 1962."
+ },
+ {
+  "title": "On Protein Synthesis (the central dogma)",
+  "creator": "crick",
+  "year": "1958",
+  "sort": 1958,
+  "type": "Scientific lecture and paper",
+  "location": "Symposia of the Society for Experimental Biology, Cambridge",
+  "note": "Crick's statement of the sequence hypothesis and the central dogma: genetic information flows from nucleic acid to protein.",
+  "description": "In a lecture given at University College London in September 1957 and published in 1958, Crick set out a framework for how the information stored in DNA is used to make proteins, at a time when the details were almost entirely unknown. The sequence hypothesis proposed that the order of bases in a stretch of nucleic acid specifies the order of amino acids in a protein, and that this sequence alone determines how the protein folds. The central dogma, as he called it, stated that once information has passed into protein it cannot get out again: information may flow from nucleic acid to nucleic acid or from nucleic acid to protein, but not from protein to protein or from protein back to nucleic acid. He also proposed that small 'adaptor' molecules carry amino acids to the template, a prediction soon fulfilled by the discovery of transfer RNA. The framework guided the research of the following decade, in which the genetic code was deciphered. The discovery of reverse transcription in 1970 added a flow from RNA to DNA that Crick had allowed for."
+ }
+]
