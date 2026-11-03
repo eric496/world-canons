@@ -20,6 +20,10 @@ The texts include the oldest known manuscripts of almost every book of the Hebre
 
 ### Great Isaiah Scroll (1QIsa-a) (c. 125 BC)
 
+[![Great Isaiah Scroll (1QIsa-a)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Great_Isaiah_Scroll_MS_A_%281QIsa%29_-_Google_Art_Project.jpg/1280px-The_Great_Isaiah_Scroll_MS_A_%281QIsa%29_-_Google_Art_Project.jpg)](https://commons.wikimedia.org/wiki/File:The_Great_Isaiah_Scroll_MS_A_%281QIsa%29_-_Google_Art_Project.jpg)
+
+<sub>The Great Isaiah Scroll (1QIsa-a), Israel Museum, Jerusalem Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_Great_Isaiah_Scroll_MS_A_%281QIsa%29_-_Google_Art_Project.jpg).</sub>
+
 - **Date:** c. 125 BC
 - **Type:** Manuscript (scroll)
 - **Where written / held:** Israel Museum (Shrine of the Book), Jerusalem
@@ -28,6 +32,10 @@ The texts include the oldest known manuscripts of almost every book of the Hebre
 Found in Qumran Cave 1 in 1947, the Great Isaiah Scroll consists of seventeen sheets of parchment sewn together into a scroll over seven metres long, containing all sixty-six chapters of Isaiah in fifty-four columns. Palaeography and radiocarbon dating place it in the 2nd century BC. Its text agrees substantially with the medieval Masoretic Text, though it has thousands of minor variants in spelling and some significant differences in wording, illuminating how carefully, and with how much variation, scripture was copied. It was one of the first scrolls sold, through a dealer in Bethlehem, to the Syrian Orthodox metropolitan of Jerusalem, who later sold it to Israel in 1954. A facsimile is displayed in the Shrine of the Book, and the scroll can be viewed online in high resolution.
 
 ### Dead Sea Scrolls (c. 250 BC – AD 68)
+
+[![Dead Sea Scrolls](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dead_Sea_Scroll%2C_Pesher_Isaiah%2C_from_Qumran_Cave_4._The_Jordan_Museum%2C_Amman.jpg/1280px-Dead_Sea_Scroll%2C_Pesher_Isaiah%2C_from_Qumran_Cave_4._The_Jordan_Museum%2C_Amman.jpg)](https://commons.wikimedia.org/wiki/File:Dead_Sea_Scroll%2C_Pesher_Isaiah%2C_from_Qumran_Cave_4._The_Jordan_Museum%2C_Amman.jpg)
+
+<sub>Pesher (commentary) on Isaiah from Qumran Cave 4 (The Jordan Museum, Amman) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Dead_Sea_Scroll%2C_Pesher_Isaiah%2C_from_Qumran_Cave_4._The_Jordan_Museum%2C_Amman.jpg).</sub>
 
 - **Date:** c. 250 BC – AD 68
 - **Type:** Manuscripts (scrolls)

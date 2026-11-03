@@ -1,11 +1,15 @@
 # Hildegard of Bingen
 
+<a href="https://commons.wikimedia.org/wiki/File:Hildegard_von_Bingen.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hildegard_von_Bingen.jpg/330px-Hildegard_von_Bingen.jpg" alt="Hildegard of Bingen" title="Hildegard of Bingen receiving a vision, medieval manuscript illumination"></a>
+
 **1098 – 1179** · German  
 Born: Bermersheim, Rhineland · Died: Rupertsberg, near Bingen  
 Movements & eras: [Medieval scholasticism & mysticism](../movements/scholasticism-mysticism.md), [Monasticism](../movements/monasticism.md)  
 Also in: [Philosophy](../../philosophy/eras/02-medieval/hildegard-of-bingen.md), [Music](../../music/creators/hildegard.md)  
 
 > Benedictine abbess, visionary, composer and writer, one of the most remarkable figures of the 12th century and a doctor of the church.
+
+<sub>Portrait: Hildegard of Bingen receiving a vision, medieval manuscript illumination · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hildegard_von_Bingen.jpg)</sub>
 
 ## Biography
 
@@ -20,6 +24,10 @@ Her visionary works, Scivias, the Book of Life's Merits and the Book of Divine W
 
 ### Scivias (1141–1151)
 
+[![Scivias](https://upload.wikimedia.org/wikipedia/commons/c/ce/Meister_des_Hildegardis-Codex_001_cropped.jpg)](https://commons.wikimedia.org/wiki/File:Meister_des_Hildegardis-Codex_001_cropped.jpg)
+
+<sub>Hildegard receiving a vision, from the Rupertsberg Scivias manuscript Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Meister_des_Hildegardis-Codex_001_cropped.jpg).</sub>
+
 - **Date:** 1141–1151
 - **Type:** Visionary theology
 - **Where written / held:** Disibodenberg and Rupertsberg; the illuminated Rupertsberg manuscript survives in a 20th-century facsimile
@@ -28,6 +36,10 @@ Her visionary works, Scivias, the Book of Life's Merits and the Book of Divine W
 Scivias, short for Scito vias Domini, 'Know the ways of the Lord', records twenty-six visions in three books, each described and then explained by a heavenly voice: the first on creation and the fall, the second on redemption through Christ and the sacraments, and the third on the history of salvation and the end of the world, ending with songs of praise. Hildegard says she saw these things not in dreams or ecstasy but awake, in a 'living light'. Pope Eugenius III read part of it at the Synod of Trier in 1147–48 and encouraged her to continue. A splendid illuminated manuscript made at Rupertsberg, perhaps under her direction, was lost from Dresden in the Second World War, but survives in a hand-painted facsimile made by nuns of Eibingen in the 1920s.
 
 ### Book of Divine Works (Liber Divinorum Operum) (1163–1174)
+
+[![Book of Divine Works (Liber Divinorum Operum)](https://upload.wikimedia.org/wikipedia/commons/2/2e/Hildegard_von_Bingen_Liber_Divinorum_Operum.jpg)](https://commons.wikimedia.org/wiki/File:Hildegard_von_Bingen_Liber_Divinorum_Operum.jpg)
+
+<sub>Cosmic figure from the Lucca manuscript of the Liber Divinorum Operum Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Hildegard_von_Bingen_Liber_Divinorum_Operum.jpg).</sub>
 
 - **Date:** 1163–1174
 - **Type:** Visionary cosmology

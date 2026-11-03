@@ -16,6 +16,10 @@ Their translation, published in 1611, was slow to displace the Geneva Bible, but
 
 ### King James Version (Authorised Version) (1611)
 
+[![King James Version (Authorised Version)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/KJV-King-James-Version-Bible-first-edition-title-page-1611.jpg/960px-KJV-King-James-Version-Bible-first-edition-title-page-1611.jpg)](https://commons.wikimedia.org/wiki/File:KJV-King-James-Version-Bible-first-edition-title-page-1611.jpg)
+
+<sub>Title page of the first edition, 1611 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:KJV-King-James-Version-Bible-first-edition-title-page-1611.jpg).</sub>
+
 - **Date:** 1611
 - **Type:** Scripture (English translation)
 - **Where written / held:** Printed by Robert Barker, London

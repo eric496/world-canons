@@ -20,6 +20,10 @@ The Jerusalem Talmud was completed around 400 and the much larger Babylonian Tal
 
 ### Jerusalem Talmud (c. 350–400)
 
+[![Jerusalem Talmud](https://upload.wikimedia.org/wikipedia/commons/9/98/Yerushalmi_Talmud.jpg)](https://commons.wikimedia.org/wiki/File:Yerushalmi_Talmud.jpg)
+
+<sub>A page of the Jerusalem Talmud Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Yerushalmi_Talmud.jpg).</sub>
+
 - **Date:** c. 350–400
 - **Type:** Rabbinic commentary and law
 - **Where written / held:** Tiberias and Sepphoris, Galilee; only complete manuscript, Leiden University Library
@@ -37,6 +41,10 @@ Despite its name, the Jerusalem Talmud (Talmud Yerushalmi) was compiled in Galil
 Midrash is the rabbinic art of interpreting scripture, filling gaps in the biblical narrative, drawing out laws and morals, and linking distant verses. Midrash Rabbah is a set of ten collections on Genesis, Exodus, Leviticus, Numbers and Deuteronomy and on the Song of Songs, Ruth, Lamentations, Ecclesiastes and Esther. They were compiled at very different times: Genesis Rabbah and Leviticus Rabbah in the Land of Israel around the 5th century, others as late as the 12th. They were grouped together only in the printed editions of the 16th century. Their parables and stories, such as Abraham smashing his father's idols, became a common heritage of Jewish teaching and preaching.
 
 ### Babylonian Talmud (c. 500–600 (final editing debated))
+
+[![Babylonian Talmud](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Talmud-Druck_von_Daniel_Bomberg_und_Ambrosius_Froben.jpg/1280px-Talmud-Druck_von_Daniel_Bomberg_und_Ambrosius_Froben.jpg)](https://commons.wikimedia.org/wiki/File:Talmud-Druck_von_Daniel_Bomberg_und_Ambrosius_Froben.jpg)
+
+<sub>Pages from 16th-century printed Talmud editions by Daniel Bomberg and Ambrosius Froben Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Talmud-Druck_von_Daniel_Bomberg_und_Ambrosius_Froben.jpg).</sub>
 
 - **Date:** c. 500–600 (final editing debated)
 - **Type:** Rabbinic commentary and law

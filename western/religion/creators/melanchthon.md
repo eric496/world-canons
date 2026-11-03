@@ -1,10 +1,14 @@
 # Philip Melanchthon
 
+<a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Philipp_Melanchthon_%281497%E2%80%931560%29%2C_by_Lucas_Cranach_the_Elder_-_Gem%C3%A4ldegalerie_Alte_Meister%2C_Kassel.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Portrait_of_Philipp_Melanchthon_%281497%E2%80%931560%29%2C_by_Lucas_Cranach_the_Elder_-_Gem%C3%A4ldegalerie_Alte_Meister%2C_Kassel.jpg/330px-Portrait_of_Philipp_Melanchthon_%281497%E2%80%931560%29%2C_by_Lucas_Cranach_the_Elder_-_Gem%C3%A4ldegalerie_Alte_Meister%2C_Kassel.jpg" alt="Philip Melanchthon" title="Lucas Cranach the Elder, Philip Melanchthon (Gemäldegalerie Alte Meister, Kassel)"></a>
+
 **1497 – 1560** · German  
 Born: Bretten, Electoral Palatinate · Died: Wittenberg  
 Movements & eras: [Protestant Reformation](../movements/reformation.md)  
 
 > Humanist scholar and Luther's closest colleague, author of the Augsburg Confession and the first systematic Lutheran theology.
+
+<sub>Portrait: Lucas Cranach the Elder, Philip Melanchthon (Gemäldegalerie Alte Meister, Kassel) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_of_Philipp_Melanchthon_%281497%E2%80%931560%29%2C_by_Lucas_Cranach_the_Elder_-_Gem%C3%A4ldegalerie_Alte_Meister%2C_Kassel.jpg)</sub>
 
 ## Biography
 

@@ -16,6 +16,10 @@ Halevi wrote some 800 Hebrew poems, secular and religious, including his 'Songs 
 
 ### Kuzari (c. 1140)
 
+[![Kuzari](https://upload.wikimedia.org/wikipedia/commons/c/cc/1880_Warsaw_Kuzari2.jpg)](https://commons.wikimedia.org/wiki/File:1880_Warsaw_Kuzari2.jpg)
+
+<sub>A page of the Kuzari, Warsaw edition, 1880 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:1880_Warsaw_Kuzari2.jpg).</sub>
+
 - **Date:** c. 1140
 - **Type:** Philosophical dialogue
 - **Where written / held:** Spain; written in Judeo-Arabic, translated into Hebrew by Judah ibn Tibbon in 1167

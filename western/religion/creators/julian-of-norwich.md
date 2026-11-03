@@ -16,6 +16,10 @@ Julian wrote a short account of her visions and later a much longer one, which t
 
 ### Revelations of Divine Love (c. 1373–1410s)
 
+[![Revelations of Divine Love](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_front_page_of_Revelations_of_Divine_Love_%28c._1675%2C_Serenus_de_Cressey%29.jpg/1280px-The_front_page_of_Revelations_of_Divine_Love_%28c._1675%2C_Serenus_de_Cressey%29.jpg)](https://commons.wikimedia.org/wiki/File:The_front_page_of_Revelations_of_Divine_Love_%28c._1675%2C_Serenus_de_Cressey%29.jpg)
+
+<sub>Title page of Serenus de Cressy's first printed edition of the Revelations (1670) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_front_page_of_Revelations_of_Divine_Love_%28c._1675%2C_Serenus_de_Cressey%29.jpg).</sub>
+
 - **Date:** c. 1373–1410s
 - **Type:** Mystical writing
 - **Where written / held:** Norwich; manuscripts in the British Library and Bibliothèque nationale de France

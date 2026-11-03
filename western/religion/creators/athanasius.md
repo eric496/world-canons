@@ -1,10 +1,14 @@
 # Athanasius of Alexandria
 
+<a href="https://commons.wikimedia.org/wiki/File:Fethiye_Camii%2C_parekklesion%2C_diakonikon%2C_mosaics%2C_Istanbul%2C_Turkey_-_South_wall%2C_St._Athanasius%2C_detail_of_upper_half_-_MSBZ004_BF_T_F_027_B_-_Dumbarton_Oaks.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fethiye_Camii%2C_parekklesion%2C_diakonikon%2C_mosaics%2C_Istanbul%2C_Turkey_-_South_wall%2C_St._Athanasius%2C_detail_of_upper_half_-_MSBZ004_BF_T_F_027_B_-_Dumbarton_Oaks.jpg/330px-thumbnail.jpg" alt="Athanasius of Alexandria" title="St Athanasius, Byzantine mosaic in the Pammakaristos church (Fethiye Camii), Istanbul, early 14th century"></a>
+
 **c. 296–298 – 373** · Egyptian Greek  
 Born: Alexandria, Egypt · Died: Alexandria  
 Movements & eras: [Church Fathers & the Councils](../movements/church-fathers.md), [Monasticism](../movements/monasticism.md)  
 
 > Bishop of Alexandria and champion of the Nicene Creed against Arianism, author of On the Incarnation and the influential Life of Antony.
+
+<sub>Portrait: St Athanasius, Byzantine mosaic in the Pammakaristos church (Fethiye Camii), Istanbul, early 14th century · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fethiye_Camii%2C_parekklesion%2C_diakonikon%2C_mosaics%2C_Istanbul%2C_Turkey_-_South_wall%2C_St._Athanasius%2C_detail_of_upper_half_-_MSBZ004_BF_T_F_027_B_-_Dumbarton_Oaks.jpg)</sub>
 
 ## Biography
 

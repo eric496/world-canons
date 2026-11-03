@@ -1,11 +1,15 @@
 # Thomas Aquinas
 
+<a href="https://commons.wikimedia.org/wiki/File:St-thomas-aquinasFXD.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/330px-St-thomas-aquinasFXD.jpg" alt="Thomas Aquinas" title="Carlo Crivelli, Saint Thomas Aquinas, from the Demidoff Altarpiece, 1476 (National Gallery, London)"></a>
+
 **c. 1225 – 1274** · Italian  
 Born: Roccasecca, Kingdom of Sicily · Died: Fossanova Abbey  
 Movements & eras: [Medieval scholasticism & mysticism](../movements/scholasticism-mysticism.md), [Mendicant orders](../movements/mendicant-orders.md)  
 Also in: [Philosophy](../../philosophy/eras/02-medieval/thomas-aquinas.md)  
 
 > Dominican friar and theologian whose Summa Theologiae synthesised Christian doctrine and Aristotelian philosophy, the greatest systematic work of medieval scholasticism.
+
+<sub>Portrait: Carlo Crivelli, Saint Thomas Aquinas, from the Demidoff Altarpiece, 1476 (National Gallery, London) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:St-thomas-aquinasFXD.jpg)</sub>
 
 ## Biography
 
@@ -28,6 +32,10 @@ In the Summa contra Gentiles and the unfinished Summa Theologiae, Aquinas argued
 The Summa contra Gentiles ('against the gentiles') treats God, creation, providence and human happiness by philosophical argument in its first three books, and then truths known only by revelation, such as the Trinity and incarnation, in the fourth. A 14th-century tradition says it was written at the request of the Dominican Raymond of Peñafort as a manual for missionaries among Muslims and Jews in Spain; modern scholars debate this and see it more as an exposition of the wisdom of Christian faith in dialogue with Aristotle and his Arabic and Jewish commentators. Its third book's account of human happiness as the vision of God is a classic. Much of the autograph, in Aquinas's notoriously difficult handwriting, survives.
 
 ### Summa Theologiae (1265–1274 (unfinished))
+
+[![Summa Theologiae](https://upload.wikimedia.org/wikipedia/commons/7/78/SummaTheologiae.jpg)](https://commons.wikimedia.org/wiki/File:SummaTheologiae.jpg)
+
+<sub>An early copy of the Summa Theologiae Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:SummaTheologiae.jpg).</sub>
 
 - **Date:** 1265–1274 (unfinished)
 - **Type:** Systematic theology

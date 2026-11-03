@@ -1,10 +1,14 @@
 # Paul the Apostle
 
+<a href="https://commons.wikimedia.org/wiki/File:Fresco_of_Saint_Paul_at_Ephesus.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg" alt="Paul the Apostle" title="Saint Paul, fresco in the so-called Grotto of St Paul, Ephesus, c. 6th century"></a>
+
 **c. AD 5 – c. 64–67** · Jewish, Roman citizen  
 Born: Tarsus, Cilicia · Died: Rome  
 Movements & eras: [Early Christianity & the New Testament](../movements/early-christianity.md)  
 
 > Jewish Pharisee turned apostle of Christ to the gentiles, whose letters are the earliest Christian writings and the foundation of much Christian theology.
+
+<sub>Portrait: Saint Paul, fresco in the so-called Grotto of St Paul, Ephesus, c. 6th century · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fresco_of_Saint_Paul_at_Ephesus.jpg)</sub>
 
 ## Biography
 
@@ -20,6 +24,10 @@ Thirteen New Testament letters bear Paul's name. Scholars broadly agree that sev
 
 ### Epistle to the Galatians (c. AD 48–55)
 
+[![Epistle to the Galatians](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._158r_Eph_6%2C_20%E2%80%93Gal_1%2C_8.jpg/960px-Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._158r_Eph_6%2C_20%E2%80%93Gal_1%2C_8.jpg)](https://commons.wikimedia.org/wiki/File:Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._158r_Eph_6%2C_20%E2%80%93Gal_1%2C_8.jpg)
+
+<sub>The end of Ephesians and opening of Galatians in Papyrus 46, c. 200 (University of Michigan) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._158r_Eph_6%2C_20%E2%80%93Gal_1%2C_8.jpg).</sub>
+
 - **Date:** c. AD 48–55
 - **Type:** Scripture (letter)
 - **Where written / held:** Written to churches in Galatia, Asia Minor
@@ -29,6 +37,10 @@ Galatians was written to churches in central Asia Minor that had been visited by
 
 ### First Epistle to the Corinthians (c. AD 53–55)
 
+[![First Epistle to the Corinthians](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._79v_1_Cor_2%2C_11%E2%80%933%2C_5.jpg/960px-Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._79v_1_Cor_2%2C_11%E2%80%933%2C_5.jpg)](https://commons.wikimedia.org/wiki/File:Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._79v_1_Cor_2%2C_11%E2%80%933%2C_5.jpg)
+
+<sub>1 Corinthians 2–3 in Papyrus 46, c. 200 (University of Michigan) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Ann_Arbor%2C_University_of_Michigan_P.Mich.inv._6238_%28Papyrus_46%29_fol._79v_1_Cor_2%2C_11%E2%80%933%2C_5.jpg).</sub>
+
 - **Date:** c. AD 53–55
 - **Type:** Scripture (letter)
 - **Where written / held:** Written in Ephesus to the church in Corinth
@@ -37,6 +49,10 @@ Galatians was written to churches in central Asia Minor that had been visited by
 Paul wrote this letter from Ephesus to the church he had founded in Corinth, a cosmopolitan Greek port, in response to reports of factions and to questions the Corinthians had sent him. He addresses rivalries among followers of different leaders, sexual morality, marriage and celibacy, eating food offered to idols, the conduct of worship and spiritual gifts such as speaking in tongues. Chapter 11 contains the earliest written account of the words of Jesus at the Last Supper, and chapter 15 lists witnesses of the risen Christ and argues for the bodily resurrection. Chapter 13, 'love is patient, love is kind', is among the best-known passages in the Bible. The letter offers a rare window into the life of an early Christian community. Some passages, notably on women keeping silent in church, are debated, with some scholars considering them later insertions.
 
 ### Epistle to the Romans (c. AD 57)
+
+[![Epistle to the Romans](https://upload.wikimedia.org/wikipedia/commons/e/e3/Uncial_0220_Rom-4.23-5.3.jpg)](https://commons.wikimedia.org/wiki/File:Uncial_0220_Rom-4.23-5.3.jpg)
+
+<sub>Uncial 0220, an early parchment leaf of Romans 4–5 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Uncial_0220_Rom-4.23-5.3.jpg).</sub>
 
 - **Date:** c. AD 57
 - **Type:** Scripture (letter)

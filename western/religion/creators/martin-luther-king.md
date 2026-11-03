@@ -19,6 +19,10 @@ King's thought combined the Black church tradition, the social gospel, the perso
 
 ### Letter from Birmingham Jail (1963)
 
+[![Letter from Birmingham Jail](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Recreation_of_Martin_Luther_King%27s_Cell_in_Birmingham_Jail_-_National_Civil_Rights_Museum_-_Downtown_Memphis_-_Tennessee_-_USA.jpg/1280px-Recreation_of_Martin_Luther_King%27s_Cell_in_Birmingham_Jail_-_National_Civil_Rights_Museum_-_Downtown_Memphis_-_Tennessee_-_USA.jpg)](https://commons.wikimedia.org/wiki/File:Recreation_of_Martin_Luther_King%27s_Cell_in_Birmingham_Jail_-_National_Civil_Rights_Museum_-_Downtown_Memphis_-_Tennessee_-_USA.jpg)
+
+<sub>Recreation of King's cell in the Birmingham jail, National Civil Rights Museum, Memphis Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Recreation_of_Martin_Luther_King%27s_Cell_in_Birmingham_Jail_-_National_Civil_Rights_Museum_-_Downtown_Memphis_-_Tennessee_-_USA.jpg).</sub>
+
 - **Date:** 1963
 - **Type:** Open letter
 - **Where written / held:** Written in Birmingham City Jail, Alabama

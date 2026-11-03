@@ -22,6 +22,10 @@ Protestant churches likewise defined their faith through synods and assemblies, 
 
 ### Nicene Creed (325; expanded 381)
 
+[![Nicene Creed](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nicaea_icon.jpg/960px-Nicaea_icon.jpg)](https://commons.wikimedia.org/wiki/File:Nicaea_icon.jpg)
+
+<sub>Icon of the First Council of Nicaea, with the creed Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Nicaea_icon.jpg).</sub>
+
 - **Date:** 325; expanded 381
 - **Type:** Creed
 - **Where written / held:** Councils of Nicaea (325) and Constantinople (381)
@@ -40,6 +44,10 @@ The Council of Chalcedon was called by the emperor Marcian in 451, after decades
 
 ### Decrees of the Council of Trent (1545–1563)
 
+[![Decrees of the Council of Trent](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Concilio_Trento_Museo_Buonconsiglio.jpg/1280px-Concilio_Trento_Museo_Buonconsiglio.jpg)](https://commons.wikimedia.org/wiki/File:Concilio_Trento_Museo_Buonconsiglio.jpg)
+
+<sub>A session of the Council of Trent, painting in the Castello del Buonconsiglio, Trento Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Concilio_Trento_Museo_Buonconsiglio.jpg).</sub>
+
 - **Date:** 1545–1563
 - **Type:** Conciliar decrees
 - **Where written / held:** Trento (Trent), Prince-Bishopric of Trent
@@ -49,6 +57,10 @@ The Council of Trent met in three periods between 1545 and 1563, interrupted by 
 
 ### Heidelberg Catechism (1563)
 
+[![Heidelberg Catechism](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Heidelberger_Katechismus_1563_%282%29.jpg/960px-Heidelberger_Katechismus_1563_%282%29.jpg)](https://commons.wikimedia.org/wiki/File:Heidelberger_Katechismus_1563_%282%29.jpg)
+
+<sub>The first edition of the Heidelberg Catechism, 1563 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Heidelberger_Katechismus_1563_%282%29.jpg).</sub>
+
 - **Date:** 1563
 - **Type:** Catechism
 - **Where written / held:** Heidelberg, Electoral Palatinate
@@ -57,6 +69,10 @@ The Council of Trent met in three periods between 1545 and 1563, interrupted by 
 Commissioned by the Elector Frederick III of the Palatinate and published in 1563, the Heidelberg Catechism was drafted mainly by the theologian Zacharias Ursinus, with Caspar Olevianus and others, though the extent of each person's contribution is debated. Its 129 questions open with 'What is your only comfort in life and death?', answered with the believer's belonging to Christ. It is organised in three parts: human misery, deliverance through Christ, and gratitude, expressed in the Ten Commandments and the Lord's Prayer, and divided into fifty-two 'Lord's Days' for preaching through the year. Approved by the Synod of Dort, it became one of the most widely used Reformed confessions in the Netherlands, Germany, Hungary and North America.
 
 ### Westminster Confession of Faith (1646)
+
+[![Westminster Confession of Faith](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Westminster_Confession_of_Faith_title_page.jpg/960px-Westminster_Confession_of_Faith_title_page.jpg)](https://commons.wikimedia.org/wiki/File:Westminster_Confession_of_Faith_title_page.jpg)
+
+<sub>Title page of the Westminster Confession of Faith Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Westminster_Confession_of_Faith_title_page.jpg).</sub>
 
 - **Date:** 1646
 - **Type:** Confession of faith

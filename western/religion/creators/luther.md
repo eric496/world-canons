@@ -1,10 +1,14 @@
 # Martin Luther
 
+<a href="https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg/330px-Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg" alt="Martin Luther" title="Lucas Cranach the Elder, Martin Luther, 1528 (Veste Coburg)"></a>
+
 **1483 – 1546** · German  
 Born: Eisleben, Saxony · Died: Eisleben  
 Movements & eras: [Protestant Reformation](../movements/reformation.md)  
 
 > Augustinian friar and theology professor at Wittenberg whose challenge to papal authority and teaching of justification by faith began the Protestant Reformation.
+
+<sub>Portrait: Lucas Cranach the Elder, Martin Luther, 1528 (Veste Coburg) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg)</sub>
 
 ## Biography
 
@@ -22,6 +26,10 @@ Luther's writings, from the reforming treatises of 1520 to his catechisms, hymns
 
 ### Ninety-five Theses (1517)
 
+[![Ninety-five Theses](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Luther_95_Thesen.png/960px-Luther_95_Thesen.png)](https://commons.wikimedia.org/wiki/File:Luther_95_Thesen.png)
+
+<sub>An early printing of the Ninety-five Theses Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Luther_95_Thesen.png).</sub>
+
 - **Date:** 1517
 - **Type:** Academic disputation theses
 - **Where written / held:** Wittenberg; printed in Nuremberg, Leipzig and Basel, 1517
@@ -30,6 +38,10 @@ Luther's writings, from the reforming treatises of 1520 to his catechisms, hymns
 On 31 October 1517 Luther sent a letter to Archbishop Albrecht of Mainz protesting the preaching of indulgences by the Dominican Johann Tetzel, enclosing ninety-five Latin theses for academic debate. The famous story that he nailed them to the door of the Castle Church in Wittenberg comes from Melanchthon after Luther's death; historians debate whether it happened, though posting theses on the church door was a normal way of announcing a disputation. The theses questioned the pope's power over purgatory and the value of indulgences, insisting that the true treasure of the church is the gospel. Printed and translated into German, they spread across Germany within weeks. The ensuing controversy led to Luther's excommunication in 1521. 31 October is commemorated as Reformation Day, and the 500th anniversary in 2017 was marked jointly by Lutherans and Catholics.
 
 ### On the Freedom of a Christian (1520)
+
+[![On the Freedom of a Christian](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Von_der_Freiheit_eines_Christenmenschen.jpg/960px-Von_der_Freiheit_eines_Christenmenschen.jpg)](https://commons.wikimedia.org/wiki/File:Von_der_Freiheit_eines_Christenmenschen.jpg)
+
+<sub>Title page of an early printing of Von der Freiheit eines Christenmenschen Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Von_der_Freiheit_eines_Christenmenschen.jpg).</sub>
 
 - **Date:** 1520
 - **Type:** Treatise
@@ -40,6 +52,10 @@ One of three great reform treatises of 1520, together with the Address to the Ch
 
 ### A Mighty Fortress Is Our God (Ein feste Burg) (c. 1527–1529)
 
+[![A Mighty Fortress Is Our God (Ein feste Burg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Walter_Ein_feste_manuscript_folio_154v.jpg/1280px-Walter_Ein_feste_manuscript_folio_154v.jpg)](https://commons.wikimedia.org/wiki/File:Walter_Ein_feste_manuscript_folio_154v.jpg)
+
+<sub>Ein feste Burg in a manuscript associated with Johann Walter Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Walter_Ein_feste_manuscript_folio_154v.jpg).</sub>
+
 - **Date:** c. 1527–1529
 - **Type:** Hymn
 - **Where written / held:** Wittenberg; earliest surviving printing in a 1531 hymnal
@@ -49,6 +65,10 @@ Luther wrote some three dozen hymns, believing that congregations should sing in
 
 ### Small Catechism (1529)
 
+[![Small Catechism](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Der_kleine_Catechismus_1535.jpg/960px-Der_kleine_Catechismus_1535.jpg)](https://commons.wikimedia.org/wiki/File:Der_kleine_Catechismus_1535.jpg)
+
+<sub>Luther's Small Catechism, edition of 1535 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Der_kleine_Catechismus_1535.jpg).</sub>
+
 - **Date:** 1529
 - **Type:** Catechism
 - **Where written / held:** Wittenberg
@@ -57,6 +77,10 @@ Luther wrote some three dozen hymns, believing that congregations should sing in
 Shocked by the ignorance he found visiting Saxon parishes in 1528, Luther wrote two catechisms: the Large Catechism for pastors and the Small Catechism for heads of households to teach their families. In simple question-and-answer form, with the recurring question 'What does this mean?', it explains the Commandments, the Apostles' Creed, the Lord's Prayer, baptism, confession and the Lord's Supper, and adds prayers for morning, evening and meals. It became part of the Lutheran confessional writings in the Book of Concord (1580) and has been memorised by generations of Lutherans, one of the most widely printed books of the Reformation.
 
 ### Luther Bible (1522 (New Testament); 1534 (complete Bible))
+
+[![Luther Bible](https://upload.wikimedia.org/wikipedia/commons/0/03/Lutherbibel.jpg)](https://commons.wikimedia.org/wiki/File:Lutherbibel.jpg)
+
+<sub>Title page of the Luther Bible Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Lutherbibel.jpg).</sub>
 
 - **Date:** 1522 (New Testament); 1534 (complete Bible)
 - **Type:** Scripture (German translation)

@@ -1,10 +1,14 @@
 # Jacobus de Voragine
 
+<a href="https://commons.wikimedia.org/wiki/File:PalazzoTrinci010_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/5/52/PalazzoTrinci010_%28cropped%29.jpg" alt="Jacobus de Voragine" title="Jacobus de Voragine, fresco in the Palazzo Trinci, Foligno"></a>
+
 **c. 1230 – 1298** · Italian  
 Born: Varazze, Liguria · Died: Genoa  
 Movements & eras: [Mendicant orders](../movements/mendicant-orders.md)  
 
 > Dominican friar and archbishop of Genoa who compiled the Golden Legend, the most popular collection of saints' lives in the Middle Ages.
+
+<sub>Portrait: Jacobus de Voragine, fresco in the Palazzo Trinci, Foligno · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PalazzoTrinci010_%28cropped%29.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ His Legenda aurea, compiled around 1260, retells the lives of the saints and the
 ## Key texts & works
 
 ### Golden Legend (Legenda aurea) (c. 1260)
+
+[![Golden Legend (Legenda aurea)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Umbria%2C_jacopo_da_varazze%2C_leggenda_aurea%2C_1290_ca._01.jpg/1280px-Umbria%2C_jacopo_da_varazze%2C_leggenda_aurea%2C_1290_ca._01.jpg)](https://commons.wikimedia.org/wiki/File:Umbria%2C_jacopo_da_varazze%2C_leggenda_aurea%2C_1290_ca._01.jpg)
+
+<sub>An Umbrian manuscript of the Golden Legend, c. 1290 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Umbria%2C_jacopo_da_varazze%2C_leggenda_aurea%2C_1290_ca._01.jpg).</sub>
 
 - **Date:** c. 1260
 - **Type:** Hagiography

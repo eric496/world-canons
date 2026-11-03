@@ -20,6 +20,10 @@ Most icon painters did not sign their work, seeing themselves as transmitting a 
 
 ### Christ Pantocrator of Sinai (6th century)
 
+[![Christ Pantocrator of Sinai](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Spas_vsederzhitel_sinay.jpg/960px-Spas_vsederzhitel_sinay.jpg)](https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay.jpg)
+
+<sub>Christ Pantocrator, 6th century, St Catherine's Monastery, Sinai Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay.jpg).</sub>
+
 - **Date:** 6th century
 - **Type:** Icon (encaustic on panel)
 - **Where written / held:** St Catherine's Monastery, Mount Sinai, Egypt
@@ -29,6 +33,10 @@ This icon, about 84 centimetres high, shows Christ as Pantocrator, 'ruler of all
 
 ### Theotokos of Vladimir (c. 1130)
 
+[![Theotokos of Vladimir](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Virgin_of_Vladimir.jpg/960px-Virgin_of_Vladimir.jpg)](https://commons.wikimedia.org/wiki/File:Virgin_of_Vladimir.jpg)
+
+<sub>The Theotokos of Vladimir, c. 1130 (Tretyakov Gallery, Moscow) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Virgin_of_Vladimir.jpg).</sub>
+
 - **Date:** c. 1130
 - **Type:** Icon (tempera on panel)
 - **Where written / held:** State Tretyakov Gallery (Church of St Nicholas in Tolmachi), Moscow
@@ -37,6 +45,10 @@ This icon, about 84 centimetres high, shows Christ as Pantocrator, 'ruler of all
 Painted in Constantinople around 1130, this icon was sent to Kievan Rus' and taken in 1155 by Prince Andrei Bogolyubsky to Vladimir, where it gave the icon its name. It shows the Virgin and Child cheek to cheek, a type called Eleousa ('tenderness' or 'mercy'), with Mary's sorrowful gaze seeming to foresee the Passion. Only the faces are original; the rest was repainted over the centuries. Brought to Moscow in 1395, it was credited with protecting the city from Tamerlane and other invaders and became a national palladium, used at coronations. After the Revolution it entered the Tretyakov Gallery and is today displayed in the gallery's church so that it may be both seen and venerated. It is regarded as one of the masterpieces of Byzantine painting.
 
 ### Deësis mosaic, Hagia Sophia (c. 1261)
+
+[![Deësis mosaic, Hagia Sophia](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Deesis_mosaic_Hagia_Sophia.jpg/1280px-Deesis_mosaic_Hagia_Sophia.jpg)](https://commons.wikimedia.org/wiki/File:Deesis_mosaic_Hagia_Sophia.jpg)
+
+<sub>The Deësis mosaic in the south gallery of Hagia Sophia, Istanbul Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Deesis_mosaic_Hagia_Sophia.jpg).</sub>
 
 - **Date:** c. 1261
 - **Type:** Mosaic

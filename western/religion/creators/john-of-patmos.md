@@ -15,6 +15,10 @@ Revelation is usually dated to the end of the reign of Domitian, around AD 95, t
 
 ### Book of Revelation (c. AD 95)
 
+[![Book of Revelation](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dublin%2C_Chester_Beatty_Ms_Chester_Beatty_III_Papyrus_47_fol._7r_Rev_13%2C16-14.jpg/960px-Dublin%2C_Chester_Beatty_Ms_Chester_Beatty_III_Papyrus_47_fol._7r_Rev_13%2C16-14.jpg)](https://commons.wikimedia.org/wiki/File:Dublin%2C_Chester_Beatty_Ms_Chester_Beatty_III_Papyrus_47_fol._7r_Rev_13%2C16-14.jpg)
+
+<sub>Revelation 13–14 in Papyrus 47, 3rd century (Chester Beatty Library, Dublin) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Dublin%2C_Chester_Beatty_Ms_Chester_Beatty_III_Papyrus_47_fol._7r_Rev_13%2C16-14.jpg).</sub>
+
 - **Date:** c. AD 95
 - **Type:** Scripture (apocalypse)
 - **Where written / held:** Written on Patmos to seven churches of Asia Minor

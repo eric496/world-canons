@@ -21,6 +21,10 @@ Each Gospel has a distinct character: Mark's urgent narrative, Matthew's links t
 
 ### Gospel of Mark (c. AD 66–75)
 
+[![Gospel of Mark](https://upload.wikimedia.org/wikipedia/commons/8/8b/Mark_16_first_lines%2C_Codex_Sinaiticus.png)](https://commons.wikimedia.org/wiki/File:Mark_16_first_lines%2C_Codex_Sinaiticus.png)
+
+<sub>Mark 16 in Codex Sinaiticus, 4th century Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Mark_16_first_lines%2C_Codex_Sinaiticus.png).</sub>
+
 - **Date:** c. AD 66–75
 - **Type:** Scripture (gospel)
 - **Where written / held:** Probably Rome or Syria
@@ -29,6 +33,10 @@ Each Gospel has a distinct character: Mark's urgent narrative, Matthew's links t
 Mark begins abruptly with John the Baptist and Jesus's baptism, and moves rapidly, often linking scenes with 'immediately', through Jesus's healings, exorcisms, parables and conflicts in Galilee to his journey to Jerusalem, his passion and his death on the cross. Throughout, Jesus tells those who recognise him to keep silent, a theme scholars call the 'messianic secret'. The earliest manuscripts end at 16:8, with women fleeing the empty tomb in fear; the longer endings found in later manuscripts are generally regarded as additions. Early tradition, reported by Papias in the 2nd century, held that Mark was Peter's interpreter in Rome; modern scholars date it around the Jewish war of 66–73, and debate whether it was written in Rome, Syria or Galilee. Most accept 'Markan priority', the view that Matthew and Luke used Mark as a source, which made this neglected Gospel central to modern study of the historical Jesus.
 
 ### Gospel of Matthew (c. AD 80–90)
+
+[![Gospel of Matthew](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Oxford%2C_Sackler_Library_Ms_LXIV_4404_%28Papyrus_104%29_recto_Matt_21%2C_34-37.jpg/1280px-Oxford%2C_Sackler_Library_Ms_LXIV_4404_%28Papyrus_104%29_recto_Matt_21%2C_34-37.jpg)](https://commons.wikimedia.org/wiki/File:Oxford%2C_Sackler_Library_Ms_LXIV_4404_%28Papyrus_104%29_recto_Matt_21%2C_34-37.jpg)
+
+<sub>Papyrus 104, an early fragment of Matthew 21 (Sackler Library, Oxford) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Oxford%2C_Sackler_Library_Ms_LXIV_4404_%28Papyrus_104%29_recto_Matt_21%2C_34-37.jpg).</sub>
 
 - **Date:** c. AD 80–90
 - **Type:** Scripture (gospel)
@@ -39,6 +47,10 @@ Matthew opens with a genealogy tracing Jesus to Abraham and David and with the s
 
 ### Gospel of Luke and Acts of the Apostles (c. AD 80–95)
 
+[![Gospel of Luke and Acts of the Apostles](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Luke_13.29-35_and_14.10_%28CBL_BP_I%2C_f.15r%29.jpg/1280px-Luke_13.29-35_and_14.10_%28CBL_BP_I%2C_f.15r%29.jpg)](https://commons.wikimedia.org/wiki/File:Luke_13.29-35_and_14.10_%28CBL_BP_I%2C_f.15r%29.jpg)
+
+<sub>Luke 13–14 in a 3rd-century papyrus codex (Chester Beatty Library, Dublin) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Luke_13.29-35_and_14.10_%28CBL_BP_I%2C_f.15r%29.jpg).</sub>
+
 - **Date:** c. AD 80–95
 - **Type:** Scripture (gospel and history)
 - **Where written / held:** Probably the Aegean or Rome
@@ -47,6 +59,10 @@ Matthew opens with a genealogy tracing Jesus to Abraham and David and with the s
 Luke and Acts, addressed to a certain Theophilus, were written as a single work by the same author. The Gospel gives the fullest account of Jesus's birth, with the annunciation, the shepherds and the canticles of Mary and Zechariah, and includes parables found only in Luke, such as the Good Samaritan and the Prodigal Son, with a marked concern for the poor, women and outsiders. Acts continues with the ascension, the coming of the Spirit at Pentecost, the growth of the Jerusalem church, and the missions of Peter and above all Paul, ending with Paul preaching under house arrest in Rome. Tradition identified the author as Luke, the physician and companion of Paul; the 'we' passages in Acts have been read as eyewitness memory or as a literary device. Most scholars date the work to around 80–95. Acts is the main source, though one whose historical reliability is debated, for the first decades of the church.
 
 ### Gospel of John (c. AD 90–110)
+
+[![Gospel of John](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/JRL19060215_%28cropped%29.jpg/960px-JRL19060215_%28cropped%29.jpg)](https://commons.wikimedia.org/wiki/File:JRL19060215_%28cropped%29.jpg)
+
+<sub>Rylands Papyrus P52, a small early fragment of John 18 (John Rylands Library, Manchester) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:JRL19060215_%28cropped%29.jpg).</sub>
 
 - **Date:** c. AD 90–110
 - **Type:** Scripture (gospel)

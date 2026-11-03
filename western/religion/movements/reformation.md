@@ -8,32 +8,32 @@ Building on humanist scholarship and earlier reform movements, Luther, Zwingli, 
 
 ## Figures
 
--  [Johannes Gutenberg](../creators/gutenberg.md) (c. 1400 – 1468)
--  [Desiderius Erasmus](../creators/erasmus.md) (c. 1466 – 1536)
--  [Martin Luther](../creators/luther.md) (1483 – 1546)
--  [Thomas Cranmer](../creators/cranmer.md) (1489 – 1556)
--  [William Tyndale](../creators/tyndale.md) (c. 1494 – 1536)
--  [Philip Melanchthon](../creators/melanchthon.md) (1497 – 1560)
--  [John Calvin](../creators/calvin.md) (1509 – 1564)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg" width="40" alt="Johannes Gutenberg"> [Johannes Gutenberg](../creators/gutenberg.md) (c. 1400 – 1468)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holbein-erasmus.jpg/330px-Holbein-erasmus.jpg" width="40" alt="Desiderius Erasmus"> [Desiderius Erasmus](../creators/erasmus.md) (c. 1466 – 1536)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg/330px-Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg" width="40" alt="Martin Luther"> [Martin Luther](../creators/luther.md) (1483 – 1546)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Thomas_Cranmer_by_Gerlach_Flicke.jpg/330px-Thomas_Cranmer_by_Gerlach_Flicke.jpg" width="40" alt="Thomas Cranmer"> [Thomas Cranmer](../creators/cranmer.md) (1489 – 1556)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beza%27s_Icones%2C_contemporary_portraits_of_reformers_of_religion_and_letters_-_William_Tindale_on_Page_58.jpg/330px-Beza%27s_Icones%2C_contemporary_portraits_of_reformers_of_religion_and_letters_-_William_Tindale_on_Page_58.jpg" width="40" alt="William Tyndale"> [William Tyndale](../creators/tyndale.md) (c. 1494 – 1536)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Portrait_of_Philipp_Melanchthon_%281497%E2%80%931560%29%2C_by_Lucas_Cranach_the_Elder_-_Gem%C3%A4ldegalerie_Alte_Meister%2C_Kassel.jpg/330px-Portrait_of_Philipp_Melanchthon_%281497%E2%80%931560%29%2C_by_Lucas_Cranach_the_Elder_-_Gem%C3%A4ldegalerie_Alte_Meister%2C_Kassel.jpg" width="40" alt="Philip Melanchthon"> [Philip Melanchthon](../creators/melanchthon.md) (1497 – 1560)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png/330px-John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png" width="40" alt="John Calvin"> [John Calvin](../creators/calvin.md) (1509 – 1564)
 
 ## Key texts & works
 
 | Image | Year | Text / work | Author / figure | Where written / held |
 |---|---|---|---|---|
-| — | c. 1454–1455 | **Gutenberg Bible** | [Johannes Gutenberg](../creators/gutenberg.md) | Copies in the Library of Congress, British Library, Bibliothèque nationale de France, Mainz Gutenberg Museum and elsewhere |
-| — | 1503 | **Enchiridion militis Christiani (Handbook of the Christian Soldier)** | [Desiderius Erasmus](../creators/erasmus.md) | First published Antwerp |
-| — | 1516 | **Novum Instrumentum omne (Greek New Testament)** | [Desiderius Erasmus](../creators/erasmus.md) | Printed by Johann Froben, Basel |
-| — | 1517 | **Ninety-five Theses** | [Martin Luther](../creators/luther.md) | Wittenberg; printed in Nuremberg, Leipzig and Basel, 1517 |
-| — | 1520 | **On the Freedom of a Christian** | [Martin Luther](../creators/luther.md) | Wittenberg |
+| <a href="https://commons.wikimedia.org/wiki/File:Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/330px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg" width="140" alt="Gutenberg Bible"></a> | c. 1454–1455 | **Gutenberg Bible** | [Johannes Gutenberg](../creators/gutenberg.md) | Copies in the Library of Congress, British Library, Bibliothèque nationale de France, Mainz Gutenberg Museum and elsewhere |
+| <a href="https://commons.wikimedia.org/wiki/File:Erasmo_de_R%C3%B3terdam_%281528%29_Manual_del_caballero_cristiano.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Erasmo_de_R%C3%B3terdam_%281528%29_Manual_del_caballero_cristiano.png/330px-Erasmo_de_R%C3%B3terdam_%281528%29_Manual_del_caballero_cristiano.png" width="140" alt="Enchiridion militis Christiani (Handbook of the Christian Soldier)"></a> | 1503 | **Enchiridion militis Christiani (Handbook of the Christian Soldier)** | [Desiderius Erasmus](../creators/erasmus.md) | First published Antwerp |
+| <a href="https://commons.wikimedia.org/wiki/File:Erasmus_1516_title_page.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Erasmus_1516_title_page.JPG/330px-Erasmus_1516_title_page.JPG" width="140" alt="Novum Instrumentum omne (Greek New Testament)"></a> | 1516 | **Novum Instrumentum omne (Greek New Testament)** | [Desiderius Erasmus](../creators/erasmus.md) | Printed by Johann Froben, Basel |
+| <a href="https://commons.wikimedia.org/wiki/File:Luther_95_Thesen.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Luther_95_Thesen.png/330px-Luther_95_Thesen.png" width="140" alt="Ninety-five Theses"></a> | 1517 | **Ninety-five Theses** | [Martin Luther](../creators/luther.md) | Wittenberg; printed in Nuremberg, Leipzig and Basel, 1517 |
+| <a href="https://commons.wikimedia.org/wiki/File:Von_der_Freiheit_eines_Christenmenschen.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Von_der_Freiheit_eines_Christenmenschen.jpg/330px-Von_der_Freiheit_eines_Christenmenschen.jpg" width="140" alt="On the Freedom of a Christian"></a> | 1520 | **On the Freedom of a Christian** | [Martin Luther](../creators/luther.md) | Wittenberg |
 | — | 1521 | **Loci communes** | [Philip Melanchthon](../creators/melanchthon.md) | Wittenberg |
-| — | 1526 | **Tyndale New Testament** | [William Tyndale](../creators/tyndale.md) | Printed by Peter Schöffer, Worms; copies in the British Library and Stuttgart |
-| — | c. 1527–1529 | **A Mighty Fortress Is Our God (Ein feste Burg)** | [Martin Luther](../creators/luther.md) | Wittenberg; earliest surviving printing in a 1531 hymnal |
-| — | 1529 | **Small Catechism** | [Martin Luther](../creators/luther.md) | Wittenberg |
+| <a href="https://commons.wikimedia.org/wiki/File:Tyndale_Bible_-_Gospel_of_John.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Tyndale_Bible_-_Gospel_of_John.jpg" width="140" alt="Tyndale New Testament"></a> | 1526 | **Tyndale New Testament** | [William Tyndale](../creators/tyndale.md) | Printed by Peter Schöffer, Worms; copies in the British Library and Stuttgart |
+| <a href="https://commons.wikimedia.org/wiki/File:Walter_Ein_feste_manuscript_folio_154v.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Walter_Ein_feste_manuscript_folio_154v.jpg/330px-Walter_Ein_feste_manuscript_folio_154v.jpg" width="140" alt="A Mighty Fortress Is Our God (Ein feste Burg)"></a> | c. 1527–1529 | **A Mighty Fortress Is Our God (Ein feste Burg)** | [Martin Luther](../creators/luther.md) | Wittenberg; earliest surviving printing in a 1531 hymnal |
+| <a href="https://commons.wikimedia.org/wiki/File:Der_kleine_Catechismus_1535.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Der_kleine_Catechismus_1535.jpg/330px-Der_kleine_Catechismus_1535.jpg" width="140" alt="Small Catechism"></a> | 1529 | **Small Catechism** | [Martin Luther](../creators/luther.md) | Wittenberg |
 | — | 1530 | **Augsburg Confession** | [Philip Melanchthon](../creators/melanchthon.md) | Presented at the Diet of Augsburg, 25 June 1530 |
-| — | 1522 (New Testament); 1534 (complete Bible) | **Luther Bible** | [Martin Luther](../creators/luther.md) | Printed by Hans Lufft, Wittenberg; illustrated with woodcuts from the Cranach workshop |
-| — | 1549; revised 1552 and 1662 | **Book of Common Prayer** | [Thomas Cranmer](../creators/cranmer.md) | London; first printed by Edward Whitchurch and Richard Grafton, 1549 |
-| — | 1536; final edition 1559 | **Institutes of the Christian Religion** | [John Calvin](../creators/calvin.md) | First edition printed in Basel, 1536; final Latin edition Geneva, 1559 |
-| — | 1539–1562 | **Genevan Psalter** | [John Calvin](../creators/calvin.md) | Geneva (complete edition 1562) |
+| <a href="https://commons.wikimedia.org/wiki/File:Lutherbibel.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Lutherbibel.jpg" width="140" alt="Luther Bible"></a> | 1522 (New Testament); 1534 (complete Bible) | **Luther Bible** | [Martin Luther](../creators/luther.md) | Printed by Hans Lufft, Wittenberg; illustrated with woodcuts from the Cranach workshop |
+| <a href="https://commons.wikimedia.org/wiki/File:Book_of_Common_Prayer%2C_1549_%282%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Book_of_Common_Prayer%2C_1549_%282%29.jpg" width="140" alt="Book of Common Prayer"></a> | 1549; revised 1552 and 1662 | **Book of Common Prayer** | [Thomas Cranmer](../creators/cranmer.md) | London; first printed by Edward Whitchurch and Richard Grafton, 1549 |
+| <a href="https://commons.wikimedia.org/wiki/File:CalvinInstitutio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/CalvinInstitutio.jpg/330px-CalvinInstitutio.jpg" width="140" alt="Institutes of the Christian Religion"></a> | 1536; final edition 1559 | **Institutes of the Christian Religion** | [John Calvin](../creators/calvin.md) | First edition printed in Basel, 1536; final Latin edition Geneva, 1559 |
+| <a href="https://commons.wikimedia.org/wiki/File:Psautier_huguenot_title_1539.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Psautier_huguenot_title_1539.jpg" width="140" alt="Genevan Psalter"></a> | 1539–1562 | **Genevan Psalter** | [John Calvin](../creators/calvin.md) | Geneva (complete edition 1562) |
 
 ---
 [← Medieval Jewish thought](medieval-jewish-thought.md) · [Religion](../README.md) · [Catholic Reformation →](catholic-reformation.md)

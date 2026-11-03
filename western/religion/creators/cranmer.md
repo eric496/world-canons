@@ -1,10 +1,14 @@
 # Thomas Cranmer
 
+<a href="https://commons.wikimedia.org/wiki/File:Thomas_Cranmer_by_Gerlach_Flicke.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Thomas_Cranmer_by_Gerlach_Flicke.jpg/330px-Thomas_Cranmer_by_Gerlach_Flicke.jpg" alt="Thomas Cranmer" title="Gerlach Flicke, Thomas Cranmer, 1545 (National Portrait Gallery, London)"></a>
+
 **1489 – 1556** · English  
 Born: Aslockton, Nottinghamshire · Died: Oxford  
 Movements & eras: [Protestant Reformation](../movements/reformation.md)  
 
 > Archbishop of Canterbury under Henry VIII and Edward VI who led the English Reformation and composed the Book of Common Prayer.
+
+<sub>Portrait: Gerlach Flicke, Thomas Cranmer, 1545 (National Portrait Gallery, London) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Thomas_Cranmer_by_Gerlach_Flicke.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Cranmer's lasting monument is the liturgy of the Book of Common Prayer (1549 and
 ## Key texts & works
 
 ### Book of Common Prayer (1549; revised 1552 and 1662)
+
+[![Book of Common Prayer](https://upload.wikimedia.org/wikipedia/commons/2/21/Book_of_Common_Prayer%2C_1549_%282%29.jpg)](https://commons.wikimedia.org/wiki/File:Book_of_Common_Prayer%2C_1549_%282%29.jpg)
+
+<sub>The first Book of Common Prayer, 1549 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Book_of_Common_Prayer%2C_1549_%282%29.jpg).</sub>
 
 - **Date:** 1549; revised 1552 and 1662
 - **Type:** Liturgy

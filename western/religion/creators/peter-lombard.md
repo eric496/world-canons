@@ -1,10 +1,14 @@
 # Peter Lombard
 
+<a href="https://commons.wikimedia.org/wiki/File:PeterLombar01Medieval.png"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/PeterLombar01Medieval.png" alt="Peter Lombard" title="Peter Lombard teaching, medieval manuscript illumination"></a>
+
 **c. 1096 – 1160** · Italian  
 Born: Novara, Lombardy · Died: Paris  
 Movements & eras: [Medieval scholasticism & mysticism](../movements/scholasticism-mysticism.md)  
 
 > Theologian of Paris and bishop whose Four Books of Sentences became the standard textbook of theology in medieval universities.
+
+<sub>Portrait: Peter Lombard teaching, medieval manuscript illumination · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PeterLombar01Medieval.png)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ His Sentences, completed around 1158, gathered quotations from scripture and the
 ## Key texts & works
 
 ### Four Books of Sentences (c. 1155–1158)
+
+[![Four Books of Sentences](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Free_Library_of_Philadelphia%2C_Lewis_E_170%2C_1r.jpg/1280px-Free_Library_of_Philadelphia%2C_Lewis_E_170%2C_1r.jpg)](https://commons.wikimedia.org/wiki/File:Free_Library_of_Philadelphia%2C_Lewis_E_170%2C_1r.jpg)
+
+<sub>Medieval manuscript leaf, Free Library of Philadelphia, Lewis E 170 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Free_Library_of_Philadelphia%2C_Lewis_E_170%2C_1r.jpg).</sub>
 
 - **Date:** c. 1155–1158
 - **Type:** Theological textbook

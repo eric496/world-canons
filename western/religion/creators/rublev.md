@@ -16,6 +16,10 @@ Rublev's style, with its soft colours, flowing lines and calm, gentle figures, i
 
 ### Trinity (c. 1411 or 1425–27)
 
+[![Trinity](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Andrey_Rublev_-_%D0%A1%D0%B2._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg/1280px-Andrey_Rublev_-_%D0%A1%D0%B2._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg)](https://commons.wikimedia.org/wiki/File:Andrey_Rublev_-_%D0%A1%D0%B2._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg)
+
+<sub>Andrei Rublev, Trinity (Tretyakov Gallery, Moscow) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Andrey_Rublev_-_%D0%A1%D0%B2._%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B0_-_Google_Art_Project.jpg).</sub>
+
 - **Date:** c. 1411 or 1425–27
 - **Type:** Icon (tempera on panel)
 - **Where written / held:** State Tretyakov Gallery, Moscow

@@ -1,10 +1,14 @@
 # John Wycliffe
 
+<a href="https://commons.wikimedia.org/wiki/File:Wycliffe_by_Kirby.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Wycliffe_by_Kirby.jpg" alt="John Wycliffe" title="John Wycliffe, engraving (an imagined likeness)"></a>
+
 **c. 1328 – 1384** · English  
 Born: Yorkshire, England · Died: Lutterworth, Leicestershire  
 Movements & eras: [Medieval scholasticism & mysticism](../movements/scholasticism-mysticism.md)  
 
 > Oxford theologian who criticised the wealth and authority of the church and inspired the first complete English Bible; often called the morning star of the Reformation.
+
+<sub>Portrait: John Wycliffe, engraving (an imagined likeness) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wycliffe_by_Kirby.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Wycliffe's followers, known as Lollards, produced English translations of the wh
 ## Key texts & works
 
 ### Wycliffite Bible (c. 1382–1395)
+
+[![Wycliffite Bible](https://upload.wikimedia.org/wikipedia/commons/f/fa/Wycliffe_John_Gospel.jpg)](https://commons.wikimedia.org/wiki/File:Wycliffe_John_Gospel.jpg)
+
+<sub>The opening of John's Gospel in a Wycliffite Bible manuscript Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Wycliffe_John_Gospel.jpg).</sub>
 
 - **Date:** c. 1382–1395
 - **Type:** Scripture (English translation)

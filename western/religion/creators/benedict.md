@@ -1,10 +1,14 @@
 # Benedict of Nursia
 
+<a href="https://commons.wikimedia.org/wiki/File:Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg" alt="Benedict of Nursia" title="Hans Memling, Saint Benedict, panel of the Portinari Triptych, 1487 (Uffizi)"></a>
+
 **c. 480 – c. 547** · Italian  
 Born: Nursia (Norcia), Umbria · Died: Monte Cassino  
 Movements & eras: [Monasticism](../movements/monasticism.md)  
 
 > Italian abbot whose Rule for monks became the foundation of Western monastic life, earning him the title of father of Western monasticism.
+
+<sub>Portrait: Hans Memling, Saint Benedict, panel of the Portinari Triptych, 1487 (Uffizi) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Benedict's Rule is notable for its moderation, balance between prayer, work and 
 ## Key texts & works
 
 ### Rule of Saint Benedict (c. 530–540)
+
+[![Rule of Saint Benedict](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MS._Hatton_48_fol._6v-7r.jpg/1280px-MS._Hatton_48_fol._6v-7r.jpg)](https://commons.wikimedia.org/wiki/File:MS._Hatton_48_fol._6v-7r.jpg)
+
+<sub>The oldest surviving copy of the Rule, c. 700, Bodleian Library, Oxford (MS Hatton 48) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:MS._Hatton_48_fol._6v-7r.jpg).</sub>
 
 - **Date:** c. 530–540
 - **Type:** Monastic rule

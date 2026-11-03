@@ -1,10 +1,14 @@
 # John Bunyan
 
+<a href="https://commons.wikimedia.org/wiki/File:John_Bunyan_by_Thomas_Sadler_1684.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/John_Bunyan_by_Thomas_Sadler_1684.jpg" alt="John Bunyan" title="Thomas Sadler, John Bunyan, 1684 (National Portrait Gallery, London)"></a>
+
 **1628 – 1688** · English  
 Born: Elstow, Bedfordshire · Died: London  
 Movements & eras: [Puritanism & Pietism](../movements/puritanism-pietism.md)  
 
 > English tinker and Puritan preacher who wrote The Pilgrim's Progress while imprisoned for unlicensed preaching.
+
+<sub>Portrait: Thomas Sadler, John Bunyan, 1684 (National Portrait Gallery, London) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Bunyan_by_Thomas_Sadler_1684.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ Bunyan wrote some sixty works, including his spiritual autobiography Grace Aboun
 
 ### Grace Abounding to the Chief of Sinners (1666)
 
+[![Grace Abounding to the Chief of Sinners](https://upload.wikimedia.org/wikipedia/commons/a/a1/GraceAbounding.gif)](https://commons.wikimedia.org/wiki/File:GraceAbounding.gif)
+
+<sub>Title page of Grace Abounding Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:GraceAbounding.gif).</sub>
+
 - **Date:** 1666
 - **Type:** Spiritual autobiography
 - **Where written / held:** London
@@ -27,6 +35,10 @@ Bunyan wrote some sixty works, including his spiritual autobiography Grace Aboun
 Written in prison and published in 1666, Grace Abounding tells Bunyan's story as a spiritual drama: a youth of swearing and games, his marriage and first stirrings of piety, and then years of agonising doubt in which he feared he had committed the unforgivable sin, tormented by verses of scripture that seemed to condemn or save him by turns. He finally finds assurance in Christ, and then describes his call to preach and his imprisonment. It is one of the most psychologically intense religious autobiographies in English and a key text for understanding Puritan experience of conversion.
 
 ### The Pilgrim's Progress (1678 (Part I); 1684 (Part II))
+
+[![The Pilgrim's Progress](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pilgrim%27s_Progress_first_edition_1678.jpg/960px-Pilgrim%27s_Progress_first_edition_1678.jpg)](https://commons.wikimedia.org/wiki/File:Pilgrim%27s_Progress_first_edition_1678.jpg)
+
+<sub>Title page of the first edition, 1678 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Pilgrim%27s_Progress_first_edition_1678.jpg).</sub>
 
 - **Date:** 1678 (Part I); 1684 (Part II)
 - **Type:** Allegory

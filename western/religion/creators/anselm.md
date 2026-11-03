@@ -1,11 +1,15 @@
 # Anselm of Canterbury
 
+<a href="https://commons.wikimedia.org/wiki/File:Anselm_of_Canterbury%2C_seal.svg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Anselm_of_Canterbury%2C_seal.svg/330px-Anselm_of_Canterbury%2C_seal.svg.png" alt="Anselm of Canterbury" title="Anselm as archbishop, drawing after his seal"></a>
+
 **c. 1033 – 1109** · Italian  
 Born: Aosta, Kingdom of Burgundy · Died: Canterbury  
 Movements & eras: [Medieval scholasticism & mysticism](../movements/scholasticism-mysticism.md)  
 Also in: [Philosophy](../../philosophy/eras/02-medieval/anselm-of-canterbury.md)  
 
 > Benedictine monk and archbishop of Canterbury, famous for the ontological argument for God's existence and his theory of atonement, often called the father of scholasticism.
+
+<sub>Portrait: Anselm as archbishop, drawing after his seal · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anselm_of_Canterbury%2C_seal.svg)</sub>
 
 ## Biography
 

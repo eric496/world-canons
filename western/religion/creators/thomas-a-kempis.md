@@ -16,6 +16,10 @@ The Imitation of Christ circulated anonymously from about 1418, and its authorsh
 
 ### The Imitation of Christ (c. 1418–1427)
 
+[![The Imitation of Christ](https://upload.wikimedia.org/wikipedia/commons/8/81/Thomas_%C3%A0_Kempis_-_De_Imitatione_Christi.gif)](https://commons.wikimedia.org/wiki/File:Thomas_%C3%A0_Kempis_-_De_Imitatione_Christi.gif)
+
+<sub>An early edition of De Imitatione Christi Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Thomas_%C3%A0_Kempis_-_De_Imitatione_Christi.gif).</sub>
+
 - **Date:** c. 1418–1427
 - **Type:** Devotional book
 - **Where written / held:** Mount Saint Agnes, near Zwolle; autograph of 1441 in the Royal Library, Brussels

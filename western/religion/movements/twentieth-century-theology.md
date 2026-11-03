@@ -23,13 +23,13 @@ Two world wars and the Holocaust prompted searching theology: Barth's dialectica
 |---|---|---|---|---|
 | — | 1919; rewritten 1922 | **The Epistle to the Romans (Der Römerbrief)** | [Karl Barth](../creators/barth.md) | Bern (1919) and Munich (1922) |
 | — | 1923 | **I and Thou (Ich und Du)** | [Martin Buber](../creators/buber.md) | Leipzig |
-| — | 1934 | **Barmen Theological Declaration** | [Karl Barth](../creators/barth.md) | Synod of Barmen, Wuppertal, Germany |
+| <a href="https://commons.wikimedia.org/wiki/File:DBP_1984_1214_Barmer_Theologische_Erkl%C3%A4rung.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/DBP_1984_1214_Barmer_Theologische_Erkl%C3%A4rung.jpg" width="140" alt="Barmen Theological Declaration"></a> | 1934 | **Barmen Theological Declaration** | [Karl Barth](../creators/barth.md) | Synod of Barmen, Wuppertal, Germany |
 | — | 1937 | **Discipleship (The Cost of Discipleship)** | [Dietrich Bonhoeffer](../creators/bonhoeffer.md) | Munich (Chr. Kaiser Verlag) |
 | — | 1947–1948 (English; German edition 1949) | **Tales of the Hasidim** | [Martin Buber](../creators/buber.md) | New York (Schocken) and Zurich |
 | — | 1932–1967 (unfinished) | **Church Dogmatics (Die kirchliche Dogmatik)** | [Karl Barth](../creators/barth.md) | Munich and Zurich |
 | — | 1943–1945; published 1951 | **Letters and Papers from Prison** | [Dietrich Bonhoeffer](../creators/bonhoeffer.md) | Written in Tegel prison, Berlin; edited by Eberhard Bethge, Munich |
 | — | 1951–1963 | **Systematic Theology** | [Paul Tillich](../creators/tillich.md) | University of Chicago Press |
-| — | 1963 | **Letter from Birmingham Jail** | [Martin Luther King Jr.](../creators/martin-luther-king.md) | Written in Birmingham City Jail, Alabama |
+| <a href="https://commons.wikimedia.org/wiki/File:Recreation_of_Martin_Luther_King%27s_Cell_in_Birmingham_Jail_-_National_Civil_Rights_Museum_-_Downtown_Memphis_-_Tennessee_-_USA.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Recreation_of_Martin_Luther_King%27s_Cell_in_Birmingham_Jail_-_National_Civil_Rights_Museum_-_Downtown_Memphis_-_Tennessee_-_USA.jpg/330px-Recreation_of_Martin_Luther_King%27s_Cell_in_Birmingham_Jail_-_National_Civil_Rights_Museum_-_Downtown_Memphis_-_Tennessee_-_USA.jpg" width="140" alt="Letter from Birmingham Jail"></a> | 1963 | **Letter from Birmingham Jail** | [Martin Luther King Jr.](../creators/martin-luther-king.md) | Written in Birmingham City Jail, Alabama |
 | — | 1963 | **Strength to Love** | [Martin Luther King Jr.](../creators/martin-luther-king.md) | New York (Harper & Row) |
 | — | 1963 | **Pacem in terris** | [Pope John XXIII](../creators/john-xxiii.md) | Vatican City, 11 April 1963 |
 

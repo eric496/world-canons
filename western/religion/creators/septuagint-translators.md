@@ -16,6 +16,10 @@ The Septuagint was the Bible of Hellenistic Judaism and of Philo, and became the
 
 ### Septuagint (3rd–1st century BC)
 
+[![Septuagint](https://upload.wikimedia.org/wikipedia/commons/f/f5/Codex_Vaticanus_%281_Esdras_1-55_to_2-5%29_%28The_S.S._Teacher%27s_Edition-The_Holy_Bible%29.jpg)](https://commons.wikimedia.org/wiki/File:Codex_Vaticanus_%281_Esdras_1-55_to_2-5%29_%28The_S.S._Teacher%27s_Edition-The_Holy_Bible%29.jpg)
+
+<sub>A page of the Septuagint in Codex Vaticanus (1 Esdras), from a 19th-century reproduction Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Codex_Vaticanus_%281_Esdras_1-55_to_2-5%29_%28The_S.S._Teacher%27s_Edition-The_Holy_Bible%29.jpg).</sub>
+
 - **Date:** 3rd–1st century BC
 - **Type:** Scripture (translation)
 - **Where written / held:** Alexandria; preserved in codices such as Sinaiticus and Vaticanus

@@ -19,6 +19,10 @@ These manuscripts, many of which survived expulsions and persecutions through ex
 
 ### Golden Haggadah (c. 1320–1330)
 
+[![Golden Haggadah](https://upload.wikimedia.org/wikipedia/commons/c/c8/Golden_Hag_BL_F60073-09b.jpg)](https://commons.wikimedia.org/wiki/File:Golden_Hag_BL_F60073-09b.jpg)
+
+<sub>A page of the Golden Haggadah (British Library) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Golden_Hag_BL_F60073-09b.jpg).</sub>
+
 - **Date:** c. 1320–1330
 - **Type:** Illuminated manuscript
 - **Where written / held:** British Library, London
@@ -27,6 +31,10 @@ These manuscripts, many of which survived expulsions and persecutions through ex
 The Golden Haggadah was made in or near Barcelona in the early 14th century. Its fourteen pages of miniatures, with scenes from Genesis and Exodus arranged in four panels per page against tooled gold backgrounds, are in the Gothic style of the time and show the involvement of at least two artists, perhaps working in a Christian workshop. Further images show Passover preparations, such as cleaning the house of leaven and distributing matzah. An inscription records that it was given as a wedding gift in Italy in 1602. It entered the British Museum in 1865 and is now in the British Library.
 
 ### Sarajevo Haggadah (c. 1350)
+
+[![Sarajevo Haggadah](https://upload.wikimedia.org/wikipedia/commons/2/23/Sarajevska_hagada.jpg)](https://commons.wikimedia.org/wiki/File:Sarajevska_hagada.jpg)
+
+<sub>The Sarajevo Haggadah Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Sarajevska_hagada.jpg).</sub>
 
 - **Date:** c. 1350
 - **Type:** Illuminated manuscript

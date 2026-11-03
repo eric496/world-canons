@@ -1,10 +1,14 @@
 # Desiderius Erasmus
 
+<a href="https://commons.wikimedia.org/wiki/File:Holbein-erasmus.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holbein-erasmus.jpg/330px-Holbein-erasmus.jpg" alt="Desiderius Erasmus" title="Hans Holbein the Younger, portrait of Erasmus, 1523"></a>
+
 **c. 1466 – 1536** · Dutch  
 Born: Rotterdam, Burgundian Netherlands · Died: Basel  
 Movements & eras: [Protestant Reformation](../movements/reformation.md)  
 
 > Dutch humanist scholar, the most famous of his age, who edited the first published Greek New Testament and called for reform of the church through learning and piety.
+
+<sub>Portrait: Hans Holbein the Younger, portrait of Erasmus, 1523 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Holbein-erasmus.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ Erasmus's 'philosophy of Christ' sought a simple, inward faith based on the Gosp
 
 ### Enchiridion militis Christiani (Handbook of the Christian Soldier) (1503)
 
+[![Enchiridion militis Christiani (Handbook of the Christian Soldier)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Erasmo_de_R%C3%B3terdam_%281528%29_Manual_del_caballero_cristiano.png/960px-Erasmo_de_R%C3%B3terdam_%281528%29_Manual_del_caballero_cristiano.png)](https://commons.wikimedia.org/wiki/File:Erasmo_de_R%C3%B3terdam_%281528%29_Manual_del_caballero_cristiano.png)
+
+<sub>Title page of a Spanish translation of the Enchiridion, 1528 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Erasmo_de_R%C3%B3terdam_%281528%29_Manual_del_caballero_cristiano.png).</sub>
+
 - **Date:** 1503
 - **Type:** Devotional treatise
 - **Where written / held:** First published Antwerp
@@ -27,6 +35,10 @@ Erasmus's 'philosophy of Christ' sought a simple, inward faith based on the Gosp
 Written, according to Erasmus, for the wife of a soldier who wanted her husband to reform his life, the Enchiridion (meaning both 'handbook' and 'dagger') sets out rules for the Christian life as a spiritual combat. It urges readers to study scripture and the Church Fathers, to seek the spirit rather than the letter, and to value inner devotion and love of neighbour above external ceremonies, pilgrimages and relics. Little noticed at first, it became a bestseller after its 1518 reissue, translated into many languages, and was read as a call for reform. It was later listed on the Spanish and Roman indexes of prohibited books, illustrating the shifting fortunes of Erasmian piety.
 
 ### Novum Instrumentum omne (Greek New Testament) (1516)
+
+[![Novum Instrumentum omne (Greek New Testament)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Erasmus_1516_title_page.JPG/1280px-Erasmus_1516_title_page.JPG)](https://commons.wikimedia.org/wiki/File:Erasmus_1516_title_page.JPG)
+
+<sub>Title page of Erasmus's Novum Instrumentum, Basel, 1516 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Erasmus_1516_title_page.JPG).</sub>
 
 - **Date:** 1516
 - **Type:** Printed edition (Greek and Latin)

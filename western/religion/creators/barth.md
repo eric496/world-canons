@@ -29,6 +29,10 @@ Written while Barth was a village pastor in Safenwil, the commentary rejected th
 
 ### Barmen Theological Declaration (1934)
 
+[![Barmen Theological Declaration](https://upload.wikimedia.org/wikipedia/commons/d/d3/DBP_1984_1214_Barmer_Theologische_Erkl%C3%A4rung.jpg)](https://commons.wikimedia.org/wiki/File:DBP_1984_1214_Barmer_Theologische_Erkl%C3%A4rung.jpg)
+
+<sub>West German postage stamp marking the 50th anniversary of the Barmen Declaration, 1984 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:DBP_1984_1214_Barmer_Theologische_Erkl%C3%A4rung.jpg).</sub>
+
 - **Date:** 1934
 - **Type:** Confession of faith
 - **Where written / held:** Synod of Barmen, Wuppertal, Germany

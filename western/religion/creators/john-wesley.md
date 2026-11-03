@@ -1,10 +1,14 @@
 # John Wesley
 
+<a href="https://commons.wikimedia.org/wiki/File:John_Wesley_by_George_Romney.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/John_Wesley_by_George_Romney.jpg/330px-John_Wesley_by_George_Romney.jpg" alt="John Wesley" title="George Romney, John Wesley, 1789"></a>
+
 **1703 – 1791** · English  
 Born: Epworth, Lincolnshire · Died: London  
 Movements & eras: [Evangelical revivals](../movements/evangelical-revivals.md)  
 
 > Anglican clergyman and tireless itinerant preacher who founded Methodism, the most important product of the 18th-century evangelical revival.
+
+<sub>Portrait: George Romney, John Wesley, 1789 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Wesley_by_George_Romney.jpg)</sub>
 
 ## Biography
 

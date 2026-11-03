@@ -1,10 +1,14 @@
 # Francis de Sales
 
+<a href="https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Bussy-Rabutin_-_Saint_Fran%C3%A7ois_de_Sales%2C_%C3%A9v%C3%AAque_de_Gen%C3%A8ve_%28bgw19_0375%29_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ch%C3%A2teau_de_Bussy-Rabutin_-_Saint_Fran%C3%A7ois_de_Sales%2C_%C3%A9v%C3%AAque_de_Gen%C3%A8ve_%28bgw19_0375%29_%28cropped%29.jpg/330px-Ch%C3%A2teau_de_Bussy-Rabutin_-_Saint_Fran%C3%A7ois_de_Sales%2C_%C3%A9v%C3%AAque_de_Gen%C3%A8ve_%28bgw19_0375%29_%28cropped%29.jpg" alt="Francis de Sales" title="Saint Francis de Sales, bishop of Geneva, 17th-century portrait (Château de Bussy-Rabutin)"></a>
+
 **1567 – 1622** · Savoyard  
 Born: Thorens, Duchy of Savoy · Died: Lyon  
 Movements & eras: [Catholic Reformation](../movements/catholic-reformation.md)  
 
 > Bishop of Geneva in exile and spiritual writer whose Introduction to the Devout Life brought the pursuit of holiness to lay people.
+
+<sub>Portrait: Saint Francis de Sales, bishop of Geneva, 17th-century portrait (Château de Bussy-Rabutin) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Bussy-Rabutin_-_Saint_Fran%C3%A7ois_de_Sales%2C_%C3%A9v%C3%AAque_de_Gen%C3%A8ve_%28bgw19_0375%29_%28cropped%29.jpg)</sub>
 
 ## Biography
 

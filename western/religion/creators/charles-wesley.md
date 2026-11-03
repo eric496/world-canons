@@ -1,10 +1,14 @@
 # Charles Wesley
 
+<a href="https://commons.wikimedia.org/wiki/File:Charles_Wesley.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Charles_Wesley.jpg" alt="Charles Wesley" title="Portrait of Charles Wesley"></a>
+
 **1707 – 1788** · English  
 Born: Epworth, Lincolnshire · Died: London  
 Movements & eras: [Evangelical revivals](../movements/evangelical-revivals.md)  
 
 > Methodist preacher and the most prolific hymn writer in English, author of 'Hark! The Herald Angels Sing' and some six thousand other hymns.
+
+<sub>Portrait: Portrait of Charles Wesley · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Charles_Wesley.jpg)</sub>
 
 ## Biography
 

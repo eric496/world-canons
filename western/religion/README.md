@@ -6,7 +6,7 @@
 
 The religious texts, thinkers and movements of the Western tradition: Greco-Roman religion, Judaism and Christianity in its Catholic, Orthodox and Protestant forms, from Hesiod and the Hebrew Bible to the Second Vatican Council. It is written as history of religion, describing what each tradition holds and what modern scholarship says about authorship and dating, without taking sides. Manuscripts, early printed editions, icons and portraits come from Wikimedia Commons.
 
-**77 figures** · **154 texts & works** (0 with images) · **17 movements & eras** · 0 portraits
+**77 figures** · **154 texts & works** (93 with images) · **17 movements & eras** · 45 portraits
 
 ## Browse
 
@@ -15,6 +15,7 @@ The religious texts, thinkers and movements of the Western tradition: Greco-Roma
 | [**Movements & eras**](#movements--eras) | Each movement in order, with its people and key texts & works |
 | [**Figures**](CREATORS.md) | Everyone, by date of birth, with a page each |
 | [**Timeline**](TIMELINE.md) | Every text / work in chronological order |
+| [**Gallery**](GALLERY.md) | All the pictures on one page |
 | [`data/`](data/) | The same information as JSON and CSV |
 
 ## Movements & eras

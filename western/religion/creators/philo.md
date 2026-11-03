@@ -1,10 +1,14 @@
 # Philo of Alexandria
 
+<a href="https://commons.wikimedia.org/wiki/File:PhiloThevet.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PhiloThevet.jpg/330px-PhiloThevet.jpg" alt="Philo of Alexandria" title="Imaginary portrait of Philo, engraving from André Thevet's Les vrais pourtraits (1584)"></a>
+
 **c. 20 BC – c. AD 50** · Hellenistic Jewish  
 Born: Alexandria, Egypt · Died: Alexandria  
 Movements & eras: [Second Temple Judaism](../movements/second-temple-judaism.md)  
 
 > Jewish philosopher of Alexandria who interpreted the Torah through Greek philosophy, especially Platonism, and deeply influenced early Christian theology.
+
+<sub>Portrait: Imaginary portrait of Philo, engraving from André Thevet's Les vrais pourtraits (1584) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PhiloThevet.jpg)</sub>
 
 ## Biography
 

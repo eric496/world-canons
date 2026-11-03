@@ -1,10 +1,14 @@
 # Basil of Caesarea
 
+<a href="https://commons.wikimedia.org/wiki/File:Basil_of_Caesarea.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Basil_of_Caesarea.jpg" alt="Basil of Caesarea" title="St Basil the Great, Byzantine depiction"></a>
+
 **c. 330 – 379** · Cappadocian Greek  
 Born: Caesarea, Cappadocia · Died: Caesarea  
 Movements & eras: [Church Fathers & the Councils](../movements/church-fathers.md), [Monasticism](../movements/monasticism.md)  
 
 > Bishop, theologian and monastic organiser, one of the three Cappadocian Fathers, whose ascetic rules remain the basis of Orthodox monasticism.
+
+<sub>Portrait: St Basil the Great, Byzantine depiction · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Basil_of_Caesarea.jpg)</sub>
 
 ## Biography
 

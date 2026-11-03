@@ -1,11 +1,15 @@
 # Augustine of Hippo
 
+<a href="https://commons.wikimedia.org/wiki/File:Saint_Augustine_by_Philippe_de_Champaigne.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/330px-Saint_Augustine_by_Philippe_de_Champaigne.jpg" alt="Augustine of Hippo" title="Philippe de Champaigne, Saint Augustine, c. 1645–50"></a>
+
 **354 – 430** · Roman North African  
 Born: Thagaste, Numidia · Died: Hippo Regius, Numidia  
 Movements & eras: [Church Fathers & the Councils](../movements/church-fathers.md)  
 Also in: [Philosophy](../../philosophy/eras/02-medieval/augustine-of-hippo.md)  
 
 > North African bishop and theologian whose Confessions and City of God made him the most influential Christian thinker of the Latin West.
+
+<sub>Portrait: Philippe de Champaigne, Saint Augustine, c. 1645–50 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Saint_Augustine_by_Philippe_de_Champaigne.jpg)</sub>
 
 ## Biography
 
@@ -20,6 +24,10 @@ Augustine wrote prodigiously: autobiography, sermons, letters, biblical commenta
 - [The City of God](#the-city-of-god-413426) (413–426)
 
 ### Confessions (c. 397–400)
+
+[![Confessions](https://upload.wikimedia.org/wikipedia/commons/5/5d/Augustine_Confessiones.jpg)](https://commons.wikimedia.org/wiki/File:Augustine_Confessiones.jpg)
+
+<sub>Augustine's Confessions in a manuscript Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Augustine_Confessiones.jpg).</sub>
 
 - **Date:** c. 397–400
 - **Type:** Autobiography and prayer
@@ -38,6 +46,10 @@ In thirteen books addressed to God, Augustine recounts his childhood in Thagaste
 Augustine worked on On the Trinity for some twenty years. The first books set out the scriptural basis and the vocabulary of the doctrine of one God in three persons, defending the equality of the Son and Spirit with the Father. The later books turn inward, looking for analogies of the Trinity in the human mind, made in God's image, most famously the triad of memory, understanding and will. The work became the foundation of Latin Trinitarian theology; its account of the Spirit as the love between Father and Son underlies the Western filioque. Medieval theologians from Anselm to Aquinas built on it.
 
 ### The City of God (413–426)
+
+[![The City of God](https://upload.wikimedia.org/wikipedia/commons/5/52/City_of_God_Manuscript.jpg)](https://commons.wikimedia.org/wiki/File:City_of_God_Manuscript.jpg)
+
+<sub>A medieval illuminated manuscript of The City of God Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:City_of_God_Manuscript.jpg).</sub>
 
 - **Date:** 413–426
 - **Type:** Theological and historical treatise

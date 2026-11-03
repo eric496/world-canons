@@ -16,6 +16,10 @@ Rabbinic tradition holds that Judah gathered and arranged the oral teachings of 
 
 ### Mishnah (c. 200)
 
+[![Mishnah](https://upload.wikimedia.org/wikipedia/commons/3/3c/MS_Kaufmann_A_50.jpg)](https://commons.wikimedia.org/wiki/File:MS_Kaufmann_A_50.jpg)
+
+<sub>The Kaufmann manuscript of the Mishnah (MS Kaufmann A 50), Budapest Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:MS_Kaufmann_A_50.jpg).</sub>
+
 - **Date:** c. 200
 - **Type:** Code of law
 - **Where written / held:** Galilee; earliest complete manuscript, the Kaufmann Codex, in Budapest

@@ -1,10 +1,14 @@
 # Ignatius of Loyola
 
+<a href="https://commons.wikimedia.org/wiki/File:Ignatius_Loyola.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Ignatius_Loyola.jpg" alt="Ignatius of Loyola" title="Portrait of Ignatius of Loyola"></a>
+
 **1491 – 1556** · Spanish (Basque)  
 Born: Loyola, Gipuzkoa, Castile · Died: Rome  
 Movements & eras: [Catholic Reformation](../movements/catholic-reformation.md)  
 
 > Basque soldier turned mystic who founded the Society of Jesus (the Jesuits) and wrote the Spiritual Exercises.
+
+<sub>Portrait: Portrait of Ignatius of Loyola · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ignatius_Loyola.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ The Jesuits, bound by a special vow of obedience to the pope regarding missions,
 ## Key texts & works
 
 ### Spiritual Exercises (1522–1548)
+
+[![Spiritual Exercises](https://upload.wikimedia.org/wikipedia/commons/b/bc/Exercitia_Spiritualia_1ed2.jpg)](https://commons.wikimedia.org/wiki/File:Exercitia_Spiritualia_1ed2.jpg)
+
+<sub>The first edition of the Spiritual Exercises, Rome, 1548 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Exercitia_Spiritualia_1ed2.jpg).</sub>
 
 - **Date:** 1522–1548
 - **Type:** Manual of prayer and retreat

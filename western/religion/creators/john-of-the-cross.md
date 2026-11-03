@@ -1,10 +1,14 @@
 # John of the Cross
 
+<a href="https://commons.wikimedia.org/wiki/File:Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg" alt="John of the Cross" title="Saint John of the Cross, attributed to Francisco de Zurbarán, 1656"></a>
+
 **1542 – 1591** · Spanish  
 Born: Fontiveros, Castile · Died: Úbeda, Andalusia  
 Movements & eras: [Catholic Reformation](../movements/catholic-reformation.md)  
 
 > Spanish Carmelite friar, mystic and poet, co-founder of the Discalced Carmelites and author of The Dark Night of the Soul.
+
+<sub>Portrait: Saint John of the Cross, attributed to Francisco de Zurbarán, 1656 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg)</sub>
 
 ## Biography
 
@@ -18,6 +22,10 @@ His few poems, including 'The Dark Night', 'The Spiritual Canticle' and 'The Liv
 - [The Dark Night of the Soul](#the-dark-night-of-the-soul-c-15781585) (c. 1578–1585)
 
 ### Spiritual Canticle (1578–1584)
+
+[![Spiritual Canticle](https://upload.wikimedia.org/wikipedia/commons/5/52/Sanlucar_barrameda_s_juan_cruz_manuscrito_sanlucar2.jpg)](https://commons.wikimedia.org/wiki/File:Sanlucar_barrameda_s_juan_cruz_manuscrito_sanlucar2.jpg)
+
+<sub>The Sanlúcar manuscript of the Spiritual Canticle Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Sanlucar_barrameda_s_juan_cruz_manuscrito_sanlucar2.jpg).</sub>
 
 - **Date:** 1578–1584
 - **Type:** Poem and commentary

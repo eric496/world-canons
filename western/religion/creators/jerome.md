@@ -1,10 +1,14 @@
 # Jerome
 
+<a href="https://commons.wikimedia.org/wiki/File:MatthiasStom-SaintJerome-Nantes.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/MatthiasStom-SaintJerome-Nantes.jpg" alt="Jerome" title="Matthias Stom, Saint Jerome, 17th century (Musée d'arts de Nantes)"></a>
+
 **c. 345 – 420** · Roman (Illyrian)  
 Born: Stridon, Dalmatia · Died: Bethlehem  
 Movements & eras: [Church Fathers & the Councils](../movements/church-fathers.md), [Monasticism](../movements/monasticism.md)  
 
 > Scholar, ascetic and translator whose Latin translation of the Bible, the Vulgate, became the standard Bible of the Western church for over a thousand years.
+
+<sub>Portrait: Matthias Stom, Saint Jerome, 17th century (Musée d'arts de Nantes) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MatthiasStom-SaintJerome-Nantes.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Jerome's insistence on translating the Old Testament from the Hebrew rather than
 ## Key texts & works
 
 ### Vulgate (c. 382–405)
+
+[![Vulgate](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cod._Sangallensis_63_%28277%29.jpg/1280px-Cod._Sangallensis_63_%28277%29.jpg)](https://commons.wikimedia.org/wiki/File:Cod._Sangallensis_63_%28277%29.jpg)
+
+<sub>Vulgate manuscript, Stiftsbibliothek St Gallen, Cod. Sang. 63 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Cod._Sangallensis_63_%28277%29.jpg).</sub>
 
 - **Date:** c. 382–405
 - **Type:** Scripture (Latin translation)

@@ -1,10 +1,14 @@
 # Pope Gregory I (Gregory the Great)
 
+<a href="https://commons.wikimedia.org/wiki/File:Gregory_the_Great_with_the_Holy_Spirit.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gregory_the_Great_with_the_Holy_Spirit.jpg/330px-Gregory_the_Great_with_the_Holy_Spirit.jpg" alt="Pope Gregory I (Gregory the Great)" title="Gregory the Great inspired by the Holy Spirit in the form of a dove, medieval manuscript illumination"></a>
+
 **c. 540 – 604** · Roman  
 Born: Rome · Died: Rome  
 Movements & eras: [Church Fathers & the Councils](../movements/church-fathers.md), [Monasticism](../movements/monasticism.md)  
 
 > Roman aristocrat, monk and pope who reorganised the church in a collapsing Italy, sent the mission to the English, and wrote widely read works of pastoral care and spirituality.
+
+<sub>Portrait: Gregory the Great inspired by the Holy Spirit in the form of a dove, medieval manuscript illumination · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gregory_the_Great_with_the_Holy_Spirit.jpg)</sub>
 
 ## Biography
 

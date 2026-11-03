@@ -1,10 +1,14 @@
 # Bernard of Clairvaux
 
+<a href="https://commons.wikimedia.org/wiki/File:San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg/330px-San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg" alt="Bernard of Clairvaux" title="Juan Correa de Vivar, Saint Bernard, 16th century (Museo del Prado)"></a>
+
 **1090 – 1153** · French  
 Born: Fontaine-lès-Dijon, Burgundy · Died: Clairvaux  
 Movements & eras: [Medieval scholasticism & mysticism](../movements/scholasticism-mysticism.md), [Monasticism](../movements/monasticism.md)  
 
 > Cistercian abbot, preacher and mystical writer, the most influential churchman of 12th-century Europe.
+
+<sub>Portrait: Juan Correa de Vivar, Saint Bernard, 16th century (Museo del Prado) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg)</sub>
 
 ## Biography
 

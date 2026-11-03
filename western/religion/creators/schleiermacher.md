@@ -1,11 +1,15 @@
 # Friedrich Schleiermacher
 
+<a href="https://commons.wikimedia.org/wiki/File:Portret_van_Friedrich_Ernst_Daniel_Schleiermacher_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Portret_van_Friedrich_Ernst_Daniel_Schleiermacher_%28cropped%29.jpg" alt="Friedrich Schleiermacher" title="Friedrich Schleiermacher, 19th-century print (Rijksmuseum)"></a>
+
 **1768 – 1834** · German  
 Born: Breslau, Silesia · Died: Berlin  
 Movements & eras: [19th-century theology](../movements/nineteenth-century-religion.md)  
 Also in: [Philosophy](../../philosophy/eras/04-19th-century/friedrich-schleiermacher.md)  
 
 > German Reformed theologian and philosopher who grounded religion in feeling and became the father of modern liberal Protestant theology.
+
+<sub>Portrait: Friedrich Schleiermacher, 19th-century print (Rijksmuseum) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portret_van_Friedrich_Ernst_Daniel_Schleiermacher_%28cropped%29.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ In On Religion: Speeches to its Cultured Despisers (1799) he argued that religio
 - [The Christian Faith (Der christliche Glaube)](#the-christian-faith-der-christliche-glaube-18211822-revised-183031) (1821–1822; revised 1830–31)
 
 ### On Religion: Speeches to its Cultured Despisers (1799)
+
+[![On Religion: Speeches to its Cultured Despisers](https://upload.wikimedia.org/wikipedia/commons/1/11/Cover_of_1799_edition_of_%C3%9Cber_die_Religion.jpg)](https://commons.wikimedia.org/wiki/File:Cover_of_1799_edition_of_%C3%9Cber_die_Religion.jpg)
+
+<sub>Title page of the first edition of Über die Religion, 1799 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Cover_of_1799_edition_of_%C3%9Cber_die_Religion.jpg).</sub>
 
 - **Date:** 1799
 - **Type:** Theological essays

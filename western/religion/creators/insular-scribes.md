@@ -21,6 +21,10 @@ The Insular Gospel books, made for display on the altar as sacred objects as muc
 
 ### Book of Durrow (c. 650–700)
 
+[![Book of Durrow](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/IE_TCD_MS_57_f.86r.jpg/960px-IE_TCD_MS_57_f.86r.jpg)](https://commons.wikimedia.org/wiki/File:IE_TCD_MS_57_f.86r.jpg)
+
+<sub>Book of Durrow, folio 86r (Trinity College Dublin, MS 57) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:IE_TCD_MS_57_f.86r.jpg).</sub>
+
 - **Date:** c. 650–700
 - **Type:** Illuminated manuscript
 - **Where written / held:** Trinity College Library, Dublin
@@ -29,6 +33,10 @@ The Insular Gospel books, made for display on the altar as sacred objects as muc
 The Book of Durrow is a small Gospel book in Latin, written in Insular majuscule and decorated with six carpet pages, symbols of the evangelists and decorated initials, in a limited palette of yellow, red, green and brown. Its ornament combines Celtic trumpet spirals, Germanic animal interlace like that on the Sutton Hoo metalwork, and Mediterranean motifs. It was kept at the monastery of Durrow in Ireland, founded by St Columba, but scholars debate whether it was made there, at Iona or in Northumbria. In the 17th century it was reportedly dipped in water by a farmer to cure sick cattle. It is the earliest of the great series that culminates in the Book of Kells.
 
 ### Lindisfarne Gospels (c. 715–720)
+
+[![Lindisfarne Gospels](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LindisfarneFol27rIncipitMatt.jpg/960px-LindisfarneFol27rIncipitMatt.jpg)](https://commons.wikimedia.org/wiki/File:LindisfarneFol27rIncipitMatt.jpg)
+
+<sub>Lindisfarne Gospels, folio 27r: the opening of Matthew's Gospel Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:LindisfarneFol27rIncipitMatt.jpg).</sub>
 
 - **Date:** c. 715–720
 - **Type:** Illuminated manuscript
@@ -39,6 +47,10 @@ The Lindisfarne Gospels was made at the monastery of Lindisfarne, on Holy Island
 
 ### Codex Amiatinus (before 716)
 
+[![Codex Amiatinus](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CodxAmiatinusFolio5rEzra.jpg/960px-CodxAmiatinusFolio5rEzra.jpg)](https://commons.wikimedia.org/wiki/File:CodxAmiatinusFolio5rEzra.jpg)
+
+<sub>Codex Amiatinus, folio 5r: the prophet Ezra writing Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:CodxAmiatinusFolio5rEzra.jpg).</sub>
+
 - **Date:** before 716
 - **Type:** Manuscript (Latin Bible)
 - **Where written / held:** Biblioteca Medicea Laurenziana, Florence
@@ -47,6 +59,10 @@ The Lindisfarne Gospels was made at the monastery of Lindisfarne, on Holy Island
 Codex Amiatinus is a giant single-volume Bible of over a thousand leaves, weighing more than 34 kilograms, one of three such pandects made at the twin monastery of Wearmouth-Jarrow under Abbot Ceolfrith, Bede's abbot. In 716 Ceolfrith set out to carry it to Rome as a gift for the pope but died on the way at Langres. The manuscript later reached the abbey of San Salvatore on Monte Amiata in Tuscany, from which it takes its name; its Northumbrian origin was recognised only in the 1880s, when a dedication altered to disguise its origin was deciphered. Written in a fine Italian-style uncial, it includes a famous image of the prophet Ezra writing at a book cupboard. It is the most important witness to the text of Jerome's Vulgate.
 
 ### Book of Kells (c. 800)
+
+[![Book of Kells](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/KellsFol032vChristEnthroned.jpg/960px-KellsFol032vChristEnthroned.jpg)](https://commons.wikimedia.org/wiki/File:KellsFol032vChristEnthroned.jpg)
+
+<sub>Book of Kells, folio 32v: Christ enthroned Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:KellsFol032vChristEnthroned.jpg).</sub>
 
 - **Date:** c. 800
 - **Type:** Illuminated manuscript

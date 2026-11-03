@@ -1,10 +1,14 @@
 # Francis of Assisi
 
+<a href="https://commons.wikimedia.org/wiki/File:StFrancis_part.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/d/da/StFrancis_part.jpg" alt="Francis of Assisi" title="Medieval depiction of Saint Francis"></a>
+
 **c. 1181 – 1226** · Italian  
 Born: Assisi, Umbria · Died: Assisi  
 Movements & eras: [Mendicant orders](../movements/mendicant-orders.md)  
 
 > Son of a cloth merchant who embraced radical poverty and founded the Franciscan friars; one of the most beloved saints of Christianity.
+
+<sub>Portrait: Medieval depiction of Saint Francis · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:StFrancis_part.jpg)</sub>
 
 ## Biography
 

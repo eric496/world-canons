@@ -1,10 +1,14 @@
 # Moses Mendelssohn
 
+<a href="https://commons.wikimedia.org/wiki/File:MosesMendelssohn-von-AntonGraff-Kupferstich.gif"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/d/d6/MosesMendelssohn-von-AntonGraff-Kupferstich.gif" alt="Moses Mendelssohn" title="Moses Mendelssohn, engraving after Anton Graff's portrait"></a>
+
 **1729 – 1786** · German Jewish  
 Born: Dessau, Anhalt · Died: Berlin  
 Movements & eras: [Evangelical revivals](../movements/evangelical-revivals.md)  
 
 > Philosopher of the German Enlightenment and pioneer of the Haskalah, the Jewish Enlightenment, who argued for religious freedom and Jewish civil rights.
+
+<sub>Portrait: Moses Mendelssohn, engraving after Anton Graff's portrait · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MosesMendelssohn-von-AntonGraff-Kupferstich.gif)</sub>
 
 ## Biography
 
@@ -27,6 +31,10 @@ His German translation of the Torah in Hebrew letters, with a commentary (the Bi
 Mendelssohn translated the Five Books of Moses into elegant High German, printing it in Hebrew characters so that Jews who read only Hebrew script could learn standard German through a familiar text. The accompanying Hebrew commentary, the Biur ('explanation'), written with collaborators such as Solomon Dubno and Naphtali Herz Wessely, explained the plain meaning using traditional commentaries and grammar. Some rabbis opposed it as an incitement to secular learning, while others approved it. It helped many central European Jews move into German culture and was a landmark of the Haskalah.
 
 ### Jerusalem, or on Religious Power and Judaism (1783)
+
+[![Jerusalem, or on Religious Power and Judaism](https://upload.wikimedia.org/wikipedia/commons/2/2e/MosesMendelssohnJerusalem1783.png)](https://commons.wikimedia.org/wiki/File:MosesMendelssohnJerusalem1783.png)
+
+<sub>Title page of Jerusalem, 1783 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:MosesMendelssohnJerusalem1783.png).</sub>
 
 - **Date:** 1783
 - **Type:** Philosophical treatise

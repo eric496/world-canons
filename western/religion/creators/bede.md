@@ -1,11 +1,15 @@
 # Bede
 
+<a href="https://commons.wikimedia.org/wiki/File:E-codices_bke-0047_001v_medium_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/E-codices_bke-0047_001v_medium_%28cropped%29.jpg" alt="Bede" title="Bede depicted in a medieval manuscript (e-codices)"></a>
+
 **c. 673 – 735** · Anglo-Saxon  
 Born: Northumbria · Died: Jarrow, Northumbria  
 Movements & eras: [Monasticism](../movements/monasticism.md)  
 Also in: [History](../../history/creators/bede.md)  
 
 > Northumbrian monk and scholar, known as the Venerable Bede, whose Ecclesiastical History of the English People is the foundation of English history.
+
+<sub>Portrait: Bede depicted in a medieval manuscript (e-codices) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:E-codices_bke-0047_001v_medium_%28cropped%29.jpg)</sub>
 
 ## Biography
 
@@ -16,6 +20,10 @@ Bede wrote biblical commentaries, works on grammar, natural science and chronolo
 ## Key texts & works
 
 ### Ecclesiastical History of the English People (731)
+
+[![Ecclesiastical History of the English People](https://upload.wikimedia.org/wikipedia/commons/6/68/Beda_Petersburgiensis_f3v.jpg)](https://commons.wikimedia.org/wiki/File:Beda_Petersburgiensis_f3v.jpg)
+
+<sub>The St Petersburg Bede, 8th century, folio 3v Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Beda_Petersburgiensis_f3v.jpg).</sub>
 
 - **Date:** 731
 - **Type:** History

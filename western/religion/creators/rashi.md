@@ -1,10 +1,14 @@
 # Rashi (Shlomo Yitzchaki)
 
+<a href="https://commons.wikimedia.org/wiki/File:Postcard_portrait_of_Rashi_by_Meir_Kunstadt%2C_early_1900s.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/d/de/Postcard_portrait_of_Rashi_by_Meir_Kunstadt%2C_early_1900s.jpg" alt="Rashi (Shlomo Yitzchaki)" title="Imaginary portrait of Rashi by Meir Kunstadt, early 1900s"></a>
+
 **1040 – 1105** · French Jewish  
 Born: Troyes, Champagne · Died: Troyes  
 Movements & eras: [Medieval Jewish thought](../movements/medieval-jewish-thought.md)  
 
 > French rabbi whose concise commentaries on the Hebrew Bible and the Talmud have been printed alongside those texts for five centuries.
+
+<sub>Portrait: Imaginary portrait of Rashi by Meir Kunstadt, early 1900s · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Postcard_portrait_of_Rashi_by_Meir_Kunstadt%2C_early_1900s.jpg)</sub>
 
 ## Biography
 

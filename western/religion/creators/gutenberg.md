@@ -1,10 +1,14 @@
 # Johannes Gutenberg
 
+<a href="https://commons.wikimedia.org/wiki/File:Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg" alt="Johannes Gutenberg" title="Bertel Thorvaldsen's statue of Gutenberg in Mainz (1837), an imagined likeness"></a>
+
 **c. 1400 – 1468** · German  
 Born: Mainz · Died: Mainz  
 Movements & eras: [Protestant Reformation](../movements/reformation.md)  
 
 > Goldsmith of Mainz who developed printing with movable metal type in Europe and printed the Gutenberg Bible.
+
+<sub>Portrait: Bertel Thorvaldsen's statue of Gutenberg in Mainz (1837), an imagined likeness · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Gutenberg's achievement lay in combining a hand mould for casting uniform metal 
 ## Key texts & works
 
 ### Gutenberg Bible (c. 1454–1455)
+
+[![Gutenberg Bible](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/1280px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg)](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg)
+
+<sub>The Lenox copy of the Gutenberg Bible, New York Public Library Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg).</sub>
 
 - **Date:** c. 1454–1455
 - **Type:** Printed book

@@ -16,6 +16,10 @@ The four long hymns, to Demeter, Apollo, Hermes and Aphrodite, are among the mos
 
 ### Homeric Hymn to Demeter (c. 650–550 BC)
 
+[![Homeric Hymn to Demeter](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Great_Eleusinian_relief_%28NAMA_126%29.jpg/1280px-Great_Eleusinian_relief_%28NAMA_126%29.jpg)](https://commons.wikimedia.org/wiki/File:Great_Eleusinian_relief_%28NAMA_126%29.jpg)
+
+<sub>The Great Eleusinian Relief: Demeter, Persephone and the youth Triptolemus, c. 440–430 BC (National Archaeological Museum, Athens) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Great_Eleusinian_relief_%28NAMA_126%29.jpg).</sub>
+
 - **Date:** c. 650–550 BC
 - **Type:** Hymn
 - **Where written / held:** Rediscovered in a manuscript in Moscow, 1777; now in Leiden University Library

@@ -1,11 +1,15 @@
 # Maimonides (Moses ben Maimon)
 
+<a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Moses_Maimonides_in_Thesaurus_antiquitatum_sacrarum.tif"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Portrait_of_Moses_Maimonides_in_Thesaurus_antiquitatum_sacrarum.tif/lossy-page1-960px-Portrait_of_Moses_Maimonides_in_Thesaurus_antiquitatum_sacrarum.tif.jpg" alt="Maimonides (Moses ben Maimon)" title="Imaginary portrait of Maimonides from Blasius Ugolinus, Thesaurus antiquitatum sacrarum (1744)"></a>
+
 **c. 1138 – 1204** · Andalusian Jewish  
 Born: Córdoba, Almoravid Spain · Died: Fustat (Old Cairo), Egypt  
 Movements & eras: [Medieval Jewish thought](../movements/medieval-jewish-thought.md)  
 Also in: [Philosophy](../../philosophy/eras/02-medieval/maimonides.md)  
 
 > The foremost Jewish philosopher and legal scholar of the Middle Ages, author of the Mishneh Torah and the Guide for the Perplexed.
+
+<sub>Portrait: Imaginary portrait of Maimonides from Blasius Ugolinus, Thesaurus antiquitatum sacrarum (1744) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_of_Moses_Maimonides_in_Thesaurus_antiquitatum_sacrarum.tif)</sub>
 
 ## Biography
 
@@ -38,6 +42,10 @@ Begun when Maimonides was twenty-three and completed in Egypt in 1168, the comme
 In the Mishneh Torah ('Repetition of the Torah') Maimonides set out to summarise all of Jewish law, including laws no longer practised such as those of the Temple and the king, so that anyone could know the law without wading through the Talmud. He organised it in fourteen books, from the fundamentals of faith and knowledge of God to the laws of kings and the Messiah, in a lucid Mishnaic Hebrew, usually without citing sources or recording debates. That omission provoked criticism, notably from Rabbi Abraham ben David of Posquières, whose critical glosses are printed with it, and fears that it would replace Talmud study. It became one of the pillars of Jewish law, together with the later Shulchan Aruch of Joseph Karo. Fine illuminated copies were made in medieval Spain, Italy and Germany.
 
 ### Guide for the Perplexed (c. 1190)
+
+[![Guide for the Perplexed](https://upload.wikimedia.org/wikipedia/commons/9/90/Manuscript_page_by_Maimonides_Arabic_in_Hebrew_letters.jpg)](https://commons.wikimedia.org/wiki/File:Manuscript_page_by_Maimonides_Arabic_in_Hebrew_letters.jpg)
+
+<sub>Manuscript page in Maimonides's hand, Arabic written in Hebrew letters Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Manuscript_page_by_Maimonides_Arabic_in_Hebrew_letters.jpg).</sub>
 
 - **Date:** c. 1190
 - **Type:** Philosophical treatise

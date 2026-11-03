@@ -1,10 +1,14 @@
 # Teresa of Ávila
 
+<a href="https://commons.wikimedia.org/wiki/File:Santa_Teresa_de_Jes%C3%BAs_%28Museo_del_Prado%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Santa_Teresa_de_Jes%C3%BAs_%28Museo_del_Prado%29.jpg/330px-Santa_Teresa_de_Jes%C3%BAs_%28Museo_del_Prado%29.jpg" alt="Teresa of Ávila" title="Saint Teresa of Jesus, painting in the Museo del Prado"></a>
+
 **1515 – 1582** · Spanish  
 Born: Ávila, Castile · Died: Alba de Tormes  
 Movements & eras: [Catholic Reformation](../movements/catholic-reformation.md)  
 
 > Spanish Carmelite nun, mystic and reformer, whose writings on prayer made her the first woman named a doctor of the church.
+
+<sub>Portrait: Saint Teresa of Jesus, painting in the Museo del Prado · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Santa_Teresa_de_Jes%C3%BAs_%28Museo_del_Prado%29.jpg)</sub>
 
 ## Biography
 

@@ -1,10 +1,14 @@
 # Philipp Jakob Spener
 
+<a href="https://commons.wikimedia.org/wiki/File:Philipp_Jakob_Spener.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Philipp_Jakob_Spener.jpg" alt="Philipp Jakob Spener" title="Portrait of Philipp Jakob Spener"></a>
+
 **1635 – 1705** · German  
 Born: Rappoltsweiler (Ribeauvillé), Alsace · Died: Berlin  
 Movements & eras: [Puritanism & Pietism](../movements/puritanism-pietism.md)  
 
 > Lutheran pastor in Frankfurt whose Pia Desideria launched the Pietist movement, often called the father of Pietism.
+
+<sub>Portrait: Portrait of Philipp Jakob Spener · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Philipp_Jakob_Spener.jpg)</sub>
 
 ## Biography
 

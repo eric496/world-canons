@@ -1,10 +1,14 @@
 # John Henry Newman
 
+<a href="https://commons.wikimedia.org/wiki/File:John_Henry_Newman_by_Sir_John_Everett_Millais%2C_1st_Bt.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/John_Henry_Newman_by_Sir_John_Everett_Millais%2C_1st_Bt.jpg/330px-John_Henry_Newman_by_Sir_John_Everett_Millais%2C_1st_Bt.jpg" alt="John Henry Newman" title="John Everett Millais, John Henry Newman, 1881 (National Portrait Gallery, London)"></a>
+
 **1801 – 1890** · English  
 Born: London · Died: Edgbaston, Birmingham  
 Movements & eras: [19th-century theology](../movements/nineteenth-century-religion.md)  
 
 > Anglican leader of the Oxford Movement who became a Roman Catholic and a cardinal, author of the Apologia Pro Vita Sua and The Idea of a University.
+
+<sub>Portrait: John Everett Millais, John Henry Newman, 1881 (National Portrait Gallery, London) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Henry_Newman_by_Sir_John_Everett_Millais%2C_1st_Bt.jpg)</sub>
 
 ## Biography
 
@@ -27,6 +31,10 @@ His Essay on the Development of Christian Doctrine argued that doctrine grows or
 Newman wrote the Essay while trying to decide whether the Roman Catholic Church was the true heir of the early church, despite doctrines not explicitly found in scripture or the early Fathers. He argued that living ideas unfold over time, as an acorn becomes an oak, and proposed seven 'notes' for distinguishing true developments from corruptions, such as preservation of type, continuity of principles and chronic vigour. He finished it before his reception into the Catholic Church in October 1845. Controversial at first among both Protestants and Catholics, the idea of doctrinal development became widely influential, and is reflected in the Second Vatican Council.
 
 ### Apologia Pro Vita Sua (1864)
+
+[![Apologia Pro Vita Sua](https://upload.wikimedia.org/wikipedia/commons/c/cb/Title_page_of_the_first_edition_of_Apologia_Pro_Vita_Sua.jpg)](https://commons.wikimedia.org/wiki/File:Title_page_of_the_first_edition_of_Apologia_Pro_Vita_Sua.jpg)
+
+<sub>Title page of the first edition, 1864 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Title_page_of_the_first_edition_of_Apologia_Pro_Vita_Sua.jpg).</sub>
 
 - **Date:** 1864
 - **Type:** Spiritual autobiography

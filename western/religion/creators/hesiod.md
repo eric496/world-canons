@@ -1,10 +1,14 @@
 # Hesiod
 
+<a href="https://commons.wikimedia.org/wiki/File:Bust_of_Hesiod_%28%3F%29-Ancient_Roman_busts_in_the_Neues_Museum.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bust_of_Hesiod_%28%3F%29-Ancient_Roman_busts_in_the_Neues_Museum.jpg" alt="Hesiod" title="Roman bust traditionally identified as Hesiod, Neues Museum, Berlin; the identification is uncertain"></a>
+
 **fl. c. 700 BC** · Greek  
 Born: Ascra, Boeotia · Died:   
 Movements & eras: [Greco-Roman religion](../movements/greco-roman-religion.md)  
 
 > Greek poet whose Theogony gave the classic account of the birth of the gods, and whose Works and Days joined myth to farming, justice and piety.
+
+<sub>Portrait: Roman bust traditionally identified as Hesiod, Neues Museum, Berlin; the identification is uncertain · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bust_of_Hesiod_%28%3F%29-Ancient_Roman_busts_in_the_Neues_Museum.jpg)</sub>
 
 ## Biography
 
@@ -18,6 +22,10 @@ Hesiod's importance for the history of religion is that he systematised Greek be
 - [Works and Days](#works-and-days-c-700-bc) (c. 700 BC)
 
 ### Theogony (c. 700 BC)
+
+[![Theogony](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hesiod%2C_Theogony%2C_Venice%2C_Gr._464.jpg/960px-Hesiod%2C_Theogony%2C_Venice%2C_Gr._464.jpg)](https://commons.wikimedia.org/wiki/File:Hesiod%2C_Theogony%2C_Venice%2C_Gr._464.jpg)
+
+<sub>The Theogony in a medieval Greek manuscript, Biblioteca Marciana, Venice (Gr. 464) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Hesiod%2C_Theogony%2C_Venice%2C_Gr._464.jpg).</sub>
 
 - **Date:** c. 700 BC
 - **Type:** Epic poem

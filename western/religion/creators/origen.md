@@ -1,10 +1,14 @@
 # Origen of Alexandria
 
+<a href="https://commons.wikimedia.org/wiki/File:Origen3.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Origen3.jpg" alt="Origen of Alexandria" title="Imaginary engraved portrait of Origen"></a>
+
 **c. 185 – c. 253** · Egyptian Greek  
 Born: Alexandria, Egypt · Died: Tyre or Caesarea  
 Movements & eras: [Church Fathers & the Councils](../movements/church-fathers.md)  
 
 > The most prolific scholar of the early church, a pioneer of biblical textual criticism and allegorical interpretation whose bold speculations were later condemned.
+
+<sub>Portrait: Imaginary engraved portrait of Origen · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Origen3.jpg)</sub>
 
 ## Biography
 

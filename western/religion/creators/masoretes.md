@@ -19,6 +19,10 @@ The Masoretic Text became the authoritative Hebrew Bible of Judaism and the basi
 
 ### Aleppo Codex (c. 930)
 
+[![Aleppo Codex](https://upload.wikimedia.org/wikipedia/commons/7/75/Aleppo_Codex_Joshua_1_1.jpg)](https://commons.wikimedia.org/wiki/File:Aleppo_Codex_Joshua_1_1.jpg)
+
+<sub>Aleppo Codex, the opening of the Book of Joshua Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Aleppo_Codex_Joshua_1_1.jpg).</sub>
+
 - **Date:** c. 930
 - **Type:** Manuscript (Hebrew Bible codex)
 - **Where written / held:** Israel Museum (Shrine of the Book), Jerusalem
@@ -27,6 +31,10 @@ The Masoretic Text became the authoritative Hebrew Bible of Judaism and the basi
 The Aleppo Codex is a parchment codex of the whole Hebrew Bible written around 930 in Tiberias. Its consonantal text was copied by the scribe Shlomo ben Buya'a, and the vowel points, accents and Masoretic notes were added, according to its colophon, by Aaron ben Asher, the leading Masorete of his day. Maimonides is believed to have used it when he set out rules for writing Torah scrolls, which gave it unique prestige. After passing through Jerusalem and Cairo it was kept for some five centuries by the Jewish community of Aleppo in Syria. During riots in December 1947 the synagogue was burned and large parts of the codex, including most of the Torah, went missing; the surviving leaves were smuggled to Israel in 1957–58. It is the basis of the Hebrew University Bible Project edition, and the fate of the missing pages remains the subject of investigation.
 
 ### Leningrad Codex (1008–1010)
+
+[![Leningrad Codex](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Leningrad_Codex_Folio_474a.jpg/1280px-Leningrad_Codex_Folio_474a.jpg)](https://commons.wikimedia.org/wiki/File:Leningrad_Codex_Folio_474a.jpg)
+
+<sub>Leningrad Codex, folio 474a, a decorated 'carpet page' Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Leningrad_Codex_Folio_474a.jpg).</sub>
 
 - **Date:** 1008–1010
 - **Type:** Manuscript (Hebrew Bible codex)

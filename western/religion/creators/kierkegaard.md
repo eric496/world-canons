@@ -1,11 +1,15 @@
 # Søren Kierkegaard
 
+<a href="https://commons.wikimedia.org/wiki/File:S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg" alt="Søren Kierkegaard" title="Drawn portrait of Søren Kierkegaard (no photograph of him exists)"></a>
+
 **1813 – 1855** · Danish  
 Born: Copenhagen · Died: Copenhagen  
 Movements & eras: [19th-century theology](../movements/nineteenth-century-religion.md)  
 Also in: [Philosophy](../../philosophy/eras/04-19th-century/soren-kierkegaard.md)  
 
 > Danish philosopher and religious writer who explored faith, anxiety and the individual's relation to God, and attacked the comfortable Christianity of the established church.
+
+<sub>Portrait: Drawn portrait of Søren Kierkegaard (no photograph of him exists) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg)</sub>
 
 ## Biography
 
@@ -20,6 +24,10 @@ Kierkegaard insisted that faith is a passionate, personal decision before God th
 
 ### Fear and Trembling (1843)
 
+[![Fear and Trembling](https://upload.wikimedia.org/wikipedia/commons/7/76/Fear_and_Trembling.jpg)](https://commons.wikimedia.org/wiki/File:Fear_and_Trembling.jpg)
+
+<sub>Title page of Frygt og Bæven, 1843 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Fear_and_Trembling.jpg).</sub>
+
 - **Date:** 1843
 - **Type:** Philosophical-religious essay
 - **Where written / held:** Published under the pseudonym Johannes de Silentio, Copenhagen
@@ -28,6 +36,10 @@ Kierkegaard insisted that faith is a passionate, personal decision before God th
 Kierkegaard's pseudonymous author, Johannes de Silentio, retells the story of the binding of Isaac (Genesis 22) in several versions and confesses that he cannot understand Abraham. He argues that if Abraham is the father of faith, faith cannot be the same as ethics, the universal duty that would forbid killing one's son; it must involve a 'teleological suspension of the ethical' and an absolute relation of the individual to God, held 'by virtue of the absurd'. He contrasts the 'knight of faith', who gives up everything and receives it back, with the 'knight of infinite resignation'. The book reflects Kierkegaard's own broken engagement and his polemic against Hegelian philosophy and comfortable Christianity, and is a key text for existentialism and for debates in Jewish and Christian thought on the Akedah.
 
 ### The Sickness unto Death (1849)
+
+[![The Sickness unto Death](https://upload.wikimedia.org/wikipedia/commons/3/31/The_Sickness_Unto_Death.jpg)](https://commons.wikimedia.org/wiki/File:The_Sickness_Unto_Death.jpg)
+
+<sub>Title page of Sygdommen til Døden, 1849 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_Sickness_Unto_Death.jpg).</sub>
 
 - **Date:** 1849
 - **Type:** Philosophical-religious treatise

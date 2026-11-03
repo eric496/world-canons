@@ -15,7 +15,9 @@
   "bio_full": [
    "Hesiod is one of the two earliest Greek poets whose works survive, usually dated around 700 BC, a little after or roughly contemporary with the Homeric epics. Almost everything known about him comes from his own poems: he describes himself as a farmer and shepherd in Ascra, a village below Mount Helicon in Boeotia, where the Muses appeared to him and gave him the gift of song. He mentions a dispute with his brother Perses over their inheritance and a victory in a poetry contest at Chalcis. Ancient scholars debated which poems were really his, and modern scholars generally accept only the Theogony and Works and Days as substantially his own.",
    "Hesiod's importance for the history of religion is that he systematised Greek beliefs about the gods into a genealogy, from Chaos and Earth through the Titans to the rule of Zeus. Herodotus later said that Homer and Hesiod had given the Greeks their gods, their names and their shapes. His stories of Prometheus, Pandora and the ages of humankind became permanent parts of Western culture, and his insistence that Zeus upholds justice shaped later Greek moral and religious thought."
-  ]
+  ],
+  "portrait_file": "Bust of Hesiod (?)-Ancient Roman busts in the Neues Museum.jpg",
+  "portrait_caption": "Roman bust traditionally identified as Hesiod, Neues Museum, Berlin; the identification is uncertain"
  },
  {
   "id": "homeric-hymn-poets",
@@ -124,7 +126,9 @@
   "bio_full": [
    "Philo was born into a wealthy and prominent Jewish family of Alexandria, then the greatest city of the Greek-speaking world and home to a large Jewish community. His brother Alexander was a leading official, and his nephew Tiberius Julius Alexander became prefect of Egypt. Philo received a full Greek education and wrote in Greek, reading scripture in the Septuagint. The one firmly dated event of his life is his leadership of a Jewish embassy to the emperor Caligula in AD 39–40, after anti-Jewish riots in Alexandria, which he described in The Embassy to Gaius.",
    "Philo's many surviving treatises, mainly on the books of Moses, use allegorical interpretation to show that the Torah teaches the same truths as the best Greek philosophy. He described God as utterly transcendent and spoke of the divine Logos, or Word, as an intermediary in creation, an idea that resonates with the opening of John's Gospel. Philo had little influence on later rabbinic Judaism, but Christian writers such as Clement of Alexandria, Origen and Ambrose read him closely, and his works were preserved by the church."
-  ]
+  ],
+  "portrait_file": "PhiloThevet.jpg",
+  "portrait_caption": "Imaginary portrait of Philo, engraving from André Thevet's Les vrais pourtraits (1584)"
  },
  {
   "id": "josephus",
@@ -142,7 +146,9 @@
   "bio_full": [
    "Joseph son of Matthias was born in Jerusalem into a priestly family. In the Jewish revolt against Rome that began in AD 66 he commanded rebel forces in Galilee, but surrendered after the siege of Jotapata in 67. By his own account he predicted that the Roman general Vespasian would become emperor; when this came true he was freed, took the family name Flavius, and accompanied Titus at the siege and destruction of Jerusalem in 70. He spent the rest of his life in Rome under imperial patronage, writing in Greek.",
    "His Jewish War and Jewish Antiquities, together with his autobiography and the apologetic Against Apion, are the main sources for Jewish history in the late Second Temple period, describing Pharisees, Sadducees and Essenes, Herod the Great and the fall of Masada. The Antiquities contains brief references to John the Baptist, to James 'the brother of Jesus', and to Jesus himself; the passage on Jesus, the Testimonium Flavianum, is widely believed to have been expanded by later Christian copyists, though many scholars think an authentic core lies beneath it. Jews long regarded him as a turncoat, while Christians preserved and treasured his works."
-  ]
+  ],
+  "portrait_file": "Joseph, son of Gorian, called Flavius Josephus (cropped).jpg",
+  "portrait_caption": "Imaginary engraved portrait of Josephus"
  },
  {
   "id": "gospel-writers",
@@ -178,7 +184,9 @@
   "bio_full": [
    "Paul, originally called Saul, was born into a Jewish family in Tarsus in Asia Minor and, according to Acts, held Roman citizenship. He describes himself as a zealous Pharisee who persecuted the early followers of Jesus, until a vision of the risen Christ, traditionally placed on the road to Damascus, made him an apostle. For some two decades from the late 40s he travelled through Asia Minor, Greece and beyond, founding communities of largely gentile believers and writing to them. He was arrested in Jerusalem, taken to Rome, and according to early tradition was executed there under Nero in the mid-60s.",
    "Thirteen New Testament letters bear Paul's name. Scholars broadly agree that seven are his own: Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon, written roughly AD 50–60, while the authorship of the others is debated or widely doubted. In them Paul argues that gentiles may belong to God's people through faith in Christ without adopting the Jewish law, and develops ideas of grace, justification, the church as the body of Christ and the resurrection. His reading by Augustine, Luther and Barth made him decisive for Western theology, and his relation to Judaism remains a lively field of scholarship."
-  ]
+  ],
+  "portrait_file": "Fresco of Saint Paul at Ephesus.jpg",
+  "portrait_caption": "Saint Paul, fresco in the so-called Grotto of St Paul, Ephesus, c. 6th century"
  },
  {
   "id": "john-of-patmos",
@@ -233,7 +241,9 @@
   "bio_full": [
    "Origen was born to a Christian family in Alexandria; his father was martyred in the persecution of 202, and the young Origen took over the city's catechetical school. He lived ascetically and, according to Eusebius, castrated himself in literal obedience to a saying of Jesus, a report some historians doubt. After conflict with Bishop Demetrius of Alexandria he moved around 231 to Caesarea in Palestine, where he founded a school and library. Arrested and tortured in the Decian persecution of 250, he died a few years later.",
    "Origen wrote commentaries and homilies on almost every book of the Bible, the Hexapla comparing Hebrew and Greek texts, the apologetic Against Celsus, and On First Principles, the first systematic Christian theology. He read scripture on literal, moral and spiritual levels, and speculated on the pre-existence of souls and the final restoration of all things. Some of these ideas were condemned in the 6th century, and many of his works are lost or survive only in Latin translation. He nevertheless shaped the exegesis and spirituality of both the Greek and Latin churches."
-  ]
+  ],
+  "portrait_file": "Origen3.jpg",
+  "portrait_caption": "Imaginary engraved portrait of Origen"
  },
  {
   "id": "athanasius",
@@ -252,7 +262,9 @@
   "bio_full": [
    "Athanasius attended the Council of Nicaea in 325 as a young deacon and secretary to Bishop Alexander, whom he succeeded as bishop of Alexandria in 328. For the next forty-five years he fought for the council's teaching that the Son is 'of one substance' with the Father against the followers of Arius, who held that the Son was a created being. Shifting imperial politics sent him into exile five times, once hiding among the monks of the Egyptian desert. He died in office in 373.",
    "Athanasius's treatise On the Incarnation argues that God became human so that humans might share in the divine life. His Life of Antony, about the Egyptian hermit, became a model for Christian biography and spread the monastic ideal across the Roman world; Augustine records its effect on his conversion. His Easter letter of 367 is the earliest known list of the twenty-seven books of the New Testament exactly as they now stand. He is venerated as a saint and doctor of the church in East and West."
-  ]
+  ],
+  "portrait_file": "Fethiye Camii, parekklesion, diakonikon, mosaics, Istanbul, Turkey - South wall, St. Athanasius, detail of upper half - MSBZ004 BF T F 027 B - Dumbarton Oaks.jpg",
+  "portrait_caption": "St Athanasius, Byzantine mosaic in the Pammakaristos church (Fethiye Camii), Istanbul, early 14th century"
  },
  {
   "id": "church-councils",
@@ -291,7 +303,9 @@
   "bio_full": [
    "Basil, called 'the Great', came from a wealthy and devout family of Cappadocia in Asia Minor; his brother Gregory of Nyssa and sister Macrina were also revered as saints. He studied in Constantinople and Athens, where he befriended Gregory of Nazianzus, then turned to the ascetic life and visited monks in Egypt, Syria and Palestine. Ordained priest and, in 370, bishop of Caesarea, he built a complex of hospital, hostel and poorhouse, the Basileias, and defended Nicene orthodoxy against the emperor Valens.",
    "With the two Gregories, Basil shaped the classic doctrine of the Trinity as one essence in three persons, and his On the Holy Spirit defended the full divinity of the Spirit. His Asketikon, the rules he wrote for communities of monks, favoured communal life over solitary hermitage and remains the foundation of Eastern monasticism. A eucharistic liturgy bearing his name is still celebrated on certain days of the Orthodox year."
-  ]
+  ],
+  "portrait_file": "Basil of Caesarea.jpg",
+  "portrait_caption": "St Basil the Great, Byzantine depiction"
  },
  {
   "id": "john-chrysostom",
@@ -310,7 +324,9 @@
   "bio_full": [
    "John was born in Antioch, studied rhetoric under the pagan orator Libanius, and lived for some years as a hermit before ill health brought him back to the city. As a priest in Antioch from 386 he became famous for his preaching, delivering long series of sermons on books of the Bible. In 398 he was made archbishop of Constantinople, where his attacks on luxury and his reforms of the clergy offended the empress Eudoxia and Archbishop Theophilus of Alexandria. Deposed and exiled, he died on a forced march in 407. The name Chrysostom, 'golden mouth', was given to him after his death.",
    "His hundreds of surviving homilies are models of practical, literal biblical interpretation and moral exhortation, especially on wealth and care for the poor. A series of sermons he preached against Christians attending synagogue in Antioch contain harsh anti-Jewish language that historians regard as an important and troubling chapter in the history of Christian anti-Judaism. The Divine Liturgy most often celebrated in the Orthodox churches bears his name, though it developed over time."
-  ]
+  ],
+  "portrait_file": "Johnchrysostom.jpg",
+  "portrait_caption": "St John Chrysostom, Byzantine depiction"
  },
  {
   "id": "jerome",
@@ -329,7 +345,9 @@
   "bio_full": [
    "Eusebius Hieronymus was born at Stridon, on the borders of Dalmatia and Pannonia, and studied in Rome, where he was baptised. After a period as a hermit in the Syrian desert, where he learned Hebrew, he became secretary to Pope Damasus in Rome, who commissioned him to revise the Latin Gospels. His ascetic teaching attracted a circle of aristocratic Roman women, including Paula and her daughter Eustochium, who followed him to Bethlehem in 386. There he founded monasteries and spent his last thirty-four years translating, commenting and corresponding.",
    "Jerome's insistence on translating the Old Testament from the Hebrew rather than the Greek Septuagint, which he called the 'Hebrew truth', was controversial in his time, notably with Augustine. His Latin Bible, later called the Vulgate, together with his commentaries and vivid, often combative letters, made him one of the four great Latin doctors of the church. Renaissance painters frequently showed him as a scholar in his study with a lion, or as a penitent in the wilderness."
-  ]
+  ],
+  "portrait_file": "MatthiasStom-SaintJerome-Nantes.jpg",
+  "portrait_caption": "Matthias Stom, Saint Jerome, 17th century (Musée d'arts de Nantes)"
  },
  {
   "id": "augustine",
@@ -347,7 +365,9 @@
   "bio_full": [
    "Augustine was born at Thagaste in Roman North Africa to a pagan father and a Christian mother, Monica. He studied and taught rhetoric in Carthage, Rome and Milan, and for nine years followed the Manichaean religion. In Milan, influenced by Neoplatonist philosophy and by the sermons of Bishop Ambrose, he converted to Christianity in 386 and was baptised in 387. Returning to Africa, he was ordained priest at Hippo Regius and in 395 or 396 became its bishop, a post he held until his death in 430 while the city was besieged by the Vandals.",
    "Augustine wrote prodigiously: autobiography, sermons, letters, biblical commentaries, and controversial works against Manichaeans, Donatists and Pelagians. His teachings on original sin, grace, predestination, the Trinity and the church, and his idea of history as the story of two cities, became the framework of Western theology. Medieval scholastics, Luther and Calvin, Catholic Jansenists and modern philosophers have all claimed him in different ways."
-  ]
+  ],
+  "portrait_file": "Saint Augustine by Philippe de Champaigne.jpg",
+  "portrait_caption": "Philippe de Champaigne, Saint Augustine, c. 1645–50"
  },
  {
   "id": "pseudo-dionysius",
@@ -384,7 +404,9 @@
   "bio_full": [
    "What is known of Benedict comes almost entirely from the second book of Gregory the Great's Dialogues, written some fifty years after his death and full of miracle stories. According to Gregory, Benedict was born at Nursia to a good family, studied in Rome, and fled its corruption to live as a hermit in a cave at Subiaco. Disciples gathered around him and he organised them into small monasteries. Around 529 he founded the monastery of Monte Cassino, between Rome and Naples, where he wrote his Rule and where he died. His sister Scholastica is also venerated as a saint.",
    "Benedict's Rule is notable for its moderation, balance between prayer, work and reading, and its picture of the abbot as a father. Over the following centuries, with the support of popes and Carolingian rulers, it became the standard rule for monasteries across Latin Europe, and Benedictine houses became centres of learning, agriculture and book copying. In 1964 Pope Paul VI named Benedict a patron saint of Europe."
-  ]
+  ],
+  "portrait_file": "Memling, Trittico di Benedetto Portinari, San Benedetto.jpg",
+  "portrait_caption": "Hans Memling, Saint Benedict, panel of the Portinari Triptych, 1487 (Uffizi)"
  },
  {
   "id": "gregory-the-great",
@@ -403,7 +425,9 @@
   "bio_full": [
    "Gregory came from a senatorial family in Rome and served as prefect of the city before giving away his wealth and turning his family home into a monastery. He spent several years in Constantinople as papal envoy and was elected pope in 590, amid plague, Lombard invasion and the weakness of imperial government in Italy. He managed the church's estates to feed Rome, negotiated with the Lombards, and in 596 sent the monk Augustine with a mission to the Anglo-Saxons of Kent.",
    "Gregory's Pastoral Rule, a guide for bishops, his Moralia on the Book of Job, his homilies and his Dialogues on the saints of Italy were among the most read books of the Middle Ages. He is counted as one of the four Latin doctors of the church. Medieval tradition associated him with the chant of the Roman liturgy, hence the name Gregorian chant, though musicologists consider the repertory to have taken shape later, largely in the Carolingian era."
-  ]
+  ],
+  "portrait_file": "Gregory the Great with the Holy Spirit.jpg",
+  "portrait_caption": "Gregory the Great inspired by the Holy Spirit in the form of a dove, medieval manuscript illumination"
  },
  {
   "id": "insular-scribes",
@@ -439,7 +463,9 @@
   "bio_full": [
    "Bede was given at the age of seven to the twin monastery of Wearmouth and Jarrow in Northumbria, then one of the great centres of learning in Europe, with a library brought from Rome by its founder Benedict Biscop. He spent his whole life there as a monk and priest, rarely travelling, devoted to study, teaching and writing. He died at Jarrow in 735, reportedly while finishing an English translation of the Gospel of John.",
    "Bede wrote biblical commentaries, works on grammar, natural science and chronology, saints' lives and his Ecclesiastical History. His work on calculating the date of Easter popularised the system of dating years from the birth of Christ (AD), devised in the 6th century by Dionysius Exiguus. Called 'Venerable' from the 9th century, he is the only Englishman named a doctor of the church."
-  ]
+  ],
+  "portrait_file": "E-codices bke-0047 001v medium (cropped).jpg",
+  "portrait_caption": "Bede depicted in a medieval manuscript (e-codices)"
  },
  {
   "id": "judah-ha-nasi",
@@ -493,7 +519,9 @@
   "bio_full": [
    "John was born in Damascus, the Umayyad capital, into a prominent Christian family, the Mansur, who served the caliphs as financial administrators; he himself appears to have held such a post. Early in the 8th century he left public life to become a monk at the monastery of Mar Saba in the Judean desert, where he spent the rest of his life writing, preaching and composing hymns. He died there around 749.",
    "When the Byzantine emperor Leo III began to attack the veneration of images in the 720s, John, living safely outside the empire, wrote three treatises in defence of icons, arguing that because God had become visible in Christ he could be depicted, and that honour paid to an image passes to its prototype. His Fount of Knowledge, whose third part is the Exact Exposition of the Orthodox Faith, summed up Greek patristic doctrine and was translated into Latin in the 12th century. He is also counted among the great hymnographers of the Orthodox Church."
-  ]
+  ],
+  "portrait_file": "Athonite Fresco Icon of Saint John of Damascus.jpg",
+  "portrait_caption": "St John of Damascus, fresco icon from Mount Athos"
  },
  {
   "id": "byzantine-iconographers",
@@ -547,7 +575,9 @@
   "bio_full": [
    "Shlomo Yitzchaki, known by the acronym Rashi, was born in Troyes in Champagne and studied in the Rhineland academies of Mainz and Worms before returning home to found his own school around 1070. Tradition says he supported himself by viticulture. He had no sons, but his daughters married scholars and his grandsons, including Rabbi Samuel ben Meir (Rashbam) and Rabbenu Tam, became leaders of the Tosafist school of talmudic commentary. His last years saw the massacres of Rhineland Jewish communities during the First Crusade in 1096.",
    "Rashi's commentaries explain the plain sense (peshat) of the text in clear, economical Hebrew, drawing selectively on rabbinic midrash and sometimes glossing words in Old French written in Hebrew letters, a valuable source for the history of the French language. His Torah commentary was the first dated Hebrew book ever printed (1475), and his Talmud commentary is printed on the inner margin of every standard edition. Christian scholars, notably Nicholas of Lyra, used his work, and through Lyra it reached Luther."
-  ]
+  ],
+  "portrait_file": "Postcard portrait of Rashi by Meir Kunstadt, early 1900s.jpg",
+  "portrait_caption": "Imaginary portrait of Rashi by Meir Kunstadt, early 1900s"
  },
  {
   "id": "anselm",
@@ -565,7 +595,9 @@
   "bio_full": [
    "Anselm was born at Aosta in the Alps and, after a restless youth, came to the Norman abbey of Bec, drawn by its prior Lanfranc. He became a monk there in 1060, then prior and abbot. In 1093 he succeeded Lanfranc as archbishop of Canterbury. His insistence on the independence of the church brought him into conflict with the English kings William II and Henry I, especially over lay investiture, and he spent two periods in exile before an agreement was reached in 1107.",
    "Anselm's motto, 'faith seeking understanding', expresses his aim of exploring by reason what is believed by faith. In the Proslogion he argued that God is 'that than which nothing greater can be conceived', an argument later called ontological and debated by philosophers ever since. In Cur Deus Homo he explained the incarnation as satisfaction for human sin owed to God's honour, a theory that shaped Western thinking about salvation. He was named a doctor of the church in 1720."
-  ]
+  ],
+  "portrait_file": "Anselm of Canterbury, seal.svg",
+  "portrait_caption": "Anselm as archbishop, drawing after his seal"
  },
  {
   "id": "bernard-of-clairvaux",
@@ -584,7 +616,9 @@
   "bio_full": [
    "Bernard was born into a noble family near Dijon and in 1113 joined the new, austere monastery of Cîteaux, bringing some thirty relatives and friends with him. In 1115 he was sent to found the abbey of Clairvaux, which he led until his death, and under his influence the Cistercian order spread across Europe. He intervened decisively in the papal schism of 1130, secured the condemnation of Peter Abelard, and in 1146 preached the Second Crusade, whose failure grieved him. He was canonised in 1174.",
    "Bernard's eighty-six sermons on the Song of Songs and his treatise On Loving God are classics of medieval mysticism, describing the soul's love for God in the language of the bride and bridegroom. He shaped Cistercian architecture's plainness through his criticism of extravagant decoration in his Apologia, and his devotion to the Virgin Mary was so famous that Dante made him his last guide in Paradise. His support for the crusades and his tone in controversy are also part of his legacy; he did, however, intervene to stop the massacre of Jews in the Rhineland in 1146."
-  ]
+  ],
+  "portrait_file": "San Bernardo, de Juan Correa de Vivar (Museo del Prado).jpg",
+  "portrait_caption": "Juan Correa de Vivar, Saint Bernard, 16th century (Museo del Prado)"
  },
  {
   "id": "hildegard",
@@ -603,7 +637,9 @@
   "bio_full": [
    "Hildegard was the tenth child of a noble family and was given as a child to the care of the anchoress Jutta at the monastery of Disibodenberg. She succeeded Jutta as head of the community of women in 1136, and around 1150 founded her own convent at Rupertsberg near Bingen on the Rhine. From 1141 she began recording the visions she had experienced since childhood, with the approval of Pope Eugenius III. She corresponded with popes, emperors and Bernard of Clairvaux, and in her sixties undertook preaching tours, unusual for a woman of her time.",
    "Her visionary works, Scivias, the Book of Life's Merits and the Book of Divine Works, set out a cosmic theology, accompanied in some manuscripts by striking illuminations. She also wrote on medicine and natural science, composed some seventy liturgical songs and a sung morality play, Ordo Virtutum, and invented a private language. Venerated for centuries, she was formally canonised and declared a doctor of the church by Pope Benedict XVI in 2012."
-  ]
+  ],
+  "portrait_file": "Hildegard von Bingen.jpg",
+  "portrait_caption": "Hildegard of Bingen receiving a vision, medieval manuscript illumination"
  },
  {
   "id": "peter-lombard",
@@ -621,7 +657,9 @@
   "bio_full": [
    "Peter was born near Novara in Lombardy and studied at Bologna and Reims before coming to Paris around 1136 with a recommendation from Bernard of Clairvaux. He taught at the cathedral school of Notre-Dame for some twenty years and was made bishop of Paris in 1159, dying the following year.",
    "His Sentences, completed around 1158, gathered quotations from scripture and the Church Fathers, above all Augustine, on every topic of doctrine, from the Trinity to the sacraments and the last things, and set out how to reconcile them. From the 13th century every candidate for a master's degree in theology had to lecture on the Sentences, so that commentaries on it by Aquinas, Bonaventure, Duns Scotus, Ockham and even the young Luther form a central body of medieval theology. Peter's list of seven sacraments became official Catholic teaching."
-  ]
+  ],
+  "portrait_file": "PeterLombar01Medieval.png",
+  "portrait_caption": "Peter Lombard teaching, medieval manuscript illumination"
  },
  {
   "id": "maimonides",
@@ -639,7 +677,9 @@
   "bio_full": [
    "Moses ben Maimon, known in Hebrew by the acronym Rambam, was born in Córdoba, then under Muslim rule. When the Almohads conquered the city around 1148 and pressured Jews and Christians to convert, his family wandered through Spain and North Africa, settling in Fez and then, around 1166, in Egypt. After his brother David, a merchant who supported the family, drowned in the Indian Ocean, Maimonides became a physician, eventually serving at the court of Saladin's vizier. He was also the leader of the Jewish community of Fustat and answered legal questions from across the Jewish world.",
    "His Commentary on the Mishnah included the Thirteen Principles of faith, later the basis of hymns in the prayer book; his Mishneh Torah codified the whole of Jewish law in clear Hebrew; and his Guide for the Perplexed, written in Arabic, sought to reconcile Torah and Aristotelian philosophy. His rationalism provoked bitter controversy after his death, but he became the most authoritative figure of medieval Judaism, and Aquinas and other Christian scholastics read the Guide in Latin."
-  ]
+  ],
+  "portrait_file": "Portrait of Moses Maimonides in Thesaurus antiquitatum sacrarum.tif",
+  "portrait_caption": "Imaginary portrait of Maimonides from Blasius Ugolinus, Thesaurus antiquitatum sacrarum (1744)"
  },
  {
   "id": "judah-halevi",
@@ -693,7 +733,9 @@
   "bio_full": [
    "Giovanni di Pietro di Bernardone, called Francesco, was the son of a prosperous merchant of Assisi. After a carefree youth and a spell as a prisoner of war, he underwent a conversion in his early twenties, renouncing his inheritance in a famous public scene before the bishop of Assisi. He lived as a penitent, rebuilt ruined churches and cared for lepers, and attracted followers whose simple way of life Pope Innocent III approved around 1209. Clare of Assisi founded a parallel order of women. Francis travelled to Egypt during the Fifth Crusade in 1219 and met Sultan al-Kamil. According to his early biographers, in 1224 he received the stigmata, the wounds of Christ. He died at the Porziuncola below Assisi in 1226 and was canonised two years later.",
    "Francis's ideal of following the poor Christ literally, owning nothing, preaching penance and peace, and seeing all creatures as brothers and sisters, inspired a rapid spread of the friars and a lasting tension within the order over how strictly to observe poverty. His Canticle of the Sun is among the first works of Italian literature. The cycle of his life in the basilica at Assisi and countless later images made him a central figure of European art, and in 1979 he was named patron saint of ecology."
-  ]
+  ],
+  "portrait_file": "StFrancis part.jpg",
+  "portrait_caption": "Medieval depiction of Saint Francis"
  },
  {
   "id": "aquinas",
@@ -712,7 +754,9 @@
   "bio_full": [
    "Thomas was born into a noble family at Roccasecca between Rome and Naples and educated at the abbey of Monte Cassino and the university of Naples. Against fierce family opposition, which included confining him for a year, he joined the new Dominican order of preachers. He studied under Albert the Great in Paris and Cologne and taught in Paris, Naples and at Dominican houses in Italy. In December 1273 he stopped writing after an experience during Mass, reportedly saying that everything he had written seemed like straw. He died on his way to the Council of Lyon in 1274 and was canonised in 1323.",
    "In the Summa contra Gentiles and the unfinished Summa Theologiae, Aquinas argued that faith and reason cannot contradict each other, offered his 'five ways' of arguing for God's existence, and set out a theology of nature, grace, natural law, virtue and the sacraments. Some of his propositions were condemned in Paris in 1277, but he was later held up as the church's common doctor. In 1879 Pope Leo XIII made his thought the basis of Catholic theological education, and Thomism remains a living philosophical tradition. He also wrote the hymns for the feast of Corpus Christi."
-  ]
+  ],
+  "portrait_file": "St-thomas-aquinasFXD.jpg",
+  "portrait_caption": "Carlo Crivelli, Saint Thomas Aquinas, from the Demidoff Altarpiece, 1476 (National Gallery, London)"
  },
  {
   "id": "eckhart",
@@ -785,7 +829,9 @@
   "bio_full": [
    "Jacobus was born at Varazze near Genoa and entered the Dominican order in 1244. He was a noted preacher and teacher, served as provincial of the Dominicans in Lombardy, and in 1292 became archbishop of Genoa, where he worked to make peace between the city's warring factions. He also wrote a chronicle of Genoa and many model sermons.",
    "His Legenda aurea, compiled around 1260, retells the lives of the saints and the feasts of the church year, drawing on earlier sources and including many miraculous stories. It survives in about a thousand manuscripts, was translated into every major European language and was among the earliest books printed; William Caxton's English version appeared in 1483. Renaissance humanists and Reformers criticised its credulity, but it was a principal source for the subjects of medieval and Renaissance religious art."
-  ]
+  ],
+  "portrait_file": "PalazzoTrinci010 (cropped).jpg",
+  "portrait_caption": "Jacobus de Voragine, fresco in the Palazzo Trinci, Foligno"
  },
  {
   "id": "wycliffe",
@@ -803,7 +849,9 @@
   "bio_full": [
    "Wycliffe was a leading philosopher and theologian at Oxford, where he was master of Balliol College. From the 1370s he enjoyed the protection of John of Gaunt and argued that the church should give up its property and that civil rulers might remove corrupt clergy. He went on to attack papal authority and the doctrine of transubstantiation, and to teach that scripture is the supreme authority for Christians. Condemned by the pope and by an English council in 1382, he retired to his parish of Lutterworth, where he died in 1384. The Council of Constance later declared him a heretic, and in 1428 his remains were exhumed and burned.",
    "Wycliffe's followers, known as Lollards, produced English translations of the whole Bible from the Latin Vulgate, and spread his ideas among clergy and lay people. His writings influenced Jan Hus in Bohemia, and through him the wider currents of reform. Historians debate how far Wycliffe himself took part in the translation that bears his name."
-  ]
+  ],
+  "portrait_file": "Wycliffe by Kirby.jpg",
+  "portrait_caption": "John Wycliffe, engraving (an imagined likeness)"
  },
  {
   "id": "gutenberg",
@@ -821,7 +869,9 @@
   "bio_full": [
    "Johannes Gensfleisch zur Laden zum Gutenberg was born in Mainz into a patrician family and trained, it seems, as a metalworker. In the 1430s he was in Strasbourg, where lawsuits show him working on secret projects with partners. Back in Mainz by 1448, he borrowed money from the merchant Johann Fust to develop a printing workshop, and by about 1455 had completed the great Latin Bible. A lawsuit then gave Fust control of much of the equipment, which he ran with Peter Schöffer. Gutenberg continued printing on a smaller scale and in 1465 was given a pension by the archbishop of Mainz.",
    "Gutenberg's achievement lay in combining a hand mould for casting uniform metal type, an oil-based ink and an adapted screw press. The new technology spread rapidly across Europe; within fifty years millions of books had been printed. It transformed religion as well as learning, making the Reformation's flood of pamphlets, Bibles and catechisms possible."
-  ]
+  ],
+  "portrait_file": "Mainz Gutenbergdenkmal 2016 (cropped).jpg",
+  "portrait_caption": "Bertel Thorvaldsen's statue of Gutenberg in Mainz (1837), an imagined likeness"
  },
  {
   "id": "erasmus",
@@ -839,7 +889,9 @@
   "bio_full": [
    "Erasmus was born in Rotterdam, the illegitimate son of a priest, and educated by the Brethren of the Common Life before entering an Augustinian monastery at Steyn and being ordained in 1492. Released to study in Paris, he spent the rest of his life as an independent scholar, travelling between France, England, Italy, the Low Countries and Switzerland, and living from patronage and the sale of his books. He was a friend of Thomas More and worked closely with printers such as Aldus Manutius in Venice and Johann Froben in Basel, where he died in 1536.",
    "Erasmus's 'philosophy of Christ' sought a simple, inward faith based on the Gospels, and he satirised superstition and clerical abuses in The Praise of Folly. His Greek New Testament of 1516 was the basis of Luther's and Tyndale's translations. Many contemporaries said that Erasmus laid the egg that Luther hatched, but he refused to leave the Catholic Church and quarrelled with Luther over free will in 1524–25. Admired by Catholics and Protestants alike, he was distrusted by the zealots of both."
-  ]
+  ],
+  "portrait_file": "Holbein-erasmus.jpg",
+  "portrait_caption": "Hans Holbein the Younger, portrait of Erasmus, 1523"
  },
  {
   "id": "luther",
@@ -857,7 +909,9 @@
   "bio_full": [
    "Luther was born in Eisleben, the son of a mining entrepreneur, and studied law at Erfurt before, after a terrifying thunderstorm in 1505, entering the Augustinian friary there. He became a doctor of theology and professor of scripture at the new University of Wittenberg in 1512. His study of Paul's letters convinced him that sinners are justified by God's grace through faith alone. His Ninety-five Theses against the sale of indulgences (1517) set off a controversy that led to his excommunication by Pope Leo X in 1521 and condemnation by the emperor at the Diet of Worms. Protected by the elector of Saxony, he translated the New Testament at the Wartburg castle, then returned to Wittenberg to lead the reform. In 1525 he married the former nun Katharina von Bora.",
    "Luther's writings, from the reforming treatises of 1520 to his catechisms, hymns, sermons and the complete German Bible of 1534, shaped Protestant theology and the German language alike. He taught the priesthood of all believers and the authority of scripture over tradition. His harsh writings against the rebellious peasants in 1525 and his virulent late tracts against the Jews, later exploited by the Nazis, are now widely repudiated, including by Lutheran churches. Lutheranism became the established religion of much of Germany and Scandinavia."
-  ]
+  ],
+  "portrait_file": "Lucas Cranach d.Ä. - Martin Luther, 1528 (Veste Coburg).jpg",
+  "portrait_caption": "Lucas Cranach the Elder, Martin Luther, 1528 (Veste Coburg)"
  },
  {
   "id": "melanchthon",
@@ -875,7 +929,9 @@
   "bio_full": [
    "Philipp Schwartzerdt, who took the Greek form of his name, Melanchthon ('black earth'), was a great-nephew of the Hebrew scholar Johannes Reuchlin and a prodigy in classical languages. In 1518, aged twenty-one, he became professor of Greek at Wittenberg, where he became Luther's friend and ally. He reorganised schools and universities across Protestant Germany, earning the title 'teacher of Germany', and represented the Lutherans at imperial diets and in discussions with Catholics and Reformed.",
    "His Loci communes (1521) was the first systematic presentation of Reformation theology, and his Augsburg Confession (1530) remains the basic statement of Lutheran faith. More conciliatory than Luther, he sought agreement with Catholics and with Calvinists, which led to bitter disputes among Lutherans after Luther's death."
-  ]
+  ],
+  "portrait_file": "Portrait of Philipp Melanchthon (1497–1560), by Lucas Cranach the Elder - Gemäldegalerie Alte Meister, Kassel.jpg",
+  "portrait_caption": "Lucas Cranach the Elder, Philip Melanchthon (Gemäldegalerie Alte Meister, Kassel)"
  },
  {
   "id": "tyndale",
@@ -893,7 +949,9 @@
   "bio_full": [
    "Tyndale studied at Oxford and probably Cambridge and became a priest. Inspired by Erasmus's Greek New Testament, he sought permission from the bishop of London to translate it into English; refused, he left England in 1524 and never returned. Working in Germany and the Low Countries, he published his New Testament in 1526 at Worms, and copies were smuggled into England, where the bishops had them burned. He went on to translate the Pentateuch and other books and wrote polemical works defending Reformation teaching. Betrayed in Antwerp in 1535, he was imprisoned at Vilvoorde castle and strangled and burned as a heretic in 1536.",
    "Tyndale's translations, made directly from Hebrew and Greek, were absorbed into later English Bibles, including the Authorised (King James) Version of 1611, which scholars estimate keeps most of his New Testament wording. Phrases such as 'let there be light' and 'the powers that be' come from him. His plain, rhythmic English made him one of the shapers of the language."
-  ]
+  ],
+  "portrait_file": "Beza's Icones, contemporary portraits of reformers of religion and letters - William Tindale on Page 58.jpg",
+  "portrait_caption": "William Tyndale, woodcut from Theodore Beza's Icones (1580)"
  },
  {
   "id": "calvin",
@@ -911,7 +969,9 @@
   "bio_full": [
    "Jean Cauvin was born in Noyon in Picardy and studied theology and law in Paris, Orléans and Bourges, absorbing humanist methods. Around 1533 he experienced what he called a 'sudden conversion' and had to flee France as persecution of Protestants grew. In Basel he published the first edition of the Institutes in 1536. That year Guillaume Farel persuaded him to stay in Geneva to lead its reform. Expelled in 1538, he spent three years in Strasbourg, then returned in 1541 and remained Geneva's chief pastor until his death, building a disciplined church order, a famous academy and an international network.",
    "Calvin taught the sovereignty of God, the authority of scripture, the spiritual presence of Christ in the Lord's Supper and, most controversially, double predestination. His Geneva became a refuge and training centre for Reformers from France, the Netherlands, Scotland and England. Its record also includes the execution of the anti-Trinitarian Michael Servetus in 1553, which Calvin supported. Calvinist churches spread through Europe and to North America, and historians from Max Weber onward have debated their influence on modern society."
-  ]
+  ],
+  "portrait_file": "John Calvin Museum Catharijneconvent RMCC s84 cropped.png",
+  "portrait_caption": "Portrait of John Calvin, 16th century (Museum Catharijneconvent, Utrecht)"
  },
  {
   "id": "cranmer",
@@ -929,7 +989,9 @@
   "bio_full": [
    "Cranmer was a Cambridge scholar who came to Henry VIII's notice by suggesting that the king's request to annul his marriage to Catherine of Aragon be put to university theologians. Made archbishop of Canterbury in 1533, he declared the marriage void and crowned Anne Boleyn. Under Henry he moved cautiously toward Protestantism, promoting the English Bible; under the young Edward VI (1547–53) he led a thorough Protestant reform of worship and doctrine. On the accession of the Catholic Mary I he was tried for heresy. He signed several recantations but, at his burning in Oxford in 1556, withdrew them and thrust first into the flames the hand that had signed them.",
    "Cranmer's lasting monument is the liturgy of the Book of Common Prayer (1549 and 1552), whose cadenced English prose has shaped Anglican worship and the English language. He also drafted the Forty-two Articles, the basis of the Thirty-nine Articles of the Church of England."
-  ]
+  ],
+  "portrait_file": "Thomas Cranmer by Gerlach Flicke.jpg",
+  "portrait_caption": "Gerlach Flicke, Thomas Cranmer, 1545 (National Portrait Gallery, London)"
  },
  {
   "id": "ignatius-of-loyola",
@@ -947,7 +1009,9 @@
   "bio_full": [
    "Íñigo López de Loyola was born into a Basque noble family and served as a courtier and soldier until a cannonball shattered his leg at the siege of Pamplona in 1521. During a long convalescence he read lives of Christ and the saints and resolved to serve God. At Manresa, near Montserrat, he spent months in prayer and penance and began the notes that became the Spiritual Exercises. After a pilgrimage to Jerusalem he studied at Alcalá, Salamanca and Paris, where he gathered companions including Francis Xavier. In 1540 Pope Paul III approved their Society of Jesus, and Ignatius led it from Rome until his death. He was canonised in 1622.",
    "The Jesuits, bound by a special vow of obedience to the pope regarding missions, became the most dynamic order of the Catholic Reformation. They founded hundreds of schools and colleges and sent missionaries to Asia, Africa and the Americas. Ignatius's Spiritual Exercises, with their method of imaginative prayer and the discernment of spirits, remain widely used by Catholics and others for retreats."
-  ]
+  ],
+  "portrait_file": "Ignatius Loyola.jpg",
+  "portrait_caption": "Portrait of Ignatius of Loyola"
  },
  {
   "id": "teresa-of-avila",
@@ -965,7 +1029,9 @@
   "bio_full": [
    "Teresa Sánchez de Cepeda y Ahumada was born in Ávila; her paternal grandfather was a converso, a Jewish convert to Christianity, a fact later concealed. She entered the Carmelite convent of the Incarnation in Ávila in 1535. After years of illness and spiritual struggle she experienced a deepening of prayer in her late thirties, with visions and raptures, including the piercing of her heart by an angel. In 1562, despite strong opposition, she founded the small convent of St Joseph in Ávila under a stricter 'discalced' (barefoot) rule, and went on to found sixteen more convents across Spain, working with John of the Cross to extend the reform to friars.",
    "Teresa's Life, The Way of Perfection and The Interior Castle describe the stages of prayer with psychological insight, humour and practical sense, and are classics of Spanish prose. Her writings were examined by the Inquisition but approved. She was canonised in 1622 and in 1970 became, with Catherine of Siena, the first woman declared a doctor of the church. Bernini's sculpture The Ecstasy of St Teresa made her vision famous."
-  ]
+  ],
+  "portrait_file": "Santa Teresa de Jesús (Museo del Prado).jpg",
+  "portrait_caption": "Saint Teresa of Jesus, painting in the Museo del Prado"
  },
  {
   "id": "john-of-the-cross",
@@ -983,7 +1049,9 @@
   "bio_full": [
    "Juan de Yepes y Álvarez grew up in poverty after the early death of his father, worked in a hospital and studied with the Jesuits and at the University of Salamanca. He joined the Carmelites in 1563 and in 1567 met Teresa of Ávila, who recruited him to extend her reform to the friars. Opponents of the reform within the order imprisoned him in Toledo in 1577 for some nine months, in a tiny cell, where he composed much of his poetry before escaping. He later served as prior and in other offices, but fell out of favour shortly before his death in 1591.",
    "His few poems, including 'The Dark Night', 'The Spiritual Canticle' and 'The Living Flame of Love', are counted among the finest lyrics in Spanish, and he wrote long prose commentaries on them that map the soul's purification and union with God. The phrase 'dark night of the soul' has passed into common speech. He was canonised in 1726 and declared a doctor of the church in 1926."
-  ]
+  ],
+  "portrait_file": "Zurbarán (atribuido)-John of the Cross-1656.jpg",
+  "portrait_caption": "Saint John of the Cross, attributed to Francisco de Zurbarán, 1656"
  },
  {
   "id": "francis-de-sales",
@@ -1001,7 +1069,9 @@
   "bio_full": [
    "François de Sales was born into a noble Savoyard family and studied in Paris with the Jesuits and law at Padua before being ordained in 1593 against his father's wishes. He worked as a missionary in the Chablais region, which had become Calvinist, and in 1602 became Catholic bishop of Geneva, residing at Annecy because Geneva was Protestant. With Jane Frances de Chantal he founded the Order of the Visitation in 1610.",
    "His Introduction to the Devout Life (1609) and Treatise on the Love of God (1616) taught that holiness is possible in every walk of life, not only in the cloister, in a gentle and accessible style. He was canonised in 1665, declared a doctor of the church in 1877 and named patron of writers and journalists."
-  ]
+  ],
+  "portrait_file": "Château de Bussy-Rabutin - Saint François de Sales, évêque de Genève (bgw19 0375) (cropped).jpg",
+  "portrait_caption": "Saint Francis de Sales, bishop of Geneva, 17th-century portrait (Château de Bussy-Rabutin)"
  },
  {
   "id": "king-james-translators",
@@ -1037,7 +1107,9 @@
   "bio_full": [
    "Pascal was a mathematical prodigy, educated at home by his father; as a young man he built a calculating machine, experimented on the vacuum and laid foundations of probability theory with Fermat. His family came under the influence of Jansenism, an Augustinian movement in French Catholicism centred on the convent of Port-Royal, where his sister Jacqueline became a nun. On the night of 23 November 1654 he had an intense religious experience, recorded on a parchment, the 'Memorial', which he sewed into his coat. He then devoted himself largely to religious writing until his early death in 1662.",
    "In the Provincial Letters (1656–57) he defended the Jansenist Antoine Arnauld and mocked the moral reasoning of some Jesuit theologians. His notes for an apology for the Christian religion, published after his death as the Pensées, contain his famous wager argument and reflections on human greatness and wretchedness. Pascal's insistence that the heart has its reasons has made him a touchstone for religious thinkers from Kierkegaard onward."
-  ]
+  ],
+  "portrait_file": "Blaise Pascal Versailles, circa 1690.JPG",
+  "portrait_caption": "Portrait of Blaise Pascal, c. 1690 (Palace of Versailles)"
  },
  {
   "id": "bunyan",
@@ -1055,7 +1127,9 @@
   "bio_full": [
    "Bunyan was the son of a brazier at Elstow near Bedford and followed his father's trade as a tinker. He served in the Parliamentary army during the Civil War. After his marriage he passed through years of spiritual anguish before joining an independent congregation in Bedford and becoming a popular preacher. After the Restoration of 1660, unlicensed preaching was outlawed, and Bunyan spent most of the next twelve years in Bedford gaol, refusing to promise to stop. Released in 1672, he became pastor of the Bedford congregation, and died in London in 1688.",
    "Bunyan wrote some sixty works, including his spiritual autobiography Grace Abounding to the Chief of Sinners. The Pilgrim's Progress, an allegory of the Christian life as a journey, became one of the most widely read books in English, translated into more than two hundred languages. Its plain, vivid English and memorable characters influenced writers from Defoe to Dickens."
-  ]
+  ],
+  "portrait_file": "John Bunyan by Thomas Sadler 1684.jpg",
+  "portrait_caption": "Thomas Sadler, John Bunyan, 1684 (National Portrait Gallery, London)"
  },
  {
   "id": "spener",
@@ -1073,7 +1147,9 @@
   "bio_full": [
    "Spener studied theology at Strasbourg, Basel and Geneva, where he encountered Reformed piety, and in 1666 became senior pastor in Frankfurt. There from 1670 he organised small groups, the collegia pietatis, meeting in homes to read the Bible and pray. He later served as court preacher in Dresden and as a church leader in Berlin, where he helped to found the University of Halle, which under August Hermann Francke became the centre of Pietism.",
    "Pietism emphasised personal conversion, Bible study by lay people, a practical Christian life and charity over doctrinal controversy. Critics among orthodox Lutherans accused it of subjectivism. Through Halle, the Moravians of Count Zinzendorf and its influence on John Wesley, it shaped evangelical Christianity worldwide."
-  ]
+  ],
+  "portrait_file": "Philipp Jakob Spener.jpg",
+  "portrait_caption": "Portrait of Philipp Jakob Spener"
  },
  {
   "id": "baal-shem-tov",
@@ -1109,7 +1185,9 @@
   "bio_full": [
    "John Wesley was the fifteenth child of Samuel Wesley, rector of Epworth, and his formidable wife Susanna. At Oxford he and his brother Charles led a group of earnest students mockingly called the 'Holy Club' or 'Methodists'. After an unhappy mission to Georgia, he experienced an assurance of salvation at a meeting in Aldersgate Street, London, on 24 May 1738, where, he wrote, he felt his heart 'strangely warmed'. From 1739, following George Whitefield, he took to preaching in the open air, and for over fifty years travelled some quarter of a million miles on horseback across Britain and Ireland, preaching tens of thousands of sermons and organising converts into societies and classes.",
    "Wesley taught that salvation was open to all and that believers could grow toward 'Christian perfection' in love. He remained an Anglican clergyman, but his ordination of ministers for America led after his death to the separation of the Methodists from the Church of England. Methodism became one of the largest Protestant movements, and his concern for the poor, education and the abolition of slavery influenced social reform."
-  ]
+  ],
+  "portrait_file": "John Wesley by George Romney.jpg",
+  "portrait_caption": "George Romney, John Wesley, 1789"
  },
  {
   "id": "charles-wesley",
@@ -1127,7 +1205,9 @@
   "bio_full": [
    "Charles Wesley, John's younger brother, founded the Oxford 'Holy Club', accompanied John to Georgia, and experienced his own evangelical conversion on 21 May 1738, three days before John. He preached as an itinerant for many years before settling in Bristol and then London. He was more attached than his brother to the Church of England and opposed steps that would separate the Methodists from it.",
    "Charles wrote some six thousand hymns, giving the revival its voice and teaching its theology through song. Many, such as 'And Can It Be', 'Love Divine, All Loves Excelling' and 'Christ the Lord Is Risen Today', are sung in churches of many denominations. The Collection of Hymns for the Use of the People Called Methodists (1780), edited by John, contains mostly his work."
-  ]
+  ],
+  "portrait_file": "Charles Wesley.jpg",
+  "portrait_caption": "Portrait of Charles Wesley"
  },
  {
   "id": "jonathan-edwards",
@@ -1145,7 +1225,9 @@
   "bio_full": [
    "Edwards was the son of a minister and entered Yale at thirteen, absorbing the works of Locke and Newton. In 1729 he succeeded his grandfather Solomon Stoddard as pastor of Northampton, Massachusetts, where revivals broke out in 1734–35 and again during the Great Awakening of 1740–42, when he preached his famous sermon 'Sinners in the Hands of an Angry God'. A dispute over admission to communion led to his dismissal in 1750. He became a missionary to Mohican and Mohawk people at Stockbridge, where he wrote his major treatises, and in 1758 was made president of the College of New Jersey (Princeton), dying weeks later after a smallpox inoculation.",
    "In works such as A Treatise Concerning Religious Affections and Freedom of the Will, Edwards defended Calvinist theology with philosophical rigour and analysed the psychology of religious experience. He is widely regarded as the most important American theologian and an original philosopher. Edwards, like many in colonial New England, owned enslaved people, a fact now part of the assessment of his legacy."
-  ]
+  ],
+  "portrait_file": "Jonathan Edwards (Princeton Portrait).jpg",
+  "portrait_caption": "Portrait of Jonathan Edwards (Princeton University)"
  },
  {
   "id": "moses-mendelssohn",
@@ -1163,7 +1245,9 @@
   "bio_full": [
    "Mendelssohn was the son of a poor Torah scribe in Dessau and followed his teacher to Berlin in 1743, where he taught himself German, Latin and philosophy while working for a silk manufacturer. He became a celebrated philosopher, winning the Berlin Academy prize in 1763 ahead of Kant, and was the friend of the dramatist Lessing, whose play Nathan the Wise is thought to portray him. In 1769 a Swiss pastor, Johann Caspar Lavater, publicly challenged him to refute Christianity or convert, a controversy that pushed him to write on Judaism.",
    "His German translation of the Torah in Hebrew letters, with a commentary (the Biur), helped Jews learn German, and his Jerusalem (1783) argued for separation of religious and state power and presented Judaism as a religion of revealed law rather than of compulsory dogma. He is regarded as the father of the Haskalah. His grandson was the composer Felix Mendelssohn."
-  ]
+  ],
+  "portrait_file": "MosesMendelssohn-von-AntonGraff-Kupferstich.gif",
+  "portrait_caption": "Moses Mendelssohn, engraving after Anton Graff's portrait"
  },
  {
   "id": "schleiermacher",
@@ -1181,7 +1265,9 @@
   "bio_full": [
    "Schleiermacher was the son of a Reformed army chaplain and was educated by the Moravian Brethren, whose warm piety marked him even after he lost his belief in their doctrines. He studied at Halle and in the 1790s, as a preacher in Berlin, moved in the circle of the early Romantics around Friedrich Schlegel. He became professor at Halle and, from 1810, at the new University of Berlin, which he helped to found, while also preaching at the Trinity Church. He worked for the union of Lutheran and Reformed churches in Prussia and translated Plato into German.",
    "In On Religion: Speeches to its Cultured Despisers (1799) he argued that religion is neither metaphysics nor morality but a 'sense and taste for the infinite'; in The Christian Faith (1821–22) he defined it as the feeling of absolute dependence and reconstructed doctrine on that basis. He also founded modern hermeneutics, the theory of interpretation. Karl Barth, his greatest critic, still regarded him as the towering figure of 19th-century theology."
-  ]
+  ],
+  "portrait_file": "Portret van Friedrich Ernst Daniel Schleiermacher (cropped).jpg",
+  "portrait_caption": "Friedrich Schleiermacher, 19th-century print (Rijksmuseum)"
  },
  {
   "id": "kierkegaard",
@@ -1199,7 +1285,9 @@
   "bio_full": [
    "Kierkegaard was the youngest child of a wealthy, melancholic Copenhagen merchant and studied theology at the University of Copenhagen. In 1841 he broke off his engagement to Regine Olsen, an event that haunted his writing. Over the next decade he published a stream of books, many under pseudonyms, such as Either/Or, Fear and Trembling, The Concept of Anxiety and Concluding Unscientific Postscript, alongside 'upbuilding discourses' under his own name. In his last years he waged a public campaign against the Danish state church, accusing it of having abolished true Christianity. He collapsed in the street and died in 1855.",
    "Kierkegaard insisted that faith is a passionate, personal decision before God that cannot be reached by reason or social conformity, and he analysed the stages of existence as aesthetic, ethical and religious. Little known outside Denmark in his lifetime, he was rediscovered in the early 20th century and became a major influence on existentialism and on dialectical theology, including Barth."
-  ]
+  ],
+  "portrait_file": "Søren Kierkegaard (1813-1855) - (cropped).jpg",
+  "portrait_caption": "Drawn portrait of Søren Kierkegaard (no photograph of him exists)"
  },
  {
   "id": "newman",
@@ -1217,7 +1305,9 @@
   "bio_full": [
    "Newman was a fellow of Oriel College, Oxford, and vicar of the university church of St Mary's, where his sermons drew large audiences. From 1833 he was a leader of the Oxford Movement, which sought to recover the Catholic heritage of the Church of England, and wrote many of its Tracts for the Times. His study of the early church led him to doubt the Anglican position, and in 1845 he was received into the Roman Catholic Church. He founded the Birmingham Oratory, was the first rector of the Catholic University of Ireland, and was made a cardinal in 1879.",
    "His Essay on the Development of Christian Doctrine argued that doctrine grows organically over time, and his Grammar of Assent explored how people come to believe. His Apologia, written in reply to an attack by Charles Kingsley, is a classic of autobiography. He also wrote the poem The Dream of Gerontius and hymns such as 'Lead, Kindly Light'. He was canonised in 2019 and declared a doctor of the church in 2025."
-  ]
+  ],
+  "portrait_file": "John Henry Newman by Sir John Everett Millais, 1st Bt.jpg",
+  "portrait_caption": "John Everett Millais, John Henry Newman, 1881 (National Portrait Gallery, London)"
  },
  {
   "id": "samson-raphael-hirsch",

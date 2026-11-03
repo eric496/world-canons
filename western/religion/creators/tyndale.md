@@ -1,10 +1,14 @@
 # William Tyndale
 
+<a href="https://commons.wikimedia.org/wiki/File:Beza%27s_Icones%2C_contemporary_portraits_of_reformers_of_religion_and_letters_-_William_Tindale_on_Page_58.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Beza%27s_Icones%2C_contemporary_portraits_of_reformers_of_religion_and_letters_-_William_Tindale_on_Page_58.jpg/330px-Beza%27s_Icones%2C_contemporary_portraits_of_reformers_of_religion_and_letters_-_William_Tindale_on_Page_58.jpg" alt="William Tyndale" title="William Tyndale, woodcut from Theodore Beza's Icones (1580)"></a>
+
 **c. 1494 – 1536** · English  
 Born: Gloucestershire, England · Died: Vilvoorde, near Brussels  
 Movements & eras: [Protestant Reformation](../movements/reformation.md)  
 
 > English scholar who translated the New Testament and much of the Old from Hebrew and Greek, laying the foundation of the English Bible, and was executed for heresy.
+
+<sub>Portrait: William Tyndale, woodcut from Theodore Beza's Icones (1580) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beza%27s_Icones%2C_contemporary_portraits_of_reformers_of_religion_and_letters_-_William_Tindale_on_Page_58.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Tyndale's translations, made directly from Hebrew and Greek, were absorbed into 
 ## Key texts & works
 
 ### Tyndale New Testament (1526)
+
+[![Tyndale New Testament](https://upload.wikimedia.org/wikipedia/commons/d/d0/Tyndale_Bible_-_Gospel_of_John.jpg)](https://commons.wikimedia.org/wiki/File:Tyndale_Bible_-_Gospel_of_John.jpg)
+
+<sub>The opening of John's Gospel in Tyndale's New Testament Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Tyndale_Bible_-_Gospel_of_John.jpg).</sub>
 
 - **Date:** 1526
 - **Type:** Scripture (English translation)

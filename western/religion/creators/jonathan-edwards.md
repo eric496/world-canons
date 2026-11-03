@@ -1,10 +1,14 @@
 # Jonathan Edwards
 
+<a href="https://commons.wikimedia.org/wiki/File:Jonathan_Edwards_%28Princeton_Portrait%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jonathan_Edwards_%28Princeton_Portrait%29.jpg/330px-Jonathan_Edwards_%28Princeton_Portrait%29.jpg" alt="Jonathan Edwards" title="Portrait of Jonathan Edwards (Princeton University)"></a>
+
 **1703 – 1758** · American (colonial)  
 Born: East Windsor, Connecticut · Died: Princeton, New Jersey  
 Movements & eras: [Evangelical revivals](../movements/evangelical-revivals.md)  
 
 > New England Congregationalist preacher and philosopher, the leading theologian of the Great Awakening.
+
+<sub>Portrait: Portrait of Jonathan Edwards (Princeton University) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jonathan_Edwards_%28Princeton_Portrait%29.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ In works such as A Treatise Concerning Religious Affections and Freedom of the W
 
 ### Sinners in the Hands of an Angry God (1741)
 
+[![Sinners in the Hands of an Angry God](https://upload.wikimedia.org/wikipedia/commons/9/92/Sinners_in_the_Hands_of_an_Angry_God_by_Jonathan_Edwards_1741.jpg)](https://commons.wikimedia.org/wiki/File:Sinners_in_the_Hands_of_an_Angry_God_by_Jonathan_Edwards_1741.jpg)
+
+<sub>Title page of the 1741 Boston printing Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Sinners_in_the_Hands_of_an_Angry_God_by_Jonathan_Edwards_1741.jpg).</sub>
+
 - **Date:** 1741
 - **Type:** Sermon
 - **Where written / held:** Preached at Enfield, Connecticut; printed in Boston, 1741
@@ -27,6 +35,10 @@ In works such as A Treatise Concerning Religious Affections and Freedom of the W
 Edwards preached this sermon on 8 July 1741 at Enfield, Connecticut, during the Great Awakening. Taking a verse from Deuteronomy, 'their foot shall slide in due time', he argues that only God's mercy keeps unconverted sinners from falling into hell at any moment, using the image of a spider held over a fire. A witness recorded that cries and groans interrupted the preaching. The sermon is often taken as typical of Puritan fire-and-brimstone preaching, though historians note that it was unusual among Edwards's sermons, many of which dwell on the beauty and love of God. It is one of the most anthologised texts of American literature.
 
 ### A Treatise Concerning Religious Affections (1746)
+
+[![A Treatise Concerning Religious Affections](https://upload.wikimedia.org/wikipedia/commons/a/a2/Religious_Affections.png)](https://commons.wikimedia.org/wiki/File:Religious_Affections.png)
+
+<sub>Title page of A Treatise Concerning Religious Affections Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Religious_Affections.png).</sub>
 
 - **Date:** 1746
 - **Type:** Theological treatise

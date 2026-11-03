@@ -1,10 +1,14 @@
 # John Chrysostom
 
+<a href="https://commons.wikimedia.org/wiki/File:Johnchrysostom.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Johnchrysostom.jpg" alt="John Chrysostom" title="St John Chrysostom, Byzantine depiction"></a>
+
 **c. 347 – 407** · Syrian Greek  
 Born: Antioch, Syria · Died: Comana, Pontus  
 Movements & eras: [Church Fathers & the Councils](../movements/church-fathers.md), [Byzantine Orthodoxy](../movements/byzantine-orthodoxy.md)  
 
 > Preacher of Antioch and archbishop of Constantinople, the 'golden-mouthed', whose sermons and liturgy made him the most revered preacher of the Greek church.
+
+<sub>Portrait: St John Chrysostom, Byzantine depiction · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johnchrysostom.jpg)</sub>
 
 ## Biography
 

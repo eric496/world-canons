@@ -16,6 +16,10 @@ Tradition holds the Zohar to be the ancient teaching of Shimon bar Yochai. Gersh
 
 ### Zohar (c. 1270s–1300 (traditional: Shimon bar Yochai, 2nd century))
 
+[![Zohar](https://upload.wikimedia.org/wikipedia/commons/2/21/Zohar.png)](https://commons.wikimedia.org/wiki/File:Zohar.png)
+
+<sub>An early printed edition of the Zohar Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Zohar.png).</sub>
+
 - **Date:** c. 1270s–1300 (traditional: Shimon bar Yochai, 2nd century)
 - **Type:** Mystical commentary
 - **Where written / held:** Castile; first printed in Mantua and Cremona, 1558–60

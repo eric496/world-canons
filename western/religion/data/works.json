@@ -7,7 +7,9 @@
   "type": "Epic poem",
   "location": "Boeotia, Greece; survives in medieval Byzantine manuscripts",
   "note": "The Greek account of the origins of the cosmos and the generations of the gods, culminating in the reign of Zeus.",
-  "description": "The Theogony, about a thousand lines of hexameter verse, opens with Hesiod's encounter with the Muses on Mount Helicon and then tells how the world came to be: first Chaos, then Earth (Gaia), Tartarus and Eros, followed by the generations of gods born from Earth and Sky (Ouranos). It narrates the castration of Ouranos by his son Kronos, Kronos's swallowing of his children, and the victory of Zeus and the Olympians over the Titans, along with the story of Prometheus and the first woman. Scholars have noted close parallels with Near Eastern succession myths, such as the Hittite Kumarbi cycle and the Babylonian Enuma Elish, suggesting cultural contact. The poem became the standard Greek genealogy of the gods, used by later poets, mythographers and philosophers, and remains the starting point for the study of Greek mythology."
+  "description": "The Theogony, about a thousand lines of hexameter verse, opens with Hesiod's encounter with the Muses on Mount Helicon and then tells how the world came to be: first Chaos, then Earth (Gaia), Tartarus and Eros, followed by the generations of gods born from Earth and Sky (Ouranos). It narrates the castration of Ouranos by his son Kronos, Kronos's swallowing of his children, and the victory of Zeus and the Olympians over the Titans, along with the story of Prometheus and the first woman. Scholars have noted close parallels with Near Eastern succession myths, such as the Hittite Kumarbi cycle and the Babylonian Enuma Elish, suggesting cultural contact. The poem became the standard Greek genealogy of the gods, used by later poets, mythographers and philosophers, and remains the starting point for the study of Greek mythology.",
+  "image_file": "Hesiod, Theogony, Venice, Gr. 464.jpg",
+  "image_caption": "The Theogony in a medieval Greek manuscript, Biblioteca Marciana, Venice (Gr. 464)"
  },
  {
   "title": "Works and Days",
@@ -27,7 +29,9 @@
   "type": "Hymn",
   "location": "Rediscovered in a manuscript in Moscow, 1777; now in Leiden University Library",
   "note": "The myth of Persephone's abduction and Demeter's grief, telling the origin of the Eleusinian Mysteries.",
-  "description": "This hymn of nearly five hundred lines tells how Hades, with Zeus's consent, seized Persephone, daughter of the grain goddess Demeter, and carried her to the underworld. Demeter wanders the earth in mourning, disguised as an old woman, and takes service as a nurse in the royal house of Eleusis. When her divinity is revealed she orders a temple built there and withholds the growth of crops until Zeus forces Hades to return Persephone. Because Persephone has eaten a pomegranate seed she must spend part of each year below. Before returning to Olympus, Demeter teaches the Eleusinians her secret rites, which bring blessing to initiates in this life and the next. The Eleusinian Mysteries were celebrated for about a thousand years until they were suppressed at the end of the 4th century AD, and the hymn is one of the principal sources for them, although it guards their secrets."
+  "description": "This hymn of nearly five hundred lines tells how Hades, with Zeus's consent, seized Persephone, daughter of the grain goddess Demeter, and carried her to the underworld. Demeter wanders the earth in mourning, disguised as an old woman, and takes service as a nurse in the royal house of Eleusis. When her divinity is revealed she orders a temple built there and withholds the growth of crops until Zeus forces Hades to return Persephone. Because Persephone has eaten a pomegranate seed she must spend part of each year below. Before returning to Olympus, Demeter teaches the Eleusinians her secret rites, which bring blessing to initiates in this life and the next. The Eleusinian Mysteries were celebrated for about a thousand years until they were suppressed at the end of the 4th century AD, and the hymn is one of the principal sources for them, although it guards their secrets.",
+  "image_file": "Great Eleusinian relief (NAMA 126).jpg",
+  "image_caption": "The Great Eleusinian Relief: Demeter, Persephone and the youth Triptolemus, c. 440–430 BC (National Archaeological Museum, Athens)"
  },
  {
   "title": "Torah (Five Books of Moses)",
@@ -37,7 +41,9 @@
   "type": "Scripture",
   "location": "Ancient Israel and Babylon; read in synagogues from handwritten scrolls",
   "note": "Genesis, Exodus, Leviticus, Numbers and Deuteronomy: the story from creation to the death of Moses, and the laws of the covenant at Sinai.",
-  "description": "The Torah, also called the Pentateuch, is the first and most sacred division of the Hebrew Bible. It runs from the creation of the world and the stories of Adam and Eve, Noah, Abraham, Isaac, Jacob and Joseph, through the enslavement of the Israelites in Egypt, the Exodus led by Moses and the giving of the law at Mount Sinai, to the wanderings in the wilderness and Moses's death on the threshold of the promised land. Woven through the narrative are the Ten Commandments and extensive laws on worship, purity, justice and social life. Jewish and Christian tradition held Moses to be its author. From the 19th century the 'documentary hypothesis' proposed that it combined four main sources, often labelled J, E, D and P, written in different periods; scholars today continue to debate the number, nature and dating of its sources, but most agree it reached its final form around the 5th century BC, during or after the Babylonian exile. Handwritten on parchment scrolls by trained scribes, the Torah is read in a yearly cycle in synagogues and is the foundation of Jewish law and life."
+  "description": "The Torah, also called the Pentateuch, is the first and most sacred division of the Hebrew Bible. It runs from the creation of the world and the stories of Adam and Eve, Noah, Abraham, Isaac, Jacob and Joseph, through the enslavement of the Israelites in Egypt, the Exodus led by Moses and the giving of the law at Mount Sinai, to the wanderings in the wilderness and Moses's death on the threshold of the promised land. Woven through the narrative are the Ten Commandments and extensive laws on worship, purity, justice and social life. Jewish and Christian tradition held Moses to be its author. From the 19th century the 'documentary hypothesis' proposed that it combined four main sources, often labelled J, E, D and P, written in different periods; scholars today continue to debate the number, nature and dating of its sources, but most agree it reached its final form around the 5th century BC, during or after the Babylonian exile. Handwritten on parchment scrolls by trained scribes, the Torah is read in a yearly cycle in synagogues and is the foundation of Jewish law and life.",
+  "image_file": "Тора. Нацыянальная бібліятэка Беларусі.jpg",
+  "image_caption": "A handwritten Torah scroll (National Library of Belarus)"
  },
  {
   "title": "Psalms",
@@ -47,7 +53,9 @@
   "type": "Scripture (poetry)",
   "location": "Ancient Israel and Judah",
   "note": "One hundred and fifty songs of praise, lament, thanksgiving and wisdom, the prayer book of Judaism and Christianity.",
-  "description": "The Book of Psalms collects 150 poems, divided into five books, many of them headed with the names of David, Asaph, the sons of Korah, Solomon or Moses. Tradition attributed most of them to King David. Modern scholars see the Psalms as having been composed over several centuries, some perhaps for worship in the First Temple and others in the exile and after, and compiled into the present collection in the Second Temple period, though the dating of individual psalms is much debated. They include hymns of praise, laments of individuals and of the people, royal psalms, songs of pilgrimage and meditations on the law. Their parallelism and imagery, from the shepherd of Psalm 23 to the exiles weeping by the rivers of Babylon in Psalm 137, have made them the most used part of the Bible in prayer. They are central to Jewish liturgy and to the daily offices of Christian monks, and have been set to music, versified and translated countless times."
+  "description": "The Book of Psalms collects 150 poems, divided into five books, many of them headed with the names of David, Asaph, the sons of Korah, Solomon or Moses. Tradition attributed most of them to King David. Modern scholars see the Psalms as having been composed over several centuries, some perhaps for worship in the First Temple and others in the exile and after, and compiled into the present collection in the Second Temple period, though the dating of individual psalms is much debated. They include hymns of praise, laments of individuals and of the people, royal psalms, songs of pilgrimage and meditations on the law. Their parallelism and imagery, from the shepherd of Psalm 23 to the exiles weeping by the rivers of Babylon in Psalm 137, have made them the most used part of the Bible in prayer. They are central to Jewish liturgy and to the daily offices of Christian monks, and have been set to music, versified and translated countless times.",
+  "image_file": "Psalms scroll.PNG",
+  "image_caption": "The Great Psalms Scroll (11Q5) from Qumran Cave 11"
  },
  {
   "title": "Book of Isaiah",
@@ -57,7 +65,9 @@
   "type": "Scripture (prophecy)",
   "location": "Jerusalem and Babylon",
   "note": "Prophecies of judgement and comfort, from the Jerusalem prophet of the 8th century BC and, most scholars think, later disciples.",
-  "description": "Isaiah is the first and longest of the major prophetic books. Its earliest layers are associated with Isaiah son of Amoz, who prophesied in Jerusalem during the Assyrian crisis of the late 8th century BC, warning kings of Judah and calling for justice and trust in God. Since the late 18th century most scholars have held that chapters 40–55, which speak of Cyrus of Persia and the return from Babylonian exile, come from an anonymous prophet of the 6th century often called Second Isaiah, and that chapters 56–66 are later still, while traditional readers regard the whole book as the work of the one prophet. Its visions of the holy God enthroned in the temple, of swords beaten into ploughshares and of the suffering servant made it hugely influential: it is the prophetic book most cited in the New Testament, and Christians read many passages as foretelling Christ. A complete scroll of Isaiah is among the Dead Sea Scrolls."
+  "description": "Isaiah is the first and longest of the major prophetic books. Its earliest layers are associated with Isaiah son of Amoz, who prophesied in Jerusalem during the Assyrian crisis of the late 8th century BC, warning kings of Judah and calling for justice and trust in God. Since the late 18th century most scholars have held that chapters 40–55, which speak of Cyrus of Persia and the return from Babylonian exile, come from an anonymous prophet of the 6th century often called Second Isaiah, and that chapters 56–66 are later still, while traditional readers regard the whole book as the work of the one prophet. Its visions of the holy God enthroned in the temple, of swords beaten into ploughshares and of the suffering servant made it hugely influential: it is the prophetic book most cited in the New Testament, and Christians read many passages as foretelling Christ. A complete scroll of Isaiah is among the Dead Sea Scrolls.",
+  "image_file": "Great Isaiah Scroll Ch53.jpg",
+  "image_caption": "Isaiah 53 in the Great Isaiah Scroll from Qumran, 2nd century BC"
  },
  {
   "title": "Book of Job",
@@ -67,7 +77,9 @@
   "type": "Scripture (wisdom poetry)",
   "location": "Ancient Judah or the exile",
   "note": "A righteous man loses everything and argues with his friends and with God about why the innocent suffer.",
-  "description": "The Book of Job sets a long poetic debate inside a prose folk tale. In the frame story God allows 'the Satan', a heavenly accuser, to test the blameless Job by destroying his wealth, his children and his health. In the poetry Job curses the day of his birth, and three friends insist his suffering must be punishment for sin, which he denies, demanding a hearing from God. God finally answers from the whirlwind with a series of questions about the wonders of creation, without explaining Job's suffering, and in the prose ending restores his fortunes. Scholars usually date the book to the exilic or post-exilic period, while acknowledging that its language makes dating difficult. Its bold questioning of easy answers about suffering has fascinated theologians, philosophers and writers from Gregory the Great to Kierkegaard, Blake and modern novelists."
+  "description": "The Book of Job sets a long poetic debate inside a prose folk tale. In the frame story God allows 'the Satan', a heavenly accuser, to test the blameless Job by destroying his wealth, his children and his health. In the poetry Job curses the day of his birth, and three friends insist his suffering must be punishment for sin, which he denies, demanding a hearing from God. God finally answers from the whirlwind with a series of questions about the wonders of creation, without explaining Job's suffering, and in the prose ending restores his fortunes. Scholars usually date the book to the exilic or post-exilic period, while acknowledging that its language makes dating difficult. Its bold questioning of easy answers about suffering has fascinated theologians, philosophers and writers from Gregory the Great to Kierkegaard, Blake and modern novelists.",
+  "image_file": "POxy n3522.jpg",
+  "image_caption": "Papyrus Oxyrhynchus 3522, a 1st-century fragment of Job in Greek"
  },
  {
   "title": "Song of Songs",
@@ -77,7 +89,9 @@
   "type": "Scripture (love poetry)",
   "location": "Ancient Israel",
   "note": "A sequence of erotic love poems between a woman and a man, read allegorically by Jews and Christians as the love between God and his people or the soul.",
-  "description": "The Song of Songs, also called the Song of Solomon or Canticles, is a collection of lyrical poems in which two lovers, the woman's voice especially prominent, speak of desire, longing, separation and union, with rich imagery of gardens, vineyards, spices and animals. God is not named in it. Its heading attributes it to Solomon; scholars propose dates from the monarchy to the Hellenistic period, often favouring a late date on linguistic grounds. Rabbi Akiva is said to have called it the 'holy of holies' among the scriptures, and Jewish tradition read it as an allegory of the love between God and Israel; it is read at Passover. Christian commentators, from Origen to Bernard of Clairvaux, interpreted it as the love of Christ for the church or for the individual soul, and it became a principal source of mystical language. Modern readers have also valued it as celebration of human love."
+  "description": "The Song of Songs, also called the Song of Solomon or Canticles, is a collection of lyrical poems in which two lovers, the woman's voice especially prominent, speak of desire, longing, separation and union, with rich imagery of gardens, vineyards, spices and animals. God is not named in it. Its heading attributes it to Solomon; scholars propose dates from the monarchy to the Hellenistic period, often favouring a late date on linguistic grounds. Rabbi Akiva is said to have called it the 'holy of holies' among the scriptures, and Jewish tradition read it as an allegory of the love between God and Israel; it is read at Passover. Christian commentators, from Origen to Bernard of Clairvaux, interpreted it as the love of Christ for the church or for the individual soul, and it became a principal source of mystical language. Modern readers have also valued it as celebration of human love.",
+  "image_file": "Gustave Moreau - Song of Songs (Cantique des Cantiques) - Google Art Project.jpg",
+  "image_caption": "Gustave Moreau, The Song of Songs, 1853"
  },
  {
   "title": "Book of Daniel",
@@ -87,7 +101,9 @@
   "type": "Scripture (apocalyptic)",
   "location": "Judea",
   "note": "Tales of a Jewish sage at the court of Babylon and visions of world empires and the coming kingdom of God.",
-  "description": "The first half of Daniel tells stories of Daniel and his companions, Jewish exiles at the courts of Babylon and Persia who stay faithful to God: the fiery furnace, the writing on the wall at Belshazzar's feast, and Daniel in the lions' den. The second half records visions of four beasts representing successive empires, of 'one like a son of man' coming with the clouds of heaven, and of a time of persecution followed by resurrection of the dead. Traditional readers take the book as written by Daniel in the 6th century BC. Most modern scholars date its final form to the persecution of the Jews by the Seleucid king Antiochus IV around 167–164 BC, since its visions describe those events in detail, while the court tales may be older. Daniel is the chief example of apocalyptic literature in the Hebrew Bible and deeply influenced the New Testament, Revelation and later speculation about the end of the world."
+  "description": "The first half of Daniel tells stories of Daniel and his companions, Jewish exiles at the courts of Babylon and Persia who stay faithful to God: the fiery furnace, the writing on the wall at Belshazzar's feast, and Daniel in the lions' den. The second half records visions of four beasts representing successive empires, of 'one like a son of man' coming with the clouds of heaven, and of a time of persecution followed by resurrection of the dead. Traditional readers take the book as written by Daniel in the 6th century BC. Most modern scholars date its final form to the persecution of the Jews by the Seleucid king Antiochus IV around 167–164 BC, since its visions describe those events in detail, while the court tales may be older. Daniel is the chief example of apocalyptic literature in the Hebrew Bible and deeply influenced the New Testament, Revelation and later speculation about the end of the world.",
+  "image_file": "Daniel scroll.png",
+  "image_caption": "A fragment of Daniel among the Dead Sea Scrolls"
  },
  {
   "title": "Book of Ruth",
@@ -97,7 +113,9 @@
   "type": "Scripture (narrative)",
   "location": "Ancient Judah",
   "note": "A short story of loyalty in which a Moabite widow follows her mother-in-law to Bethlehem and becomes the great-grandmother of King David.",
-  "description": "Set in the period of the Judges, Ruth tells how Naomi, widowed and bereaved of her sons in Moab, returns to Bethlehem with her Moabite daughter-in-law Ruth, who refuses to leave her, saying that Naomi's people will be her people and Naomi's God her God. Gleaning in the fields of Naomi's kinsman Boaz, Ruth wins his protection, and he marries her according to the custom of the kinsman-redeemer. Their son Obed is the grandfather of David. Scholars debate its date, from the monarchy to the post-exilic period; some read it as a gentle response to post-exilic hostility to foreign wives. In Jewish tradition Ruth is read at the festival of Shavuot and is the model of a convert; in the Christian Gospel of Matthew she appears in the genealogy of Jesus."
+  "description": "Set in the period of the Judges, Ruth tells how Naomi, widowed and bereaved of her sons in Moab, returns to Bethlehem with her Moabite daughter-in-law Ruth, who refuses to leave her, saying that Naomi's people will be her people and Naomi's God her God. Gleaning in the fields of Naomi's kinsman Boaz, Ruth wins his protection, and he marries her according to the custom of the kinsman-redeemer. Their son Obed is the grandfather of David. Scholars debate its date, from the monarchy to the post-exilic period; some read it as a gentle response to post-exilic hostility to foreign wives. In Jewish tradition Ruth is read at the festival of Shavuot and is the model of a convert; in the Christian Gospel of Matthew she appears in the genealogy of Jesus.",
+  "image_file": "1795-William-Blake-Naomi-entreating-Ruth-Orpah.jpg",
+  "image_caption": "William Blake, Naomi entreating Ruth and Orpah to return to the land of Moab, 1795"
  },
  {
   "title": "Book of Ecclesiastes (Qoheleth)",
@@ -107,7 +125,9 @@
   "type": "Scripture (wisdom literature)",
   "location": "Judea",
   "note": "The reflections of 'the Teacher' on the vanity of human striving and the enjoyment of life as God's gift.",
-  "description": "Ecclesiastes presents the words of Qoheleth, 'the one who assembles', identified as a son of David and king in Jerusalem, hence the traditional attribution to Solomon. Its refrain, often translated 'vanity of vanities, all is vanity' (hevel, literally 'breath' or 'vapour'), introduces meditations on the limits of wisdom, the injustice of the world, the certainty of death and the cyclical nature of time, with the famous poem 'to every thing there is a season'. Against this background it repeatedly counsels enjoyment of food, work and love as gifts of God, and ends with an epilogue urging the fear of God. Most scholars date it, on linguistic grounds, to the Persian or early Hellenistic period. Its scepticism made its inclusion in the canon debated among the rabbis, and it has appealed to readers from Montaigne to modern existentialists."
+  "description": "Ecclesiastes presents the words of Qoheleth, 'the one who assembles', identified as a son of David and king in Jerusalem, hence the traditional attribution to Solomon. Its refrain, often translated 'vanity of vanities, all is vanity' (hevel, literally 'breath' or 'vapour'), introduces meditations on the limits of wisdom, the injustice of the world, the certainty of death and the cyclical nature of time, with the famous poem 'to every thing there is a season'. Against this background it repeatedly counsels enjoyment of food, work and love as gifts of God, and ends with an epilogue urging the fear of God. Most scholars date it, on linguistic grounds, to the Persian or early Hellenistic period. Its scepticism made its inclusion in the canon debated among the rabbis, and it has appealed to readers from Montaigne to modern existentialists.",
+  "image_file": "Dead Sea Scroll 109, Qohelet or Ecclesiastes, from Qumran Cave 4. The Jordan Museum, Amman.jpg",
+  "image_caption": "Fragment of Ecclesiastes from Qumran Cave 4 (The Jordan Museum, Amman)"
  },
  {
   "title": "The Pilgrim's Progress",
@@ -117,7 +137,9 @@
   "type": "Allegory",
   "location": "Printed by Nathaniel Ponder, London",
   "note": "Bunyan's dream allegory of Christian's journey from the City of Destruction to the Celestial City.",
-  "description": "Bunyan began The Pilgrim's Progress during his imprisonment in Bedford gaol. The narrator dreams of a man called Christian, burdened with sin, who leaves the City of Destruction for the Celestial City. On the way he loses his burden at the cross, passes through the Slough of Despond, Vanity Fair, where his companion Faithful is martyred, and Doubting Castle, kept by Giant Despair, and meets characters such as Evangelist, Mr Worldly Wiseman and Hopeful, before crossing the river of death. The second part, of 1684, follows his wife Christiana and their children. Written in plain, vivid prose drawing on the Bible and popular storytelling, it was an immediate success and has been translated into some two hundred languages, carried worldwide by missionaries. It has been called one of the first English novels and influenced writers from Defoe to Thackeray and Louisa May Alcott."
+  "description": "Bunyan began The Pilgrim's Progress during his imprisonment in Bedford gaol. The narrator dreams of a man called Christian, burdened with sin, who leaves the City of Destruction for the Celestial City. On the way he loses his burden at the cross, passes through the Slough of Despond, Vanity Fair, where his companion Faithful is martyred, and Doubting Castle, kept by Giant Despair, and meets characters such as Evangelist, Mr Worldly Wiseman and Hopeful, before crossing the river of death. The second part, of 1684, follows his wife Christiana and their children. Written in plain, vivid prose drawing on the Bible and popular storytelling, it was an immediate success and has been translated into some two hundred languages, carried worldwide by missionaries. It has been called one of the first English novels and influenced writers from Defoe to Thackeray and Louisa May Alcott.",
+  "image_file": "Pilgrim's Progress first edition 1678.jpg",
+  "image_caption": "Title page of the first edition, 1678"
  },
  {
   "title": "Grace Abounding to the Chief of Sinners",
@@ -127,7 +149,9 @@
   "type": "Spiritual autobiography",
   "location": "London",
   "note": "Bunyan's account of his years of spiritual torment and conversion, a classic of Puritan autobiography.",
-  "description": "Written in prison and published in 1666, Grace Abounding tells Bunyan's story as a spiritual drama: a youth of swearing and games, his marriage and first stirrings of piety, and then years of agonising doubt in which he feared he had committed the unforgivable sin, tormented by verses of scripture that seemed to condemn or save him by turns. He finally finds assurance in Christ, and then describes his call to preach and his imprisonment. It is one of the most psychologically intense religious autobiographies in English and a key text for understanding Puritan experience of conversion."
+  "description": "Written in prison and published in 1666, Grace Abounding tells Bunyan's story as a spiritual drama: a youth of swearing and games, his marriage and first stirrings of piety, and then years of agonising doubt in which he feared he had committed the unforgivable sin, tormented by verses of scripture that seemed to condemn or save him by turns. He finally finds assurance in Christ, and then describes his call to preach and his imprisonment. It is one of the most psychologically intense religious autobiographies in English and a key text for understanding Puritan experience of conversion.",
+  "image_file": "GraceAbounding.gif",
+  "image_caption": "Title page of Grace Abounding"
  },
  {
   "title": "Pia Desideria",
@@ -197,7 +221,9 @@
   "type": "Sermon",
   "location": "Preached at Enfield, Connecticut; printed in Boston, 1741",
   "note": "Edwards's most famous sermon, preached during the Great Awakening, picturing sinners suspended over the pit of hell by God's mercy alone.",
-  "description": "Edwards preached this sermon on 8 July 1741 at Enfield, Connecticut, during the Great Awakening. Taking a verse from Deuteronomy, 'their foot shall slide in due time', he argues that only God's mercy keeps unconverted sinners from falling into hell at any moment, using the image of a spider held over a fire. A witness recorded that cries and groans interrupted the preaching. The sermon is often taken as typical of Puritan fire-and-brimstone preaching, though historians note that it was unusual among Edwards's sermons, many of which dwell on the beauty and love of God. It is one of the most anthologised texts of American literature."
+  "description": "Edwards preached this sermon on 8 July 1741 at Enfield, Connecticut, during the Great Awakening. Taking a verse from Deuteronomy, 'their foot shall slide in due time', he argues that only God's mercy keeps unconverted sinners from falling into hell at any moment, using the image of a spider held over a fire. A witness recorded that cries and groans interrupted the preaching. The sermon is often taken as typical of Puritan fire-and-brimstone preaching, though historians note that it was unusual among Edwards's sermons, many of which dwell on the beauty and love of God. It is one of the most anthologised texts of American literature.",
+  "image_file": "Sinners in the Hands of an Angry God by Jonathan Edwards 1741.jpg",
+  "image_caption": "Title page of the 1741 Boston printing"
  },
  {
   "title": "A Treatise Concerning Religious Affections",
@@ -207,7 +233,9 @@
   "type": "Theological treatise",
   "location": "Boston",
   "note": "Edwards's analysis of how to distinguish true from false religious experience, written after the Great Awakening.",
-  "description": "Faced with both enthusiasm and scepticism after the revivals, Edwards asked what signs show that religious feelings come from God. He argues that true religion consists largely in 'holy affections', yet that intense emotion, bodily effects or fluent religious talk prove nothing either way. He then sets out twelve signs of genuine grace, culminating in a life of Christian practice. Combining Calvinist theology with Lockean psychology, the Religious Affections is a classic of the psychology of religion and influenced later evangelical thinking about conversion, as well as William James."
+  "description": "Faced with both enthusiasm and scepticism after the revivals, Edwards asked what signs show that religious feelings come from God. He argues that true religion consists largely in 'holy affections', yet that intense emotion, bodily effects or fluent religious talk prove nothing either way. He then sets out twelve signs of genuine grace, culminating in a life of Christian practice. Combining Calvinist theology with Lockean psychology, the Religious Affections is a classic of the psychology of religion and influenced later evangelical thinking about conversion, as well as William James.",
+  "image_file": "Religious Affections.png",
+  "image_caption": "Title page of A Treatise Concerning Religious Affections"
  },
  {
   "title": "Jerusalem, or on Religious Power and Judaism",
@@ -217,7 +245,9 @@
   "type": "Philosophical treatise",
   "location": "Berlin",
   "note": "Mendelssohn's argument for freedom of conscience and the separation of religious and state power, with a portrait of Judaism as revealed law.",
-  "description": "In the first part of Jerusalem, Mendelssohn argues that neither state nor church may coerce belief; the state may compel actions, but religion concerns convictions, so religious bodies should have no power of excommunication or punishment. In the second part, responding to the charge that Judaism itself was a coercive religion, he presents it as a revealed legislation, a law of actions given to Israel, whose eternal truths about God and morality are accessible to all people by reason. He urges Jews to keep the law while taking part in civil society, and calls on states to grant them civil equality. Kant praised the book. It became a founding text of modern Jewish thought and of liberal arguments for religious toleration."
+  "description": "In the first part of Jerusalem, Mendelssohn argues that neither state nor church may coerce belief; the state may compel actions, but religion concerns convictions, so religious bodies should have no power of excommunication or punishment. In the second part, responding to the charge that Judaism itself was a coercive religion, he presents it as a revealed legislation, a law of actions given to Israel, whose eternal truths about God and morality are accessible to all people by reason. He urges Jews to keep the law while taking part in civil society, and calls on states to grant them civil equality. Kant praised the book. It became a founding text of modern Jewish thought and of liberal arguments for religious toleration.",
+  "image_file": "MosesMendelssohnJerusalem1783.png",
+  "image_caption": "Title page of Jerusalem, 1783"
  },
  {
   "title": "The Biur (German Torah translation and commentary)",
@@ -237,7 +267,9 @@
   "type": "Theological essays",
   "location": "Berlin",
   "note": "Schleiermacher's Romantic defence of religion as a 'sense and taste for the infinite', addressed to sceptical intellectuals.",
-  "description": "Written while Schleiermacher was a hospital chaplain in Berlin among the early Romantics, the five speeches address educated people who had rejected religion as superstition or as mere morality. He argues that religion is neither knowledge nor action, but intuition and feeling of the universe, a sense of the infinite in the finite. True religion is found in many forms and in living communities rather than in dogmas or institutions, and Christianity is a supreme but not exclusive expression of it. Revised in later editions, the Speeches marked a new beginning for Protestant theology, shifting attention to religious experience, and influenced the study of religion as a distinct human phenomenon."
+  "description": "Written while Schleiermacher was a hospital chaplain in Berlin among the early Romantics, the five speeches address educated people who had rejected religion as superstition or as mere morality. He argues that religion is neither knowledge nor action, but intuition and feeling of the universe, a sense of the infinite in the finite. True religion is found in many forms and in living communities rather than in dogmas or institutions, and Christianity is a supreme but not exclusive expression of it. Revised in later editions, the Speeches marked a new beginning for Protestant theology, shifting attention to religious experience, and influenced the study of religion as a distinct human phenomenon.",
+  "image_file": "Cover of 1799 edition of Über die Religion.jpg",
+  "image_caption": "Title page of the first edition of Über die Religion, 1799"
  },
  {
   "title": "The Christian Faith (Der christliche Glaube)",
@@ -257,7 +289,9 @@
   "type": "Philosophical-religious essay",
   "location": "Published under the pseudonym Johannes de Silentio, Copenhagen",
   "note": "A meditation on Abraham's willingness to sacrifice Isaac, asking whether faith can require a 'teleological suspension of the ethical'.",
-  "description": "Kierkegaard's pseudonymous author, Johannes de Silentio, retells the story of the binding of Isaac (Genesis 22) in several versions and confesses that he cannot understand Abraham. He argues that if Abraham is the father of faith, faith cannot be the same as ethics, the universal duty that would forbid killing one's son; it must involve a 'teleological suspension of the ethical' and an absolute relation of the individual to God, held 'by virtue of the absurd'. He contrasts the 'knight of faith', who gives up everything and receives it back, with the 'knight of infinite resignation'. The book reflects Kierkegaard's own broken engagement and his polemic against Hegelian philosophy and comfortable Christianity, and is a key text for existentialism and for debates in Jewish and Christian thought on the Akedah."
+  "description": "Kierkegaard's pseudonymous author, Johannes de Silentio, retells the story of the binding of Isaac (Genesis 22) in several versions and confesses that he cannot understand Abraham. He argues that if Abraham is the father of faith, faith cannot be the same as ethics, the universal duty that would forbid killing one's son; it must involve a 'teleological suspension of the ethical' and an absolute relation of the individual to God, held 'by virtue of the absurd'. He contrasts the 'knight of faith', who gives up everything and receives it back, with the 'knight of infinite resignation'. The book reflects Kierkegaard's own broken engagement and his polemic against Hegelian philosophy and comfortable Christianity, and is a key text for existentialism and for debates in Jewish and Christian thought on the Akedah.",
+  "image_file": "Fear and Trembling.jpg",
+  "image_caption": "Title page of Frygt og Bæven, 1843"
  },
  {
   "title": "The Sickness unto Death",
@@ -267,7 +301,9 @@
   "type": "Philosophical-religious treatise",
   "location": "Published under the pseudonym Anti-Climacus, Copenhagen",
   "note": "Kierkegaard's analysis of despair as the sickness of the self that fails to rest in God.",
-  "description": "Published under the pseudonym Anti-Climacus, whom Kierkegaard described as a Christian of an extraordinarily high degree, The Sickness unto Death takes its title from Jesus's words about Lazarus. It defines the self as a relation that relates itself to itself and is grounded in the power that established it, and analyses the forms of despair: not being conscious of having a self, not willing to be oneself, and willing defiantly to be oneself. Despair before God is sin, and its opposite is faith. The work's psychological depth influenced Heidegger, Sartre and theologians such as Tillich and Barth."
+  "description": "Published under the pseudonym Anti-Climacus, whom Kierkegaard described as a Christian of an extraordinarily high degree, The Sickness unto Death takes its title from Jesus's words about Lazarus. It defines the self as a relation that relates itself to itself and is grounded in the power that established it, and analyses the forms of despair: not being conscious of having a self, not willing to be oneself, and willing defiantly to be oneself. Despair before God is sin, and its opposite is faith. The work's psychological depth influenced Heidegger, Sartre and theologians such as Tillich and Barth.",
+  "image_file": "The Sickness Unto Death.jpg",
+  "image_caption": "Title page of Sygdommen til Døden, 1849"
  },
  {
   "title": "Apologia Pro Vita Sua",
@@ -277,7 +313,9 @@
   "type": "Spiritual autobiography",
   "location": "Published in weekly parts, London",
   "note": "Newman's account of the history of his religious opinions and his journey from Anglicanism to Roman Catholicism.",
-  "description": "In January 1864 the novelist Charles Kingsley wrote that truth for its own sake had never been a virtue of the Roman clergy, citing Newman. Newman responded first with an exchange of letters and then, in seven weekly pamphlets written at great speed, with a history of his religious opinions: his evangelical conversion as a boy, his Oxford years, the Oxford Movement and the Tracts for the Times, his growing doubts about the Anglican claim, and his reception into the Catholic Church in 1845. The candour and beauty of the book won wide admiration in Victorian England and restored his reputation. It is a classic of English autobiography and of religious literature."
+  "description": "In January 1864 the novelist Charles Kingsley wrote that truth for its own sake had never been a virtue of the Roman clergy, citing Newman. Newman responded first with an exchange of letters and then, in seven weekly pamphlets written at great speed, with a history of his religious opinions: his evangelical conversion as a boy, his Oxford years, the Oxford Movement and the Tracts for the Times, his growing doubts about the Anglican claim, and his reception into the Catholic Church in 1845. The candour and beauty of the book won wide admiration in Victorian England and restored his reputation. It is a classic of English autobiography and of religious literature.",
+  "image_file": "Title page of the first edition of Apologia Pro Vita Sua.jpg",
+  "image_caption": "Title page of the first edition, 1864"
  },
  {
   "title": "An Essay on the Development of Christian Doctrine",
@@ -367,7 +405,9 @@
   "type": "Confession of faith",
   "location": "Synod of Barmen, Wuppertal, Germany",
   "note": "The declaration of the Confessing Church rejecting Nazi control of the German Protestant churches, largely drafted by Barth.",
-  "description": "In May 1934 representatives of Lutheran, Reformed and United churches met at Barmen in Wuppertal to oppose the 'German Christians', who supported Nazi ideology and sought to bring the church under the Reich. Its six theses, largely drafted by Barth, declare that Jesus Christ is the one Word of God that the church must obey, rejecting other sources of revelation and the claim of the state to be the church's master. It does not explicitly mention the persecution of the Jews, an omission later criticised by many, including Barth himself. The Declaration became the founding document of the Confessing Church and has been adopted as a confessional standard by several churches."
+  "description": "In May 1934 representatives of Lutheran, Reformed and United churches met at Barmen in Wuppertal to oppose the 'German Christians', who supported Nazi ideology and sought to bring the church under the Reich. Its six theses, largely drafted by Barth, declare that Jesus Christ is the one Word of God that the church must obey, rejecting other sources of revelation and the claim of the state to be the church's master. It does not explicitly mention the persecution of the Jews, an omission later criticised by many, including Barth himself. The Declaration became the founding document of the Confessing Church and has been adopted as a confessional standard by several churches.",
+  "image_file": "DBP 1984 1214 Barmer Theologische Erklärung.jpg",
+  "image_caption": "West German postage stamp marking the 50th anniversary of the Barmen Declaration, 1984"
  },
  {
   "title": "Systematic Theology",
@@ -407,7 +447,9 @@
   "type": "Open letter",
   "location": "Written in Birmingham City Jail, Alabama",
   "note": "King's reply to white clergymen who called the civil rights protests 'unwise and untimely', a classic defence of nonviolent direct action.",
-  "description": "Arrested on 12 April 1963 during the Birmingham campaign against segregation, King read a statement by eight white Alabama clergymen urging Black citizens to stop demonstrating and wait for the courts. Writing at first in the margins of a newspaper, he answered that injustice anywhere is a threat to justice everywhere, that nonviolent direct action aims to create tension that forces negotiation, and that one has a moral duty to disobey unjust laws, citing Augustine and Aquinas. He expressed disappointment with the 'white moderate' and with churches that stayed silent. The letter, widely published that summer, became one of the most important documents of the civil rights movement and of Christian social ethics. It remains under copyright and is reproduced by The King Center and the Martin Luther King Jr. Research and Education Institute at Stanford."
+  "description": "Arrested on 12 April 1963 during the Birmingham campaign against segregation, King read a statement by eight white Alabama clergymen urging Black citizens to stop demonstrating and wait for the courts. Writing at first in the margins of a newspaper, he answered that injustice anywhere is a threat to justice everywhere, that nonviolent direct action aims to create tension that forces negotiation, and that one has a moral duty to disobey unjust laws, citing Augustine and Aquinas. He expressed disappointment with the 'white moderate' and with churches that stayed silent. The letter, widely published that summer, became one of the most important documents of the civil rights movement and of Christian social ethics. It remains under copyright and is reproduced by The King Center and the Martin Luther King Jr. Research and Education Institute at Stanford.",
+  "image_file": "Recreation of Martin Luther King's Cell in Birmingham Jail - National Civil Rights Museum - Downtown Memphis - Tennessee - USA.jpg",
+  "image_caption": "Recreation of King's cell in the Birmingham jail, National Civil Rights Museum, Memphis"
  },
  {
   "title": "Strength to Love",
@@ -447,7 +489,9 @@
   "type": "Illuminated manuscript",
   "location": "National Museum of Bosnia and Herzegovina, Sarajevo",
   "note": "A richly illuminated Passover Haggadah from Catalonia that survived the expulsion from Spain and the wars of the 20th century.",
-  "description": "The Sarajevo Haggadah was made in Catalonia, probably Barcelona, around 1350. Besides the text of the Passover service, it contains thirty-four full-page miniatures in gold and colour, from the creation of the world to the death of Moses, together with a picture of a Spanish synagogue. It probably left Spain with refugees after the expulsion of 1492, and notes in it show that it was in Italy in 1609, when a Catholic censor approved it. It was sold to the National Museum in Sarajevo in 1894. During the Second World War it was hidden from the Nazis, according to the best-known account, by the museum's Muslim librarian Derviš Korkut; it survived again during the siege of Sarajevo in the 1990s. Its story inspired Geraldine Brooks's novel People of the Book."
+  "description": "The Sarajevo Haggadah was made in Catalonia, probably Barcelona, around 1350. Besides the text of the Passover service, it contains thirty-four full-page miniatures in gold and colour, from the creation of the world to the death of Moses, together with a picture of a Spanish synagogue. It probably left Spain with refugees after the expulsion of 1492, and notes in it show that it was in Italy in 1609, when a Catholic censor approved it. It was sold to the National Museum in Sarajevo in 1894. During the Second World War it was hidden from the Nazis, according to the best-known account, by the museum's Muslim librarian Derviš Korkut; it survived again during the siege of Sarajevo in the 1990s. Its story inspired Geraldine Brooks's novel People of the Book.",
+  "image_file": "Sarajevska hagada.jpg",
+  "image_caption": "The Sarajevo Haggadah"
  },
  {
   "title": "Golden Haggadah",
@@ -457,7 +501,9 @@
   "type": "Illuminated manuscript",
   "location": "British Library, London",
   "note": "A sumptuous Passover Haggadah from Catalonia, its biblical scenes painted against gold-leaf backgrounds.",
-  "description": "The Golden Haggadah was made in or near Barcelona in the early 14th century. Its fourteen pages of miniatures, with scenes from Genesis and Exodus arranged in four panels per page against tooled gold backgrounds, are in the Gothic style of the time and show the involvement of at least two artists, perhaps working in a Christian workshop. Further images show Passover preparations, such as cleaning the house of leaven and distributing matzah. An inscription records that it was given as a wedding gift in Italy in 1602. It entered the British Museum in 1865 and is now in the British Library."
+  "description": "The Golden Haggadah was made in or near Barcelona in the early 14th century. Its fourteen pages of miniatures, with scenes from Genesis and Exodus arranged in four panels per page against tooled gold backgrounds, are in the Gothic style of the time and show the involvement of at least two artists, perhaps working in a Christian workshop. Further images show Passover preparations, such as cleaning the house of leaven and distributing matzah. An inscription records that it was given as a wedding gift in Italy in 1602. It entered the British Museum in 1865 and is now in the British Library.",
+  "image_file": "Golden Hag BL F60073-09b.jpg",
+  "image_caption": "A page of the Golden Haggadah (British Library)"
  },
  {
   "title": "Aleppo Codex",
@@ -467,7 +513,9 @@
   "type": "Manuscript (Hebrew Bible codex)",
   "location": "Israel Museum (Shrine of the Book), Jerusalem",
   "note": "The most authoritative manuscript of the Masoretic Hebrew Bible, vocalised in Tiberias; about a third was lost in 1947.",
-  "description": "The Aleppo Codex is a parchment codex of the whole Hebrew Bible written around 930 in Tiberias. Its consonantal text was copied by the scribe Shlomo ben Buya'a, and the vowel points, accents and Masoretic notes were added, according to its colophon, by Aaron ben Asher, the leading Masorete of his day. Maimonides is believed to have used it when he set out rules for writing Torah scrolls, which gave it unique prestige. After passing through Jerusalem and Cairo it was kept for some five centuries by the Jewish community of Aleppo in Syria. During riots in December 1947 the synagogue was burned and large parts of the codex, including most of the Torah, went missing; the surviving leaves were smuggled to Israel in 1957–58. It is the basis of the Hebrew University Bible Project edition, and the fate of the missing pages remains the subject of investigation."
+  "description": "The Aleppo Codex is a parchment codex of the whole Hebrew Bible written around 930 in Tiberias. Its consonantal text was copied by the scribe Shlomo ben Buya'a, and the vowel points, accents and Masoretic notes were added, according to its colophon, by Aaron ben Asher, the leading Masorete of his day. Maimonides is believed to have used it when he set out rules for writing Torah scrolls, which gave it unique prestige. After passing through Jerusalem and Cairo it was kept for some five centuries by the Jewish community of Aleppo in Syria. During riots in December 1947 the synagogue was burned and large parts of the codex, including most of the Torah, went missing; the surviving leaves were smuggled to Israel in 1957–58. It is the basis of the Hebrew University Bible Project edition, and the fate of the missing pages remains the subject of investigation.",
+  "image_file": "Aleppo Codex Joshua 1 1.jpg",
+  "image_caption": "Aleppo Codex, the opening of the Book of Joshua"
  },
  {
   "title": "Leningrad Codex",
@@ -477,7 +525,9 @@
   "type": "Manuscript (Hebrew Bible codex)",
   "location": "National Library of Russia, St Petersburg",
   "note": "The oldest complete manuscript of the Hebrew Bible in the Masoretic tradition, basis of the standard scholarly editions.",
-  "description": "Copied in Cairo around 1008–1010 by the scribe Samuel ben Jacob, who states that he corrected it according to manuscripts of the Ben Asher school, the Leningrad Codex contains the entire Hebrew Bible with vowels, accents and Masoretic notes. It also includes 'carpet pages' of geometric decoration, with micrographic Masoretic notes written in tiny letters forming patterns. The manuscript was acquired by the Karaite collector Abraham Firkovich and came to the Imperial Public Library in St Petersburg in the 19th century. Because the Aleppo Codex is incomplete, the Leningrad Codex is the basis of the scholarly editions Biblia Hebraica (from its third edition, 1937), Biblia Hebraica Stuttgartensia and Biblia Hebraica Quinta, and so of most modern translations of the Old Testament."
+  "description": "Copied in Cairo around 1008–1010 by the scribe Samuel ben Jacob, who states that he corrected it according to manuscripts of the Ben Asher school, the Leningrad Codex contains the entire Hebrew Bible with vowels, accents and Masoretic notes. It also includes 'carpet pages' of geometric decoration, with micrographic Masoretic notes written in tiny letters forming patterns. The manuscript was acquired by the Karaite collector Abraham Firkovich and came to the Imperial Public Library in St Petersburg in the 19th century. Because the Aleppo Codex is incomplete, the Leningrad Codex is the basis of the scholarly editions Biblia Hebraica (from its third edition, 1937), Biblia Hebraica Stuttgartensia and Biblia Hebraica Quinta, and so of most modern translations of the Old Testament.",
+  "image_file": "Leningrad Codex Folio 474a.jpg",
+  "image_caption": "Leningrad Codex, folio 474a, a decorated 'carpet page'"
  },
  {
   "title": "Septuagint",
@@ -487,7 +537,9 @@
   "type": "Scripture (translation)",
   "location": "Alexandria; preserved in codices such as Sinaiticus and Vaticanus",
   "note": "The Greek translation of the Jewish scriptures, the Bible of Hellenistic Jews and the Old Testament of the early church.",
-  "description": "The Septuagint, often abbreviated LXX, is the collection of Greek translations of the Hebrew scriptures made by Jewish translators from the 3rd century BC, beginning with the Torah in Alexandria. The translation varies from very literal to quite free, and in some books, such as Jeremiah, it reflects a Hebrew text different from the later Masoretic one, as Dead Sea Scrolls fragments have confirmed. It also includes works composed in Greek or surviving only in Greek, such as the Wisdom of Solomon, Sirach in translation, Judith, Tobit and the books of Maccabees. The New Testament writers usually quote scripture from it, and it remained the Old Testament of the Greek-speaking church, used today by the Orthodox. Its additional books were kept by Catholics and Orthodox but placed in an Apocrypha or removed by Protestants. The oldest complete copies are in the great 4th- and 5th-century Christian codices."
+  "description": "The Septuagint, often abbreviated LXX, is the collection of Greek translations of the Hebrew scriptures made by Jewish translators from the 3rd century BC, beginning with the Torah in Alexandria. The translation varies from very literal to quite free, and in some books, such as Jeremiah, it reflects a Hebrew text different from the later Masoretic one, as Dead Sea Scrolls fragments have confirmed. It also includes works composed in Greek or surviving only in Greek, such as the Wisdom of Solomon, Sirach in translation, Judith, Tobit and the books of Maccabees. The New Testament writers usually quote scripture from it, and it remained the Old Testament of the Greek-speaking church, used today by the Orthodox. Its additional books were kept by Catholics and Orthodox but placed in an Apocrypha or removed by Protestants. The oldest complete copies are in the great 4th- and 5th-century Christian codices.",
+  "image_file": "Codex Vaticanus (1 Esdras 1-55 to 2-5) (The S.S. Teacher's Edition-The Holy Bible).jpg",
+  "image_caption": "A page of the Septuagint in Codex Vaticanus (1 Esdras), from a 19th-century reproduction"
  },
  {
   "title": "Dead Sea Scrolls",
@@ -497,7 +549,9 @@
   "type": "Manuscripts (scrolls)",
   "location": "Israel Museum (Shrine of the Book), Jerusalem; Jordan Museum, Amman; and other collections",
   "note": "Some 900 manuscripts, biblical and sectarian, found in caves near Qumran from 1947, the oldest surviving copies of the Hebrew Bible.",
-  "description": "The first scrolls were found in 1946–47 by Bedouin shepherds in a cave near Khirbet Qumran; by 1956 eleven caves had yielded tens of thousands of fragments from roughly 900 manuscripts, mostly on parchment, in Hebrew, Aramaic and Greek. They date from about the 3rd century BC to the 1st century AD. Around a quarter are copies of biblical books, every book of the Hebrew Bible except Esther being represented, about a thousand years older than the previously known medieval manuscripts. Others are previously unknown texts: rules for a community, hymns, calendars, commentaries on prophets and apocalyptic works such as the War Scroll. The identity of the people who collected them, most often identified with the Essenes, is debated, as is the relationship between the scrolls and the nearby settlement. The slow publication of the fragments caused controversy until full access was granted in 1991. The scrolls have reshaped the study of the Hebrew Bible's text and of the Jewish world in which Christianity began."
+  "description": "The first scrolls were found in 1946–47 by Bedouin shepherds in a cave near Khirbet Qumran; by 1956 eleven caves had yielded tens of thousands of fragments from roughly 900 manuscripts, mostly on parchment, in Hebrew, Aramaic and Greek. They date from about the 3rd century BC to the 1st century AD. Around a quarter are copies of biblical books, every book of the Hebrew Bible except Esther being represented, about a thousand years older than the previously known medieval manuscripts. Others are previously unknown texts: rules for a community, hymns, calendars, commentaries on prophets and apocalyptic works such as the War Scroll. The identity of the people who collected them, most often identified with the Essenes, is debated, as is the relationship between the scrolls and the nearby settlement. The slow publication of the fragments caused controversy until full access was granted in 1991. The scrolls have reshaped the study of the Hebrew Bible's text and of the Jewish world in which Christianity began.",
+  "image_file": "Dead Sea Scroll, Pesher Isaiah, from Qumran Cave 4. The Jordan Museum, Amman.jpg",
+  "image_caption": "Pesher (commentary) on Isaiah from Qumran Cave 4 (The Jordan Museum, Amman)"
  },
  {
   "title": "Great Isaiah Scroll (1QIsa-a)",
@@ -507,7 +561,9 @@
   "type": "Manuscript (scroll)",
   "location": "Israel Museum (Shrine of the Book), Jerusalem",
   "note": "A complete copy of the Book of Isaiah, the best preserved of the Dead Sea Scrolls and among the oldest biblical manuscripts.",
-  "description": "Found in Qumran Cave 1 in 1947, the Great Isaiah Scroll consists of seventeen sheets of parchment sewn together into a scroll over seven metres long, containing all sixty-six chapters of Isaiah in fifty-four columns. Palaeography and radiocarbon dating place it in the 2nd century BC. Its text agrees substantially with the medieval Masoretic Text, though it has thousands of minor variants in spelling and some significant differences in wording, illuminating how carefully, and with how much variation, scripture was copied. It was one of the first scrolls sold, through a dealer in Bethlehem, to the Syrian Orthodox metropolitan of Jerusalem, who later sold it to Israel in 1954. A facsimile is displayed in the Shrine of the Book, and the scroll can be viewed online in high resolution."
+  "description": "Found in Qumran Cave 1 in 1947, the Great Isaiah Scroll consists of seventeen sheets of parchment sewn together into a scroll over seven metres long, containing all sixty-six chapters of Isaiah in fifty-four columns. Palaeography and radiocarbon dating place it in the 2nd century BC. Its text agrees substantially with the medieval Masoretic Text, though it has thousands of minor variants in spelling and some significant differences in wording, illuminating how carefully, and with how much variation, scripture was copied. It was one of the first scrolls sold, through a dealer in Bethlehem, to the Syrian Orthodox metropolitan of Jerusalem, who later sold it to Israel in 1954. A facsimile is displayed in the Shrine of the Book, and the scroll can be viewed online in high resolution.",
+  "image_file": "The Great Isaiah Scroll MS A (1QIsa) - Google Art Project.jpg",
+  "image_caption": "The Great Isaiah Scroll (1QIsa-a), Israel Museum, Jerusalem"
  },
  {
   "title": "Community Rule (Serekh ha-Yahad)",
@@ -547,7 +603,9 @@
   "type": "History",
   "location": "Rome; preserved in Greek manuscripts and an early Latin translation",
   "note": "A first-hand history of the Jewish revolt against Rome and the destruction of Jerusalem and its Temple in AD 70.",
-  "description": "Josephus wrote the Jewish War in Rome in the 70s AD, first, he says, in Aramaic for Jews of the east and then in Greek. After surveying Jewish history from the Maccabees through Herod the Great, it narrates the revolt from its outbreak in 66, Josephus's own command in Galilee, the factional strife in Jerusalem, the siege and burning of the Temple by Titus in 70, and the fall of Masada, where he reports the defenders' mass suicide. Its description of the Temple, the Jewish sects and the Roman army are invaluable. Josephus writes as a client of the Flavian emperors, blaming the disaster on rebel fanatics rather than on the Jewish people or on Rome, and historians weigh his account with that in mind. Christians read the fall of Jerusalem as fulfilling the prophecies of Jesus, and the book was widely copied and translated in the Middle Ages."
+  "description": "Josephus wrote the Jewish War in Rome in the 70s AD, first, he says, in Aramaic for Jews of the east and then in Greek. After surveying Jewish history from the Maccabees through Herod the Great, it narrates the revolt from its outbreak in 66, Josephus's own command in Galilee, the factional strife in Jerusalem, the siege and burning of the Temple by Titus in 70, and the fall of Masada, where he reports the defenders' mass suicide. Its description of the Temple, the Jewish sects and the Roman army are invaluable. Josephus writes as a client of the Flavian emperors, blaming the disaster on rebel fanatics rather than on the Jewish people or on Rome, and historians weigh his account with that in mind. Christians read the fall of Jerusalem as fulfilling the prophecies of Jesus, and the book was widely copied and translated in the Middle Ages.",
+  "image_file": "Jewish war, josephus flavius 1559.jpg",
+  "image_caption": "An edition of the Jewish War printed in 1559"
  },
  {
   "title": "Jewish Antiquities",
@@ -557,7 +615,9 @@
   "type": "History",
   "location": "Rome",
   "note": "A history of the Jewish people from creation to the eve of the revolt, written for Greek and Roman readers, with famous references to John the Baptist, James and Jesus.",
-  "description": "In twenty books, the Antiquities retells the biblical story, adding traditions found elsewhere in Jewish sources, and continues the history through the Persian, Hellenistic and Roman periods, with extensive detail on the Hasmoneans, Herod and the Roman governors of Judea. Josephus's aim was to present Judaism as an ancient and honourable nation to a gentile audience. Book 18 contains a brief account of Jesus, the Testimonium Flavianum; in its transmitted form it calls Jesus the Messiah, which most scholars consider a Christian interpolation, though many think Josephus wrote a shorter, neutral notice. A passage on the death of 'James, the brother of Jesus who was called Christ' in Book 20 is generally accepted as authentic. The work is a major source for the historical context of the New Testament."
+  "description": "In twenty books, the Antiquities retells the biblical story, adding traditions found elsewhere in Jewish sources, and continues the history through the Persian, Hellenistic and Roman periods, with extensive detail on the Hasmoneans, Herod and the Roman governors of Judea. Josephus's aim was to present Judaism as an ancient and honourable nation to a gentile audience. Book 18 contains a brief account of Jesus, the Testimonium Flavianum; in its transmitted form it calls Jesus the Messiah, which most scholars consider a Christian interpolation, though many think Josephus wrote a shorter, neutral notice. A passage on the death of 'James, the brother of Jesus who was called Christ' in Book 20 is generally accepted as authentic. The work is a major source for the historical context of the New Testament.",
+  "image_file": "Flavius Josephus, Antiquitates Iudaicae, Florence, Plut. 66.5.jpg",
+  "image_caption": "A manuscript of the Jewish Antiquities, Biblioteca Medicea Laurenziana, Florence (Plut. 66.5)"
  },
  {
   "title": "Gospel of Mark",
@@ -567,7 +627,9 @@
   "type": "Scripture (gospel)",
   "location": "Probably Rome or Syria",
   "note": "The shortest and, most scholars think, earliest Gospel: a fast-paced account of Jesus's ministry, death and empty tomb.",
-  "description": "Mark begins abruptly with John the Baptist and Jesus's baptism, and moves rapidly, often linking scenes with 'immediately', through Jesus's healings, exorcisms, parables and conflicts in Galilee to his journey to Jerusalem, his passion and his death on the cross. Throughout, Jesus tells those who recognise him to keep silent, a theme scholars call the 'messianic secret'. The earliest manuscripts end at 16:8, with women fleeing the empty tomb in fear; the longer endings found in later manuscripts are generally regarded as additions. Early tradition, reported by Papias in the 2nd century, held that Mark was Peter's interpreter in Rome; modern scholars date it around the Jewish war of 66–73, and debate whether it was written in Rome, Syria or Galilee. Most accept 'Markan priority', the view that Matthew and Luke used Mark as a source, which made this neglected Gospel central to modern study of the historical Jesus."
+  "description": "Mark begins abruptly with John the Baptist and Jesus's baptism, and moves rapidly, often linking scenes with 'immediately', through Jesus's healings, exorcisms, parables and conflicts in Galilee to his journey to Jerusalem, his passion and his death on the cross. Throughout, Jesus tells those who recognise him to keep silent, a theme scholars call the 'messianic secret'. The earliest manuscripts end at 16:8, with women fleeing the empty tomb in fear; the longer endings found in later manuscripts are generally regarded as additions. Early tradition, reported by Papias in the 2nd century, held that Mark was Peter's interpreter in Rome; modern scholars date it around the Jewish war of 66–73, and debate whether it was written in Rome, Syria or Galilee. Most accept 'Markan priority', the view that Matthew and Luke used Mark as a source, which made this neglected Gospel central to modern study of the historical Jesus.",
+  "image_file": "Mark 16 first lines, Codex Sinaiticus.png",
+  "image_caption": "Mark 16 in Codex Sinaiticus, 4th century"
  },
  {
   "title": "Gospel of Matthew",
@@ -577,7 +639,9 @@
   "type": "Scripture (gospel)",
   "location": "Probably Antioch, Syria",
   "note": "The Gospel that presents Jesus as the fulfilment of Jewish scripture and contains the Sermon on the Mount and the Lord's Prayer.",
-  "description": "Matthew opens with a genealogy tracing Jesus to Abraham and David and with the stories of the Magi and the flight into Egypt. It arranges Jesus's teaching into five great discourses, beginning with the Sermon on the Mount, which contains the Beatitudes and the Lord's Prayer, and repeatedly notes how events fulfil the prophets. It ends with the risen Jesus commissioning his disciples to make disciples of all nations. Placed first in the New Testament, it was the most quoted Gospel in the early church. Tradition attributed it to the apostle Matthew, the tax collector; most scholars think its author was an anonymous Jewish-Christian writer around 80–90 who used Mark and the sayings source Q. Its sharp polemic against the Pharisees reflects tensions between the early church and the synagogue, and some of its verses were later used to justify Christian hostility toward Jews, a history that modern churches have confronted."
+  "description": "Matthew opens with a genealogy tracing Jesus to Abraham and David and with the stories of the Magi and the flight into Egypt. It arranges Jesus's teaching into five great discourses, beginning with the Sermon on the Mount, which contains the Beatitudes and the Lord's Prayer, and repeatedly notes how events fulfil the prophets. It ends with the risen Jesus commissioning his disciples to make disciples of all nations. Placed first in the New Testament, it was the most quoted Gospel in the early church. Tradition attributed it to the apostle Matthew, the tax collector; most scholars think its author was an anonymous Jewish-Christian writer around 80–90 who used Mark and the sayings source Q. Its sharp polemic against the Pharisees reflects tensions between the early church and the synagogue, and some of its verses were later used to justify Christian hostility toward Jews, a history that modern churches have confronted.",
+  "image_file": "Oxford, Sackler Library Ms LXIV 4404 (Papyrus 104) recto Matt 21, 34-37.jpg",
+  "image_caption": "Papyrus 104, an early fragment of Matthew 21 (Sackler Library, Oxford)"
  },
  {
   "title": "Gospel of Luke and Acts of the Apostles",
@@ -587,7 +651,9 @@
   "type": "Scripture (gospel and history)",
   "location": "Probably the Aegean or Rome",
   "note": "A two-volume narrative from the birth of Jesus to Paul's arrival in Rome, with the parables of the Good Samaritan and the Prodigal Son.",
-  "description": "Luke and Acts, addressed to a certain Theophilus, were written as a single work by the same author. The Gospel gives the fullest account of Jesus's birth, with the annunciation, the shepherds and the canticles of Mary and Zechariah, and includes parables found only in Luke, such as the Good Samaritan and the Prodigal Son, with a marked concern for the poor, women and outsiders. Acts continues with the ascension, the coming of the Spirit at Pentecost, the growth of the Jerusalem church, and the missions of Peter and above all Paul, ending with Paul preaching under house arrest in Rome. Tradition identified the author as Luke, the physician and companion of Paul; the 'we' passages in Acts have been read as eyewitness memory or as a literary device. Most scholars date the work to around 80–95. Acts is the main source, though one whose historical reliability is debated, for the first decades of the church."
+  "description": "Luke and Acts, addressed to a certain Theophilus, were written as a single work by the same author. The Gospel gives the fullest account of Jesus's birth, with the annunciation, the shepherds and the canticles of Mary and Zechariah, and includes parables found only in Luke, such as the Good Samaritan and the Prodigal Son, with a marked concern for the poor, women and outsiders. Acts continues with the ascension, the coming of the Spirit at Pentecost, the growth of the Jerusalem church, and the missions of Peter and above all Paul, ending with Paul preaching under house arrest in Rome. Tradition identified the author as Luke, the physician and companion of Paul; the 'we' passages in Acts have been read as eyewitness memory or as a literary device. Most scholars date the work to around 80–95. Acts is the main source, though one whose historical reliability is debated, for the first decades of the church.",
+  "image_file": "Luke 13.29-35 and 14.10 (CBL BP I, f.15r).jpg",
+  "image_caption": "Luke 13–14 in a 3rd-century papyrus codex (Chester Beatty Library, Dublin)"
  },
  {
   "title": "Gospel of John",
@@ -597,7 +663,9 @@
   "type": "Scripture (gospel)",
   "location": "Traditionally Ephesus",
   "note": "The most theological Gospel, opening 'In the beginning was the Word' and presenting Jesus as the incarnate Son revealing the Father.",
-  "description": "John differs markedly from the other three, 'synoptic', Gospels. It begins with a hymn to the Logos, the Word who was with God and became flesh, and arranges Jesus's ministry around seven 'signs', such as turning water into wine at Cana and raising Lazarus, and long discourses with 'I am' sayings: the bread of life, the light of the world, the good shepherd. Its chronology, with several visits to Jerusalem, also differs. The Gospel refers to an anonymous 'disciple whom Jesus loved' as its witness; tradition identified him with the apostle John, writing at Ephesus in old age. Many scholars instead think of a 'Johannine community' whose traditions were edited in stages and completed around 90–110. Its high Christology was decisive for later doctrine of the Trinity, and its depiction of 'the Jews' as opponents is much discussed in modern Jewish-Christian dialogue."
+  "description": "John differs markedly from the other three, 'synoptic', Gospels. It begins with a hymn to the Logos, the Word who was with God and became flesh, and arranges Jesus's ministry around seven 'signs', such as turning water into wine at Cana and raising Lazarus, and long discourses with 'I am' sayings: the bread of life, the light of the world, the good shepherd. Its chronology, with several visits to Jerusalem, also differs. The Gospel refers to an anonymous 'disciple whom Jesus loved' as its witness; tradition identified him with the apostle John, writing at Ephesus in old age. Many scholars instead think of a 'Johannine community' whose traditions were edited in stages and completed around 90–110. Its high Christology was decisive for later doctrine of the Trinity, and its depiction of 'the Jews' as opponents is much discussed in modern Jewish-Christian dialogue.",
+  "image_file": "JRL19060215 (cropped).jpg",
+  "image_caption": "Rylands Papyrus P52, a small early fragment of John 18 (John Rylands Library, Manchester)"
  },
  {
   "title": "Epistle to the Romans",
@@ -607,7 +675,9 @@
   "type": "Scripture (letter)",
   "location": "Written in Corinth to the church in Rome",
   "note": "Paul's longest and most systematic letter, on sin, grace, justification by faith and the place of Israel, the most influential text of Protestant theology.",
-  "description": "Paul wrote Romans, probably from Corinth around 57, to a church he had not founded, preparing for a visit on his way to Spain. He argues that all people, Jews and gentiles, have fallen short and are made righteous by God through faith in Christ, not by works of the law; that believers die and rise with Christ in baptism and live by the Spirit; and, in chapters 9–11, that God has not abandoned Israel, which will ultimately be saved. The letter ends with ethical exhortation and greetings to many named individuals, including women such as Phoebe and Junia. Romans was pivotal for Augustine's conversion and for Luther, Calvin and Barth. Since the 1970s the 'New Perspective on Paul' has argued that Paul was addressing the inclusion of gentiles more than individual guilt, a reading that remains debated."
+  "description": "Paul wrote Romans, probably from Corinth around 57, to a church he had not founded, preparing for a visit on his way to Spain. He argues that all people, Jews and gentiles, have fallen short and are made righteous by God through faith in Christ, not by works of the law; that believers die and rise with Christ in baptism and live by the Spirit; and, in chapters 9–11, that God has not abandoned Israel, which will ultimately be saved. The letter ends with ethical exhortation and greetings to many named individuals, including women such as Phoebe and Junia. Romans was pivotal for Augustine's conversion and for Luther, Calvin and Barth. Since the 1970s the 'New Perspective on Paul' has argued that Paul was addressing the inclusion of gentiles more than individual guilt, a reading that remains debated.",
+  "image_file": "Uncial 0220 Rom-4.23-5.3.jpg",
+  "image_caption": "Uncial 0220, an early parchment leaf of Romans 4–5"
  },
  {
   "title": "First Epistle to the Corinthians",
@@ -617,7 +687,9 @@
   "type": "Scripture (letter)",
   "location": "Written in Ephesus to the church in Corinth",
   "note": "Paul's practical letter to a divided church, including the hymn to love, the earliest account of the Lord's Supper and of the resurrection appearances.",
-  "description": "Paul wrote this letter from Ephesus to the church he had founded in Corinth, a cosmopolitan Greek port, in response to reports of factions and to questions the Corinthians had sent him. He addresses rivalries among followers of different leaders, sexual morality, marriage and celibacy, eating food offered to idols, the conduct of worship and spiritual gifts such as speaking in tongues. Chapter 11 contains the earliest written account of the words of Jesus at the Last Supper, and chapter 15 lists witnesses of the risen Christ and argues for the bodily resurrection. Chapter 13, 'love is patient, love is kind', is among the best-known passages in the Bible. The letter offers a rare window into the life of an early Christian community. Some passages, notably on women keeping silent in church, are debated, with some scholars considering them later insertions."
+  "description": "Paul wrote this letter from Ephesus to the church he had founded in Corinth, a cosmopolitan Greek port, in response to reports of factions and to questions the Corinthians had sent him. He addresses rivalries among followers of different leaders, sexual morality, marriage and celibacy, eating food offered to idols, the conduct of worship and spiritual gifts such as speaking in tongues. Chapter 11 contains the earliest written account of the words of Jesus at the Last Supper, and chapter 15 lists witnesses of the risen Christ and argues for the bodily resurrection. Chapter 13, 'love is patient, love is kind', is among the best-known passages in the Bible. The letter offers a rare window into the life of an early Christian community. Some passages, notably on women keeping silent in church, are debated, with some scholars considering them later insertions.",
+  "image_file": "Ann Arbor, University of Michigan P.Mich.inv. 6238 (Papyrus 46) fol. 79v 1 Cor 2, 11–3, 5.jpg",
+  "image_caption": "1 Corinthians 2–3 in Papyrus 46, c. 200 (University of Michigan)"
  },
  {
   "title": "Epistle to the Galatians",
@@ -627,7 +699,9 @@
   "type": "Scripture (letter)",
   "location": "Written to churches in Galatia, Asia Minor",
   "note": "Paul's fiery defence of his gospel against those who required gentile converts to be circumcised.",
-  "description": "Galatians was written to churches in central Asia Minor that had been visited by teachers insisting that gentile believers must be circumcised and keep the Jewish law. Paul responds with an autobiographical account of his call and his dealings with the Jerusalem apostles, including a confrontation with Peter at Antioch, and argues that people are justified by faith, as Abraham was, so that in Christ there is neither Jew nor Greek, slave nor free, male and female. Its date is debated, some placing it among his earliest letters around 48 and others in the mid-50s. Luther called it his favourite letter, and it was central to Reformation debates about law and gospel."
+  "description": "Galatians was written to churches in central Asia Minor that had been visited by teachers insisting that gentile believers must be circumcised and keep the Jewish law. Paul responds with an autobiographical account of his call and his dealings with the Jerusalem apostles, including a confrontation with Peter at Antioch, and argues that people are justified by faith, as Abraham was, so that in Christ there is neither Jew nor Greek, slave nor free, male and female. Its date is debated, some placing it among his earliest letters around 48 and others in the mid-50s. Luther called it his favourite letter, and it was central to Reformation debates about law and gospel.",
+  "image_file": "Ann Arbor, University of Michigan P.Mich.inv. 6238 (Papyrus 46) fol. 158r Eph 6, 20–Gal 1, 8.jpg",
+  "image_caption": "The end of Ephesians and opening of Galatians in Papyrus 46, c. 200 (University of Michigan)"
  },
  {
   "title": "Book of Revelation",
@@ -637,7 +711,9 @@
   "type": "Scripture (apocalypse)",
   "location": "Written on Patmos to seven churches of Asia Minor",
   "note": "The final book of the Christian Bible: visions of heavenly worship, cosmic conflict, the fall of Babylon and a new heaven and new earth.",
-  "description": "Revelation, or the Apocalypse, opens with letters from the risen Christ to seven churches in western Asia Minor and then unfolds a series of visions: the throne of God surrounded by living creatures, the Lamb opening a scroll with seven seals, trumpets and bowls of judgement, the woman clothed with the sun, the dragon and the beast whose number is 666, the fall of 'Babylon the great', the thousand-year reign of Christ, the last judgement and the descent of the New Jerusalem. Its imagery draws heavily on Ezekiel, Daniel and other prophets. Most scholars read it as addressed to Christians under the pressures of Roman imperial cult around 95, with Babylon standing for Rome. Its place in the canon was disputed for centuries, especially in the East. It has inspired countless interpretations of history and the end times, as well as Dürer's woodcuts, medieval tapestries and the language of Handel's Messiah."
+  "description": "Revelation, or the Apocalypse, opens with letters from the risen Christ to seven churches in western Asia Minor and then unfolds a series of visions: the throne of God surrounded by living creatures, the Lamb opening a scroll with seven seals, trumpets and bowls of judgement, the woman clothed with the sun, the dragon and the beast whose number is 666, the fall of 'Babylon the great', the thousand-year reign of Christ, the last judgement and the descent of the New Jerusalem. Its imagery draws heavily on Ezekiel, Daniel and other prophets. Most scholars read it as addressed to Christians under the pressures of Roman imperial cult around 95, with Babylon standing for Rome. Its place in the canon was disputed for centuries, especially in the East. It has inspired countless interpretations of history and the end times, as well as Dürer's woodcuts, medieval tapestries and the language of Handel's Messiah.",
+  "image_file": "Dublin, Chester Beatty Ms Chester Beatty III Papyrus 47 fol. 7r Rev 13,16-14.jpg",
+  "image_caption": "Revelation 13–14 in Papyrus 47, 3rd century (Chester Beatty Library, Dublin)"
  },
  {
   "title": "Didache",
@@ -647,7 +723,9 @@
   "type": "Church order",
   "location": "Probably Syria; the only complete text is a manuscript of 1056, Jerusalem",
   "note": "'The Teaching of the Twelve Apostles', the oldest surviving manual of Christian ethics, baptism, prayer and community life.",
-  "description": "The Didache is a short anonymous Greek text in sixteen chapters. It begins with the 'two ways' of life and death, an ethical teaching with Jewish roots, then gives instructions for baptism, preferably in running water, for fasting on Wednesdays and Fridays, for saying the Lord's Prayer three times a day, and for the eucharist, with prayers of thanksgiving over the cup and bread. It also regulates the treatment of travelling apostles and prophets and ends with warnings about the last days. It was known by name to early writers but lost until Philotheos Bryennios, a Greek Orthodox metropolitan, found it in 1873 in a manuscript in Constantinople, publishing it in 1883. Its date is debated, many scholars placing it around the end of the 1st century, and it is a key witness to Christian practice in the generation after the apostles."
+  "description": "The Didache is a short anonymous Greek text in sixteen chapters. It begins with the 'two ways' of life and death, an ethical teaching with Jewish roots, then gives instructions for baptism, preferably in running water, for fasting on Wednesdays and Fridays, for saying the Lord's Prayer three times a day, and for the eucharist, with prayers of thanksgiving over the cup and bread. It also regulates the treatment of travelling apostles and prophets and ends with warnings about the last days. It was known by name to early writers but lost until Philotheos Bryennios, a Greek Orthodox metropolitan, found it in 1873 in a manuscript in Constantinople, publishing it in 1883. Its date is debated, many scholars placing it around the end of the 1st century, and it is a key witness to Christian practice in the generation after the apostles.",
+  "image_file": "Didache.png",
+  "image_caption": "A page of the Didache"
  },
  {
   "title": "Gospel of Thomas",
@@ -657,7 +735,9 @@
   "type": "Apocryphal gospel (sayings collection)",
   "location": "Coptic version in the Nag Hammadi codices, Coptic Museum, Cairo; Greek fragments from Oxyrhynchus",
   "note": "A collection of 114 sayings attributed to Jesus, found complete at Nag Hammadi, some paralleling the Gospels and others unknown.",
-  "description": "The Gospel of Thomas presents itself as the 'secret sayings which the living Jesus spoke and which Didymos Judas Thomas wrote down'. It has no narrative of Jesus's birth, miracles, death or resurrection, only sayings, many introduced simply with 'Jesus said'. About half have parallels in the synoptic Gospels, such as the parable of the sower, while others have a mystical cast, speaking of finding the kingdom within and of knowing oneself. Greek fragments found at Oxyrhynchus in Egypt in the 1890s were identified only after the complete Coptic text came to light at Nag Hammadi in 1945. Scholars sharply debate its date and relation to the canonical Gospels: some see it as preserving independent early traditions, others as a 2nd-century work dependent on them. It was not accepted into the New Testament."
+  "description": "The Gospel of Thomas presents itself as the 'secret sayings which the living Jesus spoke and which Didymos Judas Thomas wrote down'. It has no narrative of Jesus's birth, miracles, death or resurrection, only sayings, many introduced simply with 'Jesus said'. About half have parallels in the synoptic Gospels, such as the parable of the sower, while others have a mystical cast, speaking of finding the kingdom within and of knowing oneself. Greek fragments found at Oxyrhynchus in Egypt in the 1890s were identified only after the complete Coptic text came to light at Nag Hammadi in 1945. Scholars sharply debate its date and relation to the canonical Gospels: some see it as preserving independent early traditions, others as a 2nd-century work dependent on them. It was not accepted into the New Testament.",
+  "image_file": "El Evangelio de Tomás-Gospel of Thomas- Codex II Manuscritos de Nag Hammadi-The Nag Hammadi manuscripts.png",
+  "image_caption": "The opening of the Gospel of Thomas in Nag Hammadi Codex II"
  },
  {
   "title": "Nag Hammadi library",
@@ -667,7 +747,9 @@
   "type": "Manuscripts (codices)",
   "location": "Coptic Museum, Cairo",
   "note": "Thirteen leather-bound Coptic codices discovered in Upper Egypt in 1945, containing Gnostic and other early Christian texts.",
-  "description": "In December 1945 farmers digging near the town of Nag Hammadi in Upper Egypt found a jar containing thirteen papyrus codices bound in leather, with some fifty texts translated into Coptic from Greek. They include the Gospel of Thomas, the Gospel of Philip, the Gospel of Truth, the Apocryphon of John and other works, many associated with the varied movements later grouped as Gnosticism, which taught salvation through secret knowledge and often distinguished the supreme God from a lower creator. The codices were probably copied in the 4th century and may have been buried by monks of a nearby Pachomian monastery, though this is debated. Before the discovery these movements were known mainly through their opponents, such as Irenaeus. The find, published fully in the 1970s, transformed scholarship on the diversity of early Christianity."
+  "description": "In December 1945 farmers digging near the town of Nag Hammadi in Upper Egypt found a jar containing thirteen papyrus codices bound in leather, with some fifty texts translated into Coptic from Greek. They include the Gospel of Thomas, the Gospel of Philip, the Gospel of Truth, the Apocryphon of John and other works, many associated with the varied movements later grouped as Gnosticism, which taught salvation through secret knowledge and often distinguished the supreme God from a lower creator. The codices were probably copied in the 4th century and may have been buried by monks of a nearby Pachomian monastery, though this is debated. Before the discovery these movements were known mainly through their opponents, such as Irenaeus. The find, published fully in the 1970s, transformed scholarship on the diversity of early Christianity.",
+  "image_file": "Nag Hammadi Codex II.jpg",
+  "image_caption": "Nag Hammadi Codex II (Coptic Museum, Cairo)"
  },
  {
   "title": "Codex Sinaiticus",
@@ -677,7 +759,9 @@
   "type": "Manuscript (Greek Bible codex)",
   "location": "British Library, London; with leaves in Leipzig, St Catherine's Monastery (Sinai) and St Petersburg",
   "note": "A 4th-century handwritten Greek Bible, containing the oldest complete New Testament.",
-  "description": "Codex Sinaiticus was written on parchment by several scribes in the mid-4th century, perhaps in Caesarea or Egypt, in four columns per page in Greek capitals. It originally contained the whole Septuagint Old Testament, of which about half survives, and the complete New Testament, together with the Epistle of Barnabas and part of the Shepherd of Hermas. It was kept for centuries at St Catherine's Monastery on Mount Sinai. The German scholar Constantin von Tischendorf took leaves from the monastery in 1844 and the bulk of the codex in 1859, which was then presented to the Russian tsar; the circumstances remain contested by the monastery. In 1933 the Soviet government sold it to the British Museum. It bears thousands of later corrections, a valuable record of how the text was revised. In 2009 the dispersed parts were digitally reunited online, and it is one of the most important witnesses to the text of the Bible."
+  "description": "Codex Sinaiticus was written on parchment by several scribes in the mid-4th century, perhaps in Caesarea or Egypt, in four columns per page in Greek capitals. It originally contained the whole Septuagint Old Testament, of which about half survives, and the complete New Testament, together with the Epistle of Barnabas and part of the Shepherd of Hermas. It was kept for centuries at St Catherine's Monastery on Mount Sinai. The German scholar Constantin von Tischendorf took leaves from the monastery in 1844 and the bulk of the codex in 1859, which was then presented to the Russian tsar; the circumstances remain contested by the monastery. In 1933 the Soviet government sold it to the British Museum. It bears thousands of later corrections, a valuable record of how the text was revised. In 2009 the dispersed parts were digitally reunited online, and it is one of the most important witnesses to the text of the Bible.",
+  "image_file": "Sinaiticus text.jpg",
+  "image_caption": "A page of Codex Sinaiticus"
  },
  {
   "title": "Codex Vaticanus",
@@ -687,7 +771,9 @@
   "type": "Manuscript (Greek Bible codex)",
   "location": "Vatican Apostolic Library, Rome",
   "note": "Probably the oldest nearly complete manuscript of the Greek Bible, held in the Vatican Library since at least the 15th century.",
-  "description": "Codex Vaticanus (Vat. gr. 1209) is a parchment codex written in three columns per page by two or three scribes, dated by palaeographers to the first half of the 4th century. It contains most of the Septuagint and the New Testament up to Hebrews 9:14; the end of the New Testament, including the pastoral letters and Revelation, is lost, and later hands supplied some missing parts. It is recorded in the Vatican Library's first catalogue of 1475. Scholars restricted from studying it for centuries came to recognise its exceptional textual quality. The New Testament text of Westcott and Hort (1881), and through it most modern critical editions and translations, relies heavily on Vaticanus together with Sinaiticus."
+  "description": "Codex Vaticanus (Vat. gr. 1209) is a parchment codex written in three columns per page by two or three scribes, dated by palaeographers to the first half of the 4th century. It contains most of the Septuagint and the New Testament up to Hebrews 9:14; the end of the New Testament, including the pastoral letters and Revelation, is lost, and later hands supplied some missing parts. It is recorded in the Vatican Library's first catalogue of 1475. Scholars restricted from studying it for centuries came to recognise its exceptional textual quality. The New Testament text of Westcott and Hort (1881), and through it most modern critical editions and translations, relies heavily on Vaticanus together with Sinaiticus.",
+  "image_file": "Codex Vaticanus B, 2Thess. 3,11-18, Hebr. 1,1-2,2.jpg",
+  "image_caption": "Codex Vaticanus, the end of 2 Thessalonians and the beginning of Hebrews"
  },
  {
   "title": "Rossano Gospels",
@@ -697,7 +783,9 @@
   "type": "Illuminated manuscript",
   "location": "Diocesan Museum, Rossano, Calabria",
   "note": "One of the oldest surviving illustrated Gospel books, written in silver on purple parchment with vivid scenes of Christ's life.",
-  "description": "The Codex Purpureus Rossanensis contains the Gospels of Matthew and most of Mark in Greek, written in silver and gold ink on parchment dyed purple, a colour associated with imperial luxury. It was probably made in the eastern Mediterranean, perhaps Syria or Constantinople, in the 6th century. Its fourteen surviving full-page miniatures show scenes such as the raising of Lazarus, the entry into Jerusalem, the Last Supper, Christ before Pilate and the parable of the wise and foolish virgins, often accompanied by Old Testament prophets pointing to verses that foretell the events. It came to Rossano in southern Italy, perhaps with Greek monks, and was rediscovered in the cathedral sacristy in 1879. It is listed in UNESCO's Memory of the World register and is a key work for the history of Christian book illustration."
+  "description": "The Codex Purpureus Rossanensis contains the Gospels of Matthew and most of Mark in Greek, written in silver and gold ink on parchment dyed purple, a colour associated with imperial luxury. It was probably made in the eastern Mediterranean, perhaps Syria or Constantinople, in the 6th century. Its fourteen surviving full-page miniatures show scenes such as the raising of Lazarus, the entry into Jerusalem, the Last Supper, Christ before Pilate and the parable of the wise and foolish virgins, often accompanied by Old Testament prophets pointing to verses that foretell the events. It came to Rossano in southern Italy, perhaps with Greek monks, and was rediscovered in the cathedral sacristy in 1879. It is listed in UNESCO's Memory of the World register and is a key work for the history of Christian book illustration.",
+  "image_file": "RossanoGospelsFolio8vChristBeforePilate.jpg",
+  "image_caption": "Rossano Gospels, folio 8v: Christ before Pilate"
  },
  {
   "title": "Rabbula Gospels",
@@ -707,7 +795,9 @@
   "type": "Illuminated manuscript",
   "location": "Biblioteca Medicea Laurenziana, Florence",
   "note": "A Syriac Gospel book completed in 586 at a monastery in Mesopotamia, with one of the earliest images of the Crucifixion.",
-  "description": "According to its colophon, this Syriac Gospel book was completed in 586 by the scribe Rabbula at the monastery of St John of Beth Zagba in northern Mesopotamia. Its decorated canon tables, which concord parallel passages of the four Gospels, are framed by arcades with birds, plants and small scenes, and several full-page miniatures show the Ascension, Pentecost and the Crucifixion, with Christ wearing a long purple robe between the two thieves. Some scholars think the full-page miniatures were added from another manuscript. It has been in Florence since the 15th century. It is an important witness both to Syriac Christianity, one of the great branches of the early church, and to the formation of Christian iconography later shared by East and West."
+  "description": "According to its colophon, this Syriac Gospel book was completed in 586 by the scribe Rabbula at the monastery of St John of Beth Zagba in northern Mesopotamia. Its decorated canon tables, which concord parallel passages of the four Gospels, are framed by arcades with birds, plants and small scenes, and several full-page miniatures show the Ascension, Pentecost and the Crucifixion, with Christ wearing a long purple robe between the two thieves. Some scholars think the full-page miniatures were added from another manuscript. It has been in Florence since the 15th century. It is an important witness both to Syriac Christianity, one of the great branches of the early church, and to the formation of Christian iconography later shared by East and West.",
+  "image_file": "Rabbula Gospels (9v & 10r; Four Evangelists).jpg",
+  "image_caption": "Rabbula Gospels, folios 9v–10r, with decorated canon tables"
  },
  {
   "title": "Hexapla",
@@ -757,7 +847,9 @@
   "type": "Creed",
   "location": "Councils of Nicaea (325) and Constantinople (381)",
   "note": "The statement of faith in one God, Father, Son and Holy Spirit, shared by most Christian churches and recited in their liturgies.",
-  "description": "The Council of Nicaea, summoned by the emperor Constantine in 325, adopted a creed declaring the Son 'of one substance' (homoousios) with the Father, against Arius, who held that the Son was created. The creed recited today in churches is usually the longer form associated with the Council of Constantinople in 381, which added fuller statements on the Holy Spirit, the church, baptism and resurrection; scholars debate exactly how this form arose. In the Latin West the words 'and the Son' (filioque) were later added to describe the Spirit's procession, beginning in Spain in the 6th century and adopted in Rome in the 11th; this became a lasting point of dispute with the Orthodox churches. The creed is used by Catholic, Orthodox, Anglican, Lutheran and many other churches and has been set to music in countless masses as the Credo."
+  "description": "The Council of Nicaea, summoned by the emperor Constantine in 325, adopted a creed declaring the Son 'of one substance' (homoousios) with the Father, against Arius, who held that the Son was created. The creed recited today in churches is usually the longer form associated with the Council of Constantinople in 381, which added fuller statements on the Holy Spirit, the church, baptism and resurrection; scholars debate exactly how this form arose. In the Latin West the words 'and the Son' (filioque) were later added to describe the Spirit's procession, beginning in Spain in the 6th century and adopted in Rome in the 11th; this became a lasting point of dispute with the Orthodox churches. The creed is used by Catholic, Orthodox, Anglican, Lutheran and many other churches and has been set to music in countless masses as the Credo.",
+  "image_file": "Nicaea icon.jpg",
+  "image_caption": "Icon of the First Council of Nicaea, with the creed"
  },
  {
   "title": "Chalcedonian Definition",
@@ -817,7 +909,9 @@
   "type": "Scripture (Latin translation)",
   "location": "Rome and Bethlehem; standard text of the Latin Church",
   "note": "Jerome's Latin translation of the Bible, which became the standard Bible of the Western church for over a thousand years.",
-  "description": "In 382 Pope Damasus asked Jerome to revise the existing Old Latin versions of the Gospels, which varied widely. Jerome went further: in Bethlehem he translated most of the Old Testament directly from the Hebrew between about 390 and 405, an innovation that some, including Augustine, at first opposed. The other New Testament books in the Vulgate were revised by other, unknown scholars, and some books, such as the Psalms in their liturgical form, came from his earlier revisions based on the Greek. The resulting collection, later called the versio vulgata, 'common version', gradually displaced other Latin texts, and the Carolingians produced careful editions. The Council of Trent declared it authentic in 1546, and an official edition, the Sixto-Clementine Vulgate, followed in 1592. Its Latin shaped the language of the liturgy, theology, and much medieval European literature and art."
+  "description": "In 382 Pope Damasus asked Jerome to revise the existing Old Latin versions of the Gospels, which varied widely. Jerome went further: in Bethlehem he translated most of the Old Testament directly from the Hebrew between about 390 and 405, an innovation that some, including Augustine, at first opposed. The other New Testament books in the Vulgate were revised by other, unknown scholars, and some books, such as the Psalms in their liturgical form, came from his earlier revisions based on the Greek. The resulting collection, later called the versio vulgata, 'common version', gradually displaced other Latin texts, and the Carolingians produced careful editions. The Council of Trent declared it authentic in 1546, and an official edition, the Sixto-Clementine Vulgate, followed in 1592. Its Latin shaped the language of the liturgy, theology, and much medieval European literature and art.",
+  "image_file": "Cod. Sangallensis 63 (277).jpg",
+  "image_caption": "Vulgate manuscript, Stiftsbibliothek St Gallen, Cod. Sang. 63"
  },
  {
   "title": "Confessions",
@@ -827,7 +921,9 @@
   "type": "Autobiography and prayer",
   "location": "Hippo Regius, North Africa",
   "note": "Augustine's account of his restless life and conversion, addressed as a prayer to God, the first great Western autobiography.",
-  "description": "In thirteen books addressed to God, Augustine recounts his childhood in Thagaste, including the theft of pears that he analyses as a sin done for its own sake, his studies in Carthage, his years as a Manichaean and a teacher of rhetoric, and his mother Monica's prayers. In Milan, influenced by Neoplatonism and by Ambrose, he struggles with his attachment to sexual desire and worldly success until, in a garden in 386, he hears a child's voice say 'take up and read', opens Paul's letters and is converted. After describing his mother's death, he turns to meditations on memory, time and the creation story in Genesis. The book's famous opening declares that the human heart is restless until it rests in God. The Confessions profoundly influenced Christian spirituality and the Western tradition of self-examination, from Petrarch to Rousseau and modern autobiography."
+  "description": "In thirteen books addressed to God, Augustine recounts his childhood in Thagaste, including the theft of pears that he analyses as a sin done for its own sake, his studies in Carthage, his years as a Manichaean and a teacher of rhetoric, and his mother Monica's prayers. In Milan, influenced by Neoplatonism and by Ambrose, he struggles with his attachment to sexual desire and worldly success until, in a garden in 386, he hears a child's voice say 'take up and read', opens Paul's letters and is converted. After describing his mother's death, he turns to meditations on memory, time and the creation story in Genesis. The book's famous opening declares that the human heart is restless until it rests in God. The Confessions profoundly influenced Christian spirituality and the Western tradition of self-examination, from Petrarch to Rousseau and modern autobiography.",
+  "image_file": "Augustine Confessiones.jpg",
+  "image_caption": "Augustine's Confessions in a manuscript"
  },
  {
   "title": "The City of God",
@@ -837,7 +933,9 @@
   "type": "Theological and historical treatise",
   "location": "Hippo Regius, North Africa",
   "note": "Augustine's vast response to the sack of Rome, contrasting the earthly city of self-love with the heavenly city of the love of God.",
-  "description": "When the Visigoths sacked Rome in 410, pagans blamed the disaster on the abandonment of the old gods. In twenty-two books written over thirteen years, Augustine first argues that the gods had never protected Rome and that pagan religion and philosophy cannot give true happiness, then traces through history two 'cities', defined by two loves: the earthly city of self-love, and the city of God, a community of the faithful on pilgrimage through this world toward its fulfilment beyond history. Along the way he discusses creation, the fall, the Roman Empire, providence, peace and the last things. The work shaped medieval ideas of church and state and Western philosophies of history, and it was one of the most copied books of the Middle Ages."
+  "description": "When the Visigoths sacked Rome in 410, pagans blamed the disaster on the abandonment of the old gods. In twenty-two books written over thirteen years, Augustine first argues that the gods had never protected Rome and that pagan religion and philosophy cannot give true happiness, then traces through history two 'cities', defined by two loves: the earthly city of self-love, and the city of God, a community of the faithful on pilgrimage through this world toward its fulfilment beyond history. Along the way he discusses creation, the fall, the Roman Empire, providence, peace and the last things. The work shaped medieval ideas of church and state and Western philosophies of history, and it was one of the most copied books of the Middle Ages.",
+  "image_file": "City of God Manuscript.jpg",
+  "image_caption": "A medieval illuminated manuscript of The City of God"
  },
  {
   "title": "On the Trinity (De Trinitate)",
@@ -877,7 +975,9 @@
   "type": "Monastic rule",
   "location": "Monte Cassino; oldest surviving copy (c. 700) in the Bodleian Library, Oxford (MS Hatton 48)",
   "note": "Benedict's guide for monastic life, balancing prayer, work and study, the foundation of Western monasticism.",
-  "description": "The Rule, in a prologue and seventy-three short chapters, sets out how a community of monks should live under an abbot. It orders the day around the Divine Office, the eight services of communal prayer in which the Psalms are sung each week, alternating with manual labour and lectio divina, the slow prayerful reading of scripture. It covers obedience, silence and humility, which it describes as a ladder of twelve steps, as well as food, sleep, clothing, the reception of guests 'as Christ', discipline and the election of the abbot. Benedict drew on earlier rules, especially the anonymous Rule of the Master, but his is notably moderate, calling itself 'a little rule for beginners'. Promoted by Charlemagne and Louis the Pious, it became the norm for Western monasteries, and is still followed by Benedictines, Cistercians and Trappists. The oldest surviving copy, written in England around 700, is in the Bodleian Library in Oxford, while a 9th-century manuscript at St Gallen preserves the text most faithfully."
+  "description": "The Rule, in a prologue and seventy-three short chapters, sets out how a community of monks should live under an abbot. It orders the day around the Divine Office, the eight services of communal prayer in which the Psalms are sung each week, alternating with manual labour and lectio divina, the slow prayerful reading of scripture. It covers obedience, silence and humility, which it describes as a ladder of twelve steps, as well as food, sleep, clothing, the reception of guests 'as Christ', discipline and the election of the abbot. Benedict drew on earlier rules, especially the anonymous Rule of the Master, but his is notably moderate, calling itself 'a little rule for beginners'. Promoted by Charlemagne and Louis the Pious, it became the norm for Western monasteries, and is still followed by Benedictines, Cistercians and Trappists. The oldest surviving copy, written in England around 700, is in the Bodleian Library in Oxford, while a 9th-century manuscript at St Gallen preserves the text most faithfully.",
+  "image_file": "MS. Hatton 48 fol. 6v-7r.jpg",
+  "image_caption": "The oldest surviving copy of the Rule, c. 700, Bodleian Library, Oxford (MS Hatton 48)"
  },
  {
   "title": "Pastoral Rule (Regula pastoralis)",
@@ -907,7 +1007,9 @@
   "type": "Illuminated manuscript",
   "location": "Trinity College Library, Dublin",
   "note": "The most lavish of the Insular Gospel books, a masterpiece of interlace, spirals and fantastical animals.",
-  "description": "The Book of Kells contains the four Gospels in Latin, on 340 surviving vellum leaves. It was probably begun in the monastery of Iona, off the west coast of Scotland, around 800 and taken to Kells in Ireland after Viking raids, though where each part was made is debated. Its decoration is extraordinary: full-page portraits of Christ, the Virgin and Child and the evangelists, symbols of the four evangelists, and dense carpet-like pages of knotwork and spirals, most famously the Chi-Rho page, where the monogram of Christ's name swells to fill the page, with cats, mice and otters hidden in its ornament. Even ordinary text pages are enlivened with animals and figures. The manuscript, recorded at Kells in the 11th century, was stolen in 1007 and its gold cover lost. It came to Trinity College Dublin in the 17th century, where it is displayed, a page turned regularly."
+  "description": "The Book of Kells contains the four Gospels in Latin, on 340 surviving vellum leaves. It was probably begun in the monastery of Iona, off the west coast of Scotland, around 800 and taken to Kells in Ireland after Viking raids, though where each part was made is debated. Its decoration is extraordinary: full-page portraits of Christ, the Virgin and Child and the evangelists, symbols of the four evangelists, and dense carpet-like pages of knotwork and spirals, most famously the Chi-Rho page, where the monogram of Christ's name swells to fill the page, with cats, mice and otters hidden in its ornament. Even ordinary text pages are enlivened with animals and figures. The manuscript, recorded at Kells in the 11th century, was stolen in 1007 and its gold cover lost. It came to Trinity College Dublin in the 17th century, where it is displayed, a page turned regularly.",
+  "image_file": "KellsFol032vChristEnthroned.jpg",
+  "image_caption": "Book of Kells, folio 32v: Christ enthroned"
  },
  {
   "title": "Lindisfarne Gospels",
@@ -917,7 +1019,9 @@
   "type": "Illuminated manuscript",
   "location": "British Library, London",
   "note": "A Northumbrian Gospel book of the early 8th century, with a later Old English gloss that is the oldest surviving English version of the Gospels.",
-  "description": "The Lindisfarne Gospels was made at the monastery of Lindisfarne, on Holy Island off the Northumbrian coast, probably in honour of St Cuthbert. A colophon added in the 10th century by the priest Aldred names Eadfrith, bishop of Lindisfarne from 698 to 721, as its scribe and artist, and most scholars accept that one person wrote and illuminated it. Each Gospel is preceded by an evangelist portrait, based on Mediterranean models, and a 'carpet page' of intricate interlace in the form of a cross, followed by a decorated initial page. Its pigments were made from local and imported materials. Aldred added a word-by-word translation into the Northumbrian dialect of Old English between the lines. The book was taken to Durham, then confiscated at the dissolution of the monasteries, and entered the British Library's collections through the library of Sir Robert Cotton."
+  "description": "The Lindisfarne Gospels was made at the monastery of Lindisfarne, on Holy Island off the Northumbrian coast, probably in honour of St Cuthbert. A colophon added in the 10th century by the priest Aldred names Eadfrith, bishop of Lindisfarne from 698 to 721, as its scribe and artist, and most scholars accept that one person wrote and illuminated it. Each Gospel is preceded by an evangelist portrait, based on Mediterranean models, and a 'carpet page' of intricate interlace in the form of a cross, followed by a decorated initial page. Its pigments were made from local and imported materials. Aldred added a word-by-word translation into the Northumbrian dialect of Old English between the lines. The book was taken to Durham, then confiscated at the dissolution of the monasteries, and entered the British Library's collections through the library of Sir Robert Cotton.",
+  "image_file": "LindisfarneFol27rIncipitMatt.jpg",
+  "image_caption": "Lindisfarne Gospels, folio 27r: the opening of Matthew's Gospel"
  },
  {
   "title": "Book of Durrow",
@@ -927,7 +1031,9 @@
   "type": "Illuminated manuscript",
   "location": "Trinity College Library, Dublin",
   "note": "The earliest surviving fully decorated Insular Gospel book, with bold carpet pages and evangelist symbols.",
-  "description": "The Book of Durrow is a small Gospel book in Latin, written in Insular majuscule and decorated with six carpet pages, symbols of the evangelists and decorated initials, in a limited palette of yellow, red, green and brown. Its ornament combines Celtic trumpet spirals, Germanic animal interlace like that on the Sutton Hoo metalwork, and Mediterranean motifs. It was kept at the monastery of Durrow in Ireland, founded by St Columba, but scholars debate whether it was made there, at Iona or in Northumbria. In the 17th century it was reportedly dipped in water by a farmer to cure sick cattle. It is the earliest of the great series that culminates in the Book of Kells."
+  "description": "The Book of Durrow is a small Gospel book in Latin, written in Insular majuscule and decorated with six carpet pages, symbols of the evangelists and decorated initials, in a limited palette of yellow, red, green and brown. Its ornament combines Celtic trumpet spirals, Germanic animal interlace like that on the Sutton Hoo metalwork, and Mediterranean motifs. It was kept at the monastery of Durrow in Ireland, founded by St Columba, but scholars debate whether it was made there, at Iona or in Northumbria. In the 17th century it was reportedly dipped in water by a farmer to cure sick cattle. It is the earliest of the great series that culminates in the Book of Kells.",
+  "image_file": "IE TCD MS 57 f.86r.jpg",
+  "image_caption": "Book of Durrow, folio 86r (Trinity College Dublin, MS 57)"
  },
  {
   "title": "Codex Amiatinus",
@@ -937,7 +1043,9 @@
   "type": "Manuscript (Latin Bible)",
   "location": "Biblioteca Medicea Laurenziana, Florence",
   "note": "The oldest surviving complete Latin Vulgate Bible, made at Wearmouth-Jarrow in Northumbria as a gift for the pope.",
-  "description": "Codex Amiatinus is a giant single-volume Bible of over a thousand leaves, weighing more than 34 kilograms, one of three such pandects made at the twin monastery of Wearmouth-Jarrow under Abbot Ceolfrith, Bede's abbot. In 716 Ceolfrith set out to carry it to Rome as a gift for the pope but died on the way at Langres. The manuscript later reached the abbey of San Salvatore on Monte Amiata in Tuscany, from which it takes its name; its Northumbrian origin was recognised only in the 1880s, when a dedication altered to disguise its origin was deciphered. Written in a fine Italian-style uncial, it includes a famous image of the prophet Ezra writing at a book cupboard. It is the most important witness to the text of Jerome's Vulgate."
+  "description": "Codex Amiatinus is a giant single-volume Bible of over a thousand leaves, weighing more than 34 kilograms, one of three such pandects made at the twin monastery of Wearmouth-Jarrow under Abbot Ceolfrith, Bede's abbot. In 716 Ceolfrith set out to carry it to Rome as a gift for the pope but died on the way at Langres. The manuscript later reached the abbey of San Salvatore on Monte Amiata in Tuscany, from which it takes its name; its Northumbrian origin was recognised only in the 1880s, when a dedication altered to disguise its origin was deciphered. Written in a fine Italian-style uncial, it includes a famous image of the prophet Ezra writing at a book cupboard. It is the most important witness to the text of Jerome's Vulgate.",
+  "image_file": "CodxAmiatinusFolio5rEzra.jpg",
+  "image_caption": "Codex Amiatinus, folio 5r: the prophet Ezra writing"
  },
  {
   "title": "Ecclesiastical History of the English People",
@@ -947,7 +1055,9 @@
   "type": "History",
   "location": "Jarrow, Northumbria; early manuscripts include the St Petersburg Bede and the Moore Bede",
   "note": "Bede's history of the conversion of the English to Christianity, the foundation of English history.",
-  "description": "Completed in 731, Bede's Historia ecclesiastica gentis Anglorum tells, in five books, the story of Britain from the Roman invasion to his own day, centred on the conversion of the Anglo-Saxon kingdoms through Pope Gregory's mission to Kent in 597 and the Irish mission from Iona to Northumbria. It records the Synod of Whitby of 664, the lives of saints such as Aidan and Cuthbert, the cowherd poet Cædmon and many miracles. Bede named his sources and used documents obtained from Canterbury and Rome, and he dated events by the year of the Lord, popularising AD dating. Historians value it highly while noting its Northumbrian and Roman sympathies. It survives in over 150 manuscripts and was translated into Old English in the reign of Alfred."
+  "description": "Completed in 731, Bede's Historia ecclesiastica gentis Anglorum tells, in five books, the story of Britain from the Roman invasion to his own day, centred on the conversion of the Anglo-Saxon kingdoms through Pope Gregory's mission to Kent in 597 and the Irish mission from Iona to Northumbria. It records the Synod of Whitby of 664, the lives of saints such as Aidan and Cuthbert, the cowherd poet Cædmon and many miracles. Bede named his sources and used documents obtained from Canterbury and Rome, and he dated events by the year of the Lord, popularising AD dating. Historians value it highly while noting its Northumbrian and Roman sympathies. It survives in over 150 manuscripts and was translated into Old English in the reign of Alfred.",
+  "image_file": "Beda Petersburgiensis f3v.jpg",
+  "image_caption": "The St Petersburg Bede, 8th century, folio 3v"
  },
  {
   "title": "Mishnah",
@@ -957,7 +1067,9 @@
   "type": "Code of law",
   "location": "Galilee; earliest complete manuscript, the Kaufmann Codex, in Budapest",
   "note": "The first written compilation of the Jewish oral law, organised in six orders, and the foundation of the Talmud.",
-  "description": "The Mishnah collects the legal teachings of the rabbis known as Tannaim, from roughly the 1st century BC to about 200 AD, edited according to tradition by Judah ha-Nasi. Written in a concise Hebrew, it is arranged in six orders covering agriculture and blessings, Sabbath and festivals, women and marriage, damages and civil law, holy things and sacrifices, and purity, divided into sixty-three tractates. It often records disagreements between named sages, such as the houses of Hillel and Shammai, alongside anonymous rulings. Remarkably, much of it discusses Temple rituals that could no longer be performed, showing how the rabbis preserved and reinterpreted the tradition. The tractate Avot, 'Sayings of the Fathers', is a widely loved collection of ethical maxims. The Mishnah became the basis of both Talmuds and of the study of Jewish law ever since."
+  "description": "The Mishnah collects the legal teachings of the rabbis known as Tannaim, from roughly the 1st century BC to about 200 AD, edited according to tradition by Judah ha-Nasi. Written in a concise Hebrew, it is arranged in six orders covering agriculture and blessings, Sabbath and festivals, women and marriage, damages and civil law, holy things and sacrifices, and purity, divided into sixty-three tractates. It often records disagreements between named sages, such as the houses of Hillel and Shammai, alongside anonymous rulings. Remarkably, much of it discusses Temple rituals that could no longer be performed, showing how the rabbis preserved and reinterpreted the tradition. The tractate Avot, 'Sayings of the Fathers', is a widely loved collection of ethical maxims. The Mishnah became the basis of both Talmuds and of the study of Jewish law ever since.",
+  "image_file": "MS Kaufmann A 50.jpg",
+  "image_caption": "The Kaufmann manuscript of the Mishnah (MS Kaufmann A 50), Budapest"
  },
  {
   "title": "Jerusalem Talmud",
@@ -967,7 +1079,9 @@
   "type": "Rabbinic commentary and law",
   "location": "Tiberias and Sepphoris, Galilee; only complete manuscript, Leiden University Library",
   "note": "The commentary on the Mishnah compiled in the academies of Galilee, also called the Talmud of the Land of Israel.",
-  "description": "Despite its name, the Jerusalem Talmud (Talmud Yerushalmi) was compiled in Galilee, chiefly in Tiberias, in the late 4th century, when Jews were barred from Jerusalem. It records the discussions of the Amoraim of the Land of Israel on the Mishnah, in Western Aramaic and Hebrew, covering the first four orders and part of the sixth. It is especially important for laws connected with agriculture in the land of Israel. Its editing appears hurried and incomplete, perhaps because of political pressures in the late Roman period. Less studied than the Babylonian Talmud, it has been the subject of renewed scholarly attention. The only complete manuscript, copied in 1289, is in Leiden, and the first printed edition was published by Daniel Bomberg in Venice in 1523–24."
+  "description": "Despite its name, the Jerusalem Talmud (Talmud Yerushalmi) was compiled in Galilee, chiefly in Tiberias, in the late 4th century, when Jews were barred from Jerusalem. It records the discussions of the Amoraim of the Land of Israel on the Mishnah, in Western Aramaic and Hebrew, covering the first four orders and part of the sixth. It is especially important for laws connected with agriculture in the land of Israel. Its editing appears hurried and incomplete, perhaps because of political pressures in the late Roman period. Less studied than the Babylonian Talmud, it has been the subject of renewed scholarly attention. The only complete manuscript, copied in 1289, is in Leiden, and the first printed edition was published by Daniel Bomberg in Venice in 1523–24.",
+  "image_file": "Yerushalmi Talmud.jpg",
+  "image_caption": "A page of the Jerusalem Talmud"
  },
  {
   "title": "Babylonian Talmud",
@@ -977,7 +1091,9 @@
   "type": "Rabbinic commentary and law",
   "location": "Academies of Babylonia (Sura and Pumbedita); oldest complete manuscript, Munich, 1342",
   "note": "The vast record of rabbinic discussion on the Mishnah compiled in Babylonia, the central text of Jewish learning for fifteen centuries.",
-  "description": "The Babylonian Talmud (Talmud Bavli) consists of the Mishnah together with the Gemara, the discussions of generations of Babylonian rabbis, in Aramaic and Hebrew, on thirty-seven of its tractates. Its debates move associatively from legal questions to biblical interpretation, ethics, medicine, folklore and stories of the sages, preserving minority opinions as well as rulings. Scholars debate how and when it took final shape; anonymous later editors are now thought to have shaped much of its argumentative structure. Through the Geonim of Babylonia it became authoritative throughout the Jewish world. The 1520–23 Venice edition of Daniel Bomberg fixed its page layout, with Rashi's commentary and the Tosafot around the text, and the famous Vilna edition of the 1880s standardised it further. Copies were burned in Paris in 1242 and elsewhere after Christian condemnations. Its study, in yeshivas and today in the worldwide daily-page cycle, is at the heart of Jewish religious culture."
+  "description": "The Babylonian Talmud (Talmud Bavli) consists of the Mishnah together with the Gemara, the discussions of generations of Babylonian rabbis, in Aramaic and Hebrew, on thirty-seven of its tractates. Its debates move associatively from legal questions to biblical interpretation, ethics, medicine, folklore and stories of the sages, preserving minority opinions as well as rulings. Scholars debate how and when it took final shape; anonymous later editors are now thought to have shaped much of its argumentative structure. Through the Geonim of Babylonia it became authoritative throughout the Jewish world. The 1520–23 Venice edition of Daniel Bomberg fixed its page layout, with Rashi's commentary and the Tosafot around the text, and the famous Vilna edition of the 1880s standardised it further. Copies were burned in Paris in 1242 and elsewhere after Christian condemnations. Its study, in yeshivas and today in the worldwide daily-page cycle, is at the heart of Jewish religious culture.",
+  "image_file": "Talmud-Druck von Daniel Bomberg und Ambrosius Froben.jpg",
+  "image_caption": "Pages from 16th-century printed Talmud editions by Daniel Bomberg and Ambrosius Froben"
  },
  {
   "title": "Midrash Rabbah",
@@ -1017,7 +1133,9 @@
   "type": "Icon (encaustic on panel)",
   "location": "St Catherine's Monastery, Mount Sinai, Egypt",
   "note": "One of the oldest surviving icons of Christ, painted in wax, which survived iconoclasm in the remote Sinai monastery.",
-  "description": "This icon, about 84 centimetres high, shows Christ as Pantocrator, 'ruler of all', holding a jewelled Gospel book and raising his right hand in blessing. It was painted in encaustic, pigment mixed with hot wax, a technique inherited from Roman Egyptian portraiture, probably in Constantinople in the 6th century and perhaps donated by the emperor Justinian, who founded the monastery. The two sides of Christ's face differ noticeably, which has been interpreted as expressing his two natures, divine and human. Because St Catherine's lay outside the Byzantine Empire during iconoclasm, its icons escaped the destruction of images, and this one, rediscovered under later overpainting in the 1960s, is the model for the Pantocrator image found in countless later icons and church domes."
+  "description": "This icon, about 84 centimetres high, shows Christ as Pantocrator, 'ruler of all', holding a jewelled Gospel book and raising his right hand in blessing. It was painted in encaustic, pigment mixed with hot wax, a technique inherited from Roman Egyptian portraiture, probably in Constantinople in the 6th century and perhaps donated by the emperor Justinian, who founded the monastery. The two sides of Christ's face differ noticeably, which has been interpreted as expressing his two natures, divine and human. Because St Catherine's lay outside the Byzantine Empire during iconoclasm, its icons escaped the destruction of images, and this one, rediscovered under later overpainting in the 1960s, is the model for the Pantocrator image found in countless later icons and church domes.",
+  "image_file": "Spas vsederzhitel sinay.jpg",
+  "image_caption": "Christ Pantocrator, 6th century, St Catherine's Monastery, Sinai"
  },
  {
   "title": "Theotokos of Vladimir",
@@ -1027,7 +1145,9 @@
   "type": "Icon (tempera on panel)",
   "location": "State Tretyakov Gallery (Church of St Nicholas in Tolmachi), Moscow",
   "note": "A Byzantine icon of the Virgin tenderly embracing the Christ Child, the most venerated icon of Russia.",
-  "description": "Painted in Constantinople around 1130, this icon was sent to Kievan Rus' and taken in 1155 by Prince Andrei Bogolyubsky to Vladimir, where it gave the icon its name. It shows the Virgin and Child cheek to cheek, a type called Eleousa ('tenderness' or 'mercy'), with Mary's sorrowful gaze seeming to foresee the Passion. Only the faces are original; the rest was repainted over the centuries. Brought to Moscow in 1395, it was credited with protecting the city from Tamerlane and other invaders and became a national palladium, used at coronations. After the Revolution it entered the Tretyakov Gallery and is today displayed in the gallery's church so that it may be both seen and venerated. It is regarded as one of the masterpieces of Byzantine painting."
+  "description": "Painted in Constantinople around 1130, this icon was sent to Kievan Rus' and taken in 1155 by Prince Andrei Bogolyubsky to Vladimir, where it gave the icon its name. It shows the Virgin and Child cheek to cheek, a type called Eleousa ('tenderness' or 'mercy'), with Mary's sorrowful gaze seeming to foresee the Passion. Only the faces are original; the rest was repainted over the centuries. Brought to Moscow in 1395, it was credited with protecting the city from Tamerlane and other invaders and became a national palladium, used at coronations. After the Revolution it entered the Tretyakov Gallery and is today displayed in the gallery's church so that it may be both seen and venerated. It is regarded as one of the masterpieces of Byzantine painting.",
+  "image_file": "Virgin of Vladimir.jpg",
+  "image_caption": "The Theotokos of Vladimir, c. 1130 (Tretyakov Gallery, Moscow)"
  },
  {
   "title": "Deësis mosaic, Hagia Sophia",
@@ -1037,7 +1157,9 @@
   "type": "Mosaic",
   "location": "Hagia Sophia, Istanbul",
   "note": "Christ flanked by the Virgin Mary and John the Baptist interceding for humanity, a masterpiece of late Byzantine art.",
-  "description": "The Deësis ('supplication') mosaic in the south gallery of Hagia Sophia shows Christ in majesty between the Virgin and John the Baptist, who turn toward him in prayer on behalf of humankind. It is usually dated to around 1261, after Byzantine forces recovered Constantinople from the Latin crusaders, though some scholars have suggested other dates. The faces are modelled with exceptionally fine tesserae and subtle gradations of colour, giving them a softness and humanity that anticipate developments in Italian painting. Much of the lower part has been lost. After 1453 Hagia Sophia became a mosque and the mosaics were covered; they were uncovered and restored in the 1930s, when the building became a museum, and remain visible in the gallery."
+  "description": "The Deësis ('supplication') mosaic in the south gallery of Hagia Sophia shows Christ in majesty between the Virgin and John the Baptist, who turn toward him in prayer on behalf of humankind. It is usually dated to around 1261, after Byzantine forces recovered Constantinople from the Latin crusaders, though some scholars have suggested other dates. The faces are modelled with exceptionally fine tesserae and subtle gradations of colour, giving them a softness and humanity that anticipate developments in Italian painting. Much of the lower part has been lost. After 1453 Hagia Sophia became a mosque and the mosaics were covered; they were uncovered and restored in the 1930s, when the building became a museum, and remain visible in the gallery.",
+  "image_file": "Deesis mosaic Hagia Sophia.jpg",
+  "image_caption": "The Deësis mosaic in the south gallery of Hagia Sophia, Istanbul"
  },
  {
   "title": "Trinity",
@@ -1047,7 +1169,9 @@
   "type": "Icon (tempera on panel)",
   "location": "State Tretyakov Gallery, Moscow",
   "note": "Three angels seated at a table, representing the Holy Trinity, the most celebrated of all Russian icons.",
-  "description": "The icon depicts the three angels who visited Abraham at Mamre (Genesis 18), a scene traditionally read by Christians as a revelation of the Trinity. Rublev left out Abraham and Sarah, who usually appear, and concentrated on the three figures seated around a table bearing a chalice, their heads inclined toward each other in a circle of silent communion. Behind them are a house, a tree and a mountain. The soft blues, greens and golds and the balance of the composition have made it a symbol of harmony and peace. Painted for the Trinity monastery of St Sergius, perhaps in his memory, it was transferred to the Tretyakov Gallery in 1929. The Russian Church council of 1551 held it up as a model for representing the Trinity."
+  "description": "The icon depicts the three angels who visited Abraham at Mamre (Genesis 18), a scene traditionally read by Christians as a revelation of the Trinity. Rublev left out Abraham and Sarah, who usually appear, and concentrated on the three figures seated around a table bearing a chalice, their heads inclined toward each other in a circle of silent communion. Behind them are a house, a tree and a mountain. The soft blues, greens and golds and the balance of the composition have made it a symbol of harmony and peace. Painted for the Trinity monastery of St Sergius, perhaps in his memory, it was transferred to the Tretyakov Gallery in 1929. The Russian Church council of 1551 held it up as a model for representing the Trinity.",
+  "image_file": "Andrey Rublev - Св. Троица - Google Art Project.jpg",
+  "image_caption": "Andrei Rublev, Trinity (Tretyakov Gallery, Moscow)"
  },
  {
   "title": "Commentary on the Torah",
@@ -1117,7 +1241,9 @@
   "type": "Visionary theology",
   "location": "Disibodenberg and Rupertsberg; the illuminated Rupertsberg manuscript survives in a 20th-century facsimile",
   "note": "Hildegard's first visionary work, twenty-six visions of creation, redemption and the church, with striking illuminations.",
-  "description": "Scivias, short for Scito vias Domini, 'Know the ways of the Lord', records twenty-six visions in three books, each described and then explained by a heavenly voice: the first on creation and the fall, the second on redemption through Christ and the sacraments, and the third on the history of salvation and the end of the world, ending with songs of praise. Hildegard says she saw these things not in dreams or ecstasy but awake, in a 'living light'. Pope Eugenius III read part of it at the Synod of Trier in 1147–48 and encouraged her to continue. A splendid illuminated manuscript made at Rupertsberg, perhaps under her direction, was lost from Dresden in the Second World War, but survives in a hand-painted facsimile made by nuns of Eibingen in the 1920s."
+  "description": "Scivias, short for Scito vias Domini, 'Know the ways of the Lord', records twenty-six visions in three books, each described and then explained by a heavenly voice: the first on creation and the fall, the second on redemption through Christ and the sacraments, and the third on the history of salvation and the end of the world, ending with songs of praise. Hildegard says she saw these things not in dreams or ecstasy but awake, in a 'living light'. Pope Eugenius III read part of it at the Synod of Trier in 1147–48 and encouraged her to continue. A splendid illuminated manuscript made at Rupertsberg, perhaps under her direction, was lost from Dresden in the Second World War, but survives in a hand-painted facsimile made by nuns of Eibingen in the 1920s.",
+  "image_file": "Meister des Hildegardis-Codex 001 cropped.jpg",
+  "image_caption": "Hildegard receiving a vision, from the Rupertsberg Scivias manuscript"
  },
  {
   "title": "Book of Divine Works (Liber Divinorum Operum)",
@@ -1127,7 +1253,9 @@
   "type": "Visionary cosmology",
   "location": "Rupertsberg; illuminated manuscript in the Biblioteca Statale, Lucca",
   "note": "Hildegard's last and most ambitious visionary work, showing the human being at the centre of the cosmos.",
-  "description": "In ten visions Hildegard sets out a theology of creation in which the universe, with its winds, elements and heavenly bodies, is held in the embrace of divine love, and the human being, made of the same elements, is a microcosm of the whole. She also interprets the opening of John's Gospel and the history of salvation. The famous illuminated manuscript of the early 13th century in Lucca shows a cosmic figure embracing the circles of the universe, with a human figure at its centre. The work reflects Hildegard's interest in medicine and nature and has been much admired in modern times for its integrated vision of humanity and creation."
+  "description": "In ten visions Hildegard sets out a theology of creation in which the universe, with its winds, elements and heavenly bodies, is held in the embrace of divine love, and the human being, made of the same elements, is a microcosm of the whole. She also interprets the opening of John's Gospel and the history of salvation. The famous illuminated manuscript of the early 13th century in Lucca shows a cosmic figure embracing the circles of the universe, with a human figure at its centre. The work reflects Hildegard's interest in medicine and nature and has been much admired in modern times for its integrated vision of humanity and creation.",
+  "image_file": "Hildegard von Bingen Liber Divinorum Operum.jpg",
+  "image_caption": "Cosmic figure from the Lucca manuscript of the Liber Divinorum Operum"
  },
  {
   "title": "Four Books of Sentences",
@@ -1137,7 +1265,9 @@
   "type": "Theological textbook",
   "location": "Paris",
   "note": "An organised collection of patristic teaching on all of Christian doctrine, the standard textbook of medieval theology.",
-  "description": "The Sentences arranges quotations, mainly from Augustine but also from other Fathers, under four headings: God and the Trinity; creation and sin; the incarnation and the virtues; and the sacraments and the last things. Where authorities seem to disagree, Peter offers his own resolutions. After the Fourth Lateran Council endorsed his teaching on the Trinity in 1215, the Sentences became the core of the theology curriculum: Alexander of Hales introduced lectures on it at Paris in the 1220s, and commenting on it became a stage in every theologian's career. Thousands of commentaries survive, and it was only displaced by Aquinas's Summa in the 16th century."
+  "description": "The Sentences arranges quotations, mainly from Augustine but also from other Fathers, under four headings: God and the Trinity; creation and sin; the incarnation and the virtues; and the sacraments and the last things. Where authorities seem to disagree, Peter offers his own resolutions. After the Fourth Lateran Council endorsed his teaching on the Trinity in 1215, the Sentences became the core of the theology curriculum: Alexander of Hales introduced lectures on it at Paris in the 1220s, and commenting on it became a stage in every theologian's career. Thousands of commentaries survive, and it was only displaced by Aquinas's Summa in the 16th century.",
+  "image_file": "Free Library of Philadelphia, Lewis E 170, 1r.jpg",
+  "image_caption": "Medieval manuscript leaf, Free Library of Philadelphia, Lewis E 170"
  },
  {
   "title": "Commentary on the Mishnah (with the Thirteen Principles)",
@@ -1167,7 +1297,9 @@
   "type": "Philosophical treatise",
   "location": "Fustat, Egypt; written in Judeo-Arabic, translated into Hebrew by Samuel ibn Tibbon",
   "note": "Maimonides's philosophical masterpiece, reconciling the Torah with Aristotelian philosophy for readers torn between them.",
-  "description": "Addressed to a student perplexed by apparent conflicts between scripture and philosophy, the Guide interprets the Bible's anthropomorphic language about God figuratively, argues that God can only be described by negations, discusses whether the world is eternal or created (favouring creation while admitting it cannot be proven), and explains prophecy, providence, evil and the reasons for the commandments. Maimonides warned that he wrote it deliberately obscurely in places, and readers have long debated its true teaching. Its rationalism provoked fierce controversy in the 13th century, with copies burned in Montpellier in 1232. In Latin translation it influenced Aquinas and other scholastics, and later Spinoza and Leibniz."
+  "description": "Addressed to a student perplexed by apparent conflicts between scripture and philosophy, the Guide interprets the Bible's anthropomorphic language about God figuratively, argues that God can only be described by negations, discusses whether the world is eternal or created (favouring creation while admitting it cannot be proven), and explains prophecy, providence, evil and the reasons for the commandments. Maimonides warned that he wrote it deliberately obscurely in places, and readers have long debated its true teaching. Its rationalism provoked fierce controversy in the 13th century, with copies burned in Montpellier in 1232. In Latin translation it influenced Aquinas and other scholastics, and later Spinoza and Leibniz.",
+  "image_file": "Manuscript page by Maimonides Arabic in Hebrew letters.jpg",
+  "image_caption": "Manuscript page in Maimonides's hand, Arabic written in Hebrew letters"
  },
  {
   "title": "Kuzari",
@@ -1177,7 +1309,9 @@
   "type": "Philosophical dialogue",
   "location": "Spain; written in Judeo-Arabic, translated into Hebrew by Judah ibn Tibbon in 1167",
   "note": "A dialogue in which the king of the Khazars questions a philosopher, a Christian, a Muslim and a rabbi, and chooses Judaism.",
-  "description": "The Kuzari is built on the historical tradition that the ruling class of the Khazars, a Turkic people of the Caucasus steppes, converted to Judaism in the 8th or 9th century. In Halevi's book the king, told in a dream that his intentions are pleasing to God but not his actions, interviews a philosopher, a Christian scholar and a Muslim scholar before turning to a rabbi. The rabbi grounds his faith not in philosophical proofs but in God's revelation in history, witnessed publicly by the whole people at Sinai, and speaks of the special religious capacity of Israel and the holiness of the Land of Israel. The book closes with the rabbi's decision to go to Jerusalem, as Halevi himself did. It has remained a classic of Jewish thought."
+  "description": "The Kuzari is built on the historical tradition that the ruling class of the Khazars, a Turkic people of the Caucasus steppes, converted to Judaism in the 8th or 9th century. In Halevi's book the king, told in a dream that his intentions are pleasing to God but not his actions, interviews a philosopher, a Christian scholar and a Muslim scholar before turning to a rabbi. The rabbi grounds his faith not in philosophical proofs but in God's revelation in history, witnessed publicly by the whole people at Sinai, and speaks of the special religious capacity of Israel and the holiness of the Land of Israel. The book closes with the rabbi's decision to go to Jerusalem, as Halevi himself did. It has remained a classic of Jewish thought.",
+  "image_file": "1880 Warsaw Kuzari2.jpg",
+  "image_caption": "A page of the Kuzari, Warsaw edition, 1880"
  },
  {
   "title": "Zohar",
@@ -1187,7 +1321,9 @@
   "type": "Mystical commentary",
   "location": "Castile; first printed in Mantua and Cremona, 1558–60",
   "note": "The foundational work of Kabbalah, a mystical commentary on the Torah in Aramaic, set among the sages of 2nd-century Galilee.",
-  "description": "The Zohar ('Radiance') is a vast collection of mystical interpretations of the Torah, the Song of Songs, Ruth and other texts, written in an artificial literary Aramaic. Its stories portray Rabbi Shimon bar Yochai and his companions wandering through Galilee, discussing the hidden meanings of scripture. It develops the kabbalistic doctrine of the ten sefirot, the aspects through which the hidden God (Ein Sof) is manifest, and speaks of the divine feminine presence, the Shekhinah, of exile and redemption, and of how human deeds affect the divine realm. Tradition attributes it to bar Yochai. Most scholars since Gershom Scholem date it to late 13th-century Castile and link it to Moses de León, some seeing it as the work of a circle of kabbalists composed over time. It became a sacred text for many Jews, central to the Kabbalah of Safed and to Hasidism."
+  "description": "The Zohar ('Radiance') is a vast collection of mystical interpretations of the Torah, the Song of Songs, Ruth and other texts, written in an artificial literary Aramaic. Its stories portray Rabbi Shimon bar Yochai and his companions wandering through Galilee, discussing the hidden meanings of scripture. It develops the kabbalistic doctrine of the ten sefirot, the aspects through which the hidden God (Ein Sof) is manifest, and speaks of the divine feminine presence, the Shekhinah, of exile and redemption, and of how human deeds affect the divine realm. Tradition attributes it to bar Yochai. Most scholars since Gershom Scholem date it to late 13th-century Castile and link it to Moses de León, some seeing it as the work of a circle of kabbalists composed over time. It became a sacred text for many Jews, central to the Kabbalah of Safed and to Hasidism.",
+  "image_file": "Zohar.png",
+  "image_caption": "An early printed edition of the Zohar"
  },
  {
   "title": "Canticle of the Sun",
@@ -1217,7 +1353,9 @@
   "type": "Systematic theology",
   "location": "Rome, Paris and Naples",
   "note": "Aquinas's comprehensive synthesis of Christian theology, organised in questions and articles, the masterpiece of scholasticism.",
-  "description": "Aquinas intended the Summa as a guide for beginners in theology. Its three parts treat God and creation; the human being's movement toward God through action, law, virtue and grace; and Christ and the sacraments, as the way to God. It is divided into some 500 questions and about 2,600 articles, each following a fixed method: a question, objections, an authority 'on the contrary', Aquinas's own answer and replies to each objection. It includes the 'five ways' of arguing for God's existence and an influential treatment of natural law. Aquinas stopped writing in December 1273, leaving the third part unfinished; his assistants completed it from his earlier writings. After the Council of Trent it replaced Peter Lombard's Sentences as the main textbook of Catholic theology, and it remains central to Catholic thought and widely studied by philosophers."
+  "description": "Aquinas intended the Summa as a guide for beginners in theology. Its three parts treat God and creation; the human being's movement toward God through action, law, virtue and grace; and Christ and the sacraments, as the way to God. It is divided into some 500 questions and about 2,600 articles, each following a fixed method: a question, objections, an authority 'on the contrary', Aquinas's own answer and replies to each objection. It includes the 'five ways' of arguing for God's existence and an influential treatment of natural law. Aquinas stopped writing in December 1273, leaving the third part unfinished; his assistants completed it from his earlier writings. After the Council of Trent it replaced Peter Lombard's Sentences as the main textbook of Catholic theology, and it remains central to Catholic thought and widely studied by philosophers.",
+  "image_file": "SummaTheologiae.jpg",
+  "image_caption": "An early copy of the Summa Theologiae"
  },
  {
   "title": "Summa contra Gentiles",
@@ -1247,7 +1385,9 @@
   "type": "Mystical writing",
   "location": "Norwich; manuscripts in the British Library and Bibliothèque nationale de France",
   "note": "Julian's account of her sixteen visions and decades of reflection on them, the earliest surviving book in English by a woman.",
-  "description": "Julian wrote a Short Text soon after her visions of May 1373 and, over some twenty years of reflection, a Long Text of eighty-six chapters. She describes seeing Christ's bleeding head and a small thing 'the quantity of an hazelnut' in her palm, which God told her is all that is made, kept in being by his love. She develops a theology of divine love that speaks of Jesus as our mother, of sin as having 'no manner of substance', and of the parable of a lord and servant explaining the fall. She records Christ's words that all shall be well, and all manner of thing shall be well. The Short Text survives in one manuscript and the Long Text in three later copies. Rediscovered in the 20th century, the book quoted by T. S. Eliot in Four Quartets, it is now one of the most read works of medieval spirituality."
+  "description": "Julian wrote a Short Text soon after her visions of May 1373 and, over some twenty years of reflection, a Long Text of eighty-six chapters. She describes seeing Christ's bleeding head and a small thing 'the quantity of an hazelnut' in her palm, which God told her is all that is made, kept in being by his love. She develops a theology of divine love that speaks of Jesus as our mother, of sin as having 'no manner of substance', and of the parable of a lord and servant explaining the fall. She records Christ's words that all shall be well, and all manner of thing shall be well. The Short Text survives in one manuscript and the Long Text in three later copies. Rediscovered in the 20th century, the book quoted by T. S. Eliot in Four Quartets, it is now one of the most read works of medieval spirituality.",
+  "image_file": "The front page of Revelations of Divine Love (c. 1675, Serenus de Cressey).jpg",
+  "image_caption": "Title page of Serenus de Cressy's first printed edition of the Revelations (1670)"
  },
  {
   "title": "The Imitation of Christ",
@@ -1257,7 +1397,9 @@
   "type": "Devotional book",
   "location": "Mount Saint Agnes, near Zwolle; autograph of 1441 in the Royal Library, Brussels",
   "note": "A handbook of the inner spiritual life from the Devotio Moderna, the most widely read Christian book after the Bible.",
-  "description": "The Imitation of Christ consists of four books of short chapters: counsel for the spiritual life, on the inner life, on inner consolation in the form of a dialogue between Christ and the disciple, and on the sacrament of the eucharist. It urges humility, detachment from the world, self-knowledge and personal devotion to Christ, often in pithy sayings, and is sceptical of learning that does not lead to holiness. It circulated anonymously and was attributed to various authors before scholarly consensus settled on Thomas à Kempis, whose autograph copy of 1441 survives. It has been translated into more languages than almost any other book, and read by figures as different as Ignatius of Loyola, John Wesley and Thomas More."
+  "description": "The Imitation of Christ consists of four books of short chapters: counsel for the spiritual life, on the inner life, on inner consolation in the form of a dialogue between Christ and the disciple, and on the sacrament of the eucharist. It urges humility, detachment from the world, self-knowledge and personal devotion to Christ, often in pithy sayings, and is sceptical of learning that does not lead to holiness. It circulated anonymously and was attributed to various authors before scholarly consensus settled on Thomas à Kempis, whose autograph copy of 1441 survives. It has been translated into more languages than almost any other book, and read by figures as different as Ignatius of Loyola, John Wesley and Thomas More.",
+  "image_file": "Thomas à Kempis - De Imitatione Christi.gif",
+  "image_caption": "An early edition of De Imitatione Christi"
  },
  {
   "title": "Golden Legend (Legenda aurea)",
@@ -1267,7 +1409,9 @@
   "type": "Hagiography",
   "location": "Genoa and Lombardy; some 1,000 manuscripts survive; English edition by Caxton, 1483",
   "note": "A collection of saints' lives and feasts of the church year, the most popular medieval book after the Bible and a key source for religious art.",
-  "description": "Organised by the liturgical calendar from Advent onward, the Golden Legend gathers some 180 chapters on saints and feasts: the lives and martyrdoms of saints such as George and the dragon, Catherine of Alexandria and Christopher, along with explanations of feasts such as Christmas and the Assumption. Jacobus drew on earlier collections and often offered several versions of a story, with fanciful etymologies of saints' names. It was a handbook for preachers and became immensely popular, translated into most European languages and printed in many editions from the 1470s. Humanists such as Juan Luis Vives criticised its legends, and the Reformation and later Catholic critical scholarship reduced its authority. Its stories shaped the iconography of medieval and Renaissance art, providing the attributes by which saints are recognised in painting and stained glass."
+  "description": "Organised by the liturgical calendar from Advent onward, the Golden Legend gathers some 180 chapters on saints and feasts: the lives and martyrdoms of saints such as George and the dragon, Catherine of Alexandria and Christopher, along with explanations of feasts such as Christmas and the Assumption. Jacobus drew on earlier collections and often offered several versions of a story, with fanciful etymologies of saints' names. It was a handbook for preachers and became immensely popular, translated into most European languages and printed in many editions from the 1470s. Humanists such as Juan Luis Vives criticised its legends, and the Reformation and later Catholic critical scholarship reduced its authority. Its stories shaped the iconography of medieval and Renaissance art, providing the attributes by which saints are recognised in painting and stained glass.",
+  "image_file": "Umbria, jacopo da varazze, leggenda aurea, 1290 ca. 01.jpg",
+  "image_caption": "An Umbrian manuscript of the Golden Legend, c. 1290"
  },
  {
   "title": "Wycliffite Bible",
@@ -1277,7 +1421,9 @@
   "type": "Scripture (English translation)",
   "location": "Oxford and elsewhere; some 250 manuscripts survive, many in British and American libraries",
   "note": "The first complete Bible in English, translated from the Latin Vulgate by Wycliffe's followers.",
-  "description": "The Wycliffite Bible exists in two versions: an early, very literal translation of the Vulgate made around 1382, and a later, more idiomatic revision of the 1390s, associated with John Purvey, whose role scholars now question. Wycliffe's personal involvement is debated; the translation was the work of a team of Oxford scholars inspired by his teaching that scripture should be available to all. In 1409 the Constitutions of Oxford, under Archbishop Arundel, forbade translating or owning the Bible in English without episcopal approval, and Lollards were prosecuted. Nevertheless, some 250 manuscripts survive, more than of any other medieval English text, many apparently owned by orthodox readers. It was a forerunner of the Reformation Bibles."
+  "description": "The Wycliffite Bible exists in two versions: an early, very literal translation of the Vulgate made around 1382, and a later, more idiomatic revision of the 1390s, associated with John Purvey, whose role scholars now question. Wycliffe's personal involvement is debated; the translation was the work of a team of Oxford scholars inspired by his teaching that scripture should be available to all. In 1409 the Constitutions of Oxford, under Archbishop Arundel, forbade translating or owning the Bible in English without episcopal approval, and Lollards were prosecuted. Nevertheless, some 250 manuscripts survive, more than of any other medieval English text, many apparently owned by orthodox readers. It was a forerunner of the Reformation Bibles.",
+  "image_file": "Wycliffe John Gospel.jpg",
+  "image_caption": "The opening of John's Gospel in a Wycliffite Bible manuscript"
  },
  {
   "title": "Gutenberg Bible",
@@ -1287,7 +1433,9 @@
   "type": "Printed book",
   "location": "Copies in the Library of Congress, British Library, Bibliothèque nationale de France, Mainz Gutenberg Museum and elsewhere",
   "note": "The first major book printed in Europe with movable metal type: a two-volume Latin Vulgate of 42 lines per page.",
-  "description": "Gutenberg's workshop in Mainz printed some 180 copies of the Latin Bible, about three-quarters on paper and the rest on vellum, in two large volumes of 1,286 pages, with two columns of usually 42 lines, in a Gothic type imitating the formal script of manuscripts. Production took several years and involved about 300 type designs. A letter by Enea Silvio Piccolomini, later Pope Pius II, reports seeing sheets at Frankfurt in 1454, and the books were finished by 1455. Initials, rubrics and borders were added by hand after printing, so every copy is different. Forty-nine copies, complete or substantial, survive. The Bible demonstrated that printing could match the beauty of the finest manuscripts and opened the age of the printed book, which would transform the spread of religious ideas."
+  "description": "Gutenberg's workshop in Mainz printed some 180 copies of the Latin Bible, about three-quarters on paper and the rest on vellum, in two large volumes of 1,286 pages, with two columns of usually 42 lines, in a Gothic type imitating the formal script of manuscripts. Production took several years and involved about 300 type designs. A letter by Enea Silvio Piccolomini, later Pope Pius II, reports seeing sheets at Frankfurt in 1454, and the books were finished by 1455. Initials, rubrics and borders were added by hand after printing, so every copy is different. Forty-nine copies, complete or substantial, survive. The Bible demonstrated that printing could match the beauty of the finest manuscripts and opened the age of the printed book, which would transform the spread of religious ideas.",
+  "image_file": "Gutenberg Bible, Lenox Copy, New York Public Library, 2009. Pic 01.jpg",
+  "image_caption": "The Lenox copy of the Gutenberg Bible, New York Public Library"
  },
  {
   "title": "Novum Instrumentum omne (Greek New Testament)",
@@ -1297,7 +1445,9 @@
   "type": "Printed edition (Greek and Latin)",
   "location": "Printed by Johann Froben, Basel",
   "note": "The first published printed Greek New Testament, with Erasmus's new Latin translation, basis of the Reformation Bibles.",
-  "description": "Erasmus prepared his edition hastily from a handful of late Greek manuscripts available in Basel, printing the Greek beside his own fresh Latin translation, which departed from the Vulgate, with extensive annotations. For the end of Revelation, missing in his only manuscript, he translated the Latin back into Greek. Published by Froben in March 1516, it beat to publication the Complutensian Polyglot, printed earlier in Spain but released only in 1522. Revised editions followed in 1519, 1522, 1527 and 1535; the third added the 'Johannine Comma' on the Trinity (1 John 5:7) under pressure from critics, after a manuscript containing it was produced. Luther used the second edition for his German New Testament, and Tyndale used it for his English one. Its text, refined by later editors, became the Textus Receptus underlying the King James Version."
+  "description": "Erasmus prepared his edition hastily from a handful of late Greek manuscripts available in Basel, printing the Greek beside his own fresh Latin translation, which departed from the Vulgate, with extensive annotations. For the end of Revelation, missing in his only manuscript, he translated the Latin back into Greek. Published by Froben in March 1516, it beat to publication the Complutensian Polyglot, printed earlier in Spain but released only in 1522. Revised editions followed in 1519, 1522, 1527 and 1535; the third added the 'Johannine Comma' on the Trinity (1 John 5:7) under pressure from critics, after a manuscript containing it was produced. Luther used the second edition for his German New Testament, and Tyndale used it for his English one. Its text, refined by later editors, became the Textus Receptus underlying the King James Version.",
+  "image_file": "Erasmus 1516 title page.JPG",
+  "image_caption": "Title page of Erasmus's Novum Instrumentum, Basel, 1516"
  },
  {
   "title": "Enchiridion militis Christiani (Handbook of the Christian Soldier)",
@@ -1307,7 +1457,9 @@
   "type": "Devotional treatise",
   "location": "First published Antwerp",
   "note": "Erasmus's guide to an inward, scripture-based Christian life, a manifesto of humanist piety.",
-  "description": "Written, according to Erasmus, for the wife of a soldier who wanted her husband to reform his life, the Enchiridion (meaning both 'handbook' and 'dagger') sets out rules for the Christian life as a spiritual combat. It urges readers to study scripture and the Church Fathers, to seek the spirit rather than the letter, and to value inner devotion and love of neighbour above external ceremonies, pilgrimages and relics. Little noticed at first, it became a bestseller after its 1518 reissue, translated into many languages, and was read as a call for reform. It was later listed on the Spanish and Roman indexes of prohibited books, illustrating the shifting fortunes of Erasmian piety."
+  "description": "Written, according to Erasmus, for the wife of a soldier who wanted her husband to reform his life, the Enchiridion (meaning both 'handbook' and 'dagger') sets out rules for the Christian life as a spiritual combat. It urges readers to study scripture and the Church Fathers, to seek the spirit rather than the letter, and to value inner devotion and love of neighbour above external ceremonies, pilgrimages and relics. Little noticed at first, it became a bestseller after its 1518 reissue, translated into many languages, and was read as a call for reform. It was later listed on the Spanish and Roman indexes of prohibited books, illustrating the shifting fortunes of Erasmian piety.",
+  "image_file": "Erasmo de Róterdam (1528) Manual del caballero cristiano.png",
+  "image_caption": "Title page of a Spanish translation of the Enchiridion, 1528"
  },
  {
   "title": "Ninety-five Theses",
@@ -1317,7 +1469,9 @@
   "type": "Academic disputation theses",
   "location": "Wittenberg; printed in Nuremberg, Leipzig and Basel, 1517",
   "note": "Luther's propositions against the sale of indulgences, which set off the Protestant Reformation.",
-  "description": "On 31 October 1517 Luther sent a letter to Archbishop Albrecht of Mainz protesting the preaching of indulgences by the Dominican Johann Tetzel, enclosing ninety-five Latin theses for academic debate. The famous story that he nailed them to the door of the Castle Church in Wittenberg comes from Melanchthon after Luther's death; historians debate whether it happened, though posting theses on the church door was a normal way of announcing a disputation. The theses questioned the pope's power over purgatory and the value of indulgences, insisting that the true treasure of the church is the gospel. Printed and translated into German, they spread across Germany within weeks. The ensuing controversy led to Luther's excommunication in 1521. 31 October is commemorated as Reformation Day, and the 500th anniversary in 2017 was marked jointly by Lutherans and Catholics."
+  "description": "On 31 October 1517 Luther sent a letter to Archbishop Albrecht of Mainz protesting the preaching of indulgences by the Dominican Johann Tetzel, enclosing ninety-five Latin theses for academic debate. The famous story that he nailed them to the door of the Castle Church in Wittenberg comes from Melanchthon after Luther's death; historians debate whether it happened, though posting theses on the church door was a normal way of announcing a disputation. The theses questioned the pope's power over purgatory and the value of indulgences, insisting that the true treasure of the church is the gospel. Printed and translated into German, they spread across Germany within weeks. The ensuing controversy led to Luther's excommunication in 1521. 31 October is commemorated as Reformation Day, and the 500th anniversary in 2017 was marked jointly by Lutherans and Catholics.",
+  "image_file": "Luther 95 Thesen.png",
+  "image_caption": "An early printing of the Ninety-five Theses"
  },
  {
   "title": "On the Freedom of a Christian",
@@ -1327,7 +1481,9 @@
   "type": "Treatise",
   "location": "Wittenberg",
   "note": "Luther's short treatise on faith and love: a Christian is free lord of all, subject to none, and dutiful servant of all.",
-  "description": "One of three great reform treatises of 1520, together with the Address to the Christian Nobility and The Babylonian Captivity of the Church, On the Freedom of a Christian was sent with a conciliatory letter to Pope Leo X. Its paradox is that faith alone, not works, justifies the Christian and unites the soul to Christ like a bride to her bridegroom, making the believer free, while that same faith overflows in love and service of the neighbour. It is the most accessible statement of Luther's understanding of justification and Christian liberty, and is still widely read."
+  "description": "One of three great reform treatises of 1520, together with the Address to the Christian Nobility and The Babylonian Captivity of the Church, On the Freedom of a Christian was sent with a conciliatory letter to Pope Leo X. Its paradox is that faith alone, not works, justifies the Christian and unites the soul to Christ like a bride to her bridegroom, making the believer free, while that same faith overflows in love and service of the neighbour. It is the most accessible statement of Luther's understanding of justification and Christian liberty, and is still widely read.",
+  "image_file": "Von der Freiheit eines Christenmenschen.jpg",
+  "image_caption": "Title page of an early printing of Von der Freiheit eines Christenmenschen"
  },
  {
   "title": "Luther Bible",
@@ -1337,7 +1493,9 @@
   "type": "Scripture (German translation)",
   "location": "Printed by Hans Lufft, Wittenberg; illustrated with woodcuts from the Cranach workshop",
   "note": "Luther's German translation of the Bible from Hebrew and Greek, which shaped the German language and Protestant piety.",
-  "description": "Hidden at the Wartburg castle after the Diet of Worms, Luther translated the New Testament from Erasmus's Greek text in about eleven weeks; the 'September Testament' appeared in 1522, with woodcuts from Lucas Cranach's workshop. With Melanchthon and other colleagues he then translated the Old Testament from Hebrew, and the complete Bible was published by Hans Lufft in 1534. Luther sought vivid, everyday German, famously saying that one should look at 'the mouth' of the mother in the home and the man in the market. His prefaces and some choices, such as adding 'alone' to Romans 3:28, expressed his theology. Hundreds of thousands of copies were sold in his lifetime, and the Luther Bible became a foundation of modern standard German. Revised editions are still used by German Protestants."
+  "description": "Hidden at the Wartburg castle after the Diet of Worms, Luther translated the New Testament from Erasmus's Greek text in about eleven weeks; the 'September Testament' appeared in 1522, with woodcuts from Lucas Cranach's workshop. With Melanchthon and other colleagues he then translated the Old Testament from Hebrew, and the complete Bible was published by Hans Lufft in 1534. Luther sought vivid, everyday German, famously saying that one should look at 'the mouth' of the mother in the home and the man in the market. His prefaces and some choices, such as adding 'alone' to Romans 3:28, expressed his theology. Hundreds of thousands of copies were sold in his lifetime, and the Luther Bible became a foundation of modern standard German. Revised editions are still used by German Protestants.",
+  "image_file": "Lutherbibel.jpg",
+  "image_caption": "Title page of the Luther Bible"
  },
  {
   "title": "Small Catechism",
@@ -1347,7 +1505,9 @@
   "type": "Catechism",
   "location": "Wittenberg",
   "note": "Luther's brief explanation of the Ten Commandments, Creed, Lord's Prayer and sacraments for families and children.",
-  "description": "Shocked by the ignorance he found visiting Saxon parishes in 1528, Luther wrote two catechisms: the Large Catechism for pastors and the Small Catechism for heads of households to teach their families. In simple question-and-answer form, with the recurring question 'What does this mean?', it explains the Commandments, the Apostles' Creed, the Lord's Prayer, baptism, confession and the Lord's Supper, and adds prayers for morning, evening and meals. It became part of the Lutheran confessional writings in the Book of Concord (1580) and has been memorised by generations of Lutherans, one of the most widely printed books of the Reformation."
+  "description": "Shocked by the ignorance he found visiting Saxon parishes in 1528, Luther wrote two catechisms: the Large Catechism for pastors and the Small Catechism for heads of households to teach their families. In simple question-and-answer form, with the recurring question 'What does this mean?', it explains the Commandments, the Apostles' Creed, the Lord's Prayer, baptism, confession and the Lord's Supper, and adds prayers for morning, evening and meals. It became part of the Lutheran confessional writings in the Book of Concord (1580) and has been memorised by generations of Lutherans, one of the most widely printed books of the Reformation.",
+  "image_file": "Der kleine Catechismus 1535.jpg",
+  "image_caption": "Luther's Small Catechism, edition of 1535"
  },
  {
   "title": "A Mighty Fortress Is Our God (Ein feste Burg)",
@@ -1357,7 +1517,9 @@
   "type": "Hymn",
   "location": "Wittenberg; earliest surviving printing in a 1531 hymnal",
   "note": "Luther's best-known hymn, a paraphrase of Psalm 46, often called the battle hymn of the Reformation.",
-  "description": "Luther wrote some three dozen hymns, believing that congregations should sing in their own language. 'Ein feste Burg ist unser Gott' paraphrases Psalm 46 and expresses confidence in God against the devil and all earthly powers. Its exact date is uncertain, though it was probably written between 1527 and 1529; the melody, also by Luther, was originally rhythmic and lively. It became a symbol of Protestantism, used by Bach in a cantata, by Mendelssohn in his Reformation Symphony and by Meyerbeer in an opera, and has been translated into many languages, including Thomas Carlyle's English version and Frederic Hedge's 'A mighty fortress is our God'."
+  "description": "Luther wrote some three dozen hymns, believing that congregations should sing in their own language. 'Ein feste Burg ist unser Gott' paraphrases Psalm 46 and expresses confidence in God against the devil and all earthly powers. Its exact date is uncertain, though it was probably written between 1527 and 1529; the melody, also by Luther, was originally rhythmic and lively. It became a symbol of Protestantism, used by Bach in a cantata, by Mendelssohn in his Reformation Symphony and by Meyerbeer in an opera, and has been translated into many languages, including Thomas Carlyle's English version and Frederic Hedge's 'A mighty fortress is our God'.",
+  "image_file": "Walter Ein feste manuscript folio 154v.jpg",
+  "image_caption": "Ein feste Burg in a manuscript associated with Johann Walter"
  },
  {
   "title": "Augsburg Confession",
@@ -1387,7 +1549,9 @@
   "type": "Scripture (English translation)",
   "location": "Printed by Peter Schöffer, Worms; copies in the British Library and Stuttgart",
   "note": "The first printed English New Testament, translated from the Greek, smuggled into England and burned by the authorities.",
-  "description": "Tyndale's first attempt to print his New Testament in Cologne in 1525 was interrupted by a raid, and only a fragment of that edition survives. The first complete edition was printed in Worms in 1526 in a small octavo format, and about 3,000 copies were smuggled into England, where Bishop Cuthbert Tunstall bought and burned copies at St Paul's Cross. Only three copies of the 1526 edition are known today. Tyndale went on to translate the Pentateuch (1530), Jonah and a revised New Testament (1534). His clear and rhythmic English, with phrases such as 'the salt of the earth' and 'fight the good fight', passed largely into the Great Bible, the Geneva Bible and the King James Version."
+  "description": "Tyndale's first attempt to print his New Testament in Cologne in 1525 was interrupted by a raid, and only a fragment of that edition survives. The first complete edition was printed in Worms in 1526 in a small octavo format, and about 3,000 copies were smuggled into England, where Bishop Cuthbert Tunstall bought and burned copies at St Paul's Cross. Only three copies of the 1526 edition are known today. Tyndale went on to translate the Pentateuch (1530), Jonah and a revised New Testament (1534). His clear and rhythmic English, with phrases such as 'the salt of the earth' and 'fight the good fight', passed largely into the Great Bible, the Geneva Bible and the King James Version.",
+  "image_file": "Tyndale Bible - Gospel of John.jpg",
+  "image_caption": "The opening of John's Gospel in Tyndale's New Testament"
  },
  {
   "title": "Institutes of the Christian Religion",
@@ -1397,7 +1561,9 @@
   "type": "Systematic theology",
   "location": "First edition printed in Basel, 1536; final Latin edition Geneva, 1559",
   "note": "Calvin's systematic summary of Reformed theology, expanded from a small catechism to a monumental four-book work.",
-  "description": "The first edition, of six chapters, was published in Basel in 1536 with a dedicatory letter to King Francis I of France defending persecuted French Protestants. Calvin expanded it repeatedly, and the final Latin edition of 1559, with a French translation in 1560 that helped shape French prose, is organised in four books following the Apostles' Creed: the knowledge of God the Creator; the knowledge of God the Redeemer in Christ; the way we receive the grace of Christ, including justification, the Christian life and predestination; and the church, sacraments and civil government. It opens with the claim that nearly all wisdom consists of knowing God and ourselves. The Institutes became the principal theological textbook of Reformed churches in Europe and North America."
+  "description": "The first edition, of six chapters, was published in Basel in 1536 with a dedicatory letter to King Francis I of France defending persecuted French Protestants. Calvin expanded it repeatedly, and the final Latin edition of 1559, with a French translation in 1560 that helped shape French prose, is organised in four books following the Apostles' Creed: the knowledge of God the Creator; the knowledge of God the Redeemer in Christ; the way we receive the grace of Christ, including justification, the Christian life and predestination; and the church, sacraments and civil government. It opens with the claim that nearly all wisdom consists of knowing God and ourselves. The Institutes became the principal theological textbook of Reformed churches in Europe and North America.",
+  "image_file": "CalvinInstitutio.jpg",
+  "image_caption": "Title page of an edition of Calvin's Institutio"
  },
  {
   "title": "Genevan Psalter",
@@ -1407,7 +1573,9 @@
   "type": "Metrical psalter",
   "location": "Geneva (complete edition 1562)",
   "note": "The complete book of metrical psalms in French, compiled under Calvin's direction, the songbook of Reformed Protestantism.",
-  "description": "Calvin believed that congregations should sing chiefly the Psalms, in the vernacular and in unison. Beginning with a small collection in Strasbourg in 1539, he worked with the poets Clément Marot and Théodore de Bèze, who versified the psalms in French, and with musicians such as Louis Bourgeois, who composed or adapted many of the melodies, to produce the complete Genevan Psalter of 1562. Printed in tens of thousands of copies, it was translated into Dutch, German, English and other languages and remains in use in Reformed churches. The melody now known as the 'Old Hundredth', sung in English to 'All people that on earth do dwell', comes from it."
+  "description": "Calvin believed that congregations should sing chiefly the Psalms, in the vernacular and in unison. Beginning with a small collection in Strasbourg in 1539, he worked with the poets Clément Marot and Théodore de Bèze, who versified the psalms in French, and with musicians such as Louis Bourgeois, who composed or adapted many of the melodies, to produce the complete Genevan Psalter of 1562. Printed in tens of thousands of copies, it was translated into Dutch, German, English and other languages and remains in use in Reformed churches. The melody now known as the 'Old Hundredth', sung in English to 'All people that on earth do dwell', comes from it.",
+  "image_file": "Psautier huguenot title 1539.jpg",
+  "image_caption": "Title page of the first Strasbourg psalter of 1539"
  },
  {
   "title": "Book of Common Prayer",
@@ -1417,7 +1585,9 @@
   "type": "Liturgy",
   "location": "London; first printed by Edward Whitchurch and Richard Grafton, 1549",
   "note": "The English prayer book that set the worship of the Church of England in Cranmer's English prose.",
-  "description": "Under Edward VI, Cranmer replaced the various Latin service books of medieval England with a single book in English, combining services for morning and evening prayer, holy communion, baptism, marriage, burial and the church year, with a lectionary covering the Bible and the Psalter. The first Book of Common Prayer (1549) was conservative; the second (1552) was more firmly Protestant. Abolished under Mary I and restored under Elizabeth, it was revised in 1662, the version that remains a standard of the Church of England. Cranmer translated and adapted prayers from Latin sources and wrote new ones, in a cadenced English that gave the language phrases such as 'till death us do part' and 'ashes to ashes, dust to dust'. Versions of the prayer book shaped Anglican worship throughout the world."
+  "description": "Under Edward VI, Cranmer replaced the various Latin service books of medieval England with a single book in English, combining services for morning and evening prayer, holy communion, baptism, marriage, burial and the church year, with a lectionary covering the Bible and the Psalter. The first Book of Common Prayer (1549) was conservative; the second (1552) was more firmly Protestant. Abolished under Mary I and restored under Elizabeth, it was revised in 1662, the version that remains a standard of the Church of England. Cranmer translated and adapted prayers from Latin sources and wrote new ones, in a cadenced English that gave the language phrases such as 'till death us do part' and 'ashes to ashes, dust to dust'. Versions of the prayer book shaped Anglican worship throughout the world.",
+  "image_file": "Book of Common Prayer, 1549 (2).jpg",
+  "image_caption": "The first Book of Common Prayer, 1549"
  },
  {
   "title": "Spiritual Exercises",
@@ -1427,7 +1597,9 @@
   "type": "Manual of prayer and retreat",
   "location": "Manresa and Rome; first printed Rome, 1548",
   "note": "Ignatius's handbook for a month-long retreat of meditation and discernment, the foundation of Jesuit spirituality.",
-  "description": "The Spiritual Exercises is not a book to be read straight through but a manual for a director guiding someone through a retreat, usually of about thirty days, divided into four 'weeks'. The first focuses on sin and God's mercy; the second on the life of Christ, with the famous meditations on the Two Standards and the call of the King; the third on the Passion; and the fourth on the resurrection, ending with the 'Contemplation to Attain Love'. It teaches methods of prayer using the imagination to place oneself within Gospel scenes, daily examination of conscience, and rules for 'discernment of spirits' in making decisions. Ignatius drafted it at Manresa in 1522–23 and refined it for decades; Pope Paul III approved it in 1548. It formed every Jesuit and remains widely used by Catholics and others."
+  "description": "The Spiritual Exercises is not a book to be read straight through but a manual for a director guiding someone through a retreat, usually of about thirty days, divided into four 'weeks'. The first focuses on sin and God's mercy; the second on the life of Christ, with the famous meditations on the Two Standards and the call of the King; the third on the Passion; and the fourth on the resurrection, ending with the 'Contemplation to Attain Love'. It teaches methods of prayer using the imagination to place oneself within Gospel scenes, daily examination of conscience, and rules for 'discernment of spirits' in making decisions. Ignatius drafted it at Manresa in 1522–23 and refined it for decades; Pope Paul III approved it in 1548. It formed every Jesuit and remains widely used by Catholics and others.",
+  "image_file": "Exercitia Spiritualia 1ed2.jpg",
+  "image_caption": "The first edition of the Spiritual Exercises, Rome, 1548"
  },
  {
   "title": "Interior Castle (El castillo interior)",
@@ -1467,7 +1639,9 @@
   "type": "Poem and commentary",
   "location": "Begun in prison in Toledo; completed in Andalusia",
   "note": "John's lyrical dialogue between the soul and Christ, modelled on the Song of Songs, one of the great poems of the Spanish language.",
-  "description": "John began the Spiritual Canticle while imprisoned in a cell in the Carmelite priory of Toledo in 1577–78, composing the first thirty-one stanzas in his head. The poem, inspired by the Song of Songs, is a dialogue in which the bride, the soul, searches for her wounded and hidden beloved through woods and meadows until they are united. He completed it later and wrote a long commentary explaining its stages of spiritual life. Two versions of the poem and commentary exist, with a different order of stanzas, and scholars debate whether the second is his revision."
+  "description": "John began the Spiritual Canticle while imprisoned in a cell in the Carmelite priory of Toledo in 1577–78, composing the first thirty-one stanzas in his head. The poem, inspired by the Song of Songs, is a dialogue in which the bride, the soul, searches for her wounded and hidden beloved through woods and meadows until they are united. He completed it later and wrote a long commentary explaining its stages of spiritual life. Two versions of the poem and commentary exist, with a different order of stanzas, and scholars debate whether the second is his revision.",
+  "image_file": "Sanlucar barrameda s juan cruz manuscrito sanlucar2.jpg",
+  "image_caption": "The Sanlúcar manuscript of the Spiritual Canticle"
  },
  {
   "title": "Introduction to the Devout Life",
@@ -1487,7 +1661,9 @@
   "type": "Conciliar decrees",
   "location": "Trento (Trent), Prince-Bishopric of Trent",
   "note": "The Catholic Church's response to the Reformation, defining doctrine on scripture, justification and the sacraments and launching wide-ranging reforms.",
-  "description": "The Council of Trent met in three periods between 1545 and 1563, interrupted by war, plague and politics. In its doctrinal decrees it affirmed that revelation is transmitted through scripture and unwritten tradition, declared the Vulgate authentic, taught that justification involves both grace and human cooperation, and reaffirmed the seven sacraments, transubstantiation and the sacrificial character of the Mass. Its reform decrees required bishops to reside in their dioceses, established seminaries for training priests, and regulated religious orders, marriage and indulgences. After the council, the papacy issued the Roman Catechism (1566), a revised Missal (1570) and Breviary. Historians debate the balance of reaction and renewal at Trent, but it shaped Catholicism until the Second Vatican Council."
+  "description": "The Council of Trent met in three periods between 1545 and 1563, interrupted by war, plague and politics. In its doctrinal decrees it affirmed that revelation is transmitted through scripture and unwritten tradition, declared the Vulgate authentic, taught that justification involves both grace and human cooperation, and reaffirmed the seven sacraments, transubstantiation and the sacrificial character of the Mass. Its reform decrees required bishops to reside in their dioceses, established seminaries for training priests, and regulated religious orders, marriage and indulgences. After the council, the papacy issued the Roman Catechism (1566), a revised Missal (1570) and Breviary. Historians debate the balance of reaction and renewal at Trent, but it shaped Catholicism until the Second Vatican Council.",
+  "image_file": "Concilio Trento Museo Buonconsiglio.jpg",
+  "image_caption": "A session of the Council of Trent, painting in the Castello del Buonconsiglio, Trento"
  },
  {
   "title": "Heidelberg Catechism",
@@ -1497,7 +1673,9 @@
   "type": "Catechism",
   "location": "Heidelberg, Electoral Palatinate",
   "note": "The catechism of the German Reformed churches, organised around guilt, grace and gratitude, still widely used.",
-  "description": "Commissioned by the Elector Frederick III of the Palatinate and published in 1563, the Heidelberg Catechism was drafted mainly by the theologian Zacharias Ursinus, with Caspar Olevianus and others, though the extent of each person's contribution is debated. Its 129 questions open with 'What is your only comfort in life and death?', answered with the believer's belonging to Christ. It is organised in three parts: human misery, deliverance through Christ, and gratitude, expressed in the Ten Commandments and the Lord's Prayer, and divided into fifty-two 'Lord's Days' for preaching through the year. Approved by the Synod of Dort, it became one of the most widely used Reformed confessions in the Netherlands, Germany, Hungary and North America."
+  "description": "Commissioned by the Elector Frederick III of the Palatinate and published in 1563, the Heidelberg Catechism was drafted mainly by the theologian Zacharias Ursinus, with Caspar Olevianus and others, though the extent of each person's contribution is debated. Its 129 questions open with 'What is your only comfort in life and death?', answered with the believer's belonging to Christ. It is organised in three parts: human misery, deliverance through Christ, and gratitude, expressed in the Ten Commandments and the Lord's Prayer, and divided into fifty-two 'Lord's Days' for preaching through the year. Approved by the Synod of Dort, it became one of the most widely used Reformed confessions in the Netherlands, Germany, Hungary and North America.",
+  "image_file": "Heidelberger Katechismus 1563 (2).jpg",
+  "image_caption": "The first edition of the Heidelberg Catechism, 1563"
  },
  {
   "title": "King James Version (Authorised Version)",
@@ -1507,7 +1685,9 @@
   "type": "Scripture (English translation)",
   "location": "Printed by Robert Barker, London",
   "note": "The English Bible translated by order of James I, the most influential book in the English language.",
-  "description": "Published in 1611 by the royal printer Robert Barker, the new translation was 'appointed to be read in churches'. Its translators worked from the Hebrew and Greek, with the Bishops' Bible as their base, and drew heavily on Tyndale and the Geneva Bible; their preface explains that they sought to make a good translation better. The first edition, a large folio, contains the Old and New Testaments and the Apocrypha. Early printings contained errors, and the text was standardised in the 18th century, most fully in the Oxford edition of 1769, which is the form usually read today. Although slow to replace the Geneva Bible, it became the Bible of English-speaking Protestants for three centuries, and its language profoundly influenced English literature, oratory and everyday speech, from 'the skin of my teeth' to 'a law unto themselves'."
+  "description": "Published in 1611 by the royal printer Robert Barker, the new translation was 'appointed to be read in churches'. Its translators worked from the Hebrew and Greek, with the Bishops' Bible as their base, and drew heavily on Tyndale and the Geneva Bible; their preface explains that they sought to make a good translation better. The first edition, a large folio, contains the Old and New Testaments and the Apocrypha. Early printings contained errors, and the text was standardised in the 18th century, most fully in the Oxford edition of 1769, which is the form usually read today. Although slow to replace the Geneva Bible, it became the Bible of English-speaking Protestants for three centuries, and its language profoundly influenced English literature, oratory and everyday speech, from 'the skin of my teeth' to 'a law unto themselves'.",
+  "image_file": "KJV-King-James-Version-Bible-first-edition-title-page-1611.jpg",
+  "image_caption": "Title page of the first edition, 1611"
  },
  {
   "title": "Westminster Confession of Faith",
@@ -1517,7 +1697,9 @@
   "type": "Confession of faith",
   "location": "Westminster Assembly, London",
   "note": "The Reformed confession drawn up by the Westminster Assembly, standard of Presbyterian churches worldwide.",
-  "description": "During the English Civil War, Parliament called an assembly of divines to Westminster Abbey in 1643 to reform the Church of England, with Scottish commissioners taking part. Its Confession of Faith, completed in 1646, sets out a classic Calvinist theology in thirty-three chapters, on scripture, God's decree and predestination, the covenants of works and grace, justification, the church, sacraments and civil government. The assembly also produced the Larger and Shorter Catechisms, the latter opening with the question 'What is the chief end of man?'. Adopted by the Church of Scotland in 1647, the Confession became the doctrinal standard of Presbyterian churches in Britain, America and beyond, and in modified form of some Congregational and Baptist churches."
+  "description": "During the English Civil War, Parliament called an assembly of divines to Westminster Abbey in 1643 to reform the Church of England, with Scottish commissioners taking part. Its Confession of Faith, completed in 1646, sets out a classic Calvinist theology in thirty-three chapters, on scripture, God's decree and predestination, the covenants of works and grace, justification, the church, sacraments and civil government. The assembly also produced the Larger and Shorter Catechisms, the latter opening with the question 'What is the chief end of man?'. Adopted by the Church of Scotland in 1647, the Confession became the doctrinal standard of Presbyterian churches in Britain, America and beyond, and in modified form of some Congregational and Baptist churches.",
+  "image_file": "Westminster Confession of Faith title page.jpg",
+  "image_caption": "Title page of the Westminster Confession of Faith"
  },
  {
   "title": "Pensées",
@@ -1527,7 +1709,9 @@
   "type": "Fragments of Christian apologetics",
   "location": "Paris; original manuscript fragments in the Bibliothèque nationale de France",
   "note": "Pascal's unfinished notes for a defence of Christianity, including the wager and the reflections on the 'thinking reed'.",
-  "description": "At his death Pascal left almost a thousand notes, some a few words, some several pages, for an apology for the Christian religion. His friends at Port-Royal published a selection in 1670, and the order of the fragments has been debated by editors ever since. Pascal describes the human condition as a mix of greatness and wretchedness, the human being as 'a reed, the feeblest thing in nature, but a thinking reed', and the restless diversions by which people avoid thinking of death. The famous wager argues that, since reason cannot decide whether God exists, one should bet on God, for if he exists the gain is infinite. Other fragments contrast the 'esprit de géométrie' with the 'esprit de finesse', and declare that 'the heart has its reasons which reason does not know'. The Pensées are a classic of French literature and of religious thought."
+  "description": "At his death Pascal left almost a thousand notes, some a few words, some several pages, for an apology for the Christian religion. His friends at Port-Royal published a selection in 1670, and the order of the fragments has been debated by editors ever since. Pascal describes the human condition as a mix of greatness and wretchedness, the human being as 'a reed, the feeblest thing in nature, but a thinking reed', and the restless diversions by which people avoid thinking of death. The famous wager argues that, since reason cannot decide whether God exists, one should bet on God, for if he exists the gain is infinite. Other fragments contrast the 'esprit de géométrie' with the 'esprit de finesse', and declare that 'the heart has its reasons which reason does not know'. The Pensées are a classic of French literature and of religious thought.",
+  "image_file": "Pascal - Pensées, 2e édition G. Desprez, 1670.djvu",
+  "image_caption": "An edition of the Pensées published by Guillaume Desprez, 1670"
  },
  {
   "title": "Provincial Letters",
@@ -1537,6 +1721,8 @@
   "type": "Polemical letters",
   "location": "Published clandestinely in Paris",
   "note": "Eighteen witty anonymous letters defending the Jansenists and satirising the casuistry of some Jesuit moral theologians.",
-  "description": "When the Sorbonne moved to censure the Jansenist theologian Antoine Arnauld in 1656, Pascal wrote, under the pseudonym Louis de Montalte, a series of letters supposedly from a provincial gentleman to a friend. The early letters mock the disputes over grace; later ones turn to Jesuit casuists, quoting their manuals to show how they excused lying, duelling and usury through subtle distinctions. The letters were immensely popular and placed on the Index of Forbidden Books in 1657. They are regarded as a founding masterpiece of modern French prose. Historians note that Pascal's selections were sometimes unfair to the Jesuits' intentions, but the work made 'casuistry' a byword."
+  "description": "When the Sorbonne moved to censure the Jansenist theologian Antoine Arnauld in 1656, Pascal wrote, under the pseudonym Louis de Montalte, a series of letters supposedly from a provincial gentleman to a friend. The early letters mock the disputes over grace; later ones turn to Jesuit casuists, quoting their manuals to show how they excused lying, duelling and usury through subtle distinctions. The letters were immensely popular and placed on the Index of Forbidden Books in 1657. They are regarded as a founding masterpiece of modern French prose. Historians note that Pascal's selections were sometimes unfair to the Jesuits' intentions, but the work made 'casuistry' a byword.",
+  "image_file": "Blaise Pascal - Les Provinciales.djvu",
+  "image_caption": "An early edition of Les Provinciales"
  }
 ]

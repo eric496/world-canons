@@ -1,10 +1,14 @@
 # John of Damascus
 
+<a href="https://commons.wikimedia.org/wiki/File:Athonite_Fresco_Icon_of_Saint_John_of_Damascus.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Athonite_Fresco_Icon_of_Saint_John_of_Damascus.jpg" alt="John of Damascus" title="St John of Damascus, fresco icon from Mount Athos"></a>
+
 **c. 675 – 749** · Syrian (Arab Christian)  
 Born: Damascus · Died: Mar Saba, near Jerusalem  
 Movements & eras: [Byzantine Orthodoxy](../movements/byzantine-orthodoxy.md)  
 
 > Monk and theologian under Umayyad rule who wrote the classic defence of icons and a summary of Orthodox doctrine that shaped both Eastern and Western theology.
+
+<sub>Portrait: St John of Damascus, fresco icon from Mount Athos · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Athonite_Fresco_Icon_of_Saint_John_of_Damascus.jpg)</sub>
 
 ## Biography
 
