@@ -1,10 +1,14 @@
 # Charles Rennie Mackintosh
 
+<a href="https://commons.wikimedia.org/wiki/File:Francis_Henry_Newbery_-_Charles_Rennie_Mackintosh%2C_1868_-_1928._Architect_%28study_for_group_portrait_The_Building_Committee_o_-_PG_1205_-_National_Galleries_of_Scotland.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Francis_Henry_Newbery_-_Charles_Rennie_Mackintosh%2C_1868_-_1928._Architect_%28study_for_group_portrait_The_Building_Committee_o_-_PG_1205_-_National_Galleries_of_Scotland.jpg" alt="Charles Rennie Mackintosh" title="Francis Henry Newbery, Charles Rennie Mackintosh (study for The Building Committee), National Galleries of Scotland"></a>
+
 **1868 – 1928** · Scottish  
 Born: Glasgow · Died: London  
 Styles: [Art Nouveau & Modernisme](../movements/art-nouveau.md)  
 
 > Glasgow architect and designer whose Glasgow School of Art combined Scottish tradition, Art Nouveau and a new spatial freedom.
+
+<sub>Portrait: Francis Henry Newbery, Charles Rennie Mackintosh (study for The Building Committee), National Galleries of Scotland · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Francis_Henry_Newbery_-_Charles_Rennie_Mackintosh%2C_1868_-_1928._Architect_%28study_for_group_portrait_The_Building_Committee_o_-_PG_1205_-_National_Galleries_of_Scotland.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Mackintosh combined the massing of Scottish baronial castles with elongated, geo
 ## Key buildings
 
 ### Glasgow School of Art (Mackintosh Building) (1897–1909)
+
+[![Glasgow School of Art (Mackintosh Building)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Schoolofart1.jpg/1280px-Schoolofart1.jpg)](https://commons.wikimedia.org/wiki/File:Schoolofart1.jpg)
+
+<sub>Glasgow School of Art (Mackintosh Building), Glasgow, Scotland Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Schoolofart1.jpg).</sub>
 
 - **Date:** 1897–1909
 - **Type:** Art school

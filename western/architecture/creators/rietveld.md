@@ -16,6 +16,10 @@ Rietveld translated Mondrian's paintings into three dimensions: planes, lines an
 
 ### Rietveld Schröder House (1924)
 
+[![Rietveld Schröder House](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Rietveld_Schr%C3%B6derhuis_HayKranen-20.JPG/1280px-Rietveld_Schr%C3%B6derhuis_HayKranen-20.JPG)](https://commons.wikimedia.org/wiki/File:Rietveld_Schr%C3%B6derhuis_HayKranen-20.JPG)
+
+<sub>Rietveld Schröder House, Utrecht, Netherlands Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Rietveld_Schr%C3%B6derhuis_HayKranen-20.JPG).</sub>
+
 - **Date:** 1924
 - **Type:** House
 - **Location:** Utrecht, Netherlands

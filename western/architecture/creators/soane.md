@@ -1,10 +1,14 @@
 # John Soane
 
+<a href="https://commons.wikimedia.org/wiki/File:Thomas_Lawrence_John_Soane.JPG"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Thomas_Lawrence_John_Soane.JPG" alt="John Soane" title="Thomas Lawrence, portrait of John Soane"></a>
+
 **1753 – 1837** · English  
 Born: Goring-on-Thames, Oxfordshire · Died: London  
 Styles: [Palladianism & Neoclassicism](../movements/neoclassicism.md)  
 
 > Highly original English Neoclassical architect of the Bank of England and of his own house-museum in Lincoln's Inn Fields.
+
+<sub>Portrait: Thomas Lawrence, portrait of John Soane · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Thomas_Lawrence_John_Soane.JPG)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Soane stripped classicism down to incised lines, shallow domes and arches, and u
 ## Key buildings
 
 ### Sir John Soane's Museum (1792–1824)
+
+[![Sir John Soane's Museum](https://upload.wikimedia.org/wikipedia/commons/6/6f/Sir_John_Soane%27s_Museum%2C_13_Lincoln%27s_Inn_Fields%2C_London_WC2_-_geograph.org.uk_-_399109.jpg)](https://commons.wikimedia.org/wiki/File:Sir_John_Soane%27s_Museum%2C_13_Lincoln%27s_Inn_Fields%2C_London_WC2_-_geograph.org.uk_-_399109.jpg)
+
+<sub>The façade of Sir John Soane's Museum, 13 Lincoln's Inn Fields Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Sir_John_Soane%27s_Museum%2C_13_Lincoln%27s_Inn_Fields%2C_London_WC2_-_geograph.org.uk_-_399109.jpg).</sub>
 
 - **Date:** 1792–1824
 - **Type:** House and museum

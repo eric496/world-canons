@@ -16,6 +16,10 @@ Lasdun thought of buildings as urban landscapes, with layered horizontal terrace
 
 ### Royal National Theatre (1967–1976)
 
+[![Royal National Theatre](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_National_Theatre%2C_South_Bank%2C_London_-_geograph.org.uk_-_1861458.jpg/1280px-The_National_Theatre%2C_South_Bank%2C_London_-_geograph.org.uk_-_1861458.jpg)](https://commons.wikimedia.org/wiki/File:The_National_Theatre%2C_South_Bank%2C_London_-_geograph.org.uk_-_1861458.jpg)
+
+<sub>Royal National Theatre, South Bank, London, England Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_National_Theatre%2C_South_Bank%2C_London_-_geograph.org.uk_-_1861458.jpg).</sub>
+
 - **Date:** 1967–1976
 - **Type:** Theatre
 - **Location:** South Bank, London, England

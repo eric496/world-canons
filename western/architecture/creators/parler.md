@@ -1,10 +1,14 @@
 # Peter Parler
 
+<a href="https://commons.wikimedia.org/wiki/File:Busta_Petr_Parl%C3%A9%C5%99.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Busta_Petr_Parl%C3%A9%C5%99.jpg/330px-Busta_Petr_Parl%C3%A9%C5%99.jpg" alt="Peter Parler" title="Self-portrait bust of Peter Parler, triforium of St Vitus Cathedral, c. 1375–85"></a>
+
 **c. 1330 – 1399** · German  
 Born: Schwäbisch Gmünd, Swabia · Died: Prague  
 Styles: [Gothic](../movements/gothic.md)  
 
 > German architect and sculptor called to Prague by Emperor Charles IV, who continued St Vitus Cathedral and built the Charles Bridge and its Old Town tower.
+
+<sub>Portrait: Self-portrait bust of Peter Parler, triforium of St Vitus Cathedral, c. 1375–85 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Busta_Petr_Parl%C3%A9%C5%99.jpg)</sub>
 
 ## Biography
 

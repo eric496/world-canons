@@ -1,10 +1,14 @@
 # Augustus Welby Northmore Pugin
 
+<a href="https://commons.wikimedia.org/wiki/File:Augustus_Welby_Northmore_Pugin_from_NPG.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Augustus_Welby_Northmore_Pugin_from_NPG.jpg/330px-Augustus_Welby_Northmore_Pugin_from_NPG.jpg" alt="Augustus Welby Northmore Pugin" title="John Rogers Herbert, portrait of Augustus Pugin, National Portrait Gallery, London"></a>
+
 **1812 – 1852** · English  
 Born: London · Died: Ramsgate, Kent  
 Styles: [Gothic Revival](../movements/gothic-revival.md)  
 
 > Passionate champion of the Gothic Revival, designer of the interiors and the clock tower of the Palace of Westminster and of many Catholic churches.
+
+<sub>Portrait: John Rogers Herbert, portrait of Augustus Pugin, National Portrait Gallery, London · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Augustus_Welby_Northmore_Pugin_from_NPG.jpg)</sub>
 
 ## Biography
 

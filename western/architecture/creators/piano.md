@@ -16,6 +16,10 @@ Piano's architecture is detailed with craftsmanlike care, uses light roofs and f
 
 ### The Shard (2009–2012)
 
+[![The Shard](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/The_Shard_at_sunset_2017_%28cropped%29.jpg/960px-The_Shard_at_sunset_2017_%28cropped%29.jpg)](https://commons.wikimedia.org/wiki/File:The_Shard_at_sunset_2017_%28cropped%29.jpg)
+
+<sub>The Shard, Southwark, London, England Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_Shard_at_sunset_2017_%28cropped%29.jpg).</sub>
+
 - **Date:** 2009–2012
 - **Type:** Mixed-use skyscraper
 - **Location:** Southwark, London, England

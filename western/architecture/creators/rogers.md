@@ -19,6 +19,9 @@ Rogers turned buildings inside out, placing structure, lifts, stairs and service
 
 ### Centre Pompidou (1971–1977)
 
+> 🖼️ **[View it at Centre Pompidou →](https://www.centrepompidou.fr/)**  
+> <sub>Still under copyright, so it is not reproduced here.</sub>
+
 - **Date:** 1971–1977
 - **Type:** Arts centre
 - **Location:** Beaubourg, Paris, France
@@ -27,6 +30,10 @@ Rogers turned buildings inside out, placing structure, lifts, stairs and service
 President Georges Pompidou wanted a centre for modern art, books, music and design in the Beaubourg district of Paris, and Renzo Piano, Richard Rogers and Gianfranco Franchini won the international competition of 1971, with engineers from Ove Arup and Partners. They designed a flexible container of six column-free floors, 166 metres long, whose steel structure, cast steel brackets called gerberettes, bracing and services are placed outside: blue for air, green for water, yellow for electricity, red for circulation, with a glass-tube escalator climbing the façade over a sloping public square. Opened in 1977, it was likened to an oil refinery, but became one of the most visited cultural buildings in France and the founding work of high-tech architecture. It closed in 2025 for a renovation planned to last about five years.
 
 ### Lloyd's Building (1978–1986)
+
+[![Lloyd's Building](https://upload.wikimedia.org/wikipedia/commons/1/1f/Lloyds_building_taken_2011.jpg)](https://commons.wikimedia.org/wiki/File:Lloyds_building_taken_2011.jpg)
+
+<sub>Lloyd's Building, City of London, England Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Lloyds_building_taken_2011.jpg).</sub>
 
 - **Date:** 1978–1986
 - **Type:** Insurance market

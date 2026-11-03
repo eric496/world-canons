@@ -15,6 +15,10 @@ The Barbican combines three residential towers, long terrace blocks raised on co
 
 ### Barbican Estate (1965–1976; arts centre 1982)
 
+[![Barbican Estate](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Barbican_towers.jpg/1280px-Barbican_towers.jpg)](https://commons.wikimedia.org/wiki/File:Barbican_towers.jpg)
+
+<sub>Barbican Estate, City of London, England Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Barbican_towers.jpg).</sub>
+
 - **Date:** 1965–1976; arts centre 1982
 - **Type:** Housing estate and arts centre
 - **Location:** City of London, England

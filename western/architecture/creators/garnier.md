@@ -1,10 +1,14 @@
 # Charles Garnier
 
+<a href="https://commons.wikimedia.org/wiki/File:Charles_Garnier_1868_by_Paul_Baudry_1828_1886_edit.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Charles_Garnier_1868_by_Paul_Baudry_1828_1886_edit.jpg/330px-Charles_Garnier_1868_by_Paul_Baudry_1828_1886_edit.jpg" alt="Charles Garnier" title="Paul Baudry, portrait of Charles Garnier, 1868"></a>
+
 **1825 – 1898** · French  
 Born: Paris · Died: Paris  
 Styles: [Beaux-Arts & Historicism](../movements/beaux-arts.md)  
 
 > Architect of the Paris Opéra, the most celebrated building of Second Empire France and a model of Beaux-Arts splendour.
+
+<sub>Portrait: Paul Baudry, portrait of Charles Garnier, 1868 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Charles_Garnier_1868_by_Paul_Baudry_1828_1886_edit.jpg)</sub>
 
 ## Biography
 

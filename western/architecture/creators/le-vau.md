@@ -32,9 +32,9 @@ Nicolas Fouquet, Louis XIV's superintendent of finances, built Vaux-le-Vicomte s
 
 ### Palace of Versailles (1661–1710)
 
-[![Palace of Versailles](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg/1280px-Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg)](https://commons.wikimedia.org/wiki/File:Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg)
+[![Palace of Versailles](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ch%C3%A2teau_de_Versailles_Cour_de_Marbre_20170617_facade.jpg/1280px-Ch%C3%A2teau_de_Versailles_Cour_de_Marbre_20170617_facade.jpg)](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Versailles_Cour_de_Marbre_20170617_facade.jpg)
 
-<sub>Palace of Versailles, Versailles, France Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg).</sub>
+<sub>Palace of Versailles, the Marble Court Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Versailles_Cour_de_Marbre_20170617_facade.jpg).</sub>
 
 - **Date:** 1661–1710
 - **Type:** Royal palace and gardens

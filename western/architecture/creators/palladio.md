@@ -1,10 +1,14 @@
 # Andrea Palladio
 
+<a href="https://commons.wikimedia.org/wiki/File:Andrea_Palladio2.jpeg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Andrea_Palladio2.jpeg/330px-Andrea_Palladio2.jpeg" alt="Andrea Palladio" title="Portrait of Andrea Palladio"></a>
+
 **1508 – 1580** · Venetian  
 Born: Padua · Died: Maser or Vicenza, Republic of Venice  
 Styles: [Renaissance](../movements/renaissance-architecture.md), [Palladianism & Neoclassicism](../movements/neoclassicism.md)  
 
 > Architect of villas, palaces and churches in the Veneto whose Four Books of Architecture made him the most imitated architect in Western history.
+
+<sub>Portrait: Portrait of Andrea Palladio · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Andrea_Palladio2.jpeg)</sub>
 
 ## Biography
 

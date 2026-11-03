@@ -12,9 +12,9 @@ Architects who had mastered the classical rules began to bend them: columns sunk
 
 ## Architects
 
--  [Michelangelo Buonarroti](../creators/michelangelo.md) (1475 – 1564)
--  [Giulio Romano](../creators/giulio-romano.md) (c. 1499 – 1546)
--  [Giacomo Barozzi da Vignola](../creators/vignola.md) (1507 – 1573)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/330px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg" width="40" alt="Michelangelo Buonarroti"> [Michelangelo Buonarroti](../creators/michelangelo.md) (1475 – 1564)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Titian_-_Portrait_of_Giulio_Romano_-_WGA22947.jpg" width="40" alt="Giulio Romano"> [Giulio Romano](../creators/giulio-romano.md) (c. 1499 – 1546)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vignola_Regola_1562.JPG/330px-Vignola_Regola_1562.JPG" width="40" alt="Giacomo Barozzi da Vignola"> [Giacomo Barozzi da Vignola](../creators/vignola.md) (1507 – 1573)
 
 ## Key buildings
 

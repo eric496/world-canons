@@ -16,6 +16,10 @@ Eiffel's structures are calculated lattices of wrought iron in which every membe
 
 ### Eiffel Tower (1887–1889)
 
+[![Eiffel Tower](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tour_eiffel_at_sunrise_from_the_trocadero.jpg/1280px-Tour_eiffel_at_sunrise_from_the_trocadero.jpg)](https://commons.wikimedia.org/wiki/File:Tour_eiffel_at_sunrise_from_the_trocadero.jpg)
+
+<sub>The Eiffel Tower at sunrise, seen from the Trocadéro Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Tour_eiffel_at_sunrise_from_the_trocadero.jpg).</sub>
+
 - **Date:** 1887–1889
 - **Type:** Lattice tower
 - **Location:** Champ de Mars, Paris, France

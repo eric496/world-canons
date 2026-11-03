@@ -1,8 +1,12 @@
 # Architecture
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon%2C_Rome_-_Google_Art_Project.jpg/1280px-Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon%2C_Rome_-_Google_Art_Project.jpg" width="100%" alt="Architecture">
+
+<sub>Giovanni Paolo Panini, Interior of the Pantheon, Rome, c. 1734 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon%2C_Rome_-_Google_Art_Project.jpg)</sub>
+
 Western architecture from the temples of ancient Greece to the present, told through the buildings themselves and the people who designed them. Every architect or builder has a full biography and every building a detailed introduction, with photographs from Wikimedia Commons. Where a medieval or ancient builder is unknown, buildings are grouped under a collective entry.
 
-**78 architects** · **137 buildings** (83 with images) · **23 styles** · 0 portraits
+**78 architects** · **137 buildings** (131 with images) · **23 styles** · 29 portraits
 
 ## Browse
 

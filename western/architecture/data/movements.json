@@ -49,7 +49,9 @@
   "name": "Renaissance",
   "dates": "c. 1420–1550",
   "period": "renaissance",
-  "summary": "In Florence, Brunelleschi and Alberti revived the classical orders and governed buildings by clear proportion and geometry. Architecture became a learned art, grounded in study of Roman ruins and of Vitruvius. In Rome, Bramante's work for Pope Julius II set the standard of the High Renaissance."
+  "summary": "In Florence, Brunelleschi and Alberti revived the classical orders and governed buildings by clear proportion and geometry. Architecture became a learned art, grounded in study of Roman ruins and of Vitruvius. In Rome, Bramante's work for Pope Julius II set the standard of the High Renaissance.",
+  "image_file": "Tempietto di San Pietro in Montorio.jpg",
+  "image_caption": "Bramante's Tempietto in the courtyard of San Pietro in Montorio, Rome"
  },
  {
   "id": "mannerism",
@@ -101,7 +103,9 @@
   "name": "Iron, Glass & Engineering",
   "dates": "c. 1830–1900",
   "period": "nineteenth-century",
-  "summary": "Industrial iron, steel and plate glass gave rise to a new architecture of greenhouses, railway sheds, exhibition halls, bridges and towers, often designed by engineers rather than architects. The Crystal Palace and the Eiffel Tower showed that prefabricated metal structures could be spectacular in their own right."
+  "summary": "Industrial iron, steel and plate glass gave rise to a new architecture of greenhouses, railway sheds, exhibition halls, bridges and towers, often designed by engineers rather than architects. The Crystal Palace and the Eiffel Tower showed that prefabricated metal structures could be spectacular in their own right.",
+  "image_file": "Tour eiffel at sunrise from the trocadero.jpg",
+  "image_caption": "The Eiffel Tower at sunrise, seen from the Trocadéro"
  },
  {
   "id": "beaux-arts",
@@ -135,55 +139,71 @@
   "name": "Art Deco",
   "dates": "c. 1920–1940",
   "period": "modern",
-  "summary": "Named after the 1925 Paris decorative arts exhibition, Art Deco brought streamlined, geometric ornament, stepped profiles and luxurious materials to cinemas, liners and above all New York skyscrapers. It celebrated speed, machinery and modern glamour."
+  "summary": "Named after the 1925 Paris decorative arts exhibition, Art Deco brought streamlined, geometric ornament, stepped profiles and luxurious materials to cinemas, liners and above all New York skyscrapers. It celebrated speed, machinery and modern glamour.",
+  "image_file": "View of Chrysler Building from Empire State Building, New York City, 20231001 1510 1364.jpg",
+  "image_caption": "The crown of the Chrysler Building seen from the Empire State Building"
  },
  {
   "id": "modernism",
   "name": "Modernism & the International Style",
   "dates": "c. 1905–1960",
   "period": "modern",
-  "summary": "Modernists rejected historical ornament in favour of form that followed function, new materials and the free plan made possible by the frame. Wright's organic architecture, De Stijl, the Bauhaus and Le Corbusier's five points converged by the late 1920s on a white, flat-roofed, glass-walled International Style that went worldwide after 1945."
+  "summary": "Modernists rejected historical ornament in favour of form that followed function, new materials and the free plan made possible by the frame. Wright's organic architecture, De Stijl, the Bauhaus and Le Corbusier's five points converged by the late 1920s on a white, flat-roofed, glass-walled International Style that went worldwide after 1945.",
+  "image_file": "Dessau Bauhaus-Gebäude asv2024-06 img1.jpg",
+  "image_caption": "Bauhaus Building, Dessau, Dessau, Saxony-Anhalt, Germany"
  },
  {
   "id": "late-modernism",
   "name": "Late & Expressive Modernism",
   "dates": "c. 1945–1975",
   "period": "contemporary",
-  "summary": "After the war, modernism became the official style of corporations and governments, while many architects pushed it toward sculptural concrete shells, monumental geometry and regional character. Niemeyer's Brasília, Saarinen's TWA terminal, Kahn's monumental buildings and Utzon's Sydney Opera House belong here."
+  "summary": "After the war, modernism became the official style of corporations and governments, while many architects pushed it toward sculptural concrete shells, monumental geometry and regional character. Niemeyer's Brasília, Saarinen's TWA terminal, Kahn's monumental buildings and Utzon's Sydney Opera House belong here.",
+  "image_file": "Sydney Opera House 2026.jpg",
+  "image_caption": "Sydney Opera House, Bennelong Point, Sydney, Australia"
  },
  {
   "id": "brutalism",
   "name": "Brutalism",
   "dates": "c. 1950–1980",
   "period": "contemporary",
-  "summary": "Taking its name from béton brut, the raw concrete of Le Corbusier's Unité d'Habitation, Brutalism exposed materials and structure with blunt honesty. It was widely used for housing, universities and civic buildings in the postwar welfare states, and remains much debated, demolished and, lately, admired."
+  "summary": "Taking its name from béton brut, the raw concrete of Le Corbusier's Unité d'Habitation, Brutalism exposed materials and structure with blunt honesty. It was widely used for housing, universities and civic buildings in the postwar welfare states, and remains much debated, demolished and, lately, admired.",
+  "image_file": "Barbican towers.jpg",
+  "image_caption": "Barbican Estate, City of London, England"
  },
  {
   "id": "postmodernism",
   "name": "Postmodernism",
   "dates": "c. 1965–1995",
   "period": "contemporary",
-  "summary": "Reacting against the austerity of modernism, postmodern architects brought back ornament, colour, historical quotation and irony. Robert Venturi's 'less is a bore' countered Mies's 'less is more', and buildings began to speak in signs and symbols again."
+  "summary": "Reacting against the austerity of modernism, postmodern architects brought back ornament, colour, historical quotation and irony. Robert Venturi's 'less is a bore' countered Mies's 'less is more', and buildings began to speak in signs and symbols again.",
+  "image_file": "Portland Building 1982.jpg",
+  "image_caption": "Portland Building, Portland, Oregon, United States"
  },
  {
   "id": "high-tech",
   "name": "High-tech",
   "dates": "c. 1970–present",
   "period": "contemporary",
-  "summary": "High-tech architects celebrate engineering, exposing structure, ducts and services and using lightweight steel, glass and prefabricated parts. Born in Britain and France with the Centre Pompidou, it shaped many corporate towers and airports and evolved toward environmental performance."
+  "summary": "High-tech architects celebrate engineering, exposing structure, ducts and services and using lightweight steel, glass and prefabricated parts. Born in Britain and France with the Centre Pompidou, it shaped many corporate towers and airports and evolved toward environmental performance.",
+  "image_file": "Lloyds building taken 2011.jpg",
+  "image_caption": "Lloyd's Building, City of London, England"
  },
  {
   "id": "deconstructivism",
   "name": "Deconstructivism & Digital Form",
   "dates": "c. 1980–present",
   "period": "contemporary",
-  "summary": "Named after a 1988 exhibition at the Museum of Modern Art, deconstructivist buildings fragment, tilt and collide forms, rejecting the stable box. Computer design and fabrication then made possible the flowing, curved forms of Gehry and Hadid."
+  "summary": "Named after a 1988 exhibition at the Museum of Modern Art, deconstructivist buildings fragment, tilt and collide forms, rejecting the stable box. Computer design and fabrication then made possible the flowing, curved forms of Gehry and Hadid.",
+  "image_file": "Museo Guggenheim, Bilbao (31273245344).jpg",
+  "image_caption": "Guggenheim Museum Bilbao, Bilbao, Spain"
  },
  {
   "id": "contemporary-architecture",
   "name": "Contemporary",
   "dates": "c. 1990–present",
   "period": "contemporary",
-  "summary": "Today's architecture is plural: expressive structure, material experiment, adaptive reuse of industrial buildings and growing concern with energy and climate. Signature cultural buildings compete with a quieter return to craft, context and sustainability."
+  "summary": "Today's architecture is plural: expressive structure, material experiment, adaptive reuse of industrial buildings and growing concern with energy and climate. Signature cultural buildings compete with a quieter return to craft, context and sustainability.",
+  "image_file": "Elbphilharmonie 2025.jpg",
+  "image_caption": "Elbphilharmonie, HafenCity, Hamburg, Germany"
  }
 ]

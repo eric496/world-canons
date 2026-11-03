@@ -61,7 +61,9 @@
   "bio_full": [
    "Marcus Vitruvius Pollio served as a military engineer under Julius Caesar, building siege machines and artillery, and later received a pension through the favour of Octavian, the future Augustus, to whom he dedicated his treatise. The only building he says he designed is a basilica at Fanum Fortunae (modern Fano), which has not survived. Even his full name is partly uncertain, and his dates are inferred from the text.",
    "De architectura covers far more than buildings: town planning, materials, temples and the orders, public buildings, houses, water supply, sundials and machines. Its insistence that architecture must have firmitas, utilitas and venustas (strength, usefulness and beauty) became a lasting formula, and its passage relating the proportions of temples to those of the human body inspired Leonardo's Vitruvian Man. Copied through the Middle Ages, it was studied intensely from the fifteenth century and printed, translated and illustrated across Europe."
-  ]
+  ],
+  "portrait_file": "Vitruvio Pollione portrait (cropped).jpg",
+  "portrait_caption": "Imaginary portrait of Vitruvius, engraving"
  },
  {
   "id": "roman-builders",
@@ -175,7 +177,9 @@
   "bio_full": [
    "Suger was of modest birth and was given as a boy to the royal abbey of Saint-Denis north of Paris, where he was educated alongside the future King Louis VI. He became abbot in 1122 and served as a leading counsellor to Louis VI and Louis VII, acting as regent of France while Louis VII was on the Second Crusade. He reformed the abbey's finances and administration, and from about 1135 rebuilt its church, the burial place of French kings.",
    "Suger was a patron rather than a mason, and the name of his master builder is unknown. But his writings on the consecration and administration of the abbey explain his aims: to fill the church with light, which he understood, following the theology of light attributed to Dionysius, as an image of the divine. The new west front and especially the choir of 1140–44, with its ring of stained-glass windows and slender columns, launched the Gothic style that spread across France and Europe."
-  ]
+  ],
+  "portrait_file": "Abbot Suger.jpg",
+  "portrait_caption": "Abbot Suger, detail of a stained-glass window at Saint-Denis"
  },
  {
   "id": "chartres-master-builders",
@@ -258,7 +262,9 @@
   "bio_full": [
    "Peter Parler came from a family of masons; his father Heinrich worked on the Church of the Holy Cross at Schwäbisch Gmünd, one of the first great German hall churches. In 1356, aged about twenty-three, Peter was summoned to Prague by Emperor Charles IV to continue the new cathedral of St Vitus after the death of its first architect, Matthias of Arras. He also built the Charles Bridge across the Vltava and its Old Town tower, and the Parler workshop produced sculpture and buildings throughout Bohemia.",
    "Parler was among the most inventive architects of the late Middle Ages. His net vaults with their parallel ribs, his hanging bosses and his playful tracery anticipated the virtuoso late Gothic of Central Europe. The portrait busts of the triforium at St Vitus, which include one of Parler himself, are among the earliest realistic portraits of the period. The Parler family's work spread through relatives and pupils to Vienna, Ulm, Freiburg and beyond."
-  ]
+  ],
+  "portrait_file": "Busta Petr Parléř.jpg",
+  "portrait_caption": "Self-portrait bust of Peter Parler, triforium of St Vitus Cathedral, c. 1375–85"
  },
  {
   "id": "giotto",
@@ -276,7 +282,9 @@
   "bio_full": [
    "Giotto, the most famous painter of his age, transformed Italian art with the fresco cycles of the Arena Chapel in Padua and Santa Croce in Florence. In 1334 the city of Florence appointed him master of works of the cathedral and of the city's fortifications, a sign of the prestige he had won. He laid the foundations of the bell tower beside the cathedral in July of that year and supervised the lowest storey before his death in 1337.",
    "His design for the campanile, slender and clad in white, green and pink marble, seems to have been modified by his successors Andrea Pisano and Francesco Talenti, who completed it around 1359. A parchment drawing in Siena is often linked with Giotto's original idea, though this is debated. Giotto's appointment is a landmark in the history of the architect as an artist, a generalist of design rather than a mason trained on site."
-  ]
+  ],
+  "portrait_file": "Giotto, Santa Maria Novella.jpg",
+  "portrait_caption": "Portrait of Giotto, Santa Maria Novella, Florence"
  },
  {
   "id": "arnolfo",
@@ -311,7 +319,9 @@
   "bio_full": [
    "Brunelleschi, son of a Florentine notary, trained as a goldsmith and in 1401 competed, against Lorenzo Ghiberti, for the bronze doors of the Baptistery. After losing, he turned to architecture and, according to his early biographers, studied the ruins of ancient Rome. Around 1415 he demonstrated linear perspective with painted panels of the Baptistery. From 1418 to his death he directed the construction of the cathedral dome, and in the 1420s and 1430s he designed the Ospedale degli Innocenti, the Old Sacristy and church of San Lorenzo, the Pazzi Chapel and Santo Spirito.",
    "Brunelleschi combined two things: brilliant engineering, including the hoisting machines and herringbone brickwork that allowed the dome to be built without centring, and a new architectural language of Corinthian columns, round arches and grey stone articulating white walls, all governed by simple ratios. His buildings made antiquity a living model rather than a source of fragments, and every Renaissance architect after him built on his example."
-  ]
+  ],
+  "portrait_file": "Masaccio, cappella brancacci, san pietro in cattedra. ritratto di filippo brunelleschi-184.jpg",
+  "portrait_caption": "Masaccio, presumed portrait of Brunelleschi, Brancacci Chapel, Florence"
  },
  {
   "id": "alberti",
@@ -329,7 +339,9 @@
   "bio_full": [
    "Alberti was born in exile, the illegitimate son of a Florentine merchant family, and studied law at Bologna before entering the papal bureaucracy. A true universal man, he wrote dialogues on the family, Latin comedies, a treatise on painting that codified perspective, and works on sculpture, cryptography and surveying. From the late 1440s he advised popes, the Malatesta of Rimini, the Rucellai of Florence and the Gonzaga of Mantua on their buildings, usually providing designs that others executed.",
    "His De re aedificatoria, completed around 1452, recast Vitruvius for the modern world and defined beauty as a harmony of parts to which nothing can be added or taken away. His buildings put the theory into practice: the classical orders layered on the Palazzo Rucellai, the Roman triumphal arch adapted for the churches of Rimini and Mantua, and the geometric façade of Santa Maria Novella. Alberti established the architect as an intellectual who designs rather than builds."
-  ]
+  ],
+  "portrait_file": "Leon Battista Alberti, Self-Portrait, c. 1435, NGA 43845.jpg",
+  "portrait_caption": "Alberti, self-portrait plaquette, c. 1435, National Gallery of Art, Washington"
  },
  {
   "id": "bramante",
@@ -347,7 +359,9 @@
   "bio_full": [
    "Bramante trained as a painter in the circle of Piero della Francesca and Urbino's humanist court, then spent some twenty years in Milan under Ludovico Sforza, where he knew Leonardo da Vinci and built Santa Maria presso San Satiro, with its illusionistic painted choir, and the tribune of Santa Maria delle Grazie. After the French conquest of Milan in 1499 he moved to Rome and studied its ruins. Pope Julius II made him his architect, entrusting him with the Belvedere Court of the Vatican and, from 1506, the rebuilding of St Peter's.",
    "Bramante's Roman works, such as the cloister of Santa Maria della Pace and the Tempietto, have a gravity and mass new to the Renaissance, modelled closely on ancient buildings. His plan for St Peter's, a Greek cross crowned by a huge dome, was altered by his successors but set the project's scale. Raphael, Peruzzi and Antonio da Sangallo worked under him, and his circle created the High Renaissance language of Roman architecture."
-  ]
+  ],
+  "portrait_file": "Donato Bramante.jpg",
+  "portrait_caption": "Portrait of Donato Bramante"
  },
  {
   "id": "michelangelo",
@@ -366,7 +380,9 @@
   "bio_full": [
    "Michelangelo came to architecture through sculpture. His first major architectural commissions, in the 1510s and 1520s, were for the Medici in Florence: a façade for San Lorenzo that was never built, the New Sacristy that houses the Medici tombs, and the Laurentian Library. After settling in Rome in 1534 he redesigned the Capitoline Hill, completed the Palazzo Farnese, and in 1546, aged seventy-one, became architect of St Peter's, which he directed until his death, refusing payment. He also designed the Porta Pia and converted the Baths of Diocletian into the church of Santa Maria degli Angeli.",
    "Michelangelo treated architecture as a body, with walls that swell and tighten like muscle, and he broke the classical rules with conscious freedom: columns recessed into walls, brackets that support nothing, staircases that pour like lava. This licence made him a founder of Mannerism and an inspiration for the Baroque. His plan for St Peter's simplified Bramante's, and its ribbed dome, completed by Giacomo della Porta after his death, became the model for domes from London to Washington."
-  ]
+  ],
+  "portrait_file": "Michelangelo Daniele da Volterra (dettaglio).jpg",
+  "portrait_caption": "Daniele da Volterra, portrait of Michelangelo (detail)"
  },
  {
   "id": "giulio-romano",
@@ -384,7 +400,9 @@
   "bio_full": [
    "Giulio Pippi, called Romano, grew up in Raphael's workshop, rising to become his principal assistant on the Vatican frescoes and, after Raphael's death in 1520, his artistic heir. In 1524 he moved to Mantua to serve Federico II Gonzaga, and for the rest of his life he directed nearly every artistic project in the city: palaces, churches, festivals, tapestries and the rebuilding of the cathedral. He was the only living artist named by Shakespeare, in The Winter's Tale.",
    "At the Palazzo Te, Giulio played with the expectations of educated visitors who knew the classical rules: triglyphs slip out of place, keystones bulge, rough rustication meets smooth stone. Inside, the Sala dei Giganti is painted so that the whole room seems to collapse on the viewer. His witty, theatrical treatment of the orders made Mantua a centre of Mannerism and influenced Palladio and later architects across Europe."
-  ]
+  ],
+  "portrait_file": "Titian - Portrait of Giulio Romano - WGA22947.jpg",
+  "portrait_caption": "Titian, Portrait of Giulio Romano, c. 1536"
  },
  {
   "id": "palladio",
@@ -403,7 +421,9 @@
   "bio_full": [
    "Andrea di Pietro della Gondola was the son of a miller and trained as a stonemason. In Vicenza the humanist Gian Giorgio Trissino took him up, educated him, took him to Rome to study ancient buildings, and gave him the classical name Palladio. From the 1540s he designed palaces in Vicenza and the Basilica's new loggias, and villas for Venetian landowners who were turning to agriculture on the mainland. In his later years he built the churches of San Giorgio Maggiore and Il Redentore in Venice and began the Teatro Olimpico in Vicenza, completed after his death.",
    "Palladio combined careful study of Roman temples, baths and houses with practical sense and clear proportional systems. His villas, with temple-fronted porticoes on working farmhouses, his church façades interlocking two temple fronts, and his rooms sized by harmonic ratios became a universal model. I quattro libri dell'architettura (1570), illustrated with woodcuts of his own designs, carried his ideas to Britain, Ireland, North America and Russia, where Palladianism shaped country houses and public buildings for two centuries."
-  ]
+  ],
+  "portrait_file": "Andrea Palladio2.jpeg",
+  "portrait_caption": "Portrait of Andrea Palladio"
  },
  {
   "id": "vignola",
@@ -421,7 +441,9 @@
   "bio_full": [
    "Vignola trained as a painter in Bologna, moved to Rome around 1530 and worked measuring ancient monuments for a Vitruvian academy, then spent time at the French court at Fontainebleau. Back in Rome he worked for Pope Julius III on the Villa Giulia and became architect to the powerful Farnese family, for whom he transformed a pentagonal fortress at Caprarola into a palace. In 1568 Cardinal Alessandro Farnese commissioned him to design the Gesù, the mother church of the Jesuit order, and he succeeded Michelangelo as architect of St Peter's.",
    "His Regola delli cinque ordini d'architettura (1562) reduced the five orders to simple modular rules on clearly engraved plates, and it remained a standard textbook for architects and builders into the twentieth century. The Gesù, with its broad nave for preaching, side chapels and dome, became the model for Counter-Reformation churches across Catholic Europe and Latin America."
-  ]
+  ],
+  "portrait_file": "Vignola Regola 1562.JPG",
+  "portrait_caption": "Engraved portrait of Vignola from his Regola delli cinque ordini, 1562"
  },
  {
   "id": "herrera",
@@ -439,7 +461,9 @@
   "bio_full": [
    "Herrera served as a soldier in Italy and Flanders in the retinue of Prince Philip, and studied mathematics, astronomy and mechanics. In 1563 he joined the works at El Escorial under its first architect, Juan Bautista de Toledo, and after Toledo's death in 1567 he took charge, redesigning the basilica and completing the vast monastery-palace by 1584. Philip II also employed him on the palace at Aranjuez, the cathedral of Valladolid and the Archive of the Indies in Seville, and Herrera founded an academy of mathematics in Madrid.",
    "The Herrerian style, called estilo desornamentado, the unornamented style, strips classical architecture to granite planes, simple orders and pyramidal pinnacles. It reflected Philip II's piety and the sober spirit of the Counter-Reformation. Herrera's austere monumentality shaped Spanish architecture for decades and remained a reference point for official building in Spain."
-  ]
+  ],
+  "portrait_file": "Juan de Herrera.jpg",
+  "portrait_caption": "Portrait of Juan de Herrera"
  },
  {
   "id": "inigo-jones",
@@ -457,7 +481,9 @@
   "bio_full": [
    "The son of a London clothworker, Jones first made his name as a designer of masques, the lavish court entertainments of James I, for which he created costumes, scenery and stage machinery with Ben Jonson. He travelled in Italy, and on a long tour in 1613–14 with the collector the Earl of Arundel he studied ancient ruins and the buildings of Palladio, annotating his own copy of the Four Books. Appointed Surveyor of the King's Works in 1615, he designed the Queen's House, the Banqueting House, the Queen's Chapel at St James's and the piazza of Covent Garden. The Civil War ended his career.",
    "Jones introduced to England, still building in a Tudor and Jacobean manner, a pure classical architecture based on Palladio and on ancient Rome. His buildings seemed revolutionary in their restraint and proportion. A century later Lord Burlington and his circle revered him as the father of English Palladianism, published his designs and made his style the foundation of Georgian architecture."
-  ]
+  ],
+  "portrait_file": "PortraitInigoJones.jpg",
+  "portrait_caption": "Portrait of Inigo Jones"
  },
  {
   "id": "bernini",
@@ -475,7 +501,9 @@
   "bio_full": [
    "The son of a sculptor, Bernini was a prodigy whose marble groups for Cardinal Scipione Borghese made him famous in his early twenties. Pope Urban VIII made him the leading artist of Rome: in 1624 he began the bronze baldachin over the high altar of St Peter's, and from 1629 he was architect of the basilica. Under Alexander VII he designed the colonnades of St Peter's Square (1656–67) and the Scala Regia, as well as the church of Sant'Andrea al Quirinale. In 1665 he travelled to Paris at the invitation of Louis XIV to design the east front of the Louvre, but his plans were rejected.",
    "Bernini thought of architecture as theatre, uniting building, sculpture, painting and hidden light to overwhelm the viewer, as in the Cornaro Chapel with its Ecstasy of Saint Teresa. His square at St Peter's embraces the crowd like arms, and his small oval Sant'Andrea concentrates the effect of a great church. His rivalry with Borromini defined Roman Baroque, and his manner of designing whole ensembles spread across Catholic Europe."
-  ]
+  ],
+  "portrait_file": "Gian Lorenzo Bernini, self-portrait, c1623.jpg",
+  "portrait_caption": "Bernini, self-portrait, c. 1623"
  },
  {
   "id": "borromini",
@@ -493,7 +521,9 @@
   "bio_full": [
    "Francesco Castelli, later called Borromini, came from a family of stonemasons on Lake Lugano and arrived in Rome around 1619 to work under his relative Carlo Maderno at St Peter's. After Maderno's death he served for a time under Bernini on the baldachin and Palazzo Barberini, an uneasy collaboration that became a lifelong rivalry. His independent career began in 1634 with the monastery and church of San Carlo alle Quattro Fontane, followed by the Oratory of the Filippini, Sant'Ivo alla Sapienza, the remodelling of San Giovanni in Laterano and Sant'Agnese in Agone. Melancholy and isolated in his last years, he took his own life in 1667.",
    "Borromini built mostly in brick and stucco, on cramped sites and modest budgets, but his plans are generated from interlocking triangles, circles and ovals that make walls undulate and domes seem to expand. He invented new ornament and treated the classical orders with great freedom, which his critics called extravagant. His influence was strongest in northern Italy and Central Europe, in Guarini's Turin and the churches of Bohemia and Bavaria, and twentieth-century architects rediscovered him as a master of space."
-  ]
+  ],
+  "portrait_file": "Borromini.jpg",
+  "portrait_caption": "Portrait of Francesco Borromini"
  },
  {
   "id": "le-vau",
@@ -529,7 +559,9 @@
   "bio_full": [
    "Jules Hardouin trained with his great-uncle François Mansart, the leading French classical architect of the previous generation, whose name he added to his own. He won the favour of Louis XIV with the château of Clagny for Madame de Montespan, and from 1678 directed the enlargement of Versailles: the Hall of Mirrors, the north and south wings, the Orangery, the Grand Trianon and the Royal Chapel. He also designed the Place des Victoires and Place Vendôme in Paris and the Dôme des Invalides, and in 1699 became superintendent of the king's buildings.",
    "Running a large office of draughtsmen and designers, Hardouin-Mansart produced architecture on an industrial scale for the most powerful monarchy in Europe. His style is sober classicism handled with Baroque grandeur, crowned by the gilded dome of the Invalides. The steep roof named after his great-uncle, the mansard, became a staple of French building."
-  ]
+  ],
+  "portrait_file": "Jules Hardouin-Mansart, Hyacinthe Rigaud.jpg",
+  "portrait_caption": "Portrait of Jules Hardouin-Mansart, attributed to Hyacinthe Rigaud"
  },
  {
   "id": "wren",
@@ -547,7 +579,9 @@
   "bio_full": [
    "Wren was a mathematician and astronomer, a professor at Gresham College and then Savilian Professor of Astronomy at Oxford, and a founder of the Royal Society. He turned to architecture in the 1660s with the Sheldonian Theatre at Oxford and Pembroke College Chapel at Cambridge, and visited Paris in 1665. After the Great Fire of 1666 he proposed a new plan for London, which was not adopted, and as Surveyor of the King's Works from 1669 he rebuilt St Paul's Cathedral (1675–1710) and fifty-one parish churches. He also designed the Royal Hospitals at Chelsea and Greenwich, parts of Hampton Court Palace and Trinity College Library, Cambridge.",
    "Wren brought a scientist's mind to architecture, solving structural problems such as the triple dome of St Paul's, whose inner dome, brick cone and outer timber shell each do different work. His style draws on French and Italian Baroque and on Inigo Jones, but his steeples, rising in stacked stages, were an English invention imitated across the colonies. His epitaph in St Paul's tells the reader, in Latin, to look around for his monument."
-  ]
+  ],
+  "portrait_file": "Christopher Wren by Godfrey Kneller 1711.jpg",
+  "portrait_caption": "Godfrey Kneller, portrait of Christopher Wren, 1711"
  },
  {
   "id": "fischer-von-erlach",
@@ -565,7 +599,9 @@
   "bio_full": [
    "Fischer was the son of a sculptor in Graz and spent some sixteen years in Rome and Naples, where he knew Bernini's circle and studied ancient and modern buildings. Returning to Austria in the 1680s, he became architect to the Habsburg court, tutor in architecture to the future Emperor Joseph I, and was ennobled as von Erlach. He designed churches in Salzburg, including the Kollegienkirche, palaces in Vienna and Prague, the first plans for Schönbrunn, the Court Library in the Hofburg and, from 1716, the Karlskirche.",
    "Fischer created an imperial Baroque that combined Roman grandeur with symbols of Habsburg power. In 1721 he published the Entwurff einer historischen Architectur, a survey in engraved plates of buildings from the Temple of Solomon and the wonders of the world to Egypt, China and the Islamic world, ending with his own works. It was the first attempt at a universal history of architecture and helped widen European taste."
-  ]
+  ],
+  "portrait_file": "Johann Bernhard Fischer von Erlach by Ádám Mányoki.jpg",
+  "portrait_caption": "Ádám Mányoki, portrait of Fischer von Erlach"
  },
  {
   "id": "neumann",
@@ -584,7 +620,9 @@
   "bio_full": [
    "Neumann trained as a bell- and gun-founder, came to Würzburg in 1711 and rose through the artillery of the prince-bishop's army, studying engineering and architecture and visiting Vienna, northern Italy and Paris. From 1720 he directed the building of the Würzburg Residence for the Schönborn prince-bishops, consulting French and Viennese architects but giving the palace its final form. He went on to design churches, palaces, bridges and town plans across Franconia and the Rhineland, including the staircase at Brühl, the abbey church at Neresheim and the pilgrimage church of Vierzehnheiligen.",
    "Neumann's genius lay in space and structure. His vaults, like the unsupported ceiling over the Würzburg staircase that Tiepolo painted, were daring feats of engineering, and his church plans of interlocking ovals create interiors that seem to float and move. Working with stuccoists and painters, he brought the fusion of the arts in German Rococo to its height."
-  ]
+  ],
+  "portrait_file": "Balthasar Neumann Würzburg Mainfränkisches Museum Marienberg.jpg",
+  "portrait_caption": "Portrait of Balthasar Neumann, Museum für Franken, Würzburg"
  },
  {
   "id": "rastrelli",
@@ -603,7 +641,9 @@
   "bio_full": [
    "Rastrelli was the son of the Florentine sculptor Carlo Bartolomeo Rastrelli, who moved with his family to St Petersburg in 1716 to work for Peter the Great. The young Rastrelli trained in Russia and probably abroad, and under the empresses Anna and especially Elizabeth he became chief architect of the imperial court. He built the Smolny Convent, the Catherine Palace at Tsarskoye Selo, the Great Palace at Peterhof, the Stroganov Palace and, from 1754, the Winter Palace. Catherine the Great preferred Neoclassicism, and he left court service in 1763.",
    "Rastrelli's buildings have long, rhythmic façades of coloured stucco with white columns and gilded ornament, and interiors of mirrors, carving and gold. He combined Italian and French Baroque and Rococo with Russian traditions such as onion domes and five-domed churches. His style, called Elizabethan Baroque, gave St Petersburg its most festive buildings."
-  ]
+  ],
+  "portrait_file": "Ротари - Портрет архитектора Бартоломео Растрелли.jpg",
+  "portrait_caption": "Pietro Rotari, portrait of Rastrelli"
  },
  {
   "id": "soufflot",
@@ -621,7 +661,9 @@
   "bio_full": [
    "Soufflot studied in Rome in the 1730s and made his name in Lyon with the Hôtel-Dieu hospital and a theatre. In 1749–51 he accompanied the future Marquis de Marigny, brother of Madame de Pompadour and director of the king's buildings, on a tour of Italy that included the Greek temples at Paestum. Through Marigny he was appointed in 1755 to design the new church of Sainte-Geneviève in Paris, the project that occupied the rest of his life. He also served as controller of royal buildings in Paris.",
    "Soufflot aimed to combine the lightness of Gothic structure with the purity of Greek columns, using freestanding columns inside rather than heavy piers and reinforcing the masonry with iron. Critics doubted the piers could carry the dome, and cracks led to controversy that continued after his death; the building was completed in 1790 by his pupil Jean-Baptiste Rondelet. Converted into the Panthéon during the Revolution, it became a model for domed buildings across Europe and America."
-  ]
+  ],
+  "portrait_file": "Jacques-Germain Soufflot (1713 -1780).jpg",
+  "portrait_caption": "Portrait of Jacques-Germain Soufflot"
  },
  {
   "id": "ledoux",
@@ -639,7 +681,9 @@
   "bio_full": [
    "Ledoux trained in Paris under Jacques-François Blondel and built fashionable town houses and the pavilion of Louveciennes for Madame du Barry. As inspector of saltworks he designed the Royal Saltworks at Arc-et-Senans (1775–79), and he built a theatre at Besançon. In the 1780s he designed some fifty toll houses for the hated customs wall around Paris, of which four survive, including the Rotonde de la Villette. His royal connections led to his imprisonment during the Terror, and he spent his last years preparing his book L'Architecture considérée sous le rapport de l'art, des moeurs et de la législation (1804).",
    "Ledoux reduced architecture to elemental geometry, cubes, cylinders, pyramids and heavy rusticated columns, and believed buildings should express their purpose and shape society. His book expanded the saltworks into an ideal city, Chaux, with houses for workers and symbolic public buildings. Long dismissed as a megalomaniac, he was rediscovered in the twentieth century as a precursor of modernism."
-  ]
+  ],
+  "portrait_file": "Claude Nicolas Ledoux by Martin Drolling.JPG",
+  "portrait_caption": "Martin Drolling, portrait of Claude-Nicolas Ledoux"
  },
  {
   "id": "jefferson",
@@ -657,7 +701,9 @@
   "bio_full": [
    "Jefferson learned architecture from books, above all Palladio's Four Books, and began building his hilltop house at Monticello in 1769, rebuilding it after his years in France. As minister to France (1784–89) he saw the Maison Carrée at Nîmes, which he took as the model for the Virginia State Capitol in Richmond, the first modern public building in the form of a classical temple. As secretary of state and president he promoted classicism for Washington. In retirement he founded and designed the University of Virginia, which opened in 1825.",
    "For Jefferson architecture was a civic art: the forms of Roman republican buildings would educate the citizens of a new republic. His 'academical village', a lawn flanked by pavilions and colonnades with a Rotunda modelled on the Pantheon at its head, is one of the great American architectural achievements. His legacy is entangled with slavery: Monticello and the university were built and maintained largely by enslaved people, a history the sites now present alongside the architecture."
-  ]
+  ],
+  "portrait_file": "Official Presidential portrait of Thomas Jefferson (by Rembrandt Peale, 1800).jpg",
+  "portrait_caption": "Rembrandt Peale, portrait of Thomas Jefferson, 1800"
  },
  {
   "id": "schinkel",
@@ -676,7 +722,9 @@
   "bio_full": [
    "Schinkel studied under Friedrich Gilly and his father David, travelled in Italy, and during the Napoleonic occupation, when little was built, worked as a painter of romantic landscapes and panoramas and as a stage designer, notably for The Magic Flute. From 1810 he served in the Prussian building administration, rising to its head. He built the Neue Wache (1816–18), the Schauspielhaus (1818–21), the Altes Museum (1823–30), the Friedrichswerder Church in Gothic, and the Bauakademie (1832–36), as well as palaces at Potsdam.",
    "Schinkel was equally at home in Greek and Gothic and believed each age must find its own architecture. His late works, above all the red-brick Bauakademie with its expressed structural grid, pointed toward a rational, industrial architecture; he had studied English factories on a trip in 1826. Mies van der Rohe and other twentieth-century architects admired him as a model of clarity, and his buildings define the centre of Berlin."
-  ]
+  ],
+  "portrait_file": "Schinkel1.jpg",
+  "portrait_caption": "Portrait of Karl Friedrich Schinkel"
  },
  {
   "id": "soane",
@@ -694,7 +742,9 @@
   "bio_full": [
    "Soane was the son of a bricklayer and trained with George Dance the Younger and Henry Holland. A Royal Academy scholarship sent him to Italy in 1778–80. In 1788 he became architect to the Bank of England, which he rebuilt over forty-five years as a complex of top-lit banking halls behind a windowless wall; it was largely demolished in the 1920s. He became professor of architecture at the Royal Academy, designed Dulwich Picture Gallery (1811–17), the first purpose-built public art gallery in Britain, and remodelled three houses in Lincoln's Inn Fields as his home, office and museum.",
    "Soane stripped classicism down to incised lines, shallow domes and arches, and used hidden sources of light to create mysterious, layered interiors. His collection of antiquities, casts, drawings and paintings, arranged as a teaching museum, was preserved by an Act of Parliament in 1833 to remain as he left it. His idiosyncratic style has been admired by modern and postmodern architects alike."
-  ]
+  ],
+  "portrait_file": "Thomas Lawrence John Soane.JPG",
+  "portrait_caption": "Thomas Lawrence, portrait of John Soane"
  },
  {
   "id": "barry",
@@ -712,7 +762,9 @@
   "bio_full": [
    "Barry was the son of a stationer and spent three years travelling in France, Italy, Greece, Turkey, Egypt and Syria (1817–20), drawing ancient and Renaissance buildings. Back in London he built Gothic churches and then the Travellers Club (1829–32) and Reform Club (1837–41) in the manner of Italian Renaissance palaces, a style he made fashionable for clubs and banks. In 1836 his design won the competition for the new Houses of Parliament, which occupied him until his death; he was knighted in 1852.",
    "Barry was a master of planning and of the picturesque skyline. At Westminster he organised a vast and complicated building around a clear, symmetrical plan, while Pugin supplied the Gothic detail and furnishings. How credit should be divided between them was argued by their sons and is still discussed. Barry's sons Edward Middleton Barry and Charles Barry Jr continued his practice."
-  ]
+  ],
+  "portrait_file": "Sir Charles Barry by John Prescott Knight.jpg",
+  "portrait_caption": "John Prescott Knight, portrait of Charles Barry"
  },
  {
   "id": "pugin",
@@ -730,7 +782,9 @@
   "bio_full": [
    "Pugin was the son of the French draughtsman Auguste Charles Pugin, who published studies of Gothic architecture, and he was designing furniture for Windsor Castle at fifteen. He converted to Catholicism in 1835 and in Contrasts (1836) set noble medieval towns beside squalid modern ones, arguing that Gothic was the only true Christian architecture. Working with great speed, he designed churches, cathedrals and houses across Britain and Ireland, including St Giles' at Cheadle and his own house and church at Ramsgate, and from 1844 the interiors, furniture, tiles, metalwork and clock tower of the Palace of Westminster. Overwork led to a breakdown, and he died at forty.",
    "Pugin's True Principles of Pointed or Christian Architecture (1841) argued that ornament should enrich structure and that a building should honestly express its construction and purpose. Those ideas outlived the Gothic style and passed through Ruskin and William Morris to the Arts and Crafts movement and early modernism. He made the Gothic Revival a serious architectural language rather than a picturesque fashion."
-  ]
+  ],
+  "portrait_file": "Augustus Welby Northmore Pugin from NPG.jpg",
+  "portrait_caption": "John Rogers Herbert, portrait of Augustus Pugin, National Portrait Gallery, London"
  },
  {
   "id": "viollet-le-duc",
@@ -802,7 +856,9 @@
   "bio_full": [
    "Garnier, son of a wheelwright, studied at the École des Beaux-Arts and won the Prix de Rome in 1848, spending five years in Italy and visiting Greece. Little known, he won the competition of 1861 for a new opera house in Paris, which was built between 1861 and 1875, interrupted by the Franco-Prussian War and the Commune. He later designed the casino and opera house at Monte Carlo and villas at Bordighera on the Riviera.",
    "Asked by the Empress Eugénie what style his design was, Garnier is said to have answered that it was Napoleon III style. The Opéra combines a rigorous plan, expressing each function in its own volume, with a sumptuous synthesis of Renaissance and Baroque forms, coloured marbles, gilding and sculpture. Its grand staircase is designed as a stage on which the audience itself performs, and the building became the model for opera houses and theatres across the world."
-  ]
+  ],
+  "portrait_file": "Charles Garnier 1868 by Paul Baudry 1828 1886 edit.jpg",
+  "portrait_caption": "Paul Baudry, portrait of Charles Garnier, 1868"
  },
  {
   "id": "sullivan",
@@ -893,7 +949,9 @@
   "bio_full": [
    "Mackintosh trained at the Glasgow School of Art in evening classes while apprenticed to an architect, and joined the firm of Honeyman and Keppie. With his future wife Margaret Macdonald, her sister Frances and Herbert MacNair he formed 'The Four', whose graphic work and furniture were admired in Vienna, where they exhibited at the Secession in 1900. He designed the Glasgow School of Art (1897–1909), the Willow Tea Rooms, Hill House at Helensburgh and Queen's Cross Church. Commissions dried up after 1914, and he later painted watercolours in France.",
    "Mackintosh combined the massing of Scottish baronial castles with elongated, geometric Art Nouveau ornament, white interiors and dark, tall-backed furniture. His work was better appreciated on the Continent than in Britain during his lifetime. The School of Art's Mackintosh Building was gutted by fires in 2014 and 2018."
-  ]
+  ],
+  "portrait_file": "Francis Henry Newbery - Charles Rennie Mackintosh, 1868 - 1928. Architect (study for group portrait The Building Committee o - PG 1205 - National Galleries of Scotland.jpg",
+  "portrait_caption": "Francis Henry Newbery, Charles Rennie Mackintosh (study for The Building Committee), National Galleries of Scotland"
  },
  {
   "id": "otto-wagner",

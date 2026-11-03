@@ -19,6 +19,10 @@ Niemeyer rejected the right angle in favour of free curves inspired, he said, by
 
 ### Cathedral of Brasília (1958–1970)
 
+[![Cathedral of Brasília](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Catedral_Metropolitana_de_Brasilia.jpg/1280px-Catedral_Metropolitana_de_Brasilia.jpg)](https://commons.wikimedia.org/wiki/File:Catedral_Metropolitana_de_Brasilia.jpg)
+
+<sub>Cathedral of Brasília, Brasília, Brazil Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Catedral_Metropolitana_de_Brasilia.jpg).</sub>
+
 - **Date:** 1958–1970
 - **Type:** Cathedral
 - **Location:** Brasília, Brazil
@@ -27,6 +31,10 @@ Niemeyer rejected the right angle in favour of free curves inspired, he said, by
 The Metropolitan Cathedral was one of the first buildings of Brazil's new capital, laid out by Lúcio Costa, and Niemeyer designed it as a hyperboloid of sixteen curving concrete columns, each weighing many tonnes, which meet at a ring and open upward like hands raised to heaven or a crown of thorns. The spaces between them are glazed, and since 1987–90 the glass has been decorated with blue, green and white stained glass by Marianne Peretti. Visitors enter through a dark passage that descends below ground and emerge into the bright circular nave, a contrast intended to lift the spirit. Four bronze evangelists by Alfredo Ceschiatti stand outside, and angels hang from steel cables inside. Its structure was completed in 1960 and it was dedicated in 1970. Brasília is a UNESCO World Heritage Site.
 
 ### National Congress of Brazil (1958–1960)
+
+[![National Congress of Brazil](https://upload.wikimedia.org/wikipedia/commons/9/93/National_Congress_of_Brazil.jpg)](https://commons.wikimedia.org/wiki/File:National_Congress_of_Brazil.jpg)
+
+<sub>National Congress of Brazil, Brasília, Brazil Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:National_Congress_of_Brazil.jpg).</sub>
 
 - **Date:** 1958–1960
 - **Type:** Parliament building

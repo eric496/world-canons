@@ -1,10 +1,14 @@
 # Giacomo Barozzi da Vignola
 
+<a href="https://commons.wikimedia.org/wiki/File:Vignola_Regola_1562.JPG"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vignola_Regola_1562.JPG/330px-Vignola_Regola_1562.JPG" alt="Giacomo Barozzi da Vignola" title="Engraved portrait of Vignola from his Regola delli cinque ordini, 1562"></a>
+
 **1507 – 1573** · Italian  
 Born: Vignola, near Modena · Died: Rome  
 Styles: [Mannerism](../movements/mannerism.md)  
 
 > Architect of the Farnese and the Jesuits, designer of the Gesù in Rome and author of the most widely used handbook of the classical orders.
+
+<sub>Portrait: Engraved portrait of Vignola from his Regola delli cinque ordini, 1562 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vignola_Regola_1562.JPG)</sub>
 
 ## Biography
 

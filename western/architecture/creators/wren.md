@@ -1,10 +1,14 @@
 # Christopher Wren
 
+<a href="https://commons.wikimedia.org/wiki/File:Christopher_Wren_by_Godfrey_Kneller_1711.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Christopher_Wren_by_Godfrey_Kneller_1711.jpg/330px-Christopher_Wren_by_Godfrey_Kneller_1711.jpg" alt="Christopher Wren" title="Godfrey Kneller, portrait of Christopher Wren, 1711"></a>
+
 **1632 – 1723** · English  
 Born: East Knoyle, Wiltshire · Died: London  
 Styles: [Baroque](../movements/baroque.md)  
 
 > Astronomer turned architect who rebuilt London after the Great Fire of 1666, designing St Paul's Cathedral and over fifty City churches.
+
+<sub>Portrait: Godfrey Kneller, portrait of Christopher Wren, 1711 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Christopher_Wren_by_Godfrey_Kneller_1711.jpg)</sub>
 
 ## Biography
 

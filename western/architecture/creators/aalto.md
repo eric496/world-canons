@@ -19,6 +19,10 @@ Aalto softened the machine aesthetic with wood, brick and copper, undulating wal
 
 ### Paimio Sanatorium (1929–1933)
 
+[![Paimio Sanatorium](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Paimio_Sanatorium2.jpg/1280px-Paimio_Sanatorium2.jpg)](https://commons.wikimedia.org/wiki/File:Paimio_Sanatorium2.jpg)
+
+<sub>Paimio Sanatorium, Paimio, Finland Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Paimio_Sanatorium2.jpg).</sub>
+
 - **Date:** 1929–1933
 - **Type:** Tuberculosis sanatorium
 - **Location:** Paimio, Finland
@@ -27,6 +31,10 @@ Aalto softened the machine aesthetic with wood, brick and copper, undulating wal
 Alvar Aalto won a competition in 1929 for a tuberculosis sanatorium in a pine forest near Turku, at a time when fresh air, light and rest were the main treatment. The patients' wing is a long, narrow block oriented to catch the morning sun, ending in stacked open sun balconies where patients lay for hours. Aalto designed the details from the patient's position: soft-coloured ceilings for people lying in bed, indirect lighting, quiet washbasins that splash less, and the bentwood Paimio chair, angled to ease breathing. Other wings for treatment, staff and services fan out on different angles. Antibiotics later made such sanatoria obsolete, and it became a general hospital, then closed in the 2010s. It is now used for other purposes and is on Finland's tentative list for UNESCO World Heritage status.
 
 ### Villa Mairea (1937–1939)
+
+[![Villa Mairea](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/4Y1A7841_Alvar_Aalto%2C_Finland_%2826710745140%29.jpg/1280px-4Y1A7841_Alvar_Aalto%2C_Finland_%2826710745140%29.jpg)](https://commons.wikimedia.org/wiki/File:4Y1A7841_Alvar_Aalto%2C_Finland_%2826710745140%29.jpg)
+
+<sub>Villa Mairea, Noormarkku, Finland Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:4Y1A7841_Alvar_Aalto%2C_Finland_%2826710745140%29.jpg).</sub>
 
 - **Date:** 1937–1939
 - **Type:** Country house

@@ -1,11 +1,15 @@
 # Gian Lorenzo Bernini
 
+<a href="https://commons.wikimedia.org/wiki/File:Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg/330px-Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg" alt="Gian Lorenzo Bernini" title="Bernini, self-portrait, c. 1623"></a>
+
 **1598 – 1680** · Italian  
 Born: Naples · Died: Rome  
 Styles: [Baroque](../movements/baroque.md)  
 Also in: [Art](../../art/creators/bernini.md)  
 
 > The dominant artist of Baroque Rome, sculptor and architect to a series of popes, who shaped St Peter's with its baldachin and colonnaded square.
+
+<sub>Portrait: Bernini, self-portrait, c. 1623 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg)</sub>
 
 ## Biography
 

@@ -1,10 +1,14 @@
 # Balthasar Neumann
 
+<a href="https://commons.wikimedia.org/wiki/File:Balthasar_Neumann_W%C3%BCrzburg_Mainfr%C3%A4nkisches_Museum_Marienberg.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Balthasar_Neumann_W%C3%BCrzburg_Mainfr%C3%A4nkisches_Museum_Marienberg.jpg/330px-Balthasar_Neumann_W%C3%BCrzburg_Mainfr%C3%A4nkisches_Museum_Marienberg.jpg" alt="Balthasar Neumann" title="Portrait of Balthasar Neumann, Museum für Franken, Würzburg"></a>
+
 **1687 – 1753** · German  
 Born: Eger, Bohemia (now Cheb, Czech Republic) · Died: Würzburg  
 Styles: [Rococo](../movements/rococo.md), [Baroque](../movements/baroque.md)  
 
 > Military engineer and architect to the prince-bishops of Würzburg whose Residence and pilgrimage church of Vierzehnheiligen are high points of German late Baroque and Rococo.
+
+<sub>Portrait: Portrait of Balthasar Neumann, Museum für Franken, Würzburg · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Balthasar_Neumann_W%C3%BCrzburg_Mainfr%C3%A4nkisches_Museum_Marienberg.jpg)</sub>
 
 ## Biography
 

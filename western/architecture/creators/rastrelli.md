@@ -1,10 +1,14 @@
 # Francesco Bartolomeo Rastrelli
 
+<a href="https://commons.wikimedia.org/wiki/File:%D0%A0%D0%BE%D1%82%D0%B0%D1%80%D0%B8_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0_%D0%91%D0%B0%D1%80%D1%82%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BE_%D0%A0%D0%B0%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BB%D0%B8.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%D0%A0%D0%BE%D1%82%D0%B0%D1%80%D0%B8_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0_%D0%91%D0%B0%D1%80%D1%82%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BE_%D0%A0%D0%B0%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BB%D0%B8.jpg/330px-%D0%A0%D0%BE%D1%82%D0%B0%D1%80%D0%B8_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0_%D0%91%D0%B0%D1%80%D1%82%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BE_%D0%A0%D0%B0%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BB%D0%B8.jpg" alt="Francesco Bartolomeo Rastrelli" title="Pietro Rotari, portrait of Rastrelli"></a>
+
 **1700 – 1771** · Italian-Russian  
 Born: Paris · Died: St Petersburg  
 Styles: [Rococo](../movements/rococo.md), [Baroque](../movements/baroque.md)  
 
 > Italian architect in Russian imperial service who created the Winter Palace and the Catherine Palace, defining Elizabethan Baroque in St Petersburg.
+
+<sub>Portrait: Pietro Rotari, portrait of Rastrelli · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%A0%D0%BE%D1%82%D0%B0%D1%80%D0%B8_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0_%D0%91%D0%B0%D1%80%D1%82%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BE_%D0%A0%D0%B0%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BB%D0%B8.jpg)</sub>
 
 ## Biography
 

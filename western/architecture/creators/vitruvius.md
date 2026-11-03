@@ -1,9 +1,13 @@
 # Vitruvius
 
+<a href="https://commons.wikimedia.org/wiki/File:Vitruvio_Pollione_portrait_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vitruvio_Pollione_portrait_%28cropped%29.jpg/330px-Vitruvio_Pollione_portrait_%28cropped%29.jpg" alt="Vitruvius" title="Imaginary portrait of Vitruvius, engraving"></a>
+
 **c. 80–70 BC – after c. 15 BC** · Roman  
 Styles: [Ancient Roman](../movements/ancient-roman.md)  
 
 > Roman architect and military engineer whose ten books On Architecture are the only complete treatise on the subject to survive from antiquity. Rediscovered in the Renaissance, they became the foundation of Western architectural theory.
+
+<sub>Portrait: Imaginary portrait of Vitruvius, engraving · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vitruvio_Pollione_portrait_%28cropped%29.jpg)</sub>
 
 ## Biography
 

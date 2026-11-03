@@ -1,10 +1,14 @@
 # Abbot Suger
 
+<a href="https://commons.wikimedia.org/wiki/File:Abbot_Suger.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Abbot_Suger.jpg" alt="Abbot Suger" title="Abbot Suger, detail of a stained-glass window at Saint-Denis"></a>
+
 **c. 1081 – 1151** · French  
 Born: ? · Died: Saint-Denis  
 Styles: [Gothic](../movements/gothic.md)  
 
 > Abbot of Saint-Denis and adviser to two French kings, whose rebuilding of his abbey church in the 1130s and 1140s is regarded as the birth of Gothic architecture.
+
+<sub>Portrait: Abbot Suger, detail of a stained-glass window at Saint-Denis · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Abbot_Suger.jpg)</sub>
 
 ## Biography
 

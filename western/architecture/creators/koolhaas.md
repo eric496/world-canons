@@ -19,6 +19,10 @@ Koolhaas treats architecture as a response to the forces of the modern metropoli
 
 ### Seattle Central Library (1999–2004)
 
+[![Seattle Central Library](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Seattle_Library_01.jpg/1280px-Seattle_Library_01.jpg)](https://commons.wikimedia.org/wiki/File:Seattle_Library_01.jpg)
+
+<sub>Seattle Central Library, Seattle, Washington, United States Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Seattle_Library_01.jpg).</sub>
+
 - **Date:** 1999–2004
 - **Type:** Public library
 - **Location:** Seattle, Washington, United States
@@ -27,6 +31,10 @@ Koolhaas treats architecture as a response to the forces of the modern metropoli
 OMA, led by Rem Koolhaas with Joshua Prince-Ramus, designed Seattle's new central library by analysing the library's functions and grouping them into five stable 'platforms' stacked and shifted to fit the site, with more fluid public spaces in between. A diamond-patterned steel and glass skin stretches over the whole, creating a striking faceted form. The 'Books Spiral', a continuous ramp of shelving running through four floors, keeps the non-fiction collection in unbroken Dewey order, and a great top-lit reading room crowns the building. A bright red floor of meeting rooms and a 'living room' open to the city are among its features. It opened in 2004 and has been heavily used.
 
 ### CCTV Headquarters (2004–2012)
+
+[![CCTV Headquarters](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg/1280px-China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg)](https://commons.wikimedia.org/wiki/File:China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg)
+
+<sub>CCTV Headquarters, Beijing, China Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:China_Central_Television_HQ%2C_from_China_World_Trade_Centre_%28Cropped%29.jpg).</sub>
 
 - **Date:** 2004–2012
 - **Type:** Media headquarters

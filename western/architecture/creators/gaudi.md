@@ -34,6 +34,10 @@ The Basílica de la Sagrada Família was begun in 1882 by a devotional associati
 
 ### Park Güell (1900–1914)
 
+[![Park Güell](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Parc_guell_-_panoramio.jpg/1280px-Parc_guell_-_panoramio.jpg)](https://commons.wikimedia.org/wiki/File:Parc_guell_-_panoramio.jpg)
+
+<sub>Park Güell, Barcelona, Spain Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Parc_guell_-_panoramio.jpg).</sub>
+
 - **Date:** 1900–1914
 - **Type:** Park, originally a housing estate
 - **Location:** Barcelona, Spain

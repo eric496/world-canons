@@ -19,6 +19,10 @@ Arnolfo's cathedral plan, with its wide nave and vast octagonal crossing, set th
 
 ### Basilica of Santa Croce (1294–1385)
 
+[![Basilica of Santa Croce](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bas%C3%ADlica_de_la_Santa_Cruz%2C_Florencia%2C_Italia%2C_2022-09-18%2C_DD_95.jpg/1280px-Bas%C3%ADlica_de_la_Santa_Cruz%2C_Florencia%2C_Italia%2C_2022-09-18%2C_DD_95.jpg)](https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_la_Santa_Cruz%2C_Florencia%2C_Italia%2C_2022-09-18%2C_DD_95.jpg)
+
+<sub>Basilica of Santa Croce, Florence, Italy Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_la_Santa_Cruz%2C_Florencia%2C_Italia%2C_2022-09-18%2C_DD_95.jpg).</sub>
+
 - **Date:** 1294–1385
 - **Type:** Franciscan church
 - **Location:** Florence, Italy

@@ -1,10 +1,14 @@
 # Leon Battista Alberti
 
+<a href="https://commons.wikimedia.org/wiki/File:Leon_Battista_Alberti%2C_Self-Portrait%2C_c._1435%2C_NGA_43845.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Leon_Battista_Alberti%2C_Self-Portrait%2C_c._1435%2C_NGA_43845.jpg/330px-Leon_Battista_Alberti%2C_Self-Portrait%2C_c._1435%2C_NGA_43845.jpg" alt="Leon Battista Alberti" title="Alberti, self-portrait plaquette, c. 1435, National Gallery of Art, Washington"></a>
+
 **1404 – 1472** · Florentine  
 Born: Genoa · Died: Rome  
 Styles: [Renaissance](../movements/renaissance-architecture.md)  
 
 > Humanist, writer and architect whose treatise On the Art of Building was the first Renaissance theory of architecture, and whose façades and churches applied ancient forms with new rigour.
+
+<sub>Portrait: Alberti, self-portrait plaquette, c. 1435, National Gallery of Art, Washington · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leon_Battista_Alberti%2C_Self-Portrait%2C_c._1435%2C_NGA_43845.jpg)</sub>
 
 ## Biography
 

@@ -12,8 +12,8 @@ A lighter, more decorative late phase of the Baroque that began in French interi
 
 ## Architects
 
--  [Balthasar Neumann](../creators/neumann.md) (1687 – 1753)
--  [Francesco Bartolomeo Rastrelli](../creators/rastrelli.md) (1700 – 1771)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Balthasar_Neumann_W%C3%BCrzburg_Mainfr%C3%A4nkisches_Museum_Marienberg.jpg/330px-Balthasar_Neumann_W%C3%BCrzburg_Mainfr%C3%A4nkisches_Museum_Marienberg.jpg" width="40" alt="Balthasar Neumann"> [Balthasar Neumann](../creators/neumann.md) (1687 – 1753)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%D0%A0%D0%BE%D1%82%D0%B0%D1%80%D0%B8_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0_%D0%91%D0%B0%D1%80%D1%82%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BE_%D0%A0%D0%B0%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BB%D0%B8.jpg/330px-%D0%A0%D0%BE%D1%82%D0%B0%D1%80%D0%B8_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0_%D0%91%D0%B0%D1%80%D1%82%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BE_%D0%A0%D0%B0%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BB%D0%B8.jpg" width="40" alt="Francesco Bartolomeo Rastrelli"> [Francesco Bartolomeo Rastrelli](../creators/rastrelli.md) (1700 – 1771)
 
 ## Key buildings
 

@@ -1,10 +1,14 @@
 # Jacques-Germain Soufflot
 
+<a href="https://commons.wikimedia.org/wiki/File:Jacques-Germain_Soufflot_%281713_-1780%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jacques-Germain_Soufflot_%281713_-1780%29.jpg" alt="Jacques-Germain Soufflot" title="Portrait of Jacques-Germain Soufflot"></a>
+
 **1713 – 1780** · French  
 Born: Irancy, Burgundy · Died: Paris  
 Styles: [Palladianism & Neoclassicism](../movements/neoclassicism.md)  
 
 > French architect of the church of Sainte-Geneviève in Paris, now the Panthéon, a founding monument of Neoclassicism.
+
+<sub>Portrait: Portrait of Jacques-Germain Soufflot · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jacques-Germain_Soufflot_%281713_-1780%29.jpg)</sub>
 
 ## Biography
 

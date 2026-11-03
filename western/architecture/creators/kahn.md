@@ -19,6 +19,10 @@ Kahn asked what a building wants to be, and answered with primary geometries, ma
 
 ### Salk Institute for Biological Studies (1959–1965)
 
+[![Salk Institute for Biological Studies](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Salk_Institute_2.jpg/1280px-Salk_Institute_2.jpg)](https://commons.wikimedia.org/wiki/File:Salk_Institute_2.jpg)
+
+<sub>Salk Institute for Biological Studies, La Jolla, California, United States Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Salk_Institute_2.jpg).</sub>
+
 - **Date:** 1959–1965
 - **Type:** Research institute
 - **Location:** La Jolla, California, United States
@@ -27,6 +31,10 @@ Kahn asked what a building wants to be, and answered with primary geometries, ma
 Jonas Salk, developer of the polio vaccine, founded an institute for biological research on clifftops above the Pacific and asked Kahn for a place where scientists and artists might meet. Kahn designed two mirror-image laboratory buildings with column-free floors alternating with service floors for pipes and ducts, which can be changed as research changes. Facing an empty travertine courtyard are angled concrete towers with teak-panelled studies for the scientists. On the advice of the Mexican architect Luis Barragán, Kahn left the courtyard without trees, a 'façade to the sky', with a thin channel of water running toward the ocean. Built in finely finished concrete, the institute is among the most admired buildings of its era, and a meeting hall Kahn planned was never built.
 
 ### National Parliament House, Dhaka (Jatiya Sangsad Bhaban) (1962–1982)
+
+[![National Parliament House, Dhaka (Jatiya Sangsad Bhaban)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/National_Assembly_of_Bangladesh_%2810%29.jpg/1280px-National_Assembly_of_Bangladesh_%2810%29.jpg)](https://commons.wikimedia.org/wiki/File:National_Assembly_of_Bangladesh_%2810%29.jpg)
+
+<sub>National Parliament House, Dhaka (Jatiya Sangsad Bhaban), Dhaka, Bangladesh Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:National_Assembly_of_Bangladesh_%2810%29.jpg).</sub>
 
 - **Date:** 1962–1982
 - **Type:** Parliament building

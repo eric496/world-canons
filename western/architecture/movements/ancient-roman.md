@@ -12,7 +12,7 @@ Rome borrowed the Greek orders but built with the arch, the vault and the dome, 
 
 ## Architects
 
--  [Vitruvius](../creators/vitruvius.md) (c. 80–70 BC – after c. 15 BC)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vitruvio_Pollione_portrait_%28cropped%29.jpg/330px-Vitruvio_Pollione_portrait_%28cropped%29.jpg" width="40" alt="Vitruvius"> [Vitruvius](../creators/vitruvius.md) (c. 80–70 BC – after c. 15 BC)
 -  [Roman imperial builders](../creators/roman-builders.md) (active 1st century BC – 4th century AD – )
 -  [Apollodorus of Damascus](../creators/apollodorus.md) (c. AD 60 – c. 130)
 

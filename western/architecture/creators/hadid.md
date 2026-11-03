@@ -19,6 +19,10 @@ Influenced by the Russian avant-garde, especially Malevich, Hadid began with fra
 
 ### Vitra Fire Station (1990–1993)
 
+[![Vitra Fire Station](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Baden-W%C3%BCrttemberg_Weil_am_Rhein_Vitra_Fire_station_01.jpg/1280px-Baden-W%C3%BCrttemberg_Weil_am_Rhein_Vitra_Fire_station_01.jpg)](https://commons.wikimedia.org/wiki/File:Baden-W%C3%BCrttemberg_Weil_am_Rhein_Vitra_Fire_station_01.jpg)
+
+<sub>Vitra Fire Station, Vitra Campus, Weil am Rhein, Germany Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Baden-W%C3%BCrttemberg_Weil_am_Rhein_Vitra_Fire_station_01.jpg).</sub>
+
 - **Date:** 1990–1993
 - **Type:** Fire station, later exhibition space
 - **Location:** Vitra Campus, Weil am Rhein, Germany
@@ -27,6 +31,9 @@ Influenced by the Russian avant-garde, especially Malevich, Hadid began with fra
 After a fire in 1981 destroyed much of the Vitra furniture company's factory at Weil am Rhein, near Basel, its chairman Rolf Fehlbaum began commissioning buildings from leading architects for the site. Zaha Hadid, then known mainly for her paintings and unbuilt projects, was asked to design a small fire station for the company's own fire brigade. She created a long, narrow building of exposed concrete planes that slant, tilt and slice past each other, like a frozen explosion of movement, with a roof canopy projecting sharply over the entrance. When local fire brigades took over, the building became a space for displaying Vitra's chair collection and events. It established Hadid's reputation as a builder.
 
 ### Heydar Aliyev Center (2007–2012)
+
+> 🖼️ **[View it at Heydar Aliyev Center →](https://heydaraliyevcenter.az/)**  
+> <sub>Still under copyright, so it is not reproduced here.</sub>
 
 - **Date:** 2007–2012
 - **Type:** Cultural centre

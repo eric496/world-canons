@@ -6,14 +6,18 @@ Era: [The Renaissance](../../periods/renaissance.md)
 
 In Florence, Brunelleschi and Alberti revived the classical orders and governed buildings by clear proportion and geometry. Architecture became a learned art, grounded in study of Roman ruins and of Vitruvius. In Rome, Bramante's work for Pope Julius II set the standard of the High Renaissance.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tempietto_di_San_Pietro_in_Montorio.jpg/1280px-Tempietto_di_San_Pietro_in_Montorio.jpg" width="100%" alt="Renaissance">
+
+<sub>Bramante's Tempietto in the courtyard of San Pietro in Montorio, Rome · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tempietto_di_San_Pietro_in_Montorio.jpg)</sub>
+
 ## Architects
 
--  [Filippo Brunelleschi](../creators/brunelleschi.md) (1377 – 1446)
--  [Leon Battista Alberti](../creators/alberti.md) (1404 – 1472)
--  [Donato Bramante](../creators/bramante.md) (1444 – 1514)
--  [Michelangelo Buonarroti](../creators/michelangelo.md) (1475 – 1564)
--  [Andrea Palladio](../creators/palladio.md) (1508 – 1580)
--  [Juan de Herrera](../creators/herrera.md) (c. 1530 – 1597)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Masaccio%2C_cappella_brancacci%2C_san_pietro_in_cattedra._ritratto_di_filippo_brunelleschi-184.jpg/330px-Masaccio%2C_cappella_brancacci%2C_san_pietro_in_cattedra._ritratto_di_filippo_brunelleschi-184.jpg" width="40" alt="Filippo Brunelleschi"> [Filippo Brunelleschi](../creators/brunelleschi.md) (1377 – 1446)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Leon_Battista_Alberti%2C_Self-Portrait%2C_c._1435%2C_NGA_43845.jpg/330px-Leon_Battista_Alberti%2C_Self-Portrait%2C_c._1435%2C_NGA_43845.jpg" width="40" alt="Leon Battista Alberti"> [Leon Battista Alberti](../creators/alberti.md) (1404 – 1472)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Donato_Bramante.jpg" width="40" alt="Donato Bramante"> [Donato Bramante](../creators/bramante.md) (1444 – 1514)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/330px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg" width="40" alt="Michelangelo Buonarroti"> [Michelangelo Buonarroti](../creators/michelangelo.md) (1475 – 1564)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Andrea_Palladio2.jpeg/330px-Andrea_Palladio2.jpeg" width="40" alt="Andrea Palladio"> [Andrea Palladio](../creators/palladio.md) (1508 – 1580)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Juan_de_Herrera.jpg" width="40" alt="Juan de Herrera"> [Juan de Herrera](../creators/herrera.md) (c. 1530 – 1597)
 
 ## Key buildings
 
@@ -25,7 +29,7 @@ In Florence, Brunelleschi and Alberti revived the classical orders and governed 
 | <a href="https://commons.wikimedia.org/wiki/File:Via_della_Vigna_Nuova_18%2C_palazzo_rucellai%2C_02%2C0.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Via_della_Vigna_Nuova_18%2C_palazzo_rucellai%2C_02%2C0.jpg/330px-Via_della_Vigna_Nuova_18%2C_palazzo_rucellai%2C_02%2C0.jpg" width="140" alt="Palazzo Rucellai"></a> | c. 1446–1451 | **Palazzo Rucellai** | [Leon Battista Alberti](../creators/alberti.md) | Florence, Italy |
 | <a href="https://commons.wikimedia.org/wiki/File:Florence%2C_Santa_Maria_Novella%2C_facade.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Florence%2C_Santa_Maria_Novella%2C_facade.jpg/330px-Florence%2C_Santa_Maria_Novella%2C_facade.jpg" width="140" alt="Façade of Santa Maria Novella"></a> | 1456–1470 | **Façade of Santa Maria Novella** | [Leon Battista Alberti](../creators/alberti.md) | Florence, Italy |
 | <a href="https://commons.wikimedia.org/wiki/File:MantovaBasilicaSantAndrea_cutnpaste_over_intrusions.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MantovaBasilicaSantAndrea_cutnpaste_over_intrusions.jpg/330px-MantovaBasilicaSantAndrea_cutnpaste_over_intrusions.jpg" width="140" alt="Sant'Andrea, Mantua"></a> | 1472–1790 | **Sant'Andrea, Mantua** | [Leon Battista Alberti](../creators/alberti.md) | Mantua, Italy |
-| — | c. 1502–1510 | **Tempietto of San Pietro in Montorio** | [Donato Bramante](../creators/bramante.md) | Rome, Italy |
+| <a href="https://commons.wikimedia.org/wiki/File:Tempietto_di_San_Pietro_in_Montorio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tempietto_di_San_Pietro_in_Montorio.jpg/330px-Tempietto_di_San_Pietro_in_Montorio.jpg" width="140" alt="Tempietto of San Pietro in Montorio"></a> | c. 1502–1510 | **Tempietto of San Pietro in Montorio** | [Donato Bramante](../creators/bramante.md) | Rome, Italy |
 | <a href="https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/330px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg" width="140" alt="St Peter's Basilica"></a> | 1506–1626; dome 1547–1590 | **St Peter's Basilica** | [Michelangelo Buonarroti](../creators/michelangelo.md) | Vatican City |
 | <a href="https://commons.wikimedia.org/wiki/File:Medicibib.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Medicibib.jpg/330px-Medicibib.jpg" width="140" alt="Laurentian Library"></a> | 1524–1571 | **Laurentian Library** | [Michelangelo Buonarroti](../creators/michelangelo.md) | San Lorenzo, Florence, Italy |
 | <a href="https://commons.wikimedia.org/wiki/File:Piazza_del_Campidoglio_2015.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Piazza_del_Campidoglio_2015.jpg/330px-Piazza_del_Campidoglio_2015.jpg" width="140" alt="Piazza del Campidoglio"></a> | 1536–c. 1655 | **Piazza del Campidoglio** | [Michelangelo Buonarroti](../creators/michelangelo.md) | Capitoline Hill, Rome, Italy |

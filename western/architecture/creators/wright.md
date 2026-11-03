@@ -20,6 +20,10 @@ Wright sought an architecture that grew from its site, with low horizontal lines
 
 ### Frederick C. Robie House (1909–1910)
 
+[![Frederick C. Robie House](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Frederick_C._Robie_House.JPG/1280px-Frederick_C._Robie_House.JPG)](https://commons.wikimedia.org/wiki/File:Frederick_C._Robie_House.JPG)
+
+<sub>Frederick C. Robie House, Hyde Park, Chicago, Illinois, United States Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Frederick_C._Robie_House.JPG).</sub>
+
 - **Date:** 1909–1910
 - **Type:** House
 - **Location:** Hyde Park, Chicago, Illinois, United States
@@ -29,6 +33,10 @@ Frederick Robie, a businessman who made bicycles and then car parts, commissione
 
 ### Fallingwater (1936–1939)
 
+[![Fallingwater](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fallingwater3.jpg/1280px-Fallingwater3.jpg)](https://commons.wikimedia.org/wiki/File:Fallingwater3.jpg)
+
+<sub>Fallingwater, Mill Run, Pennsylvania, United States Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Fallingwater3.jpg).</sub>
+
 - **Date:** 1936–1939
 - **Type:** Country house
 - **Location:** Mill Run, Pennsylvania, United States
@@ -37,6 +45,10 @@ Frederick Robie, a businessman who made bicycles and then car parts, commissione
 Edgar J. Kaufmann, a Pittsburgh department store owner, asked Wright for a weekend house near a waterfall on Bear Run, expecting a view of the falls. Wright placed the house over them, anchoring it to the rock with a stone chimney core from which reinforced-concrete terraces cantilever above the stream. Inside, flagstone floors, a boulder rising through the living room hearth and stone walls continue the landscape, and glass walls and corner windows open to the woods; a stair descends from the living room to the water. The cantilevers sagged over time and were reinforced with post-tensioning in 2002. Kaufmann's son gave the house to the Western Pennsylvania Conservancy in 1963. It is a museum and part of the UNESCO World Heritage Site of Wright's architecture.
 
 ### Solomon R. Guggenheim Museum (1943–1959)
+
+[![Solomon R. Guggenheim Museum](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Solomon_R._Guggenheim_Museum_%2848059131351%29.jpg/1280px-Solomon_R._Guggenheim_Museum_%2848059131351%29.jpg)](https://commons.wikimedia.org/wiki/File:Solomon_R._Guggenheim_Museum_%2848059131351%29.jpg)
+
+<sub>Solomon R. Guggenheim Museum, Fifth Avenue, New York City, United States Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Solomon_R._Guggenheim_Museum_%2848059131351%29.jpg).</sub>
 
 - **Date:** 1943–1959
 - **Type:** Art museum

@@ -1,10 +1,14 @@
 # Giulio Romano
 
+<a href="https://commons.wikimedia.org/wiki/File:Titian_-_Portrait_of_Giulio_Romano_-_WGA22947.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Titian_-_Portrait_of_Giulio_Romano_-_WGA22947.jpg" alt="Giulio Romano" title="Titian, Portrait of Giulio Romano, c. 1536"></a>
+
 **c. 1499 – 1546** · Italian  
 Born: Rome · Died: Mantua  
 Styles: [Mannerism](../movements/mannerism.md)  
 
 > Raphael's chief assistant, painter and architect to the Gonzaga court at Mantua, whose Palazzo Te is the defining building of architectural Mannerism.
+
+<sub>Portrait: Titian, Portrait of Giulio Romano, c. 1536 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Titian_-_Portrait_of_Giulio_Romano_-_WGA22947.jpg)</sub>
 
 ## Biography
 

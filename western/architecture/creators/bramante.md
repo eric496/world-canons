@@ -1,10 +1,14 @@
 # Donato Bramante
 
+<a href="https://commons.wikimedia.org/wiki/File:Donato_Bramante.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Donato_Bramante.jpg" alt="Donato Bramante" title="Portrait of Donato Bramante"></a>
+
 **1444 – 1514** · Italian  
 Born: Fermignano, near Urbino · Died: Rome  
 Styles: [Renaissance](../movements/renaissance-architecture.md)  
 
 > Painter and architect who brought the High Renaissance to Rome with the Tempietto and the first design for the new St Peter's Basilica.
+
+<sub>Portrait: Portrait of Donato Bramante · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Donato_Bramante.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Bramante's Roman works, such as the cloister of Santa Maria della Pace and the T
 ## Key buildings
 
 ### Tempietto of San Pietro in Montorio (c. 1502–1510)
+
+[![Tempietto of San Pietro in Montorio](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tempietto_di_San_Pietro_in_Montorio.jpg/1280px-Tempietto_di_San_Pietro_in_Montorio.jpg)](https://commons.wikimedia.org/wiki/File:Tempietto_di_San_Pietro_in_Montorio.jpg)
+
+<sub>Bramante's Tempietto in the courtyard of San Pietro in Montorio, Rome Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Tempietto_di_San_Pietro_in_Montorio.jpg).</sub>
 
 - **Date:** c. 1502–1510
 - **Type:** Commemorative shrine

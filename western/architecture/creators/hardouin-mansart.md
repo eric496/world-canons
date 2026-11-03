@@ -1,10 +1,14 @@
 # Jules Hardouin-Mansart
 
+<a href="https://commons.wikimedia.org/wiki/File:Jules_Hardouin-Mansart%2C_Hyacinthe_Rigaud.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Jules_Hardouin-Mansart%2C_Hyacinthe_Rigaud.jpg" alt="Jules Hardouin-Mansart" title="Portrait of Jules Hardouin-Mansart, attributed to Hyacinthe Rigaud"></a>
+
 **1646 – 1708** · French  
 Born: Paris · Died: Marly-le-Roi  
 Styles: [Baroque](../movements/baroque.md)  
 
 > First Architect to Louis XIV, who enlarged Versailles, created its Hall of Mirrors and built the domed church of Les Invalides.
+
+<sub>Portrait: Portrait of Jules Hardouin-Mansart, attributed to Hyacinthe Rigaud · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jules_Hardouin-Mansart%2C_Hyacinthe_Rigaud.jpg)</sub>
 
 ## Biography
 
@@ -19,9 +23,9 @@ Running a large office of draughtsmen and designers, Hardouin-Mansart produced a
 
 ### Les Invalides (Dôme des Invalides) (1677–1706)
 
-[![Les Invalides (Dôme des Invalides)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg/1280px-H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg)](https://commons.wikimedia.org/wiki/File:H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg)
+[![Les Invalides (Dôme des Invalides)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/South_facade_of_D%C3%B4me_des_Invalides.jpg/1280px-South_facade_of_D%C3%B4me_des_Invalides.jpg)](https://commons.wikimedia.org/wiki/File:South_facade_of_D%C3%B4me_des_Invalides.jpg)
 
-<sub>Les Invalides (Dôme des Invalides), Paris, France Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg).</sub>
+<sub>The Dôme des Invalides, south façade Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:South_facade_of_D%C3%B4me_des_Invalides.jpg).</sub>
 
 - **Date:** 1677–1706
 - **Type:** Royal chapel, later mausoleum

@@ -1,11 +1,15 @@
 # Thomas Jefferson
 
+<a href="https://commons.wikimedia.org/wiki/File:Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg/330px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg" alt="Thomas Jefferson" title="Rembrandt Peale, portrait of Thomas Jefferson, 1800"></a>
+
 **1743 – 1826** · American  
 Born: Shadwell, Colony of Virginia · Died: Monticello, Virginia  
 Styles: [Palladianism & Neoclassicism](../movements/neoclassicism.md)  
 Also in: [History](../../history/creators/jefferson.md)  
 
 > Author of the Declaration of Independence and third US president, and a self-taught architect who designed Monticello, the Virginia State Capitol and the University of Virginia.
+
+<sub>Portrait: Rembrandt Peale, portrait of Thomas Jefferson, 1800 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg)</sub>
 
 ## Biography
 

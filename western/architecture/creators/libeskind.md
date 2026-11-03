@@ -16,6 +16,10 @@ Libeskind's buildings are made of sharp, intersecting volumes and slashed openin
 
 ### Jewish Museum Berlin (1992–1999; opened 2001)
 
+[![Jewish Museum Berlin](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin_J%C3%BCdisches_Museum_und_der_Libeskind-Bau.jpg/1280px-Berlin_J%C3%BCdisches_Museum_und_der_Libeskind-Bau.jpg)](https://commons.wikimedia.org/wiki/File:Berlin_J%C3%BCdisches_Museum_und_der_Libeskind-Bau.jpg)
+
+<sub>The Libeskind building beside the Baroque old building of the Jewish Museum Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Berlin_J%C3%BCdisches_Museum_und_der_Libeskind-Bau.jpg).</sub>
+
 - **Date:** 1992–1999; opened 2001
 - **Type:** Museum
 - **Location:** Kreuzberg, Berlin, Germany

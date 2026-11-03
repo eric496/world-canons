@@ -19,6 +19,10 @@ Herzog & de Meuron have no signature style; each project begins with experiments
 
 ### Tate Modern (1995–2000; extension 2016)
 
+[![Tate Modern](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tate_Modern_-_Bankside_Power_Station.jpg/1280px-Tate_Modern_-_Bankside_Power_Station.jpg)](https://commons.wikimedia.org/wiki/File:Tate_Modern_-_Bankside_Power_Station.jpg)
+
+<sub>Tate Modern, Bankside, London, England Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Tate_Modern_-_Bankside_Power_Station.jpg).</sub>
+
 - **Date:** 1995–2000; extension 2016
 - **Type:** Art museum in a former power station
 - **Location:** Bankside, London, England
@@ -27,6 +31,10 @@ Herzog & de Meuron have no signature style; each project begins with experiments
 Bankside Power Station, designed by Giles Gilbert Scott and built in stages from 1947 to 1963, closed in 1981. The Tate chose it for a new museum of modern and contemporary art, and Herzog & de Meuron won the competition in 1995 with a scheme that preserved the brick building and its tall chimney. They turned the former Turbine Hall into a vast covered street and space for commissioned installations, and added a two-storey light beam of glass along the roof. Tate Modern opened in 2000, received many more visitors than expected, and helped transform the South Bank. The architects added the Blavatnik Building, a twisted pyramid of perforated brick, in 2016. It is among the most visited museums of modern art in the world.
 
 ### Elbphilharmonie (2007–2016; opened 2017)
+
+[![Elbphilharmonie](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Elbphilharmonie_2025.jpg/1280px-Elbphilharmonie_2025.jpg)](https://commons.wikimedia.org/wiki/File:Elbphilharmonie_2025.jpg)
+
+<sub>Elbphilharmonie, HafenCity, Hamburg, Germany Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Elbphilharmonie_2025.jpg).</sub>
 
 - **Date:** 2007–2016; opened 2017
 - **Type:** Concert hall

@@ -1,11 +1,15 @@
 # Filippo Brunelleschi
 
+<a href="https://commons.wikimedia.org/wiki/File:Masaccio%2C_cappella_brancacci%2C_san_pietro_in_cattedra._ritratto_di_filippo_brunelleschi-184.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Masaccio%2C_cappella_brancacci%2C_san_pietro_in_cattedra._ritratto_di_filippo_brunelleschi-184.jpg/330px-Masaccio%2C_cappella_brancacci%2C_san_pietro_in_cattedra._ritratto_di_filippo_brunelleschi-184.jpg" alt="Filippo Brunelleschi" title="Masaccio, presumed portrait of Brunelleschi, Brancacci Chapel, Florence"></a>
+
 **1377 – 1446** · Florentine  
 Born: Florence · Died: Florence  
 Styles: [Renaissance](../movements/renaissance-architecture.md)  
 Also in: [Art](../../art/creators/brunelleschi.md)  
 
 > Goldsmith turned engineer and architect who built the dome of Florence Cathedral and, with buildings such as the Foundling Hospital and San Lorenzo, founded Renaissance architecture.
+
+<sub>Portrait: Masaccio, presumed portrait of Brunelleschi, Brancacci Chapel, Florence · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Masaccio%2C_cappella_brancacci%2C_san_pietro_in_cattedra._ritratto_di_filippo_brunelleschi-184.jpg)</sub>
 
 ## Biography
 

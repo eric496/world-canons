@@ -19,6 +19,9 @@ Pei worked in a sharply geometric modernism of triangles, prisms and precise sto
 
 ### Louvre Pyramid (1984–1989)
 
+> 🖼️ **[View it at Musée du Louvre →](https://www.louvre.fr/)**  
+> <sub>Still under copyright, so it is not reproduced here.</sub>
+
 - **Date:** 1984–1989
 - **Type:** Museum entrance
 - **Location:** Cour Napoléon, Louvre, Paris, France
@@ -27,6 +30,10 @@ Pei worked in a sharply geometric modernism of triangles, prisms and precise sto
 President François Mitterrand's Grand Louvre project moved the finance ministry out of the palace and reorganised the museum, and he chose I. M. Pei in 1983 without a competition. Pei proposed a vast underground reception hall under the Cour Napoléon, lit and marked by a glass pyramid about 21 metres high, flanked by smaller pyramids and fountains. Its steel framework and specially made clear glass were designed for maximum transparency, so that the historic façades are seen through it. The project was fiercely attacked in France as an alien intrusion, but the pyramid, opened in 1989, became one of the most recognisable images of Paris. An inverted pyramid was added in the underground shopping arcade in 1993.
 
 ### Bank of China Tower (1985–1990)
+
+[![Bank of China Tower](https://upload.wikimedia.org/wikipedia/commons/2/25/HK_Bank_of_China_Tower_2008_%282%29.jpg)](https://commons.wikimedia.org/wiki/File:HK_Bank_of_China_Tower_2008_%282%29.jpg)
+
+<sub>Bank of China Tower, Central, Hong Kong Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:HK_Bank_of_China_Tower_2008_%282%29.jpg).</sub>
 
 - **Date:** 1985–1990
 - **Type:** Office skyscraper

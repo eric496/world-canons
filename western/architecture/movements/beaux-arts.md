@@ -12,7 +12,7 @@ Taught at the École des Beaux-Arts in Paris, this academic style combined rigor
 
 ## Architects
 
--  [Charles Garnier](../creators/garnier.md) (1825 – 1898)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Charles_Garnier_1868_by_Paul_Baudry_1828_1886_edit.jpg/330px-Charles_Garnier_1868_by_Paul_Baudry_1828_1886_edit.jpg" width="40" alt="Charles Garnier"> [Charles Garnier](../creators/garnier.md) (1825 – 1898)
 -  [Daniel Burnham](../creators/burnham.md) (1846 – 1912)
 
 ## Key buildings

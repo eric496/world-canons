@@ -16,6 +16,10 @@ Calatrava's work merges sculpture, architecture and engineering in white steel a
 
 ### City of Arts and Sciences (1991–2009)
 
+[![City of Arts and Sciences](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hemisferic_y_Palacio_de_las_Artes_Reina_Sofia%2C_Valencia.jpg/1280px-Hemisferic_y_Palacio_de_las_Artes_Reina_Sofia%2C_Valencia.jpg)](https://commons.wikimedia.org/wiki/File:Hemisferic_y_Palacio_de_las_Artes_Reina_Sofia%2C_Valencia.jpg)
+
+<sub>The Hemisfèric and the Palau de les Arts Reina Sofia Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Hemisferic_y_Palacio_de_las_Artes_Reina_Sofia%2C_Valencia.jpg).</sub>
+
 - **Date:** 1991–2009
 - **Type:** Cultural complex
 - **Location:** Valencia, Spain

@@ -16,6 +16,10 @@ In Complexity and Contradiction in Architecture (1966) Venturi defended ambiguit
 
 ### Vanna Venturi House (1962–1964)
 
+[![Vanna Venturi House](https://upload.wikimedia.org/wikipedia/commons/6/62/VVenturi_House_Highsmith.jpeg)](https://commons.wikimedia.org/wiki/File:VVenturi_House_Highsmith.jpeg)
+
+<sub>Vanna Venturi House, Chestnut Hill, Philadelphia, Pennsylvania, United States Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:VVenturi_House_Highsmith.jpeg).</sub>
+
 - **Date:** 1962–1964
 - **Type:** House
 - **Location:** Chestnut Hill, Philadelphia, Pennsylvania, United States

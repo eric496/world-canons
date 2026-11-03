@@ -20,6 +20,10 @@ Foster's buildings emphasise lightweight structure, prefabrication, daylight and
 
 ### HSBC Main Building, Hong Kong (1979–1986)
 
+[![HSBC Main Building, Hong Kong](https://upload.wikimedia.org/wikipedia/commons/3/38/HK_HSBC_Main_Building_2008.jpg)](https://commons.wikimedia.org/wiki/File:HK_HSBC_Main_Building_2008.jpg)
+
+<sub>HSBC Main Building, Hong Kong, Central, Hong Kong Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:HK_HSBC_Main_Building_2008.jpg).</sub>
+
 - **Date:** 1979–1986
 - **Type:** Bank headquarters
 - **Location:** Central, Hong Kong
@@ -29,6 +33,10 @@ The Hongkong and Shanghai Banking Corporation commissioned Norman Foster to rebu
 
 ### Reichstag Dome (1992–1999)
 
+[![Reichstag Dome](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Reichstag_dome_interior_%288423297236%29.jpg/1280px-Reichstag_dome_interior_%288423297236%29.jpg)](https://commons.wikimedia.org/wiki/File:Reichstag_dome_interior_%288423297236%29.jpg)
+
+<sub>Inside the Reichstag dome, with its spiral ramps and mirrored cone Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Reichstag_dome_interior_%288423297236%29.jpg).</sub>
+
 - **Date:** 1992–1999
 - **Type:** Parliament building renovation
 - **Location:** Berlin, Germany
@@ -37,6 +45,10 @@ The Hongkong and Shanghai Banking Corporation commissioned Norman Foster to rebu
 After German reunification, the Bundestag decided to move back to the Reichstag building, completed in 1894 to a design by Paul Wallot, burned in 1933 and badly damaged in 1945. Foster and Partners won the competition to rebuild it, and the scheme was preceded by Christo and Jeanne-Claude's wrapping of the building in 1995. Inside the gutted shell, Foster created a new plenary chamber and offices, and crowned it with a glass dome, with two spiral ramps on which visitors can walk above the legislators, a symbol of transparency and democratic accountability. A mirrored cone at the centre reflects daylight into the chamber and draws out exhaust air. Graffiti by Soviet soldiers from 1945 were preserved in the interiors. It opened in 1999.
 
 ### 30 St Mary Axe (The Gherkin) (2001–2004)
+
+[![30 St Mary Axe (The Gherkin)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/30_St_Mary_Axe%2C_%27Gherkin%27.JPG/960px-30_St_Mary_Axe%2C_%27Gherkin%27.JPG)](https://commons.wikimedia.org/wiki/File:30_St_Mary_Axe%2C_%27Gherkin%27.JPG)
+
+<sub>30 St Mary Axe (The Gherkin), City of London, England Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:30_St_Mary_Axe%2C_%27Gherkin%27.JPG).</sub>
 
 - **Date:** 2001–2004
 - **Type:** Office tower

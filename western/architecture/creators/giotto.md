@@ -1,11 +1,15 @@
 # Giotto di Bondone
 
+<a href="https://commons.wikimedia.org/wiki/File:Giotto%2C_Santa_Maria_Novella.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Giotto%2C_Santa_Maria_Novella.jpg" alt="Giotto di Bondone" title="Portrait of Giotto, Santa Maria Novella, Florence"></a>
+
 **c. 1267 – 1337** · Florentine  
 Born: Vespignano, near Florence · Died: Florence  
 Styles: [Gothic](../movements/gothic.md)  
 Also in: [Art](../../art/creators/giotto.md)  
 
 > The great Florentine painter, appointed in 1334 master of works of Florence Cathedral, who designed its marble-clad bell tower.
+
+<sub>Portrait: Portrait of Giotto, Santa Maria Novella, Florence · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giotto%2C_Santa_Maria_Novella.jpg)</sub>
 
 ## Biography
 

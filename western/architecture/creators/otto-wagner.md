@@ -16,6 +16,10 @@ Wagner's later buildings are clad in thin panels of marble or tile fixed with vi
 
 ### Austrian Postal Savings Bank (1904–1906; 1910–1912)
 
+[![Austrian Postal Savings Bank](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/P.S.K._Vienna_August_2006_030.jpg/1280px-P.S.K._Vienna_August_2006_030.jpg)](https://commons.wikimedia.org/wiki/File:P.S.K._Vienna_August_2006_030.jpg)
+
+<sub>Austrian Postal Savings Bank, Vienna, Austria Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:P.S.K._Vienna_August_2006_030.jpg).</sub>
+
 - **Date:** 1904–1906; 1910–1912
 - **Type:** Bank
 - **Location:** Vienna, Austria

@@ -1,10 +1,14 @@
 # Claude-Nicolas Ledoux
 
+<a href="https://commons.wikimedia.org/wiki/File:Claude_Nicolas_Ledoux_by_Martin_Drolling.JPG"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Claude_Nicolas_Ledoux_by_Martin_Drolling.JPG/330px-Claude_Nicolas_Ledoux_by_Martin_Drolling.JPG" alt="Claude-Nicolas Ledoux" title="Martin Drolling, portrait of Claude-Nicolas Ledoux"></a>
+
 **1736 – 1806** · French  
 Born: Dormans, Champagne · Died: Paris  
 Styles: [Palladianism & Neoclassicism](../movements/neoclassicism.md)  
 
 > Visionary French Neoclassical architect of the Royal Saltworks at Arc-et-Senans and the Paris toll gates, whose ideal city anticipated modern planning.
+
+<sub>Portrait: Martin Drolling, portrait of Claude-Nicolas Ledoux · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Claude_Nicolas_Ledoux_by_Martin_Drolling.JPG)</sub>
 
 ## Biography
 

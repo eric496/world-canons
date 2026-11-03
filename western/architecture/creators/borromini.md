@@ -1,10 +1,14 @@
 # Francesco Borromini
 
+<a href="https://commons.wikimedia.org/wiki/File:Borromini.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Borromini.jpg" alt="Francesco Borromini" title="Portrait of Francesco Borromini"></a>
+
 **1599 – 1667** · Italian (Ticinese)  
 Born: Bissone, Ticino · Died: Rome  
 Styles: [Baroque](../movements/baroque.md)  
 
 > Brilliant and difficult Baroque architect whose churches of San Carlo alle Quattro Fontane and Sant'Ivo alla Sapienza fold walls and domes into complex geometry.
+
+<sub>Portrait: Portrait of Francesco Borromini · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Borromini.jpg)</sub>
 
 ## Biography
 

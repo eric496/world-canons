@@ -19,6 +19,10 @@ Gropius saw architecture as a collective, rational discipline uniting the arts w
 
 ### Fagus Factory (1911–1925)
 
+[![Fagus Factory](https://upload.wikimedia.org/wikipedia/commons/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg)](https://commons.wikimedia.org/wiki/File:Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg)
+
+<sub>Fagus Factory, Alfeld, Lower Saxony, Germany Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg).</sub>
+
 - **Date:** 1911–1925
 - **Type:** Factory
 - **Location:** Alfeld, Lower Saxony, Germany
@@ -27,6 +31,10 @@ Gropius saw architecture as a collective, rational discipline uniting the arts w
 Carl Benscheidt, a manufacturer of shoe lasts, commissioned Walter Gropius and Adolf Meyer in 1911 to redesign the façade of his new factory, whose plan had already been drawn by another architect. Gropius and Meyer gave the main building walls of glass and steel set in front of the brick piers, and wrapped the glass around the corners without corner supports, so that the walls seem weightless. The building expressed a modern, light and healthy workplace, and its image was meant to advertise the company. Further buildings were added until 1925, including interiors in the early Bauhaus style. The factory is still in operation, making shoe lasts, and was inscribed as a UNESCO World Heritage Site in 2011.
 
 ### Bauhaus Building, Dessau (1925–1926)
+
+[![Bauhaus Building, Dessau](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dessau_Bauhaus-Geb%C3%A4ude_asv2024-06_img1.jpg/1280px-Dessau_Bauhaus-Geb%C3%A4ude_asv2024-06_img1.jpg)](https://commons.wikimedia.org/wiki/File:Dessau_Bauhaus-Geb%C3%A4ude_asv2024-06_img1.jpg)
+
+<sub>Bauhaus Building, Dessau, Dessau, Saxony-Anhalt, Germany Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Dessau_Bauhaus-Geb%C3%A4ude_asv2024-06_img1.jpg).</sub>
 
 - **Date:** 1925–1926
 - **Type:** Art and design school

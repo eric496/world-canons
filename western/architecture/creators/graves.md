@@ -16,6 +16,10 @@ Graves's architecture uses simplified columns, keystones and garlands in pastel 
 
 ### Portland Building (1980–1982)
 
+[![Portland Building](https://upload.wikimedia.org/wikipedia/commons/7/76/Portland_Building_1982.jpg)](https://commons.wikimedia.org/wiki/File:Portland_Building_1982.jpg)
+
+<sub>Portland Building, Portland, Oregon, United States Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Portland_Building_1982.jpg).</sub>
+
 - **Date:** 1980–1982
 - **Type:** Municipal office building
 - **Location:** Portland, Oregon, United States

@@ -1,10 +1,14 @@
 # Karl Friedrich Schinkel
 
+<a href="https://commons.wikimedia.org/wiki/File:Schinkel1.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Schinkel1.jpg/330px-Schinkel1.jpg" alt="Karl Friedrich Schinkel" title="Portrait of Karl Friedrich Schinkel"></a>
+
 **1781 – 1841** · Prussian  
 Born: Neuruppin, Brandenburg · Died: Berlin  
 Styles: [Palladianism & Neoclassicism](../movements/neoclassicism.md), [Gothic Revival](../movements/gothic-revival.md)  
 
 > The great architect of Prussia, who made Berlin a Neoclassical capital with the Neue Wache, the Schauspielhaus and the Altes Museum.
+
+<sub>Portrait: Portrait of Karl Friedrich Schinkel · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Schinkel1.jpg)</sub>
 
 ## Biography
 

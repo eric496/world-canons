@@ -1,10 +1,14 @@
 # Charles Barry
 
+<a href="https://commons.wikimedia.org/wiki/File:Sir_Charles_Barry_by_John_Prescott_Knight.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Sir_Charles_Barry_by_John_Prescott_Knight.jpg" alt="Charles Barry" title="John Prescott Knight, portrait of Charles Barry"></a>
+
 **1795 – 1860** · English  
 Born: London · Died: London  
 Styles: [Gothic Revival](../movements/gothic-revival.md)  
 
 > Victorian architect who won the competition to rebuild the Palace of Westminster after the fire of 1834, working with Augustus Pugin.
+
+<sub>Portrait: John Prescott Knight, portrait of Charles Barry · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sir_Charles_Barry_by_John_Prescott_Knight.jpg)</sub>
 
 ## Biography
 

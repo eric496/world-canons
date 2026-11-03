@@ -20,6 +20,9 @@ His five points of a new architecture (pilotis, roof garden, free plan, ribbon w
 
 ### Villa Savoye (1928–1931)
 
+> 🖼️ **[View it at Villa Savoye (Centre des monuments nationaux) →](https://www.villa-savoye.fr/)**  
+> <sub>Still under copyright, so it is not reproduced here.</sub>
+
 - **Date:** 1928–1931
 - **Type:** Country house
 - **Location:** Poissy, near Paris, France
@@ -29,6 +32,9 @@ Pierre and Eugénie Savoye commissioned a weekend house on a meadow at Poissy, a
 
 ### Unité d'Habitation, Marseille (1947–1952)
 
+> 🖼️ **[View it at Fondation Le Corbusier →](https://www.fondationlecorbusier.fr/)**  
+> <sub>Still under copyright, so it is not reproduced here.</sub>
+
 - **Date:** 1947–1952
 - **Type:** Housing block
 - **Location:** Marseille, France
@@ -37,6 +43,9 @@ Pierre and Eugénie Savoye commissioned a weekend house on a meadow at Poissy, a
 After the Second World War the French reconstruction ministry commissioned Le Corbusier to build a prototype of mass housing in Marseille. The Unité d'Habitation, also called the Cité Radieuse, is a slab of eighteen storeys on massive tapering pilotis, containing 337 apartments of twenty-three types for up to about 1,600 people. Most flats are two-storey units interlocking around internal 'streets' every third floor, with a double-height living room and a balcony on each side, shaded by deep sun-breakers. Halfway up, a street of shops and a hotel, and on the roof a nursery school, a running track, a paddling pool and sculptural ventilation stacks, make it a vertical village. Its rough board-marked concrete, béton brut, gave Brutalism its name, and its proportions follow Le Corbusier's Modulor. Variants were built in Nantes, Berlin, Briey and Firminy.
 
 ### Notre-Dame du Haut, Ronchamp (1950–1955)
+
+> 🖼️ **[View it at Colline Notre-Dame du Haut →](https://www.collinenotredameduhaut.com/)**  
+> <sub>Still under copyright, so it is not reproduced here.</sub>
 
 - **Date:** 1950–1955
 - **Type:** Pilgrimage chapel

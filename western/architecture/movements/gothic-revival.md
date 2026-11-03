@@ -12,9 +12,9 @@ First a picturesque taste for medieval ruins and castles, the Gothic Revival bec
 
 ## Architects
 
--  [Karl Friedrich Schinkel](../creators/schinkel.md) (1781 – 1841)
--  [Charles Barry](../creators/barry.md) (1795 – 1860)
--  [Augustus Welby Northmore Pugin](../creators/pugin.md) (1812 – 1852)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Schinkel1.jpg/330px-Schinkel1.jpg" width="40" alt="Karl Friedrich Schinkel"> [Karl Friedrich Schinkel](../creators/schinkel.md) (1781 – 1841)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Sir_Charles_Barry_by_John_Prescott_Knight.jpg" width="40" alt="Charles Barry"> [Charles Barry](../creators/barry.md) (1795 – 1860)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Augustus_Welby_Northmore_Pugin_from_NPG.jpg/330px-Augustus_Welby_Northmore_Pugin_from_NPG.jpg" width="40" alt="Augustus Welby Northmore Pugin"> [Augustus Welby Northmore Pugin](../creators/pugin.md) (1812 – 1852)
 -  [Eugène Viollet-le-Duc](../creators/viollet-le-duc.md) (1814 – 1879)
 
 ## Key buildings

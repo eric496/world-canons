@@ -19,6 +19,10 @@ Saarinen believed each building should have a style suited to its purpose, which
 
 ### TWA Flight Center (1959–1962)
 
+[![TWA Flight Center](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ehemaliges_TWA-Terminal_am_John_F._Kennedy_International_Airport_in_New_York.JPG/1280px-Ehemaliges_TWA-Terminal_am_John_F._Kennedy_International_Airport_in_New_York.JPG)](https://commons.wikimedia.org/wiki/File:Ehemaliges_TWA-Terminal_am_John_F._Kennedy_International_Airport_in_New_York.JPG)
+
+<sub>TWA Flight Center, John F. Kennedy International Airport, New York City, United States Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Ehemaliges_TWA-Terminal_am_John_F._Kennedy_International_Airport_in_New_York.JPG).</sub>
+
 - **Date:** 1959–1962
 - **Type:** Airport terminal
 - **Location:** John F. Kennedy International Airport, New York City, United States
@@ -27,6 +31,10 @@ Saarinen believed each building should have a style suited to its purpose, which
 Trans World Airlines commissioned Eero Saarinen to design its terminal at what was then Idlewild Airport, and he sought to capture the excitement of flight. Four thin concrete shells, curved like wings and meeting at a central skylight, are supported on Y-shaped piers; under them, the interior flows without straight lines, with curving stairs, balconies, a sunken lounge with views of the runways, and tubular corridors to the gates, all in white tiles and red carpet. Saarinen died before it opened in 1962, and his office completed it. The terminal could not adapt to jumbo jets and security screening, and closed in 2001. Designated a New York City landmark in 1994, it reopened in 2019 as the lobby of the TWA Hotel.
 
 ### Gateway Arch (1963–1965)
+
+[![Gateway Arch](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/St_Louis_night_expblend_cropped.jpg/1280px-St_Louis_night_expblend_cropped.jpg)](https://commons.wikimedia.org/wiki/File:St_Louis_night_expblend_cropped.jpg)
+
+<sub>Gateway Arch, St Louis, Missouri, United States Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:St_Louis_night_expblend_cropped.jpg).</sub>
 
 - **Date:** 1963–1965
 - **Type:** Monument

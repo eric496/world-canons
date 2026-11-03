@@ -1,10 +1,14 @@
 # Johann Bernhard Fischer von Erlach
 
+<a href="https://commons.wikimedia.org/wiki/File:Johann_Bernhard_Fischer_von_Erlach_by_%C3%81d%C3%A1m_M%C3%A1nyoki.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Johann_Bernhard_Fischer_von_Erlach_by_%C3%81d%C3%A1m_M%C3%A1nyoki.jpg/330px-Johann_Bernhard_Fischer_von_Erlach_by_%C3%81d%C3%A1m_M%C3%A1nyoki.jpg" alt="Johann Bernhard Fischer von Erlach" title="Ádám Mányoki, portrait of Fischer von Erlach"></a>
+
 **1656 – 1723** · Austrian  
 Born: Graz · Died: Vienna  
 Styles: [Baroque](../movements/baroque.md)  
 
 > Leading architect of Habsburg Vienna, designer of the Karlskirche, and author of the first illustrated world history of architecture.
+
+<sub>Portrait: Ádám Mányoki, portrait of Fischer von Erlach · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johann_Bernhard_Fischer_von_Erlach_by_%C3%81d%C3%A1m_M%C3%A1nyoki.jpg)</sub>
 
 ## Biography
 

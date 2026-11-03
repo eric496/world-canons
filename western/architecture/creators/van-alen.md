@@ -16,6 +16,10 @@ Van Alen rejected historical styles for an architecture of modern materials and 
 
 ### Chrysler Building (1928–1930)
 
+[![Chrysler Building](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/View_of_Chrysler_Building_from_Empire_State_Building%2C_New_York_City%2C_20231001_1510_1364.jpg/1280px-View_of_Chrysler_Building_from_Empire_State_Building%2C_New_York_City%2C_20231001_1510_1364.jpg)](https://commons.wikimedia.org/wiki/File:View_of_Chrysler_Building_from_Empire_State_Building%2C_New_York_City%2C_20231001_1510_1364.jpg)
+
+<sub>The crown of the Chrysler Building seen from the Empire State Building Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:View_of_Chrysler_Building_from_Empire_State_Building%2C_New_York_City%2C_20231001_1510_1364.jpg).</sub>
+
 - **Date:** 1928–1930
 - **Type:** Skyscraper
 - **Location:** Manhattan, New York City, United States

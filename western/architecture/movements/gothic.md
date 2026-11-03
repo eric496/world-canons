@@ -12,14 +12,14 @@ Beginning at Saint-Denis near Paris, the pointed arch, rib vault and flying butt
 
 ## Architects
 
--  [Abbot Suger](../creators/abbot-suger.md) (c. 1081 – 1151)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Abbot_Suger.jpg" width="40" alt="Abbot Suger"> [Abbot Suger](../creators/abbot-suger.md) (c. 1081 – 1151)
 -  [Master builders of Notre-Dame](../creators/notre-dame-master-builders.md) (active 1163–c. 1345 – )
 -  [Master builders of Chartres](../creators/chartres-master-builders.md) (active c. 1194–1260 – )
 -  [Pierre de Montreuil](../creators/pierre-de-montreuil.md) (c. 1200 – 1267)
 -  [Gothic master builders](../creators/gothic-master-builders.md) (active 12th–16th century – )
 -  [Arnolfo di Cambio](../creators/arnolfo.md) (c. 1240 – c. 1300–1310)
--  [Giotto di Bondone](../creators/giotto.md) (c. 1267 – 1337)
--  [Peter Parler](../creators/parler.md) (c. 1330 – 1399)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Giotto%2C_Santa_Maria_Novella.jpg" width="40" alt="Giotto di Bondone"> [Giotto di Bondone](../creators/giotto.md) (c. 1267 – 1337)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Busta_Petr_Parl%C3%A9%C5%99.jpg/330px-Busta_Petr_Parl%C3%A9%C5%99.jpg" width="40" alt="Peter Parler"> [Peter Parler](../creators/parler.md) (c. 1330 – 1399)
 
 ## Key buildings
 
@@ -33,7 +33,7 @@ Beginning at Saint-Denis near Paris, the pointed arch, rib vault and flying butt
 | <a href="https://commons.wikimedia.org/wiki/File:SalisburyCathedral-wyrdlight-EastExt.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/SalisburyCathedral-wyrdlight-EastExt.jpg" width="140" alt="Salisbury Cathedral"></a> | 1220–1258; spire c. 1320 | **Salisbury Cathedral** | [Gothic master builders](../creators/gothic-master-builders.md) | Salisbury, England |
 | <a href="https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sainte_Chapelle_-_Upper_level_1.jpg/330px-Sainte_Chapelle_-_Upper_level_1.jpg" width="140" alt="Sainte-Chapelle"></a> | 1242–1248 | **Sainte-Chapelle** | [Pierre de Montreuil](../creators/pierre-de-montreuil.md) | Île de la Cité, Paris, France |
 | <a href="https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/330px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg" width="140" alt="Cologne Cathedral"></a> | 1248–1880 | **Cologne Cathedral** | [Gothic master builders](../creators/gothic-master-builders.md) | Cologne, Germany |
-| — | 1294–1385 | **Basilica of Santa Croce** | [Arnolfo di Cambio](../creators/arnolfo.md) | Florence, Italy |
+| <a href="https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_la_Santa_Cruz%2C_Florencia%2C_Italia%2C_2022-09-18%2C_DD_95.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bas%C3%ADlica_de_la_Santa_Cruz%2C_Florencia%2C_Italia%2C_2022-09-18%2C_DD_95.jpg/330px-Bas%C3%ADlica_de_la_Santa_Cruz%2C_Florencia%2C_Italia%2C_2022-09-18%2C_DD_95.jpg" width="140" alt="Basilica of Santa Croce"></a> | 1294–1385 | **Basilica of Santa Croce** | [Arnolfo di Cambio](../creators/arnolfo.md) | Florence, Italy |
 | <a href="https://commons.wikimedia.org/wiki/File:Piazza_della_signoria%2C_palazzo_vecchio%2C_veduta_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Piazza_della_signoria%2C_palazzo_vecchio%2C_veduta_01.jpg/330px-Piazza_della_signoria%2C_palazzo_vecchio%2C_veduta_01.jpg" width="140" alt="Palazzo Vecchio"></a> | 1299–1314 | **Palazzo Vecchio** | [Arnolfo di Cambio](../creators/arnolfo.md) | Piazza della Signoria, Florence, Italy |
 | <a href="https://commons.wikimedia.org/wiki/File:CampanileGiotto-01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/CampanileGiotto-01.jpg/330px-CampanileGiotto-01.jpg" width="140" alt="Florence Campanile"></a> | 1334–c. 1359 | **Florence Campanile** | [Giotto di Bondone](../creators/giotto.md) | Florence, Italy |
 | <a href="https://commons.wikimedia.org/wiki/File:PragueCathedral03.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PragueCathedral03.jpg/330px-PragueCathedral03.jpg" width="140" alt="St Vitus Cathedral"></a> | 1344–1929 | **St Vitus Cathedral** | [Peter Parler](../creators/parler.md) | Prague Castle, Prague, Czech Republic |

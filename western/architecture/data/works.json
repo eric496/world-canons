@@ -67,7 +67,9 @@
   "type": "Theatre",
   "location": "Epidaurus, Peloponnese, Greece",
   "note": "The best-preserved Greek theatre, renowned for its proportions and acoustics.",
-  "description": "The theatre in the sanctuary of Asclepius at Epidaurus, a healing centre that drew pilgrims from across Greece, was built in the late fourth century BC and extended in the second. Pausanias attributed it to Polykleitos the Younger, an attribution modern scholars treat with caution. Its limestone seats, for around 13,000 spectators, rise in a slightly more than semicircular bowl around a full circular orchestra, set into a natural hillside. The theatre is famous for its acoustics, which carry even a whisper from the orchestra to the upper rows, an effect researchers have linked to the way the rows of seats filter low-frequency noise. Buried for centuries and excavated from 1881, it is again used for performances of ancient drama each summer."
+  "description": "The theatre in the sanctuary of Asclepius at Epidaurus, a healing centre that drew pilgrims from across Greece, was built in the late fourth century BC and extended in the second. Pausanias attributed it to Polykleitos the Younger, an attribution modern scholars treat with caution. Its limestone seats, for around 13,000 spectators, rise in a slightly more than semicircular bowl around a full circular orchestra, set into a natural hillside. The theatre is famous for its acoustics, which carry even a whisper from the orchestra to the upper rows, an effect researchers have linked to the way the rows of seats filter low-frequency noise. Buried for centuries and excavated from 1881, it is again used for performances of ancient drama each summer.",
+  "image_file": "Theatre of Epidaurus OLC.jpg",
+  "image_caption": "The theatre of Epidaurus seen from the upper rows"
  },
  {
   "title": "De architectura (Ten Books on Architecture)",
@@ -425,7 +427,9 @@
   "type": "Franciscan church",
   "location": "Florence, Italy",
   "note": "The great Franciscan church of Florence, burial place of Michelangelo, Galileo and Machiavelli.",
-  "description": "Santa Croce was begun in 1294 for the Franciscan friars, who needed a vast hall for preaching to the crowds of Florence; Vasari attributed the design to Arnolfo di Cambio. Its wide nave, lined by octagonal piers and covered with an open timber roof, gives a broad, airy space quite different from the vaulted cathedrals of France. Rich Florentine families endowed its chapels, which Giotto and his followers decorated with frescoes, among them Giotto's scenes of Saint Francis in the Bardi Chapel. Brunelleschi's Pazzi Chapel stands in the cloister. Santa Croce holds the tombs or memorials of Michelangelo, Galileo, Machiavelli, Rossini and Dante (whose body remains in Ravenna), and its neo-Gothic marble façade was added only in 1857–63. The flood of 1966 caused grave damage, including to Cimabue's crucifix."
+  "description": "Santa Croce was begun in 1294 for the Franciscan friars, who needed a vast hall for preaching to the crowds of Florence; Vasari attributed the design to Arnolfo di Cambio. Its wide nave, lined by octagonal piers and covered with an open timber roof, gives a broad, airy space quite different from the vaulted cathedrals of France. Rich Florentine families endowed its chapels, which Giotto and his followers decorated with frescoes, among them Giotto's scenes of Saint Francis in the Bardi Chapel. Brunelleschi's Pazzi Chapel stands in the cloister. Santa Croce holds the tombs or memorials of Michelangelo, Galileo, Machiavelli, Rossini and Dante (whose body remains in Ravenna), and its neo-Gothic marble façade was added only in 1857–63. The flood of 1966 caused grave damage, including to Cimabue's crucifix.",
+  "image_file": "Basílica de la Santa Cruz, Florencia, Italia, 2022-09-18, DD 95.jpg",
+  "image_caption": "Basilica of Santa Croce, Florence, Italy"
  },
  {
   "title": "Dome of Florence Cathedral",
@@ -507,7 +511,9 @@
   "type": "Commemorative shrine",
   "location": "Rome, Italy",
   "note": "A small round temple marking the traditional site of Saint Peter's martyrdom, the emblem of the High Renaissance.",
-  "description": "The Tempietto, 'little temple', stands in the cloister of San Pietro in Montorio on the Janiculum, on the spot where tradition held that Saint Peter was crucified. It was commissioned by Ferdinand and Isabella of Spain; its date is debated, though an inscription gives 1502. Bramante based it on round Roman temples such as that at Tivoli: a cylindrical cella ringed by sixteen Tuscan Doric columns, a balustrade, a drum and a hemispherical dome, with a crypt below. Only about four and a half metres across inside, it has a monumental gravity. Bramante planned a circular colonnaded courtyard around it, which was not built but is known from Serlio's treatise. Serlio published it, and Palladio included it in his Four Books as the only modern building among the ancient temples; it inspired domes such as that of St Paul's."
+  "description": "The Tempietto, 'little temple', stands in the cloister of San Pietro in Montorio on the Janiculum, on the spot where tradition held that Saint Peter was crucified. It was commissioned by Ferdinand and Isabella of Spain; its date is debated, though an inscription gives 1502. Bramante based it on round Roman temples such as that at Tivoli: a cylindrical cella ringed by sixteen Tuscan Doric columns, a balustrade, a drum and a hemispherical dome, with a crypt below. Only about four and a half metres across inside, it has a monumental gravity. Bramante planned a circular colonnaded courtyard around it, which was not built but is known from Serlio's treatise. Serlio published it, and Palladio included it in his Four Books as the only modern building among the ancient temples; it inspired domes such as that of St Paul's.",
+  "image_file": "Tempietto di San Pietro in Montorio.jpg",
+  "image_caption": "Bramante's Tempietto in the courtyard of San Pietro in Montorio, Rome"
  },
  {
   "title": "St Peter's Basilica",
@@ -710,8 +716,8 @@
   "location": "Versailles, France",
   "note": "Louis XIV's palace, gardens and court, the model of royal magnificence for all Europe.",
   "description": "Louis XIII had a hunting lodge at Versailles, and from 1661 his son Louis XIV began transforming it. Le Vau wrapped the old brick château in a stone envelope from 1668, with a terrace facing the gardens. From 1678 Jules Hardouin-Mansart enlarged the palace, filling the terrace with the Hall of Mirrors and adding long north and south wings, and in 1682 the king moved the court and government there. Le Brun directed the decoration and Le Nôtre laid out the vast gardens with their parterres, fountains and Grand Canal. The palace became an instrument of rule, where nobles were kept close to the king in an elaborate etiquette. The Revolution forced Louis XVI to leave in 1789; Louis-Philippe made it a museum of French history in 1837, and the treaty ending the First World War was signed there in 1919.",
-  "image_file": "Versailles Palace (FRA) – Equestrian Olympic Venue.jpg",
-  "image_caption": "Palace of Versailles, Versailles, France"
+  "image_file": "Château de Versailles Cour de Marbre 20170617 facade.jpg",
+  "image_caption": "Palace of Versailles, the Marble Court"
  },
  {
   "title": "Hall of Mirrors",
@@ -734,8 +740,8 @@
   "location": "Paris, France",
   "note": "The gilded domed church of the hospital for old soldiers, where Napoleon is buried.",
   "description": "Louis XIV founded the Hôtel des Invalides in 1670 to house disabled and aged soldiers, and Libéral Bruant built its courtyards and soldiers' church. In 1677 Hardouin-Mansart was commissioned to add a royal chapel joined to the soldiers' church, completed in 1706. It is a centrally planned church under a dome, with a two-storey columned façade, and the dome has three shells: an inner one open at the top, through which one sees a painted second dome lit by hidden windows, and an outer timber and lead dome rising to a gilded lantern 107 metres high. Admired as the finest French classical dome, it was regilded in 1989. In 1840 Napoleon's remains were returned from Saint Helena, and Louis Visconti designed his red quartzite tomb in a crypt under the dome, completed in 1861.",
-  "image_file": "Hôtel des Invalides from the Eiffel Tower, 23 July 2009.jpg",
-  "image_caption": "Les Invalides (Dôme des Invalides), Paris, France"
+  "image_file": "South facade of Dôme des Invalides.jpg",
+  "image_caption": "The Dôme des Invalides, south façade"
  },
  {
   "title": "St Paul's Cathedral",
@@ -877,7 +883,9 @@
   "type": "House and museum",
   "location": "Lincoln's Inn Fields, London, England",
   "note": "Soane's house, office and museum, a labyrinth of top-lit rooms crammed with antiquities and art.",
-  "description": "Soane bought and rebuilt three adjoining houses on Lincoln's Inn Fields between 1792 and 1824, turning them into a home, an office for his practice and a museum for his students. Behind a façade with a projecting loggia of Portland stone, small rooms open into each other through arches, shafts and domes, lit from above by coloured glass and multiplied by convex mirrors. Casts, fragments, models, drawings and urns cover the walls, around a domed space and a crypt containing the sarcophagus of the Egyptian pharaoh Seti I, bought in 1824. A picture room with hinged panels holds Hogarth's series A Rake's Progress and An Election, as well as paintings by Canaletto and Turner. An Act of Parliament of 1833 preserved the house as Soane left it, free to visitors, and so it remains."
+  "description": "Soane bought and rebuilt three adjoining houses on Lincoln's Inn Fields between 1792 and 1824, turning them into a home, an office for his practice and a museum for his students. Behind a façade with a projecting loggia of Portland stone, small rooms open into each other through arches, shafts and domes, lit from above by coloured glass and multiplied by convex mirrors. Casts, fragments, models, drawings and urns cover the walls, around a domed space and a crypt containing the sarcophagus of the Egyptian pharaoh Seti I, bought in 1824. A picture room with hinged panels holds Hogarth's series A Rake's Progress and An Election, as well as paintings by Canaletto and Turner. An Act of Parliament of 1833 preserved the house as Soane left it, free to visitors, and so it remains.",
+  "image_file": "Sir John Soane's Museum, 13 Lincoln's Inn Fields, London WC2 - geograph.org.uk - 399109.jpg",
+  "image_caption": "The façade of Sir John Soane's Museum, 13 Lincoln's Inn Fields"
  },
  {
   "title": "Palace of Westminster",
@@ -959,7 +967,9 @@
   "type": "Lattice tower",
   "location": "Champ de Mars, Paris, France",
   "note": "The 300-metre wrought-iron tower of the 1889 Exposition, the tallest structure in the world until 1930.",
-  "description": "For the Exposition Universelle of 1889, celebrating the centenary of the Revolution, the government held a competition for a tower 300 metres high. Eiffel's company won with a design developed by its engineers Maurice Koechlin and Émile Nouguier and the architect Stephen Sauvestre. About 18,000 wrought-iron parts, designed and prefabricated in the company's workshops, were joined with some 2.5 million rivets in just over two years. Four curved legs, shaped to resist the wind, rise to three platforms. Prominent artists and writers protested in 1887 against what they called a useless and monstrous tower. It was meant to stand only for twenty years, but its usefulness for radio transmission saved it. The tallest structure in the world until the Chrysler Building of 1930, it became the symbol of Paris and one of the most visited monuments in the world."
+  "description": "For the Exposition Universelle of 1889, celebrating the centenary of the Revolution, the government held a competition for a tower 300 metres high. Eiffel's company won with a design developed by its engineers Maurice Koechlin and Émile Nouguier and the architect Stephen Sauvestre. About 18,000 wrought-iron parts, designed and prefabricated in the company's workshops, were joined with some 2.5 million rivets in just over two years. Four curved legs, shaped to resist the wind, rise to three platforms. Prominent artists and writers protested in 1887 against what they called a useless and monstrous tower. It was meant to stand only for twenty years, but its usefulness for radio transmission saved it. The tallest structure in the world until the Chrysler Building of 1930, it became the symbol of Paris and one of the most visited monuments in the world.",
+  "image_file": "Tour eiffel at sunrise from the trocadero.jpg",
+  "image_caption": "The Eiffel Tower at sunrise, seen from the Trocadéro"
  },
  {
   "title": "Wainwright Building",
@@ -1053,7 +1063,9 @@
   "type": "Park, originally a housing estate",
   "location": "Barcelona, Spain",
   "note": "A failed garden suburb that became a public park full of Gaudí's mosaic and stone fantasies.",
-  "description": "Eusebi Güell bought a hillside above Barcelona to create a garden city of houses for the wealthy, on the English model, and commissioned Gaudí to design it. Only two houses were built and sold, one bought by Gaudí himself, and the project was abandoned; the city acquired the land as a park in 1926. Gaudí's infrastructure remains: gatehouses with mushroom-like roofs, a monumental stair with a mosaic salamander, a hall of eighty-six Doric columns intended as a market, supporting a great terrace above, edged by a serpentine bench covered in broken-tile mosaic made largely by Josep Maria Jujol, and paths carried on rough stone viaducts that merge with the hillside. It is a UNESCO World Heritage Site."
+  "description": "Eusebi Güell bought a hillside above Barcelona to create a garden city of houses for the wealthy, on the English model, and commissioned Gaudí to design it. Only two houses were built and sold, one bought by Gaudí himself, and the project was abandoned; the city acquired the land as a park in 1926. Gaudí's infrastructure remains: gatehouses with mushroom-like roofs, a monumental stair with a mosaic salamander, a hall of eighty-six Doric columns intended as a market, supporting a great terrace above, edged by a serpentine bench covered in broken-tile mosaic made largely by Josep Maria Jujol, and paths carried on rough stone viaducts that merge with the hillside. It is a UNESCO World Heritage Site.",
+  "image_file": "Parc guell - panoramio.jpg",
+  "image_caption": "Park Güell, Barcelona, Spain"
  },
  {
   "title": "Glasgow School of Art (Mackintosh Building)",
@@ -1063,7 +1075,9 @@
   "type": "Art school",
   "location": "Glasgow, Scotland",
   "note": "Mackintosh's art school, a fusion of Scottish tradition and modern design, gutted by fire in 2014 and 2018.",
-  "description": "Mackintosh won the competition for a new building for the Glasgow School of Art in 1896, and it was built in two phases, the east half in 1897–99 and the west in 1907–09, on a steep sloping site. The north front has huge studio windows for steady light, framed by stone and decorated with wrought-iron brackets and finials. The west wing is more severe and vertical, with tall oriel windows. Its library, of dark wood with suspended lamps and slender posts, was regarded as one of the finest interiors of its era. Mackintosh designed the furniture and fittings. A fire in 2014 destroyed the library, and as restoration neared completion a second fire in 2018 gutted the building. The school has committed to rebuilding it."
+  "description": "Mackintosh won the competition for a new building for the Glasgow School of Art in 1896, and it was built in two phases, the east half in 1897–99 and the west in 1907–09, on a steep sloping site. The north front has huge studio windows for steady light, framed by stone and decorated with wrought-iron brackets and finials. The west wing is more severe and vertical, with tall oriel windows. Its library, of dark wood with suspended lamps and slender posts, was regarded as one of the finest interiors of its era. Mackintosh designed the furniture and fittings. A fire in 2014 destroyed the library, and as restoration neared completion a second fire in 2018 gutted the building. The school has committed to rebuilding it.",
+  "image_file": "Schoolofart1.jpg",
+  "image_caption": "Glasgow School of Art (Mackintosh Building), Glasgow, Scotland"
  },
  {
   "title": "Austrian Postal Savings Bank",
@@ -1073,7 +1087,9 @@
   "type": "Bank",
   "location": "Vienna, Austria",
   "note": "A bank whose façade is clad with marble plates held by visible bolts and whose glass-roofed hall anticipates modernism.",
-  "description": "The Postsparkasse, the Austrian postal savings bank founded in 1883, held a competition for its headquarters on the Ringstrasse, won by Otto Wagner. The façade is clad in thin marble slabs fixed by aluminium-capped bolts that make the means of attachment visible, while aluminium figures and acroteria crown the cornice. The main banking hall has a glass ceiling carried on slender steel columns, with a glass floor bringing light to the level below, and aluminium heating ducts and fittings, then a new material, all designed by Wagner. The building expresses his argument that architecture should be shaped by modern needs and materials. It is still used by the bank and houses a museum."
+  "description": "The Postsparkasse, the Austrian postal savings bank founded in 1883, held a competition for its headquarters on the Ringstrasse, won by Otto Wagner. The façade is clad in thin marble slabs fixed by aluminium-capped bolts that make the means of attachment visible, while aluminium figures and acroteria crown the cornice. The main banking hall has a glass ceiling carried on slender steel columns, with a glass floor bringing light to the level below, and aluminium heating ducts and fittings, then a new material, all designed by Wagner. The building expresses his argument that architecture should be shaped by modern needs and materials. It is still used by the bank and houses a museum.",
+  "image_file": "P.S.K. Vienna August 2006 030.jpg",
+  "image_caption": "Austrian Postal Savings Bank, Vienna, Austria"
  },
  {
   "title": "Chrysler Building",
@@ -1083,7 +1099,9 @@
   "type": "Skyscraper",
   "location": "Manhattan, New York City, United States",
   "note": "The Art Deco skyscraper with a stainless-steel crown, briefly the tallest building in the world.",
-  "description": "Built for the automobile magnate Walter P. Chrysler, the building rose during the race for the tallest skyscraper in New York. To beat 40 Wall Street, Van Alen had a 38-metre spire assembled secretly inside the crown and raised into place in about ninety minutes in October 1929, bringing the height to 319 metres. It was the tallest building in the world for eleven months, until the Empire State Building. Its terraced crown of stainless-steel arches with triangular windows, its eagle-head gargoyles and its brickwork frieze of hubcaps celebrate the car and the machine age. The triangular lobby, with marble, chrome and a ceiling mural on the theme of transport, is one of the great Art Deco interiors."
+  "description": "Built for the automobile magnate Walter P. Chrysler, the building rose during the race for the tallest skyscraper in New York. To beat 40 Wall Street, Van Alen had a 38-metre spire assembled secretly inside the crown and raised into place in about ninety minutes in October 1929, bringing the height to 319 metres. It was the tallest building in the world for eleven months, until the Empire State Building. Its terraced crown of stainless-steel arches with triangular windows, its eagle-head gargoyles and its brickwork frieze of hubcaps celebrate the car and the machine age. The triangular lobby, with marble, chrome and a ceiling mural on the theme of transport, is one of the great Art Deco interiors.",
+  "image_file": "View of Chrysler Building from Empire State Building, New York City, 20231001 1510 1364.jpg",
+  "image_caption": "The crown of the Chrysler Building seen from the Empire State Building"
  },
  {
   "title": "Fagus Factory",
@@ -1093,7 +1111,9 @@
   "type": "Factory",
   "location": "Alfeld, Lower Saxony, Germany",
   "note": "A shoe-last factory with glass curtain walls wrapping its corners, a founding work of modern architecture.",
-  "description": "Carl Benscheidt, a manufacturer of shoe lasts, commissioned Walter Gropius and Adolf Meyer in 1911 to redesign the façade of his new factory, whose plan had already been drawn by another architect. Gropius and Meyer gave the main building walls of glass and steel set in front of the brick piers, and wrapped the glass around the corners without corner supports, so that the walls seem weightless. The building expressed a modern, light and healthy workplace, and its image was meant to advertise the company. Further buildings were added until 1925, including interiors in the early Bauhaus style. The factory is still in operation, making shoe lasts, and was inscribed as a UNESCO World Heritage Site in 2011."
+  "description": "Carl Benscheidt, a manufacturer of shoe lasts, commissioned Walter Gropius and Adolf Meyer in 1911 to redesign the façade of his new factory, whose plan had already been drawn by another architect. Gropius and Meyer gave the main building walls of glass and steel set in front of the brick piers, and wrapped the glass around the corners without corner supports, so that the walls seem weightless. The building expressed a modern, light and healthy workplace, and its image was meant to advertise the company. Further buildings were added until 1925, including interiors in the early Bauhaus style. The factory is still in operation, making shoe lasts, and was inscribed as a UNESCO World Heritage Site in 2011.",
+  "image_file": "Fagus Gropius Hauptgebaeude 200705 wiki front.jpg",
+  "image_caption": "Fagus Factory, Alfeld, Lower Saxony, Germany"
  },
  {
   "title": "Bauhaus Building, Dessau",
@@ -1103,7 +1123,9 @@
   "type": "Art and design school",
   "location": "Dessau, Saxony-Anhalt, Germany",
   "note": "The school building of the Bauhaus, a manifesto of functional modern architecture with a glass curtain wall.",
-  "description": "When the Bauhaus left Weimar under political pressure in 1925, the industrial city of Dessau offered it a new home, and Gropius designed its building. It is a pinwheel of separate wings for separate functions: a workshop block with a continuous curtain wall of glass, a teaching wing, a bridge over the road housing the administration, an assembly hall and canteen, and a five-storey block of studio flats for students with small balconies. Its asymmetrical composition can only be grasped by walking around it, and the school's workshops made its lighting, furniture and lettering. The Nazis closed the Dessau Bauhaus in 1932. Damaged in the war and altered, the building was restored and is used again by the Bauhaus Dessau Foundation. It is a UNESCO World Heritage Site."
+  "description": "When the Bauhaus left Weimar under political pressure in 1925, the industrial city of Dessau offered it a new home, and Gropius designed its building. It is a pinwheel of separate wings for separate functions: a workshop block with a continuous curtain wall of glass, a teaching wing, a bridge over the road housing the administration, an assembly hall and canteen, and a five-storey block of studio flats for students with small balconies. Its asymmetrical composition can only be grasped by walking around it, and the school's workshops made its lighting, furniture and lettering. The Nazis closed the Dessau Bauhaus in 1932. Damaged in the war and altered, the building was restored and is used again by the Bauhaus Dessau Foundation. It is a UNESCO World Heritage Site.",
+  "image_file": "Dessau Bauhaus-Gebäude asv2024-06 img1.jpg",
+  "image_caption": "Bauhaus Building, Dessau, Dessau, Saxony-Anhalt, Germany"
  },
  {
   "title": "Barcelona Pavilion",
@@ -1113,7 +1135,9 @@
   "type": "Exhibition pavilion",
   "location": "Montjuïc, Barcelona, Spain",
   "note": "The German pavilion of the 1929 exposition, a flowing space of marble, glass and steel.",
-  "description": "Mies van der Rohe and Lilly Reich designed the German Pavilion at the 1929 Barcelona International Exposition as a representational building with no exhibits, used for the opening ceremony with the Spanish king. A flat roof rests on eight cruciform chrome-clad steel columns, freeing walls of onyx, green marble and glass to stand as independent planes that guide visitors through a continuous space, with two shallow pools, one holding a bronze statue by Georg Kolbe. The Barcelona Chair was designed for the pavilion. It was dismantled in 1930, but its photographs made it one of the most influential buildings of the century. A permanent reconstruction was built on the original site in 1983–86."
+  "description": "Mies van der Rohe and Lilly Reich designed the German Pavilion at the 1929 Barcelona International Exposition as a representational building with no exhibits, used for the opening ceremony with the Spanish king. A flat roof rests on eight cruciform chrome-clad steel columns, freeing walls of onyx, green marble and glass to stand as independent planes that guide visitors through a continuous space, with two shallow pools, one holding a bronze statue by Georg Kolbe. The Barcelona Chair was designed for the pavilion. It was dismantled in 1930, but its photographs made it one of the most influential buildings of the century. A permanent reconstruction was built on the original site in 1983–86.",
+  "image_file": "The Barcelona Pavilion, Barcelona, 2010.jpg",
+  "image_caption": "Barcelona Pavilion, Montjuïc, Barcelona, Spain"
  },
  {
   "title": "Villa Tugendhat",
@@ -1123,7 +1147,9 @@
   "type": "House",
   "location": "Brno, Czech Republic",
   "note": "A luxurious modernist villa with an open living space, an onyx wall and windows that sink into the floor.",
-  "description": "Grete and Fritz Tugendhat, from wealthy industrial families, commissioned Mies to build a house on a sloping site overlooking Brno. From the street, it appears as a low single storey; on the garden side, the main floor opens as a single living space about 280 square metres in area, divided only by a wall of golden onyx and a curved wall of Macassar ebony, with chrome cruciform columns. Two huge glass panes could be lowered electrically into the floor. Mies and Lilly Reich designed the furniture, including the Tugendhat and Brno chairs. The family, who were Jewish, fled in 1938; the house was confiscated, damaged in the war, and used for other purposes. Restored and opened as a museum, it is a UNESCO World Heritage Site."
+  "description": "Grete and Fritz Tugendhat, from wealthy industrial families, commissioned Mies to build a house on a sloping site overlooking Brno. From the street, it appears as a low single storey; on the garden side, the main floor opens as a single living space about 280 square metres in area, divided only by a wall of golden onyx and a curved wall of Macassar ebony, with chrome cruciform columns. Two huge glass panes could be lowered electrically into the floor. Mies and Lilly Reich designed the furniture, including the Tugendhat and Brno chairs. The family, who were Jewish, fled in 1938; the house was confiscated, damaged in the war, and used for other purposes. Restored and opened as a museum, it is a UNESCO World Heritage Site.",
+  "image_file": "Vila Tugendhat exterior Dvorak2.JPG",
+  "image_caption": "Villa Tugendhat, Brno, Czech Republic"
  },
  {
   "title": "Farnsworth House",
@@ -1133,7 +1159,9 @@
   "type": "Weekend house",
   "location": "Plano, Illinois, United States",
   "note": "A glass pavilion raised above a floodplain, the purest statement of Mies's 'less is more'.",
-  "description": "Edith Farnsworth, a Chicago physician, commissioned Mies to design a weekend retreat on a wooded site beside the Fox River. The house is a single glass-walled room between a floor slab and a roof slab, held about 1.6 metres above the floodplain by eight white-painted steel columns welded to the edges, with a terrace and floating steps. A wooden core contains the kitchen, bathrooms and fireplace. The house became the subject of a lawsuit between architect and client over costs, and Farnsworth complained about living in a glass box. It has been flooded several times. Philip Johnson's Glass House was inspired by it. It is now a museum owned by the National Trust for Historic Preservation."
+  "description": "Edith Farnsworth, a Chicago physician, commissioned Mies to design a weekend retreat on a wooded site beside the Fox River. The house is a single glass-walled room between a floor slab and a roof slab, held about 1.6 metres above the floodplain by eight white-painted steel columns welded to the edges, with a terrace and floating steps. A wooden core contains the kitchen, bathrooms and fireplace. The house became the subject of a lawsuit between architect and client over costs, and Farnsworth complained about living in a glass box. It has been flooded several times. Philip Johnson's Glass House was inspired by it. It is now a museum owned by the National Trust for Historic Preservation.",
+  "image_file": "Farnsworth House by Mies Van Der Rohe - exterior-8.jpg",
+  "image_caption": "Farnsworth House, Plano, Illinois, United States"
  },
  {
   "title": "Villa Savoye",
@@ -1143,7 +1171,9 @@
   "type": "Country house",
   "location": "Poissy, near Paris, France",
   "note": "Le Corbusier's white villa on pilotis, the summary of his five points of a new architecture.",
-  "description": "Pierre and Eugénie Savoye commissioned a weekend house on a meadow at Poissy, and Le Corbusier and Pierre Jeanneret designed it as a demonstration of the five points of a new architecture: pilotis lifting the house above the ground, a free plan, a free façade, ribbon windows and a roof garden. The ground floor, curved to follow the turning circle of a car, holds the entrance and service rooms; a ramp leads up to the main living floor around an open terrace and on to a sunroof sheltered by curving screens, an architectural promenade. The family suffered from leaks and found the house impractical, and it was nearly demolished after the war before André Malraux had it protected. Restored, it is open as a museum and is part of the UNESCO World Heritage listing of Le Corbusier's works."
+  "description": "Pierre and Eugénie Savoye commissioned a weekend house on a meadow at Poissy, and Le Corbusier and Pierre Jeanneret designed it as a demonstration of the five points of a new architecture: pilotis lifting the house above the ground, a free plan, a free façade, ribbon windows and a roof garden. The ground floor, curved to follow the turning circle of a car, holds the entrance and service rooms; a ramp leads up to the main living floor around an open terrace and on to a sunroof sheltered by curving screens, an architectural promenade. The family suffered from leaks and found the house impractical, and it was nearly demolished after the war before André Malraux had it protected. Restored, it is open as a museum and is part of the UNESCO World Heritage listing of Le Corbusier's works.",
+  "museum_name": "Villa Savoye (Centre des monuments nationaux)",
+  "museum_url": "https://www.villa-savoye.fr/"
  },
  {
   "title": "Frederick C. Robie House",
@@ -1153,7 +1183,9 @@
   "type": "House",
   "location": "Hyde Park, Chicago, Illinois, United States",
   "note": "The masterpiece of Wright's Prairie style, with long cantilevered roofs and a continuous interior.",
-  "description": "Frederick Robie, a businessman who made bicycles and then car parts, commissioned Wright to design a house on a narrow corner lot near the University of Chicago. Wright stretched it horizontally, with long bands of Roman brick, low hipped roofs projecting far beyond the walls on steel beams and art-glass windows, so that it seems rooted in the flat prairie. The living and dining rooms form a single long space on the upper floor, divided only by a central fireplace, with doors onto balconies. Wright designed furniture, lighting and glass. The house was threatened with demolition several times, and its rescue in the 1950s and 1960s became an early landmark of preservation. It is part of the UNESCO World Heritage Site of Wright's twentieth-century architecture."
+  "description": "Frederick Robie, a businessman who made bicycles and then car parts, commissioned Wright to design a house on a narrow corner lot near the University of Chicago. Wright stretched it horizontally, with long bands of Roman brick, low hipped roofs projecting far beyond the walls on steel beams and art-glass windows, so that it seems rooted in the flat prairie. The living and dining rooms form a single long space on the upper floor, divided only by a central fireplace, with doors onto balconies. Wright designed furniture, lighting and glass. The house was threatened with demolition several times, and its rescue in the 1950s and 1960s became an early landmark of preservation. It is part of the UNESCO World Heritage Site of Wright's twentieth-century architecture.",
+  "image_file": "Frederick C. Robie House.JPG",
+  "image_caption": "Frederick C. Robie House, Hyde Park, Chicago, Illinois, United States"
  },
  {
   "title": "Fallingwater",
@@ -1163,7 +1195,9 @@
   "type": "Country house",
   "location": "Mill Run, Pennsylvania, United States",
   "note": "A house cantilevered over a waterfall, the most famous house of the twentieth century.",
-  "description": "Edgar J. Kaufmann, a Pittsburgh department store owner, asked Wright for a weekend house near a waterfall on Bear Run, expecting a view of the falls. Wright placed the house over them, anchoring it to the rock with a stone chimney core from which reinforced-concrete terraces cantilever above the stream. Inside, flagstone floors, a boulder rising through the living room hearth and stone walls continue the landscape, and glass walls and corner windows open to the woods; a stair descends from the living room to the water. The cantilevers sagged over time and were reinforced with post-tensioning in 2002. Kaufmann's son gave the house to the Western Pennsylvania Conservancy in 1963. It is a museum and part of the UNESCO World Heritage Site of Wright's architecture."
+  "description": "Edgar J. Kaufmann, a Pittsburgh department store owner, asked Wright for a weekend house near a waterfall on Bear Run, expecting a view of the falls. Wright placed the house over them, anchoring it to the rock with a stone chimney core from which reinforced-concrete terraces cantilever above the stream. Inside, flagstone floors, a boulder rising through the living room hearth and stone walls continue the landscape, and glass walls and corner windows open to the woods; a stair descends from the living room to the water. The cantilevers sagged over time and were reinforced with post-tensioning in 2002. Kaufmann's son gave the house to the Western Pennsylvania Conservancy in 1963. It is a museum and part of the UNESCO World Heritage Site of Wright's architecture.",
+  "image_file": "Fallingwater3.jpg",
+  "image_caption": "Fallingwater, Mill Run, Pennsylvania, United States"
  },
  {
   "title": "Rietveld Schröder House",
@@ -1173,7 +1207,9 @@
   "type": "House",
   "location": "Utrecht, Netherlands",
   "note": "A small house of sliding planes and primary colours, the only building realised fully on De Stijl principles.",
-  "description": "Truus Schröder-Schräder, a widow with three children, commissioned Rietveld to design a house at the end of a row of brick houses on the edge of Utrecht, and she took an active part in the design. The house is composed of planes, lines and coloured elements, white and grey walls, red, yellow, blue and black lines, that seem to slide apart, with balconies and roof slabs projecting beyond the walls. The ground floor has conventional rooms, but the upper floor can be opened as a single space or divided into rooms by sliding and folding partitions. Windows open at right angles to the façade so that the corner disappears. Schröder lived there until her death in 1985. It is a museum and a UNESCO World Heritage Site."
+  "description": "Truus Schröder-Schräder, a widow with three children, commissioned Rietveld to design a house at the end of a row of brick houses on the edge of Utrecht, and she took an active part in the design. The house is composed of planes, lines and coloured elements, white and grey walls, red, yellow, blue and black lines, that seem to slide apart, with balconies and roof slabs projecting beyond the walls. The ground floor has conventional rooms, but the upper floor can be opened as a single space or divided into rooms by sliding and folding partitions. Windows open at right angles to the façade so that the corner disappears. Schröder lived there until her death in 1985. It is a museum and a UNESCO World Heritage Site.",
+  "image_file": "Rietveld Schröderhuis HayKranen-20.JPG",
+  "image_caption": "Rietveld Schröder House, Utrecht, Netherlands"
  },
  {
   "title": "Paimio Sanatorium",
@@ -1183,7 +1219,9 @@
   "type": "Tuberculosis sanatorium",
   "location": "Paimio, Finland",
   "note": "A modernist tuberculosis hospital designed around the comfort and recovery of patients.",
-  "description": "Alvar Aalto won a competition in 1929 for a tuberculosis sanatorium in a pine forest near Turku, at a time when fresh air, light and rest were the main treatment. The patients' wing is a long, narrow block oriented to catch the morning sun, ending in stacked open sun balconies where patients lay for hours. Aalto designed the details from the patient's position: soft-coloured ceilings for people lying in bed, indirect lighting, quiet washbasins that splash less, and the bentwood Paimio chair, angled to ease breathing. Other wings for treatment, staff and services fan out on different angles. Antibiotics later made such sanatoria obsolete, and it became a general hospital, then closed in the 2010s. It is now used for other purposes and is on Finland's tentative list for UNESCO World Heritage status."
+  "description": "Alvar Aalto won a competition in 1929 for a tuberculosis sanatorium in a pine forest near Turku, at a time when fresh air, light and rest were the main treatment. The patients' wing is a long, narrow block oriented to catch the morning sun, ending in stacked open sun balconies where patients lay for hours. Aalto designed the details from the patient's position: soft-coloured ceilings for people lying in bed, indirect lighting, quiet washbasins that splash less, and the bentwood Paimio chair, angled to ease breathing. Other wings for treatment, staff and services fan out on different angles. Antibiotics later made such sanatoria obsolete, and it became a general hospital, then closed in the 2010s. It is now used for other purposes and is on Finland's tentative list for UNESCO World Heritage status.",
+  "image_file": "Paimio Sanatorium2.jpg",
+  "image_caption": "Paimio Sanatorium, Paimio, Finland"
  },
  {
   "title": "Villa Mairea",
@@ -1193,7 +1231,9 @@
   "type": "Country house",
   "location": "Noormarkku, Finland",
   "note": "A country house in a forest, mingling modernism with Finnish wood, stone and craft.",
-  "description": "Harry and Maire Gullichsen, an industrialist couple and patrons of modern art, commissioned the Aaltos to design a house on the family estate near Pori, asking for an experiment in modern living. The L-shaped house encloses a garden with a kidney-shaped pool and a turf-roofed sauna. Inside, the large living space flows freely, its black-painted steel columns wrapped in rattan or grouped with wooden poles evoking the surrounding forest, while a stair is screened by vertical poles. White render, timber cladding, stone and a curved wooden studio mix the international and the vernacular. Villa Mairea is often described as Aalto's most personal work and an example of a softer, more humane modernism. It remains in the family and can be visited by appointment."
+  "description": "Harry and Maire Gullichsen, an industrialist couple and patrons of modern art, commissioned the Aaltos to design a house on the family estate near Pori, asking for an experiment in modern living. The L-shaped house encloses a garden with a kidney-shaped pool and a turf-roofed sauna. Inside, the large living space flows freely, its black-painted steel columns wrapped in rattan or grouped with wooden poles evoking the surrounding forest, while a stair is screened by vertical poles. White render, timber cladding, stone and a curved wooden studio mix the international and the vernacular. Villa Mairea is often described as Aalto's most personal work and an example of a softer, more humane modernism. It remains in the family and can be visited by appointment.",
+  "image_file": "4Y1A7841 Alvar Aalto, Finland (26710745140).jpg",
+  "image_caption": "Villa Mairea, Noormarkku, Finland"
  },
  {
   "title": "Glass House",
@@ -1203,7 +1243,9 @@
   "type": "House",
   "location": "New Canaan, Connecticut, United States",
   "note": "Philip Johnson's own house, a glass box in a landscaped estate, inspired by Mies's Farnsworth House.",
-  "description": "Philip Johnson built his own home on a wooded estate in New Canaan, completing it before Mies's Farnsworth House, which he had seen in design. It is a single room, about 17 by 10 metres, with walls of glass on a steel frame painted charcoal, and a brick cylinder containing the bathroom and fireplace as its only enclosed element. Low cabinets divide living, dining and sleeping areas. Opposite stands a windowless brick guest house. Over the next fifty years Johnson added an underground painting gallery, a sculpture gallery, a pavilion on the pond, a studio and other follies across the estate, a catalogue of his changing tastes. He and his partner David Whitney lived there until their deaths in 2005, leaving it to the National Trust for Historic Preservation, which opened it to the public."
+  "description": "Philip Johnson built his own home on a wooded estate in New Canaan, completing it before Mies's Farnsworth House, which he had seen in design. It is a single room, about 17 by 10 metres, with walls of glass on a steel frame painted charcoal, and a brick cylinder containing the bathroom and fireplace as its only enclosed element. Low cabinets divide living, dining and sleeping areas. Opposite stands a windowless brick guest house. Over the next fifty years Johnson added an underground painting gallery, a sculpture gallery, a pavilion on the pond, a studio and other follies across the estate, a catalogue of his changing tastes. He and his partner David Whitney lived there until their deaths in 2005, leaving it to the National Trust for Historic Preservation, which opened it to the public.",
+  "image_file": "Philip Johnson Glass House The House.jpg",
+  "image_caption": "Glass House, New Canaan, Connecticut, United States"
  },
  {
   "title": "Unité d'Habitation, Marseille",
@@ -1213,7 +1255,9 @@
   "type": "Housing block",
   "location": "Marseille, France",
   "note": "A raw-concrete 'vertical village' of 337 flats on pilotis, the founding work of Brutalism.",
-  "description": "After the Second World War the French reconstruction ministry commissioned Le Corbusier to build a prototype of mass housing in Marseille. The Unité d'Habitation, also called the Cité Radieuse, is a slab of eighteen storeys on massive tapering pilotis, containing 337 apartments of twenty-three types for up to about 1,600 people. Most flats are two-storey units interlocking around internal 'streets' every third floor, with a double-height living room and a balcony on each side, shaded by deep sun-breakers. Halfway up, a street of shops and a hotel, and on the roof a nursery school, a running track, a paddling pool and sculptural ventilation stacks, make it a vertical village. Its rough board-marked concrete, béton brut, gave Brutalism its name, and its proportions follow Le Corbusier's Modulor. Variants were built in Nantes, Berlin, Briey and Firminy."
+  "description": "After the Second World War the French reconstruction ministry commissioned Le Corbusier to build a prototype of mass housing in Marseille. The Unité d'Habitation, also called the Cité Radieuse, is a slab of eighteen storeys on massive tapering pilotis, containing 337 apartments of twenty-three types for up to about 1,600 people. Most flats are two-storey units interlocking around internal 'streets' every third floor, with a double-height living room and a balcony on each side, shaded by deep sun-breakers. Halfway up, a street of shops and a hotel, and on the roof a nursery school, a running track, a paddling pool and sculptural ventilation stacks, make it a vertical village. Its rough board-marked concrete, béton brut, gave Brutalism its name, and its proportions follow Le Corbusier's Modulor. Variants were built in Nantes, Berlin, Briey and Firminy.",
+  "museum_name": "Fondation Le Corbusier",
+  "museum_url": "https://www.fondationlecorbusier.fr/"
  },
  {
   "title": "Notre-Dame du Haut, Ronchamp",
@@ -1223,7 +1267,9 @@
   "type": "Pilgrimage chapel",
   "location": "Ronchamp, Haute-Saône, France",
   "note": "A sculptural hilltop chapel with a billowing concrete roof and walls pierced by coloured windows.",
-  "description": "A pilgrimage chapel on the hill of Bourlémont, near Belfort, was destroyed in the fighting of 1944, and the diocese, encouraged by reformers of religious art, commissioned Le Corbusier to rebuild it. Surprising those who knew his machine-age villas, he created a sculptural building of thick, curved white walls, reusing the rubble of the old chapel, under a dark concrete roof shaped like a hull or a crab shell, raised slightly on hidden posts so a thin band of light separates it from the walls. The south wall is pierced by deep, irregular windows with coloured glass. Three towers bring light down onto side altars, and an outdoor altar and pulpit serve large open-air congregations. Ronchamp's free forms divided modernists and opened the way for expressive architecture. It is part of the UNESCO World Heritage listing of Le Corbusier's works."
+  "description": "A pilgrimage chapel on the hill of Bourlémont, near Belfort, was destroyed in the fighting of 1944, and the diocese, encouraged by reformers of religious art, commissioned Le Corbusier to rebuild it. Surprising those who knew his machine-age villas, he created a sculptural building of thick, curved white walls, reusing the rubble of the old chapel, under a dark concrete roof shaped like a hull or a crab shell, raised slightly on hidden posts so a thin band of light separates it from the walls. The south wall is pierced by deep, irregular windows with coloured glass. Three towers bring light down onto side altars, and an outdoor altar and pulpit serve large open-air congregations. Ronchamp's free forms divided modernists and opened the way for expressive architecture. It is part of the UNESCO World Heritage listing of Le Corbusier's works.",
+  "museum_name": "Colline Notre-Dame du Haut",
+  "museum_url": "https://www.collinenotredameduhaut.com/"
  },
  {
   "title": "Solomon R. Guggenheim Museum",
@@ -1233,7 +1279,9 @@
   "type": "Art museum",
   "location": "Fifth Avenue, New York City, United States",
   "note": "A spiral ramp gallery around a skylit atrium, Wright's last great work.",
-  "description": "Solomon R. Guggenheim and the artist Hilla Rebay, director of his foundation for non-objective art, commissioned Wright in 1943 to design a museum. After years of revisions, delays and conflicts with building officials, it opened in October 1959, six months after Wright's death. The building is a concrete spiral, wider at the top than the bottom, facing Central Park. Inside, a continuous ramp winds up around a central atrium under a glass dome, so visitors see the art as they descend and look across the open space at other works. Many artists and critics objected that its sloping floors and curved walls made paintings hard to hang. A tower by Gwathmey Siegel was added in 1992. The museum is part of the UNESCO World Heritage Site of Wright's architecture."
+  "description": "Solomon R. Guggenheim and the artist Hilla Rebay, director of his foundation for non-objective art, commissioned Wright in 1943 to design a museum. After years of revisions, delays and conflicts with building officials, it opened in October 1959, six months after Wright's death. The building is a concrete spiral, wider at the top than the bottom, facing Central Park. Inside, a continuous ramp winds up around a central atrium under a glass dome, so visitors see the art as they descend and look across the open space at other works. Many artists and critics objected that its sloping floors and curved walls made paintings hard to hang. A tower by Gwathmey Siegel was added in 1992. The museum is part of the UNESCO World Heritage Site of Wright's architecture.",
+  "image_file": "Solomon R. Guggenheim Museum (48059131351).jpg",
+  "image_caption": "Solomon R. Guggenheim Museum, Fifth Avenue, New York City, United States"
  },
  {
   "title": "Seagram Building",
@@ -1243,7 +1291,9 @@
   "type": "Office tower",
   "location": "Park Avenue, New York City, United States",
   "note": "A bronze and glass tower set back behind a plaza, the model of the modern corporate skyscraper.",
-  "description": "Samuel Bronfman, head of the distillers Seagram, planned a headquarters on Park Avenue; his daughter Phyllis Lambert persuaded him to hire Mies van der Rohe, with Philip Johnson as collaborator. Mies set the 38-storey tower back from the street behind an open granite plaza with two pools, an unusual gift of space in Manhattan that influenced New York's later zoning rules. The structure is concrete-encased steel, but its façade is clad in bronze mullions and amber-tinted glass, with non-structural bronze I-beams applied to express the frame, an expensive refinement. Johnson designed the interiors, including the Four Seasons restaurant. Lavishly built and precisely detailed, the Seagram was the model for countless glass office towers worldwide."
+  "description": "Samuel Bronfman, head of the distillers Seagram, planned a headquarters on Park Avenue; his daughter Phyllis Lambert persuaded him to hire Mies van der Rohe, with Philip Johnson as collaborator. Mies set the 38-storey tower back from the street behind an open granite plaza with two pools, an unusual gift of space in Manhattan that influenced New York's later zoning rules. The structure is concrete-encased steel, but its façade is clad in bronze mullions and amber-tinted glass, with non-structural bronze I-beams applied to express the frame, an expensive refinement. Johnson designed the interiors, including the Four Seasons restaurant. Lavishly built and precisely detailed, the Seagram was the model for countless glass office towers worldwide.",
+  "image_file": "Seagram Building (35098307116).jpg",
+  "image_caption": "Seagram Building, Park Avenue, New York City, United States"
  },
  {
   "title": "Cathedral of Brasília",
@@ -1253,7 +1303,9 @@
   "type": "Cathedral",
   "location": "Brasília, Brazil",
   "note": "A crown of sixteen curved concrete columns enclosing a luminous, partly sunken interior.",
-  "description": "The Metropolitan Cathedral was one of the first buildings of Brazil's new capital, laid out by Lúcio Costa, and Niemeyer designed it as a hyperboloid of sixteen curving concrete columns, each weighing many tonnes, which meet at a ring and open upward like hands raised to heaven or a crown of thorns. The spaces between them are glazed, and since 1987–90 the glass has been decorated with blue, green and white stained glass by Marianne Peretti. Visitors enter through a dark passage that descends below ground and emerge into the bright circular nave, a contrast intended to lift the spirit. Four bronze evangelists by Alfredo Ceschiatti stand outside, and angels hang from steel cables inside. Its structure was completed in 1960 and it was dedicated in 1970. Brasília is a UNESCO World Heritage Site."
+  "description": "The Metropolitan Cathedral was one of the first buildings of Brazil's new capital, laid out by Lúcio Costa, and Niemeyer designed it as a hyperboloid of sixteen curving concrete columns, each weighing many tonnes, which meet at a ring and open upward like hands raised to heaven or a crown of thorns. The spaces between them are glazed, and since 1987–90 the glass has been decorated with blue, green and white stained glass by Marianne Peretti. Visitors enter through a dark passage that descends below ground and emerge into the bright circular nave, a contrast intended to lift the spirit. Four bronze evangelists by Alfredo Ceschiatti stand outside, and angels hang from steel cables inside. Its structure was completed in 1960 and it was dedicated in 1970. Brasília is a UNESCO World Heritage Site.",
+  "image_file": "Catedral Metropolitana de Brasilia.jpg",
+  "image_caption": "Cathedral of Brasília, Brasília, Brazil"
  },
  {
   "title": "National Congress of Brazil",
@@ -1263,7 +1315,9 @@
   "type": "Parliament building",
   "location": "Brasília, Brazil",
   "note": "Twin office towers between a dome and an inverted dome, the symbol of Brazil's modern capital.",
-  "description": "At the end of the Monumental Axis of Brasília, in the Square of the Three Powers, Niemeyer designed the National Congress as a horizontal platform carrying two contrasting bowls: an upturned dome over the Senate and an open, upturned saucer over the larger Chamber of Deputies, expressing the more reflective and the more open houses of parliament. Between them rise twin 28-storey office towers joined by a bridge, forming an H that has been read as standing for humanity. The building was inaugurated with the city on 21 April 1960. Its clean geometry against the sky became the symbol of Brazilian modernism and of Kubitschek's developmental optimism, and its ramps and roof have been the scene of political demonstrations, including the storming of 8 January 2023."
+  "description": "At the end of the Monumental Axis of Brasília, in the Square of the Three Powers, Niemeyer designed the National Congress as a horizontal platform carrying two contrasting bowls: an upturned dome over the Senate and an open, upturned saucer over the larger Chamber of Deputies, expressing the more reflective and the more open houses of parliament. Between them rise twin 28-storey office towers joined by a bridge, forming an H that has been read as standing for humanity. The building was inaugurated with the city on 21 April 1960. Its clean geometry against the sky became the symbol of Brazilian modernism and of Kubitschek's developmental optimism, and its ramps and roof have been the scene of political demonstrations, including the storming of 8 January 2023.",
+  "image_file": "National Congress of Brazil.jpg",
+  "image_caption": "National Congress of Brazil, Brasília, Brazil"
  },
  {
   "title": "TWA Flight Center",
@@ -1273,7 +1327,9 @@
   "type": "Airport terminal",
   "location": "John F. Kennedy International Airport, New York City, United States",
   "note": "A terminal of swooping concrete shells evoking flight, now a hotel.",
-  "description": "Trans World Airlines commissioned Eero Saarinen to design its terminal at what was then Idlewild Airport, and he sought to capture the excitement of flight. Four thin concrete shells, curved like wings and meeting at a central skylight, are supported on Y-shaped piers; under them, the interior flows without straight lines, with curving stairs, balconies, a sunken lounge with views of the runways, and tubular corridors to the gates, all in white tiles and red carpet. Saarinen died before it opened in 1962, and his office completed it. The terminal could not adapt to jumbo jets and security screening, and closed in 2001. Designated a New York City landmark in 1994, it reopened in 2019 as the lobby of the TWA Hotel."
+  "description": "Trans World Airlines commissioned Eero Saarinen to design its terminal at what was then Idlewild Airport, and he sought to capture the excitement of flight. Four thin concrete shells, curved like wings and meeting at a central skylight, are supported on Y-shaped piers; under them, the interior flows without straight lines, with curving stairs, balconies, a sunken lounge with views of the runways, and tubular corridors to the gates, all in white tiles and red carpet. Saarinen died before it opened in 1962, and his office completed it. The terminal could not adapt to jumbo jets and security screening, and closed in 2001. Designated a New York City landmark in 1994, it reopened in 2019 as the lobby of the TWA Hotel.",
+  "image_file": "Ehemaliges TWA-Terminal am John F. Kennedy International Airport in New York.JPG",
+  "image_caption": "TWA Flight Center, John F. Kennedy International Airport, New York City, United States"
  },
  {
   "title": "Gateway Arch",
@@ -1283,7 +1339,9 @@
   "type": "Monument",
   "location": "St Louis, Missouri, United States",
   "note": "A stainless-steel arch 192 metres high, the tallest monument in the Western Hemisphere.",
-  "description": "In 1947–48 Eero Saarinen won a competition for the Jefferson National Expansion Memorial in St Louis, commemorating the westward expansion of the United States from the city once called the Gateway to the West. His design, a weighted catenary arch, is as wide at its base as it is tall, 192 metres, and is built of triangular sections with stainless-steel outer skins and carbon-steel inner skins, filled with concrete at the lower levels. Construction began in 1963 and the last section was set in 1965, after Saarinen's death. Small capsule trams inside each leg carry visitors to an observation room at the top. The area around it became the Gateway Arch National Park in 2018."
+  "description": "In 1947–48 Eero Saarinen won a competition for the Jefferson National Expansion Memorial in St Louis, commemorating the westward expansion of the United States from the city once called the Gateway to the West. His design, a weighted catenary arch, is as wide at its base as it is tall, 192 metres, and is built of triangular sections with stainless-steel outer skins and carbon-steel inner skins, filled with concrete at the lower levels. Construction began in 1963 and the last section was set in 1965, after Saarinen's death. Small capsule trams inside each leg carry visitors to an observation room at the top. The area around it became the Gateway Arch National Park in 2018.",
+  "image_file": "St Louis night expblend cropped.jpg",
+  "image_caption": "Gateway Arch, St Louis, Missouri, United States"
  },
  {
   "title": "Sydney Opera House",
@@ -1293,7 +1351,9 @@
   "type": "Performing arts centre",
   "location": "Bennelong Point, Sydney, Australia",
   "note": "A cluster of white sail-like shells on a harbour point, a masterpiece of twentieth-century architecture.",
-  "description": "Utzon won the international competition of 1957 with sketches for a performing arts centre on a granite platform jutting into Sydney Harbour, crowned by soaring shells. The jury, including Eero Saarinen, recognised its originality, but nobody knew how to build the shells. After years of work with the engineers Ove Arup and Partners, Utzon found in 1961 a solution by deriving all their curves from the surface of a single sphere, so that they could be assembled from prefabricated ribs, and they were covered with over a million glazed white and cream tiles from Sweden. A change of state government, rising costs and disputes led to Utzon's resignation in 1966, and the interiors were completed by Peter Hall and others. Queen Elizabeth II opened it in 1973. In 2007 it was inscribed as a UNESCO World Heritage Site; Utzon's son Jan has since worked on revisions toward his father's intentions."
+  "description": "Utzon won the international competition of 1957 with sketches for a performing arts centre on a granite platform jutting into Sydney Harbour, crowned by soaring shells. The jury, including Eero Saarinen, recognised its originality, but nobody knew how to build the shells. After years of work with the engineers Ove Arup and Partners, Utzon found in 1961 a solution by deriving all their curves from the surface of a single sphere, so that they could be assembled from prefabricated ribs, and they were covered with over a million glazed white and cream tiles from Sweden. A change of state government, rising costs and disputes led to Utzon's resignation in 1966, and the interiors were completed by Peter Hall and others. Queen Elizabeth II opened it in 1973. In 2007 it was inscribed as a UNESCO World Heritage Site; Utzon's son Jan has since worked on revisions toward his father's intentions.",
+  "image_file": "Sydney Opera House 2026.jpg",
+  "image_caption": "Sydney Opera House, Bennelong Point, Sydney, Australia"
  },
  {
   "title": "Salk Institute for Biological Studies",
@@ -1303,7 +1363,9 @@
   "type": "Research institute",
   "location": "La Jolla, California, United States",
   "note": "Twin laboratory blocks flanking a travertine plaza open to the Pacific.",
-  "description": "Jonas Salk, developer of the polio vaccine, founded an institute for biological research on clifftops above the Pacific and asked Kahn for a place where scientists and artists might meet. Kahn designed two mirror-image laboratory buildings with column-free floors alternating with service floors for pipes and ducts, which can be changed as research changes. Facing an empty travertine courtyard are angled concrete towers with teak-panelled studies for the scientists. On the advice of the Mexican architect Luis Barragán, Kahn left the courtyard without trees, a 'façade to the sky', with a thin channel of water running toward the ocean. Built in finely finished concrete, the institute is among the most admired buildings of its era, and a meeting hall Kahn planned was never built."
+  "description": "Jonas Salk, developer of the polio vaccine, founded an institute for biological research on clifftops above the Pacific and asked Kahn for a place where scientists and artists might meet. Kahn designed two mirror-image laboratory buildings with column-free floors alternating with service floors for pipes and ducts, which can be changed as research changes. Facing an empty travertine courtyard are angled concrete towers with teak-panelled studies for the scientists. On the advice of the Mexican architect Luis Barragán, Kahn left the courtyard without trees, a 'façade to the sky', with a thin channel of water running toward the ocean. Built in finely finished concrete, the institute is among the most admired buildings of its era, and a meeting hall Kahn planned was never built.",
+  "image_file": "Salk Institute 2.jpg",
+  "image_caption": "Salk Institute for Biological Studies, La Jolla, California, United States"
  },
  {
   "title": "National Parliament House, Dhaka (Jatiya Sangsad Bhaban)",
@@ -1313,7 +1375,9 @@
   "type": "Parliament building",
   "location": "Dhaka, Bangladesh",
   "note": "A monumental parliament of concrete and marble set in a lake, completed after Kahn's death.",
-  "description": "In 1962 the government of Pakistan commissioned Kahn to design a second capital complex at Dhaka, then the capital of East Pakistan. After the war of independence of 1971 the new nation of Bangladesh continued the project as its parliament. The assembly building is a cluster of massive concrete volumes inlaid with bands of white marble, around the central chamber, and pierced by huge circles, triangles and rectangles that bring light into the interior and shade it from the tropical sun. A lake surrounds much of it. Kahn died in 1974, and the building was completed in 1982 by his former associates. Its story is told in his son Nathaniel Kahn's documentary My Architect (2003)."
+  "description": "In 1962 the government of Pakistan commissioned Kahn to design a second capital complex at Dhaka, then the capital of East Pakistan. After the war of independence of 1971 the new nation of Bangladesh continued the project as its parliament. The assembly building is a cluster of massive concrete volumes inlaid with bands of white marble, around the central chamber, and pierced by huge circles, triangles and rectangles that bring light into the interior and shade it from the tropical sun. A lake surrounds much of it. Kahn died in 1974, and the building was completed in 1982 by his former associates. Its story is told in his son Nathaniel Kahn's documentary My Architect (2003).",
+  "image_file": "National Assembly of Bangladesh (10).jpg",
+  "image_caption": "National Parliament House, Dhaka (Jatiya Sangsad Bhaban), Dhaka, Bangladesh"
  },
  {
   "title": "Louvre Pyramid",
@@ -1323,7 +1387,9 @@
   "type": "Museum entrance",
   "location": "Cour Napoléon, Louvre, Paris, France",
   "note": "A glass and steel pyramid that became the new entrance of the Louvre.",
-  "description": "President François Mitterrand's Grand Louvre project moved the finance ministry out of the palace and reorganised the museum, and he chose I. M. Pei in 1983 without a competition. Pei proposed a vast underground reception hall under the Cour Napoléon, lit and marked by a glass pyramid about 21 metres high, flanked by smaller pyramids and fountains. Its steel framework and specially made clear glass were designed for maximum transparency, so that the historic façades are seen through it. The project was fiercely attacked in France as an alien intrusion, but the pyramid, opened in 1989, became one of the most recognisable images of Paris. An inverted pyramid was added in the underground shopping arcade in 1993."
+  "description": "President François Mitterrand's Grand Louvre project moved the finance ministry out of the palace and reorganised the museum, and he chose I. M. Pei in 1983 without a competition. Pei proposed a vast underground reception hall under the Cour Napoléon, lit and marked by a glass pyramid about 21 metres high, flanked by smaller pyramids and fountains. Its steel framework and specially made clear glass were designed for maximum transparency, so that the historic façades are seen through it. The project was fiercely attacked in France as an alien intrusion, but the pyramid, opened in 1989, became one of the most recognisable images of Paris. An inverted pyramid was added in the underground shopping arcade in 1993.",
+  "museum_name": "Musée du Louvre",
+  "museum_url": "https://www.louvre.fr/"
  },
  {
   "title": "Bank of China Tower",
@@ -1333,7 +1399,9 @@
   "type": "Office skyscraper",
   "location": "Central, Hong Kong",
   "note": "A faceted skyscraper of triangular trusses, inspired by growing bamboo.",
-  "description": "The Bank of China commissioned Pei, whose father had been a senior figure in the bank, to design its Hong Kong headquarters, to be finished before the handover of the colony to China in 1997. The 367-metre tower, the tallest in Asia when completed in 1990, rises from a square divided diagonally into four triangles, which terminate at different heights like the shoots of bamboo, an image of growth. Its structure is a space frame of diagonal braces expressed on the façade in triangles, which carries wind loads efficiently with much less steel than a conventional tower. Its sharp angles drew criticism from practitioners of feng shui."
+  "description": "The Bank of China commissioned Pei, whose father had been a senior figure in the bank, to design its Hong Kong headquarters, to be finished before the handover of the colony to China in 1997. The 367-metre tower, the tallest in Asia when completed in 1990, rises from a square divided diagonally into four triangles, which terminate at different heights like the shoots of bamboo, an image of growth. Its structure is a space frame of diagonal braces expressed on the façade in triangles, which carries wind loads efficiently with much less steel than a conventional tower. Its sharp angles drew criticism from practitioners of feng shui.",
+  "image_file": "HK Bank of China Tower 2008 (2).jpg",
+  "image_caption": "Bank of China Tower, Central, Hong Kong"
  },
  {
   "title": "Royal National Theatre",
@@ -1343,7 +1411,9 @@
   "type": "Theatre",
   "location": "South Bank, London, England",
   "note": "Lasdun's terraced concrete theatre on the South Bank, an icon of British Brutalism.",
-  "description": "The idea of a National Theatre had been discussed for a century before Lasdun was appointed in 1963, working with a committee including Laurence Olivier and Peter Brook. The building beside Waterloo Bridge contains three theatres: the large open-stage Olivier, inspired by the theatre of Epidaurus, the proscenium Lyttelton and the flexible Cottesloe, now the Dorfman. Outside, horizontal concrete terraces project at many levels like geological strata, extending the foyers into public balconies overlooking the Thames, while fly towers rise above. The concrete is board-marked, recording the grain of the timber formwork. Opened in stages in 1976–77, the building was at first much criticised; it was listed Grade II* in 1994 and has since been renovated."
+  "description": "The idea of a National Theatre had been discussed for a century before Lasdun was appointed in 1963, working with a committee including Laurence Olivier and Peter Brook. The building beside Waterloo Bridge contains three theatres: the large open-stage Olivier, inspired by the theatre of Epidaurus, the proscenium Lyttelton and the flexible Cottesloe, now the Dorfman. Outside, horizontal concrete terraces project at many levels like geological strata, extending the foyers into public balconies overlooking the Thames, while fly towers rise above. The concrete is board-marked, recording the grain of the timber formwork. Opened in stages in 1976–77, the building was at first much criticised; it was listed Grade II* in 1994 and has since been renovated.",
+  "image_file": "The National Theatre, South Bank, London - geograph.org.uk - 1861458.jpg",
+  "image_caption": "Royal National Theatre, South Bank, London, England"
  },
  {
   "title": "Barbican Estate",
@@ -1353,7 +1423,9 @@
   "type": "Housing estate and arts centre",
   "location": "City of London, England",
   "note": "A Brutalist city within the City of London, with towers, terraces, lakes and an arts centre.",
-  "description": "The Cripplegate area of the City of London was destroyed by bombing in 1940, and the City Corporation decided to rebuild it as a residential district for about 4,000 people. Chamberlin, Powell and Bon designed some 2,000 flats in three triangular towers, among the tallest residential buildings in London when completed, and long terrace blocks raised on columns around lakes, gardens and the surviving medieval church of St Giles Cripplegate, with the City of London School for Girls and the Guildhall School of Music and Drama. Pedestrian walkways separate people from traffic. The arts centre, opened by the Queen in 1982, contains concert hall, theatres, cinemas, a library and a conservatory. Its bush-hammered concrete was much disliked, but the estate was listed Grade II in 2001 and is now among the most sought-after addresses in London."
+  "description": "The Cripplegate area of the City of London was destroyed by bombing in 1940, and the City Corporation decided to rebuild it as a residential district for about 4,000 people. Chamberlin, Powell and Bon designed some 2,000 flats in three triangular towers, among the tallest residential buildings in London when completed, and long terrace blocks raised on columns around lakes, gardens and the surviving medieval church of St Giles Cripplegate, with the City of London School for Girls and the Guildhall School of Music and Drama. Pedestrian walkways separate people from traffic. The arts centre, opened by the Queen in 1982, contains concert hall, theatres, cinemas, a library and a conservatory. Its bush-hammered concrete was much disliked, but the estate was listed Grade II in 2001 and is now among the most sought-after addresses in London.",
+  "image_file": "Barbican towers.jpg",
+  "image_caption": "Barbican Estate, City of London, England"
  },
  {
   "title": "Vanna Venturi House",
@@ -1363,7 +1435,9 @@
   "type": "House",
   "location": "Chestnut Hill, Philadelphia, Pennsylvania, United States",
   "note": "A house for the architect's mother, with a split gable front, one of the first postmodern buildings.",
-  "description": "Robert Venturi designed this house for his widowed mother, Vanna, revising it repeatedly. Its front façade is a broad gable, split in the middle above the entrance, with a thin applied arch and a strip moulding, and windows of different shapes placed according to the rooms behind, not the symmetry of the front. Inside, a fireplace and chimney compete with the staircase for the centre of the house, and the stair narrows awkwardly around it. Small in size, the house plays with the conventional image of home, full of the complexity and contradiction Venturi was championing in his book of 1966. It received the American Institute of Architects' Twenty-five Year Award in 1989 and is often called the first postmodern building."
+  "description": "Robert Venturi designed this house for his widowed mother, Vanna, revising it repeatedly. Its front façade is a broad gable, split in the middle above the entrance, with a thin applied arch and a strip moulding, and windows of different shapes placed according to the rooms behind, not the symmetry of the front. Inside, a fireplace and chimney compete with the staircase for the centre of the house, and the stair narrows awkwardly around it. Small in size, the house plays with the conventional image of home, full of the complexity and contradiction Venturi was championing in his book of 1966. It received the American Institute of Architects' Twenty-five Year Award in 1989 and is often called the first postmodern building.",
+  "image_file": "VVenturi House Highsmith.jpeg",
+  "image_caption": "Vanna Venturi House, Chestnut Hill, Philadelphia, Pennsylvania, United States"
  },
  {
   "title": "Portland Building",
@@ -1373,7 +1447,9 @@
   "type": "Municipal office building",
   "location": "Portland, Oregon, United States",
   "note": "A cubic municipal building with giant pilasters, a keystone and pastel colours, the emblem of postmodernism.",
-  "description": "The city of Portland held a design competition for a fifteen-storey municipal office building on a modest budget, judged with Philip Johnson as adviser, and Michael Graves won. On a square block he painted and applied a giant classical vocabulary: huge tapering pilasters on the façades, a stylised keystone, garlands, and colours of terracotta, blue and cream, with small square windows. Above the entrance stands Portlandia, a large copper statue by Raymond Kaskey. The building was celebrated as a turning point away from modernism and criticised for its cramped, dark interiors and leaking walls. It was listed on the National Register of Historic Places in 2011 and was extensively rebuilt between 2017 and 2020, preserving its appearance."
+  "description": "The city of Portland held a design competition for a fifteen-storey municipal office building on a modest budget, judged with Philip Johnson as adviser, and Michael Graves won. On a square block he painted and applied a giant classical vocabulary: huge tapering pilasters on the façades, a stylised keystone, garlands, and colours of terracotta, blue and cream, with small square windows. Above the entrance stands Portlandia, a large copper statue by Raymond Kaskey. The building was celebrated as a turning point away from modernism and criticised for its cramped, dark interiors and leaking walls. It was listed on the National Register of Historic Places in 2011 and was extensively rebuilt between 2017 and 2020, preserving its appearance.",
+  "image_file": "Portland Building 1982.jpg",
+  "image_caption": "Portland Building, Portland, Oregon, United States"
  },
  {
   "title": "Centre Pompidou",
@@ -1383,7 +1459,9 @@
   "type": "Arts centre",
   "location": "Beaubourg, Paris, France",
   "note": "An inside-out cultural centre with its structure, escalators and colour-coded services on the outside.",
-  "description": "President Georges Pompidou wanted a centre for modern art, books, music and design in the Beaubourg district of Paris, and Renzo Piano, Richard Rogers and Gianfranco Franchini won the international competition of 1971, with engineers from Ove Arup and Partners. They designed a flexible container of six column-free floors, 166 metres long, whose steel structure, cast steel brackets called gerberettes, bracing and services are placed outside: blue for air, green for water, yellow for electricity, red for circulation, with a glass-tube escalator climbing the façade over a sloping public square. Opened in 1977, it was likened to an oil refinery, but became one of the most visited cultural buildings in France and the founding work of high-tech architecture. It closed in 2025 for a renovation planned to last about five years."
+  "description": "President Georges Pompidou wanted a centre for modern art, books, music and design in the Beaubourg district of Paris, and Renzo Piano, Richard Rogers and Gianfranco Franchini won the international competition of 1971, with engineers from Ove Arup and Partners. They designed a flexible container of six column-free floors, 166 metres long, whose steel structure, cast steel brackets called gerberettes, bracing and services are placed outside: blue for air, green for water, yellow for electricity, red for circulation, with a glass-tube escalator climbing the façade over a sloping public square. Opened in 1977, it was likened to an oil refinery, but became one of the most visited cultural buildings in France and the founding work of high-tech architecture. It closed in 2025 for a renovation planned to last about five years.",
+  "museum_name": "Centre Pompidou",
+  "museum_url": "https://www.centrepompidou.fr/"
  },
  {
   "title": "Lloyd's Building",
@@ -1393,7 +1471,9 @@
   "type": "Insurance market",
   "location": "City of London, England",
   "note": "A stainless-steel tower with lifts, stairs and ducts on the outside around a tall atrium.",
-  "description": "The insurance market Lloyd's of London needed a building that could expand and adapt, and Richard Rogers designed one around a central atrium about 60 metres high under a barrel-vaulted glass roof, with the underwriting floors arranged as galleries connected by escalators. Lifts, staircases, toilets and service ducts are placed in six stainless-steel towers outside the main block, so that they can be replaced without disturbing the core, and the clear glass lift cars run on the exterior. The Adam Room, an eighteenth-century dining room, was reassembled inside. Completed in 1986, it became in 2011 the youngest building in England listed Grade I."
+  "description": "The insurance market Lloyd's of London needed a building that could expand and adapt, and Richard Rogers designed one around a central atrium about 60 metres high under a barrel-vaulted glass roof, with the underwriting floors arranged as galleries connected by escalators. Lifts, staircases, toilets and service ducts are placed in six stainless-steel towers outside the main block, so that they can be replaced without disturbing the core, and the clear glass lift cars run on the exterior. The Adam Room, an eighteenth-century dining room, was reassembled inside. Completed in 1986, it became in 2011 the youngest building in England listed Grade I.",
+  "image_file": "Lloyds building taken 2011.jpg",
+  "image_caption": "Lloyd's Building, City of London, England"
  },
  {
   "title": "The Shard",
@@ -1403,7 +1483,9 @@
   "type": "Mixed-use skyscraper",
   "location": "Southwark, London, England",
   "note": "A tapering glass tower beside London Bridge station, once the tallest building in the European Union.",
-  "description": "The developer Irvine Sellar commissioned Renzo Piano to design a tower beside London Bridge station, and Piano is said to have sketched it on a napkin. The building tapers to 310 metres, its faceted glass planes splitting apart at the top, where they appear unfinished, so that the tower seems to dissolve into the sky. It contains offices, restaurants, a hotel, apartments and a public viewing gallery near the summit. Its slim, pointed form was intended to sit lightly among London's church spires, though conservation bodies objected to its effect on views of St Paul's and the Tower. On completion in 2012 it was the tallest building in the European Union."
+  "description": "The developer Irvine Sellar commissioned Renzo Piano to design a tower beside London Bridge station, and Piano is said to have sketched it on a napkin. The building tapers to 310 metres, its faceted glass planes splitting apart at the top, where they appear unfinished, so that the tower seems to dissolve into the sky. It contains offices, restaurants, a hotel, apartments and a public viewing gallery near the summit. Its slim, pointed form was intended to sit lightly among London's church spires, though conservation bodies objected to its effect on views of St Paul's and the Tower. On completion in 2012 it was the tallest building in the European Union.",
+  "image_file": "The Shard at sunset 2017 (cropped).jpg",
+  "image_caption": "The Shard, Southwark, London, England"
  },
  {
   "title": "HSBC Main Building, Hong Kong",
@@ -1413,7 +1495,9 @@
   "type": "Bank headquarters",
   "location": "Central, Hong Kong",
   "note": "A suspended steel structure with an open public plaza beneath and a sunlit atrium above.",
-  "description": "The Hongkong and Shanghai Banking Corporation commissioned Norman Foster to rebuild its headquarters on Statue Square, and it was among the most expensive buildings in the world when completed. Instead of a central core, the floors hang from five sets of steel suspension trusses carried by eight masts, so that the ground floor is an open public plaza through which pedestrians pass. Escalators rise from the plaza into a tall atrium, lit by a 'sunscoop' of mirrors that reflects daylight down into it. Prefabricated parts were made around the world, and the services are in modules placed along the sides. Feng shui advisers were consulted on the design."
+  "description": "The Hongkong and Shanghai Banking Corporation commissioned Norman Foster to rebuild its headquarters on Statue Square, and it was among the most expensive buildings in the world when completed. Instead of a central core, the floors hang from five sets of steel suspension trusses carried by eight masts, so that the ground floor is an open public plaza through which pedestrians pass. Escalators rise from the plaza into a tall atrium, lit by a 'sunscoop' of mirrors that reflects daylight down into it. Prefabricated parts were made around the world, and the services are in modules placed along the sides. Feng shui advisers were consulted on the design.",
+  "image_file": "HK HSBC Main Building 2008.jpg",
+  "image_caption": "HSBC Main Building, Hong Kong, Central, Hong Kong"
  },
  {
   "title": "Reichstag Dome",
@@ -1423,7 +1507,9 @@
   "type": "Parliament building renovation",
   "location": "Berlin, Germany",
   "note": "A glass dome with a spiral ramp over the restored Reichstag, home of the German Bundestag.",
-  "description": "After German reunification, the Bundestag decided to move back to the Reichstag building, completed in 1894 to a design by Paul Wallot, burned in 1933 and badly damaged in 1945. Foster and Partners won the competition to rebuild it, and the scheme was preceded by Christo and Jeanne-Claude's wrapping of the building in 1995. Inside the gutted shell, Foster created a new plenary chamber and offices, and crowned it with a glass dome, with two spiral ramps on which visitors can walk above the legislators, a symbol of transparency and democratic accountability. A mirrored cone at the centre reflects daylight into the chamber and draws out exhaust air. Graffiti by Soviet soldiers from 1945 were preserved in the interiors. It opened in 1999."
+  "description": "After German reunification, the Bundestag decided to move back to the Reichstag building, completed in 1894 to a design by Paul Wallot, burned in 1933 and badly damaged in 1945. Foster and Partners won the competition to rebuild it, and the scheme was preceded by Christo and Jeanne-Claude's wrapping of the building in 1995. Inside the gutted shell, Foster created a new plenary chamber and offices, and crowned it with a glass dome, with two spiral ramps on which visitors can walk above the legislators, a symbol of transparency and democratic accountability. A mirrored cone at the centre reflects daylight into the chamber and draws out exhaust air. Graffiti by Soviet soldiers from 1945 were preserved in the interiors. It opened in 1999.",
+  "image_file": "Reichstag dome interior (8423297236).jpg",
+  "image_caption": "Inside the Reichstag dome, with its spiral ramps and mirrored cone"
  },
  {
   "title": "30 St Mary Axe (The Gherkin)",
@@ -1433,7 +1519,9 @@
   "type": "Office tower",
   "location": "City of London, England",
   "note": "A bullet-shaped tower with a spiralling diagonal grid of glass and steel.",
-  "description": "The tower stands on the site of the Baltic Exchange, damaged by an IRA bomb in 1992. Commissioned by the reinsurance company Swiss Re, Foster and Partners designed a 41-storey tower, 180 metres high, whose circular plan swells in the middle and narrows to the top. Its diagonally braced steel structure, the diagrid, sits on the perimeter, freeing the floors of columns, and spiral light wells formed by rotating each floor plan draw air and daylight through the building, reducing energy use. Only one piece of curved glass, the lens at the summit, is used; the rest of the curve is made of flat panes. It won the RIBA Stirling Prize in 2004 and became a symbol of the City of London."
+  "description": "The tower stands on the site of the Baltic Exchange, damaged by an IRA bomb in 1992. Commissioned by the reinsurance company Swiss Re, Foster and Partners designed a 41-storey tower, 180 metres high, whose circular plan swells in the middle and narrows to the top. Its diagonally braced steel structure, the diagrid, sits on the perimeter, freeing the floors of columns, and spiral light wells formed by rotating each floor plan draw air and daylight through the building, reducing energy use. Only one piece of curved glass, the lens at the summit, is used; the rest of the curve is made of flat panes. It won the RIBA Stirling Prize in 2004 and became a symbol of the City of London.",
+  "image_file": "30 St Mary Axe, 'Gherkin'.JPG",
+  "image_caption": "30 St Mary Axe (The Gherkin), City of London, England"
  },
  {
   "title": "Guggenheim Museum Bilbao",
@@ -1443,7 +1531,9 @@
   "type": "Art museum",
   "location": "Bilbao, Spain",
   "note": "A titanium-clad museum of sweeping curves on the river Nervión, which transformed its city.",
-  "description": "The Basque government and the Solomon R. Guggenheim Foundation agreed in 1991 to build a museum of modern and contemporary art as part of the regeneration of Bilbao, a declining industrial port. Frank Gehry's design, on a former dockland site by the river and under a road bridge, is a cluster of curved volumes clad in some 33,000 thin titanium panels, with walls of limestone and glass, around a tall atrium. Its complex forms were designed and fabricated using CATIA, software developed for aircraft design. The galleries range from classical rooms to a huge boat-shaped hall for large-scale works such as Richard Serra's The Matter of Time. After it opened in 1997 visitors flooded into Bilbao, and the term 'Bilbao effect' came to describe the hope that a spectacular building can regenerate a city."
+  "description": "The Basque government and the Solomon R. Guggenheim Foundation agreed in 1991 to build a museum of modern and contemporary art as part of the regeneration of Bilbao, a declining industrial port. Frank Gehry's design, on a former dockland site by the river and under a road bridge, is a cluster of curved volumes clad in some 33,000 thin titanium panels, with walls of limestone and glass, around a tall atrium. Its complex forms were designed and fabricated using CATIA, software developed for aircraft design. The galleries range from classical rooms to a huge boat-shaped hall for large-scale works such as Richard Serra's The Matter of Time. After it opened in 1997 visitors flooded into Bilbao, and the term 'Bilbao effect' came to describe the hope that a spectacular building can regenerate a city.",
+  "image_file": "Museo Guggenheim, Bilbao (31273245344).jpg",
+  "image_caption": "Guggenheim Museum Bilbao, Bilbao, Spain"
  },
  {
   "title": "Walt Disney Concert Hall",
@@ -1453,7 +1543,9 @@
   "type": "Concert hall",
   "location": "Los Angeles, California, United States",
   "note": "The home of the Los Angeles Philharmonic, with billowing stainless-steel sails and a wooden auditorium.",
-  "description": "Lillian Disney, widow of Walt Disney, gave an initial gift of 50 million dollars in 1987 for a concert hall in downtown Los Angeles, and Gehry won the competition in 1988. The project stalled for years over funding, and the design of the exterior changed from stone to stainless steel after Bilbao. Its curving, sail-like panels enclose foyers and gardens around a vineyard-style auditorium in which the audience surrounds the orchestra, lined with Douglas fir and designed with the acoustician Yasuhisa Toyota, with an organ of curved pipes. It opened in 2003 as the home of the Los Angeles Philharmonic. Glare from polished panels heated neighbouring buildings and they were dulled. It became a symbol of downtown Los Angeles."
+  "description": "Lillian Disney, widow of Walt Disney, gave an initial gift of 50 million dollars in 1987 for a concert hall in downtown Los Angeles, and Gehry won the competition in 1988. The project stalled for years over funding, and the design of the exterior changed from stone to stainless steel after Bilbao. Its curving, sail-like panels enclose foyers and gardens around a vineyard-style auditorium in which the audience surrounds the orchestra, lined with Douglas fir and designed with the acoustician Yasuhisa Toyota, with an organ of curved pipes. It opened in 2003 as the home of the Los Angeles Philharmonic. Glare from polished panels heated neighbouring buildings and they were dulled. It became a symbol of downtown Los Angeles.",
+  "image_file": "Walt Disney Concert Hall, LA, CA, jjron 22.03.2012.jpg",
+  "image_caption": "Walt Disney Concert Hall, Los Angeles, California, United States"
  },
  {
   "title": "Vitra Fire Station",
@@ -1463,7 +1555,9 @@
   "type": "Fire station, later exhibition space",
   "location": "Vitra Campus, Weil am Rhein, Germany",
   "note": "Zaha Hadid's first major building, a composition of sharp, tilting concrete planes.",
-  "description": "After a fire in 1981 destroyed much of the Vitra furniture company's factory at Weil am Rhein, near Basel, its chairman Rolf Fehlbaum began commissioning buildings from leading architects for the site. Zaha Hadid, then known mainly for her paintings and unbuilt projects, was asked to design a small fire station for the company's own fire brigade. She created a long, narrow building of exposed concrete planes that slant, tilt and slice past each other, like a frozen explosion of movement, with a roof canopy projecting sharply over the entrance. When local fire brigades took over, the building became a space for displaying Vitra's chair collection and events. It established Hadid's reputation as a builder."
+  "description": "After a fire in 1981 destroyed much of the Vitra furniture company's factory at Weil am Rhein, near Basel, its chairman Rolf Fehlbaum began commissioning buildings from leading architects for the site. Zaha Hadid, then known mainly for her paintings and unbuilt projects, was asked to design a small fire station for the company's own fire brigade. She created a long, narrow building of exposed concrete planes that slant, tilt and slice past each other, like a frozen explosion of movement, with a roof canopy projecting sharply over the entrance. When local fire brigades took over, the building became a space for displaying Vitra's chair collection and events. It established Hadid's reputation as a builder.",
+  "image_file": "Baden-Württemberg Weil am Rhein Vitra Fire station 01.jpg",
+  "image_caption": "Vitra Fire Station, Vitra Campus, Weil am Rhein, Germany"
  },
  {
   "title": "Heydar Aliyev Center",
@@ -1473,7 +1567,9 @@
   "type": "Cultural centre",
   "location": "Baku, Azerbaijan",
   "note": "A cultural centre of continuous white curving surfaces, with no straight lines.",
-  "description": "Named after the former president of Azerbaijan and father of his successor, the centre was commissioned by the government as a symbol of the modernising, oil-rich state. Zaha Hadid Architects designed a building in which the landscaped plaza seems to rise, fold and curve into a continuous white surface that becomes walls and roof, without a visible break, over a conference hall, a museum and galleries. A space frame of steel supports the cladding of glass-fibre reinforced panels, whose forms were developed digitally. The building won the Design Museum's Design of the Year award in 2014. It also drew criticism over the commissioning government's record on human rights and the evictions associated with the site."
+  "description": "Named after the former president of Azerbaijan and father of his successor, the centre was commissioned by the government as a symbol of the modernising, oil-rich state. Zaha Hadid Architects designed a building in which the landscaped plaza seems to rise, fold and curve into a continuous white surface that becomes walls and roof, without a visible break, over a conference hall, a museum and galleries. A space frame of steel supports the cladding of glass-fibre reinforced panels, whose forms were developed digitally. The building won the Design Museum's Design of the Year award in 2014. It also drew criticism over the commissioning government's record on human rights and the evictions associated with the site.",
+  "museum_name": "Heydar Aliyev Center",
+  "museum_url": "https://heydaraliyevcenter.az/"
  },
  {
   "title": "Jewish Museum Berlin",
@@ -1483,7 +1579,9 @@
   "type": "Museum",
   "location": "Kreuzberg, Berlin, Germany",
   "note": "A zigzag zinc-clad building with voids, axes and a tower of silence, a monument of memory.",
-  "description": "Daniel Libeskind won the competition in 1989 for an extension to the Berlin Museum dedicated to Jewish history. The building is a zigzag in plan, like a broken Star of David, clad in zinc and cut by slashing windows. It has no entrance of its own: visitors descend from the Baroque old building into underground axes representing continuity, exile and the Holocaust, the last ending in a tall, cold, unheated tower lit only by a slit. A line of empty concrete voids cuts through the whole building and can be seen but not entered. In the Garden of Exile, visitors walk on a tilted floor among forty-nine concrete pillars with trees growing from their tops. Before any exhibits were installed, the empty building opened to visitors in 1999, and many thought it should remain empty; the museum opened in 2001."
+  "description": "Daniel Libeskind won the competition in 1989 for an extension to the Berlin Museum dedicated to Jewish history. The building is a zigzag in plan, like a broken Star of David, clad in zinc and cut by slashing windows. It has no entrance of its own: visitors descend from the Baroque old building into underground axes representing continuity, exile and the Holocaust, the last ending in a tall, cold, unheated tower lit only by a slit. A line of empty concrete voids cuts through the whole building and can be seen but not entered. In the Garden of Exile, visitors walk on a tilted floor among forty-nine concrete pillars with trees growing from their tops. Before any exhibits were installed, the empty building opened to visitors in 1999, and many thought it should remain empty; the museum opened in 2001.",
+  "image_file": "Berlin Jüdisches Museum und der Libeskind-Bau.jpg",
+  "image_caption": "The Libeskind building beside the Baroque old building of the Jewish Museum"
  },
  {
   "title": "Seattle Central Library",
@@ -1493,7 +1591,9 @@
   "type": "Public library",
   "location": "Seattle, Washington, United States",
   "note": "A library of stacked, shifted platforms wrapped in a diamond-grid glass skin.",
-  "description": "OMA, led by Rem Koolhaas with Joshua Prince-Ramus, designed Seattle's new central library by analysing the library's functions and grouping them into five stable 'platforms' stacked and shifted to fit the site, with more fluid public spaces in between. A diamond-patterned steel and glass skin stretches over the whole, creating a striking faceted form. The 'Books Spiral', a continuous ramp of shelving running through four floors, keeps the non-fiction collection in unbroken Dewey order, and a great top-lit reading room crowns the building. A bright red floor of meeting rooms and a 'living room' open to the city are among its features. It opened in 2004 and has been heavily used."
+  "description": "OMA, led by Rem Koolhaas with Joshua Prince-Ramus, designed Seattle's new central library by analysing the library's functions and grouping them into five stable 'platforms' stacked and shifted to fit the site, with more fluid public spaces in between. A diamond-patterned steel and glass skin stretches over the whole, creating a striking faceted form. The 'Books Spiral', a continuous ramp of shelving running through four floors, keeps the non-fiction collection in unbroken Dewey order, and a great top-lit reading room crowns the building. A bright red floor of meeting rooms and a 'living room' open to the city are among its features. It opened in 2004 and has been heavily used.",
+  "image_file": "Seattle Library 01.jpg",
+  "image_caption": "Seattle Central Library, Seattle, Washington, United States"
  },
  {
   "title": "CCTV Headquarters",
@@ -1503,7 +1603,9 @@
   "type": "Media headquarters",
   "location": "Beijing, China",
   "note": "A looping tower in which two leaning towers meet in a cantilevered bridge.",
-  "description": "China Central Television commissioned OMA, led by Rem Koolhaas and Ole Scheeren, with the engineers Arup, for its headquarters in Beijing's new business district. Instead of a conventional skyscraper, two leaning towers rise from a common base and join at the top in a cantilevered L-shaped bridge, forming a continuous loop of spaces for the broadcaster's production, offices and services. The irregular diagonal grid on its glass skin expresses the forces in the structure, denser where stresses are greater. Its shape earned it popular nicknames, and a fire in an adjacent building in 2009 delayed its completion. The building was seen as a symbol of China's ambitions before the 2008 Olympics, and its commission for a state broadcaster provoked debate in the West."
+  "description": "China Central Television commissioned OMA, led by Rem Koolhaas and Ole Scheeren, with the engineers Arup, for its headquarters in Beijing's new business district. Instead of a conventional skyscraper, two leaning towers rise from a common base and join at the top in a cantilevered L-shaped bridge, forming a continuous loop of spaces for the broadcaster's production, offices and services. The irregular diagonal grid on its glass skin expresses the forces in the structure, denser where stresses are greater. Its shape earned it popular nicknames, and a fire in an adjacent building in 2009 delayed its completion. The building was seen as a symbol of China's ambitions before the 2008 Olympics, and its commission for a state broadcaster provoked debate in the West.",
+  "image_file": "China Central Television HQ, from China World Trade Centre (Cropped).jpg",
+  "image_caption": "CCTV Headquarters, Beijing, China"
  },
  {
   "title": "City of Arts and Sciences",
@@ -1513,7 +1615,9 @@
   "type": "Cultural complex",
   "location": "Valencia, Spain",
   "note": "A complex of white skeletal buildings in the former bed of the river Turia.",
-  "description": "After a catastrophic flood in 1957, Valencia diverted the river Turia, and its old bed became a long park. At its south-eastern end the regional government built the City of Arts and Sciences, mostly designed by Santiago Calatrava, a native of the city. Its buildings include the Hemisfèric (1998), a planetarium and IMAX cinema like a great eye with a moving lid, the Science Museum, with its rib-like structure, the Umbracle, a landscaped walkway, the Ágora, and the Palau de les Arts Reina Sofía (2005), an opera house under a huge feather-like crest, set among shallow pools. The oceanographic park was designed by Félix Candela. The complex became a symbol of Valencia and a tourist attraction, but its cost overruns and maintenance problems, such as the loss of mosaic tiles from the opera house, have been widely criticised."
+  "description": "After a catastrophic flood in 1957, Valencia diverted the river Turia, and its old bed became a long park. At its south-eastern end the regional government built the City of Arts and Sciences, mostly designed by Santiago Calatrava, a native of the city. Its buildings include the Hemisfèric (1998), a planetarium and IMAX cinema like a great eye with a moving lid, the Science Museum, with its rib-like structure, the Umbracle, a landscaped walkway, the Ágora, and the Palau de les Arts Reina Sofía (2005), an opera house under a huge feather-like crest, set among shallow pools. The oceanographic park was designed by Félix Candela. The complex became a symbol of Valencia and a tourist attraction, but its cost overruns and maintenance problems, such as the loss of mosaic tiles from the opera house, have been widely criticised.",
+  "image_file": "Hemisferic y Palacio de las Artes Reina Sofia, Valencia.jpg",
+  "image_caption": "The Hemisfèric and the Palau de les Arts Reina Sofia"
  },
  {
   "title": "Tate Modern",
@@ -1523,7 +1627,9 @@
   "type": "Art museum in a former power station",
   "location": "Bankside, London, England",
   "note": "A power station converted into a museum of modern art, with a vast Turbine Hall.",
-  "description": "Bankside Power Station, designed by Giles Gilbert Scott and built in stages from 1947 to 1963, closed in 1981. The Tate chose it for a new museum of modern and contemporary art, and Herzog & de Meuron won the competition in 1995 with a scheme that preserved the brick building and its tall chimney. They turned the former Turbine Hall into a vast covered street and space for commissioned installations, and added a two-storey light beam of glass along the roof. Tate Modern opened in 2000, received many more visitors than expected, and helped transform the South Bank. The architects added the Blavatnik Building, a twisted pyramid of perforated brick, in 2016. It is among the most visited museums of modern art in the world."
+  "description": "Bankside Power Station, designed by Giles Gilbert Scott and built in stages from 1947 to 1963, closed in 1981. The Tate chose it for a new museum of modern and contemporary art, and Herzog & de Meuron won the competition in 1995 with a scheme that preserved the brick building and its tall chimney. They turned the former Turbine Hall into a vast covered street and space for commissioned installations, and added a two-storey light beam of glass along the roof. Tate Modern opened in 2000, received many more visitors than expected, and helped transform the South Bank. The architects added the Blavatnik Building, a twisted pyramid of perforated brick, in 2016. It is among the most visited museums of modern art in the world.",
+  "image_file": "Tate Modern - Bankside Power Station.jpg",
+  "image_caption": "Tate Modern, Bankside, London, England"
  },
  {
   "title": "Elbphilharmonie",
@@ -1533,6 +1639,8 @@
   "type": "Concert hall",
   "location": "HafenCity, Hamburg, Germany",
   "note": "A wave-crested glass concert hall built on top of a brick harbour warehouse.",
-  "description": "The Elbphilharmonie stands on the tip of a peninsula in Hamburg's harbour, on top of the Kaispeicher A, a brick warehouse of the 1960s for cocoa, tea and tobacco. Herzog & de Meuron raised a glass structure on it whose roof rises and falls like waves, made of curved panes partly printed with dots. Between the old warehouse and the new building, a public plaza 37 metres above the ground gives views over the city and harbour. Inside are a hotel, apartments and three concert halls; the great hall, with seats rising in vineyard terraces around the stage, is lined with 10,000 gypsum panels individually milled to scatter sound, designed with the acoustician Yasuhisa Toyota. Costs rose from an estimated 77 million to about 789 million euros and the opening was delayed by years, but since 2017 it has become a symbol of Hamburg."
+  "description": "The Elbphilharmonie stands on the tip of a peninsula in Hamburg's harbour, on top of the Kaispeicher A, a brick warehouse of the 1960s for cocoa, tea and tobacco. Herzog & de Meuron raised a glass structure on it whose roof rises and falls like waves, made of curved panes partly printed with dots. Between the old warehouse and the new building, a public plaza 37 metres above the ground gives views over the city and harbour. Inside are a hotel, apartments and three concert halls; the great hall, with seats rising in vineyard terraces around the stage, is lined with 10,000 gypsum panels individually milled to scatter sound, designed with the acoustician Yasuhisa Toyota. Costs rose from an estimated 77 million to about 789 million euros and the opening was delayed by years, but since 2017 it has become a symbol of Hamburg.",
+  "image_file": "Elbphilharmonie 2025.jpg",
+  "image_caption": "Elbphilharmonie, HafenCity, Hamburg, Germany"
  }
 ]

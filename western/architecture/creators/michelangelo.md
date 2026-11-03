@@ -1,11 +1,15 @@
 # Michelangelo Buonarroti
 
+<a href="https://commons.wikimedia.org/wiki/File:Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/330px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg" alt="Michelangelo Buonarroti" title="Daniele da Volterra, portrait of Michelangelo (detail)"></a>
+
 **1475 – 1564** · Florentine  
 Born: Caprese, Republic of Florence · Died: Rome  
 Styles: [Renaissance](../movements/renaissance-architecture.md), [Mannerism](../movements/mannerism.md)  
 Also in: [Art](../../art/creators/michelangelo.md)  
 
 > Sculptor, painter and poet who became, in later life, the most influential architect of the sixteenth century, designing the Laurentian Library, the Campidoglio and the dome of St Peter's.
+
+<sub>Portrait: Daniele da Volterra, portrait of Michelangelo (detail) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg)</sub>
 
 ## Biography
 

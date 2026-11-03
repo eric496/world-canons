@@ -21,6 +21,10 @@ Mies sought a universal architecture of the industrial age: a precise steel or c
 
 ### Barcelona Pavilion (1929; reconstructed 1983–1986)
 
+[![Barcelona Pavilion](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Barcelona_Pavilion%2C_Barcelona%2C_2010.jpg/1280px-The_Barcelona_Pavilion%2C_Barcelona%2C_2010.jpg)](https://commons.wikimedia.org/wiki/File:The_Barcelona_Pavilion%2C_Barcelona%2C_2010.jpg)
+
+<sub>Barcelona Pavilion, Montjuïc, Barcelona, Spain Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_Barcelona_Pavilion%2C_Barcelona%2C_2010.jpg).</sub>
+
 - **Date:** 1929; reconstructed 1983–1986
 - **Type:** Exhibition pavilion
 - **Location:** Montjuïc, Barcelona, Spain
@@ -29,6 +33,10 @@ Mies sought a universal architecture of the industrial age: a precise steel or c
 Mies van der Rohe and Lilly Reich designed the German Pavilion at the 1929 Barcelona International Exposition as a representational building with no exhibits, used for the opening ceremony with the Spanish king. A flat roof rests on eight cruciform chrome-clad steel columns, freeing walls of onyx, green marble and glass to stand as independent planes that guide visitors through a continuous space, with two shallow pools, one holding a bronze statue by Georg Kolbe. The Barcelona Chair was designed for the pavilion. It was dismantled in 1930, but its photographs made it one of the most influential buildings of the century. A permanent reconstruction was built on the original site in 1983–86.
 
 ### Villa Tugendhat (1928–1930)
+
+[![Villa Tugendhat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vila_Tugendhat_exterior_Dvorak2.JPG/1280px-Vila_Tugendhat_exterior_Dvorak2.JPG)](https://commons.wikimedia.org/wiki/File:Vila_Tugendhat_exterior_Dvorak2.JPG)
+
+<sub>Villa Tugendhat, Brno, Czech Republic Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Vila_Tugendhat_exterior_Dvorak2.JPG).</sub>
 
 - **Date:** 1928–1930
 - **Type:** House
@@ -39,6 +47,10 @@ Grete and Fritz Tugendhat, from wealthy industrial families, commissioned Mies t
 
 ### Farnsworth House (1945–1951)
 
+[![Farnsworth House](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Farnsworth_House_by_Mies_Van_Der_Rohe_-_exterior-8.jpg/1280px-Farnsworth_House_by_Mies_Van_Der_Rohe_-_exterior-8.jpg)](https://commons.wikimedia.org/wiki/File:Farnsworth_House_by_Mies_Van_Der_Rohe_-_exterior-8.jpg)
+
+<sub>Farnsworth House, Plano, Illinois, United States Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Farnsworth_House_by_Mies_Van_Der_Rohe_-_exterior-8.jpg).</sub>
+
 - **Date:** 1945–1951
 - **Type:** Weekend house
 - **Location:** Plano, Illinois, United States
@@ -47,6 +59,10 @@ Grete and Fritz Tugendhat, from wealthy industrial families, commissioned Mies t
 Edith Farnsworth, a Chicago physician, commissioned Mies to design a weekend retreat on a wooded site beside the Fox River. The house is a single glass-walled room between a floor slab and a roof slab, held about 1.6 metres above the floodplain by eight white-painted steel columns welded to the edges, with a terrace and floating steps. A wooden core contains the kitchen, bathrooms and fireplace. The house became the subject of a lawsuit between architect and client over costs, and Farnsworth complained about living in a glass box. It has been flooded several times. Philip Johnson's Glass House was inspired by it. It is now a museum owned by the National Trust for Historic Preservation.
 
 ### Seagram Building (1954–1958)
+
+[![Seagram Building](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Seagram_Building_%2835098307116%29.jpg/1280px-Seagram_Building_%2835098307116%29.jpg)](https://commons.wikimedia.org/wiki/File:Seagram_Building_%2835098307116%29.jpg)
+
+<sub>Seagram Building, Park Avenue, New York City, United States Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Seagram_Building_%2835098307116%29.jpg).</sub>
 
 - **Date:** 1954–1958
 - **Type:** Office tower

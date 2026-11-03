@@ -59,6 +59,10 @@ The Erechtheion, on the north side of the Acropolis, housed the ancient olive-wo
 
 ### Theatre of Epidaurus (c. 340–300 BC)
 
+[![Theatre of Epidaurus](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Theatre_of_Epidaurus_OLC.jpg/1280px-Theatre_of_Epidaurus_OLC.jpg)](https://commons.wikimedia.org/wiki/File:Theatre_of_Epidaurus_OLC.jpg)
+
+<sub>The theatre of Epidaurus seen from the upper rows Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Theatre_of_Epidaurus_OLC.jpg).</sub>
+
 - **Date:** c. 340–300 BC
 - **Type:** Theatre
 - **Location:** Epidaurus, Peloponnese, Greece

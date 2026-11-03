@@ -1,10 +1,14 @@
 # Juan de Herrera
 
+<a href="https://commons.wikimedia.org/wiki/File:Juan_de_Herrera.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Juan_de_Herrera.jpg" alt="Juan de Herrera" title="Portrait of Juan de Herrera"></a>
+
 **c. 1530 – 1597** · Spanish  
 Born: Roiz, Cantabria · Died: Madrid  
 Styles: [Renaissance](../movements/renaissance-architecture.md)  
 
 > Architect, mathematician and courtier of Philip II of Spain who completed El Escorial and created the severe Herrerian style.
+
+<sub>Portrait: Portrait of Juan de Herrera · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Juan_de_Herrera.jpg)</sub>
 
 ## Biography
 

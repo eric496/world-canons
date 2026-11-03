@@ -16,6 +16,10 @@ Johnson was an arbiter of taste more than an innovator, moving from Miesian mode
 
 ### Glass House (1949)
 
+[![Glass House](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Philip_Johnson_Glass_House_The_House.jpg/1280px-Philip_Johnson_Glass_House_The_House.jpg)](https://commons.wikimedia.org/wiki/File:Philip_Johnson_Glass_House_The_House.jpg)
+
+<sub>Glass House, New Canaan, Connecticut, United States Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Philip_Johnson_Glass_House_The_House.jpg).</sub>
+
 - **Date:** 1949
 - **Type:** House
 - **Location:** New Canaan, Connecticut, United States

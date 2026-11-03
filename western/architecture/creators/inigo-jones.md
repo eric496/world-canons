@@ -1,10 +1,14 @@
 # Inigo Jones
 
+<a href="https://commons.wikimedia.org/wiki/File:PortraitInigoJones.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/3/31/PortraitInigoJones.jpg" alt="Inigo Jones" title="Portrait of Inigo Jones"></a>
+
 **1573 – 1652** · English  
 Born: London · Died: London  
 Styles: [Palladianism & Neoclassicism](../movements/neoclassicism.md)  
 
 > The first English architect to master Italian classicism, designer of the Queen's House at Greenwich and the Banqueting House in Whitehall.
+
+<sub>Portrait: Portrait of Inigo Jones · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PortraitInigoJones.jpg)</sub>
 
 ## Biography
 

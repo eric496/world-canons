@@ -16,6 +16,10 @@ Utzon's architecture draws on platforms and roofs, on natural growth and on the 
 
 ### Sydney Opera House (1959–1973)
 
+[![Sydney Opera House](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sydney_Opera_House_2026.jpg/1280px-Sydney_Opera_House_2026.jpg)](https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_2026.jpg)
+
+<sub>Sydney Opera House, Bennelong Point, Sydney, Australia Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_2026.jpg).</sub>
+
 - **Date:** 1959–1973
 - **Type:** Performing arts centre
 - **Location:** Bennelong Point, Sydney, Australia
