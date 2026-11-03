@@ -8,7 +8,7 @@ A generation of young German writers rebelled against French rules with works of
 
 ## Authors
 
--  [Johann Wolfgang von Goethe](../creators/goethe.md) (1749 – 1832)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/330px-Goethe_%28Stieler_1828%29.jpg" width="40" alt="Johann Wolfgang von Goethe"> [Johann Wolfgang von Goethe](../creators/goethe.md) (1749 – 1832)
 
 ## Key works
 

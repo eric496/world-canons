@@ -8,39 +8,39 @@ Romantic writers prized imagination, feeling, nature and the individual over rea
 
 ## Authors
 
--  [Jean-Jacques Rousseau](../creators/jean-jacques-rousseau.md) (1712 – 1778)
--  [Johann Wolfgang von Goethe](../creators/goethe.md) (1749 – 1832)
--  [William Blake](../creators/blake.md) (1757 – 1827)
--  [William Wordsworth](../creators/wordsworth.md) (1770 – 1850)
--  [Samuel Taylor Coleridge](../creators/coleridge.md) (1772 – 1834)
--  [Jane Austen](../creators/austen.md) (1775 – 1817)
--  [Lord Byron (George Gordon Byron)](../creators/byron.md) (1788 – 1824)
--  [Percy Bysshe Shelley](../creators/percy-shelley.md) (1792 – 1822)
--  [John Keats](../creators/keats.md) (1795 – 1821)
--  [Mary Shelley](../creators/mary-shelley.md) (1797 – 1851)
--  [Alexander Pushkin](../creators/pushkin.md) (1799 – 1837)
--  [Victor Hugo](../creators/hugo.md) (1802 – 1885)
--  [Charlotte Brontë](../creators/charlotte-bronte.md) (1816 – 1855)
--  [Emily Brontë](../creators/emily-bronte.md) (1818 – 1848)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg/330px-Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg" width="40" alt="Jean-Jacques Rousseau"> [Jean-Jacques Rousseau](../creators/jean-jacques-rousseau.md) (1712 – 1778)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/330px-Goethe_%28Stieler_1828%29.jpg" width="40" alt="Johann Wolfgang von Goethe"> [Johann Wolfgang von Goethe](../creators/goethe.md) (1749 – 1832)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/William_Blake_by_Thomas_Phillips.jpg/330px-William_Blake_by_Thomas_Phillips.jpg" width="40" alt="William Blake"> [William Blake](../creators/blake.md) (1757 – 1827)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wordsworth_on_Helvellyn_by_Benjamin_Robert_Haydon.jpg/330px-Wordsworth_on_Helvellyn_by_Benjamin_Robert_Haydon.jpg" width="40" alt="William Wordsworth"> [William Wordsworth](../creators/wordsworth.md) (1770 – 1850)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Samuel_Taylor_Coleridge_at_age_42.jpg/330px-Samuel_Taylor_Coleridge_at_age_42.jpg" width="40" alt="Samuel Taylor Coleridge"> [Samuel Taylor Coleridge](../creators/coleridge.md) (1772 – 1834)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg/330px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg" width="40" alt="Jane Austen"> [Jane Austen](../creators/austen.md) (1775 – 1817)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Byron_1813_by_Phillips.jpg" width="40" alt="Lord Byron (George Gordon Byron)"> [Lord Byron (George Gordon Byron)](../creators/byron.md) (1788 – 1824)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Percy_Bysshe_Shelley_by_Alfred_Clint.jpg/330px-Percy_Bysshe_Shelley_by_Alfred_Clint.jpg" width="40" alt="Percy Bysshe Shelley"> [Percy Bysshe Shelley](../creators/percy-shelley.md) (1792 – 1822)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/John_Keats_by_William_Hilton_circa_1822_02.jpg/330px-John_Keats_by_William_Hilton_circa_1822_02.jpg" width="40" alt="John Keats"> [John Keats](../creators/keats.md) (1795 – 1821)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mary_Wollstonecraft_Shelley_Rothwell.tif/lossy-page1-1280px-Mary_Wollstonecraft_Shelley_Rothwell.tif.jpg" width="40" alt="Mary Shelley"> [Mary Shelley](../creators/mary-shelley.md) (1797 – 1851)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Orest_Kiprensky_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%BF%D0%BE%D1%8D%D1%82%D0%B0_%D0%90.%D0%A1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_-_Google_Art_Project.jpg/330px-Orest_Kiprensky_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%BF%D0%BE%D1%8D%D1%82%D0%B0_%D0%90.%D0%A1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_-_Google_Art_Project.jpg" width="40" alt="Alexander Pushkin"> [Alexander Pushkin](../creators/pushkin.md) (1799 – 1837)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bonnat_Hugo001z.jpg/330px-Bonnat_Hugo001z.jpg" width="40" alt="Victor Hugo"> [Victor Hugo](../creators/hugo.md) (1802 – 1885)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg/330px-Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg" width="40" alt="Charlotte Brontë"> [Charlotte Brontë](../creators/charlotte-bronte.md) (1816 – 1855)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Emily_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg" width="40" alt="Emily Brontë"> [Emily Brontë](../creators/emily-bronte.md) (1818 – 1848)
 
 ## Key works
 
 | Image | Year | Work | Author | First published |
 |---|---|---|---|---|
-| — | 1789–1794 | **Songs of Innocence and of Experience** | [William Blake](../creators/blake.md) | London; relief-etched, printed and hand-coloured by Blake and his wife |
-| — | 1798 | **Lyrical Ballads** | [William Wordsworth](../creators/wordsworth.md) | Bristol, published by Joseph Cottle; enlarged edition with Preface, London 1800 |
-| — | 1798 | **The Rime of the Ancient Mariner** | [Samuel Taylor Coleridge](../creators/coleridge.md) | Bristol, in Lyrical Ballads; revised with marginal glosses in Sibylline Leaves, 1817 |
-| — | 1797; published 1816 | **Kubla Khan** | [Samuel Taylor Coleridge](../creators/coleridge.md) | London, published by John Murray with Christabel and The Pains of Sleep |
-| — | 1818 | **Frankenstein** | [Mary Shelley](../creators/mary-shelley.md) | London, published anonymously by Lackington, Hughes, Harding, Mavor & Jones |
-| — | 1819–1824 | **Don Juan** | [Lord Byron (George Gordon Byron)](../creators/byron.md) | London, published by John Murray (cantos 1–5) and John Hunt |
-| — | 1819 | **Ode to a Nightingale** | [John Keats](../creators/keats.md) | Annals of the Fine Arts, July 1819; collected in Lamia, Isabella, The Eve of St Agnes, and Other Poems, 1820 |
-| — | 1820 | **Prometheus Unbound** | [Percy Bysshe Shelley](../creators/percy-shelley.md) | London, published by Charles and James Ollier |
+| <a href="https://commons.wikimedia.org/wiki/File:Songs_of_Innocence_and_of_Experience%2C_copy_AA%2C_object_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Songs_of_Innocence_and_of_Experience%2C_copy_AA%2C_object_1.jpg" width="140" alt="Songs of Innocence and of Experience"></a> | 1789–1794 | **Songs of Innocence and of Experience** | [William Blake](../creators/blake.md) | London; relief-etched, printed and hand-coloured by Blake and his wife |
+| <a href="https://commons.wikimedia.org/wiki/File:Lyrical_Ballads.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Lyrical_Ballads.jpg" width="140" alt="Lyrical Ballads"></a> | 1798 | **Lyrical Ballads** | [William Wordsworth](../creators/wordsworth.md) | Bristol, published by Joseph Cottle; enlarged edition with Preface, London 1800 |
+| <a href="https://commons.wikimedia.org/wiki/File:Dore-I_had_done_a_hellish_thing.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Dore-I_had_done_a_hellish_thing.jpg" width="140" alt="The Rime of the Ancient Mariner"></a> | 1798 | **The Rime of the Ancient Mariner** | [Samuel Taylor Coleridge](../creators/coleridge.md) | Bristol, in Lyrical Ballads; revised with marginal glosses in Sibylline Leaves, 1817 |
+| <a href="https://commons.wikimedia.org/wiki/File:Kubla_Khan_titlepage.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kubla_Khan_titlepage.jpg" width="140" alt="Kubla Khan"></a> | 1797; published 1816 | **Kubla Khan** | [Samuel Taylor Coleridge](../creators/coleridge.md) | London, published by John Murray with Christabel and The Pains of Sleep |
+| <a href="https://commons.wikimedia.org/wiki/File:Christie%27s_auction_scan_of_Frankenstein_1818.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christie%27s_auction_scan_of_Frankenstein_1818.jpg/330px-Christie%27s_auction_scan_of_Frankenstein_1818.jpg" width="140" alt="Frankenstein"></a> | 1818 | **Frankenstein** | [Mary Shelley](../creators/mary-shelley.md) | London, published anonymously by Lackington, Hughes, Harding, Mavor & Jones |
+| <a href="https://commons.wikimedia.org/wiki/File:Don_Juan_1st_edition_cover%2C_1819.png"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Don_Juan_1st_edition_cover%2C_1819.png" width="140" alt="Don Juan"></a> | 1819–1824 | **Don Juan** | [Lord Byron (George Gordon Byron)](../creators/byron.md) | London, published by John Murray (cantos 1–5) and John Hunt |
+| <a href="https://commons.wikimedia.org/wiki/File:W._J._Neatby_-_Keats_-_Nightingale.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/W._J._Neatby_-_Keats_-_Nightingale.jpg" width="140" alt="Ode to a Nightingale"></a> | 1819 | **Ode to a Nightingale** | [John Keats](../creators/keats.md) | Annals of the Fine Arts, July 1819; collected in Lamia, Isabella, The Eve of St Agnes, and Other Poems, 1820 |
+| <a href="https://commons.wikimedia.org/wiki/File:Prometheus_Unbound.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Prometheus_Unbound.gif" width="140" alt="Prometheus Unbound"></a> | 1820 | **Prometheus Unbound** | [Percy Bysshe Shelley](../creators/percy-shelley.md) | London, published by Charles and James Ollier |
 | — | 1831 | **Notre-Dame de Paris (The Hunchback of Notre-Dame)** | [Victor Hugo](../creators/hugo.md) | Paris, published by Gosselin |
-| — | 1825–1832; complete edition 1833 | **Eugene Onegin** | [Alexander Pushkin](../creators/pushkin.md) | Saint Petersburg (serialised in chapters; complete edition 1833) |
+| <a href="https://commons.wikimedia.org/wiki/File:Eugene_Onegin_book_edition.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Eugene_Onegin_book_edition.jpg" width="140" alt="Eugene Onegin"></a> | 1825–1832; complete edition 1833 | **Eugene Onegin** | [Alexander Pushkin](../creators/pushkin.md) | Saint Petersburg (serialised in chapters; complete edition 1833) |
 | — | 1833; published 1837 | **The Bronze Horseman** | [Alexander Pushkin](../creators/pushkin.md) | Saint Petersburg (published posthumously in a censored version, 1837) |
-| — | 1847 | **Wuthering Heights** | [Emily Brontë](../creators/emily-bronte.md) | London, published by Thomas Cautley Newby under the name Ellis Bell |
+| <a href="https://commons.wikimedia.org/wiki/File:Houghton_Lowell_1238.5_%28A%29_-_Wuthering_Heights%2C_1847.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Houghton_Lowell_1238.5_%28A%29_-_Wuthering_Heights%2C_1847.jpg/330px-Houghton_Lowell_1238.5_%28A%29_-_Wuthering_Heights%2C_1847.jpg" width="140" alt="Wuthering Heights"></a> | 1847 | **Wuthering Heights** | [Emily Brontë](../creators/emily-bronte.md) | London, published by Thomas Cautley Newby under the name Ellis Bell |
 | — | 1798–1839; published 1850 | **The Prelude** | [William Wordsworth](../creators/wordsworth.md) | London, published posthumously by Edward Moxon |
-| — | 1862 | **Les Misérables** | [Victor Hugo](../creators/hugo.md) | Brussels, published by A. Lacroix, Verboeckhoven & Cie (simultaneously in Paris) |
+| <a href="https://commons.wikimedia.org/wiki/File:Monsieur_Madeleine_par_Gustave_Brion.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Monsieur_Madeleine_par_Gustave_Brion.jpg/330px-Monsieur_Madeleine_par_Gustave_Brion.jpg" width="140" alt="Les Misérables"></a> | 1862 | **Les Misérables** | [Victor Hugo](../creators/hugo.md) | Brussels, published by A. Lacroix, Verboeckhoven & Cie (simultaneously in Paris) |
 
 ---
 [← Sturm und Drang & Weimar Classicism](sturm-und-drang.md) · [Literature](../README.md) · [American Renaissance →](american-renaissance.md)

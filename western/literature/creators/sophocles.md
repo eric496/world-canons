@@ -1,10 +1,16 @@
 # Sophocles
 
+<a href="https://commons.wikimedia.org/wiki/File:Sophocles_pushkin.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Sophocles_pushkin.jpg" alt="Sophocles" title="Bust of Sophocles (cast), Pushkin Museum, Moscow"></a>
+
 **c. 497 BC – 406 BC** · Greek (Athenian)  
 Born: Colonus, near Athens · Died: Athens  
 Movements & eras: [Greek tragedy & comedy](../movements/greek-drama.md)  
 
 > The Athenian tragedian whose Oedipus the King Aristotle held up as the model of tragedy. Seven of his more than 120 plays survive.
+
+<sub>Portrait: Bust of Sophocles (cast), Pushkin Museum, Moscow · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sophocles_pushkin.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Sophocles)
 
 ## Biography
 
@@ -19,21 +25,29 @@ Sophocles is credited with introducing a third actor and with painted scenery, a
 
 ### Antigone (c. 441 BC)
 
+[![Antigone](https://upload.wikimedia.org/wikipedia/commons/8/8c/Lytras_nikiforos_antigone_polynices.jpeg)](https://commons.wikimedia.org/wiki/File:Lytras_nikiforos_antigone_polynices.jpeg)
+
+<sub>Nikiforos Lytras, Antigone before the Dead Polynices, 1865 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Lytras_nikiforos_antigone_polynices.jpeg).</sub>
+
 - **Date:** c. 441 BC
 - **Type:** Tragedy
 - **First published:** First performed in Athens
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Antigone%20Sophocles)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Antigone)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Antigone+Sophocles)
 
 Antigone is set in Thebes after a civil war in which Oedipus's sons Eteocles and Polynices have killed each other. Their uncle Creon, now king, decrees that Polynices, who attacked the city, must lie unburied. Their sister Antigone defies him, sprinkling earth on the body in obedience to the gods' unwritten laws, and when caught refuses to repent. Creon condemns her to be walled up alive in a cave, ignoring the pleas of his son Haemon, her betrothed, and the warnings of the prophet Tiresias. When he finally relents, it is too late: Antigone has hanged herself, Haemon kills himself over her body, and Creon's wife Eurydice takes her own life. The play's clash between individual conscience and state authority, and between two people each partly in the right, as Hegel argued, has made it one of the most discussed works of drama. It has been rewritten in new political contexts by Anouilh, Brecht and many others.
 
 ### Oedipus the King (Oedipus Rex) (c. 429 BC)
 
+[![Oedipus the King (Oedipus Rex)](https://upload.wikimedia.org/wikipedia/commons/4/42/Jean-Auguste-Dominique_Ingres_%281780-1867%29_-_Oedipus_and_the_Sphinx_-_NG3290_-_National_Gallery.jpg)](https://commons.wikimedia.org/wiki/File:Jean-Auguste-Dominique_Ingres_%281780-1867%29_-_Oedipus_and_the_Sphinx_-_NG3290_-_National_Gallery.jpg)
+
+<sub>Jean-Auguste-Dominique Ingres, Oedipus and the Sphinx, National Gallery, London Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Jean-Auguste-Dominique_Ingres_%281780-1867%29_-_Oedipus_and_the_Sphinx_-_NG3290_-_National_Gallery.jpg).</sub>
+
 - **Date:** c. 429 BC
 - **Type:** Tragedy
 - **First published:** First performed at the Great Dionysia, Athens
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Oedipus%20the%20King%20%28Oedipus%20Rex%29%20Sophocles)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Oedipus+the+King)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Oedipus+the+King+Sophocles)
 
 Oedipus the King opens with Thebes stricken by plague. The oracle at Delphi declares that the city must expel the murderer of the former king Laius, and Oedipus, the clever outsider who saved Thebes by solving the riddle of the Sphinx, vows to find him. Step by step, through the blind prophet Tiresias, his wife Jocasta, a messenger from Corinth and an old shepherd, he uncovers the truth: he is Laius's son, abandoned at birth, who unknowingly killed his father on the road and married his mother. Jocasta hangs herself and Oedipus blinds himself with her brooches. The play is a masterpiece of construction, in which every step towards knowledge brings disaster nearer, and its dramatic irony is relentless. Aristotle treated it as the ideal tragedy, with reversal and recognition coinciding. Freud took from it the name of the Oedipus complex, and it has been endlessly translated, staged and adapted.
 

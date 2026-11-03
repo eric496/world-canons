@@ -1,10 +1,16 @@
 # Jean Racine
 
+<a href="https://commons.wikimedia.org/wiki/File:Portrait_de_Jean_Racine_d%27apr%C3%A8s_Jean-Baptiste_Santerre.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Portrait_de_Jean_Racine_d%27apr%C3%A8s_Jean-Baptiste_Santerre.jpg/330px-Portrait_de_Jean_Racine_d%27apr%C3%A8s_Jean-Baptiste_Santerre.jpg" alt="Jean Racine" title="Portrait of Racine after Jean-Baptiste Santerre"></a>
+
 **1639 – 1699** · French  
 Born: La Ferté-Milon, France · Died: Paris  
 Movements & eras: [French Classicism](../movements/french-classicism.md)  
 
 > The master of French classical tragedy, whose Andromaque and Phèdre distil overwhelming passion into perfectly controlled verse.
+
+<sub>Portrait: Portrait of Racine after Jean-Baptiste Santerre · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_de_Jean_Racine_d%27apr%C3%A8s_Jean-Baptiste_Santerre.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Jean+Racine)
 
 ## Biography
 
@@ -16,11 +22,15 @@ Racine's tragedies observe the classical unities and use a small vocabulary and 
 
 ### Phèdre (1677)
 
+[![Phèdre](https://upload.wikimedia.org/wikipedia/commons/8/85/Racine_-_Ph%C3%A8dre_Act5_sc6_1677_-_c%C3%A9sar.jpg)](https://commons.wikimedia.org/wiki/File:Racine_-_Ph%C3%A8dre_Act5_sc6_1677_-_c%C3%A9sar.jpg)
+
+<sub>Illustration of Act 5, scene 6, in an early edition Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Racine_-_Ph%C3%A8dre_Act5_sc6_1677_-_c%C3%A9sar.jpg).</sub>
+
 - **Date:** 1677
 - **Type:** Tragedy
 - **First published:** Hôtel de Bourgogne, Paris
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Ph%C3%A8dre%20Jean%20Racine)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Ph%C3%A8dre)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Ph%C3%A8dre+Racine)
 
 Phèdre, first performed in Paris on 1 January 1677, is based on Euripides's Hippolytus and Seneca's Phaedra. Phèdre, wife of Theseus, king of Athens, has long hidden her desperate love for her stepson Hippolyte. When news arrives that Theseus is dead, her nurse Oenone persuades her to confess it, and Hippolyte, who loves the captive princess Aricie, recoils in horror. Theseus then returns alive. To save her mistress, Oenone accuses Hippolyte of attempting to seduce Phèdre, and Theseus curses his son and calls on Neptune to destroy him; Hippolyte is killed by a sea monster that frightens his horses. Phèdre, tortured by guilt and jealousy, takes poison and confesses the truth before dying. Racine presents passion as a fatal force that the will cannot master, in alexandrine verse of exceptional beauty. A rival play on the same subject was staged at the same time by Racine's enemies, and the controversy may have contributed to his withdrawal from the theatre. Phèdre remains the summit of French classical tragedy and one of the great roles for actresses.
 

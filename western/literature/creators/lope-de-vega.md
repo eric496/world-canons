@@ -1,10 +1,16 @@
 # Lope de Vega
 
+<a href="https://commons.wikimedia.org/wiki/File:LopedeVega.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/7/79/LopedeVega.jpg" alt="Lope de Vega" title="Portrait of Lope de Vega"></a>
+
 **1562 – 1635** · Spanish  
 Born: Madrid · Died: Madrid  
 Movements & eras: [Spanish Golden Age](../movements/spanish-golden-age.md)  
 
 > The astonishingly prolific creator of Spain's national theatre, who claimed to have written some 1,500 plays. Cervantes called him a monster of nature.
+
+<sub>Portrait: Portrait of Lope de Vega · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LopedeVega.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Lope+de+Vega)
 
 ## Biography
 
@@ -20,7 +26,7 @@ In his verse treatise The New Art of Writing Plays (1609), Lope defended a popul
 - **Type:** Drama (comedia)
 - **First published:** Madrid, in the Dozena parte of Lope's comedias
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Fuenteovejuna%20Lope%20de%20Vega)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Fuenteovejuna)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Fuenteovejuna+Vega)
 
 Fuenteovejuna is based on a real event of 1476, when the inhabitants of a village in Andalusia killed the commander of the military Order of Calatrava, Fernán Gómez de Guzmán. In Lope's play the commander abuses the villagers and assaults their women, and when he abducts the young Laurencia on her wedding day, she rouses the village to revolt with a fiery speech shaming the men. The villagers storm his house and kill him. The Catholic Monarchs Ferdinand and Isabella send a judge to find the guilty, but even under torture every villager, from children to old men, answers only that Fuenteovejuna did it. Unable to punish the whole town, the king pardons them. The play combines a love story, a political plot and a vision of collective dignity and loyalty to the crown. Long neglected, it was revived in the nineteenth and twentieth centuries as a drama of popular revolt, and staged in Soviet Russia and by Lorca's touring theatre in Republican Spain.
 

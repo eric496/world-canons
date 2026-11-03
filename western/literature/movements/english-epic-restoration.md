@@ -8,13 +8,13 @@ The English Civil War and the restoration of the monarchy in 1660 framed a turbu
 
 ## Authors
 
--  [John Milton](../creators/milton.md) (1608 – 1674)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/John-milton.jpg" width="40" alt="John Milton"> [John Milton](../creators/milton.md) (1608 – 1674)
 
 ## Key works
 
 | Image | Year | Work | Author | First published |
 |---|---|---|---|---|
-| — | 1667 | **Paradise Lost** | [John Milton](../creators/milton.md) | London, published by Samuel Simmons (10 books; revised in 12 books, 1674) |
+| <a href="https://commons.wikimedia.org/wiki/File:Houghton_EC65.M6427P.1667aa_-_Paradise_Lost%2C_1667.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Houghton_EC65.M6427P.1667aa_-_Paradise_Lost%2C_1667.jpg/330px-Houghton_EC65.M6427P.1667aa_-_Paradise_Lost%2C_1667.jpg" width="140" alt="Paradise Lost"></a> | 1667 | **Paradise Lost** | [John Milton](../creators/milton.md) | London, published by Samuel Simmons (10 books; revised in 12 books, 1674) |
 
 ---
 [← French Classicism](french-classicism.md) · [Literature](../README.md) · [Augustan & Enlightenment →](augustan-enlightenment.md)

@@ -1,8 +1,12 @@
 # Literature
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_9_%28Canto_III_-_Charon%29.jpg/1280px-Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_9_%28Canto_III_-_Charon%29.jpg" width="100%" alt="Literature">
+
+<sub>Gustave Doré, Charon ferrying souls across the Acheron, illustration for Dante's Inferno, 1857–67 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Dante_Alighieri_-_Inferno_-_Plate_9_%28Canto_III_-_Charon%29.jpg)</sub>
+
 Western literature from the Homeric epics to the late twentieth century, told through its authors and their key works: epic and lyric poetry, tragedy and comedy, romance, the essay, the novel and the short story. Every author has a full biography and every work an introduction to its story, context and influence. Pictures are manuscripts, first-edition title pages and early illustrations from Wikimedia Commons; portraits are paintings, drawings, engravings or sculpture only, and books still in copyright are not reproduced.
 
-**88 authors** · **137 works** (0 with images) · **24 movements & eras** · 0 portraits
+**88 authors** · **137 works** (100 with images) · **24 movements & eras** · 66 portraits
 
 ## Browse
 
@@ -11,6 +15,7 @@ Western literature from the Homeric epics to the late twentieth century, told th
 | [**Movements & eras**](#movements--eras) | Each movement in order, with its people and key works |
 | [**Authors**](CREATORS.md) | Everyone, by date of birth, with a page each |
 | [**Timeline**](TIMELINE.md) | Every work in chronological order |
+| [**Gallery**](GALLERY.md) | All the pictures on one page |
 | [`data/`](data/) | The same information as JSON and CSV |
 
 ## Movements & eras

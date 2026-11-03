@@ -1,10 +1,16 @@
 # Walt Whitman
 
+<a href="https://commons.wikimedia.org/wiki/File:Walt_Whitman%2C_steel_engraving%2C_July_1854.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Walt_Whitman%2C_steel_engraving%2C_July_1854.jpg/330px-Walt_Whitman%2C_steel_engraving%2C_July_1854.jpg" alt="Walt Whitman" title="Steel engraving of Whitman by Samuel Hollyer, frontispiece of Leaves of Grass, 1855"></a>
+
 **1819 – 1892** · American  
 Born: West Hills, Long Island, New York · Died: Camden, New Jersey  
 Movements & eras: [American Renaissance](../movements/american-renaissance.md)  
 
 > The poet of Leaves of Grass, who celebrated democracy, the body and the self in a sweeping free verse that changed poetry.
+
+<sub>Portrait: Steel engraving of Whitman by Samuel Hollyer, frontispiece of Leaves of Grass, 1855 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Walt_Whitman%2C_steel_engraving%2C_July_1854.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Walt+Whitman)
 
 ## Biography
 
@@ -16,11 +22,15 @@ Whitman abandoned rhyme and regular metre for long, rolling lines built on repet
 
 ### Leaves of Grass (1855; final edition 1891–92)
 
+[![Leaves of Grass](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Walt_Whitman%2C_steel_engraving%2C_July_1854.jpg/960px-Walt_Whitman%2C_steel_engraving%2C_July_1854.jpg)](https://commons.wikimedia.org/wiki/File:Walt_Whitman%2C_steel_engraving%2C_July_1854.jpg)
+
+<sub>Steel engraving of Whitman used as the frontispiece of the 1855 edition Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Walt_Whitman%2C_steel_engraving%2C_July_1854.jpg).</sub>
+
 - **Date:** 1855; final edition 1891–92
 - **Type:** Poetry collection
 - **First published:** Brooklyn, printed at the shop of Andrew and James Rome (self-published, 1855)
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Leaves%20of%20Grass%20Walt%20Whitman)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Leaves+of+Grass)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Leaves+of+Grass+Whitman)
 
 The first edition of Leaves of Grass was published by Whitman himself in Brooklyn in July 1855: twelve untitled poems and a long prose preface, with an engraving of the poet in workman's clothes and no author's name on the title page. The opening poem, later called Song of Myself, announces a self that contains multitudes and embraces all people and things. Emerson wrote to Whitman greeting him at the beginning of a great career, and Whitman printed the letter in the second edition. He went on revising and expanding the book for the rest of his life, adding sections such as Children of Adam and Calamus, on sexual love and comradeship between men, and Drum-Taps, on the Civil War, with its elegies for Lincoln, When Lilacs Last in the Dooryard Bloom'd and O Captain! My Captain! The final deathbed edition of 1891–92 contains nearly four hundred poems. The book's free verse, frank sexuality and democratic vision were scandalous, but it became the foundation of modern American poetry.
 

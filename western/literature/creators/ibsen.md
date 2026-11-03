@@ -1,10 +1,16 @@
 # Henrik Ibsen
 
+<a href="https://commons.wikimedia.org/wiki/File:Ibsen_by_Olrik.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ibsen_by_Olrik.jpg/330px-Ibsen_by_Olrik.jpg" alt="Henrik Ibsen" title="Henrik Olrik, Henrik Ibsen, 1879"></a>
+
 **1828 – 1906** · Norwegian  
 Born: Skien, Norway · Died: Kristiania (Oslo)  
 Movements & eras: [Naturalism](../movements/naturalism-literature.md), [Realism](../movements/realism-literature.md)  
 
 > The father of modern drama, whose A Doll's House, Ghosts and Hedda Gabler brought social problems and psychological depth to the stage.
+
+<sub>Portrait: Henrik Olrik, Henrik Ibsen, 1879 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ibsen_by_Olrik.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Henrik+Ibsen)
 
 ## Biography
 
@@ -23,7 +29,7 @@ Ibsen replaced the contrived well-made play with tightly constructed realist dra
 - **Type:** Play
 - **First published:** Royal Danish Theatre, Copenhagen (21 December 1879)
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=A%20Doll%27s%20House%20Henrik%20Ibsen)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=A+Doll%27s+House)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=A+Doll%27s+House+Ibsen)
 
 A Doll's House was published in Copenhagen in December 1879 and premiered at the Royal Theatre there days later. Nora Helmer appears to be a happy, frivolous wife, indulged by her husband Torvald, a bank manager, who calls her his little lark and squirrel. But years earlier, to pay for a trip to Italy that saved Torvald's life, she secretly borrowed money by forging her dying father's signature. The lender, Krogstad, a disgraced employee at Torvald's bank, now threatens to expose her unless she saves his job. When Torvald reads Krogstad's letter, he furiously condemns her, then forgives her as soon as the danger passes. Nora realises that she has been a doll, first to her father and then to her husband, and that she must educate herself. In the famous final scene she leaves her husband and children, and the door slams behind her. The ending caused outrage, and for a German production Ibsen reluctantly wrote an alternative in which Nora stays. The play became a landmark of modern drama and of debates about women's rights.
 
@@ -33,7 +39,7 @@ A Doll's House was published in Copenhagen in December 1879 and premiered at the
 - **Type:** Play
 - **First published:** Residenztheater, Munich (31 January 1891); published Copenhagen, December 1890
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Hedda%20Gabler%20Henrik%20Ibsen)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Hedda+Gabler)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Hedda+Gabler+Ibsen)
 
 Hedda Gabler was published in December 1890 and premiered in Munich in January 1891. Hedda, the proud daughter of the late General Gabler, has just returned from a long honeymoon with her husband Jørgen Tesman, an earnest, unremarkable academic hoping for a professorship, and she is already bored and trapped in their new house. Tesman's rival, Ejlert Løvborg, a brilliant former lover of Hedda's, has reformed with the help of the timid Thea Elvsted and written a visionary book. Out of jealousy and a desire to control another's fate, Hedda burns his only manuscript, after he loses it during a night of drinking, and gives him one of her father's pistols, urging him to die beautifully. Instead he is shot in a sordid accident, and Judge Brack, who knows the pistol was Hedda's, threatens to use the knowledge to dominate her. Rather than submit, Hedda shoots herself. The play's enigmatic heroine has become one of the great roles of the modern theatre.
 

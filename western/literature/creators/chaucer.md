@@ -1,10 +1,16 @@
 # Geoffrey Chaucer
 
+<a href="https://commons.wikimedia.org/wiki/File:Chaucer_manuscrit_portrait_%28d%C3%A9tail%29.jpeg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Chaucer_manuscrit_portrait_%28d%C3%A9tail%29.jpeg" alt="Geoffrey Chaucer" title="Portrait of Chaucer in a manuscript of Hoccleve's Regiment of Princes, early 15th century (detail)"></a>
+
 **c. 1343 – 1400** · English  
 Born: London · Died: London  
 Movements & eras: [Medieval epic & romance](../movements/medieval-epic-romance.md)  
 
 > Often called the father of English literature, the poet of The Canterbury Tales was also a courtier, diplomat and civil servant.
+
+<sub>Portrait: Portrait of Chaucer in a manuscript of Hoccleve's Regiment of Princes, early 15th century (detail) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chaucer_manuscrit_portrait_%28d%C3%A9tail%29.jpeg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Geoffrey+Chaucer)
 
 ## Biography
 
@@ -19,21 +25,29 @@ Chaucer wrote in the London English of his day at a time when French and Latin w
 
 ### Troilus and Criseyde (c. 1380s)
 
+[![Troilus and Criseyde](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Geoffrey_Chaucer_on_a_podium_before_the_king.jpg/960px-Geoffrey_Chaucer_on_a_podium_before_the_king.jpg)](https://commons.wikimedia.org/wiki/File:Geoffrey_Chaucer_on_a_podium_before_the_king.jpg)
+
+<sub>Chaucer reciting to a courtly audience, frontispiece of the Corpus Christi College Troilus manuscript, early 15th century Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Geoffrey_Chaucer_on_a_podium_before_the_king.jpg).</sub>
+
 - **Date:** c. 1380s
 - **Type:** Narrative poem
 - **First published:** London
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Troilus%20and%20Criseyde%20Geoffrey%20Chaucer)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Troilus+and+Criseyde)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Troilus+and+Criseyde+Chaucer)
 
 Troilus and Criseyde is a poem of more than eight thousand lines in rhyme royal stanzas, adapted from Boccaccio's Il Filostrato and often considered Chaucer's finest completed work. During the siege of Troy, the young prince Troilus mocks lovers until he falls helplessly in love with the widow Criseyde. Her uncle Pandarus brings them together, and in the central books their love is consummated in a scene of great tenderness. When Criseyde is exchanged for a Trojan prisoner and sent to her father in the Greek camp, she promises to return within ten days, but alone and afraid she accepts the Greek warrior Diomede. Troilus is killed in battle and from the eighth sphere laughs at the vanity of earthly love. Chaucer's sympathetic, ambiguous portrayal of Criseyde and his narrator's anxious commentary give the poem a psychological depth that has led some critics to call it the first English novel. Shakespeare used the story for his Troilus and Cressida.
 
 ### The Canterbury Tales (c. 1387–1400)
 
+[![The Canterbury Tales](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Canterbury_Tales_characters_around_table_%E2%80%94_traced.svg/1280px-Canterbury_Tales_characters_around_table_%E2%80%94_traced.svg.png)](https://commons.wikimedia.org/wiki/File:Canterbury_Tales_characters_around_table_%E2%80%94_traced.svg)
+
+<sub>The pilgrims at table, after a woodcut in Caxton's second edition (c. 1483) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Canterbury_Tales_characters_around_table_%E2%80%94_traced.svg).</sub>
+
 - **Date:** c. 1387–1400
 - **Type:** Collection of verse and prose tales
 - **First published:** Earliest manuscripts: Hengwrt (National Library of Wales) and Ellesmere (Huntington Library), c. 1400–1410
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=The%20Canterbury%20Tales%20Geoffrey%20Chaucer)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=The+Canterbury+Tales)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=The+Canterbury+Tales+Chaucer)
 
 The Canterbury Tales is Chaucer's unfinished masterpiece, written in Middle English in the last fifteen years of his life. In the General Prologue, some thirty pilgrims gather at the Tabard Inn in Southwark before setting off for the shrine of Thomas Becket at Canterbury, and the innkeeper proposes that each should tell stories on the way, with a free supper for the best. Chaucer sketches them with sharp, humorous detail: the Knight, the Prioress, the Miller, the Wife of Bath, the Pardoner and others from nearly every rank of society. Only twenty-four tales were completed, and they range across every medieval genre, from chivalric romance and saints' lives to bawdy fabliaux, beast fable and sermon, each suited to its teller, with lively quarrels between them. Most are in iambic pentameter couplets, a form Chaucer pioneered in English. Printed by William Caxton around 1476, the Tales became the foundation of English poetry and remain the most widely read work of medieval English literature.
 

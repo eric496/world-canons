@@ -1,10 +1,16 @@
 # Christopher Marlowe
 
+<a href="https://commons.wikimedia.org/wiki/File:Christopher_Marlowe.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Christopher_Marlowe.jpg/330px-Christopher_Marlowe.jpg" alt="Christopher Marlowe" title="Portrait at Corpus Christi College, Cambridge, 1585, thought by some to show Marlowe (disputed)"></a>
+
 **1564 – 1593** · English  
 Born: Canterbury · Died: Deptford, near London  
 Movements & eras: [Elizabethan & Jacobean](../movements/elizabethan-jacobean.md)  
 
 > The brilliant, short-lived Elizabethan playwright who made blank verse the voice of English drama in Tamburlaine and Doctor Faustus.
+
+<sub>Portrait: Portrait at Corpus Christi College, Cambridge, 1585, thought by some to show Marlowe (disputed) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Christopher_Marlowe.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Christopher+Marlowe)
 
 ## Biography
 
@@ -16,11 +22,15 @@ Marlowe transformed the English stage by giving it what Ben Jonson called his mi
 
 ### Doctor Faustus (c. 1592)
 
+[![Doctor Faustus](https://upload.wikimedia.org/wikipedia/commons/c/cd/Faustus-tragedy.gif)](https://commons.wikimedia.org/wiki/File:Faustus-tragedy.gif)
+
+<sub>Title page woodcut of a 1620 edition of Doctor Faustus Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Faustus-tragedy.gif).</sub>
+
 - **Date:** c. 1592
 - **Type:** Tragedy
 - **First published:** First performed in London (1594 is the first recorded performance); printed 1604
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Doctor%20Faustus%20Christopher%20Marlowe)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Doctor+Faustus)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Doctor+Faustus+Marlowe)
 
 The Tragical History of the Life and Death of Doctor Faustus is based on a German chapbook about the legendary magician Johann Faust, translated into English around 1592. Faustus, a brilliant scholar at Wittenberg dissatisfied with philosophy, medicine, law and theology, turns to magic and signs a contract in his own blood with Lucifer, through the devil Mephistopheles, in exchange for twenty-four years of service. He uses his powers for tricks at the papal court and before the emperor and summons Helen of Troy, but he wavers between repentance and despair, and in the great final soliloquy waits in terror for the clock to strike midnight before the devils carry him off. The play survives in two different early texts, of 1604 and 1616, and its comic scenes may be partly by other writers. Its magnificent verse and portrait of an overreaching intellect made it a landmark of English tragedy, and the Faust legend was taken up again by Goethe and Thomas Mann.
 

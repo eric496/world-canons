@@ -1,10 +1,16 @@
 # Johann Wolfgang von Goethe
 
+<a href="https://commons.wikimedia.org/wiki/File:Goethe_%28Stieler_1828%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/330px-Goethe_%28Stieler_1828%29.jpg" alt="Johann Wolfgang von Goethe" title="Joseph Karl Stieler, Goethe, 1828"></a>
+
 **1749 – 1832** · German  
 Born: Frankfurt am Main · Died: Weimar  
 Movements & eras: [Sturm und Drang & Weimar Classicism](../movements/sturm-und-drang.md), [Romanticism](../movements/romanticism-literature.md)  
 
 > Poet, dramatist, novelist, scientist and statesman, the towering figure of German literature and author of Faust.
+
+<sub>Portrait: Joseph Karl Stieler, Goethe, 1828 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Goethe_%28Stieler_1828%29.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Johann+Wolfgang+von+Goethe)
 
 ## Biography
 
@@ -23,7 +29,7 @@ Goethe's output is vast: lyric poetry of every kind, plays such as Iphigenia in 
 - **Type:** Epistolary novel
 - **First published:** Leipzig, published by Weygand
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=The%20Sorrows%20of%20Young%20Werther%20Johann%20Wolfgang%20von%20Goethe)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=The+Sorrows+of+Young+Werther)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=The+Sorrows+of+Young+Werther+Goethe)
 
 The Sorrows of Young Werther was written in a few weeks and drew on Goethe's own infatuation with Charlotte Buff, who was engaged to his friend Johann Christian Kestner, and on the suicide of an acquaintance, Karl Wilhelm Jerusalem. The novel consists mainly of letters from Werther, a young artist, to his friend Wilhelm. In a country town he meets Lotte and falls passionately in love with her, though she is engaged and then married to the decent, sober Albert. Werther's letters chart his rapture in nature and in Homer and Ossian, his frustration with social conventions and his growing despair, until he borrows Albert's pistols and shoots himself. The book made Goethe famous throughout Europe at twenty-five, set a fashion for Werther's blue coat and yellow waistcoat, and was blamed for imitative suicides. It is the central novel of the Sturm und Drang, and Napoleon claimed to have read it seven times.
 
@@ -33,7 +39,7 @@ The Sorrows of Young Werther was written in a few weeks and drew on Goethe's own
 - **Type:** Verse drama
 - **First published:** Tübingen, published by Cotta (Part One); Part Two published posthumously, 1832
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Faust%20Johann%20Wolfgang%20von%20Goethe)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Faust)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Faust+Goethe)
 
 Goethe worked on Faust for about sixty years, from the early Urfaust of the 1770s to the completion of the second part shortly before his death. In a Prologue in Heaven, Mephistopheles wagers with the Lord that he can lead the striving scholar Faust astray. Faust, despairing of knowledge, makes a pact with the devil: if ever he should be so content with a moment as to ask it to stay, he will forfeit his soul. Part One centres on Faust's seduction of the young Gretchen, who kills their child and is executed, but is saved by heaven. Part Two, vast and allegorical, takes Faust through the imperial court, classical antiquity and a union with Helen of Troy, to his final work reclaiming land from the sea; at his death he is carried to heaven by angels. Mixing verse forms, tragedy, comedy and philosophy, the work is the summit of German literature. It inspired Berlioz, Gounod, Liszt, Mahler and Thomas Mann, and gave the adjective Faustian to many languages.
 

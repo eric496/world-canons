@@ -1,10 +1,16 @@
 # Anton Chekhov
 
+<a href="https://commons.wikimedia.org/wiki/File:Osip_Braz_-_Anton_Chekhov%2C_1898.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Osip_Braz_-_Anton_Chekhov%2C_1898.jpg/330px-Osip_Braz_-_Anton_Chekhov%2C_1898.jpg" alt="Anton Chekhov" title="Osip Braz, Anton Chekhov, 1898, Tretyakov Gallery"></a>
+
 **1860 – 1904** · Russian  
 Born: Taganrog, Russia · Died: Badenweiler, Germany  
 Movements & eras: [Russian Golden Age](../movements/russian-golden-age.md)  
 
 > Doctor, short-story writer and dramatist, author of The Seagull and The Cherry Orchard, who reinvented both the short story and the play.
+
+<sub>Portrait: Osip Braz, Anton Chekhov, 1898, Tretyakov Gallery · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Osip_Braz_-_Anton_Chekhov%2C_1898.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Anton+Chekhov)
 
 ## Biography
 
@@ -23,7 +29,7 @@ Chekhov's stories and plays avoid melodrama and moral verdicts; they show ordina
 - **Type:** Play
 - **First published:** Alexandrinsky Theatre, Saint Petersburg (17 October 1896); revived at the Moscow Art Theatre, 1898
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=The%20Seagull%20Anton%20Chekhov)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=The+Seagull)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=The+Seagull+Chekhov)
 
 The Seagull was first performed at the Alexandrinsky Theatre in Saint Petersburg in 1896, where the opening night was a disaster, the audience laughing in the wrong places, and Chekhov vowed never to write for the stage again. Two years later Konstantin Stanislavsky and Vladimir Nemirovich-Danchenko revived it at the newly founded Moscow Art Theatre, where its success established both the theatre and Chekhov's reputation; a seagull became the theatre's emblem. On the lakeside estate of Sorin, his nephew Konstantin Treplev stages an experimental play starring Nina, the girl he loves, which his mother, the famous actress Arkadina, mocks. Nina falls for Arkadina's lover, the successful writer Trigorin, who seduces and abandons her. Treplev shoots a seagull, which becomes a symbol of Nina's ruined life. Two years later she returns, a struggling actress, and after she leaves Treplev shoots himself offstage. Chekhov called it a comedy, and its mixture of the comic and the painful, and its subtext, changed modern drama.
 
@@ -33,7 +39,7 @@ The Seagull was first performed at the Alexandrinsky Theatre in Saint Petersburg
 - **Type:** Play
 - **First published:** Moscow Art Theatre (17 January 1904)
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=The%20Cherry%20Orchard%20Anton%20Chekhov)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=The+Cherry+Orchard)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=The+Cherry+Orchard+Chekhov)
 
 The Cherry Orchard was Chekhov's last play, written while he was dying of tuberculosis and premiered by the Moscow Art Theatre on his name day in January 1904, months before his death. Lyubov Ranevskaya, a landowner who has squandered her fortune, returns from Paris to her family estate with her daughter Anya. The estate, with its famous cherry orchard, is to be auctioned to pay her debts. Lopakhin, a merchant whose father was a serf on the estate, urges her to cut down the orchard and lease the land for summer cottages, but she and her brother Gaev cannot bring themselves to act. At the auction Lopakhin buys the estate himself. The family departs, the ancient servant Firs is forgotten in the locked house, and the sound of axes is heard in the orchard. Chekhov insisted it was a comedy, and quarrelled with Stanislavsky over its tragic staging. It is often read as a portrait of the end of the Russian landed gentry and is one of the most performed plays of the modern repertory.
 

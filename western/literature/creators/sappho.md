@@ -1,10 +1,16 @@
 # Sappho
 
+<a href="https://commons.wikimedia.org/wiki/File:Malarz_Safony_-_Kalpis_wykonana_technik%C4%85_Six.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Malarz_Safony_-_Kalpis_wykonana_technik%C4%85_Six.jpg" alt="Sappho" title="Sappho on an Attic kalpis by the Sappho Painter, c. 510 BC"></a>
+
 **c. 630 BC – c. 570 BC** · Greek  
 Born: Eresos or Mytilene, Lesbos · Died: unknown  
 Movements & eras: [Greek epic & lyric](../movements/greek-epic-lyric.md)  
 
 > The great lyric poet of archaic Greece, admired in antiquity as the tenth Muse. Her intense, personal poems of love and longing survive mainly in fragments.
+
+<sub>Portrait: Sappho on an Attic kalpis by the Sappho Painter, c. 510 BC · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Malarz_Safony_-_Kalpis_wykonana_technik%C4%85_Six.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Sappho)
 
 ## Biography
 
@@ -16,11 +22,15 @@ Sappho wrote in her local Aeolic dialect, in metres that include the stanza late
 
 ### Ode to Aphrodite (Fragment 1) (c. 600 BC)
 
+[![Ode to Aphrodite (Fragment 1)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sappho_Inspired_by_Love_by_Angelica_Kauffmann.jpg/1280px-Sappho_Inspired_by_Love_by_Angelica_Kauffmann.jpg)](https://commons.wikimedia.org/wiki/File:Sappho_Inspired_by_Love_by_Angelica_Kauffmann.jpg)
+
+<sub>Angelica Kauffman, Sappho Inspired by Love, 1775 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Sappho_Inspired_by_Love_by_Angelica_Kauffmann.jpg).</sub>
+
 - **Date:** c. 600 BC
 - **Type:** Lyric poem
 - **First published:** Lesbos; preserved in Dionysius of Halicarnassus, 1st century BC
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Ode%20to%20Aphrodite%20%28Fragment%201%29%20Sappho)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Ode+to+Aphrodite)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Ode+to+Aphrodite+Sappho)
 
 The Ode to Aphrodite is the only one of Sappho's poems known to survive complete, preserved because the critic Dionysius of Halicarnassus quoted it in full in the first century BC as an example of polished style. Written in seven Sapphic stanzas, it takes the form of a hymn: the poet calls on Aphrodite to come to her, as she has before, and recalls a previous visit when the goddess descended in a chariot drawn by sparrows, smiled and asked whom she should persuade to love Sappho this time. The goddess promises that the one who flees will soon pursue. The poem blends ritual prayer with personal desire and gentle self-mockery, and is notable for naming the speaker as Sappho. Together with the fragment known as Sappho 31, which describes the physical symptoms of desire, it has been among the most imitated and translated lyric poems in Western literature.
 

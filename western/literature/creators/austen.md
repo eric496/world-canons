@@ -1,10 +1,16 @@
 # Jane Austen
 
+<a href="https://commons.wikimedia.org/wiki/File:CassandraAusten-JaneAusten%28c.1810%29_hires.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg/330px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg" alt="Jane Austen" title="Cassandra Austen, pencil and watercolour sketch of Jane Austen, c. 1810"></a>
+
 **1775 – 1817** · English  
 Born: Steventon, Hampshire · Died: Winchester, Hampshire  
 Movements & eras: [Rise of the novel](../movements/rise-of-the-novel.md), [Romanticism](../movements/romanticism-literature.md)  
 
 > The novelist of English country society whose six novels, including Pride and Prejudice and Emma, combine sharp irony with deep moral seriousness.
+
+<sub>Portrait: Cassandra Austen, pencil and watercolour sketch of Jane Austen, c. 1810 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CassandraAusten-JaneAusten%28c.1810%29_hires.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Jane+Austen)
 
 ## Biography
 
@@ -19,21 +25,29 @@ Austen limited herself, as she said, to three or four families in a country vill
 
 ### Pride and Prejudice (1813)
 
+[![Pride and Prejudice](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/PrideAndPrejudiceTitlePage.jpg/960px-PrideAndPrejudiceTitlePage.jpg)](https://commons.wikimedia.org/wiki/File:PrideAndPrejudiceTitlePage.jpg)
+
+<sub>Title page of the first edition, 1813 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:PrideAndPrejudiceTitlePage.jpg).</sub>
+
 - **Date:** 1813
 - **Type:** Novel
 - **First published:** London, published by Thomas Egerton
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Pride%20and%20Prejudice%20Jane%20Austen)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Pride+and+Prejudice)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Pride+and+Prejudice+Austen)
 
 Pride and Prejudice was begun in 1796 as First Impressions, rejected by a publisher unread and revised before its anonymous publication in 1813 by the author of Sense and Sensibility. Mr and Mrs Bennet of Longbourn have five daughters and no son, so their estate will pass to a cousin, the absurd clergyman Mr Collins, and Mrs Bennet is desperate to marry them off. When the wealthy Mr Bingley rents a nearby house, he falls for the eldest, Jane, while his friend Mr Darcy offends the second daughter, Elizabeth, by his arrogance. Elizabeth's prejudice is fed by the charming officer Wickham, and she refuses Darcy's first, condescending proposal. His letter explaining his conduct, a visit to his estate of Pemberley and his help in rescuing her sister Lydia from disgrace after she elopes with Wickham lead each to recognise their faults. The novel's dialogue, ironic narration and famous opening sentence have made it one of the most loved novels in English, the source of countless adaptations.
 
 ### Emma (1815 (dated 1816))
 
+[![Emma](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/EmmaTitlePage.jpg/960px-EmmaTitlePage.jpg)](https://commons.wikimedia.org/wiki/File:EmmaTitlePage.jpg)
+
+<sub>Title page of the first edition, 1815 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:EmmaTitlePage.jpg).</sub>
+
 - **Date:** 1815 (dated 1816)
 - **Type:** Novel
 - **First published:** London, published by John Murray
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Emma%20Jane%20Austen)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Emma)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Emma+Austen)
 
 Emma was published in December 1815, dedicated by permission to the Prince Regent. Austen said she was creating a heroine whom no one but herself would much like. Emma Woodhouse lives with her valetudinarian father in the village of Highbury and, after the marriage of her governess, takes up matchmaking. She persuades her protégée Harriet Smith to reject a farmer who loves her in hopes of the vicar Mr Elton, who in fact wants to marry Emma; she flirts with the charming Frank Churchill without realising he is secretly engaged to the accomplished Jane Fairfax; and she humiliates the poor, garrulous Miss Bates at a picnic on Box Hill, for which her old friend Mr Knightley rebukes her. When Harriet confides that she hopes to marry Mr Knightley, Emma realises that she loves him herself. Built on misunderstandings that readers share with the heroine, Emma is a masterpiece of irony and of free indirect style, and many critics consider it Austen's most accomplished novel. It inspired the film Clueless.
 

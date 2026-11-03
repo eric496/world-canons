@@ -1,10 +1,16 @@
 # Leo Tolstoy
 
+<a href="https://commons.wikimedia.org/wiki/File:Ivan_Nikolayevich_Kramskoi_-_Portrait_of_Leo_Tolstoy%2C_1873.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Ivan_Nikolayevich_Kramskoi_-_Portrait_of_Leo_Tolstoy%2C_1873.jpg" alt="Leo Tolstoy" title="Ivan Kramskoi, Leo Tolstoy, 1873, Tretyakov Gallery"></a>
+
 **1828 – 1910** · Russian  
 Born: Yasnaya Polyana, Tula Governorate · Died: Astapovo, Ryazan Governorate  
 Movements & eras: [Russian Golden Age](../movements/russian-golden-age.md), [Realism](../movements/realism-literature.md)  
 
 > Count, soldier, novelist and moral prophet, author of War and Peace and Anna Karenina, often considered the greatest of all novelists.
+
+<sub>Portrait: Ivan Kramskoi, Leo Tolstoy, 1873, Tretyakov Gallery · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ivan_Nikolayevich_Kramskoi_-_Portrait_of_Leo_Tolstoy%2C_1873.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Leo+Tolstoy)
 
 ## Biography
 
@@ -20,21 +26,29 @@ Tolstoy's realism is so complete that his novels seem less written than lived: h
 
 ### War and Peace (1865–1869)
 
+[![War and Peace](https://upload.wikimedia.org/wikipedia/commons/a/af/Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg)](https://commons.wikimedia.org/wiki/File:Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg)
+
+<sub>Title page of the first edition, 1869 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg).</sub>
+
 - **Date:** 1865–1869
 - **Type:** Novel
 - **First published:** Moscow, serialised in part in The Russian Messenger (1865–67), then in book form
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=War%20and%20Peace%20Leo%20Tolstoy)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=War+and+Peace)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=War+and+Peace+Tolstoy)
 
 War and Peace was written over six years at Yasnaya Polyana and appeared first in part as a serial called The Year 1805, then in six volumes from 1867 to 1869. Spanning the years 1805 to 1820, it follows several aristocratic families, especially the Rostovs, Bolkonskys and Bezukhovs, through the wars against Napoleon. Pierre Bezukhov, an awkward illegitimate son who inherits an immense fortune, searches for meaning through freemasonry, marriage and captivity; Prince Andrei Bolkonsky seeks glory at Austerlitz and finds a different truth lying wounded under the sky; and the vivid, impulsive Natasha Rostova grows from girlhood to womanhood. Battles are described from the confused viewpoint of soldiers, and the great set pieces include Borodino and the French occupation and burning of Moscow. Tolstoy interrupts the story with essays arguing that history is made not by great men but by countless individual actions. With some 580 characters, it is one of the longest and most celebrated novels ever written.
 
 ### Anna Karenina (1875–1878)
 
+[![Anna Karenina](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/AnnaKareninaTitle.jpg/960px-AnnaKareninaTitle.jpg)](https://commons.wikimedia.org/wiki/File:AnnaKareninaTitle.jpg)
+
+<sub>Title page of the first book edition, 1878 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:AnnaKareninaTitle.jpg).</sub>
+
 - **Date:** 1875–1878
 - **Type:** Novel
 - **First published:** Moscow, serialised in The Russian Messenger (1875–77); book edition 1878
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Anna%20Karenina%20Leo%20Tolstoy)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Anna+Karenina)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Anna+Karenina+Tolstoy)
 
 Anna Karenina opens with the famous sentence that all happy families are alike, but each unhappy family is unhappy in its own way. It was serialised from 1875 to 1877, though the editor refused to print the final part, which criticised Russian volunteers in the Serbian war, and Tolstoy published it separately. Anna, the beautiful wife of the senior official Alexei Karenin, meets the dashing officer Count Vronsky in Moscow, and they begin an affair that becomes the scandal of Saint Petersburg society. She leaves her husband and son to live with Vronsky, but excluded from society and consumed by jealousy, she throws herself under a train. Running parallel is the story of Konstantin Levin, an awkward landowner largely based on Tolstoy himself, who marries Kitty Shcherbatskaya, works alongside his peasants and struggles with questions of faith and death until he finds a kind of peace. Dostoevsky called it flawless as a work of art, and it is often named the greatest novel ever written.
 
@@ -44,7 +58,7 @@ Anna Karenina opens with the famous sentence that all happy families are alike, 
 - **Type:** Novella
 - **First published:** Moscow, in the twelfth volume of Tolstoy's collected works
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=The%20Death%20of%20Ivan%20Ilyich%20Leo%20Tolstoy)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=The+Death+of+Ivan+Ilyich)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=The+Death+of+Ivan+Ilyich+Tolstoy)
 
 The Death of Ivan Ilyich was published in 1886, the first major work of fiction Tolstoy wrote after the spiritual crisis described in his Confession. It begins with Ivan Ilyich's colleagues hearing of his death and thinking mainly of the promotions it will bring. Then it tells his life: a career as a magistrate pursued with propriety and ambition, a marriage that turns cold, and a comfortable home in Saint Petersburg. While hanging curtains he falls and injures his side, and an illness develops that no doctor can explain. As he suffers, he is tormented less by pain than by the lie that he is only ill, not dying, which his family and doctors maintain. Only his peasant servant Gerasim nurses him with simple honesty. In his last hours Ivan recognises that his life has not been what it should have been, feels pity for his family and dies in a moment of light. The novella is one of the most powerful meditations on death in literature.
 

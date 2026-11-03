@@ -6,6 +6,8 @@ Movements & eras: [Existentialism & the Absurd](../movements/existentialism-absu
 
 > The essayist and novelist of Animal Farm and Nineteen Eighty-Four, whose name became a byword for warnings against totalitarianism.
 
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=George+Orwell)
+
 ## Biography
 
 Eric Arthur Blair was born in 1903 in Motihari, India, where his father worked for the opium department, and was educated in England at Eton. He served in the Indian Imperial Police in Burma from 1922 to 1927, an experience that turned him against imperialism. He then deliberately lived among the poor in Paris and London, writing Down and Out in Paris and London (1933) under the name George Orwell, and investigated working-class life in The Road to Wigan Pier. In 1936 he fought with the POUM militia in the Spanish Civil War, was shot in the throat and fled the communist purge of his comrades, as he recorded in Homage to Catalonia. During the Second World War he worked for the BBC and as literary editor of the Tribune. Animal Farm (1945) brought him fame. Already ill with tuberculosis, he wrote Nineteen Eighty-Four on the Scottish island of Jura and died in London in 1950.
@@ -19,6 +21,10 @@ Orwell was a democratic socialist who opposed both fascism and Soviet communism.
 
 ### Animal Farm (1945)
 
+[![Animal Farm](https://upload.wikimedia.org/wikipedia/commons/f/fb/Animal_Farm_-_1st_edition.jpg)](https://commons.wikimedia.org/wiki/File:Animal_Farm_-_1st_edition.jpg)
+
+<sub>First edition, 1945 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Animal_Farm_-_1st_edition.jpg).</sub>
+
 - **Date:** 1945
 - **Type:** Novella (allegorical fable)
 - **First published:** London, published by Secker & Warburg
@@ -27,6 +33,10 @@ Orwell was a democratic socialist who opposed both fascism and Soviet communism.
 Animal Farm: A Fairy Story was written in 1943–44 and rejected by several publishers, including T. S. Eliot at Faber, because Britain was then allied with the Soviet Union; it was published in August 1945. Inspired by the old boar Old Major's dream of a world without humans, the animals of Manor Farm rebel and drive out the drunken farmer Jones, renaming it Animal Farm and adopting Seven Commandments, including that all animals are equal. The pigs take charge, and the idealistic Snowball is driven out by the ruthless Napoleon, who uses dogs as secret police, rewrites history through his propagandist Squealer and exploits the loyal carthorse Boxer until he is sold to the knacker. The commandments are gradually altered until only one remains: all animals are equal, but some animals are more equal than others. At the end the pigs walk on two legs and dine with the farmers, indistinguishable from them. The fable is a satire on Stalinism and on the betrayal of revolutionary ideals, and it was Orwell's first great success.
 
 ### Nineteen Eighty-Four (1949)
+
+[![Nineteen Eighty-Four](https://upload.wikimedia.org/wikipedia/commons/5/51/1984_first_edition_cover.jpg)](https://commons.wikimedia.org/wiki/File:1984_first_edition_cover.jpg)
+
+<sub>Cover of the first edition, 1949 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:1984_first_edition_cover.jpg).</sub>
 
 - **Date:** 1949
 - **Type:** Novel

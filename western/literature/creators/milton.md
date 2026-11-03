@@ -1,10 +1,16 @@
 # John Milton
 
+<a href="https://commons.wikimedia.org/wiki/File:John-milton.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/9/91/John-milton.jpg" alt="John Milton" title="Portrait of John Milton"></a>
+
 **1608 – 1674** · English  
 Born: London · Died: London  
 Movements & eras: [Milton & the Restoration](../movements/english-epic-restoration.md)  
 
 > Poet and polemicist of the English Revolution, author of Paradise Lost, the great epic of the Fall written after he had gone blind.
+
+<sub>Portrait: Portrait of John Milton · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John-milton.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=John+Milton)
 
 ## Biography
 
@@ -16,11 +22,15 @@ Milton aimed to write an epic in English to rival Homer and Virgil, and in Parad
 
 ### Paradise Lost (1667)
 
+[![Paradise Lost](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Houghton_EC65.M6427P.1667aa_-_Paradise_Lost%2C_1667.jpg/960px-Houghton_EC65.M6427P.1667aa_-_Paradise_Lost%2C_1667.jpg)](https://commons.wikimedia.org/wiki/File:Houghton_EC65.M6427P.1667aa_-_Paradise_Lost%2C_1667.jpg)
+
+<sub>Title page of the first edition, 1667, Houghton Library Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Houghton_EC65.M6427P.1667aa_-_Paradise_Lost%2C_1667.jpg).</sub>
+
 - **Date:** 1667
 - **Type:** Epic poem
 - **First published:** London, published by Samuel Simmons (10 books; revised in 12 books, 1674)
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Paradise%20Lost%20John%20Milton)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Paradise+Lost)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Paradise+Lost+Milton)
 
 Paradise Lost was dictated by the blind Milton in the years around the Restoration and published in 1667 in ten books, revised into twelve in 1674. In more than ten thousand lines of blank verse, it begins in medias res with Satan and the rebel angels cast into Hell after their failed war in Heaven. Satan rallies them, escapes through Chaos and reaches the newly created world, where he tempts Eve, in the form of a serpent, to eat the forbidden fruit; Adam eats too, out of love for her. The archangel Raphael tells Adam of the war in Heaven and the creation, and Michael shows him the future history of humanity up to Christ's redemption before the couple leave Eden hand in hand. Milton's grand, Latinate verse and the charismatic figure of Satan have provoked debate ever since, from Blake and Shelley's view of Satan as the true hero to modern readings of its politics and gender. It is the greatest epic poem in English.
 

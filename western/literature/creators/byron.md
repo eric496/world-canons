@@ -1,10 +1,16 @@
 # Lord Byron (George Gordon Byron)
 
+<a href="https://commons.wikimedia.org/wiki/File:Byron_1813_by_Phillips.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Byron_1813_by_Phillips.jpg" alt="Lord Byron (George Gordon Byron)" title="Thomas Phillips, Lord Byron, 1813"></a>
+
 **1788 – 1824** · English  
 Born: London · Died: Missolonghi, Greece  
 Movements & eras: [Romanticism](../movements/romanticism-literature.md)  
 
 > The most famous poet of his age, whose brooding heroes and scandalous life created the Byronic legend. He died supporting Greek independence.
+
+<sub>Portrait: Thomas Phillips, Lord Byron, 1813 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Byron_1813_by_Phillips.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Lord+Byron)
 
 ## Biography
 
@@ -16,11 +22,15 @@ Byron created the Byronic hero, proud, melancholy, guilty and defiant, a figure 
 
 ### Don Juan (1819–1824)
 
+[![Don Juan](https://upload.wikimedia.org/wikipedia/commons/e/ed/Don_Juan_1st_edition_cover%2C_1819.png)](https://commons.wikimedia.org/wiki/File:Don_Juan_1st_edition_cover%2C_1819.png)
+
+<sub>Title page of the first edition, 1819 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Don_Juan_1st_edition_cover%2C_1819.png).</sub>
+
 - **Date:** 1819–1824
 - **Type:** Satirical epic poem (unfinished)
 - **First published:** London, published by John Murray (cantos 1–5) and John Hunt
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Don%20Juan%20Lord%20Byron%20%28George%20Gordon%20Byron%29)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Don+Juan)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Don+Juan+Byron)
 
 Don Juan was published in instalments from 1819 until 1824, when Byron died having completed sixteen cantos and part of a seventeenth. Written in ottava rima, an Italian stanza of eight lines rhyming abababcc that Byron used for comic effect, it inverts the legend of the great seducer: Juan is a handsome, rather passive young man more often pursued than pursuing. Sent abroad after an affair with a married woman in Seville, he is shipwrecked, loved by the pirate's daughter Haidée on a Greek island, sold as a slave in Constantinople, fights at the siege of Ismail, becomes a favourite of Catherine the Great and finally visits English country-house society. Around the story, the narrator digresses freely on politics, poetry, love, his contemporaries and himself, mocking Wordsworth, Southey and Wellington. The poem's frankness scandalised its first readers, and Murray stopped publishing it, but it is now regarded as Byron's masterpiece and one of the great comic poems in English.
 

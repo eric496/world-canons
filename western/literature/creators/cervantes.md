@@ -1,10 +1,16 @@
 # Miguel de Cervantes
 
+<a href="https://commons.wikimedia.org/wiki/File:Cervantes_J%C3%A1uregui.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cervantes_J%C3%A1uregui.jpg/330px-Cervantes_J%C3%A1uregui.jpg" alt="Miguel de Cervantes" title="Portrait traditionally attributed to Juan de Jáuregui (identification disputed)"></a>
+
 **1547 – 1616** · Spanish  
 Born: Alcalá de Henares, Spain · Died: Madrid  
 Movements & eras: [Spanish Golden Age](../movements/spanish-golden-age.md)  
 
 > Soldier, captive, tax collector and the author of Don Quixote, widely regarded as the first modern novel and the greatest work of Spanish literature.
+
+<sub>Portrait: Portrait traditionally attributed to Juan de Jáuregui (identification disputed) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cervantes_J%C3%A1uregui.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Miguel+de+Cervantes)
 
 ## Biography
 
@@ -16,11 +22,15 @@ Cervantes's genius lies in the play between illusion and reality, the high-flown
 
 ### Don Quixote (1605 (Part 1); 1615 (Part 2))
 
+[![Don Quixote](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Title_page_first_edition_Don_Quijote.jpg/960px-Title_page_first_edition_Don_Quijote.jpg)](https://commons.wikimedia.org/wiki/File:Title_page_first_edition_Don_Quijote.jpg)
+
+<sub>Title page of the first edition, Madrid, 1605 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Title_page_first_edition_Don_Quijote.jpg).</sub>
+
 - **Date:** 1605 (Part 1); 1615 (Part 2)
 - **Type:** Novel
 - **First published:** Madrid, printed by Juan de la Cuesta
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Don%20Quixote%20Miguel%20de%20Cervantes)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Don+Quixote)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Don+Quixote+Cervantes)
 
 The Ingenious Gentleman Don Quixote of La Mancha was published in two parts, in 1605 and 1615. Alonso Quixano, a minor gentleman of La Mancha, reads so many books of chivalry that he loses his wits, renames himself Don Quixote, takes an old nag called Rocinante and a peasant woman he imagines as his lady Dulcinea, and sets out to right wrongs. With his down-to-earth squire Sancho Panza he attacks windmills he takes for giants, frees galley slaves and suffers beatings and humiliations. In the second part, written after a spurious sequel by another author appeared, the characters have read the first part and are recognised wherever they go, and a duke and duchess stage elaborate pranks on them. Finally defeated, Don Quixote returns home, recovers his sanity and dies. The novel's play of illusion and reality, its self-awareness as fiction and the evolving friendship of knight and squire made it a model for the European novel. It is one of the most translated books in the world.
 

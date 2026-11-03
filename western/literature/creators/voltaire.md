@@ -1,11 +1,17 @@
 # Voltaire (François-Marie Arouet)
 
+<a href="https://commons.wikimedia.org/wiki/File:Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg/330px-Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg" alt="Voltaire (François-Marie Arouet)" title="Nicolas de Largillière (studio), Voltaire at 24, Musée Carnavalet"></a>
+
 **1694 – 1778** · French  
 Born: Paris · Died: Paris  
 Movements & eras: [Augustan & Enlightenment](../movements/augustan-enlightenment.md)  
 Also in: [History](../../history/creators/voltaire.md)  
 
 > The most famous writer of the French Enlightenment, a tireless campaigner against intolerance whose satirical tale Candide is still widely read.
+
+<sub>Portrait: Nicolas de Largillière (studio), Voltaire at 24, Musée Carnavalet · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Voltaire)
 
 ## Biography
 
@@ -17,11 +23,15 @@ Voltaire wrote in almost every genre: tragedies, epic poetry, history, philosoph
 
 ### Candide (1759)
 
+[![Candide](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Candide1759.jpg/960px-Candide1759.jpg)](https://commons.wikimedia.org/wiki/File:Candide1759.jpg)
+
+<sub>Title page of a 1759 edition Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Candide1759.jpg).</sub>
+
 - **Date:** 1759
 - **Type:** Philosophical tale
 - **First published:** Geneva, published by Gabriel Cramer (simultaneously in several cities)
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Candide%20Voltaire%20%28Fran%C3%A7ois-Marie%20Arouet%29)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Candide)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Candide+Voltaire)
 
 Candide, or Optimism was published anonymously in January 1759 and immediately banned in several places; it became one of the bestsellers of the century. Candide is expelled from a German baron's castle for kissing his daughter Cunégonde and goes through a breathless series of catastrophes: forced military service, the Lisbon earthquake of 1755, the Inquisition, shipwreck, the mythical land of Eldorado and slavery in Surinam, while his tutor Pangloss insists that everything is for the best. Characters die and reappear, and the reunited companions settle on a small farm near Constantinople, where Candide concludes that we must cultivate our garden. Voltaire's target was the philosophical optimism associated with Leibniz and Pope, but the tale also mocks religion, war, colonialism and aristocratic pride. Its speed, irony and comic cruelty make it the most famous of the Enlightenment's philosophical tales, and it inspired Bernstein's operetta.
 

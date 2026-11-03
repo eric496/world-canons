@@ -1,10 +1,16 @@
 # W. B. Yeats
 
+<a href="https://commons.wikimedia.org/wiki/File:William_Butler_Yeats_by_John_Butler_Yeats_1900.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/William_Butler_Yeats_by_John_Butler_Yeats_1900.jpg" alt="W. B. Yeats" title="John Butler Yeats, William Butler Yeats, 1900"></a>
+
 **1865 – 1939** · Irish  
 Born: Dublin · Died: Roquebrune-Cap-Martin, France  
 Movements & eras: [Symbolism & Aestheticism](../movements/symbolism-aestheticism.md), [Modernism](../movements/modernism-literature.md)  
 
 > Irish poet and dramatist, leader of the Irish Literary Revival and winner of the 1923 Nobel Prize, regarded as one of the greatest poets of the twentieth century.
+
+<sub>Portrait: John Butler Yeats, William Butler Yeats, 1900 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:William_Butler_Yeats_by_John_Butler_Yeats_1900.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=W.+B.+Yeats)
 
 ## Biography
 

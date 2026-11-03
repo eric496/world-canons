@@ -1,10 +1,16 @@
 # Petrarch (Francesco Petrarca)
 
+<a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Francesco_Petrarca_%28called_Petrarch%29_-_French_school%2C_17th_century.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Portrait_of_Francesco_Petrarca_%28called_Petrarch%29_-_French_school%2C_17th_century.jpg" alt="Petrarch (Francesco Petrarca)" title="French school, portrait of Petrarch, 17th century"></a>
+
 **1304 – 1374** · Italian  
 Born: Arezzo, Tuscany · Died: Arquà, near Padua  
 Movements & eras: [Italian Trecento](../movements/italian-trecento.md), [Renaissance humanism](../movements/renaissance-literature.md)  
 
 > Poet and scholar whose sonnets to Laura set the pattern for European love poetry, and whose passion for classical learning made him the father of humanism.
+
+<sub>Portrait: French school, portrait of Petrarch, 17th century · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_of_Francesco_Petrarca_%28called_Petrarch%29_-_French_school%2C_17th_century.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Petrarch)
 
 ## Biography
 
@@ -16,11 +22,15 @@ Petrarch considered his Latin works, including the epic Africa and his many lett
 
 ### Il Canzoniere (Rerum vulgarium fragmenta) (c. 1327–1374)
 
+[![Il Canzoniere (Rerum vulgarium fragmenta)](https://upload.wikimedia.org/wikipedia/commons/1/1d/Canzoniere7.JPG)](https://commons.wikimedia.org/wiki/File:Canzoniere7.JPG)
+
+<sub>Page from an early copy of Petrarch's Canzoniere Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Canzoniere7.JPG).</sub>
+
 - **Date:** c. 1327–1374
 - **Type:** Lyric poetry (sonnets and songs)
 - **First published:** Final autograph manuscript: Vatican Library (Vat. lat. 3195)
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Il%20Canzoniere%20%28Rerum%20vulgarium%20fragmenta%29%20Petrarch%20%28Francesco%20Petrarca%29)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Il+Canzoniere)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Il+Canzoniere+Petrarch)
 
 Petrarch called his collection of Italian poems Rerum vulgarium fragmenta, fragments in the vernacular, and worked on its selection and order for decades until his death; the final arrangement survives partly in his own hand. It contains 366 poems, 317 of them sonnets, together with canzoni, sestinas, ballate and madrigals. They trace his love for Laura, first seen in Avignon in 1327, through the years of her life and, after her death in the plague of 1348, through mourning, memory and a final turn to the Virgin Mary. Petrarch explores the contradictions of love, burning and freezing, hope and despair, in polished language rich in paradox, puns on Laura's name and images of the laurel. The collection perfected the Italian sonnet and created the conventions of Petrarchism, which spread across Europe in the sixteenth century through Bembo, Ronsard, Garcilaso, Wyatt and Sidney and shaped Shakespeare's sonnets.
 

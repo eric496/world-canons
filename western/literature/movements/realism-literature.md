@@ -8,37 +8,37 @@ Realist novelists set out to show society as it actually was, especially the mid
 
 ## Authors
 
--  [Honoré de Balzac](../creators/balzac.md) (1799 – 1850)
--  [Charles Dickens](../creators/dickens.md) (1812 – 1870)
--  [Charlotte Brontë](../creators/charlotte-bronte.md) (1816 – 1855)
--  [George Eliot (Mary Ann Evans)](../creators/george-eliot.md) (1819 – 1880)
--  [Gustave Flaubert](../creators/flaubert.md) (1821 – 1880)
--  [Fyodor Dostoevsky](../creators/dostoevsky.md) (1821 – 1881)
--  [Leo Tolstoy](../creators/tolstoy.md) (1828 – 1910)
--  [Henrik Ibsen](../creators/ibsen.md) (1828 – 1906)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Balzac_%28par_Boulanger%29.jpg/330px-Balzac_%28par_Boulanger%29.jpg" width="40" alt="Honoré de Balzac"> [Honoré de Balzac](../creators/balzac.md) (1799 – 1850)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Daniel_Maclise_%281806-1870%29_-_Charles_Dickens_-_N01250_-_National_Gallery.jpg" width="40" alt="Charles Dickens"> [Charles Dickens](../creators/dickens.md) (1812 – 1870)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg/330px-Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg" width="40" alt="Charlotte Brontë"> [Charlotte Brontë](../creators/charlotte-bronte.md) (1816 – 1855)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/George_Eliot%2C_por_Fran%C3%A7ois_D%27Albert_Durade.jpg/330px-George_Eliot%2C_por_Fran%C3%A7ois_D%27Albert_Durade.jpg" width="40" alt="George Eliot (Mary Ann Evans)"> [George Eliot (Mary Ann Evans)](../creators/george-eliot.md) (1819 – 1880)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Gustave_Flaubert_par_Pierre_Fran%C3%A7ois_Eug%C3%A8ne_Giraud.jpg" width="40" alt="Gustave Flaubert"> [Gustave Flaubert](../creators/flaubert.md) (1821 – 1880)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/330px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg" width="40" alt="Fyodor Dostoevsky"> [Fyodor Dostoevsky](../creators/dostoevsky.md) (1821 – 1881)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Ivan_Nikolayevich_Kramskoi_-_Portrait_of_Leo_Tolstoy%2C_1873.jpg" width="40" alt="Leo Tolstoy"> [Leo Tolstoy](../creators/tolstoy.md) (1828 – 1910)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ibsen_by_Olrik.jpg/330px-Ibsen_by_Olrik.jpg" width="40" alt="Henrik Ibsen"> [Henrik Ibsen](../creators/ibsen.md) (1828 – 1906)
 -  [Lewis Carroll (Charles Lutwidge Dodgson)](../creators/carroll.md) (1832 – 1898)
--  [Mark Twain (Samuel Langhorne Clemens)](../creators/twain.md) (1835 – 1910)
--  [Thomas Hardy](../creators/hardy.md) (1840 – 1928)
--  [Henry James](../creators/henry-james.md) (1843 – 1916)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/John_White_Alexander_-_Samuel_L._Clemens_%28Mark_Twain%29_%281912_or_1913%29_-_Google_Art_Project.jpg/330px-John_White_Alexander_-_Samuel_L._Clemens_%28Mark_Twain%29_%281912_or_1913%29_-_Google_Art_Project.jpg" width="40" alt="Mark Twain (Samuel Langhorne Clemens)"> [Mark Twain (Samuel Langhorne Clemens)](../creators/twain.md) (1835 – 1910)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Thomas_Hardy_by_William_Strang_1893.jpg" width="40" alt="Thomas Hardy"> [Thomas Hardy](../creators/hardy.md) (1840 – 1928)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Henry_James_by_John_Singer_Sargent_cleaned.jpg/330px-Henry_James_by_John_Singer_Sargent_cleaned.jpg" width="40" alt="Henry James"> [Henry James](../creators/henry-james.md) (1843 – 1916)
 
 ## Key works
 
 | Image | Year | Work | Author | First published |
 |---|---|---|---|---|
-| — | 1835 | **Père Goriot** | [Honoré de Balzac](../creators/balzac.md) | Paris, serialised in the Revue de Paris (1834–35), then published by Werdet |
-| — | 1843 | **A Christmas Carol** | [Charles Dickens](../creators/dickens.md) | London, published by Chapman & Hall (19 December 1843) |
-| — | 1847 | **Jane Eyre** | [Charlotte Brontë](../creators/charlotte-bronte.md) | London, published by Smith, Elder & Co. under the name Currer Bell |
-| — | 1849–1850 | **David Copperfield** | [Charles Dickens](../creators/dickens.md) | London, published in monthly parts by Bradbury & Evans |
-| — | 1852–1853 | **Bleak House** | [Charles Dickens](../creators/dickens.md) | London, published in monthly parts by Bradbury & Evans |
-| — | 1856–1857 | **Madame Bovary** | [Gustave Flaubert](../creators/flaubert.md) | Paris, serialised in the Revue de Paris (1856); published by Michel Lévy (1857) |
-| — | 1860–1861 | **Great Expectations** | [Charles Dickens](../creators/dickens.md) | London, serialised weekly in All the Year Round |
-| — | 1865 | **Alice's Adventures in Wonderland** | [Lewis Carroll (Charles Lutwidge Dodgson)](../creators/carroll.md) | London, published by Macmillan, with illustrations by John Tenniel |
-| — | 1869 | **Sentimental Education** | [Gustave Flaubert](../creators/flaubert.md) | Paris, published by Michel Lévy |
+| <a href="https://commons.wikimedia.org/wiki/File:Le_P%C3%A8re_Goriot%2C_1er_Volume%2C_1835.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Le_P%C3%A8re_Goriot%2C_1er_Volume%2C_1835.png" width="140" alt="Père Goriot"></a> | 1835 | **Père Goriot** | [Honoré de Balzac](../creators/balzac.md) | Paris, serialised in the Revue de Paris (1834–35), then published by Werdet |
+| <a href="https://commons.wikimedia.org/wiki/File:Charles_Dickens-A_Christmas_Carol-Cloth-First_Edition_1843.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Charles_Dickens-A_Christmas_Carol-Cloth-First_Edition_1843.jpg/330px-Charles_Dickens-A_Christmas_Carol-Cloth-First_Edition_1843.jpg" width="140" alt="A Christmas Carol"></a> | 1843 | **A Christmas Carol** | [Charles Dickens](../creators/dickens.md) | London, published by Chapman & Hall (19 December 1843) |
+| <a href="https://commons.wikimedia.org/wiki/File:Jane_Eyre_title_page.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jane_Eyre_title_page.jpg/330px-Jane_Eyre_title_page.jpg" width="140" alt="Jane Eyre"></a> | 1847 | **Jane Eyre** | [Charlotte Brontë](../creators/charlotte-bronte.md) | London, published by Smith, Elder & Co. under the name Currer Bell |
+| <a href="https://commons.wikimedia.org/wiki/File:Copperfield_cover_serial.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Copperfield_cover_serial.jpg" width="140" alt="David Copperfield"></a> | 1849–1850 | **David Copperfield** | [Charles Dickens](../creators/dickens.md) | London, published in monthly parts by Bradbury & Evans |
+| <a href="https://commons.wikimedia.org/wiki/File:Cover%2C_Bleak_House_%281852-3%29.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cover%2C_Bleak_House_%281852-3%29.png/330px-Cover%2C_Bleak_House_%281852-3%29.png" width="140" alt="Bleak House"></a> | 1852–1853 | **Bleak House** | [Charles Dickens](../creators/dickens.md) | London, published in monthly parts by Bradbury & Evans |
+| <a href="https://commons.wikimedia.org/wiki/File:Madame_Bovary_1857_%28hi-res%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Madame_Bovary_1857_%28hi-res%29.jpg/330px-Madame_Bovary_1857_%28hi-res%29.jpg" width="140" alt="Madame Bovary"></a> | 1856–1857 | **Madame Bovary** | [Gustave Flaubert](../creators/flaubert.md) | Paris, serialised in the Revue de Paris (1856); published by Michel Lévy (1857) |
+| <a href="https://commons.wikimedia.org/wiki/File:Greatexpectations_vol1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Greatexpectations_vol1.jpg/330px-Greatexpectations_vol1.jpg" width="140" alt="Great Expectations"></a> | 1860–1861 | **Great Expectations** | [Charles Dickens](../creators/dickens.md) | London, serialised weekly in All the Year Round |
+| <a href="https://commons.wikimedia.org/wiki/File:Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg/330px-Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg" width="140" alt="Alice's Adventures in Wonderland"></a> | 1865 | **Alice's Adventures in Wonderland** | [Lewis Carroll (Charles Lutwidge Dodgson)](../creators/carroll.md) | London, published by Macmillan, with illustrations by John Tenniel |
+| <a href="https://commons.wikimedia.org/wiki/File:Education_sentimentale_flaubert.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Education_sentimentale_flaubert.jpg" width="140" alt="Sentimental Education"></a> | 1869 | **Sentimental Education** | [Gustave Flaubert](../creators/flaubert.md) | Paris, published by Michel Lévy |
 | — | 1871 (dated 1872) | **Through the Looking-Glass** | [Lewis Carroll (Charles Lutwidge Dodgson)](../creators/carroll.md) | London, published by Macmillan, with illustrations by John Tenniel |
-| — | 1871–1872 | **Middlemarch** | [George Eliot (Mary Ann Evans)](../creators/george-eliot.md) | Edinburgh and London, published in eight parts by William Blackwood and Sons |
-| — | 1880–1881 | **The Portrait of a Lady** | [Henry James](../creators/henry-james.md) | Serialised in Macmillan's Magazine (London) and The Atlantic Monthly (Boston); book published by Macmillan, 1881 |
-| — | 1884–1885 | **Adventures of Huckleberry Finn** | [Mark Twain (Samuel Langhorne Clemens)](../creators/twain.md) | London (December 1884) and New York (February 1885), published by Chatto & Windus and Charles L. Webster |
-| — | 1898 | **The Turn of the Screw** | [Henry James](../creators/henry-james.md) | Serialised in Collier's Weekly, New York; published in The Two Magics, 1898 |
+| <a href="https://commons.wikimedia.org/wiki/File:Middlemarch_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Middlemarch_1.jpg" width="140" alt="Middlemarch"></a> | 1871–1872 | **Middlemarch** | [George Eliot (Mary Ann Evans)](../creators/george-eliot.md) | Edinburgh and London, published in eight parts by William Blackwood and Sons |
+| <a href="https://commons.wikimedia.org/wiki/File:The_Portrait_of_a_lady_cover.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/The_Portrait_of_a_lady_cover.jpg" width="140" alt="The Portrait of a Lady"></a> | 1880–1881 | **The Portrait of a Lady** | [Henry James](../creators/henry-james.md) | Serialised in Macmillan's Magazine (London) and The Atlantic Monthly (Boston); book published by Macmillan, 1881 |
+| <a href="https://commons.wikimedia.org/wiki/File:Huckleberry_Finn_book.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Huckleberry_Finn_book.JPG" width="140" alt="Adventures of Huckleberry Finn"></a> | 1884–1885 | **Adventures of Huckleberry Finn** | [Mark Twain (Samuel Langhorne Clemens)](../creators/twain.md) | London (December 1884) and New York (February 1885), published by Chatto & Windus and Charles L. Webster |
+| <a href="https://commons.wikimedia.org/wiki/File:The-Turn-of-the-Screw-Collier%27s-1A.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The-Turn-of-the-Screw-Collier%27s-1A.jpg/330px-The-Turn-of-the-Screw-Collier%27s-1A.jpg" width="140" alt="The Turn of the Screw"></a> | 1898 | **The Turn of the Screw** | [Henry James](../creators/henry-james.md) | Serialised in Collier's Weekly, New York; published in The Two Magics, 1898 |
 
 ---
 [← American Renaissance](american-renaissance.md) · [Literature](../README.md) · [Russian Golden Age →](russian-golden-age.md)

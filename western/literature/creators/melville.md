@@ -1,10 +1,16 @@
 # Herman Melville
 
+<a href="https://commons.wikimedia.org/wiki/File:Herman_Melville_by_Joseph_O_Eaton.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Herman_Melville_by_Joseph_O_Eaton.jpg/330px-Herman_Melville_by_Joseph_O_Eaton.jpg" alt="Herman Melville" title="Joseph Oriel Eaton, Herman Melville, 1870"></a>
+
 **1819 – 1891** · American  
 Born: New York City · Died: New York City  
 Movements & eras: [American Renaissance](../movements/american-renaissance.md)  
 
 > Sailor, novelist and poet whose Moby-Dick, ignored in his lifetime, is now regarded as one of the greatest American novels.
+
+<sub>Portrait: Joseph Oriel Eaton, Herman Melville, 1870 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Herman_Melville_by_Joseph_O_Eaton.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Herman+Melville)
 
 ## Biography
 
@@ -19,11 +25,15 @@ Melville moved from adventure narrative to metaphysical inquiry, combining the f
 
 ### Moby-Dick (1851)
 
+[![Moby-Dick](https://upload.wikimedia.org/wikipedia/commons/3/36/Moby-Dick_FE_title_page.jpg)](https://commons.wikimedia.org/wiki/File:Moby-Dick_FE_title_page.jpg)
+
+<sub>Title page of the first American edition, 1851 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Moby-Dick_FE_title_page.jpg).</sub>
+
 - **Date:** 1851
 - **Type:** Novel
 - **First published:** London (as The Whale, October 1851) and New York (November 1851)
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Moby-Dick%20Herman%20Melville)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Moby-Dick)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Moby-Dick+Melville)
 
 Moby-Dick; or, The Whale was first published in London in October 1851 as The Whale, in an expurgated edition without its epilogue, and a month later in New York. It opens with one of literature's most famous lines, Call me Ishmael. Ishmael, a restless young man, signs on to the whaling ship Pequod at Nantucket with his friend Queequeg, a harpooner from the South Seas. Once at sea, the monomaniac Captain Ahab reveals that the voyage's purpose is to hunt the white sperm whale Moby Dick, which bit off his leg. The narrative mixes adventure with long chapters on whale biology, the techniques of whaling, the meaning of whiteness and much else, and passages written like scenes from a play. After a three-day chase, the whale destroys the Pequod, and only Ishmael survives, floating on Queequeg's coffin. Reviews were mixed and sales were poor, and Melville died almost forgotten. Rediscovered in the 1920s, the novel is now considered one of the greatest American books.
 
@@ -33,7 +43,7 @@ Moby-Dick; or, The Whale was first published in London in October 1851 as The Wh
 - **Type:** Short story
 - **First published:** Putnam's Magazine, New York (November–December 1853)
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Bartleby%2C%20the%20Scrivener%20Herman%20Melville)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Bartleby%2C+the+Scrivener)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Bartleby%2C+the+Scrivener+Melville)
 
 Bartleby, the Scrivener: A Story of Wall-Street was published anonymously in two parts in Putnam's Magazine in 1853 and collected in The Piazza Tales in 1856. The narrator, an elderly lawyer, employs several copyists, or scriveners, in his Wall Street office, among them the eccentric Turkey and Nippers. He hires a new one, the pallid, quiet Bartleby, who at first copies prodigiously. Then, asked to check a copy, Bartleby replies that he would prefer not to, and gradually he declines to do anything at all, while refusing to leave the office, where he is discovered to be living. Baffled and moved, the lawyer moves his practice elsewhere; Bartleby is taken to the Tombs prison, where he refuses to eat and dies. The narrator later hears a rumour that Bartleby had worked in the Dead Letter Office. The story's mixture of comedy and despair, and Bartleby's passive resistance, have prompted endless interpretations and anticipate Kafka and the literature of the absurd.
 

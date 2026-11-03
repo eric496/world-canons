@@ -1,10 +1,16 @@
 # Charlotte Brontë
 
+<a href="https://commons.wikimedia.org/wiki/File:Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg/330px-Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg" alt="Charlotte Brontë" title="Charlotte Brontë, from the group portrait by her brother Branwell, c. 1834"></a>
+
 **1816 – 1855** · English  
 Born: Thornton, Yorkshire · Died: Haworth, Yorkshire  
 Movements & eras: [Realism](../movements/realism-literature.md), [Romanticism](../movements/romanticism-literature.md)  
 
 > Author of Jane Eyre, the eldest of the three Brontë sisters who wrote in a remote Yorkshire parsonage.
+
+<sub>Portrait: Charlotte Brontë, from the group portrait by her brother Branwell, c. 1834 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Charlotte+Bront%C3%AB)
 
 ## Biography
 
@@ -16,11 +22,15 @@ Charlotte Brontë gave the English novel an intense first-person voice of female
 
 ### Jane Eyre (1847)
 
+[![Jane Eyre](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jane_Eyre_title_page.jpg/960px-Jane_Eyre_title_page.jpg)](https://commons.wikimedia.org/wiki/File:Jane_Eyre_title_page.jpg)
+
+<sub>Title page of the first edition, 1847 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Jane_Eyre_title_page.jpg).</sub>
+
 - **Date:** 1847
 - **Type:** Novel
 - **First published:** London, published by Smith, Elder & Co. under the name Currer Bell
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Jane%20Eyre%20Charlotte%20Bront%C3%AB)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Jane+Eyre)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Jane+Eyre+Bront%C3%AB)
 
 Jane Eyre: An Autobiography was published in October 1847 under the pseudonym Currer Bell and was an immediate success. Jane, an orphan, is mistreated by her aunt Mrs Reed and sent to Lowood, a harsh charity school where her friend Helen Burns dies of consumption. After years as a pupil and teacher, she becomes governess at Thornfield Hall to the ward of the brooding Mr Rochester. They fall in love, but at the altar it is revealed that Rochester is already married to Bertha Mason, a Creole woman from Jamaica whom he keeps locked in the attic because of her madness. Jane flees, nearly dies on the moors and is taken in by the clergyman St John Rivers, who asks her to marry him and go to India as a missionary. Hearing Rochester's voice calling her, she returns to find Thornfield burned, Bertha dead and Rochester blinded and maimed, and marries him. The novel's passionate first-person narrator and her demand for equality made it revolutionary. Jean Rhys's Wide Sargasso Sea (1966) retold Bertha's story.
 

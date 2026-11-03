@@ -16,7 +16,7 @@ The term Lost Generation, used by Gertrude Stein and popularised by Hemingway, d
 
 | Image | Year | Work | Author | First published |
 |---|---|---|---|---|
-| — | 1925 | **The Great Gatsby** | [F. Scott Fitzgerald](../creators/fitzgerald.md) | New York, published by Charles Scribner's Sons |
+| <a href="https://commons.wikimedia.org/wiki/File:The_Great_Gatsby_Cover_1925_Retouched.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg" width="140" alt="The Great Gatsby"></a> | 1925 | **The Great Gatsby** | [F. Scott Fitzgerald](../creators/fitzgerald.md) | New York, published by Charles Scribner's Sons |
 | — | 1926 | **The Sun Also Rises** | [Ernest Hemingway](../creators/hemingway.md) | New York, published by Charles Scribner's Sons |
 | — | 1929 | **The Sound and the Fury** | [William Faulkner](../creators/faulkner.md) | New York, published by Jonathan Cape and Harrison Smith |
 

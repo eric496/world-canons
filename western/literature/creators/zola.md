@@ -1,10 +1,16 @@
 # Émile Zola
 
+<a href="https://commons.wikimedia.org/wiki/File:Manet%2C_Edouard_-_Portrait_of_Emile_Zola.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Manet%2C_Edouard_-_Portrait_of_Emile_Zola.jpg/330px-Manet%2C_Edouard_-_Portrait_of_Emile_Zola.jpg" alt="Émile Zola" title="Édouard Manet, Émile Zola, 1868, Musée d'Orsay"></a>
+
 **1840 – 1902** · French  
 Born: Paris · Died: Paris  
 Movements & eras: [Naturalism](../movements/naturalism-literature.md)  
 
 > Leader of Naturalism and author of the twenty-novel Rougon-Macquart cycle, who risked everything to defend Alfred Dreyfus.
+
+<sub>Portrait: Édouard Manet, Émile Zola, 1868, Musée d'Orsay · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Manet%2C_Edouard_-_Portrait_of_Emile_Zola.jpg)</sub>
+
+**Links:** [Texts on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=%C3%89mile+Zola)
 
 ## Biography
 
@@ -16,11 +22,15 @@ Zola set out to apply the methods of science to the novel, studying heredity and
 
 ### Germinal (1885)
 
+[![Germinal](https://upload.wikimedia.org/wikipedia/commons/6/61/Germinal_first_edition_cover.jpg)](https://commons.wikimedia.org/wiki/File:Germinal_first_edition_cover.jpg)
+
+<sub>Cover of the first edition, 1885 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Germinal_first_edition_cover.jpg).</sub>
+
 - **Date:** 1885
 - **Type:** Novel
 - **First published:** Paris, serialised in Gil Blas (1884–85), then published by Charpentier
 - **Read more:** [Wikipedia](https://en.wikipedia.org/w/index.php?search=Germinal%20%C3%89mile%20Zola)
-- **Links:** [Search Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Germinal)
+- **Links:** [Free text on Project Gutenberg](https://www.gutenberg.org/ebooks/search/?query=Germinal+Zola)
 
 Germinal is the thirteenth novel of Zola's Rougon-Macquart cycle, serialised in 1884–85 and based on his visits to the coalfields of northern France, where he went down the pits and studied the strike at Anzin. Étienne Lantier, a young machinist who has been sacked for striking an employer, arrives at the mining village of Montsou and finds work at the Le Voreux pit, lodging with the Maheu family. He witnesses the hunger, exhaustion and danger of the miners' lives, falls in love with Catherine Maheu, and, inspired by socialist ideas, leads a strike when the company cuts wages. The strike leads to starvation, riot and the shooting of strikers by soldiers, and an anarchist sabotages the mine, which floods, trapping Étienne and Catherine underground. Étienne leaves at the end, sensing a new army germinating beneath the earth. The title refers to a month of the revolutionary calendar. The novel's power made it a classic of social fiction, and at Zola's funeral crowds of miners chanted its name.
 
