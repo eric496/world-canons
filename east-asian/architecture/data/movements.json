@@ -1,0 +1,202 @@
+[
+ {
+  "id": "early-chinese-palaces-tombs",
+  "name": "Early Chinese palaces & tombs",
+  "name_native": "秦漢宮殿陵墓",
+  "dates": "c. 1600 BC – AD 220",
+  "period": "empire-formation",
+  "summary": "From the rammed-earth platforms of the Shang to the vast palace compounds of Qin and Han, early Chinese builders worked in pounded earth and timber, setting halls on raised terraces along a north–south axis. Little survives above ground, so these buildings are known from excavated foundations, clay house models and above all from tombs, which were laid out as underground palaces for the dead.",
+  "image_file": "Tomb of the First Emperor Qin Shi Huang Di, Xi'an, China - panoramio.jpg",
+  "image_caption": "The tomb mound of the First Emperor near Xi'an"
+ },
+ {
+  "id": "great-wall",
+  "name": "The Great Wall",
+  "name_native": "長城",
+  "dates": "7th century BC – 17th century",
+  "period": "empire-formation",
+  "summary": "Walls of rammed earth, rubble and later brick and stone were built by rival states of the Warring States period, joined and extended by the Qin and Han, and rebuilt on a vast scale by the Ming. The Great Wall is not one structure but a system of walls, watchtowers, passes and garrisons stretched along the northern frontier over two thousand years.",
+  "image_file": "The Great Wall of China at Jinshanling-edit.jpg",
+  "image_caption": "The Ming Great Wall at Jinshanling, Hebei"
+ },
+ {
+  "id": "buddhist-caves-pagodas",
+  "name": "Buddhist cave temples & early pagodas",
+  "name_native": "石窟寺與佛塔",
+  "dates": "4th – 9th century",
+  "period": "empire-formation",
+  "summary": "Buddhism reached China along the Silk Road, bringing the rock-cut sanctuary and the stupa. Chinese builders carved cave temples into cliffs at Dunhuang, Yungang and Longmen and transformed the Indian stupa into the many-storeyed pagoda, first in timber and then in brick and stone, which became one of the defining forms of East Asian architecture.",
+  "image_file": "Pagoda of Songyue Temple, 2015-09-25 20.jpg",
+  "image_caption": "Songyue Pagoda, Dengfeng"
+ },
+ {
+  "id": "tang-liao-timber",
+  "name": "Tang & Liao timber halls",
+  "name_native": "唐遼木構建築",
+  "dates": "7th – 11th century",
+  "period": "cosmopolitan-age",
+  "summary": "The Tang dynasty perfected the Chinese timber frame: columns carrying clusters of interlocking brackets (dougong) that support deep, gently curving eaves. Only a handful of Tang halls survive, in remote mountain temples, but the Liao dynasty in the north continued the style, and the system spread to Korea and Japan, where Tang forms are preserved better than in China itself.",
+  "image_file": "佛光寺东大殿左侧面.jpg",
+  "image_caption": "East Hall of Foguang Temple"
+ },
+ {
+  "id": "asuka-nara-temples",
+  "name": "Asuka & Nara temple architecture",
+  "name_native": "飛鳥・奈良寺院建築",
+  "dates": "late 6th – 8th century",
+  "period": "cosmopolitan-age",
+  "summary": "Buddhism came to Japan from Baekje in the sixth century, and with it Korean and Chinese carpenters, roof-tile makers and painters. Temple compounds with a pagoda, a golden hall and cloisters were built at Asuka and then at Nara, the capital laid out on the Chinese grid. They include the oldest surviving wooden buildings in the world, at Hōryū-ji.",
+  "image_file": "Horyu-ji11s3200.jpg",
+  "image_caption": "Golden hall and pagoda of Hōryū-ji"
+ },
+ {
+  "id": "shinto-shrines",
+  "name": "Shinto shrine architecture",
+  "name_native": "神社建築",
+  "dates": "7th century – present",
+  "period": "cosmopolitan-age",
+  "summary": "Shinto shrines preserve forms older than Buddhist architecture in Japan: raised floors, thatched or bark roofs, unpainted timber and crossed finials. Ise and Izumo represent the two most ancient types, kept alive by periodic rebuilding rather than by preserving old fabric, while later shrines such as Itsukushima absorbed the colour and planning of Buddhist and palace architecture.",
+  "image_file": "Naiku 04.jpg",
+  "image_caption": "The Inner Shrine (Naikū), Ise"
+ },
+ {
+  "id": "korean-buddhist",
+  "name": "Three Kingdoms, Silla & Goryeo Buddhist architecture",
+  "name_native": "삼국·신라·고려 불교건축",
+  "dates": "4th – 14th century",
+  "period": "cosmopolitan-age",
+  "summary": "The Korean kingdoms of Goguryeo, Baekje and Silla adopted Buddhism in the fourth to sixth centuries and became the bridge that carried Chinese building to Japan. Their great timber temples are lost, but stone pagodas, the granite grotto of Seokguram and the terraces of Bulguksa show a distinctive refinement, and a few Goryeo timber halls are the oldest wooden buildings in Korea.",
+  "image_file": "Lotus Flower Bridge and Seven Treasure Bridge at Bulguksa in Gyeongju, Korea.jpg",
+  "image_caption": "Lotus Flower and Seven Treasures Bridges, Bulguksa"
+ },
+ {
+  "id": "heian-pure-land",
+  "name": "Heian Pure Land halls & shinden-zukuri",
+  "name_native": "平安浄土建築・寝殿造",
+  "dates": "9th – 12th century",
+  "period": "song-heian-goryeo",
+  "summary": "In Heian Japan the court aristocracy lived in shinden-zukuri mansions, pavilions linked by corridors around a pond garden. The same idea, applied to Pure Land Buddhism, produced Amida halls set over water to evoke the Western Paradise, most famously the Phoenix Hall of Byōdō-in. Construction became lighter, more Japanese and more closely bound to landscape.",
+  "image_file": "Phoenix Hall, Byodo-in, November 2016 -01.jpg",
+  "image_caption": "Phoenix Hall (Hōōdō), Byōdō-in"
+ },
+ {
+  "id": "song-yingzao-fashi",
+  "name": "Song architecture & the Yingzao Fashi",
+  "name_native": "宋代建築・營造法式",
+  "dates": "960 – 1279",
+  "period": "song-heian-goryeo",
+  "summary": "Song dynasty architecture became more elaborate and more standardised. In 1103 the court published the Yingzao Fashi, a building manual that fixed a modular system of timber sizes, bracket sets and labour quotas. Surviving Song halls and pagodas show slenderer proportions, richer bracketing and the beginnings of the decorative intensity of later imperial architecture.",
+  "image_file": "Pagodaoffogongtemple2019.jpg",
+  "image_caption": "Pagoda of Fogong Temple, Ying County"
+ },
+ {
+  "id": "kamakura-zen",
+  "name": "Kamakura Buddhist & Zen architecture",
+  "name_native": "鎌倉仏教・禅宗様建築",
+  "dates": "late 12th – 14th century",
+  "period": "song-heian-goryeo",
+  "summary": "After the civil wars of the 1180s Japanese builders turned again to China. The monk Chōgen rebuilt Tōdai-ji in the bold 'Great Buddha style' from southern China, and Zen monasteries introduced the 'Zen style' of Song China, with curved window heads, dense bracketing and stone-floored halls laid out in a strict axial plan.",
+  "image_file": "Nandaimon, Todaiji 2013-01-01.jpg",
+  "image_caption": "Great South Gate (Nandaimon) of Tōdai-ji"
+ },
+ {
+  "id": "muromachi-gardens-shoin",
+  "name": "Muromachi gardens & shoin",
+  "name_native": "室町庭園・書院造",
+  "dates": "14th – 16th century",
+  "period": "ming-muromachi-joseon",
+  "summary": "Zen monks and the Ashikaga shōguns created the classic Japanese garden: the strolling pond garden, the dry landscape (karesansui) of raked gravel and stone, and the garden meant to be viewed from a veranda. Indoors, the shoin study with its alcove, staggered shelves and built-in desk became the model for the formal Japanese room.",
+  "image_file": "Kare-sansui zen garden, Ryōan-ji, Kyoto 20190416 1.jpg",
+  "image_caption": "Rock garden of Ryōan-ji"
+ },
+ {
+  "id": "ming-qing-imperial",
+  "name": "Ming–Qing imperial architecture",
+  "name_native": "明清宮廷建築",
+  "dates": "1368 – 1912",
+  "period": "ming-muromachi-joseon",
+  "summary": "The Ming and Qing courts built on a scale never seen before: the Forbidden City, the Temple of Heaven, imperial tombs and vast garden palaces, all governed by strict hierarchies of colour, roof form and number. Construction was run by official bureaus and hereditary families of designers such as the Lei. The Qing also patronised Tibetan Buddhist architecture, whose own great monument, the Potala in Lhasa, belongs to a separate tradition.",
+  "image_file": "The Forbidden City - View from Coal Hill.jpg",
+  "image_caption": "The Forbidden City seen from Jingshan (Coal Hill)"
+ },
+ {
+  "id": "chinese-scholar-gardens",
+  "name": "Chinese scholar gardens",
+  "name_native": "江南文人園林",
+  "dates": "16th – 19th century",
+  "period": "ming-muromachi-joseon",
+  "summary": "In the prosperous cities of the lower Yangzi, above all Suzhou, retired officials and merchants built walled gardens of rockeries, ponds, pavilions and covered walkways. Designed to unfold as a sequence of framed views, like a handscroll painting, they compress a whole landscape into a city plot. Ji Cheng's treatise Yuanye of 1631 set out their principles.",
+  "image_file": "Suzhou Zhuozheng Yuan 2015.04.23 08-13-49.jpg",
+  "image_caption": "Humble Administrator's Garden, Suzhou"
+ },
+ {
+  "id": "momoyama-castles",
+  "name": "Momoyama & early Edo castles and palaces",
+  "name_native": "桃山・江戸初期城郭",
+  "dates": "1570s – 1650s",
+  "period": "ming-muromachi-joseon",
+  "summary": "The wars of unification produced the Japanese castle: a many-storeyed keep (tenshu) of plastered timber on a high stone base, surrounded by moats and baileys. Their audience halls, painted with gold-ground screens, and the shrine-mausolea of the Tokugawa at Nikkō represent the most opulent phase of Japanese architecture.",
+  "image_file": "Himeji castle in may 2015.jpg",
+  "image_caption": "Himeji Castle"
+ },
+ {
+  "id": "sukiya-tea",
+  "name": "Sukiya & the tea house",
+  "name_native": "数寄屋・茶室",
+  "dates": "late 16th – 17th century",
+  "period": "ming-muromachi-joseon",
+  "summary": "Against Momoyama splendour, tea masters such as Sen no Rikyū developed the tiny rustic tea room of earth walls, bamboo and paper, entered through a low door. The sukiya style that grew from it, with natural materials, asymmetry and understated refinement, shaped villas such as Katsura and remains a living ideal of Japanese domestic architecture.",
+  "image_file": "Katsura Rikyu (3264799678).jpg",
+  "image_caption": "Katsura Imperial Villa"
+ },
+ {
+  "id": "joseon-palaces-seowon",
+  "name": "Joseon palaces & seowon",
+  "name_native": "조선 궁궐·서원",
+  "dates": "1392 – 1897",
+  "period": "ming-muromachi-joseon",
+  "summary": "The Joseon dynasty laid out its capital at Hanyang (Seoul) according to Confucian ritual and geomancy, with palaces set against mountains, the ancestral shrine of Jongmyo and city walls. Its architecture is restrained, with painted dancheong brackets, and closely fitted to terrain. In the countryside, Confucian academies (seowon) and gentry gardens expressed the scholarly ideals of Neo-Confucianism.",
+  "image_file": "Front view of the Imperial Throne Hall Geunjeongjeon at Gyeongbokgung Palace with blue sky in Seoul.jpg",
+  "image_caption": "Geunjeongjeon throne hall, Gyeongbokgung"
+ },
+ {
+  "id": "vernacular",
+  "name": "Vernacular houses & villages",
+  "name_native": "民居",
+  "dates": "15th – 19th century",
+  "period": "qing-edo-late-joseon",
+  "summary": "Beyond palaces and temples, farmers and clans built houses adapted to climate and community: the fortified earthen tulou of the Hakka in Fujian, the steep thatched gasshō farmhouses of the Japanese Alps and the tiled and thatched yangban villages of Korea. They are now among the most visited heritage sites of the region.",
+  "image_file": "Three round, one oval, one square (16831811084).jpg",
+  "image_caption": "Tianluokeng tulou cluster, Nanjing County, Fujian"
+ },
+ {
+  "id": "meiji-western",
+  "name": "Meiji Western-style & early modern",
+  "name_native": "明治洋風建築・近代建築",
+  "dates": "1868 – 1945",
+  "period": "east-asian-modern",
+  "summary": "After 1868 the Meiji government hired foreign architects such as Josiah Conder to teach Western building, and his Japanese students produced brick banks, stations and palaces in European styles. Frank Lloyd Wright and Antonin Raymond brought modern ideas, while in China architects trained abroad sought a modern national style, as in the Sun Yat-sen Mausoleum.",
+  "image_file": "Tokyo-STA Marunouchi-Entrance 2023.jpg",
+  "image_caption": "Marunouchi building of Tokyo Station"
+ },
+ {
+  "id": "metabolism-modernism",
+  "name": "Japanese modernism & Metabolism",
+  "name_native": "モダニズム・メタボリズム",
+  "dates": "1945 – 1980s",
+  "period": "east-asian-contemporary",
+  "summary": "Postwar reconstruction made Japan a centre of modern architecture. Kunio Maekawa and Kenzō Tange fused Le Corbusier's concrete with Japanese structural clarity, and in 1960 younger architects launched Metabolism, a vision of megastructures and replaceable capsules that would grow like organisms. In Korea Kim Swoo-geun and Kim Chung-up created a comparable modern architecture.",
+  "image_file": "Kokuritsu Yoyogi Kyōgijō 1.jpg",
+  "image_caption": "Yoyogi National Gymnasium"
+ },
+ {
+  "id": "east-asian-contemporary-arch",
+  "name": "Contemporary architecture",
+  "name_native": "現代建築",
+  "dates": "1980s – present",
+  "period": "east-asian-contemporary",
+  "summary": "Since the 1980s East Asian architects have become leading figures worldwide, winning the Pritzker Prize repeatedly. Tadao Andō's concrete, Toyo Itō's and SANAA's lightness, Kengo Kuma's timber and Wang Shu's recycled tiles all reinterpret local tradition, while China's building boom has produced some of the largest projects on earth.",
+  "image_file": "Sendai Mediatheque 2009.jpg",
+  "image_caption": "Sendai Mediatheque"
+ }
+]
