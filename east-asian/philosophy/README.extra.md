@@ -1,0 +1,11 @@
+## Notes on this section
+
+**Philosophy and religion.** Buddhist and Daoist thinkers appear here for their arguments: Tiantai's threefold truth, Huayan interpenetration, Dōgen on being-time. Their scriptures, institutions and practice belong to the Religion section, which shares the same people ids (`huineng`, `dogen`, `kukai`, `wonhyo`, `shinran`).
+
+**Dating early texts.** Most classical Chinese books are layered compilations, not single-author works. The Analects, Mencius, Zhuangzi, Mozi and Han Feizi were assembled by disciples and later schools; the Daodejing's authorship and date are debated, and the Guodian (c. 300 BC) and Mawangdui (before 168 BC) manuscripts show it still taking shape. Dates given for such texts are approximate, and attributions such as the Great Learning to Zengzi, or the Seventeen-article Constitution to Prince Shōtoku, are traditional. Collective texts are credited to group entries (`yijing-authors`, `liji-compilers`).
+
+**Romanization.** Chinese is in pinyin (Zhu Xi, not Chu Hsi; Daodejing, not Tao Te Ching), Japanese in Hepburn with macrons (Dōgen, Ogyū Sorai), Korean in Revised Romanization (Yi Hwang, Jeong Yak-yong, Bak Ji-won). Older spellings such as Chu Hsi, Wang Yang-ming, Yi T'oegye or Chŏng Yagyong are common in English books. Names are family name first; Korean and Chinese thinkers are often known by pen names (Toegye, Yulgok, Dasan, Chuanshan, Xiangshan), mentioned in the biographies.
+
+**Reading in English.** Good starting points are Wing-tsit Chan's *A Source Book in Chinese Philosophy* (1963), the *Sources of Chinese / Japanese / Korean Tradition* series (Columbia University Press), and James Heisig, Thomas Kasulis and John Maraldo, eds., *Japanese Philosophy: A Sourcebook* (2011). Modern translations are under copyright, so the texts are paraphrased here; brief quotations come only from the classical originals. Twentieth-century works by authors who died less than about 70 years ago are described but not illustrated.
+
+**Portraits.** Nearly all portraits of pre-modern Chinese thinkers are imagined likenesses painted centuries after their deaths, and are captioned as such. Twentieth-century philosophers are known mainly from photographs, which this repository does not use, so they have no portrait.

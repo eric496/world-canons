@@ -1,0 +1,17 @@
+{
+ "title": "Philosophy",
+ "order": 3,
+ "tagline": "From Confucius and Laozi to Zhu Xi, Wang Yangming, Toegye and the Kyoto School",
+ "hero_file": "Confucius, fresco from a Western Han tomb of Dongping County, Shandong province, China (cropped).jpg",
+ "hero_caption": "Confucius in a Western Han tomb fresco from Dongping, Shandong, 1st century BC",
+ "labels": {
+  "creator": "Philosopher",
+  "creators": "Philosophers",
+  "work": "Key text",
+  "works": "Key texts",
+  "movement": "School",
+  "movements": "Schools & eras",
+  "location": "Written / first published"
+ },
+ "intro": "Philosophy in China, Japan and Korea over two and a half thousand years, from the Hundred Schools of the Warring States to the Kyoto School and New Confucianism. The section follows arguments rather than rituals: how to govern, what human nature is, how mind relates to the world, and what makes a life good. Buddhism and Daoism appear here as bodies of philosophical argument; their practice and institutions belong to the Religion section. Every thinker has a full biography and every key text an introduction, illustrated with manuscripts, early printed editions and portraits from Wikimedia Commons."
+}

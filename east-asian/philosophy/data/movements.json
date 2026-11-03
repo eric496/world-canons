@@ -1,0 +1,158 @@
+[
+ {
+  "id": "classical-confucianism",
+  "name": "Classical Confucianism",
+  "name_native": "儒家",
+  "dates": "c. 500–230 BC",
+  "period": "early-dynasties",
+  "summary": "The ru, or classicists, who looked back to the early Zhou kings as models of humane government. Confucius taught that a good society rests on cultivated persons who practise benevolence (ren) and ritual propriety (li); Mencius argued that human nature tends toward goodness, Xunzi that goodness must be built by ritual and learning. Their texts became the core of education across East Asia for two millennia."
+ },
+ {
+  "id": "classical-daoism",
+  "name": "Classical Daoism",
+  "name_native": "道家",
+  "dates": "c. 400–200 BC",
+  "period": "early-dynasties",
+  "summary": "A loose label, applied by Han historians, for the texts attached to Laozi and Zhuangzi. They describe a nameless Dao, the way things spontaneously go, and recommend non-coercive action (wuwei), simplicity and a sceptical distance from fixed values and distinctions. The Daodejing addresses rulers; the Zhuangzi uses stories, jokes and paradoxes to loosen the grip of ordinary perspectives."
+ },
+ {
+  "id": "mohism",
+  "name": "Mohism",
+  "name_native": "墨家",
+  "dates": "c. 450–220 BC",
+  "period": "early-dynasties",
+  "summary": "The followers of Mozi, the first organised rivals of the Confucians. They argued for impartial concern for everyone (jian ai), judged doctrines by their benefit to the people, condemned aggressive war and lavish ritual, and built a disciplined community of defensive engineers. Later Mohists wrote sophisticated canons on logic, ethics, optics and mechanics. The school vanished after the Qin unification and was rediscovered only in the Qing."
+ },
+ {
+  "id": "school-of-names",
+  "name": "School of Names",
+  "name_native": "名家",
+  "dates": "c. 380–250 BC",
+  "period": "early-dynasties",
+  "summary": "Debaters (bianzhe) such as Hui Shi and Gongsun Long who examined how names relate to things, and propounded paradoxes about space, time, similarity and difference, most famously that a white horse is not a horse. Little of their work survives, mostly through the reports of critics, but they are the closest Chinese counterpart to the Greek sophists and logicians."
+ },
+ {
+  "id": "legalism",
+  "name": "Legalism",
+  "name_native": "法家",
+  "dates": "c. 350–200 BC",
+  "period": "early-dynasties",
+  "summary": "Statecraft theorists, from Shang Yang to Han Fei, who held that order comes from clear published laws, predictable rewards and punishments, and the ruler's control of bureaucratic technique, not from moral example. Their methods helped Qin unify China in 221 BC; the dynasty's swift collapse gave the label a bad name, though Legalist administration survived beneath a Confucian surface."
+ },
+ {
+  "id": "yin-yang-han",
+  "name": "Yin-Yang & Han Cosmology",
+  "name_native": "陰陽家・漢代經學",
+  "dates": "c. 300 BC – AD 220",
+  "period": "empire-formation",
+  "summary": "Correlative thinking that maps the cosmos, the seasons, the body and the state onto the complementary forces of yin and yang and the Five Phases. Begun by Zou Yan and the commentators of the Book of Changes, it was woven into Confucian political theory by Dong Zhongshu when Han emperors made the Confucian classics state orthodoxy. Wang Chong's Lunheng is its great sceptical critic."
+ },
+ {
+  "id": "xuanxue",
+  "name": "Xuanxue (Learning of the Mysterious)",
+  "name_native": "玄學",
+  "dates": "c. 220–420",
+  "period": "empire-formation",
+  "summary": "The 'Neo-Daoist' metaphysics of the Wei and Jin, carried on in commentaries and 'pure conversation'. Wang Bi read the Laozi and the Changes as pointing to a formless root, nothingness (wu), beneath all things; Guo Xiang answered that things arise spontaneously from themselves. Their vocabulary shaped how Chinese readers first understood Buddhist emptiness."
+ },
+ {
+  "id": "buddhist-schools",
+  "name": "Buddhist Scholastic Schools",
+  "name_native": "天台・華嚴・密教",
+  "dates": "c. 550–1250",
+  "period": "cosmopolitan-age",
+  "summary": "The great East Asian systematisations of Buddhist thought. Tiantai (Tendai) and Huayan (Hwaeom, Kegon) ranked the sutras into graded teachings and developed a metaphysics of mutual interpenetration, in which every phenomenon contains every other. In Korea Wonhyo and Uisang, and in Japan Prince Shōtoku, Kūkai and Shinran, made these and the esoteric and Pure Land traditions their own.",
+  "image_file": "Mount Tiantai by Wu Bin, 1605, Honolulu Museum of Art 3678.1b.JPG",
+  "image_caption": "Wu Bin, Mount Tiantai, 1605, Honolulu Museum of Art; the mountain gave the Tiantai school its name"
+ },
+ {
+  "id": "chan-zen",
+  "name": "Chan, Seon & Zen",
+  "name_native": "禪",
+  "dates": "c. 650–1300",
+  "period": "cosmopolitan-age",
+  "summary": "The meditation school that claimed a 'separate transmission outside the scriptures' pointing directly at the mind. Its Platform Sutra debated sudden versus gradual awakening; in Korea Jinul joined sudden awakening to gradual cultivation; in Japan Dōgen wrote a profound philosophy of time, being and practice. Its ideas returned to philosophy proper in the Kyoto School."
+ },
+ {
+  "id": "cheng-zhu",
+  "name": "Neo-Confucianism: Cheng–Zhu School",
+  "name_native": "程朱理學",
+  "dates": "c. 1000–1200",
+  "period": "song-heian-goryeo",
+  "summary": "The Song revival of Confucianism as a complete philosophy answering Buddhism. Zhou Dunyi, Zhang Zai and the Cheng brothers built a metaphysics of principle (li) and vital stuff (qi); Zhu Xi synthesised it, centred learning on the Four Books and the 'investigation of things', and from 1313 his commentaries were the basis of the civil-service examinations, later also in Korea and Japan."
+ },
+ {
+  "id": "lu-wang",
+  "name": "Neo-Confucianism: Lu–Wang School of Mind",
+  "name_native": "陸王心學",
+  "dates": "c. 1170–1600",
+  "period": "ming-muromachi-joseon",
+  "summary": "The rival wing of Neo-Confucianism that located principle in the mind itself. Lu Jiuyuan debated Zhu Xi on this point in 1175; Wang Yangming in the Ming taught innate knowing of the good and the unity of knowing and acting. His followers, including the iconoclast Li Zhi, carried the idea toward a celebration of spontaneous feeling."
+ },
+ {
+  "id": "korean-neo-confucianism",
+  "name": "Korean Neo-Confucianism",
+  "name_native": "性理學",
+  "dates": "c. 1390–1600",
+  "period": "ming-muromachi-joseon",
+  "summary": "The Joseon dynasty made Zhu Xi's teaching its state ideology, and Korean scholars pushed its problems further than anyone in China. Jeong Do-jeon's attack on Buddhism laid the foundation; Yi Hwang (Toegye) and Yi I (Yulgok), in the Four–Seven debate and beyond, argued over how principle and vital force relate in human emotions.",
+  "image_file": "Korea-Andong-Dosan Seowon-01.jpg",
+  "image_caption": "Dosan Seowon, Andong, the academy that grew from Yi Hwang's school"
+ },
+ {
+  "id": "edo-confucianism",
+  "name": "Edo Confucianism",
+  "name_native": "江戸儒學",
+  "dates": "c. 1600–1800",
+  "period": "qing-edo-late-joseon",
+  "summary": "Under the Tokugawa shogunate Confucianism became Japan's leading secular learning. Hayashi Razan promoted Zhu Xi orthodoxy, Nakae Tōju Wang Yangming's learning; Itō Jinsai and Ogyū Sorai rejected Song metaphysics altogether and went back to the ancient texts, Sorai treating the Way as institutions invented by ancient kings. Andō Shōeki attacked the whole system in the name of farmers' labour."
+ },
+ {
+  "id": "evidential-learning",
+  "name": "Ming–Qing Critique & Evidential Learning",
+  "name_native": "考證學",
+  "dates": "c. 1640–1800",
+  "period": "qing-edo-late-joseon",
+  "summary": "After the Manchu conquest, loyalist scholars Huang Zongxi, Gu Yanwu and Wang Fuzhi blamed Ming collapse on empty speculation and turned to institutions, history and concrete things. In the eighteenth century the kaozheng movement applied philology, phonology and textual criticism to the classics; Dai Zhen used these methods to attack the Neo-Confucian split between principle and desire."
+ },
+ {
+  "id": "kokugaku",
+  "name": "Kokugaku (National Learning)",
+  "name_native": "國學",
+  "dates": "c. 1690–1850",
+  "period": "qing-edo-late-joseon",
+  "summary": "A Japanese movement that studied the oldest native texts, the Kojiki, the Man'yōshū and The Tale of Genji, to recover a Japanese mind before Chinese influence. Motoori Norinaga found it in sincere feeling and the sensitivity he called mono no aware; the movement fed later Shinto nationalism."
+ },
+ {
+  "id": "silhak",
+  "name": "Silhak (Practical Learning)",
+  "name_native": "實學",
+  "dates": "c. 1650–1850",
+  "period": "qing-edo-late-joseon",
+  "summary": "Korean reformers of the late Joseon who turned Confucian learning toward land reform, administration, technology and commerce, some looking to Qing China and Western learning for models. Jeong Yak-yong (Dasan) produced its greatest synthesis, combining classical scholarship with detailed plans for just government."
+ },
+ {
+  "id": "modern-reform",
+  "name": "Reform & Enlightenment",
+  "name_native": "變法・啓蒙",
+  "dates": "c. 1860–1945",
+  "period": "east-asian-modern",
+  "summary": "Thinkers who confronted Western power and ideas. In Japan Fukuzawa Yukichi preached independence and civilisation; in China Kang Youwei recast Confucius as a reformer, Liang Qichao called for a new citizen and Hu Shi for pragmatism and science; in Korea Choe Je-u founded Donghak and Han Yong-un called for Buddhist reform."
+ },
+ {
+  "id": "kyoto-school",
+  "name": "Kyoto School",
+  "name_native": "京都学派",
+  "dates": "c. 1910–1990",
+  "period": "east-asian-modern",
+  "summary": "Philosophers centred on Kyoto Imperial University who joined Western philosophy to Buddhist ideas of nothingness. Nishida Kitarō's pure experience and logic of place, Tanabe Hajime's metanoetics, Watsuji Tetsurō's ethics of betweenness and Nishitani Keiji's analysis of nihilism form the first major non-Western philosophy in conversation with Europe. Its wartime politics remain debated."
+ },
+ {
+  "id": "new-confucianism",
+  "name": "New Confucianism",
+  "name_native": "現代新儒家",
+  "dates": "c. 1920–1995",
+  "period": "east-asian-modern",
+  "summary": "Twentieth-century philosophers who defended Confucian thought against May Fourth iconoclasm and Marxism by restating it in dialogue with Kant, Hegel and Buddhism. Liang Shuming, Xiong Shili and Feng Youlan worked in mainland China; Mou Zongsan and others carried the project to Hong Kong and Taiwan."
+ }
+]

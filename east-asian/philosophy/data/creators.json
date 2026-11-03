@@ -1,0 +1,1289 @@
+[
+ {
+  "id": "yijing-authors",
+  "name": "Authors of the Book of Changes",
+  "name_native": "易經作者",
+  "born": "c. 1000 BC",
+  "died": "c. 200 BC",
+  "sort": -1000,
+  "birthplace": "Zhou China",
+  "nationality": "Chinese",
+  "movements": [
+   "yin-yang-han"
+  ],
+  "bio": "The anonymous diviners and commentators who built the Book of Changes over most of a millennium, from the Western Zhou line texts to the Warring States and Han 'Ten Wings'.",
+  "bio_full": [
+   "The Yijing (I Ching) is not the work of one person. Tradition credited the eight trigrams to the mythical sage Fu Xi, the sixty-four hexagrams and their judgements to King Wen of Zhou, the line statements to the Duke of Zhou, and the appended commentaries, the 'Ten Wings', to Confucius. Modern scholarship sees instead a divination manual whose core texts took shape among court diviners of the Western Zhou, around the ninth century BC, and commentaries written by many hands in the late Warring States and early Han.",
+   "Excavated manuscripts have transformed the picture. A silk Yijing with otherwise unknown commentaries was found at Mawangdui (buried 168 BC), and a bamboo text of the Changes at Shanghai Museum dates from the fourth century BC. The commentators turned an oracle into a philosophy of change, in which yin and yang alternate and the sage learns to read the moment. Every later school, from Wang Bi to Zhu Xi to Wang Fuzhi, wrote on it."
+  ]
+ },
+ {
+  "id": "confucius",
+  "name": "Confucius",
+  "name_native": "孔子",
+  "born": "551 BC",
+  "died": "479 BC",
+  "sort": -551,
+  "birthplace": "Zou, State of Lu (near Qufu, Shandong)",
+  "deathplace": "Lu",
+  "nationality": "Chinese",
+  "movements": [
+   "classical-confucianism"
+  ],
+  "bio": "Teacher and would-be statesman of the state of Lu whose sayings, collected by his disciples as the Analects, became the foundation of East Asian ethics and education.",
+  "bio_full": [
+   "Kong Qiu, honoured as Kongzi or Kong Fuzi ('Master Kong'), was born in 551 BC into a family of minor nobility in the small state of Lu, in present-day Shandong. Orphaned young and poor, he worked in minor posts, educated himself in the rites and texts of the early Zhou, and gathered students from every background, an unusual step at the time. He may have held office in Lu around 500 BC; disappointed, he spent years travelling between states seeking a ruler who would put his ideas into practice, then returned home to teach. He died in 479 BC. Later tradition credited him with editing the Five Classics, a claim modern scholars treat with great caution.",
+   "Confucius taught that social order depends on moral cultivation: the junzi, or exemplary person, cultivates ren (humaneness), practises li (ritual propriety), and governs by virtue and example rather than force. Filial piety, the correct use of names and lifelong learning are recurring themes. Our main source, the Analects, was compiled by later generations of disciples, so the historical Confucius is partly a reconstruction. Under the Han his teaching became state orthodoxy, and through Neo-Confucianism it shaped government, family and schooling in China, Korea, Japan and Vietnam into the modern age."
+  ],
+  "portrait_file": "Confucius, fresco from a Western Han tomb of Dongping County, Shandong province, China (cropped).jpg",
+  "portrait_caption": "Confucius in a Western Han tomb fresco from Dongping, Shandong, 1st century BC, among the earliest known images of him"
+ },
+ {
+  "id": "liji-compilers",
+  "name": "Compilers of the Book of Rites",
+  "name_native": "禮記編者",
+  "born": "c. 400 BC",
+  "died": "c. 50 BC",
+  "sort": -300,
+  "birthplace": "China",
+  "nationality": "Chinese",
+  "movements": [
+   "classical-confucianism"
+  ],
+  "bio": "The Confucian ritual specialists of the Warring States and Han whose essays were gathered into the Book of Rites, among them the Great Learning and the Doctrine of the Mean.",
+  "bio_full": [
+   "The Liji, or Book of Rites, is an anthology of forty-nine essays on ritual, music, government and moral cultivation compiled in the Former Han; tradition credits the final selection to the scholar Dai Sheng in the first century BC. The essays themselves come from many Confucian hands of the late Warring States and early Han. Tradition attributed two of them to named disciples, the Great Learning to Confucius's pupil Zengzi and the Doctrine of the Mean to his grandson Zisi; modern scholars regard both attributions as uncertain, though excavated manuscripts from Guodian show that related ideas circulated in Zisi's era.",
+   "Treated for a thousand years as part of the ritual classics, the two short chapters were lifted out by Song Neo-Confucians, who saw in them a complete programme of self-cultivation and a metaphysics of sincerity. Zhu Xi grouped them with the Analects and the Mencius as the Four Books, which became the core of East Asian schooling and examinations from the fourteenth to the twentieth century."
+  ]
+ },
+ {
+  "id": "laozi",
+  "name": "Laozi",
+  "name_native": "老子",
+  "born": "traditionally 6th century BC",
+  "sort": -570,
+  "birthplace": "traditionally Chu",
+  "nationality": "Chinese",
+  "movements": [
+   "classical-daoism"
+  ],
+  "bio": "The legendary sage to whom the Daodejing is attributed. Whether he was a single historical person, and when he lived, has been debated since antiquity.",
+  "bio_full": [
+   "According to the historian Sima Qian, writing around 100 BC, Laozi ('Old Master') was Li Er, an archivist at the Zhou court and an older contemporary of Confucius, who on leaving China through a western pass wrote down a book in five thousand characters for the gatekeeper and vanished. Yet Sima Qian himself recorded rival identifications, and modern scholars widely doubt that the Daodejing was written by one person in the sixth century BC. The Guodian bamboo slips of about 300 BC contain only part of the text, arranged differently, which suggests the book grew over time from sayings collected in the fifth and fourth centuries BC.",
+   "Whoever Laozi was, the text bearing his name became one of the most translated books in the world. It describes the Dao as a nameless source that produces all things without striving, and urges rulers and individuals toward wuwei (non-coercive action), softness, humility and few desires. Han Feizi, Huang-Lao statecraft, Wang Bi's metaphysics and the Daoist religion, which deified Laozi as Lord Lao, each read him differently; he is a central figure of Chinese thought regardless of his historicity."
+  ],
+  "portrait_file": "Zhang Lu-Laozi Riding an Ox (cropped).jpg",
+  "portrait_caption": "Zhang Lu, Laozi Riding an Ox, Ming dynasty, National Palace Museum, Taipei (an imagined portrait)"
+ },
+ {
+  "id": "mozi",
+  "name": "Mozi",
+  "name_native": "墨子",
+  "born": "c. 470 BC",
+  "died": "c. 391 BC",
+  "sort": -470,
+  "birthplace": "probably Lu or Song",
+  "nationality": "Chinese",
+  "movements": [
+   "mohism"
+  ],
+  "bio": "Founder of Mohism, who argued against the Confucians for impartial care, frugality and the condemnation of offensive war.",
+  "bio_full": [
+   "Mo Di, called Mozi ('Master Mo'), lived in the fifth century BC, probably in the state of Lu or Song; his dates are uncertain. He may have come from the artisan class and seems to have been trained in Confucian learning before turning against it. He founded a tightly organised community with its own leaders and discipline, whose members served as defensive engineers for states threatened with attack; a famous story tells how he walked ten days to Chu and dissuaded its king from besieging Song.",
+   "Mozi judged doctrines by three tests, including whether they benefit the people, and on this basis argued for jian ai, impartial concern for everyone, against the graded, family-first love of the Confucians. He condemned aggressive war, extravagant funerals and music as wasteful, and held that Heaven wills human welfare. Mohism was a major rival of Confucianism for two centuries, then disappeared after the Han; Qing philologists and modern thinkers rediscovered it, praising its logic and its consequentialist ethics."
+  ]
+ },
+ {
+  "id": "mencius",
+  "name": "Mencius",
+  "name_native": "孟子",
+  "born": "c. 372 BC",
+  "died": "c. 289 BC",
+  "sort": -372,
+  "birthplace": "Zou (Shandong)",
+  "nationality": "Chinese",
+  "movements": [
+   "classical-confucianism"
+  ],
+  "bio": "The 'second sage' of Confucianism, who taught that human nature is inclined to goodness and that rulers who oppress the people lose Heaven's mandate.",
+  "bio_full": [
+   "Meng Ke, known as Mengzi, was born around 372 BC in the small state of Zou, near Confucius's home. Tradition says his widowed mother moved house three times to give him a good environment, and that he studied with followers of Confucius's grandson Zisi. Like Confucius he travelled among the courts of the Warring States, holding a post at Qi and debating with King Hui of Liang (Wei) and King Xuan of Qi, before retiring to teach. The book named after him records these conversations.",
+   "Mencius argued that everyone has four 'sprouts' of goodness, compassion, shame, deference and the sense of right and wrong, which cultivation can grow into full virtue; he illustrates the point with a child about to fall into a well. He defended Confucian ethics against Mozi's impartial love and Yang Zhu's egoism, and taught that a ruler who abuses the people forfeits Heaven's mandate. Neo-Confucians made his book one of the Four Books, and his view of human nature became Confucian orthodoxy."
+  ],
+  "portrait_file": "Half Portraits of the Great Sage and Virtuous Men of Old - Meng Ke (孟軻).jpg",
+  "portrait_caption": "Imagined portrait of Mencius from the album Half-Length Portraits of the Great Sage and Virtuous Men of Old, National Palace Museum, Taipei"
+ },
+ {
+  "id": "zhuangzi",
+  "name": "Zhuangzi",
+  "name_native": "莊子",
+  "born": "c. 369 BC",
+  "died": "c. 286 BC",
+  "sort": -369,
+  "birthplace": "Meng, State of Song",
+  "nationality": "Chinese",
+  "movements": [
+   "classical-daoism"
+  ],
+  "bio": "Warring States thinker whose name is attached to the Zhuangzi, a dazzling book of parables, paradoxes and arguments about perspective, freedom and the Dao.",
+  "bio_full": [
+   "Very little is known of Zhuang Zhou. Sima Qian says he came from Meng in the state of Song, served for a time as a minor official in a lacquer garden, and declined an invitation to become chief minister of Chu, preferring, in his own famous image, to drag his tail in the mud like a living turtle rather than be revered as a dead one in a temple. Anecdotes in the book show him debating with the logician Hui Shi, apparently his friend. He lived in the late fourth century BC.",
+   "The book that bears his name was assembled by many hands; scholars generally attribute the seven 'Inner Chapters' to Zhuangzi himself or his circle. It questions whether any viewpoint can claim final authority, as in the story of Zhuang Zhou dreaming he was a butterfly, and recommends a free, wandering responsiveness to the transformations of things. Its craftsmen, cripples and talking trees made it one of the great works of Chinese literature as well as philosophy, and it deeply shaped Chan Buddhism, painting and poetry."
+  ],
+  "portrait_file": "Dschuang-Dsi-Schmetterlingstraum-Zhuangzi-Butterfly-Dream.jpg",
+  "portrait_caption": "Zhuangzi dreaming of a butterfly, Chinese painting (an imagined scene)"
+ },
+ {
+  "id": "xunzi",
+  "name": "Xunzi",
+  "name_native": "荀子",
+  "born": "c. 310 BC",
+  "died": "c. 235 BC",
+  "sort": -310,
+  "birthplace": "State of Zhao",
+  "deathplace": "Lanling, State of Chu",
+  "nationality": "Chinese",
+  "movements": [
+   "classical-confucianism"
+  ],
+  "bio": "The most systematic of the early Confucians, who argued that human nature is bad and goodness comes from ritual, teachers and deliberate effort.",
+  "bio_full": [
+   "Xun Kuang, honoured as Xunzi or Xun Qing, was born in the state of Zhao in the late fourth century BC. He was three times head of the libation ritual at the Jixia academy in Qi, the most famous gathering of scholars of the age, visited the state of Qin, and ended his career as magistrate of Lanling in Chu, where he died. Among his students were Han Fei and Li Si, the future chancellor of Qin.",
+   "Xunzi rejected Mencius: people are born with desires that, unchecked, lead to strife, and goodness is the product of conscious effort (wei) guided by ritual and teachers, as wood is straightened on a frame. He treated Heaven as the regular course of nature, not a moral will, and wrote on language, the correct use of names, music and the dangers of mental obsession. His careful essays were influential in the Han; later Neo-Confucians ranked him below Mencius, but modern scholars admire him as a philosopher."
+  ],
+  "portrait_file": "Portrait of Xun Zi.jpg",
+  "portrait_caption": "Later imagined portrait of Xunzi"
+ },
+ {
+  "id": "han-fei",
+  "name": "Han Fei",
+  "name_native": "韓非",
+  "born": "c. 280 BC",
+  "died": "233 BC",
+  "sort": -280,
+  "birthplace": "State of Han",
+  "deathplace": "Qin",
+  "nationality": "Chinese",
+  "movements": [
+   "legalism"
+  ],
+  "bio": "Prince of the state of Han and student of Xunzi who synthesised Legalist statecraft into a theory of law, technique and positional power.",
+  "bio_full": [
+   "Han Fei was a member of the ruling house of the state of Han, one of the weakest of the Warring States. According to Sima Qian he studied with Xunzi alongside Li Si, suffered from a stammer and so put his ideas in writing, and repeatedly urged the Han king to reform without success. The king of Qin, the future First Emperor, admired his writings; when Han Fei was sent to Qin as an envoy in 233 BC he was imprisoned, apparently through Li Si's intrigue, and died by poison.",
+   "The book Han Feizi brings together three strands of earlier thought: fa (published law with fixed rewards and punishments), shu (the ruler's techniques for controlling officials) and shi (the power of position). Han Fei assumed that people act from self-interest, mocked appeals to the ancient sages with parables like the farmer waiting by a tree stump, and wrote the earliest surviving commentary on the Laozi. Qin's unification put his ideas into practice; later dynasties officially condemned him but quietly used his methods."
+  ]
+ },
+ {
+  "id": "gongsun-long",
+  "name": "Gongsun Long",
+  "name_native": "公孫龍",
+  "born": "c. 320 BC",
+  "died": "c. 250 BC",
+  "sort": -320,
+  "birthplace": "State of Zhao",
+  "nationality": "Chinese",
+  "movements": [
+   "school-of-names"
+  ],
+  "bio": "Debater of the School of Names, famous for the argument that 'a white horse is not a horse'.",
+  "bio_full": [
+   "Gongsun Long came from the state of Zhao and was a retainer of the Lord of Pingyuan, a prince of Zhao, in the third century BC. Anecdotes record him urging rulers toward disarmament and debating the Confucian Kong Chuan, a descendant of Confucius. He belonged to the bianzhe, the disputers, whom later historians grouped as the School of Names.",
+   "A short book in his name survives, though some chapters may be later. Its White Horse dialogue argues that 'white horse' and 'horse' do not pick out the same thing, since one names a colour and a shape and the other only a shape; other chapters treat hardness and whiteness as separable and discuss pointing and reference. Ancient critics dismissed such arguments as sophistry; modern scholars read them as serious, if contested, work in the philosophy of language."
+  ],
+  "portrait_file": "至聖先賢半身像 冊-039-公孫龍.jpg",
+  "portrait_caption": "Imagined portrait of Gongsun Long from the album Half-Length Portraits of the Great Sage and Virtuous Men of Old, National Palace Museum, Taipei"
+ },
+ {
+  "id": "hui-shi",
+  "name": "Hui Shi",
+  "name_native": "惠施",
+  "born": "c. 370 BC",
+  "died": "c. 310 BC",
+  "sort": -370,
+  "birthplace": "State of Song",
+  "nationality": "Chinese",
+  "movements": [
+   "school-of-names"
+  ],
+  "bio": "Statesman and logician, friend and sparring partner of Zhuangzi, remembered for ten paradoxes about space, time and sameness.",
+  "bio_full": [
+   "Hui Shi served as chief minister to King Hui of Wei (Liang) in the late fourth century BC and was involved in its diplomacy. The Zhuangzi presents him as Zhuangzi's friend and favourite opponent, notably in the debate over whether one can know the happiness of fish, and records Zhuangzi's grief at his death, since he had lost the one person worth arguing with. The same book says that his writings filled five carts.",
+   "None of those writings survives. What remains is the list of ten propositions preserved in the final chapter of the Zhuangzi, such as that the south has no limit and yet has a limit, and that heaven and earth are one body, which seem to argue that all distinctions are relative and to conclude in universal love for all things. Hui Shi is the best-attested member of the School of Names and an important figure for the history of Chinese logic."
+  ]
+ },
+ {
+  "id": "zou-yan",
+  "name": "Zou Yan",
+  "name_native": "鄒衍",
+  "born": "c. 305 BC",
+  "died": "c. 240 BC",
+  "sort": -305,
+  "birthplace": "State of Qi",
+  "nationality": "Chinese",
+  "movements": [
+   "yin-yang-han"
+  ],
+  "bio": "Scholar of Qi regarded as the founder of the Yin-Yang school, who linked the Five Phases to the rise and fall of dynasties.",
+  "bio_full": [
+   "Zou Yan was a member of the Jixia academy in Qi in the third century BC and, according to Sima Qian, was received with great honour at several courts. None of his writings, said to have run to more than a hundred thousand words, survive; we know him through summaries by Sima Qian and other Han authors.",
+   "He is credited with systematising the theory of the Five Phases (wood, fire, earth, metal, water) and yin and yang into a cosmic cycle in which each dynasty rules by the virtue of one phase and is overcome by the next. He also imagined China as only one of eighty-one continents. His correlative cosmology shaped the self-image of the Qin and Han empires and was absorbed into Han Confucianism, medicine and divination."
+  ]
+ },
+ {
+  "id": "liu-an",
+  "name": "Liu An",
+  "name_native": "劉安",
+  "born": "c. 179 BC",
+  "died": "122 BC",
+  "sort": -179,
+  "birthplace": "Han China",
+  "deathplace": "Shouchun, Huainan",
+  "nationality": "Chinese",
+  "movements": [
+   "yin-yang-han"
+  ],
+  "bio": "King of Huainan, grandson of the founding Han emperor, who sponsored the Huainanzi, a grand synthesis of early Chinese thought.",
+  "bio_full": [
+   "Liu An was a grandson of Liu Bang, founder of the Han dynasty, and inherited the kingdom of Huainan in 164 BC. At his court in Shouchun he gathered scholars, writers and practitioners of esoteric arts, and in 139 BC presented the book they had produced to his nephew, Emperor Wu. He was later accused of plotting rebellion and took his own life in 122 BC; legend instead says he ascended to heaven as an immortal, and credits him with inventing tofu.",
+   "The Huainanzi, compiled under his patronage, gathers cosmology, astronomy, geography, military strategy and political advice into a single framework grounded in the Dao and in yin-yang correlations. It is the key document of the Huang-Lao style of Daoist statecraft that flourished in the early Han, just before Emperor Wu's court turned to Confucian orthodoxy."
+  ]
+ },
+ {
+  "id": "dong-zhongshu",
+  "name": "Dong Zhongshu",
+  "name_native": "董仲舒",
+  "born": "c. 179 BC",
+  "died": "c. 104 BC",
+  "sort": -179,
+  "birthplace": "Guangchuan (Hebei)",
+  "nationality": "Chinese",
+  "movements": [
+   "yin-yang-han"
+  ],
+  "bio": "Han scholar who fused Confucian ethics with yin-yang cosmology and helped make Confucianism the state ideology of imperial China.",
+  "bio_full": [
+   "Dong Zhongshu was an expert on the Gongyang commentary to the Spring and Autumn Annals, appointed an erudite under Emperor Jing. In about 134 BC he answered Emperor Wu's questions with three famous memorials, recommending that the state promote the Confucian classics alone; the imperial academy for the Five Classics founded soon after in 124 BC is often linked to his advice. He served as minister to two kingdoms and later retired to write.",
+   "Dong developed a theory of resonance between Heaven and humanity, in which the emperor mediates between the cosmos and the people, and floods, eclipses and other portents are Heaven's warnings against misrule. He read the Spring and Autumn Annals as a coded set of judgements by Confucius. The Chunqiu fanlu, transmitted under his name, is partly of later date. His synthesis shaped imperial Confucianism for centuries."
+  ],
+  "portrait_file": "歷代聖賢半身像 冊 董仲舒 (Dong Zhongshu).png",
+  "portrait_caption": "Imagined portrait of Dong Zhongshu from an album of half-length portraits of sages and worthies, National Palace Museum, Taipei"
+ },
+ {
+  "id": "wang-chong",
+  "name": "Wang Chong",
+  "name_native": "王充",
+  "born": "27",
+  "died": "c. 97",
+  "sort": 27,
+  "birthplace": "Shangyu, Kuaiji (Zhejiang)",
+  "nationality": "Chinese",
+  "movements": [
+   "yin-yang-han"
+  ],
+  "bio": "Eastern Han rationalist whose Lunheng criticised the superstitions and portent-reading of his age.",
+  "bio_full": [
+   "Wang Chong came from a modest family in Kuaiji, in the southeast. He studied at the imperial academy in Luoyang, where, the story goes, he was too poor to buy books and read them standing in the bookshops. He held only minor local posts, quarrelled with superiors, and spent much of his life in retirement writing.",
+   "His Lunheng (Discourses Weighed in the Balance) attacks belief in ghosts, portents and Heaven's moral responses as unsupported by evidence, insisting that Heaven acts spontaneously and without purpose, and that claims must be tested by experience. He even criticised Confucius and Mencius where he found them inconsistent. Neglected for centuries, Wang Chong was celebrated in the twentieth century as a forerunner of scientific and materialist thought."
+  ]
+ },
+ {
+  "id": "wang-bi",
+  "name": "Wang Bi",
+  "name_native": "王弼",
+  "born": "226",
+  "died": "249",
+  "sort": 226,
+  "birthplace": "Shanyang (Henan)",
+  "deathplace": "Luoyang",
+  "nationality": "Chinese",
+  "movements": [
+   "xuanxue"
+  ],
+  "bio": "Brilliant young metaphysician of the Wei dynasty whose commentaries on the Laozi and the Book of Changes became classics in their own right.",
+  "bio_full": [
+   "Wang Bi came from a distinguished family of scholars and grew up in Luoyang, the Wei capital, where his precocious talent impressed the leaders of the 'pure conversation' circles. He held a minor court post, became caught up in the factional purges of 249, and died of illness that autumn at the age of twenty-three.",
+   "In his short life Wang Bi wrote commentaries on the Laozi and on the Yijing, together with an outline of the Changes, that set the terms of Xuanxue, the 'learning of the mysterious'. He argued that all things are rooted in wu, nothingness or the formless, which cannot be named, and that the meaning of a text lies beyond its words and images, which should be forgotten once grasped. His Laozi commentary is the basis of the standard received text, and his Changes commentary was the official one for the Tang examinations."
+  ],
+  "portrait_file": "至聖先賢半身像 冊-107-王弼.jpg",
+  "portrait_caption": "Imagined portrait of Wang Bi from the album Half-Length Portraits of the Great Sage and Virtuous Men of Old, National Palace Museum, Taipei"
+ },
+ {
+  "id": "guo-xiang",
+  "name": "Guo Xiang",
+  "name_native": "郭象",
+  "born": "c. 252",
+  "died": "312",
+  "sort": 252,
+  "birthplace": "Luoyang",
+  "nationality": "Chinese",
+  "movements": [
+   "xuanxue"
+  ],
+  "bio": "Jin-dynasty official and philosopher whose edition and commentary created the received thirty-three-chapter Zhuangzi.",
+  "bio_full": [
+   "Guo Xiang was an official of the Western Jin and an admired speaker in pure-conversation circles. He served the prince Sima Yue as a high official during the turbulent War of the Eight Princes. Even in antiquity he was accused of having appropriated an unfinished commentary by Xiang Xiu; modern scholars think he built on Xiang's work but developed his own philosophy.",
+   "Guo Xiang edited the sprawling Zhuangzi materials into the thirty-three chapters we read today and wrote the commentary that accompanied them. Against Wang Bi he denied that there is any creator or root: every thing 'self-so' produces itself and has its own allotted nature, and fulfilling that nature is freedom, so even a sage-ruler busy in government can be at ease. The idea of self-transformation (duhua) made his commentary a cornerstone of Xuanxue."
+  ]
+ },
+ {
+  "id": "zhiyi",
+  "name": "Zhiyi",
+  "name_native": "智顗",
+  "born": "538",
+  "died": "597",
+  "sort": 538,
+  "birthplace": "Huarong, Jingzhou (Hunan)",
+  "deathplace": "Mount Tiantai",
+  "nationality": "Chinese",
+  "movements": [
+   "buddhist-schools"
+  ],
+  "bio": "Founder in all but name of the Tiantai school, who organised the whole of Buddhist teaching around the Lotus Sutra and a doctrine of threefold truth.",
+  "bio_full": [
+   "Zhiyi was born in 538 into an official family in central China and became a monk at seventeen after the fall of the Liang dynasty ruined his family. He studied meditation under Huisi, lectured to large audiences in the southern capital Jiankang, and in 575 withdrew to Mount Tiantai in Zhejiang, which gave his school its name. Later he enjoyed the patronage of the Sui prince Yang Guang, the future Emperor Yang, and conferred the bodhisattva precepts on him. He died in 597.",
+   "Zhiyi's major works, written down from his lectures by his disciple Guanding, classify the Buddha's teachings into periods and methods, culminating in the Lotus Sutra, and join doctrine to a detailed programme of meditation. His teaching of the threefold truth holds that every phenomenon is at once empty, provisionally real and the middle, and that 'the three thousand worlds are contained in a single moment of thought'. Tiantai, carried to Japan by Saichō as Tendai, became the matrix of much Japanese Buddhism."
+  ]
+ },
+ {
+  "id": "fazang",
+  "name": "Fazang",
+  "name_native": "法藏",
+  "born": "643",
+  "died": "712",
+  "sort": 643,
+  "birthplace": "Chang'an",
+  "deathplace": "Chang'an",
+  "nationality": "Chinese",
+  "movements": [
+   "buddhist-schools"
+  ],
+  "bio": "Third patriarch and chief systematiser of the Huayan school, famous for explaining interdependence to Empress Wu with a golden lion.",
+  "bio_full": [
+   "Fazang was born in Chang'an to a family of Sogdian descent and studied with the Huayan master Zhiyan. He also joined Xuanzang's translation bureau for a time and later worked on the new translation of the Avatamsaka (Huayan) Sutra sponsored by Empress Wu Zetian, who gave him the title Xianshou. He lectured on the sutra many times, enjoyed the patronage of several Tang rulers, and died in 712.",
+   "Fazang built the Huayan doctrine of the dharma-realm of unobstructed interpenetration: every phenomenon depends on and contains every other, as each jewel in Indra's net reflects all the others. He made the idea concrete for the empress with a golden lion, in which gold and lion shape are inseparable, and, in another story, with mirrors surrounding a Buddha image. His classification of teachings and his metaphysics of whole and part influenced Chan, Korean Hwaeom through his friend Uisang, and Song Neo-Confucianism."
+  ],
+  "portrait_file": "Fazang, buddhist Monk, Japanese print, 13th century.jpg",
+  "portrait_caption": "Fazang as a Huayan patriarch, Japanese print, 13th century"
+ },
+ {
+  "id": "huineng",
+  "name": "Huineng",
+  "name_native": "慧能",
+  "born": "638",
+  "died": "713",
+  "sort": 638,
+  "birthplace": "Xinzhou (Guangdong)",
+  "deathplace": "Caoxi, Shaozhou",
+  "nationality": "Chinese",
+  "movements": [
+   "chan-zen"
+  ],
+  "bio": "The Sixth Patriarch of Chan, hero of the Platform Sutra and the doctrine of sudden awakening; how much of his story is history is debated.",
+  "bio_full": [
+   "According to the Platform Sutra, Huineng was an illiterate woodcutter from the far south who heard the Diamond Sutra recited in the market, walked north to the monastery of the Fifth Patriarch Hongren, and was put to work pounding rice. When Hongren asked his monks for a verse expressing their understanding, Huineng's reply outshone that of the senior monk Shenxiu, and Hongren secretly passed him the robe of succession. He later taught for decades at Caoxi in Guangdong and died in 713.",
+   "Scholars since Hu Shi have shown that this story was shaped by the polemics of Huineng's self-proclaimed heir Shenhui, who in the 730s attacked Shenxiu's 'Northern School' as gradualist; the earliest version of the Platform Sutra, found at Dunhuang, dates from after that controversy. Whatever the historical Huineng taught, the figure of the Sixth Patriarch came to embody Chan's message: Buddha-nature is present in everyone, awakening is sudden, and meditation and wisdom are one. All later Chan, Seon and Zen lineages trace themselves to him."
+  ],
+  "portrait_file": "The Sixth Patriarch Cutting the Bamboo.jpg",
+  "portrait_caption": "Liang Kai (attributed), The Sixth Patriarch Cutting Bamboo, Southern Song, Tokyo National Museum"
+ },
+ {
+  "id": "han-yu",
+  "name": "Han Yu",
+  "name_native": "韓愈",
+  "born": "768",
+  "died": "824",
+  "sort": 768,
+  "birthplace": "Heyang, Henan",
+  "deathplace": "Chang'an",
+  "nationality": "Chinese",
+  "movements": [
+   "cheng-zhu"
+  ],
+  "bio": "Tang essayist and official whose defence of the Confucian Way against Buddhism and Daoism made him the forerunner of Neo-Confucianism.",
+  "bio_full": [
+   "Han Yu was orphaned young and raised by his elder brother's family. He passed the jinshi examination in 792 and had a stormy official career; in 819 his Memorial on the Bone of the Buddha, protesting the emperor's reverence for a relic, nearly cost him his life, and he was banished to Chaozhou in the far south. Recalled, he rose to vice-minister in the capital before his death in 824.",
+   "As a writer Han Yu led the 'ancient prose' movement, rejecting ornate parallel prose for the plain style of the classics; he is one of the Eight Masters of Tang and Song prose. His essay Yuan Dao argued that the true Way had been handed down from the sage-kings to Confucius and Mencius and then lost, a theory of the 'transmission of the Way' that Song Neo-Confucians adopted. He also raised Mencius and the Great Learning to the centre of Confucian learning."
+  ],
+  "portrait_file": "至聖先賢半身像 冊-110-韓愈.jpg",
+  "portrait_caption": "Imagined portrait of Han Yu from the album Half-Length Portraits of the Great Sage and Virtuous Men of Old, National Palace Museum, Taipei"
+ },
+ {
+  "id": "zhou-dunyi",
+  "name": "Zhou Dunyi",
+  "name_native": "周敦頤",
+  "born": "1017",
+  "died": "1073",
+  "sort": 1017,
+  "birthplace": "Daozhou (Hunan)",
+  "deathplace": "Lushan (Jiangxi)",
+  "nationality": "Chinese",
+  "movements": [
+   "cheng-zhu"
+  ],
+  "bio": "Song official and philosopher whose brief Explanation of the Diagram of the Supreme Ultimate gave Neo-Confucianism its cosmology.",
+  "bio_full": [
+   "Zhou Dunyi, known as Lianxi, spent his career as a conscientious provincial official in the south, admired for his fairness as a judge. For a short time he taught the teenage Cheng brothers. In his last years he retired to a study by a stream below Mount Lu, which he named after the Lian stream of his home. His love of the lotus, rising clean from the mud, became the subject of a celebrated short essay.",
+   "His two short works, the Taijitu shuo and the Tongshu, were made central by Zhu Xi, who placed him at the head of the Neo-Confucian lineage. Drawing on a Daoist diagram, Zhou described how the Supreme Ultimate generates yin and yang and the Five Phases and so all things, and how the sage, by stillness and sincerity, embodies that order. Whether his ideas derive from Daoist sources was hotly debated by later Confucians."
+  ],
+  "portrait_file": "Zhou Dunyi.png",
+  "portrait_caption": "Traditional portrait of Zhou Dunyi"
+ },
+ {
+  "id": "zhang-zai",
+  "name": "Zhang Zai",
+  "name_native": "張載",
+  "born": "1020",
+  "died": "1077",
+  "sort": 1020,
+  "birthplace": "Chang'an",
+  "nationality": "Chinese",
+  "movements": [
+   "cheng-zhu"
+  ],
+  "bio": "Northern Song thinker who grounded ethics in a philosophy of qi and wrote the Western Inscription on the unity of all beings.",
+  "bio_full": [
+   "Zhang Zai, known as Hengqu after his home in Shaanxi, was drawn as a young man to military strategy and then, on the advice of the reforming statesman Fan Zhongyan, to the Doctrine of the Mean. He studied Buddhism and Daoism before returning to the classics, passed the jinshi in 1057, and served briefly at court before withdrawing to teach. He was an uncle of the Cheng brothers, with whom he debated.",
+   "Zhang argued that everything is made of qi, which condenses into things and disperses into the Great Void, so that the void is not nothing, as Buddhists and Daoists claimed. From this he drew a moral vision: in the Western Inscription, heaven is father and earth mother, and all people are siblings. His naturalism was revived by Wang Fuzhi in the seventeenth century and his idea of qi underlies much later Korean Neo-Confucian debate."
+  ],
+  "portrait_file": "Chang Tsai.jpg",
+  "portrait_caption": "Traditional portrait of Zhang Zai"
+ },
+ {
+  "id": "cheng-hao",
+  "name": "Cheng Hao",
+  "name_native": "程顥",
+  "born": "1032",
+  "died": "1085",
+  "sort": 1032,
+  "birthplace": "Luoyang",
+  "nationality": "Chinese",
+  "movements": [
+   "cheng-zhu"
+  ],
+  "bio": "Elder of the two Cheng brothers, who taught that the humane person forms one body with heaven, earth and all things.",
+  "bio_full": [
+   "Cheng Hao, known as Mingdao, studied with Zhou Dunyi as a boy together with his brother Cheng Yi. He passed the jinshi in 1057 and served as a local official and briefly at court, where he opposed the reforms of Wang Anshi. Students remembered his warmth and gentle manner; he died in 1085, shortly after the anti-reform party returned to power.",
+   "His sayings, preserved with his brother's in the Recorded Sayings of the two Chengs, describe ren (humaneness) as feeling oneself one body with all things, so that lacking humaneness is like numbness in one's limbs. He emphasised quiet sincerity and an intuitive grasp of principle over bookish investigation, which is why later scholars have seen in him a forerunner of the Lu-Wang school of mind as much as of Zhu Xi."
+  ],
+  "portrait_file": "宋监察御史程颢.jpg",
+  "portrait_caption": "Traditional portrait of Cheng Hao"
+ },
+ {
+  "id": "cheng-yi",
+  "name": "Cheng Yi",
+  "name_native": "程頤",
+  "born": "1033",
+  "died": "1107",
+  "sort": 1033,
+  "birthplace": "Luoyang",
+  "nationality": "Chinese",
+  "movements": [
+   "cheng-zhu"
+  ],
+  "bio": "Younger Cheng brother, whose teaching that principle is one but its manifestations many became the basis of Zhu Xi's system.",
+  "bio_full": [
+   "Cheng Yi, known as Yichuan, studied as a youth with Zhou Dunyi, impressed the imperial academy with an essay on what Yan Hui loved to learn, but held little office, spending most of his life teaching in Luoyang. Briefly a lecturer to the young emperor Zhezong, he was later banished as a member of the conservative faction, and his teachings were banned for a time. He outlived his brother by over twenty years.",
+   "Cheng Yi made li, principle, the central concept of Confucian philosophy: every thing has its principle, all principles are ultimately one, and the way to sagehood is to investigate things and extend knowledge while cultivating reverential seriousness (jing). He wrote a major commentary on the Book of Changes. Zhu Xi took him as his principal model, so that the orthodox school bears both their names."
+  ],
+  "portrait_file": "Cheng Yi.jpg",
+  "portrait_caption": "Traditional portrait of Cheng Yi"
+ },
+ {
+  "id": "zhu-xi",
+  "name": "Zhu Xi",
+  "name_native": "朱熹",
+  "born": "1130",
+  "died": "1200",
+  "sort": 1130,
+  "birthplace": "Youxi, Fujian",
+  "deathplace": "Jianyang, Fujian",
+  "nationality": "Chinese",
+  "movements": [
+   "cheng-zhu"
+  ],
+  "bio": "The great synthesiser of Neo-Confucianism, whose commentaries on the Four Books were the basis of East Asian education and examinations for six centuries.",
+  "bio_full": [
+   "Zhu Xi was born in 1130 in Fujian, where his father, a minor official, had moved after the Jurchen conquest of the north. He passed the jinshi at eighteen, studied with Li Tong, a follower of the Cheng school, and held relatively few offices, preferring temple sinecures that left time for writing and teaching. He revived the White Deer Grotto Academy, debated Lu Jiuyuan at the Goose Lake Temple in 1175, and served as a lecturer to the emperor for a few weeks in 1194. At his death in 1200 his teaching was proscribed as 'false learning' in a factional purge.",
+   "Zhu Xi built a comprehensive system from the ideas of Zhou Dunyi, Zhang Zai and the Cheng brothers: all things combine li (principle) and qi (vital stuff); human nature is principle and therefore good, but is obscured by turbid qi, and one restores it through the investigation of things and reverent self-discipline. He selected the Great Learning, the Analects, the Mencius and the Doctrine of the Mean as the Four Books and wrote commentaries on them that became the official examination standard in China from 1313, and dominant in Joseon Korea and Tokugawa Japan."
+  ],
+  "portrait_file": "唯一可靠的朱熹画像.jpg",
+  "portrait_caption": "Portrait of Zhu Xi, traditionally regarded as the most reliable likeness"
+ },
+ {
+  "id": "lu-jiuyuan",
+  "name": "Lu Jiuyuan",
+  "name_native": "陸九淵",
+  "born": "1139",
+  "died": "1193",
+  "sort": 1139,
+  "birthplace": "Jinxi, Jiangxi",
+  "deathplace": "Jingmen",
+  "nationality": "Chinese",
+  "movements": [
+   "lu-wang"
+  ],
+  "bio": "Southern Song philosopher who taught that the mind is principle, founding the 'learning of the mind' that rivalled Zhu Xi.",
+  "bio_full": [
+   "Lu Jiuyuan, known as Xiangshan after the mountain where he taught, was the youngest of six brothers in a large Jiangxi family that lived communally. He passed the jinshi in 1172. At the Goose Lake meeting of 1175, arranged by Lü Zuqian, he and his brother debated Zhu Xi, accusing him of fragmenting learning into endless study. He taught crowds of students in the mountains and died in office as prefect of Jingmen in 1193.",
+   "For Lu, 'the universe is my mind, and my mind is the universe': principle is not to be sought outside in things or books but discovered by establishing the great foundation of one's own original mind, which Mencius had described. Study should serve moral self-realisation, not the reverse. Wang Yangming took up his teaching three centuries later, and the two names define the Lu-Wang school."
+  ],
+  "portrait_file": "Chiu Yuan.jpg",
+  "portrait_caption": "Traditional portrait of Lu Jiuyuan"
+ },
+ {
+  "id": "wang-yangming",
+  "name": "Wang Yangming",
+  "name_native": "王陽明",
+  "born": "1472",
+  "died": "1529",
+  "sort": 1472,
+  "birthplace": "Yuyao, Zhejiang",
+  "deathplace": "Nan'an, Jiangxi",
+  "nationality": "Chinese",
+  "movements": [
+   "lu-wang"
+  ],
+  "bio": "Ming statesman, general and philosopher who taught the unity of knowledge and action and the innate knowing of the good.",
+  "bio_full": [
+   "Wang Shouren, called Yangming, was the son of a top-ranked examination graduate. As a young man he tried to follow Zhu Xi's method literally by investigating the principle of bamboo for seven days, and fell ill. After passing the jinshi in 1499 he offended the powerful eunuch Liu Jin, was flogged and exiled to Longchang in remote Guizhou, where in 1508 he experienced a sudden enlightenment: principle is not outside the mind. Rehabilitated, he became a highly successful official and general, suppressing rebellions and the uprising of the Prince of Ning in 1519. He died in 1529 returning from a campaign.",
+   "Wang taught that the mind is principle, that knowing and acting are one, since to really know filial piety is already to practise it, and in his later years that everyone possesses liangzhi, innate knowing of the good, which one must extend in every situation. His teaching, recorded in the Chuanxi lu, spread rapidly in the late Ming, was carried to Japan as Yōmeigaku, and inspired reformers there and in China down to the twentieth century."
+  ],
+  "portrait_file": "王守仁.jpg",
+  "portrait_caption": "Ming-style portrait of Wang Yangming"
+ },
+ {
+  "id": "li-zhi",
+  "name": "Li Zhi",
+  "name_native": "李贄",
+  "born": "1527",
+  "died": "1602",
+  "sort": 1527,
+  "birthplace": "Quanzhou, Fujian",
+  "deathplace": "Beijing (in prison)",
+  "nationality": "Chinese",
+  "movements": [
+   "lu-wang"
+  ],
+  "bio": "Iconoclastic late Ming thinker who championed the 'childlike mind' and was persecuted for his attacks on hypocrisy and orthodoxy.",
+  "bio_full": [
+   "Li Zhi, also known as Zhuowu, was born in the port city of Quanzhou to a family with Muslim merchant ancestry. He passed the provincial examination and served for about twenty years in minor posts before resigning in 1580. He then lived in a Buddhist temple at Macheng in Hubei, shaved his head while refusing to become a monk, taught women as well as men, and wrote with scandalous frankness. Arrested in 1602 on charges of spreading dangerous ideas, he cut his own throat in prison.",
+   "Developing the left wing of Wang Yangming's school, Li Zhi held that the 'childlike mind' (tongxin), the genuine feeling one has before received opinion takes over, is the source of truth and good writing. He praised vernacular fiction and drama, reassessed historical villains, and defended self-interest as natural. His books were repeatedly banned but widely read, and modern Chinese and Japanese intellectuals rediscovered him as a critic of authority."
+  ],
+  "portrait_file": "Li Zhi.jpg",
+  "portrait_caption": "Traditional portrait of Li Zhi"
+ },
+ {
+  "id": "huang-zongxi",
+  "name": "Huang Zongxi",
+  "name_native": "黃宗羲",
+  "born": "1610",
+  "died": "1695",
+  "sort": 1610,
+  "birthplace": "Yuyao, Zhejiang",
+  "deathplace": "Yuyao",
+  "nationality": "Chinese",
+  "movements": [
+   "evidential-learning"
+  ],
+  "bio": "Ming loyalist scholar whose Waiting for the Dawn criticised autocracy, and who wrote the first great history of Ming philosophy.",
+  "bio_full": [
+   "Huang Zongxi's father, a censor, died in prison in 1626 after denouncing the eunuch Wei Zhongxian; the young Huang famously confronted his father's persecutors in court. He studied with Liu Zongzhou, the last great Ming Confucian, and after the Manchu conquest of 1644 fought for years in the Southern Ming resistance. Thereafter he lived as a private scholar, refusing invitations to serve the Qing.",
+   "In Waiting for the Dawn (Mingyi daifang lu, 1663) he argued that the ruler exists for the people, not the people for the ruler, and proposed restoring the chief minister's power, an independent role for schools as forums of public opinion, and law that serves the whole realm. His Records of Ming Scholars (Mingru xue'an) set a new standard for intellectual history. Late Qing reformers reprinted his political work as a native argument for constitutional government."
+  ],
+  "portrait_file": "Huang Zong-Xi.jpg",
+  "portrait_caption": "Traditional portrait of Huang Zongxi"
+ },
+ {
+  "id": "gu-yanwu",
+  "name": "Gu Yanwu",
+  "name_native": "顧炎武",
+  "born": "1613",
+  "died": "1682",
+  "sort": 1613,
+  "birthplace": "Kunshan, Jiangsu",
+  "deathplace": "Quwo, Shanxi",
+  "nationality": "Chinese",
+  "movements": [
+   "evidential-learning"
+  ],
+  "bio": "Ming loyalist who rejected abstract speculation for 'practical statecraft' and founded the evidential approach to the classics.",
+  "bio_full": [
+   "Gu Yanwu was born to a gentry family in Kunshan near Suzhou. After the Manchu conquest his adoptive mother starved herself to death rather than live under the Qing, enjoining him never to serve the new dynasty, and he took part in the resistance. From 1657 he travelled for over twenty years across northern China, studying geography, inscriptions, economics and defence, and refused all offers of office.",
+   "Gu blamed the fall of the Ming on scholars who chattered about mind and nature while the state decayed, and called for learning that is broad, grounded in evidence and useful to the world. His Record of Daily Knowledge and his studies of ancient phonology made textual evidence the measure of interpretation and are regarded as the starting point of Qing kaozheng scholarship. A line paraphrased from him, that every ordinary person bears responsibility for the fate of the realm, became a modern patriotic slogan."
+  ],
+  "portrait_file": "Gu yanwu.jpg",
+  "portrait_caption": "Traditional portrait of Gu Yanwu"
+ },
+ {
+  "id": "wang-fuzhi",
+  "name": "Wang Fuzhi",
+  "name_native": "王夫之",
+  "born": "1619",
+  "died": "1692",
+  "sort": 1619,
+  "birthplace": "Hengyang, Hunan",
+  "deathplace": "Hengyang",
+  "nationality": "Chinese",
+  "movements": [
+   "evidential-learning"
+  ],
+  "bio": "Ming loyalist philosopher who lived in seclusion and wrote a vast, long-hidden body of work on qi, history and the classics.",
+  "bio_full": [
+   "Wang Fuzhi, called Chuanshan, came from a scholarly family in Hengyang. He passed the provincial examination in 1642, fought against the Manchus, and served the Southern Ming court of the Yongli emperor before factional strife drove him away. From about 1660 he lived in poverty in the hills of Hunan, refusing to shave his head in the Manchu fashion, and wrote ceaselessly. His work circulated hardly at all until the nineteenth century, when the Hunanese statesman Zeng Guofan published it.",
+   "Wang developed Zhang Zai's philosophy of qi into a thoroughgoing view that principle exists only in concrete things and their changes, and that the Way is inseparable from the instruments that embody it. In works such as his commentary on the Comprehensive Mirror he read history as a process whose institutions change with circumstances. His anti-Manchu passages made him a hero of late Qing revolutionaries, and Marxist historians later claimed him as a materialist."
+  ],
+  "portrait_file": "王夫之.jpg",
+  "portrait_caption": "Traditional portrait of Wang Fuzhi"
+ },
+ {
+  "id": "dai-zhen",
+  "name": "Dai Zhen",
+  "name_native": "戴震",
+  "born": "1724",
+  "died": "1777",
+  "sort": 1724,
+  "birthplace": "Xiuning, Anhui",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "evidential-learning"
+  ],
+  "bio": "Leading kaozheng scholar of the Qing, who used philology to attack the Neo-Confucian opposition of principle and desire.",
+  "bio_full": [
+   "Dai Zhen was the son of a cloth merchant in Huizhou. Largely self-taught in mathematics, astronomy and phonology, he made his name in Beijing as a brilliant textual scholar but repeatedly failed the metropolitan examination. In 1773 he was appointed to the editorial board of the imperial Complete Library of the Four Treasuries, and was given the jinshi degree by special decree in 1775. He died in Beijing in 1777.",
+   "Dai made philology a philosophical method: by recovering the ancient meanings of key words one could understand the sages directly. In his Evidential Study of the Meaning of Terms in the Mencius he argued that principle is the pattern found within things and feelings, not a separate entity, and that Song Confucians, by setting principle against desire, had let the powerful 'kill people with principle'. Neglected in his time, this critique was celebrated by Hu Shi and other modern thinkers."
+  ],
+  "portrait_file": "Dai Zhen.png",
+  "portrait_caption": "Traditional portrait of Dai Zhen"
+ },
+ {
+  "id": "kang-youwei",
+  "name": "Kang Youwei",
+  "name_native": "康有為",
+  "born": "1858",
+  "died": "1927",
+  "sort": 1858,
+  "birthplace": "Nanhai, Guangdong",
+  "deathplace": "Qingdao",
+  "nationality": "Chinese",
+  "movements": [
+   "modern-reform"
+  ],
+  "bio": "Reformer who reinterpreted Confucius as a prophet of progress, led the Hundred Days' Reform of 1898, and imagined a utopian 'Great Unity'.",
+  "bio_full": [
+   "Kang Youwei was born into a scholar-official family near Guangzhou. Visits to British Hong Kong and treaty-port Shanghai convinced him that China must reform, and he began petitioning the throne in 1888. With his student Liang Qichao he organised examination candidates in 1895 to protest the treaty ending the war with Japan. In 1898 the Guangxu Emperor adopted his programme in the Hundred Days' Reform, until Empress Dowager Cixi's coup ended it; Kang fled abroad and spent sixteen years in exile, founding the Protect the Emperor Society. After 1912 he remained a monarchist and supported the brief restoration of 1917.",
+   "Kang read the Confucian classics through the New Text tradition, arguing that the 'Old Text' versions were forgeries and that Confucius had been a reformer who invented the ideal antiquity to justify change. History, he held, moves through three ages toward Great Peace. His Book of the Great Unity (Datong shu) imagined a future world government without nations, classes, private property or the family, a vision so radical he kept it largely unpublished in his lifetime."
+  ]
+ },
+ {
+  "id": "liang-qichao",
+  "name": "Liang Qichao",
+  "name_native": "梁啓超",
+  "born": "1873",
+  "died": "1929",
+  "sort": 1873,
+  "birthplace": "Xinhui, Guangdong",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "modern-reform"
+  ],
+  "bio": "Journalist and scholar, Kang Youwei's disciple, whose essays introduced a generation of Chinese readers to nationalism, citizenship and Western thought.",
+  "bio_full": [
+   "Liang Qichao passed the provincial examination at sixteen and became Kang Youwei's leading student. He was a central figure in the 1898 reforms and, after their collapse, fled to Japan, where he edited the journals Qingyi bao and Xinmin congbao from Yokohama, reaching readers across the Chinese world. After the 1911 revolution he returned and served briefly as minister of justice and of finance in the Republic, then devoted himself to teaching and scholarship, notably at Tsinghua University.",
+   "Liang's brilliant, accessible prose popularised social Darwinism, nationalism and political theory, and his essay series on the 'new citizen' argued that China needed citizens with public virtue rather than loyal subjects. He wrote pioneering intellectual histories, including a survey of Qing scholarship. After visiting Europe in 1919 he grew critical of Western materialism and more sympathetic to Chinese tradition."
+  ]
+ },
+ {
+  "id": "hu-shi",
+  "name": "Hu Shi",
+  "name_native": "胡適",
+  "born": "1891",
+  "died": "1962",
+  "sort": 1891,
+  "birthplace": "Shanghai",
+  "deathplace": "Taipei",
+  "nationality": "Chinese",
+  "movements": [
+   "modern-reform"
+  ],
+  "bio": "May Fourth liberal and student of John Dewey who championed vernacular literature, pragmatism and the scientific study of China's past.",
+  "bio_full": [
+   "Hu Shi studied at Cornell and then at Columbia under John Dewey. In 1917 his essay proposing reforms of literature, published in New Youth, helped launch the vernacular literature movement, and the same year he became a professor at Peking University. He was a leading voice of the New Culture and May Fourth era, served as Chinese ambassador to the United States from 1938 to 1942 and as president of Peking University after the war, and from 1958 headed the Academia Sinica in Taipei, where he died in 1962.",
+   "Hu applied Dewey's experimental method to Chinese thought: 'bold hypotheses, careful verification'. His Outline of the History of Chinese Philosophy (1919) was the first modern history of the subject, treating the ancient masters as philosophers rather than sages, and his research on the Dunhuang manuscripts reshaped the history of Chan. He argued for gradual liberal reform against both revolutionary Marxism and cultural conservatism."
+  ]
+ },
+ {
+  "id": "liang-shuming",
+  "name": "Liang Shuming",
+  "name_native": "梁漱溟",
+  "born": "1893",
+  "died": "1988",
+  "sort": 1893,
+  "birthplace": "Beijing",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "new-confucianism"
+  ],
+  "bio": "Philosopher and rural reformer who defended Confucian culture against Westernisation and is counted the first New Confucian.",
+  "bio_full": [
+   "Liang Shuming, born into a Mongol-descended official family in Beijing, was largely self-educated. A youthful Buddhist, he was invited to teach Indian philosophy at Peking University in 1917. In the 1930s he led a rural reconstruction movement in Shandong and later helped found the Democratic League. After 1949 he stayed in the People's Republic, and in 1953 publicly confronted Mao Zedong over the treatment of peasants, which ended his public career; he remained in Beijing and lived to see a revival of interest in his work.",
+   "His Eastern and Western Cultures and Their Philosophies (1921) argued that Western, Chinese and Indian cultures embody three different attitudes of the will, forward striving, harmony and renunciation, and that the world would move from the first to the Confucian attitude. It began the modern defence of Confucianism as a living philosophy."
+  ]
+ },
+ {
+  "id": "xiong-shili",
+  "name": "Xiong Shili",
+  "name_native": "熊十力",
+  "born": "1885",
+  "died": "1968",
+  "sort": 1885,
+  "birthplace": "Huanggang, Hubei",
+  "deathplace": "Shanghai",
+  "nationality": "Chinese",
+  "movements": [
+   "new-confucianism"
+  ],
+  "bio": "Revolutionary turned philosopher, whose New Treatise on Consciousness-Only rebuilt Confucian metaphysics from a critique of Buddhism.",
+  "bio_full": [
+   "Xiong Shili took part in the 1911 revolution as a young soldier before turning to scholarship. He studied Yogācāra Buddhism under Ouyang Jingwu at the Inner Learning Institute in Nanjing and from 1922 taught at Peking University. He remained in mainland China after 1949, and died in Shanghai in 1968 during the Cultural Revolution.",
+   "In his New Treatise on Consciousness-Only (1932, later revised) Xiong rejected the Yogācāra theory he had studied and argued, drawing on the Book of Changes, that reality is ceaseless creative transformation, with substance and function inseparable. His students Mou Zongsan, Tang Junyi and Xu Fuguan became the leading New Confucians of the next generation."
+  ]
+ },
+ {
+  "id": "feng-youlan",
+  "name": "Feng Youlan",
+  "name_native": "馮友蘭",
+  "born": "1895",
+  "died": "1990",
+  "sort": 1895,
+  "birthplace": "Tanghe, Henan",
+  "deathplace": "Beijing",
+  "nationality": "Chinese",
+  "movements": [
+   "new-confucianism"
+  ],
+  "bio": "Author of the standard modern history of Chinese philosophy and of a 'new rational learning' that restated Neo-Confucianism in logical terms.",
+  "bio_full": [
+   "Feng Youlan studied at Peking University and took his doctorate at Columbia in 1923. He taught for decades at Tsinghua University and, during the war, at the Southwest Associated University in Kunming. His two-volume History of Chinese Philosophy (1931–34), translated by Derk Bodde, became the standard work in Chinese and English. After 1949 he stayed on the mainland, repeatedly criticised himself under political pressure, and during the Cultural Revolution was drawn into the campaign against Confucius. He died in Beijing in 1990.",
+   "In six books written during the war, beginning with A New Treatise on Neo-Confucianism (Xin lixue, 1939), Feng reconstructed the Cheng-Zhu concept of principle with the tools of Western logical analysis, and described four levels of human life culminating in the 'sphere of heaven and earth'. His histories shaped how both Chinese and Western readers have understood Chinese philosophy."
+  ]
+ },
+ {
+  "id": "mou-zongsan",
+  "name": "Mou Zongsan",
+  "name_native": "牟宗三",
+  "born": "1909",
+  "died": "1995",
+  "sort": 1909,
+  "birthplace": "Qixia, Shandong",
+  "deathplace": "Taipei",
+  "nationality": "Chinese",
+  "movements": [
+   "new-confucianism"
+  ],
+  "bio": "Leading New Confucian of the postwar era, who read Confucian moral metaphysics through and against Kant.",
+  "bio_full": [
+   "Mou Zongsan studied philosophy at Peking University, where he became a disciple of Xiong Shili. He left the mainland in 1949 and taught in Taiwan and from 1960 in Hong Kong, at the University of Hong Kong and then New Asia College of the Chinese University of Hong Kong. In 1958 he co-signed, with Tang Junyi, Xu Fuguan and Zhang Junmai, a manifesto on Chinese culture addressed to the world. He died in Taipei in 1995.",
+   "Mou argued that Confucianism contains a 'moral metaphysics' in which the moral mind, through what he called intellectual intuition, grasps ultimate reality, something Kant had denied to human beings. He translated Kant's three Critiques into Chinese, reclassified the Song-Ming schools in his Mind and Nature, and wrote major studies of Wei-Jin and Buddhist thought. He is the most influential figure of contemporary New Confucianism."
+  ]
+ },
+ {
+  "id": "prince-shotoku",
+  "name": "Prince Shōtoku",
+  "name_native": "聖徳太子",
+  "born": "574",
+  "died": "622",
+  "sort": 574,
+  "birthplace": "Asuka, Yamato",
+  "deathplace": "Ikaruga, Yamato",
+  "nationality": "Japanese",
+  "movements": [
+   "buddhist-schools"
+  ],
+  "bio": "Regent of the Asuka court to whom Japan's Seventeen-article Constitution and its first Buddhist commentaries are attributed; much of his legend is debated.",
+  "bio_full": [
+   "Prince Umayado, posthumously Shōtoku Taishi, was a son of Emperor Yōmei and served as regent for his aunt, Empress Suiko, from 593. The Nihon shoki, compiled a century after his death, credits him with founding temples such as Shitennō-ji and Hōryū-ji, sending embassies to Sui China, establishing the cap-rank system and writing the Seventeen-article Constitution of 604. He died in 622 at his palace in Ikaruga.",
+   "Historians debate how many of these achievements are his; the Constitution and the commentaries on three sutras (Sangyō gisho) attributed to him may be later or the work of his court. Yet the figure of Shōtoku became central to Japanese identity as the patron who joined Confucian ideals of harmony and loyal service to Buddhist faith, and he has long been venerated as a bodhisattva, notably by Shinran."
+  ],
+  "portrait_file": "Shōtoku Taishi Shōmankyō Kōsan.jpg",
+  "portrait_caption": "Prince Shōtoku lecturing on the Śrīmālā Sutra, Japanese hanging scroll"
+ },
+ {
+  "id": "kukai",
+  "name": "Kūkai",
+  "name_native": "空海",
+  "born": "774",
+  "died": "835",
+  "sort": 774,
+  "birthplace": "Byōbugaura, Sanuki (Shikoku)",
+  "deathplace": "Mount Kōya",
+  "nationality": "Japanese",
+  "movements": [
+   "buddhist-schools"
+  ],
+  "bio": "Founder of Japanese Shingon Buddhism, poet, calligrapher and the first systematic Japanese philosopher.",
+  "bio_full": [
+   "Kūkai, posthumously Kōbō Daishi, was born in 774 to the Saeki family on Shikoku and studied Chinese classics at the court college before leaving to practise as a wandering ascetic. In 804 he sailed to Tang China with the same embassy as Saichō, and in Chang'an received initiation into esoteric Buddhism from the master Huiguo. Returning in 806, he won the patronage of Emperor Saga, founded the monastic centre on Mount Kōya in 816 and was given Tō-ji in Kyoto. He also founded a school open to commoners, and he is counted among the three great calligraphers of his era. He died on Mount Kōya in 835.",
+   "Kūkai's philosophy holds that the cosmic Buddha Mahāvairocana preaches directly through all phenomena, so that sounds, letters and forms are themselves the dharma, and that one can 'attain buddhahood in this very body' through ritual of body, speech and mind. His Ten Stages of Mind ranks every philosophy he knew, from ethical Confucianism through the Buddhist schools, as steps toward esoteric insight. He is also the subject of countless legends and of the Shikoku pilgrimage."
+  ],
+  "portrait_file": "Eight Patriarchs of the Shingon Sect of Buddhism Kukai Cropped.jpg",
+  "portrait_caption": "Kūkai, detail of a painting of the Eight Patriarchs of Shingon"
+ },
+ {
+  "id": "shinran",
+  "name": "Shinran",
+  "name_native": "親鸞",
+  "born": "1173",
+  "died": "1263",
+  "sort": 1173,
+  "birthplace": "Hino, near Kyoto",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "buddhist-schools"
+  ],
+  "bio": "Founder of the True Pure Land school, who taught that salvation comes entirely through Amida's 'other power' rather than one's own efforts.",
+  "bio_full": [
+   "Shinran trained for twenty years as a Tendai monk on Mount Hiei, then in 1201 became a disciple of Hōnen, who taught reliance on the recitation of Amida Buddha's name. When Hōnen's movement was suppressed in 1207 Shinran was laicised and exiled to Echigo; he married, and later spent some twenty years teaching in the Kantō region before returning to Kyoto, where he wrote his major works and died in 1263.",
+   "Shinran radicalised Hōnen's teaching: since no one can attain awakening by their own power, salvation depends wholly on the 'other power' of Amida's vow, received in the moment of entrusting (shinjin), and even recitation is an expression of gratitude, not a means. The famous claim that if even good people are saved, how much more the wicked, appears in the Tannishō. His honest reflection on human limitation has attracted modern philosophers, notably Tanabe Hajime."
+  ],
+  "portrait_file": "Shinran (Nara National Museum).jpg",
+  "portrait_caption": "Portrait of Shinran, Nara National Museum"
+ },
+ {
+  "id": "dogen",
+  "name": "Dōgen",
+  "name_native": "道元",
+  "born": "1200",
+  "died": "1253",
+  "sort": 1200,
+  "birthplace": "Kyoto",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "chan-zen"
+  ],
+  "bio": "Founder of Sōtō Zen in Japan, whose Shōbōgenzō is one of the profoundest works of Japanese philosophy.",
+  "bio_full": [
+   "Dōgen Kigen was born in Kyoto in 1200 into the aristocracy and was orphaned young. He was ordained on Mount Hiei but, troubled by the question of why practice is needed if all beings already have buddha-nature, moved to Kennin-ji, the Rinzai Zen temple, and in 1223 went to Song China. There he received dharma transmission in the Caodong lineage from Rujing at Mount Tiantong. Returning in 1227, he taught near Kyoto, and in 1243 moved to remote Echizen, where he founded Eihei-ji. He died in 1253.",
+   "Dōgen taught shikantaza, 'just sitting', as itself the enactment of awakening: practice and realisation are one. His Shōbōgenzō, written in Japanese rather than classical Chinese, explores 'being-time' (uji), the identity of existence and time, buddha-nature as impermanence, and the dropping off of body and mind. Largely confined to his school for centuries, it was rediscovered in the twentieth century by Watsuji Tetsurō and the Kyoto School and is now read worldwide."
+  ],
+  "portrait_file": "Soto-Zen-Master-Dogen-Zenji-Portrait.png",
+  "portrait_caption": "Traditional portrait of Dōgen"
+ },
+ {
+  "id": "hayashi-razan",
+  "name": "Hayashi Razan",
+  "name_native": "林羅山",
+  "born": "1583",
+  "died": "1657",
+  "sort": 1583,
+  "birthplace": "Kyoto",
+  "deathplace": "Edo",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-confucianism"
+  ],
+  "bio": "Confucian adviser to the first four Tokugawa shoguns, who established Zhu Xi learning as the shogunate's official scholarship.",
+  "bio_full": [
+   "Hayashi Razan studied Zen at Kennin-ji in Kyoto as a youth but turned to Neo-Confucianism, becoming a student of Fujiwara Seika. In 1605 he entered the service of Tokugawa Ieyasu, drafting documents and advising on law, ritual and diplomacy for him and his successors, and took the tonsure as a lay Buddhist to fit court conventions. In 1630 the shogunate gave him land in Edo for a school, the ancestor of the Shōheikō academy, which his descendants headed until the 1860s.",
+   "Razan expounded Zhu Xi's metaphysics of principle and material force and applied it to the Tokugawa order: the hierarchy of ruler and subject, like heaven above and earth below, reflects principle itself. He attacked Buddhism and Christianity, sought to harmonise Confucianism with Shinto, and compiled a history of Japan. His family's position made Cheng-Zhu learning the orthodox Confucianism of Edo Japan."
+  ],
+  "portrait_file": "林羅山 像.jpg",
+  "portrait_caption": "Edo-period portrait of Hayashi Razan"
+ },
+ {
+  "id": "nakae-toju",
+  "name": "Nakae Tōju",
+  "name_native": "中江藤樹",
+  "born": "1608",
+  "died": "1648",
+  "sort": 1608,
+  "birthplace": "Ogawa, Ōmi",
+  "deathplace": "Ogawa, Ōmi",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-confucianism"
+  ],
+  "bio": "The 'sage of Ōmi', who founded Japanese Yōmeigaku, the school of Wang Yangming, and taught filial piety to villagers.",
+  "bio_full": [
+   "Nakae Tōju served as a retainer of the Ōzu domain on Shikoku but in 1634 abandoned his post, without permission, to return to Ōmi and care for his mother. There he lived as a village teacher, earning a reputation for sincerity that made him a legend as the 'sage of Ōmi'. He died young in 1648; among his students was Kumazawa Banzan.",
+   "Beginning as a follower of Zhu Xi, Tōju was drawn to Wang Yangming's teaching of innate knowing, which seemed to him to put sagehood within everyone's reach. He made filial piety a cosmic principle that unites the individual with the universe, and in his Okina mondō explained Confucian ethics in simple Japanese for ordinary people and for women as well as samurai."
+  ],
+  "portrait_file": "Nakae Toju portrait.jpg",
+  "portrait_caption": "Edo-period portrait of Nakae Tōju"
+ },
+ {
+  "id": "ito-jinsai",
+  "name": "Itō Jinsai",
+  "name_native": "伊藤仁斎",
+  "born": "1627",
+  "died": "1705",
+  "sort": 1627,
+  "birthplace": "Kyoto",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-confucianism"
+  ],
+  "bio": "Kyoto merchant's son and private teacher who rejected Zhu Xi's metaphysics in favour of the 'ancient meaning' of the Analects and Mencius.",
+  "bio_full": [
+   "Itō Jinsai was born into a Kyoto merchant family and refused to become a physician, as his family wished, in order to study Confucianism. After years of intense study of Zhu Xi and a long breakdown, he concluded that Song metaphysics distorted the original teaching. In 1662 he opened a private school, the Kogidō ('Hall of Ancient Meaning'), across from his home by the Horikawa; it attracted thousands of students and was run by his son Tōgai and their descendants into the twentieth century.",
+   "Jinsai argued that the Analects and the Mencius must be read in their own terms. In his Gomō jigi (The Meaning of Terms in the Analects and Mencius) he redefined key words so that the Way is the everyday path of human relations, ren is loving care, and the world is a living process of qi rather than the expression of a static principle. His philological approach anticipated Ogyū Sorai and the Kokugaku scholars."
+  ],
+  "portrait_file": "伊藤仁斎像.jpg",
+  "portrait_caption": "Edo-period portrait of Itō Jinsai"
+ },
+ {
+  "id": "ogyu-sorai",
+  "name": "Ogyū Sorai",
+  "name_native": "荻生徂徠",
+  "born": "1666",
+  "died": "1728",
+  "sort": 1666,
+  "birthplace": "Edo",
+  "deathplace": "Edo",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-confucianism"
+  ],
+  "bio": "The most influential Confucian of Edo Japan, who held that the Way consists of the rites and institutions created by the ancient kings.",
+  "bio_full": [
+   "Ogyū Sorai was the son of a physician to the future shogun Tokugawa Tsunayoshi; when his father was exiled, Sorai grew up in rural Kazusa, where he observed the lives of farmers. Returning to Edo, he served from 1696 the powerful chamberlain Yanagisawa Yoshiyasu, and later advised the shogun Tokugawa Yoshimune on policy. He founded the Ken'en school and died in Edo in 1728.",
+   "Sorai's method of 'ancient words and phrases' (kobunjigaku) demanded reading the classics in the language of their own time. He concluded that the Way is not a moral principle in nature or the mind but the concrete system of ritual, music, law and government invented by the early kings to bring peace to the realm. This separation of politics from personal morality, and his practical proposals in works such as Seidan, made him a key figure in what the political scientist Maruyama Masao described as the emergence of modern political thought in Japan."
+  ],
+  "portrait_file": "Ogyuh Sorai.jpg",
+  "portrait_caption": "Edo-period portrait of Ogyū Sorai"
+ },
+ {
+  "id": "motoori-norinaga",
+  "name": "Motoori Norinaga",
+  "name_native": "本居宣長",
+  "born": "1730",
+  "died": "1801",
+  "sort": 1730,
+  "birthplace": "Matsusaka, Ise",
+  "deathplace": "Matsusaka",
+  "nationality": "Japanese",
+  "movements": [
+   "kokugaku"
+  ],
+  "bio": "Physician and philologist who spent thirty-five years on a commentary on the Kojiki and became the greatest scholar of Kokugaku.",
+  "bio_full": [
+   "Motoori Norinaga was born into a merchant family in Matsusaka, near the Ise shrines. He studied medicine and Confucian learning in Kyoto, then returned home to practise as a pediatrician, teaching literature and the classics in his spare hours. A single meeting with the scholar Kamo no Mabuchi in 1763 confirmed his life's work, the decipherment of the Kojiki, completed in 1798. He had nearly five hundred registered students.",
+   "Norinaga held that Chinese learning, with its moralising and rationalising, had overlaid an older Japanese way of sincere feeling expressed in the ancient myths and poetry. In writings on The Tale of Genji and waka he identified the core of literature as mono no aware, a deep sensitivity to things, and he took the Kojiki myths at their word as the record of the age of the gods. His philology was rigorous; his nativism became an important source for later Shinto nationalism."
+  ],
+  "portrait_file": "Motoori Norinaga self portrait.jpg",
+  "portrait_caption": "Motoori Norinaga, self-portrait, 1790"
+ },
+ {
+  "id": "ando-shoeki",
+  "name": "Andō Shōeki",
+  "name_native": "安藤昌益",
+  "born": "1703",
+  "died": "1762",
+  "sort": 1703,
+  "birthplace": "Akita domain (Dewa)",
+  "deathplace": "Ōdate",
+  "nationality": "Japanese",
+  "movements": [
+   "edo-confucianism"
+  ],
+  "bio": "Rural physician whose radical writings, rediscovered only in 1899, condemned all rulers, scholars and priests as idle eaters of farmers' labour.",
+  "bio_full": [
+   "Little is known of Andō Shōeki's life. He seems to have been born in northern Japan, practised medicine in the castle town of Hachinohe in the 1740s and 1750s, and returned late in life to his native village near Ōdate, where he died in 1762. His manuscripts, unknown during the Edo period, were discovered in 1899 by the educator Kano Kōkichi; much of the main manuscript was later lost in the Great Kantō earthquake of 1923.",
+   "In Shizen shin'eidō (The Way of Nature and Labour) Shōeki imagined an original 'world of nature' in which everyone farms and all are equal, and argued that the sages of China, the Buddha and Japan's rulers had invented hierarchy so they could live off others' work. His criticism of every established teaching has been compared to European utopian and anarchist thought; the Canadian historian E. H. Norman made him known in the West."
+  ]
+ },
+ {
+  "id": "fukuzawa-yukichi",
+  "name": "Fukuzawa Yukichi",
+  "name_native": "福澤諭吉",
+  "born": "1835",
+  "died": "1901",
+  "sort": 1835,
+  "birthplace": "Osaka",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "modern-reform"
+  ],
+  "bio": "The leading advocate of Western learning in Meiji Japan, founder of Keiō University, whose books preached individual independence and civilisation.",
+  "bio_full": [
+   "Fukuzawa Yukichi was born in Osaka to a low-ranking samurai of the Nakatsu domain. He studied Dutch learning in Nagasaki and with Ogata Kōan in Osaka, then taught himself English, and travelled to the United States in 1860 and to Europe in 1862 with shogunate missions. His Conditions in the West (Seiyō jijō) became a bestseller. He founded the school that became Keiō University and the newspaper Jiji shinpō, and refused government office throughout his life.",
+   "An Encouragement of Learning (1872–76) opens by denying that heaven creates one person above another, and urges practical learning as the basis of personal and national independence. In An Outline of a Theory of Civilization (1875) he argued that civilisation is the progress of knowledge and virtue of a whole people. Late in life he wrote in favour of Japan's leaving Asia behind, a position whose meaning and authorship are still debated. His portrait appeared on the ten-thousand-yen note from 1984 to 2024."
+  ]
+ },
+ {
+  "id": "nishida-kitaro",
+  "name": "Nishida Kitarō",
+  "name_native": "西田幾多郎",
+  "born": "1870",
+  "died": "1945",
+  "sort": 1870,
+  "birthplace": "Unoke, Ishikawa",
+  "deathplace": "Kamakura",
+  "nationality": "Japanese",
+  "movements": [
+   "kyoto-school"
+  ],
+  "bio": "Founder of the Kyoto School, who joined Zen insight to Western philosophy in theories of pure experience and the logic of place.",
+  "bio_full": [
+   "Nishida Kitarō was born in 1870 in a village near Kanazawa. At the Fourth Higher School he befriended D. T. Suzuki, and he studied philosophy at Tokyo Imperial University as a special student. For years he taught at schools in Kanazawa while practising Zen meditation intensively. An Inquiry into the Good (1911) made his name, and from 1910 he taught at Kyoto Imperial University, where he trained the thinkers later called the Kyoto School. He retired in 1928 and continued writing until his death in Kamakura in June 1945.",
+   "Nishida began from 'pure experience', the immediate state before the split between subject and object, and later developed the 'logic of basho' (place), in which beings are located ultimately in an 'absolute nothingness' that is not an object at all. His late essays on the 'contradictory self-identity' of the world and on religion engaged Hegel, Leibniz and Christianity alongside Buddhism. His writings on national culture in the 1930s and 1940s remain the subject of debate."
+  ]
+ },
+ {
+  "id": "tanabe-hajime",
+  "name": "Tanabe Hajime",
+  "name_native": "田辺元",
+  "born": "1885",
+  "died": "1962",
+  "sort": 1885,
+  "birthplace": "Tokyo",
+  "deathplace": "Kita-Karuizawa, Gunma",
+  "nationality": "Japanese",
+  "movements": [
+   "kyoto-school"
+  ],
+  "bio": "Nishida's successor and critic at Kyoto, whose 'logic of species' and wartime 'philosophy as metanoetics' made him the second pillar of the Kyoto School.",
+  "bio_full": [
+   "Tanabe Hajime studied mathematics and then philosophy at Tokyo Imperial University, and in 1919 Nishida invited him to Kyoto. He studied in Germany in 1922–24 with Husserl and Heidegger. Succeeding Nishida in 1927, he soon criticised his teacher's philosophy. During the 1930s he developed a 'logic of species' that gave the nation a mediating role between individual and humanity. He retired in 1945 to a mountain cottage in Kita-Karuizawa, where he lived until his death in 1962.",
+   "In Philosophy as Metanoetics (1946) Tanabe confessed that his reason had failed in the face of the war and that philosophy must pass through repentance (zange) and self-surrender to an 'other power', drawing on Shinran. He also wrote on mathematics and physics, and later on death and Christianity."
+  ]
+ },
+ {
+  "id": "watsuji-tetsuro",
+  "name": "Watsuji Tetsurō",
+  "name_native": "和辻哲郎",
+  "born": "1889",
+  "died": "1960",
+  "sort": 1889,
+  "birthplace": "Himeji, Hyōgo",
+  "deathplace": "Tokyo",
+  "nationality": "Japanese",
+  "movements": [
+   "kyoto-school"
+  ],
+  "bio": "Philosopher of ethics and culture who described human existence as 'betweenness' and wrote on climate, Japanese art and Dōgen.",
+  "bio_full": [
+   "Watsuji Tetsurō was the son of a country doctor near Himeji. He studied philosophy at Tokyo Imperial University and wrote early books on Nietzsche and Kierkegaard, then turned to Japanese culture with a study of the temples of Nara (Koji junrei, 1919) and an essay that rescued Dōgen for modern readers. He taught at Kyoto Imperial University from 1925 and held the chair of ethics at Tokyo from 1934 to 1949. His studies in Germany in 1927–28 brought him into contact with Heidegger's Being and Time.",
+   "Against Heidegger's focus on the individual and time, Watsuji argued in Fūdo (1935) that human beings exist in space and climate, and in his three-volume Ethics (1937–49) that a person (ningen) is fundamentally 'between' people, an individual and a social being at once. His works on Japanese ethical thought and culture were widely read; his accounts of the emperor and the state remain contested."
+  ]
+ },
+ {
+  "id": "nishitani-keiji",
+  "name": "Nishitani Keiji",
+  "name_native": "西谷啓治",
+  "born": "1900",
+  "died": "1990",
+  "sort": 1900,
+  "birthplace": "Ishikawa Prefecture",
+  "deathplace": "Kyoto",
+  "nationality": "Japanese",
+  "movements": [
+   "kyoto-school"
+  ],
+  "bio": "Nishida's leading heir, who in Religion and Nothingness confronted European nihilism with the Buddhist standpoint of emptiness.",
+  "bio_full": [
+   "Nishitani Keiji was born in 1900 and studied with Nishida at Kyoto Imperial University, graduating in 1924, and practised Zen at Shōkoku-ji. He studied with Heidegger in Freiburg in 1937–39. Involved in the controversial wartime symposia on 'overcoming modernity', he was purged from teaching during the Occupation, then reinstated in 1952; he taught philosophy and religion at Kyoto and later at Ōtani University until his death in 1990.",
+   "In Religion and Nothingness (1961) Nishitani argued that modern science and the death of God open a 'field of nihility' beneath the self, which must be passed through to the 'field of emptiness' (śūnyatā), where things appear in their own suchness. His dialogue with Nietzsche, Meister Eckhart and Heidegger made him a central figure in the global philosophy of religion."
+  ]
+ },
+ {
+  "id": "wonhyo",
+  "name": "Wonhyo",
+  "name_native": "元曉",
+  "born": "617",
+  "died": "686",
+  "sort": 617,
+  "birthplace": "Amnyang, Silla",
+  "deathplace": "Hyeolsa, Silla",
+  "nationality": "Korean",
+  "movements": [
+   "buddhist-schools"
+  ],
+  "bio": "Silla monk and the most prolific Buddhist writer of Korea, who sought to harmonise the disputes between doctrinal schools.",
+  "bio_full": [
+   "Wonhyo was born in 617 in the kingdom of Silla and became a monk as a young man. Twice he set out for Tang China with his friend Uisang; on the second attempt, the story goes, he sheltered in the dark in what he took for a cave and drank sweet water from a gourd, then saw at dawn that it was a tomb and the water had stood in a skull, and realised that all things arise from the mind, so there was no need to travel. He stayed in Silla, later left the monastic order after fathering a son, the scholar Seol Chong, with a royal princess, and travelled among the common people singing and dancing to spread Pure Land devotion. He died in 686.",
+   "Wonhyo wrote around eighty works, of which some twenty survive. His commentaries on the Awakening of Faith in the Mahāyāna and the Vajrasamādhi Sutra were read in China and Japan, and his Ten Approaches to the Reconciliation of Doctrinal Controversy (Simmun hwajaeng non) argued that apparently opposed teachings are partial views of a single 'one mind'. This principle of hwajaeng, harmonising disputes, has been seen as the hallmark of Korean Buddhist thought."
+  ]
+ },
+ {
+  "id": "uisang",
+  "name": "Uisang",
+  "name_native": "義湘",
+  "born": "625",
+  "died": "702",
+  "sort": 625,
+  "birthplace": "Silla",
+  "deathplace": "Silla",
+  "nationality": "Korean",
+  "movements": [
+   "buddhist-schools"
+  ],
+  "bio": "Founder of the Korean Hwaeom (Huayan) school, who condensed its vision of interpenetration into a single diagram-poem.",
+  "bio_full": [
+   "Uisang was born into an aristocratic family of Silla and became a monk in his youth. With Wonhyo he set out for China, and in 661 he reached Tang, where he studied for nearly ten years with the Huayan master Zhiyan alongside Fazang, who remained his friend and corresponded with him. Returning around 670, he founded Buseoksa and other temples as centres of Hwaeom teaching and trained many disciples. He died in 702.",
+   "His one major surviving work, the Diagram of the Dharma Realm of the One Vehicle of Hwaeom (668), arranges a poem of 210 characters along a single path that winds through a square seal, showing that 'one is all and all is one'. Uisang's austere, practice-centred Hwaeom became the dominant doctrinal tradition of Korean Buddhism."
+  ],
+  "portrait_file": "Kegon Engi Emaki, Gisho lectures.jpg",
+  "portrait_caption": "Uisang (Gishō) lecturing, from the Kegon Engi Emaki, Kōzan-ji, 13th century"
+ },
+ {
+  "id": "jinul",
+  "name": "Jinul",
+  "name_native": "知訥",
+  "born": "1158",
+  "died": "1210",
+  "sort": 1158,
+  "birthplace": "Seoheung, Goryeo",
+  "deathplace": "Suseonsa, Mount Songgwang",
+  "nationality": "Korean",
+  "movements": [
+   "chan-zen"
+  ],
+  "bio": "Goryeo Seon master who united meditation and doctrine and taught 'sudden awakening followed by gradual cultivation'.",
+  "bio_full": [
+   "Jinul, also known by his title Bojo Guksa, was born in 1158 and ordained at eight. He passed the monastic examination in 1182 but, dismayed by the worldliness of the Goryeo clergy, called on fellow monks to form a retreat community devoted to meditation and wisdom. After years of solitary study, during which reading the Platform Sutra, a Huayan commentary and the sayings of Dahui each brought him awakening, he established the community at Suseonsa on Mount Songgwang, now Songgwangsa, in 1200. He died there in 1210.",
+   "Jinul argued that one must first awaken suddenly to the nature of one's own mind as Buddha, and then cultivate gradually to remove ingrained habits, drawing on the Chinese master Zongmi. He reconciled Seon with Hwaeom doctrine and adopted Dahui's method of contemplating a single word, the hwadu. His synthesis remains the foundation of the Jogye Order, the main school of Korean Buddhism."
+  ],
+  "portrait_file": "Jinul.jpg",
+  "portrait_caption": "Temple portrait of Jinul"
+ },
+ {
+  "id": "jeong-dojeon",
+  "name": "Jeong Do-jeon",
+  "name_native": "鄭道傳",
+  "born": "1342",
+  "died": "1398",
+  "sort": 1342,
+  "birthplace": "Yeongju, Goryeo",
+  "deathplace": "Hanyang (Seoul)",
+  "nationality": "Korean",
+  "movements": [
+   "korean-neo-confucianism"
+  ],
+  "bio": "Scholar-statesman who designed the institutions of the new Joseon dynasty and wrote its sharpest Confucian critique of Buddhism.",
+  "bio_full": [
+   "Jeong Do-jeon was a Neo-Confucian official of the late Goryeo who was exiled in the 1370s for opposing a pro-Mongol policy. He became the chief strategist of the general Yi Seong-gye, and when Yi founded the Joseon dynasty in 1392 Jeong drafted its legal code, planned its new capital at Hanyang and shaped its institutions. He was killed in 1398 by the prince Yi Bang-won, the future King Taejong, in a struggle over the succession.",
+   "His Array of Critiques of Buddhism (Bulssi japbyeon) attacked Buddhist doctrines of transmigration, karma and the mind as empty and socially harmful, using Zhu Xi's philosophy of principle and material force. He made Cheng-Zhu learning the ideology of a state that would last five centuries."
+  ]
+ },
+ {
+  "id": "yi-hwang",
+  "name": "Yi Hwang",
+  "name_native": "李滉",
+  "born": "1501",
+  "died": "1570",
+  "sort": 1501,
+  "birthplace": "Andong, Gyeongsang",
+  "deathplace": "Andong",
+  "nationality": "Korean",
+  "movements": [
+   "korean-neo-confucianism"
+  ],
+  "bio": "Toegye, the most revered Korean Neo-Confucian, who interpreted Zhu Xi with great depth and moral seriousness and is honoured on the 1000-won note.",
+  "bio_full": [
+   "Yi Hwang, known by his pen name Toegye, was born in 1501 near Andong. He passed the civil examination in 1534 and held a succession of posts, but repeatedly retired to the countryside, where he founded the Dosan Seodang, the school around which the Dosan Seowon academy grew after his death. Hundreds of students came to him, and King Seonjo repeatedly called him to court. He died in 1570.",
+   "Toegye's interpretation stressed reverent seriousness (gyeong) and the active role of principle: in the Four–Seven debate with Gi Dae-seung he argued that the four moral feelings named by Mencius issue from principle, while the seven ordinary emotions issue from material force. His Ten Diagrams on Sage Learning, presented to the young king, summarises the path of cultivation. His work strongly influenced Japanese Confucians such as Yamazaki Ansai, and the Yeongnam school of his followers dominated southern Korean scholarship."
+  ]
+ },
+ {
+  "id": "yi-i",
+  "name": "Yi I",
+  "name_native": "李珥",
+  "born": "1536",
+  "died": "1584",
+  "sort": 1536,
+  "birthplace": "Gangneung, Gangwon",
+  "deathplace": "Hanyang (Seoul)",
+  "nationality": "Korean",
+  "movements": [
+   "korean-neo-confucianism"
+  ],
+  "bio": "Yulgok, statesman and the other great Joseon Neo-Confucian, who held that only material force issues and principle rides upon it.",
+  "bio_full": [
+   "Yi I, known as Yulgok, was born in 1536 in Gangneung; his mother Sin Saimdang was a celebrated painter and poet. After her death he spent a year in a Buddhist monastery, then returned to Confucianism, and is said to have taken first place in nine civil examinations. He held high office, including minister of personnel and of war, and pressed for reforms of taxation and the army. He died in 1584. Mother and son both appear on modern Korean banknotes.",
+   "Yulgok answered Toegye that principle does not itself move: in every feeling material force issues and principle 'rides' on it, so that the four moral feelings are the good part of the seven. His Essentials of the Studies of the Sages (Seonghak jibyo), presented to King Seonjo in 1575, reorganises Neo-Confucian learning for a ruler, and his Essential Secrets for Removing Ignorance became a standard primer. His followers formed the Giho school, rivals of Toegye's."
+  ]
+ },
+ {
+  "id": "jeong-yak-yong",
+  "name": "Jeong Yak-yong",
+  "name_native": "丁若鏞",
+  "born": "1762",
+  "died": "1836",
+  "sort": 1762,
+  "birthplace": "Gwangju, Gyeonggi (now Namyangju)",
+  "deathplace": "Namyangju",
+  "nationality": "Korean",
+  "movements": [
+   "silhak"
+  ],
+  "bio": "Dasan, the great synthesiser of Silhak, who wrote some five hundred volumes on the classics, administration and reform during eighteen years of exile.",
+  "bio_full": [
+   "Jeong Yak-yong, known by his pen name Dasan, passed the civil examination in 1789 and became a favourite of King Jeongjo, for whom he designed cranes and other devices used in building Hwaseong Fortress at Suwon. Through his family he came into contact with Catholic books from China. After Jeongjo's death the persecution of 1801 killed one of his brothers and sent Dasan into exile at Gangjin in the far south, where for eighteen years he studied and wrote with local students. Released in 1818, he spent his last years at his family home near Seoul.",
+   "Dasan reread the Confucian classics against Zhu Xi, treating human nature as a preference for the good rather than an implanted principle, and emphasising moral choice and a personal Heaven, perhaps under Catholic influence. His Mongmin simseo (Admonitions on Governing the People), Gyeongse yupyo and Heumheum sinseo set out detailed plans for fair administration, land reform and criminal justice. He is regarded as the culmination of Korean practical learning."
+  ]
+ },
+ {
+  "id": "bak-ji-won",
+  "name": "Bak Ji-won",
+  "name_native": "朴趾源",
+  "born": "1737",
+  "died": "1805",
+  "sort": 1737,
+  "birthplace": "Hanyang (Seoul)",
+  "deathplace": "Hanyang",
+  "nationality": "Korean",
+  "movements": [
+   "silhak"
+  ],
+  "bio": "Writer of the Northern Learning school who urged Joseon to learn technology and commerce from Qing China, and satirised the yangban class.",
+  "bio_full": [
+   "Bak Ji-won, also romanised Pak Chiwŏn and known as Yeonam, came from a distinguished yangban family in Seoul but long declined to sit the examinations. In 1780 he accompanied a relative on an embassy to the Qing emperor's birthday celebrations, travelling to Beijing and the summer palace at Jehol (Chengde). His account of the journey, the Jehol Diary, made him famous. He later held provincial posts and died in 1805.",
+   "Bak and friends such as Bak Je-ga and Hong Dae-yong formed the 'Northern Learning' (Bukhak) circle, which argued that Korea should stop despising the Manchu Qing and adopt its carts, bricks, commerce and techniques for the people's welfare. His satirical stories, such as The Tale of a Yangban and Master Heo, mocked idle aristocrats and are classics of Korean literature."
+  ]
+ },
+ {
+  "id": "choe-je-u",
+  "name": "Choe Je-u",
+  "name_native": "崔濟愚",
+  "born": "1824",
+  "died": "1864",
+  "sort": 1824,
+  "birthplace": "Gyeongju",
+  "deathplace": "Daegu",
+  "nationality": "Korean",
+  "movements": [
+   "modern-reform"
+  ],
+  "bio": "Founder of Donghak ('Eastern Learning'), which taught that Heaven dwells in every person and later inspired the peasant revolution of 1894.",
+  "bio_full": [
+   "Choe Je-u, known as Suun, was born near Gyeongju to a declining yangban family; as the son of a remarried widow he was barred from office. After years of wandering and seeking, in 1860 he reported a revelation from the Lord of Heaven and began teaching Donghak, Eastern Learning, as a native answer to Western Learning, that is, Catholicism. The movement spread quickly among peasants, and the government arrested him as a heretic; he was executed in Daegu in 1864.",
+   "Choe taught that each person bears the Lord of Heaven within (sicheonju), a doctrine later developed by his successors into the principle that the human being is Heaven (innaecheon). Combining Confucian, Buddhist, Daoist and folk elements with a call for social renewal, Donghak fuelled the Donghak Peasant Revolution of 1894 and survives as the Cheondogyo religion."
+  ]
+ },
+ {
+  "id": "han-yong-un",
+  "name": "Han Yong-un",
+  "name_native": "韓龍雲",
+  "born": "1879",
+  "died": "1944",
+  "sort": 1879,
+  "birthplace": "Hongseong, Chungcheong",
+  "deathplace": "Seoul",
+  "nationality": "Korean",
+  "movements": [
+   "modern-reform"
+  ],
+  "bio": "Buddhist monk, reformer and poet, a signer of the 1919 Declaration of Independence, who called for a modern, socially engaged Korean Buddhism.",
+  "bio_full": [
+   "Han Yong-un, known by his Buddhist name Manhae, took part as a youth in the turmoil of the 1890s and became a monk at Baekdamsa in the Seorak mountains around 1905. He travelled in Japan, where he studied Buddhism and observed its modernisation, and opposed plans to merge Korean Buddhism with a Japanese sect. One of the thirty-three signatories of the March First Declaration of Independence of 1919, he was imprisoned for three years. He died in Seoul in 1944, the year before liberation.",
+   "In On the Reform of Korean Buddhism (1913) he called for Buddhism to leave the mountains for the cities, educate its monks, allow them to marry, and serve society, drawing on ideas of equality and freedom. His poetry collection The Silence of Love (1926) is a classic of modern Korean literature."
+  ]
+ }
+]
