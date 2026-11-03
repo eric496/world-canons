@@ -1,0 +1,1602 @@
+[
+ {
+  "id": "homer",
+  "name": "Homer",
+  "born": "c. 8th century BC",
+  "died": "",
+  "sort": -750,
+  "birthplace": "Ionia (traditionally; birthplace claimed by several cities)",
+  "deathplace": "unknown",
+  "nationality": "Greek",
+  "movements": [
+   "greek-epic-lyric"
+  ],
+  "bio": "The name the ancient Greeks gave to the poet of the Iliad and the Odyssey, the founding epics of Western literature. Whether a single Homer ever existed is one of the oldest questions in literary scholarship.",
+  "bio_full": [
+   "Nothing reliable is known about Homer's life. Ancient tradition pictured him as a blind singer from the Ionian coast of Asia Minor, and seven cities, among them Smyrna and Chios, claimed to be his birthplace. Modern scholars generally date the two epics to the late eighth or seventh century BC. Since the work of Milman Parry in the 1930s, it has been widely accepted that they grew out of a long tradition of oral composition, in which singers improvised in hexameter using stock phrases and scenes. Whether one poet, two poets or a whole tradition stands behind the poems, and when exactly they were fixed in writing, remains debated; the so-called Homeric Question has never been settled.",
+   "Whoever composed them, the Iliad and the Odyssey were the shared foundation of Greek culture: children learned to read from them, philosophers argued with them, and tragedians took their plots from the stories around them. Their formulaic epithets, extended similes and vivid scenes of war, homecoming and grief became the model for epic from Virgil to Milton. Through translation, from Chapman and Pope to modern versions, Homer has never ceased to be read, and the Odyssey in particular supplied the template for countless journeys in later literature, including Joyce's Ulysses."
+  ]
+ },
+ {
+  "id": "sappho",
+  "name": "Sappho",
+  "born": "c. 630 BC",
+  "died": "c. 570 BC",
+  "sort": -630,
+  "birthplace": "Eresos or Mytilene, Lesbos",
+  "deathplace": "unknown",
+  "nationality": "Greek",
+  "movements": [
+   "greek-epic-lyric"
+  ],
+  "bio": "The great lyric poet of archaic Greece, admired in antiquity as the tenth Muse. Her intense, personal poems of love and longing survive mainly in fragments.",
+  "bio_full": [
+   "Sappho lived on the island of Lesbos around 600 BC, probably in the city of Mytilene, into an aristocratic family. Ancient sources mention brothers, a daughter named Kleis and a period of exile in Sicily, but most stories about her life, including the legend that she leapt from a cliff for love of a ferryman, are later inventions. She composed songs to be sung to the lyre, many apparently for performance among circles of young women. Alexandrian scholars collected her poems into nine books, but only one complete poem, the Ode to Aphrodite, and a few substantial fragments survived the Middle Ages; papyrus finds, including two new poems published in 2014, have added more.",
+   "Sappho wrote in her local Aeolic dialect, in metres that include the stanza later named after her. Her poems speak in the first person about desire, jealousy, memory and the beauty of the beloved, with a precision and immediacy that later readers found startlingly modern. Plato is said to have called her the tenth Muse, and Catullus translated her. Because her love poetry is often addressed to women, her name and her island gave English the words sapphic and lesbian. The very fragmentary state of her work has itself inspired poets and translators, from Swinburne to Anne Carson."
+  ]
+ },
+ {
+  "id": "aeschylus",
+  "name": "Aeschylus",
+  "born": "c. 525 BC",
+  "died": "c. 456 BC",
+  "sort": -525,
+  "birthplace": "Eleusis, Attica",
+  "deathplace": "Gela, Sicily",
+  "nationality": "Greek (Athenian)",
+  "movements": [
+   "greek-drama"
+  ],
+  "bio": "The earliest of the three great Athenian tragedians, often called the father of tragedy. His Oresteia trilogy traces the passage from blood vengeance to civic justice.",
+  "bio_full": [
+   "Aeschylus was born around 525 BC at Eleusis near Athens into a noble family. He fought against the Persians at Marathon in 490 BC, where his brother was killed, and probably also at Salamis, and his epitaph is said to have recorded his war service rather than his plays. He began competing at the Athenian festival of the Great Dionysia in the 490s and won first prize there thirteen times. He wrote perhaps seventy to ninety plays, of which seven survive under his name, including The Persians, Seven Against Thebes, The Suppliants and the Oresteia of 458 BC. He made visits to Sicily at the invitation of the tyrant Hieron and died at Gela around 456 BC.",
+   "Aristotle credits Aeschylus with adding a second actor to the single actor and chorus of early tragedy, which made real dramatic conflict possible. His language is grand, dense and rich in metaphor, and his choruses carry much of the weight of the drama. He typically worked in connected trilogies, following a curse or a moral problem across generations, and his plays wrestle with the justice of Zeus and the suffering through which, as the Oresteia says, humans learn. The authorship of Prometheus Bound, traditionally his, is now debated. His work set the scale and seriousness of tragedy for everything that followed."
+  ]
+ },
+ {
+  "id": "sophocles",
+  "name": "Sophocles",
+  "born": "c. 497 BC",
+  "died": "406 BC",
+  "sort": -497,
+  "birthplace": "Colonus, near Athens",
+  "deathplace": "Athens",
+  "nationality": "Greek (Athenian)",
+  "movements": [
+   "greek-drama"
+  ],
+  "bio": "The Athenian tragedian whose Oedipus the King Aristotle held up as the model of tragedy. Seven of his more than 120 plays survive.",
+  "bio_full": [
+   "Sophocles was born around 497 BC at Colonus, just outside Athens, the son of a wealthy man. He was famous for his good looks and musical talent, and as a youth is said to have led the chorus celebrating the victory at Salamis. He won his first victory at the Dionysia in 468 BC, defeating Aeschylus, and went on to win more often than any other tragedian, never placing lower than second. He also served Athens in public life, as a treasurer and as one of the generals alongside Pericles in the Samian War. He lived through almost the whole of the city's classical greatness and died in 406 BC, shortly before its defeat by Sparta.",
+   "Sophocles is credited with introducing a third actor and with painted scenery, and he gave up the connected trilogy in favour of self-contained plays. His surviving works, including Ajax, Antigone, Oedipus the King, Electra, Philoctetes and Oedipus at Colonus, are admired for their tight construction, their dramatic irony and their heroes, strong-willed figures who refuse to bend. Aristotle's Poetics drew heavily on Oedipus the King, and through it Sophocles became the standard for tragic form. Antigone and Oedipus have since been reworked endlessly, by Hegel and Freud as much as by dramatists."
+  ]
+ },
+ {
+  "id": "euripides",
+  "name": "Euripides",
+  "born": "c. 480 BC",
+  "died": "c. 406 BC",
+  "sort": -480,
+  "birthplace": "Athens (traditionally Salamis)",
+  "deathplace": "Macedonia",
+  "nationality": "Greek (Athenian)",
+  "movements": [
+   "greek-drama"
+  ],
+  "bio": "The youngest and most unsettling of the great tragedians, known for his clever women, questioning of the gods and psychological realism. More of his plays survive than of Aeschylus and Sophocles combined.",
+  "bio_full": [
+   "Euripides was born around 480 BC; a later legend placed his birth on the island of Salamis on the day of the great sea battle. He first competed at the Dionysia in 455 BC but won first prize only four times in his life, a sign that his challenging plays divided Athenian audiences. Ancient biographies describe him as a bookish recluse who wrote in a cave, and he was a favourite target of the comic poet Aristophanes. Towards the end of his life he left Athens for the court of King Archelaus of Macedon, where he died around 406 BC. Eighteen or nineteen of his tragedies survive, including Medea, Hippolytus, The Trojan Women, Electra and The Bacchae, which was performed after his death.",
+   "Euripides brought the heroes of myth down to human scale and gave unprecedented voice to women, slaves and outsiders. His plays include passionate monologues, sharp debates and sudden endings in which a god appears from the machine. He questioned traditional religion and showed the horrors of war at a time when Athens was fighting Sparta. Aristotle called him the most tragic of the poets. His popularity grew after his death, and his work has been especially influential in the modern theatre, where Medea, The Trojan Women and The Bacchae are among the most staged of all Greek plays."
+  ]
+ },
+ {
+  "id": "aristophanes",
+  "name": "Aristophanes",
+  "born": "c. 446 BC",
+  "died": "c. 386 BC",
+  "sort": -446,
+  "birthplace": "Athens",
+  "deathplace": "Athens",
+  "nationality": "Greek (Athenian)",
+  "movements": [
+   "greek-drama"
+  ],
+  "bio": "The great comic playwright of ancient Athens, whose eleven surviving comedies mix political satire, fantasy, obscenity and lyric beauty.",
+  "bio_full": [
+   "Aristophanes was born in Athens around 446 BC and had his first play staged in 427 BC, while still very young. He wrote about forty comedies over a career of some forty years, of which eleven survive, among them The Clouds, The Wasps, The Birds, Lysistrata and The Frogs. His work spans the Peloponnesian War between Athens and Sparta and its aftermath. He clashed with the powerful politician Cleon, whom he mocked repeatedly, and in The Clouds he lampooned Socrates as a fraudulent teacher, a portrait Plato later suggested contributed to prejudice against the philosopher. Plato nevertheless gave him a memorable speech about love in the Symposium.",
+   "His plays belong to what is called Old Comedy: fantastical plots in which an ordinary citizen makes a private peace with the enemy, founds a city in the clouds or travels to the underworld, combined with personal attacks on living Athenians, choral songs of real lyrical beauty and frank sexual humour. In the parabasis the chorus stepped out to address the audience directly on the poet's behalf. Aristophanes is our main source for what Old Comedy was like, and his mixture of satire and fantasy has influenced writers from Rabelais to modern political satirists."
+  ]
+ },
+ {
+  "id": "virgil",
+  "name": "Virgil (Publius Vergilius Maro)",
+  "born": "70 BC",
+  "died": "19 BC",
+  "sort": -70,
+  "birthplace": "Andes, near Mantua, Cisalpine Gaul",
+  "deathplace": "Brundisium (Brindisi)",
+  "nationality": "Roman",
+  "movements": [
+   "latin-golden-age"
+  ],
+  "bio": "Rome's national poet, author of the Eclogues, the Georgics and the Aeneid. For Dante he was the guide through Hell; for Europe he was the model of the poet.",
+  "bio_full": [
+   "Publius Vergilius Maro was born in 70 BC near Mantua in northern Italy and educated in Cremona, Milan and Rome, where he studied rhetoric and Epicurean philosophy. His first collection, the Eclogues, pastoral poems written in the turmoil after Caesar's assassination, brought him to the attention of Maecenas, the cultural patron of the future emperor Augustus. He then spent seven years on the Georgics, a poem on farming, and devoted the last decade of his life to the Aeneid. In 19 BC he fell ill on a journey to Greece and died at Brundisium. He had asked for the unfinished epic to be burned, but Augustus ordered its publication.",
+   "Virgil fused Greek forms, Homer for epic, Theocritus for pastoral and Hesiod for didactic poetry, with Roman themes and an exceptional ear for the music of Latin hexameter. His poetry is marked by a deep sympathy for suffering, a sense of the cost of history and an ambiguous relation to the Augustan order it celebrates. The Aeneid became the school text of Europe for nearly two thousand years. Christians read the fourth Eclogue as a prophecy of Christ, medieval legend made Virgil a magician, and Dante chose him as his guide in the Divine Comedy. Few poets have influenced so many others."
+  ]
+ },
+ {
+  "id": "horace",
+  "name": "Horace (Quintus Horatius Flaccus)",
+  "born": "65 BC",
+  "died": "8 BC",
+  "sort": -65,
+  "birthplace": "Venusia, Apulia",
+  "deathplace": "Rome",
+  "nationality": "Roman",
+  "movements": [
+   "latin-golden-age"
+  ],
+  "bio": "The great Roman lyric poet and satirist of the Augustan age, master of the ode and the verse letter. Phrases such as carpe diem come from him.",
+  "bio_full": [
+   "Quintus Horatius Flaccus was born in 65 BC at Venusia in southern Italy, the son of a freed slave who spent his savings educating him in Rome and Athens. In Athens he joined the republican army of Brutus and fought on the losing side at Philippi in 42 BC. Returning to Rome with his property confiscated, he worked as a treasury clerk and began writing poetry. Virgil introduced him to Maecenas, who became his patron and gave him a farm in the Sabine hills that he celebrated for the rest of his life. He became the leading lyric poet of Augustus's Rome, writing the official hymn for the Secular Games of 17 BC, and died in 8 BC, a few weeks after Maecenas.",
+   "Horace's works include the Satires, the Epodes, four books of Odes, two books of Epistles and the verse letter known as the Art of Poetry. He adapted Greek lyric metres to Latin with matchless skill and wrote with urbane irony about friendship, wine, love, the brevity of life and the pleasures of a moderate existence. His Art of Poetry was one of the most influential works of literary criticism ever written, setting the rules of decorum for Renaissance and neoclassical writers. Poets from Petrarch and Ben Jonson to Pope and Auden have imitated him, and many of his phrases became proverbial."
+  ]
+ },
+ {
+  "id": "ovid",
+  "name": "Ovid (Publius Ovidius Naso)",
+  "born": "43 BC",
+  "died": "AD 17 or 18",
+  "sort": -43,
+  "birthplace": "Sulmo (Sulmona), Italy",
+  "deathplace": "Tomis (Constanța), on the Black Sea",
+  "nationality": "Roman",
+  "movements": [
+   "latin-golden-age"
+  ],
+  "bio": "The witty, inventive poet of love and transformation whose Metamorphoses became the main source of classical myth for later Europe. He died in exile on the Black Sea.",
+  "bio_full": [
+   "Publius Ovidius Naso was born in 43 BC at Sulmo, east of Rome, into an equestrian family. He was trained for a legal and political career but abandoned it for poetry and quickly became the most fashionable poet of Augustan Rome with his love elegies, the Amores, the Heroides (verse letters from mythical heroines) and the mock-didactic Art of Love. Around AD 8, at the height of his fame and having just completed the Metamorphoses, he was banished by Augustus to Tomis on the Black Sea. The cause, which he called a poem and a mistake, has never been explained. He spent his last years writing poems of complaint and pleas for recall, and died in exile around AD 17.",
+   "Ovid's poetry is playful, ironic and endlessly inventive, delighting in rhetoric, paradox and psychological insight. In the Metamorphoses he linked some 250 myths of transformation into a continuous story running from the creation of the world to his own day. Medieval readers allegorised him, and for the Renaissance his works were the main storehouse of classical mythology: Shakespeare, Titian, Bernini and countless others drew on them. His tales of Pygmalion, Narcissus, Daphne and Orpheus remain the versions most people know."
+  ]
+ },
+ {
+  "id": "beowulf-poet",
+  "name": "The Beowulf poet",
+  "born": "",
+  "died": "",
+  "sort": 800,
+  "birthplace": "England",
+  "deathplace": "",
+  "nationality": "Anglo-Saxon (English)",
+  "movements": [
+   "medieval-epic-romance"
+  ],
+  "bio": "The anonymous Old English poet who composed Beowulf, the longest surviving epic in Old English. Nothing is known about him.",
+  "bio_full": [
+   "The poet of Beowulf is entirely anonymous. The poem survives in a single manuscript, the Nowell Codex, copied by two scribes around AD 1000 and now in the British Library, where it was damaged in the Cotton Library fire of 1731. When it was composed is much debated: estimates range from the seventh to the early eleventh century, with many scholars favouring the eighth. Whether it is the work of one poet or the written form of a longer oral tradition is also debated. The poet was evidently a Christian, writing in England about pagan Scandinavian heroes of an earlier age, and knew the traditional techniques of Germanic alliterative verse intimately.",
+   "The poet's art lies in the alliterative line, the dense compound words and metaphors called kennings, and a structure that balances youth and age, triumph and loss. The poem looks back at a heroic past with admiration and melancholy, aware that its heroes lacked the Christian faith of its audience. Little noticed until the nineteenth century, Beowulf was transformed in the twentieth by J. R. R. Tolkien's 1936 lecture, which argued for it as a work of art rather than merely a historical document, and it now stands at the head of English literature."
+  ]
+ },
+ {
+  "id": "turold",
+  "name": "Turold",
+  "born": "fl. c. 1100",
+  "died": "",
+  "sort": 1100,
+  "birthplace": "Normandy (probably)",
+  "deathplace": "",
+  "nationality": "French (Norman)",
+  "movements": [
+   "medieval-epic-romance"
+  ],
+  "bio": "The name in the last line of the Oxford manuscript of The Song of Roland. Whether Turold was the poet, a scribe or a performer is debated.",
+  "bio_full": [
+   "The oldest and finest manuscript of The Song of Roland, copied in England in the twelfth century and now in the Bodleian Library, Oxford, ends with a line saying that here ends the geste which Turoldus declines, an ambiguous verb that may mean composes, recites, transcribes or completes. On this basis the poem is traditionally attributed to a Norman named Turold. Attempts to identify him with real people of the period, such as a bishop of Bayeux or a monk of Fécamp, are speculative. Most scholars date the Oxford version to around 1100, but the poem drew on a much older oral tradition about the defeat of Charlemagne's rearguard at Roncevaux in 778.",
+   "Whoever Turold was, the Oxford Roland shows a powerful poetic sensibility: terse, repetitive laisses (stanzas) linked by assonance, sharply drawn scenes, and a stark moral world of loyalty, pride and sacrifice. It is the masterpiece of the chanson de geste, the Old French heroic song, and a founding text of French literature. The figure of Roland passed into Italian romance epic through Boiardo and Ariosto and remained a symbol of heroic loyalty for centuries."
+  ]
+ },
+ {
+  "id": "chretien",
+  "name": "Chrétien de Troyes",
+  "born": "fl. c. 1160–1191",
+  "died": "",
+  "sort": 1160,
+  "birthplace": "Champagne, France (probably Troyes)",
+  "deathplace": "",
+  "nationality": "French",
+  "movements": [
+   "medieval-epic-romance"
+  ],
+  "bio": "The twelfth-century French poet who created Arthurian romance, introducing Lancelot and the Holy Grail to European literature.",
+  "bio_full": [
+   "Almost nothing is known about Chrétien de Troyes beyond what he says in his works. He was active at the court of Marie de Champagne, daughter of Eleanor of Aquitaine, at Troyes from about 1160, and later dedicated his final romance to Philip, count of Flanders, who died in 1191. He wrote five Arthurian romances in octosyllabic rhyming couplets: Erec and Enide, Cligès, Yvain or the Knight of the Lion, Lancelot or the Knight of the Cart, and the unfinished Perceval or the Story of the Grail. He also translated Ovid, of which a version of the Philomela story probably survives.",
+   "Chrétien took the Celtic and Breton legends of King Arthur and turned them into a new kind of narrative poetry about individual knights, their adventures and their inner conflicts between love and duty. He was among the first to write about courtly love in narrative form, and he gave Lancelot his affair with Queen Guinevere and Perceval his encounter with a mysterious grail. His graceful, ironic, psychologically subtle romances were translated and continued across Europe, and they are the ultimate source of much of the Arthurian legend as later told by Malory, Tennyson and modern novelists and filmmakers."
+  ]
+ },
+ {
+  "id": "dante",
+  "name": "Dante Alighieri",
+  "born": "c. 1265",
+  "died": "1321",
+  "sort": 1265,
+  "birthplace": "Florence",
+  "deathplace": "Ravenna",
+  "nationality": "Italian (Florentine)",
+  "movements": [
+   "italian-trecento"
+  ],
+  "bio": "The supreme poet of the Italian language, whose Divine Comedy, a journey through Hell, Purgatory and Paradise, is one of the summits of world literature.",
+  "bio_full": [
+   "Dante Alighieri was born in Florence around 1265 into a family of minor nobility. As a boy he met Beatrice Portinari, who became the inspiration of his life's work even though he married Gemma Donati and Beatrice married another man and died young in 1290. He studied philosophy and rhetoric, wrote love poetry in the new sweet style, and gathered his early poems with prose commentary in the Vita Nuova. He entered Florentine politics on the side of the White Guelphs and served as one of the city's priors in 1300. In 1302, while away on an embassy to Rome, he was condemned and exiled by the victorious Black faction. He never returned, living at courts in Verona and elsewhere, and died in Ravenna in 1321, shortly after finishing the Comedy.",
+   "In exile Dante wrote treatises on the vernacular language and on monarchy and above all the Commedia, which later readers called divine. Its scheme is vast and precise: a hundred cantos in interlocking terza rima, a cosmos ordered by number and theology, and hundreds of historical figures judged in the afterlife. By writing it in Tuscan rather than Latin he did more than anyone to create the Italian literary language. Boccaccio lectured on him in Florence, the Romantics rediscovered him, and his visions of Hell in particular have inspired artists from Botticelli and Blake to Doré and Rodin."
+  ]
+ },
+ {
+  "id": "petrarch",
+  "name": "Petrarch (Francesco Petrarca)",
+  "born": "1304",
+  "died": "1374",
+  "sort": 1304,
+  "birthplace": "Arezzo, Tuscany",
+  "deathplace": "Arquà, near Padua",
+  "nationality": "Italian",
+  "movements": [
+   "italian-trecento",
+   "renaissance-literature"
+  ],
+  "bio": "Poet and scholar whose sonnets to Laura set the pattern for European love poetry, and whose passion for classical learning made him the father of humanism.",
+  "bio_full": [
+   "Francesco Petrarca was born in Arezzo in 1304 to a Florentine exile and grew up largely in Avignon, then the seat of the papacy. He studied law at Montpellier and Bologna but abandoned it for letters, taking minor orders that gave him church income. On Good Friday 1327 in Avignon, by his own account, he first saw Laura, the woman his poems celebrate, whose identity is uncertain; she died in the plague of 1348. Petrarch travelled widely, searched monastery libraries for lost classical texts, and in 1341 was crowned poet laureate in Rome. He spent his later years in Milan, Venice and Padua and died at Arquà in 1374.",
+   "Petrarch considered his Latin works, including the epic Africa and his many letters, his real legacy, but posterity valued most his Italian poems, the Canzoniere. In them he refined the sonnet and created a vocabulary of love as sweet torment, full of paradox, that poets in Spain, France and England imitated for three centuries. Petrarchism shaped Wyatt, Sidney, Ronsard and Shakespeare. As a scholar he recovered lost works by Cicero, promoted the study of ancient Rome and called the centuries after its fall a dark age, an idea that helped define the Renaissance."
+  ]
+ },
+ {
+  "id": "boccaccio",
+  "name": "Giovanni Boccaccio",
+  "born": "1313",
+  "died": "1375",
+  "sort": 1313,
+  "birthplace": "Certaldo or Florence",
+  "deathplace": "Certaldo, Tuscany",
+  "nationality": "Italian",
+  "movements": [
+   "italian-trecento"
+  ],
+  "bio": "Author of the Decameron, a hundred tales told during the Black Death, and a pioneer of Italian prose and humanist scholarship.",
+  "bio_full": [
+   "Giovanni Boccaccio was born in 1313, the illegitimate son of a Florentine merchant, probably in Florence or Certaldo. His father sent him to Naples to learn banking and then canon law, but he spent his time at the cultured Angevin court and began writing poems and romances in Italian. Back in Florence from about 1341, he lived through the plague of 1348, which killed perhaps half the city and provides the frame of the Decameron, completed around 1353. In 1350 he met Petrarch, who became his close friend and turned him towards classical scholarship. In his last years he gave the first public lectures on Dante in Florence. He died at Certaldo in 1375.",
+   "The Decameron established Italian prose as a literary medium and the novella as a European form. Boccaccio's tales range from bawdy farce to tragedy and show merchants, clergy, lovers and tricksters with unusual realism and humour. He also wrote vernacular poems that Chaucer used for the Knight's Tale and Troilus and Criseyde, and Latin works such as the Genealogy of the Pagan Gods and On Famous Women, which were standard reference works for centuries. Shakespeare, Chaucer, Keats and Pasolini all drew on him."
+  ]
+ },
+ {
+  "id": "chaucer",
+  "name": "Geoffrey Chaucer",
+  "born": "c. 1343",
+  "died": "1400",
+  "sort": 1343,
+  "birthplace": "London",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "medieval-epic-romance"
+  ],
+  "bio": "Often called the father of English literature, the poet of The Canterbury Tales was also a courtier, diplomat and civil servant.",
+  "bio_full": [
+   "Geoffrey Chaucer was born in London in the early 1340s, the son of a prosperous wine merchant. He served as a page in an aristocratic household, was captured while fighting in France in 1359 and ransomed, and went on to a long career in royal service under Edward III and Richard II. He travelled on diplomatic missions to France and Italy, where he encountered the works of Dante, Petrarch and Boccaccio, served as controller of customs in the port of London and later as clerk of the king's works. He married Philippa Roet, whose sister later married John of Gaunt. He died in 1400 and was buried in Westminster Abbey, the first poet in what became Poets' Corner.",
+   "Chaucer wrote in the London English of his day at a time when French and Latin were the languages of prestige, and his success did much to establish English as a literary language. His early works, such as The Book of the Duchess and The Parliament of Fowls, adapt French dream-vision poetry; Troilus and Criseyde transforms Boccaccio into a subtle tragic romance; and The Canterbury Tales presents a whole society in comic and serious stories. He introduced new verse forms, notably rhyme royal and the iambic pentameter couplet, into English. Later poets from Spenser to Dryden revered him as their founder."
+  ]
+ },
+ {
+  "id": "rabelais",
+  "name": "François Rabelais",
+  "born": "c. 1494",
+  "died": "1553",
+  "sort": 1494,
+  "birthplace": "La Devinière, near Chinon, Touraine",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "renaissance-literature"
+  ],
+  "bio": "Monk, physician and humanist whose comic saga of the giants Gargantua and Pantagruel is one of the great carnivals of European literature.",
+  "bio_full": [
+   "François Rabelais was born around 1494 near Chinon in the Loire valley, the son of a lawyer. He became a Franciscan friar and then a Benedictine, learning Greek at a time when the Sorbonne regarded it with suspicion, and corresponded with the great humanist Guillaume Budé. In the late 1520s he left the cloister, studied medicine at Montpellier and became a physician at the hospital in Lyon, where he edited Hippocrates and Galen. There in 1532 he published Pantagruel under the anagram Alcofribas Nasier, followed by Gargantua in 1534 and three further books. Protected by the powerful du Bellay family, he travelled to Rome several times, and the Sorbonne repeatedly condemned his books. He died in Paris in 1553.",
+   "Rabelais's books mix humanist learning with popular humour of the most bodily kind: feasts, drinking, lists, coined words, parodies of scholastic argument and satire of monks, lawyers and theologians. Beneath the comedy is an optimistic humanism, expressed in the utopian Abbey of Thélème, whose only rule is do what you will. His exuberant style enriched the French language with hundreds of words. The Russian critic Mikhail Bakhtin made him the centre of his theory of the carnivalesque, and writers from Swift and Sterne to Joyce acknowledged his influence."
+  ]
+ },
+ {
+  "id": "montaigne",
+  "name": "Michel de Montaigne",
+  "born": "1533",
+  "died": "1592",
+  "sort": 1533,
+  "birthplace": "Château de Montaigne, Périgord",
+  "deathplace": "Château de Montaigne, Périgord",
+  "nationality": "French",
+  "movements": [
+   "renaissance-literature"
+  ],
+  "bio": "The inventor of the essay, who made the examination of his own mind and habits into a new form of literature and philosophy.",
+  "bio_full": [
+   "Michel Eyquem de Montaigne was born in 1533 at his family's château near Bordeaux, into a wealthy merchant family recently ennobled. His father had him taught Latin as his first language. He studied law and served for thirteen years as a magistrate in the Bordeaux parlement, where he formed an intense friendship with the writer Étienne de La Boétie, whose early death in 1563 marked him deeply. In 1571 he retired to his tower library to read and write, and in 1580 published the first two books of his Essays. He travelled through Germany and Italy, served two terms as mayor of Bordeaux during the Wars of Religion, and kept revising and enlarging the Essays until his death in 1592.",
+   "Montaigne called his pieces essais, attempts or trials, and they range freely over subjects from cannibals and friendship to thumbs, cruelty and death, always returning to himself as the one subject he could know. He wrote in a conversational, digressive French, quoting the ancients constantly while doubting all certainty; his motto was What do I know? His sceptical, tolerant humanism influenced Shakespeare, who borrowed from John Florio's 1603 translation, as well as Bacon, Pascal, Descartes and Emerson. The personal essay as a literary form descends from him."
+  ]
+ },
+ {
+  "id": "cervantes",
+  "name": "Miguel de Cervantes",
+  "born": "1547",
+  "died": "1616",
+  "sort": 1547,
+  "birthplace": "Alcalá de Henares, Spain",
+  "deathplace": "Madrid",
+  "nationality": "Spanish",
+  "movements": [
+   "spanish-golden-age"
+  ],
+  "bio": "Soldier, captive, tax collector and the author of Don Quixote, widely regarded as the first modern novel and the greatest work of Spanish literature.",
+  "bio_full": [
+   "Miguel de Cervantes Saavedra was born in 1547 at Alcalá de Henares, the son of an impoverished surgeon. As a young man he went to Italy, joined the Spanish army and fought at the naval battle of Lepanto in 1571, where a wound left his left hand useless. Returning to Spain in 1575, his ship was captured by Barbary pirates and he spent five years as a slave in Algiers, attempting escape four times before being ransomed. Back in Spain he wrote plays and a pastoral romance, La Galatea, with little success, and worked as a requisitioner of supplies for the Armada and as a tax collector, landing in prison over irregular accounts. In 1605, at fifty-seven, he published the first part of Don Quixote, which was an immediate success. The second part appeared in 1615, and he died in Madrid in 1616.",
+   "Cervantes's genius lies in the play between illusion and reality, the high-flown and the everyday, and in characters who change through conversation. Don Quixote parodies chivalric romances while creating something new: a long prose fiction aware of itself as a book, full of other stories, unreliable narrators and arguments about literature. He also wrote the Exemplary Novels, twelve fine short tales, and the posthumous romance Persiles and Sigismunda. Spanish is often called the language of Cervantes, and novelists from Fielding and Sterne to Dostoevsky, Flaubert and Borges counted him as a master."
+  ]
+ },
+ {
+  "id": "marlowe",
+  "name": "Christopher Marlowe",
+  "born": "1564",
+  "died": "1593",
+  "sort": 1564,
+  "birthplace": "Canterbury",
+  "deathplace": "Deptford, near London",
+  "nationality": "English",
+  "movements": [
+   "elizabethan-jacobean"
+  ],
+  "bio": "The brilliant, short-lived Elizabethan playwright who made blank verse the voice of English drama in Tamburlaine and Doctor Faustus.",
+  "bio_full": [
+   "Christopher Marlowe was born in Canterbury in 1564, the son of a shoemaker, the same year as Shakespeare. He won a scholarship to Corpus Christi College, Cambridge, and when the university hesitated to grant his MA in 1587 the Privy Council intervened, stating that he had done the Queen good service, which has led to the belief that he worked as a government agent. In London he quickly became the leading playwright of the day with Tamburlaine the Great, followed by Doctor Faustus, The Jew of Malta and Edward II. He was accused of atheism, and in May 1593 he was stabbed to death in a house in Deptford, in a quarrel over a bill according to the inquest. The exact circumstances are still debated.",
+   "Marlowe transformed the English stage by giving it what Ben Jonson called his mighty line: thundering, sonorous blank verse. His heroes are overreachers who desire limitless power, knowledge or wealth, and his plays explore ambition, religion and transgression with a daring unusual for his time. His narrative poem Hero and Leander and the lyric The Passionate Shepherd to His Love were also widely admired. Shakespeare's early histories and tragedies owe much to him, and some scholars believe the two collaborated on the Henry VI plays."
+  ]
+ },
+ {
+  "id": "shakespeare",
+  "name": "William Shakespeare",
+  "born": "1564",
+  "died": "1616",
+  "sort": 1564,
+  "birthplace": "Stratford-upon-Avon, Warwickshire",
+  "deathplace": "Stratford-upon-Avon",
+  "nationality": "English",
+  "movements": [
+   "elizabethan-jacobean"
+  ],
+  "bio": "Playwright, poet and actor, the most widely performed dramatist in the world and the central figure of English literature.",
+  "bio_full": [
+   "William Shakespeare was baptised in Stratford-upon-Avon on 26 April 1564, the son of a glover and town official, and probably attended the local grammar school. At eighteen he married Anne Hathaway, with whom he had three children, including a son, Hamnet, who died at eleven. By 1592 he was established in London as an actor and playwright, and from 1594 he was a member and shareholder of the Lord Chamberlain's Men, later the King's Men, who built the Globe Theatre in 1599. Over about twenty-five years he wrote, alone or with collaborators, some thirty-nine plays, as well as the narrative poems Venus and Adonis and The Rape of Lucrece and a sequence of 154 sonnets. He retired to Stratford around 1613 and died there in 1616. Seven years later, two fellow actors published thirty-six of his plays in the First Folio.",
+   "Shakespeare wrote comedies, histories, tragedies and late romances, and in each he extended what the form could do. His characters, from Falstaff and Rosalind to Hamlet, Lear and Cleopatra, speak with an individual inner life that later critics saw as a new representation of human personality. His language is immensely rich, mixing high poetry and colloquial prose, and many of his phrases became part of everyday English. His reputation grew steadily, from Ben Jonson's tribute that he was not of an age but for all time to the Romantic idolatry of the nineteenth century, and his plays are now performed, translated and adapted around the world."
+  ]
+ },
+ {
+  "id": "lope-de-vega",
+  "name": "Lope de Vega",
+  "born": "1562",
+  "died": "1635",
+  "sort": 1562,
+  "birthplace": "Madrid",
+  "deathplace": "Madrid",
+  "nationality": "Spanish",
+  "movements": [
+   "spanish-golden-age"
+  ],
+  "bio": "The astonishingly prolific creator of Spain's national theatre, who claimed to have written some 1,500 plays. Cervantes called him a monster of nature.",
+  "bio_full": [
+   "Félix Lope de Vega y Carpio was born in Madrid in 1562 to a family of modest means and was writing verses before he could write, according to his own account. He studied at Alcalá, took part in a naval expedition to the Azores and sailed with the Armada in 1588. His life was turbulent: he was banished from Madrid for libelling a former lover's family, eloped with another woman, married twice and had many affairs and children. In 1614 he became a priest, but his romantic entanglements continued. Throughout he wrote at enormous speed, poems, novels and above all plays for Madrid's public theatres, which made him the most famous writer in Spain. He died in Madrid in 1635, and his funeral drew huge crowds.",
+   "In his verse treatise The New Art of Writing Plays (1609), Lope defended a popular theatre that mixed comedy and tragedy, ignored the classical unities and aimed above all to please the audience. His three-act comedia, written in a variety of verse forms, dealt with honour, love, history and peasant dignity, and established the model followed by Tirso de Molina, Calderón and others. About four hundred of his plays survive, among them Fuenteovejuna, Peribáñez and The Knight of Olmedo, along with a large body of lyric poetry."
+  ]
+ },
+ {
+  "id": "calderon",
+  "name": "Pedro Calderón de la Barca",
+  "born": "1600",
+  "died": "1681",
+  "sort": 1600,
+  "birthplace": "Madrid",
+  "deathplace": "Madrid",
+  "nationality": "Spanish",
+  "movements": [
+   "spanish-golden-age"
+  ],
+  "bio": "The last great dramatist of the Spanish Golden Age, whose Life Is a Dream turned the comedia into philosophical theatre.",
+  "bio_full": [
+   "Pedro Calderón de la Barca was born in Madrid in 1600 into a family of minor nobility and educated by the Jesuits and at the universities of Alcalá and Salamanca. His first plays were staged in the 1620s, and after Lope de Vega's death in 1635 he became the leading dramatist of Spain and the favourite playwright of Philip IV, writing lavish spectacles for the court theatre at the Buen Retiro palace. He served as a soldier in the Catalan revolt of 1640 and in 1651 was ordained a priest. In later life he wrote mainly autos sacramentales, allegorical religious plays performed at the feast of Corpus Christi. He died in Madrid in 1681.",
+   "Calderón refined Lope's popular comedia into a more tightly constructed, intellectual drama, with elaborate imagery and themes of free will, illusion, honour and divine grace. His best-known works include Life Is a Dream, The Mayor of Zalamea, The Physician of His Own Honour and the auto The Great Theatre of the World. He was rediscovered by the German Romantics, especially the Schlegel brothers and Goethe, who placed him alongside Shakespeare, and his work was translated into English by Edward FitzGerald."
+  ]
+ },
+ {
+  "id": "donne",
+  "name": "John Donne",
+  "born": "1572",
+  "died": "1631",
+  "sort": 1572,
+  "birthplace": "London",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "elizabethan-jacobean"
+  ],
+  "bio": "The foremost metaphysical poet, whose love poems and Holy Sonnets argue, joke and agonise in startling images. He ended his life as Dean of St Paul's.",
+  "bio_full": [
+   "John Donne was born in London in 1572 into a Roman Catholic family at a time when Catholics were persecuted; his brother died in prison for harbouring a priest. He studied at Oxford and Cambridge, though as a Catholic he could not take a degree, and at the Inns of Court, and sailed with the Earl of Essex on the raids on Cádiz and the Azores. He became secretary to the Lord Keeper, Sir Thomas Egerton, but his secret marriage in 1601 to Egerton's young niece Anne More cost him his post and briefly his liberty, and years of poverty followed. Having conformed to the Church of England, he was ordained in 1615 at the urging of James I, became a celebrated preacher and was appointed Dean of St Paul's Cathedral in 1621. He died in 1631.",
+   "Donne's poems, mostly published after his death in 1633, combine passionate feeling with intricate argument and far-fetched comparisons, the conceits for which Samuel Johnson later named him and his followers the metaphysical poets. His Songs and Sonnets range from cynical wit to intense devotion, and his Holy Sonnets wrestle with death and salvation. His sermons and Devotions upon Emergent Occasions are among the finest English prose of the age. Neglected in the eighteenth and nineteenth centuries, he was championed by T. S. Eliot and the modernists and is now one of the most admired English poets."
+  ]
+ },
+ {
+  "id": "milton",
+  "name": "John Milton",
+  "born": "1608",
+  "died": "1674",
+  "sort": 1608,
+  "birthplace": "London",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "english-epic-restoration"
+  ],
+  "bio": "Poet and polemicist of the English Revolution, author of Paradise Lost, the great epic of the Fall written after he had gone blind.",
+  "bio_full": [
+   "John Milton was born in London in 1608, the son of a prosperous scrivener and composer. He studied at Christ's College, Cambridge, and then spent years of private study, writing early masterpieces such as the masque Comus and the elegy Lycidas, before travelling in Italy, where he met the aged Galileo. During the conflict between King and Parliament he wrote pamphlets on church reform, divorce and, in Areopagitica (1644), freedom of the press. After the execution of Charles I he defended the regicide and served the Commonwealth as Secretary for Foreign Tongues. By 1652 he was completely blind. At the Restoration in 1660 he was briefly imprisoned and lived thereafter in retirement, dictating Paradise Lost (1667), Paradise Regained and Samson Agonistes. He died in 1674.",
+   "Milton aimed to write an epic in English to rival Homer and Virgil, and in Paradise Lost he did, in a grand, Latinate blank verse of immense learning and musical power. His treatment of Satan, whom Blake said Milton portrayed as being of the Devil's party without knowing it, has fascinated readers ever since. A fierce defender of liberty of conscience, he influenced political thought as well as poetry. Wordsworth, Blake, Shelley and Keats all wrestled with his example, and he remains, with Shakespeare, a central figure of English literature."
+  ]
+ },
+ {
+  "id": "moliere",
+  "name": "Molière (Jean-Baptiste Poquelin)",
+  "born": "1622",
+  "died": "1673",
+  "sort": 1622,
+  "birthplace": "Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "french-classicism"
+  ],
+  "bio": "Actor, manager and France's greatest comic playwright, whose Tartuffe, The Misanthrope and The Miser created the comedy of character.",
+  "bio_full": [
+   "Jean-Baptiste Poquelin was born in Paris in 1622, the son of a prosperous upholsterer to the royal household. Educated by the Jesuits, he gave up a secure future to found a theatre company in 1643 with the actress Madeleine Béjart, taking the stage name Molière. After the company's failure in Paris he spent thirteen years touring the provinces, learning his craft from Italian commedia dell'arte. Back in Paris from 1658, he won the patronage of Louis XIV and wrote a stream of comedies, including The School for Wives, Tartuffe, Don Juan, The Misanthrope, The Miser and The Bourgeois Gentleman. His attacks on hypocrisy provoked powerful enemies; Tartuffe was banned for five years. He collapsed while playing the title role of The Imaginary Invalid in 1673 and died a few hours later.",
+   "Molière combined the physical comedy of farce with sharp observation of social types, the hypocrite, the miser, the snob, the hypochondriac, the pedant and the jealous husband, and made laughter a means of moral and social criticism. Many of his plays are written in elegant alexandrine couplets. The Comédie-Française, founded in 1680 from his company, is still called the House of Molière, and French is sometimes called the language of Molière. He is among the most performed playwrights in the world."
+  ]
+ },
+ {
+  "id": "racine",
+  "name": "Jean Racine",
+  "born": "1639",
+  "died": "1699",
+  "sort": 1639,
+  "birthplace": "La Ferté-Milon, France",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "french-classicism"
+  ],
+  "bio": "The master of French classical tragedy, whose Andromaque and Phèdre distil overwhelming passion into perfectly controlled verse.",
+  "bio_full": [
+   "Jean Racine was born in 1639 at La Ferté-Milon and orphaned young. He was educated at the Jansenist abbey of Port-Royal, where he learned Greek and absorbed a severe Augustinian view of human weakness. Moving to Paris, he turned to the theatre, to the dismay of his teachers, and after early plays staged by Molière's company he achieved his first triumph with Andromaque in 1667. Over the next ten years he wrote Britannicus, Bérénice, Bajazet, Mithridate, Iphigénie and Phèdre (1677). Then he abruptly withdrew from the public theatre, married, reconciled with Port-Royal and became royal historiographer to Louis XIV. He returned to drama only for two biblical plays, Esther and Athalie, written for a girls' school at Saint-Cyr. He died in 1699.",
+   "Racine's tragedies observe the classical unities and use a small vocabulary and the twelve-syllable alexandrine with extraordinary musical precision. Within these strict limits, his characters, especially his women, are consumed by love, jealousy and guilt, and their fate unfolds with relentless logic. Where Corneille celebrated the will, Racine showed passion overwhelming it. He is regarded as the greatest French tragedian, and his plays remain central to the repertory of the Comédie-Française."
+  ]
+ },
+ {
+  "id": "defoe",
+  "name": "Daniel Defoe",
+  "born": "c. 1660",
+  "died": "1731",
+  "sort": 1660,
+  "birthplace": "London",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "rise-of-the-novel"
+  ],
+  "bio": "Merchant, spy, pamphleteer and journalist who in his late fifties wrote Robinson Crusoe, one of the founding works of the English novel.",
+  "bio_full": [
+   "Daniel Foe, who later added the aristocratic-sounding De to his name, was born in London around 1660, the son of a Dissenting tallow chandler. Educated at a Dissenting academy, he became a merchant in hosiery, wine and other goods, took part in Monmouth's rebellion of 1685 and went bankrupt more than once. He wrote hundreds of pamphlets on politics, trade and religion; one satire, The Shortest Way with the Dissenters (1702), led to his being pilloried and imprisoned. He then worked as a secret agent and propagandist for the government, notably in Scotland during the negotiations for the Union of 1707, and wrote almost single-handed a periodical, the Review. In 1719 he published Robinson Crusoe, followed by Moll Flanders, A Journal of the Plague Year and Roxana. He died in London in 1731.",
+   "Defoe's fiction presents itself as the true account of real people, told in plain, circumstantial prose full of practical detail, accounts and lists. This documentary realism, applied to the lives of ordinary or marginal people, a castaway, a thief, a courtesan, made him one of the founders of the English novel. His interest in trade, work and individual self-reliance has led critics to see his books as expressions of a new economic outlook. Robinson Crusoe has never been out of print and has been imitated so often that castaway stories are called Robinsonades."
+  ]
+ },
+ {
+  "id": "swift",
+  "name": "Jonathan Swift",
+  "born": "1667",
+  "died": "1745",
+  "sort": 1667,
+  "birthplace": "Dublin",
+  "deathplace": "Dublin",
+  "nationality": "Anglo-Irish",
+  "movements": [
+   "augustan-enlightenment"
+  ],
+  "bio": "The greatest satirist in English, author of Gulliver's Travels and A Modest Proposal, and Dean of St Patrick's Cathedral in Dublin.",
+  "bio_full": [
+   "Jonathan Swift was born in Dublin in 1667 to English parents, his father having died before his birth. He was educated at Trinity College Dublin and became secretary to the statesman Sir William Temple in England, where he met Esther Johnson, the Stella of his later letters. Ordained in the Church of Ireland, he made his name with A Tale of a Tub (1704), a satire on religious excess. In London he became a leading writer for the Tory government of 1710–14 and a friend of Pope, Gay and Arbuthnot in the Scriblerus Club. On the fall of the Tories he became Dean of St Patrick's Cathedral in Dublin, where he spent the rest of his life and became a hero to the Irish for his attacks on English policy, notably in the Drapier's Letters. Gulliver's Travels appeared in 1726. In his last years he suffered severe illness, and he died in 1745.",
+   "Swift's satire works through a deadpan persona, an earnest narrator who calmly reports or proposes absurdities, leaving the reader to recognise the horror. His targets were pride, cruelty, corruption, scientific and religious folly and the oppression of Ireland. His prose is plain, exact and devastating. Swift left money to found a hospital for the mentally ill, and his own epitaph, which he composed in Latin, speaks of the savage indignation that tore his heart. Gulliver's Travels has become both a classic of satire and, in shortened form, a children's book."
+  ]
+ },
+ {
+  "id": "voltaire",
+  "name": "Voltaire (François-Marie Arouet)",
+  "born": "1694",
+  "died": "1778",
+  "sort": 1694,
+  "birthplace": "Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "augustan-enlightenment"
+  ],
+  "bio": "The most famous writer of the French Enlightenment, a tireless campaigner against intolerance whose satirical tale Candide is still widely read.",
+  "bio_full": [
+   "François-Marie Arouet was born in Paris in 1694, the son of a notary, and educated by the Jesuits. His sharp verses landed him in the Bastille in 1717, where he adopted the name Voltaire, and his tragedy Oedipe made him famous the next year. After a quarrel with an aristocrat he was exiled to England (1726–28), where he admired the freedom of thought, Newton and Locke, and described it all in his Philosophical Letters, which were burned in Paris. He lived for years with the scientist Émilie du Châtelet at Cirey, spent an uneasy period at the court of Frederick the Great in Prussia and finally settled at Ferney, near the Swiss border, where he campaigned against judicial injustice, notably in the case of Jean Calas. He returned to Paris in triumph in 1778 and died there that year.",
+   "Voltaire wrote in almost every genre: tragedies, epic poetry, history, philosophy, tales and more than twenty thousand letters. His philosophical tales, especially Candide, Zadig and Micromégas, use irony and swift, lucid prose to ridicule dogma, superstition and complacent optimism. His slogan, crush the infamous thing, was aimed at religious fanaticism and persecution. More than any other writer he made the ideas of the Enlightenment, tolerance, reason and freedom of expression, fashionable throughout Europe, and his remains were moved to the Panthéon during the Revolution."
+  ]
+ },
+ {
+  "id": "sterne",
+  "name": "Laurence Sterne",
+  "born": "1713",
+  "died": "1768",
+  "sort": 1713,
+  "birthplace": "Clonmel, Ireland",
+  "deathplace": "London",
+  "nationality": "Anglo-Irish",
+  "movements": [
+   "rise-of-the-novel"
+  ],
+  "bio": "A Yorkshire clergyman whose Tristram Shandy, a novel of digressions, black pages and missing chapters, made him a celebrity and a forerunner of modern experimental fiction.",
+  "bio_full": [
+   "Laurence Sterne was born in 1713 at Clonmel in Ireland, the son of an English army officer, and spent his childhood moving between garrisons. He was educated at Jesus College, Cambridge, was ordained, and for over twenty years was a country parson near York, unhappily married and little known. In 1759 he published the first two volumes of The Life and Opinions of Tristram Shandy, Gentleman, which caused a sensation in London; seven more volumes followed until 1767. Suffering from tuberculosis, he travelled in France and Italy for his health, an experience he turned into A Sentimental Journey through France and Italy (1768). He died in London weeks after it appeared.",
+   "Sterne built his comedy on the idea, taken from John Locke, that the mind works by chance associations. His narrator can barely get himself born, wanders into endless digressions and plays with the printed page itself. Combined with a warm, sentimental humour, this made Sterne immensely popular across Europe; Goethe, Diderot and Pushkin admired him. In the twentieth century, writers and critics recognised in Tristram Shandy techniques of modernism and postmodernism, and the Russian formalist Viktor Shklovsky called it the most typical novel in world literature."
+  ]
+ },
+ {
+  "id": "jean-jacques-rousseau",
+  "name": "Jean-Jacques Rousseau",
+  "born": "1712",
+  "died": "1778",
+  "sort": 1712,
+  "birthplace": "Geneva",
+  "deathplace": "Ermenonville, France",
+  "nationality": "Genevan",
+  "movements": [
+   "augustan-enlightenment",
+   "romanticism-literature"
+  ],
+  "bio": "Philosopher, novelist and autobiographer whose Julie and Confessions taught Europe a new language of feeling, nature and the self.",
+  "bio_full": [
+   "Jean-Jacques Rousseau was born in Geneva in 1712; his mother died days after his birth, and he left the city at sixteen to begin a wandering life. He found a protector in Madame de Warens in Savoy, then went to Paris, where he worked as a music copyist, wrote an opera and contributed to the Encyclopédie. His Discourse on the Sciences and Arts (1750) made him famous with its argument that civilisation corrupts. His epistolary novel Julie, or the New Heloise (1761) was one of the best-selling books of the century, and Emile and The Social Contract followed in 1762. Both were condemned, and he spent years in flight and growing persecution mania, staying for a time in England with David Hume. He wrote his autobiographical Confessions and Reveries of the Solitary Walker in his last years and died near Paris in 1778.",
+   "Rousseau's influence on politics and education belongs to philosophy, but his literary impact was just as great. Julie fused a love story with descriptions of Alpine nature and moral reflection, and readers responded with tears and letters. The Confessions, which open by promising to show a man in all the truth of nature, founded modern autobiography. His cult of sincerity, sensibility and the natural world prepared the ground for Romanticism, and writers from Goethe and Wordsworth to Tolstoy acknowledged him as a liberator."
+  ]
+ },
+ {
+  "id": "goethe",
+  "name": "Johann Wolfgang von Goethe",
+  "born": "1749",
+  "died": "1832",
+  "sort": 1749,
+  "birthplace": "Frankfurt am Main",
+  "deathplace": "Weimar",
+  "nationality": "German",
+  "movements": [
+   "sturm-und-drang",
+   "romanticism-literature"
+  ],
+  "bio": "Poet, dramatist, novelist, scientist and statesman, the towering figure of German literature and author of Faust.",
+  "bio_full": [
+   "Johann Wolfgang Goethe was born in Frankfurt in 1749 into a wealthy family and studied law at Leipzig and Strasbourg, where Herder introduced him to Shakespeare, folk song and Gothic architecture. His drama Götz von Berlichingen (1773) and the novel The Sorrows of Young Werther (1774) made him the leader of the Sturm und Drang and a European celebrity at twenty-five. In 1775 he accepted an invitation from Duke Karl August to Weimar, where he spent the rest of his life as minister, theatre director and court poet. A journey to Italy in 1786–88 turned him towards classicism. His friendship with Schiller from 1794 until Schiller's death in 1805 was one of the great literary partnerships. He worked on Faust for some sixty years, completing the second part shortly before his death in Weimar in 1832.",
+   "Goethe's output is vast: lyric poetry of every kind, plays such as Iphigenia in Tauris and Torquato Tasso, the novels Wilhelm Meister's Apprenticeship, the founding Bildungsroman, and Elective Affinities, an autobiography and scientific works on plant metamorphosis and the theory of colour. He coined the idea of world literature. Many of his poems were set by Schubert, Schumann and Wolf, and Faust inspired operas by Gounod and Berlioz. For Germans he occupies a position comparable to Shakespeare's for the English, and Napoleon, meeting him, is said to have exclaimed that here was a man."
+  ]
+ },
+ {
+  "id": "blake",
+  "name": "William Blake",
+  "born": "1757",
+  "died": "1827",
+  "sort": 1757,
+  "birthplace": "London",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "romanticism-literature"
+  ],
+  "bio": "Visionary poet, painter and printmaker who etched and coloured his own illuminated books, from Songs of Innocence and of Experience to his prophetic epics.",
+  "bio_full": [
+   "William Blake was born in London in 1757, the son of a hosier, and apprenticed at fourteen to the engraver James Basire. He studied briefly at the Royal Academy, married Catherine Boucher, who became his collaborator, and worked all his life as a commercial engraver. From childhood he reported visions of angels and spirits. In 1788 he developed a method of relief etching that let him print text and image together, which he used for Songs of Innocence (1789), Songs of Experience (1794) and a series of prophetic books including The Marriage of Heaven and Hell, Milton and Jerusalem. He spent three years in Felpham on the Sussex coast and was tried, and acquitted, for sedition in 1804. He lived and died in poverty in London in 1827, admired by a small circle of young artists.",
+   "Blake's poetry ranges from the simple-seeming lyrics of the Songs to dense mythological epics populated by his own invented beings, such as Urizen and Los. He attacked rationalism, repressive religion, slavery and the industrial and social conditions of his day, and believed in the imagination as the divine in humanity. Little known in his lifetime, he was rediscovered by the Pre-Raphaelites and Yeats, and his lyrics, such as The Tyger and the verses known as Jerusalem, are now among the best known in English."
+  ]
+ },
+ {
+  "id": "wordsworth",
+  "name": "William Wordsworth",
+  "born": "1770",
+  "died": "1850",
+  "sort": 1770,
+  "birthplace": "Cockermouth, Cumberland",
+  "deathplace": "Rydal Mount, Westmorland",
+  "nationality": "English",
+  "movements": [
+   "romanticism-literature"
+  ],
+  "bio": "The central poet of English Romanticism, who made memory, nature and ordinary life the subject of great poetry. Poet Laureate from 1843.",
+  "bio_full": [
+   "William Wordsworth was born in 1770 in Cockermouth in the Lake District and lost both parents as a boy. He studied at St John's College, Cambridge, and in 1790–92 travelled in revolutionary France, where he was swept up in republican enthusiasm and fathered a daughter with Annette Vallon. War between Britain and France separated them, and the Terror disillusioned him. From 1795 he lived with his sister Dorothy, whose journals often inspired his poems, and formed a close friendship with Coleridge, with whom he published Lyrical Ballads in 1798. In 1799 he settled at Dove Cottage in Grasmere, married Mary Hutchinson and later moved to Rydal Mount. His political views became conservative, and he succeeded Southey as Poet Laureate in 1843. He died in 1850; his great autobiographical poem The Prelude was published that year.",
+   "In the preface to Lyrical Ballads, Wordsworth called for poetry in the real language of men and defined poetry as the spontaneous overflow of powerful feelings, recollected in tranquillity. His best work, written roughly between 1797 and 1807, explores the growth of the mind, childhood memory and the healing power of landscape, in poems such as Tintern Abbey, the Immortality Ode and The Prelude. He changed what English poetry could be about and influenced not only later poets but also the way people value nature and wilderness."
+  ]
+ },
+ {
+  "id": "coleridge",
+  "name": "Samuel Taylor Coleridge",
+  "born": "1772",
+  "died": "1834",
+  "sort": 1772,
+  "birthplace": "Ottery St Mary, Devon",
+  "deathplace": "Highgate, London",
+  "nationality": "English",
+  "movements": [
+   "romanticism-literature"
+  ],
+  "bio": "Poet, critic and philosopher, co-author with Wordsworth of Lyrical Ballads and creator of The Rime of the Ancient Mariner and Kubla Khan.",
+  "bio_full": [
+   "Samuel Taylor Coleridge was born in 1772 at Ottery St Mary in Devon, the youngest son of a vicar, and educated at Christ's Hospital in London and Jesus College, Cambridge, which he left without a degree after briefly enlisting in the dragoons under a false name. With Robert Southey he planned an ideal community in America that never materialised. In 1797 he settled near Wordsworth in Somerset, and their year of intense collaboration produced Lyrical Ballads, which opened with his Rime of the Ancient Mariner. He studied philosophy in Germany, moved to the Lake District, and struggled for most of his adult life with opium addiction and an unhappy marriage. From 1816 he lived in Highgate in the house of the physician James Gillman, where he became a famous talker and sage. He died there in 1834.",
+   "Coleridge's poetic output is small but includes some of the most haunting poems in English: the Ancient Mariner, Christabel, Kubla Khan and the conversation poems such as Frost at Midnight. As a critic he was equally important. His Biographia Literaria (1817) and lectures on Shakespeare introduced German Romantic philosophy to Britain, distinguished imagination from fancy, and gave the phrase the willing suspension of disbelief. He shaped how the nineteenth century thought about poetry, religion and the state."
+  ]
+ },
+ {
+  "id": "austen",
+  "name": "Jane Austen",
+  "born": "1775",
+  "died": "1817",
+  "sort": 1775,
+  "birthplace": "Steventon, Hampshire",
+  "deathplace": "Winchester, Hampshire",
+  "nationality": "English",
+  "movements": [
+   "rise-of-the-novel",
+   "romanticism-literature"
+  ],
+  "bio": "The novelist of English country society whose six novels, including Pride and Prejudice and Emma, combine sharp irony with deep moral seriousness.",
+  "bio_full": [
+   "Jane Austen was born in 1775 at Steventon in Hampshire, the seventh of eight children of a country clergyman. She was educated mainly at home, in a lively, bookish family that staged plays and read novels aloud, and began writing comic pieces as a girl. She never married; she accepted a proposal in 1802 but withdrew her consent the next day. After her father's retirement the family lived in Bath and Southampton, and in 1809 she settled with her mother and sister Cassandra in a cottage at Chawton provided by her brother Edward. There she revised and published Sense and Sensibility (1811), Pride and Prejudice (1813), Mansfield Park (1814) and Emma (1815), all anonymously. She fell ill in 1816 and died in Winchester in 1817. Northanger Abbey and Persuasion appeared after her death.",
+   "Austen limited herself, as she said, to three or four families in a country village, and within that world she examined money, marriage, class and moral judgement with exactness and wit. She perfected free indirect discourse, which lets the narrative voice slip in and out of a character's thoughts, giving readers both sympathy and ironic distance. Her reputation grew slowly through the nineteenth century and then enormously in the twentieth, through scholarship, a devoted readership and countless film and television adaptations. She is now among the most widely read novelists in English."
+  ]
+ },
+ {
+  "id": "byron",
+  "name": "Lord Byron (George Gordon Byron)",
+  "born": "1788",
+  "died": "1824",
+  "sort": 1788,
+  "birthplace": "London",
+  "deathplace": "Missolonghi, Greece",
+  "nationality": "English",
+  "movements": [
+   "romanticism-literature"
+  ],
+  "bio": "The most famous poet of his age, whose brooding heroes and scandalous life created the Byronic legend. He died supporting Greek independence.",
+  "bio_full": [
+   "George Gordon Byron was born in London in 1788, with a deformed right foot, and inherited his great-uncle's title at ten. Educated at Harrow and Trinity College, Cambridge, he travelled through Portugal, Spain, Albania and Greece in 1809–11, and the first two cantos of Childe Harold's Pilgrimage, based on these travels, made him famous overnight in 1812. A string of affairs, debts and a short, disastrous marriage to Annabella Milbanke, together with rumours of incest with his half-sister Augusta, drove him from England in 1816, never to return. In Switzerland he spent a summer with Percy and Mary Shelley; in Italy he lived in Venice, Ravenna and Pisa and wrote his comic masterpiece Don Juan. In 1823 he went to Greece to support the war of independence against the Ottomans and died of fever at Missolonghi in 1824.",
+   "Byron created the Byronic hero, proud, melancholy, guilty and defiant, a figure who fascinated Europe and influenced Pushkin, Lermontov, Delacroix, Berlioz and countless others. Yet his greatest achievement is arguably the comic, conversational and satirical Don Juan, written in ottava rima with brilliant rhymes and digressions. He was admired abroad perhaps even more than at home, and his death made him a national hero in Greece. His daughter Ada Lovelace became a pioneer of computing."
+  ]
+ },
+ {
+  "id": "percy-shelley",
+  "name": "Percy Bysshe Shelley",
+  "born": "1792",
+  "died": "1822",
+  "sort": 1792,
+  "birthplace": "Field Place, Horsham, Sussex",
+  "deathplace": "Gulf of La Spezia, Italy",
+  "nationality": "English",
+  "movements": [
+   "romanticism-literature"
+  ],
+  "bio": "Radical Romantic poet of Ozymandias, Ode to the West Wind and Prometheus Unbound, who drowned off the Italian coast at twenty-nine.",
+  "bio_full": [
+   "Percy Bysshe Shelley was born in 1792 into a wealthy Sussex family and educated at Eton and University College, Oxford, from which he was expelled in 1811 for co-writing a pamphlet titled The Necessity of Atheism. That year he eloped with sixteen-year-old Harriet Westbrook. In 1814 he left her for Mary Godwin, daughter of the philosopher William Godwin and Mary Wollstonecraft, and they married in 1816 after Harriet's suicide. Ostracised in England and denied custody of his children, Shelley moved to Italy in 1818, where he wrote most of his major works, including Prometheus Unbound, The Cenci, Ode to the West Wind and Adonais, an elegy for Keats. In July 1822 his boat sank in a storm in the Gulf of La Spezia, and he drowned. His body was cremated on the beach near Viareggio.",
+   "Shelley was a political radical, vegetarian and atheist who believed poetry could change the world; his Defence of Poetry ends by calling poets the unacknowledged legislators of the world. His verse is musical, rapid and abstract, full of images of wind, light, clouds and fire, and his political poems, such as The Mask of Anarchy, were later read by Chartists and campaigners for non-violent protest. Long condemned as immoral, he was championed by the Victorians as a lyric genius and remains one of the major English Romantic poets."
+  ]
+ },
+ {
+  "id": "mary-shelley",
+  "name": "Mary Shelley",
+  "born": "1797",
+  "died": "1851",
+  "sort": 1797,
+  "birthplace": "London",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "romanticism-literature"
+  ],
+  "bio": "Author of Frankenstein, begun at nineteen during a ghost-story contest with Byron and Percy Shelley, and a founding work of science fiction.",
+  "bio_full": [
+   "Mary Wollstonecraft Godwin was born in London in 1797, the daughter of the philosopher William Godwin and the feminist Mary Wollstonecraft, who died days after her birth. She grew up among her father's intellectual circle, and at sixteen eloped to the Continent with the married poet Percy Bysshe Shelley, whom she married in 1816. That summer, near Geneva with Byron and his physician John Polidori, she conceived the story that became Frankenstein, published anonymously in 1818. The following years in Italy were marked by the deaths of three of her four children and, in 1822, of Shelley himself. Returning to England with her surviving son, she supported herself by writing novels, including The Last Man (1826), stories, travel writing and biographies, and edited Shelley's poems. She died in London in 1851.",
+   "Frankenstein combines the Gothic novel with Romantic ideas about creation, ambition and the outcast, and with contemporary science about galvanism and the origins of life. Its framing of nested narratives and the eloquent voice of the creature give it unusual depth. The novel has had an enormous afterlife on stage and screen and is often called the first true work of science fiction. The Last Man, a story of humanity destroyed by plague, is also now regarded as a pioneering work of the genre."
+  ]
+ },
+ {
+  "id": "keats",
+  "name": "John Keats",
+  "born": "1795",
+  "died": "1821",
+  "sort": 1795,
+  "birthplace": "London",
+  "deathplace": "Rome",
+  "nationality": "English",
+  "movements": [
+   "romanticism-literature"
+  ],
+  "bio": "The Romantic poet of the great odes, who wrote almost all his major work in a few years before dying of tuberculosis at twenty-five.",
+  "bio_full": [
+   "John Keats was born in London in 1795, the son of a livery-stable keeper; his father died when he was eight and his mother when he was fourteen. He trained as a surgeon at Guy's Hospital and qualified as an apothecary, but gave up medicine for poetry. Leigh Hunt published his early sonnets, including On First Looking into Chapman's Homer, and his first collection appeared in 1817, followed by the long poem Endymion (1818), which hostile reviewers mocked. In 1818 he nursed his brother Tom through his fatal tuberculosis and fell in love with Fanny Brawne. In an astonishing burst in 1819 he wrote The Eve of St Agnes, La Belle Dame sans Merci, the great odes and Hyperion. Already ill with tuberculosis, he travelled to Rome for his health in 1820 and died there in February 1821.",
+   "Keats's poetry is famed for its sensuous imagery, its rich music and its meditation on beauty, mortality and art. His letters, full of ideas such as negative capability, the capacity to rest in uncertainty without reaching after fact and reason, are among the finest by any English poet. His short life became a Romantic legend, fixed by Shelley's elegy Adonais, and the Victorians, the Pre-Raphaelites and later poets made him one of the best loved of all English poets."
+  ]
+ },
+ {
+  "id": "pushkin",
+  "name": "Alexander Pushkin",
+  "born": "1799",
+  "died": "1837",
+  "sort": 1799,
+  "birthplace": "Moscow",
+  "deathplace": "Saint Petersburg",
+  "nationality": "Russian",
+  "movements": [
+   "romanticism-literature",
+   "russian-golden-age"
+  ],
+  "bio": "The founder of modern Russian literature, author of Eugene Onegin and The Bronze Horseman, killed in a duel at thirty-seven.",
+  "bio_full": [
+   "Alexander Sergeyevich Pushkin was born in Moscow in 1799 into an old noble family; his maternal great-grandfather, Abram Gannibal, had been brought to Russia as an African child and became a general under Peter the Great. Educated at the new lycée at Tsarskoye Selo, he was already a celebrated poet when he graduated. His political verses led to exile in the south of Russia in 1820 and then to confinement on his mother's estate at Mikhailovskoye. Pardoned by Nicholas I in 1826, he remained under the tsar's personal censorship. He married the beautiful Natalya Goncharova in 1831. Rumours of an affair between her and the French officer Georges d'Anthès led Pushkin to challenge him to a duel in January 1837, in which he was mortally wounded.",
+   "Pushkin wrote lyric poems, narrative poems, the novel in verse Eugene Onegin, the historical drama Boris Godunov, the Little Tragedies, prose tales such as The Queen of Spades and the historical novel The Captain's Daughter. He fused the Russian vernacular with the literary language and achieved a clarity, lightness and range that made him the foundation on which Gogol, Lermontov, Tolstoy and Dostoevsky built. Many of his works became operas by Glinka, Mussorgsky and Tchaikovsky. In Russia he is regarded as the national poet, beyond comparison."
+  ]
+ },
+ {
+  "id": "hugo",
+  "name": "Victor Hugo",
+  "born": "1802",
+  "died": "1885",
+  "sort": 1802,
+  "birthplace": "Besançon, France",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "romanticism-literature"
+  ],
+  "bio": "The giant of French Romanticism, poet, dramatist and novelist of Notre-Dame de Paris and Les Misérables, and a republican exile under Napoleon III.",
+  "bio_full": [
+   "Victor-Marie Hugo was born in Besançon in 1802, the son of an officer in Napoleon's army, and spent part of his childhood in Italy and Spain. He published his first collection of odes at twenty and soon led the young Romantics. The preface to his play Cromwell (1827) was their manifesto, and the riotous premiere of Hernani in 1830 marked their victory over classicism. Notre-Dame de Paris appeared in 1831. The drowning of his daughter Léopoldine in 1843 devastated him. Elected to the Assembly, he opposed Louis-Napoleon's coup of 1851 and went into exile for nearly twenty years, mainly on Guernsey, where he wrote Les Contemplations, The Legend of the Ages and Les Misérables. He returned to Paris in 1870 as a national symbol and died in 1885; some two million people attended his funeral and burial in the Panthéon.",
+   "Hugo's work is enormous in scale and range: lyric and epic poetry, verse drama, novels, essays, political speeches and some four thousand drawings. He championed the mixing of the sublime and the grotesque, sympathy for the poor and the outcast, and campaigns against the death penalty and for universal education. His novels have become global myths through stage musicals and films, while in France he is remembered above all as the greatest poet of the nineteenth century."
+  ]
+ },
+ {
+  "id": "balzac",
+  "name": "Honoré de Balzac",
+  "born": "1799",
+  "died": "1850",
+  "sort": 1799,
+  "birthplace": "Tours, France",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "realism-literature"
+  ],
+  "bio": "The tireless creator of La Comédie humaine, a cycle of nearly a hundred novels and stories that portrays the whole of French society after Napoleon.",
+  "bio_full": [
+   "Honoré Balzac, who added the aristocratic de himself, was born in Tours in 1799 and sent to a harsh boarding school, then trained in law in Paris. Determined to be a writer, he produced potboiler novels under pseudonyms and lost heavily in ventures as a publisher and printer, leaving debts that pursued him all his life. His first success under his own name was The Chouans (1829), and over the next twenty years he wrote at a ferocious pace, often through the night fuelled by coffee. In 1842 he gathered his novels under the title La Comédie humaine. He conducted a long correspondence and affair with the Polish countess Ewelina Hańska, whom he finally married in 1850, a few months before his death in Paris.",
+   "Balzac's innovation was to link his novels through recurring characters, so that bankers, journalists, courtesans, criminals and provincial families reappear across books and form a vast fictional society. He described rooms, money, clothes and ambitions in minute detail, convinced that environment shapes people as it shapes animal species. His masterpieces include Eugénie Grandet, Père Goriot, Lost Illusions and Cousin Bette. Marx and Engels said they learned more about French society from him than from the historians, and novelists from Zola to Proust learned from his method."
+  ]
+ },
+ {
+  "id": "gogol",
+  "name": "Nikolai Gogol",
+  "born": "1809",
+  "died": "1852",
+  "sort": 1809,
+  "birthplace": "Sorochyntsi, Poltava Governorate (now Ukraine)",
+  "deathplace": "Moscow",
+  "nationality": "Russian (Ukrainian-born)",
+  "movements": [
+   "russian-golden-age"
+  ],
+  "bio": "The grotesque comic genius of Russian literature, author of The Government Inspector, The Overcoat and Dead Souls.",
+  "bio_full": [
+   "Nikolai Vasilyevich Gogol was born in 1809 in the village of Sorochyntsi in the Poltava region of Ukraine, into a family of minor gentry. He moved to Saint Petersburg in 1828, failed as a civil servant, actor and history lecturer, and found fame with Evenings on a Farm near Dikanka (1831–32), stories of Ukrainian folk life admired by Pushkin. His comedy The Government Inspector (1836), a satire on provincial corruption, was approved by Nicholas I himself but caused uproar. Gogol spent much of the following decade in Rome, where he wrote Dead Souls, published in 1842. In later years he fell under the influence of a fanatical priest, burned the manuscript of the second part of Dead Souls and starved himself, dying in Moscow in 1852.",
+   "Gogol's world is absurd, fantastic and pathetic at once: a nose that leaves its owner's face, a poor clerk who dies for the loss of an overcoat, a swindler buying the names of dead serfs. His prose, full of digressions, odd details and verbal fireworks, combines satire with a deep sense of the strangeness of reality. Dostoevsky is said to have remarked that the Russian writers all came out from under Gogol's overcoat, and Nabokov, Bulgakov and Kafka have been compared with him."
+  ]
+ },
+ {
+  "id": "poe",
+  "name": "Edgar Allan Poe",
+  "born": "1809",
+  "died": "1849",
+  "sort": 1809,
+  "birthplace": "Boston, Massachusetts",
+  "deathplace": "Baltimore, Maryland",
+  "nationality": "American",
+  "movements": [
+   "american-renaissance"
+  ],
+  "bio": "Poet, critic and master of the macabre tale, who invented the modern detective story and profoundly influenced French Symbolism.",
+  "bio_full": [
+   "Edgar Poe was born in Boston in 1809 to travelling actors; his father deserted the family and his mother died when he was two. He was taken in by John Allan, a Richmond merchant, whose name he added to his own, though he was never formally adopted. He studied briefly at the University of Virginia, enlisted in the army and was expelled from West Point. He published his first poems in 1827 and spent the rest of his life as a struggling magazine editor and critic in Richmond, Philadelphia and New York. In 1836 he married his thirteen-year-old cousin Virginia Clemm, who died of tuberculosis in 1847. The Raven (1845) made him famous but not prosperous. He died in Baltimore in 1849 in mysterious circumstances, having been found delirious in the street.",
+   "Poe believed that a poem or tale should produce a single unified effect, and his stories of terror, such as The Fall of the House of Usher, The Tell-Tale Heart and The Cask of Amontillado, are tightly built to do so. In The Murders in the Rue Morgue (1841) he created the first fictional detective, C. Auguste Dupin, and he also pioneered science fiction. Baudelaire translated him and Mallarmé and Valéry revered him, so that Poe's influence on French poetry was greater than in his own country. Through Conan Doyle, Lovecraft and horror film he remains one of the most popular American writers."
+  ]
+ },
+ {
+  "id": "hawthorne",
+  "name": "Nathaniel Hawthorne",
+  "born": "1804",
+  "died": "1864",
+  "sort": 1804,
+  "birthplace": "Salem, Massachusetts",
+  "deathplace": "Plymouth, New Hampshire",
+  "nationality": "American",
+  "movements": [
+   "american-renaissance"
+  ],
+  "bio": "The novelist of New England's Puritan past, whose The Scarlet Letter explores sin, guilt and hypocrisy.",
+  "bio_full": [
+   "Nathaniel Hathorne, who later added a w to his name, was born in Salem, Massachusetts, in 1804; one of his ancestors had been a judge in the Salem witch trials. He studied at Bowdoin College alongside Longfellow and the future president Franklin Pierce, then spent a decade in near seclusion in Salem writing tales, published as Twice-Told Tales in 1837. He briefly joined the utopian community of Brook Farm, married the painter Sophia Peabody, and worked at the Boston and Salem custom houses. The Scarlet Letter (1850) made his name and was followed by The House of the Seven Gables and The Blithedale Romance. His friend Pierce appointed him consul in Liverpool, and he later lived in Italy. He died in 1864 while travelling in New Hampshire.",
+   "Hawthorne called his novels romances, meaning that they mixed realism with symbol, allegory and the supernatural to probe moral and psychological truth. Ambiguous symbols, such as the scarlet A, the minister's black veil or the birthmark, are at the heart of his tales, and his recurring concerns are hidden guilt, pride and the legacy of the Puritan past. Melville dedicated Moby-Dick to him, and Henry James wrote a study of him. He is a founding figure of American fiction."
+  ]
+ },
+ {
+  "id": "charlotte-bronte",
+  "name": "Charlotte Brontë",
+  "born": "1816",
+  "died": "1855",
+  "sort": 1816,
+  "birthplace": "Thornton, Yorkshire",
+  "deathplace": "Haworth, Yorkshire",
+  "nationality": "English",
+  "movements": [
+   "realism-literature",
+   "romanticism-literature"
+  ],
+  "bio": "Author of Jane Eyre, the eldest of the three Brontë sisters who wrote in a remote Yorkshire parsonage.",
+  "bio_full": [
+   "Charlotte Brontë was born in 1816 at Thornton in Yorkshire, the third of six children of the Irish-born clergyman Patrick Brontë, who moved the family to the parsonage at Haworth on the moors. Her mother died in 1821 and her two elder sisters died of tuberculosis contracted at a harsh boarding school, which she later portrayed as Lowood in Jane Eyre. With her siblings Branwell, Emily and Anne she invented elaborate imaginary kingdoms in childhood writings. She worked as a teacher and governess and studied in Brussels, where she fell unhappily in love with her married teacher Constantin Héger. In 1846 the sisters published a joint volume of poems as Currer, Ellis and Acton Bell, and in 1847 Jane Eyre became a sensation. Within two years Branwell, Emily and Anne were dead. She wrote Shirley and Villette, married her father's curate Arthur Bell Nicholls in 1854 and died in pregnancy in 1855.",
+   "Charlotte Brontë gave the English novel an intense first-person voice of female passion, independence and moral conviction, set against the constraints of class and gender. Her novels draw on Gothic and Romantic elements but are rooted in sharply observed experience. Elizabeth Gaskell's biography of her (1857) created the legend of the Brontës, and Jane Eyre has inspired countless adaptations and responses, notably Jean Rhys's Wide Sargasso Sea, which retells the story of Rochester's first wife."
+  ]
+ },
+ {
+  "id": "emily-bronte",
+  "name": "Emily Brontë",
+  "born": "1818",
+  "died": "1848",
+  "sort": 1818,
+  "birthplace": "Thornton, Yorkshire",
+  "deathplace": "Haworth, Yorkshire",
+  "nationality": "English",
+  "movements": [
+   "romanticism-literature"
+  ],
+  "bio": "The poet and novelist of Wuthering Heights, a single novel of wild passion on the Yorkshire moors. She died at thirty.",
+  "bio_full": [
+   "Emily Jane Brontë was born at Thornton in Yorkshire in 1818 and grew up at Haworth parsonage, which she left only briefly, for school, a few months as a teacher near Halifax and a period studying in Brussels with Charlotte in 1842. With her younger sister Anne she created the imaginary kingdom of Gondal, the setting of many of her poems. She was reserved and fiercely independent, devoted to the moors and to her animals. Her poems appeared in the sisters' joint collection of 1846 under the name Ellis Bell, and Wuthering Heights was published in December 1847. She caught a cold at the funeral of her brother Branwell in September 1848, refused medical help and died of tuberculosis that December.",
+   "Wuthering Heights puzzled and shocked its first reviewers with its violence, its intricate nested narration and the elemental love between Catherine and Heathcliff. It is now considered one of the greatest English novels, a work that fuses Romantic intensity with a rigorous structure. Emily's poems, with their visionary independence and stoicism, are also highly regarded; Emily Dickinson admired them and asked for No coward soul is mine to be read at her funeral."
+  ]
+ },
+ {
+  "id": "dickens",
+  "name": "Charles Dickens",
+  "born": "1812",
+  "died": "1870",
+  "sort": 1812,
+  "birthplace": "Portsmouth, Hampshire",
+  "deathplace": "Gad's Hill Place, Kent",
+  "nationality": "English",
+  "movements": [
+   "realism-literature"
+  ],
+  "bio": "The most popular novelist of the Victorian age, creator of Oliver Twist, Scrooge, David Copperfield and a gallery of unforgettable characters.",
+  "bio_full": [
+   "Charles John Huffam Dickens was born in Portsmouth in 1812, the son of a navy pay clerk who was imprisoned for debt in 1824; the twelve-year-old Charles was sent to work in a blacking factory, an experience he never forgot. He became a law clerk and then a parliamentary reporter, and published sketches of London life under the name Boz. The Pickwick Papers (1836–37), issued in monthly parts, made him a phenomenon at twenty-five. Over the next three decades he wrote fifteen novels, including Oliver Twist, A Christmas Carol, David Copperfield, Bleak House, Little Dorrit, A Tale of Two Cities and Great Expectations, while editing magazines and campaigning on social issues. He separated from his wife Catherine in 1858, gave hugely popular public readings in Britain and America, and died at his home near Rochester in 1870, leaving The Mystery of Edwin Drood unfinished.",
+   "Dickens's novels combine comedy, melodrama, satire and social protest, and are populated by grotesque and vivid characters with memorable names and speech. Published in instalments, they reached an enormous public, and he used them to attack the workhouse, debtors' prisons, the law's delays and the exploitation of children. His imaginative vision of London, fog, crowds and all, shaped how the city was seen. Dostoevsky, Kafka and many later writers admired him, and his stories have been adapted for stage and screen more than those of almost any other novelist."
+  ]
+ },
+ {
+  "id": "melville",
+  "name": "Herman Melville",
+  "born": "1819",
+  "died": "1891",
+  "sort": 1819,
+  "birthplace": "New York City",
+  "deathplace": "New York City",
+  "nationality": "American",
+  "movements": [
+   "american-renaissance"
+  ],
+  "bio": "Sailor, novelist and poet whose Moby-Dick, ignored in his lifetime, is now regarded as one of the greatest American novels.",
+  "bio_full": [
+   "Herman Melville was born in New York in 1819 into a distinguished family whose fortunes collapsed with his father's bankruptcy and death in 1832. After working as a clerk and teacher, he went to sea, first on a merchant ship to Liverpool and in 1841 on the whaler Acushnet to the Pacific. He deserted in the Marquesas, lived for a time among the islanders, and returned home by way of Tahiti and Hawaii. His novels based on these adventures, Typee (1846) and Omoo, were popular successes. He married, settled on a farm near Pittsfield, Massachusetts, where he befriended Hawthorne, and wrote Moby-Dick (1851), which sold poorly. Later works, including Pierre, Bartleby and The Confidence-Man, fared worse. From 1866 he worked for nineteen years as a customs inspector in New York, writing poetry in obscurity, and died in 1891, leaving the manuscript of Billy Budd.",
+   "Melville moved from adventure narrative to metaphysical inquiry, combining the facts of whaling and seafaring with Shakespearean drama, philosophical speculation and dark questioning of God and fate. He was all but forgotten at his death, and the Melville revival of the 1920s, which began on the centenary of his birth, transformed him into a central figure of American literature. His short works Bartleby, the Scrivener and Benito Cereno are also classics, and Billy Budd was published only in 1924."
+  ]
+ },
+ {
+  "id": "whitman",
+  "name": "Walt Whitman",
+  "born": "1819",
+  "died": "1892",
+  "sort": 1819,
+  "birthplace": "West Hills, Long Island, New York",
+  "deathplace": "Camden, New Jersey",
+  "nationality": "American",
+  "movements": [
+   "american-renaissance"
+  ],
+  "bio": "The poet of Leaves of Grass, who celebrated democracy, the body and the self in a sweeping free verse that changed poetry.",
+  "bio_full": [
+   "Walter Whitman was born in 1819 at West Hills on Long Island and grew up in Brooklyn, leaving school at eleven. He worked as a printer, teacher, journalist and editor of several newspapers, including the Brooklyn Daily Eagle. In 1855 he self-published the first edition of Leaves of Grass, twelve untitled poems with his portrait in workman's clothes in place of a name on the title page. Emerson greeted it as the beginning of a great career. Whitman revised and expanded the book for the rest of his life, through nine editions. During the Civil War he worked in Washington as a government clerk and volunteered daily in military hospitals, an experience reflected in Drum-Taps and his elegies for Lincoln. After a stroke in 1873 he settled in Camden, New Jersey, where he died in 1892.",
+   "Whitman abandoned rhyme and regular metre for long, rolling lines built on repetition and catalogues, drawing on the rhythms of the Bible and oratory. His poems embrace all of America, its workers, cities, landscapes and contradictions, and speak frankly of the body and sexuality, which made the book notorious. He has been read as the poet of American democracy and as a pioneer voice of same-sex love. Nearly every later American poet has defined themselves in relation to him, and his influence spread to poets as different as Pessoa, Neruda and Ginsberg."
+  ]
+ },
+ {
+  "id": "flaubert",
+  "name": "Gustave Flaubert",
+  "born": "1821",
+  "died": "1880",
+  "sort": 1821,
+  "birthplace": "Rouen, France",
+  "deathplace": "Croisset, near Rouen",
+  "nationality": "French",
+  "movements": [
+   "realism-literature"
+  ],
+  "bio": "The perfectionist author of Madame Bovary, who made the novel an art of style and impersonal observation.",
+  "bio_full": [
+   "Gustave Flaubert was born in Rouen in 1821, the son of the chief surgeon of the city's hospital. Sent to Paris to study law, he suffered an epileptic-type seizure in 1844 and gave up his studies to live with his mother at the family house at Croisset on the Seine, where he spent most of his life writing. He travelled through Egypt and the Middle East in 1849–51 with his friend Maxime Du Camp. Madame Bovary was serialised in 1856, and he and its publishers were prosecuted for offending public morals; their acquittal in 1857 made the book a bestseller. He went on to write Salammbô, a novel of ancient Carthage, Sentimental Education (1869), The Temptation of Saint Anthony and Three Tales. He was a mentor to Maupassant and friend of George Sand and Turgenev, and died at Croisset in 1880, leaving Bouvard and Pécuchet unfinished.",
+   "Flaubert sought what he called le mot juste, the exact word, and laboured for days over single pages, reading his sentences aloud in what he called his shouting room. He believed the author should be present everywhere in the work but visible nowhere, and his impersonal, ironic narration and use of free indirect style became central techniques of the modern novel. Henry James, Joyce, Kafka and Nabokov all revered him. His letters, full of ideas about art and contempt for bourgeois stupidity, are among the great literary correspondences."
+  ]
+ },
+ {
+  "id": "baudelaire",
+  "name": "Charles Baudelaire",
+  "born": "1821",
+  "died": "1867",
+  "sort": 1821,
+  "birthplace": "Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "symbolism-aestheticism"
+  ],
+  "bio": "Poet of Les Fleurs du mal and the prose poems of Paris Spleen, art critic and translator of Poe, often called the first modern poet.",
+  "bio_full": [
+   "Charles Baudelaire was born in Paris in 1821. His father died when he was six, and his mother married an army officer, General Aupick, whom Charles resented. Expelled from school and leading a bohemian life, he was sent on a voyage towards India in 1841 but turned back at Mauritius and Réunion. On coming of age he quickly ran through much of his inheritance, and his family placed his money under legal guardianship, leaving him in debt for life. He wrote art criticism, praising Delacroix and later Constantin Guys as the painter of modern life, and translated Poe's tales. Les Fleurs du mal appeared in 1857; he was prosecuted, fined and six poems were banned. A second, expanded edition came out in 1861. Ill with syphilis, he spent two unhappy years in Belgium, suffered a stroke and died in Paris in 1867.",
+   "Baudelaire combined classical verse forms with a modern subject matter of city streets, crowds, prostitutes, rag-pickers, boredom and moral decay, and found strange beauty in it. His theory of correspondences, the idea that perfumes, colours and sounds answer each other, inspired the Symbolists. His prose poems helped create a new genre. Verlaine, Rimbaud and Mallarmé followed him, and through them and T. S. Eliot his vision of the modern city entered twentieth-century poetry."
+  ]
+ },
+ {
+  "id": "george-eliot",
+  "name": "George Eliot (Mary Ann Evans)",
+  "born": "1819",
+  "died": "1880",
+  "sort": 1819,
+  "birthplace": "Nuneaton, Warwickshire",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "realism-literature"
+  ],
+  "bio": "The great Victorian novelist of Middlemarch, a translator and intellectual who wrote under a male pen name.",
+  "bio_full": [
+   "Mary Ann Evans was born in 1819 on an estate in Warwickshire where her father was a land agent. Intensely religious as a young woman, she lost her faith through reading biblical criticism, and translated David Friedrich Strauss's Life of Jesus (1846) and Feuerbach's Essence of Christianity. In London she became assistant editor of the radical Westminster Review. In 1854 she began living openly with the critic George Henry Lewes, who was married but unable to divorce, a choice that cut her off from respectable society and from her brother. Encouraged by Lewes, she began writing fiction under the name George Eliot, and Adam Bede (1859) was a great success, followed by The Mill on the Floss, Silas Marner, Romola, Middlemarch (1871–72) and Daniel Deronda. After Lewes's death she married John Cross in 1880 and died that December.",
+   "George Eliot brought to the novel a philosopher's intelligence and a deep sympathy for ordinary lives. Her narrators reflect on the moral choices and limited horizons of their characters, linking the smallest acts to wider social change, and her psychological analysis prepared the way for Henry James and the modern novel. Virginia Woolf called Middlemarch one of the few English novels written for grown-up people, and it is regularly voted among the greatest novels in English."
+  ]
+ },
+ {
+  "id": "dostoevsky",
+  "name": "Fyodor Dostoevsky",
+  "born": "1821",
+  "died": "1881",
+  "sort": 1821,
+  "birthplace": "Moscow",
+  "deathplace": "Saint Petersburg",
+  "nationality": "Russian",
+  "movements": [
+   "russian-golden-age",
+   "realism-literature"
+  ],
+  "bio": "The Russian novelist of Crime and Punishment and The Brothers Karamazov, who dramatised faith, freedom, guilt and suffering with feverish intensity.",
+  "bio_full": [
+   "Fyodor Mikhailovich Dostoevsky was born in Moscow in 1821, the son of a doctor at a hospital for the poor; his father was killed in 1839, possibly by his own serfs. He trained as a military engineer but resigned to write, and his first novel, Poor Folk (1846), was hailed by the critic Belinsky. In 1849 he was arrested for membership of the Petrashevsky circle of utopian socialists, sentenced to death and led out to be shot, only to have the sentence commuted at the last moment to four years of hard labour in Siberia followed by army service. He returned to Saint Petersburg in 1859 with epilepsy and a renewed Orthodox faith. Gambling, debts and the deaths of his first wife and brother marked the 1860s, but in Anna Snitkina, his stenographer and second wife, he found stability. Notes from Underground, Crime and Punishment, The Idiot, Demons and The Brothers Karamazov followed. He died in Saint Petersburg in 1881.",
+   "Dostoevsky's novels are dramas of ideas in which characters embody arguments about God, freedom, reason and morality, often in scenes of extreme tension, confession and scandal. The critic Mikhail Bakhtin described them as polyphonic: many voices, none simply the author's. He explored the psychology of guilt, pride and humiliation with an insight that impressed Nietzsche and Freud, and existentialist thinkers from Camus to Sartre saw him as a forerunner. His influence on the twentieth-century novel is immense."
+  ]
+ },
+ {
+  "id": "tolstoy",
+  "name": "Leo Tolstoy",
+  "born": "1828",
+  "died": "1910",
+  "sort": 1828,
+  "birthplace": "Yasnaya Polyana, Tula Governorate",
+  "deathplace": "Astapovo, Ryazan Governorate",
+  "nationality": "Russian",
+  "movements": [
+   "russian-golden-age",
+   "realism-literature"
+  ],
+  "bio": "Count, soldier, novelist and moral prophet, author of War and Peace and Anna Karenina, often considered the greatest of all novelists.",
+  "bio_full": [
+   "Count Lev Nikolayevich Tolstoy was born in 1828 on his family estate of Yasnaya Polyana, south of Moscow, and was orphaned young. After a dissolute youth and an abandoned university course, he joined the army in the Caucasus and served at the siege of Sevastopol in the Crimean War, which he described in his Sevastopol Sketches. In 1862 he married Sophia Behrs, who bore him thirteen children and copied out his manuscripts. On the estate he wrote War and Peace (1865–69) and Anna Karenina (1875–77). Around 1880 he went through a spiritual crisis, described in A Confession, and developed a radical Christianity rejecting the Church, the state, private property and violence. He was excommunicated in 1901, attracted disciples from around the world and corresponded with Gandhi. In 1910, at eighty-two, he left home secretly and died at the railway station of Astapovo.",
+   "Tolstoy's realism is so complete that his novels seem less written than lived: he moves between battlefields and ballrooms, peasants and emperors, with the same clarity and moral attention. He was fascinated by the forces of history, by family life and by death, the subject of The Death of Ivan Ilyich. His later fiction and essays argued for simplicity and non-violent resistance, influencing Gandhi and Martin Luther King. Writers from Flaubert to Virginia Woolf regarded him as the greatest of novelists."
+  ]
+ },
+ {
+  "id": "dickinson",
+  "name": "Emily Dickinson",
+  "born": "1830",
+  "died": "1886",
+  "sort": 1830,
+  "birthplace": "Amherst, Massachusetts",
+  "deathplace": "Amherst, Massachusetts",
+  "nationality": "American",
+  "movements": [
+   "american-renaissance"
+  ],
+  "bio": "The reclusive Amherst poet who wrote nearly 1,800 compressed, dazzling poems, almost none published in her lifetime.",
+  "bio_full": [
+   "Emily Elizabeth Dickinson was born in 1830 in Amherst, Massachusetts, into a prominent family; her father was a lawyer and congressman. She studied at Amherst Academy and spent a year at Mount Holyoke Female Seminary, but declined to profess the evangelical faith expected of her. From her twenties she withdrew increasingly from society, eventually rarely leaving the family homestead, dressing in white and communicating with friends mainly by letter. Her most productive years were around the Civil War. She sent poems to the critic Thomas Wentworth Higginson, who advised against publication, and only about ten appeared in print during her life, anonymously and altered by editors. She died in Amherst in 1886. Her sister Lavinia then discovered hundreds of poems in a locked box, and the first selection was published in 1890.",
+   "Dickinson wrote mostly short poems in the hymn metres of her childhood, made strange by slant rhyme, dashes, capitalised nouns and startling compression. Her subjects are death, faith and doubt, nature, love and the inner life, approached with wit and metaphysical daring. Early editors regularised her punctuation; only Thomas Johnson's 1955 edition and R. W. Franklin's later edition presented the poems as she wrote them. She is now regarded, with Whitman, as one of the two founders of modern American poetry."
+  ]
+ },
+ {
+  "id": "carroll",
+  "name": "Lewis Carroll (Charles Lutwidge Dodgson)",
+  "born": "1832",
+  "died": "1898",
+  "sort": 1832,
+  "birthplace": "Daresbury, Cheshire",
+  "deathplace": "Guildford, Surrey",
+  "nationality": "English",
+  "movements": [
+   "realism-literature"
+  ],
+  "bio": "Oxford mathematician, logician and photographer who wrote Alice's Adventures in Wonderland and Through the Looking-Glass.",
+  "bio_full": [
+   "Charles Lutwidge Dodgson was born in 1832 at Daresbury in Cheshire, the eldest son among eleven children of a clergyman, and entertained his siblings with games, puzzles and magazines. He studied at Christ Church, Oxford, and spent the rest of his life there as a lecturer in mathematics, publishing works on geometry and symbolic logic and becoming an accomplished amateur photographer. On a boat trip in July 1862 he improvised a story for Alice Liddell, the daughter of the dean of Christ Church, and her sisters. Written down and expanded, it was published as Alice's Adventures in Wonderland in 1865 under the pen name Lewis Carroll, with illustrations by John Tenniel. Through the Looking-Glass followed in 1871 and the nonsense poem The Hunting of the Snark in 1876. He died in Guildford in 1898.",
+   "Carroll's Alice books turned children's literature away from moral instruction towards play, and their nonsense, puns, parodies of improving verse and logical paradoxes delight adults as much as children. Characters such as the Mad Hatter, the Cheshire Cat and Humpty Dumpty became part of common culture, and his invented words, such as chortle, entered the language. Logicians, philosophers, Surrealists and Joyce have all found something in his work."
+  ]
+ },
+ {
+  "id": "ibsen",
+  "name": "Henrik Ibsen",
+  "born": "1828",
+  "died": "1906",
+  "sort": 1828,
+  "birthplace": "Skien, Norway",
+  "deathplace": "Kristiania (Oslo)",
+  "nationality": "Norwegian",
+  "movements": [
+   "naturalism-literature",
+   "realism-literature"
+  ],
+  "bio": "The father of modern drama, whose A Doll's House, Ghosts and Hedda Gabler brought social problems and psychological depth to the stage.",
+  "bio_full": [
+   "Henrik Johan Ibsen was born in 1828 in the port town of Skien in Norway; his merchant father went bankrupt when he was a child. At fifteen he was apprenticed to a pharmacist in Grimstad, where he fathered an illegitimate son and wrote his first play. He worked as playwright and director at theatres in Bergen and Christiania for over a decade with little success. In 1864 he left Norway and spent twenty-seven years in Italy and Germany. The verse dramas Brand (1866) and Peer Gynt (1867) made his name in Scandinavia, and he then turned to prose plays about contemporary life: The Pillars of Society, A Doll's House (1879), Ghosts, An Enemy of the People, The Wild Duck, Hedda Gabler (1890) and others. He returned to Norway in 1891 as a national celebrity and died in Christiania in 1906 after a series of strokes.",
+   "Ibsen replaced the contrived well-made play with tightly constructed realist drama in which the past gradually emerges to destroy the present, and he dealt openly with marriage, venereal disease, hypocrisy and the individual against society. His heroines, from Nora to Hedda, made him a central figure in debates about women's emancipation, though he said he was writing about human beings. His late plays become increasingly symbolic. Shaw, Strindberg, Chekhov, Joyce and O'Neill all learned from him, and he is among the most performed dramatists in the world."
+  ]
+ },
+ {
+  "id": "twain",
+  "name": "Mark Twain (Samuel Langhorne Clemens)",
+  "born": "1835",
+  "died": "1910",
+  "sort": 1835,
+  "birthplace": "Florida, Missouri",
+  "deathplace": "Redding, Connecticut",
+  "nationality": "American",
+  "movements": [
+   "realism-literature"
+  ],
+  "bio": "Humorist, lecturer and novelist of the Mississippi, author of Tom Sawyer and Adventures of Huckleberry Finn.",
+  "bio_full": [
+   "Samuel Langhorne Clemens was born in 1835 in Florida, Missouri, and grew up in Hannibal on the Mississippi River, the setting of his best-known books. After his father's death he worked as a printer, then as a riverboat pilot until the Civil War closed the river. He went west to Nevada and California, prospected for silver, became a newspaper writer and adopted the pen name Mark Twain, a riverboat call for two fathoms of water. His comic story The Celebrated Jumping Frog of Calaveras County (1865) and the travel book The Innocents Abroad (1869) made him famous. He married Olivia Langdon and settled in Hartford, Connecticut, where he wrote The Adventures of Tom Sawyer, Life on the Mississippi and Adventures of Huckleberry Finn (1884–85). Failed investments bankrupted him in the 1890s, and he paid off his debts with a world lecture tour. The deaths of his wife and two daughters darkened his later writing. He died in 1910.",
+   "Twain brought the vernacular speech of ordinary Americans into literature, and his combination of humour, satire and moral seriousness made him the most famous American of his day. His later writings attacked imperialism, racism and religious hypocrisy with growing bitterness. Hemingway claimed that all modern American literature comes from Huckleberry Finn, and Twain remains a symbol of American wit and independence."
+  ]
+ },
+ {
+  "id": "zola",
+  "name": "Émile Zola",
+  "born": "1840",
+  "died": "1902",
+  "sort": 1840,
+  "birthplace": "Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "naturalism-literature"
+  ],
+  "bio": "Leader of Naturalism and author of the twenty-novel Rougon-Macquart cycle, who risked everything to defend Alfred Dreyfus.",
+  "bio_full": [
+   "Émile Zola was born in Paris in 1840, the son of an Italian engineer, and grew up in Aix-en-Provence, where he was a close friend of Paul Cézanne. His father died when he was seven, leaving the family poor. He failed his baccalaureate, worked in the sales department of the publisher Hachette and as a journalist and art critic, defending Manet and the Impressionists. His novel Thérèse Raquin (1867) brought him notoriety. From 1871 to 1893 he published the Rougon-Macquart, the natural and social history of a family under the Second Empire, whose seventh volume, L'Assommoir (1877), made him rich and famous. In 1898 he published J'accuse, an open letter accusing the army of covering up the wrongful conviction of the Jewish officer Alfred Dreyfus; convicted of libel, he fled to England for a year. He died in Paris in 1902, asphyxiated by a blocked chimney, and was later reinterred in the Panthéon.",
+   "Zola set out to apply the methods of science to the novel, studying heredity and environment and researching each book exhaustively, in the mines, department stores, railways and slums. His Rougon-Macquart novels, including Nana, Germinal and The Beast Within, are powerful, crowded works with an epic, often mythic sweep that goes beyond his theory. His frankness made him a scandal and a bestseller, and his naturalism influenced writers across Europe and America, from Hardy and Gissing to Dreiser."
+  ]
+ },
+ {
+  "id": "hardy",
+  "name": "Thomas Hardy",
+  "born": "1840",
+  "died": "1928",
+  "sort": 1840,
+  "birthplace": "Higher Bockhampton, Dorset",
+  "deathplace": "Max Gate, Dorchester, Dorset",
+  "nationality": "English",
+  "movements": [
+   "naturalism-literature",
+   "realism-literature"
+  ],
+  "bio": "Novelist and poet of the Wessex countryside, author of Tess of the d'Urbervilles and Jude the Obscure, who turned to poetry after the outcry over his last novel.",
+  "bio_full": [
+   "Thomas Hardy was born in 1840 at Higher Bockhampton near Dorchester, the son of a stonemason and builder. He was apprenticed to a local architect and worked in London and Dorset restoring churches, while teaching himself Greek and writing poetry. His first published novel, Desperate Remedies, appeared in 1871, and Far from the Madding Crowd (1874) allowed him to give up architecture. He married Emma Gifford, whom he met while restoring a church in Cornwall. Over the next twenty years he wrote novels set in his fictional Wessex, including The Return of the Native, The Mayor of Casterbridge, Tess of the d'Urbervilles (1891) and Jude the Obscure (1895). The hostile reception of Jude led him to abandon fiction for poetry, and he published eight collections and the epic drama The Dynasts. After Emma's death in 1912 he wrote moving elegies for her. He died at his Dorchester home, Max Gate, in 1928.",
+   "Hardy's novels show people struggling against chance, social convention and an indifferent universe, set against a richly observed rural world that was disappearing. His frank treatment of sexuality and his attacks on marriage and religion shocked Victorian readers. As a poet he wrote in a craggy, varied style about time, memory and loss, and he is now regarded as one of the major English poets of the twentieth century, a strong influence on Larkin and others."
+  ]
+ },
+ {
+  "id": "henry-james",
+  "name": "Henry James",
+  "born": "1843",
+  "died": "1916",
+  "sort": 1843,
+  "birthplace": "New York City",
+  "deathplace": "London",
+  "nationality": "American-British",
+  "movements": [
+   "realism-literature",
+   "modernism-literature"
+  ],
+  "bio": "The American-born master of the psychological novel, author of The Portrait of a Lady and The Turn of the Screw, who settled in England.",
+  "bio_full": [
+   "Henry James was born in New York in 1843 into a wealthy, intellectual family; his father was a theologian and his brother William became a pioneering psychologist and philosopher. He had a cosmopolitan education in Europe and America and briefly studied law at Harvard. He began publishing stories and reviews in the 1860s and in 1875 moved permanently to Europe, first Paris, where he met Flaubert and Turgenev, and from 1876 London. His novels Daisy Miller, The Portrait of a Lady (1881) and The Bostonians explored Americans abroad and in society. An attempt at a theatrical career ended in humiliation in 1895. He then wrote The Turn of the Screw and, from his house in Rye, the great late novels The Wings of the Dove, The Ambassadors and The Golden Bowl. He became a British subject in 1915, during the First World War, and died in London in 1916.",
+   "James was fascinated by the contrast between American innocence and European experience, and by the subtle workings of consciousness, perception and moral choice. He refined the use of a limited point of view and wrote influential prefaces on the art of fiction. His late style, long sentences full of qualifications and deferred meanings, is demanding but rewards close attention. He is a bridge between the nineteenth-century realist novel and Modernism."
+  ]
+ },
+ {
+  "id": "rimbaud",
+  "name": "Arthur Rimbaud",
+  "born": "1854",
+  "died": "1891",
+  "sort": 1854,
+  "birthplace": "Charleville, France",
+  "deathplace": "Marseille",
+  "nationality": "French",
+  "movements": [
+   "symbolism-aestheticism"
+  ],
+  "bio": "The prodigy of French poetry who wrote all his work before twenty-one, including A Season in Hell and Illuminations, then abandoned literature.",
+  "bio_full": [
+   "Jean Nicolas Arthur Rimbaud was born in 1854 at Charleville in the Ardennes and raised by a strict mother after his father, an army officer, left the family. A brilliant pupil, he was writing accomplished Latin and French verse at fifteen. He ran away to Paris several times during the Franco-Prussian War and the Commune. In 1871 he sent poems, including The Drunken Boat, to Paul Verlaine, who invited him to Paris. Their stormy relationship took them to London and Brussels and ended in 1873 when Verlaine shot Rimbaud in the wrist. That year Rimbaud published A Season in Hell. He then gave up poetry, travelled through Europe, enlisted in and deserted from the Dutch colonial army in Java, and worked as a trader in Aden and Harar, Ethiopia, dealing in coffee and guns. A tumour in his leg forced his return to France, where he died in Marseille in 1891 at thirty-seven.",
+   "Rimbaud believed that the poet must become a seer through a long, immense and reasoned derangement of all the senses. His poems move from brilliant traditional verse to the prose poems of A Season in Hell and the fragmentary visions of Illuminations, published by Verlaine in 1886. His rebellion, his free verse and his hallucinatory images made him a hero to the Symbolists, the Surrealists, the Beats and rock musicians, and he remains a byword for youthful genius."
+  ]
+ },
+ {
+  "id": "chekhov",
+  "name": "Anton Chekhov",
+  "born": "1860",
+  "died": "1904",
+  "sort": 1860,
+  "birthplace": "Taganrog, Russia",
+  "deathplace": "Badenweiler, Germany",
+  "nationality": "Russian",
+  "movements": [
+   "russian-golden-age"
+  ],
+  "bio": "Doctor, short-story writer and dramatist, author of The Seagull and The Cherry Orchard, who reinvented both the short story and the play.",
+  "bio_full": [
+   "Anton Pavlovich Chekhov was born in 1860 in the port of Taganrog on the Sea of Azov, the grandson of a serf. When his father's grocery business failed, the family fled to Moscow, leaving Anton to finish school alone. He studied medicine at Moscow University and supported his family by writing hundreds of comic sketches for magazines. By the late 1880s he was writing serious stories that won him the Pushkin Prize. In 1890 he travelled across Siberia to the penal colony of Sakhalin and wrote a study of it. The failure of The Seagull in 1896 nearly ended his playwriting, but its revival by the Moscow Art Theatre under Stanislavsky in 1898 was a triumph, followed by Uncle Vanya, Three Sisters and The Cherry Orchard. Suffering from tuberculosis, he lived mainly in Yalta and in 1901 married the actress Olga Knipper. He died at the German spa of Badenweiler in 1904.",
+   "Chekhov's stories and plays avoid melodrama and moral verdicts; they show ordinary people in moments of boredom, longing and missed connection, and leave endings open. In the theatre he made the important happen offstage or beneath the surface of talk, a technique that shaped modern drama. His stories, such as The Lady with the Dog and Ward No. 6, made him a model for short-story writers from Katherine Mansfield to Raymond Carver and Alice Munro."
+  ]
+ },
+ {
+  "id": "wilde",
+  "name": "Oscar Wilde",
+  "born": "1854",
+  "died": "1900",
+  "sort": 1854,
+  "birthplace": "Dublin",
+  "deathplace": "Paris",
+  "nationality": "Irish",
+  "movements": [
+   "symbolism-aestheticism"
+  ],
+  "bio": "Irish wit, playwright and leading voice of Aestheticism, author of The Picture of Dorian Gray and The Importance of Being Earnest, whose career was destroyed by his imprisonment.",
+  "bio_full": [
+   "Oscar Fingal O'Flahertie Wills Wilde was born in Dublin in 1854 to a surgeon father and a poet mother who wrote as Speranza. He studied classics at Trinity College Dublin and Magdalen College, Oxford, where he came under the influence of Walter Pater and John Ruskin and cultivated the persona of an aesthete. He lectured across America in 1882, married Constance Lloyd and edited a women's magazine. His fairy tales, his only novel The Picture of Dorian Gray (1890–91) and his society comedies, Lady Windermere's Fan, An Ideal Husband and The Importance of Being Earnest (1895), made him the toast of London. In 1895 he sued the Marquess of Queensberry, father of his lover Lord Alfred Douglas, for libel; the case collapsed, and Wilde was convicted of gross indecency and sentenced to two years' hard labour. After prison he wrote De Profundis and The Ballad of Reading Gaol, and died in exile in Paris in 1900.",
+   "Wilde championed art for art's sake and turned paradox into an art form, inverting Victorian pieties in epigrams that still circulate. Beneath his comedies of manners lies a sharp critique of hypocrisy, and Dorian Gray is both a Gothic fable and a manifesto of Aestheticism. His persecution made him a symbol of the cost of Victorian sexual morality, and in 2017 he was among the men posthumously pardoned under British law."
+  ]
+ },
+ {
+  "id": "conrad",
+  "name": "Joseph Conrad",
+  "born": "1857",
+  "died": "1924",
+  "sort": 1857,
+  "birthplace": "Berdychiv, Russian Empire (now Ukraine)",
+  "deathplace": "Bishopsbourne, Kent",
+  "nationality": "Polish-British",
+  "movements": [
+   "modernism-literature"
+  ],
+  "bio": "A Polish-born sea captain who became one of the great novelists in English, author of Heart of Darkness, Lord Jim and Nostromo.",
+  "bio_full": [
+   "Józef Teodor Konrad Korzeniowski was born in 1857 in Berdychiv, in Russian-ruled Ukraine, to Polish noble parents. His father, a poet and patriot, was exiled for conspiring against Russian rule, and both parents died while Conrad was a child. At sixteen he went to Marseille and joined the French merchant navy, then from 1878 the British, rising to the rank of master and becoming a British subject in 1886. In 1890 he captained a river steamer in the Congo Free State, an experience that shocked him and became the basis of Heart of Darkness. He gave up the sea in 1894 and published his first novel, Almayer's Folly, in 1895, writing in English, his third language. Lord Jim, Nostromo, The Secret Agent and Under Western Eyes followed. He lived in Kent with his wife Jessie and died in 1924.",
+   "Conrad's fiction deals with isolation, betrayal, honour and the moral darkness of colonialism and political violence. He used complex time schemes and framing narrators, such as Marlow, so that stories are filtered through memory and uncertainty, techniques that link him to Modernism. His view of imperialism has been debated, notably in Chinua Achebe's 1975 critique of Heart of Darkness as racist. His influence reaches Eliot, Faulkner, Fitzgerald, Graham Greene and many later novelists."
+  ]
+ },
+ {
+  "id": "yeats",
+  "name": "W. B. Yeats",
+  "born": "1865",
+  "died": "1939",
+  "sort": 1865,
+  "birthplace": "Dublin",
+  "deathplace": "Roquebrune-Cap-Martin, France",
+  "nationality": "Irish",
+  "movements": [
+   "symbolism-aestheticism",
+   "modernism-literature"
+  ],
+  "bio": "Irish poet and dramatist, leader of the Irish Literary Revival and winner of the 1923 Nobel Prize, regarded as one of the greatest poets of the twentieth century.",
+  "bio_full": [
+   "William Butler Yeats was born in Dublin in 1865, the son of the painter John Butler Yeats, and grew up between London, Dublin and his mother's home county of Sligo. He studied art, became fascinated by Irish folklore, mysticism and the occult, and in London helped found the Rhymers' Club. In 1889 he met the revolutionary Maud Gonne, whom he loved hopelessly for decades. With Lady Gregory and others he led the Irish Literary Revival and co-founded the Abbey Theatre in Dublin in 1904. After the Easter Rising of 1916 and Gonne's refusal of him, he married Georgie Hyde-Lees in 1917, whose automatic writing fed his visionary system. He bought a tower, Thoor Ballylee, served as a senator of the new Irish Free State and received the Nobel Prize in 1923. He died in France in 1939.",
+   "Yeats's early poetry is lyrical, Romantic and steeped in Celtic myth; from around 1910 he developed a harder, more direct and modern voice, addressing politics, ageing, love and history in poems such as Easter, 1916, The Second Coming, Sailing to Byzantium and Among School Children. His late work is among the most powerful written by any poet in old age. He bridged Victorian Symbolism and Modernism and became the central figure of modern Irish literature."
+  ]
+ },
+ {
+  "id": "proust",
+  "name": "Marcel Proust",
+  "born": "1871",
+  "died": "1922",
+  "sort": 1871,
+  "birthplace": "Auteuil, Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "modernism-literature"
+  ],
+  "bio": "Author of In Search of Lost Time, a seven-volume novel of memory, time, love and society that is one of the monuments of Modernism.",
+  "bio_full": [
+   "Marcel Proust was born in 1871 in Auteuil, then on the edge of Paris, the son of an eminent doctor and a cultivated mother from a wealthy Jewish family. He suffered from severe asthma from the age of nine. He studied law and philosophy, frequented the aristocratic salons of the Faubourg Saint-Germain and published a book of stories and sketches, Pleasures and Days (1896). He translated John Ruskin and worked for years on an abandoned novel, Jean Santeuil. He was an ardent Dreyfusard. After the deaths of his parents he withdrew increasingly from society, writing at night in a cork-lined bedroom on the Boulevard Haussmann. Swann's Way, the first volume of In Search of Lost Time, was published at his own expense in 1913. Within a Budding Grove won the Prix Goncourt in 1919. He died of pneumonia in 1922, still revising; the last three volumes appeared after his death.",
+   "Proust's novel follows its narrator from childhood through the high society of the Belle Époque and the First World War to his discovery that involuntary memory, triggered by sensations such as the taste of a madeleine dipped in tea, can recover the past, and that art can preserve it. His long, intricate sentences trace the movement of thought and feeling, and his analyses of jealousy, snobbery, desire and homosexuality were revolutionary. He influenced novelists and thinkers across the century and remains a touchstone for writing about memory."
+  ]
+ },
+ {
+  "id": "thomas-mann",
+  "name": "Thomas Mann",
+  "born": "1875",
+  "died": "1955",
+  "sort": 1875,
+  "birthplace": "Lübeck, Germany",
+  "deathplace": "Zurich, Switzerland",
+  "nationality": "German",
+  "movements": [
+   "modernism-literature"
+  ],
+  "bio": "The German novelist of Buddenbrooks, Death in Venice and The Magic Mountain, winner of the 1929 Nobel Prize and an exiled opponent of Nazism.",
+  "bio_full": [
+   "Paul Thomas Mann was born in 1875 into a patrician merchant family in Lübeck. After his father's death and the liquidation of the family firm, he moved to Munich, worked briefly in insurance and on a satirical magazine, and published Buddenbrooks (1901), a novel of a merchant family's decline based on his own, which made him famous. Death in Venice followed in 1912. He married Katia Pringsheim, and their children included the writers Klaus and Erika Mann. During the First World War he defended German nationalism, but in the 1920s he became a supporter of the Weimar Republic. The Magic Mountain appeared in 1924, and he received the Nobel Prize in 1929. In 1933 he went into exile, first in Switzerland, then from 1938 in the United States, where he broadcast speeches against Hitler and wrote Joseph and His Brothers and Doctor Faustus. He returned to Switzerland in 1952 and died near Zurich in 1955.",
+   "Mann's novels are large, ironic and full of ideas, exploring the conflict between art and life, the bourgeois and the artist, health and disease, and the fate of German culture. He used leitmotifs, recurring phrases associated with characters in the manner of Wagner, and blended realism with myth and philosophical debate. He is regarded as the leading German novelist of the twentieth century."
+  ]
+ },
+ {
+  "id": "rilke",
+  "name": "Rainer Maria Rilke",
+  "born": "1875",
+  "died": "1926",
+  "sort": 1875,
+  "birthplace": "Prague, Austria-Hungary",
+  "deathplace": "Val-Mont, near Montreux, Switzerland",
+  "nationality": "Austrian (Bohemian)",
+  "movements": [
+   "modernism-literature",
+   "symbolism-aestheticism"
+  ],
+  "bio": "The Prague-born poet of the Duino Elegies and the Sonnets to Orpheus, one of the most intense and spiritual lyric voices in German.",
+  "bio_full": [
+   "René Maria Rilke was born in Prague in 1875 to a German-speaking family; his unhappy schooling at military academies left lasting scars. He studied in Prague and Munich, where he met Lou Andreas-Salomé, who became his lover and lifelong confidante and with whom he travelled twice to Russia. He married the sculptor Clara Westhoff in 1901 but lived mostly apart from her. In Paris he worked for a time as secretary to Rodin, whose dedication to looking taught him to write his New Poems, and he wrote his only novel, The Notebooks of Malte Laurids Brigge. In 1912, at the castle of Duino near Trieste, he began the Duino Elegies, but the war interrupted him for a decade. Settling in the Swiss château of Muzot, he completed the Elegies and wrote the Sonnets to Orpheus in a burst in February 1922. He died of leukaemia in 1926.",
+   "Rilke's poetry moves from the precise, sculptural thing-poems of the Paris years to the vast meditations of the Elegies on angels, death, love and the human task of transforming the visible world into inner experience. His Letters to a Young Poet are widely read for their advice on solitude and art. He has been translated into English more often than almost any other modern poet."
+  ]
+ },
+ {
+  "id": "joyce",
+  "name": "James Joyce",
+  "born": "1882",
+  "died": "1941",
+  "sort": 1882,
+  "birthplace": "Rathgar, Dublin",
+  "deathplace": "Zurich, Switzerland",
+  "nationality": "Irish",
+  "movements": [
+   "modernism-literature"
+  ],
+  "bio": "The Irish exile who wrote Dubliners, A Portrait of the Artist as a Young Man, Ulysses and Finnegans Wake, transforming the possibilities of the novel.",
+  "bio_full": [
+   "James Augustine Aloysius Joyce was born in 1882 in Rathgar, Dublin, the eldest surviving child of a large family that slid into poverty through his father's improvidence. Educated by the Jesuits and at University College Dublin, he rejected Catholicism and Irish nationalism, and in 1904 left Ireland with Nora Barnacle, whom he married only in 1931. They lived in Trieste, Zurich and from 1920 Paris, where Joyce taught English and struggled with poverty and worsening eye disease. Dubliners appeared in 1914 after years of disputes with publishers, and A Portrait of the Artist as a Young Man was serialised in 1914–15. Ulysses, partly serialised in an American magazine whose editors were prosecuted for obscenity, was published in Paris by Sylvia Beach in 1922. He spent seventeen years on Finnegans Wake (1939). Fleeing the German occupation of France, he returned to Zurich, where he died in 1941.",
+   "Joyce made Dublin the setting of all his fiction and from it created universal works. In Ulysses he combined an epic structure taken from the Odyssey with stream of consciousness, each chapter in a different style, and a frankness that led to bans in Britain and the United States. Finnegans Wake pushes language into multilingual puns and dream logic. He is widely regarded as the most influential novelist of the twentieth century, and Bloomsday, 16 June, the day on which Ulysses is set, is celebrated around the world."
+  ]
+ },
+ {
+  "id": "kafka",
+  "name": "Franz Kafka",
+  "born": "1883",
+  "died": "1924",
+  "sort": 1883,
+  "birthplace": "Prague, Austria-Hungary",
+  "deathplace": "Kierling, near Vienna, Austria",
+  "nationality": "Austrian-Czech (German-speaking)",
+  "movements": [
+   "modernism-literature"
+  ],
+  "bio": "The Prague insurance lawyer whose stories and novels, The Metamorphosis, The Trial and The Castle, gave the world the word Kafkaesque.",
+  "bio_full": [
+   "Franz Kafka was born in Prague in 1883 into a German-speaking Jewish family; his domineering father, a self-made shopkeeper, overshadowed his life, as he described in his unsent Letter to His Father. He studied law and from 1908 worked at the Workers' Accident Insurance Institute, writing in the evenings and at night. He published only a few stories in his lifetime, including The Judgement, The Metamorphosis (1915), In the Penal Colony and A Hunger Artist. He was engaged twice to Felice Bauer and once to Julie Wohryzek, and had an intense correspondence with Milena Jesenská. Diagnosed with tuberculosis in 1917, he retired in 1922 and spent his last months in Berlin with Dora Diamant. He died at a sanatorium near Vienna in 1924. He asked his friend Max Brod to burn his manuscripts; Brod refused, and published The Trial, The Castle and Amerika.",
+   "Kafka's fiction describes nightmarish situations in calm, precise prose: a man wakes as a giant insect, another is arrested and tried for an unnamed crime, a land surveyor can never reach the castle. His works have been read as religious allegories, as critiques of bureaucracy and power, as expressions of Jewish experience or of the individual's alienation in the modern world, and they resist any single interpretation. His influence on twentieth-century literature, from Borges and Camus to García Márquez, is immense."
+  ]
+ },
+ {
+  "id": "woolf",
+  "name": "Virginia Woolf",
+  "born": "1882",
+  "died": "1941",
+  "sort": 1882,
+  "birthplace": "London",
+  "deathplace": "Rodmell, Sussex",
+  "nationality": "English",
+  "movements": [
+   "modernism-literature"
+  ],
+  "bio": "Novelist and essayist of the Bloomsbury Group, author of Mrs Dalloway, To the Lighthouse and A Room of One's Own.",
+  "bio_full": [
+   "Adeline Virginia Stephen was born in London in 1882, the daughter of the critic and editor Sir Leslie Stephen. Educated at home in her father's library, she suffered the deaths of her mother, half-sister and father in close succession, and the first of several severe breakdowns. With her siblings she moved to Bloomsbury, where their friends formed the Bloomsbury Group of writers, artists and thinkers. In 1912 she married the writer Leonard Woolf, and in 1917 they founded the Hogarth Press, which published her own work as well as T. S. Eliot and the first English translations of Freud. Her novels include Mrs Dalloway (1925), To the Lighthouse (1927), Orlando, inspired by her love for Vita Sackville-West, and The Waves. Her essays include A Room of One's Own (1929) and Three Guineas. During the Second World War, fearing another breakdown, she drowned herself in the River Ouse in 1941.",
+   "Woolf wanted to record the atoms as they fall upon the mind, and her novels follow the flow of consciousness of several characters, moving freely between present perception and memory, often within a single day. Her lyrical style and experiments with time and point of view made her a central figure of Modernism. Her essays on women and writing, especially the argument that a woman must have money and a room of her own to write fiction, made her a founding figure of feminist criticism."
+  ]
+ },
+ {
+  "id": "ts-eliot",
+  "name": "T. S. Eliot",
+  "born": "1888",
+  "died": "1965",
+  "sort": 1888,
+  "birthplace": "St. Louis, Missouri",
+  "deathplace": "London",
+  "nationality": "American-British",
+  "movements": [
+   "modernism-literature"
+  ],
+  "bio": "Poet, critic and dramatist whose The Waste Land defined Modernist poetry. He won the Nobel Prize in 1948.",
+  "bio_full": [
+   "Thomas Stearns Eliot was born in 1888 in St Louis, Missouri, into a distinguished New England family. He studied philosophy at Harvard, the Sorbonne and Oxford and in 1914 met Ezra Pound in London, who arranged the publication of The Love Song of J. Alfred Prufrock in 1915. That year he married Vivienne Haigh-Wood; the marriage was deeply unhappy. He worked as a teacher and for eight years in the foreign department of Lloyds Bank, while writing criticism and editing the journal The Criterion. The Waste Land (1922), edited by Pound, made him the most influential poet of his generation. In 1925 he joined the publisher Faber and Gwyer, later Faber and Faber, where he remained for life. In 1927 he became a British subject and was received into the Church of England. He wrote Four Quartets and verse plays such as Murder in the Cathedral, received the Nobel Prize in 1948 and died in London in 1965.",
+   "Eliot's early poems use fragmentation, allusion, multiple voices and the sordid imagery of the modern city to express spiritual emptiness, while his later work, culminating in Four Quartets, is meditative and religious. His essays, such as Tradition and the Individual Talent, shaped literary criticism for decades. Admired as the leading poet of Modernism, he has also been criticised for antisemitic passages in some early poems. His light verse Old Possum's Book of Practical Cats became the musical Cats."
+  ]
+ },
+ {
+  "id": "fitzgerald",
+  "name": "F. Scott Fitzgerald",
+  "born": "1896",
+  "died": "1940",
+  "sort": 1896,
+  "birthplace": "St. Paul, Minnesota",
+  "deathplace": "Hollywood, California",
+  "nationality": "American",
+  "movements": [
+   "lost-generation"
+  ],
+  "bio": "The chronicler of the Jazz Age, author of The Great Gatsby and Tender Is the Night.",
+  "bio_full": [
+   "Francis Scott Key Fitzgerald was born in 1896 in St Paul, Minnesota, and studied at Princeton, which he left to join the army in 1917, though he was never sent overseas. While stationed in Alabama he met Zelda Sayre, who agreed to marry him after his first novel, This Side of Paradise (1920), became a bestseller. The couple became celebrities of the Jazz Age, living extravagantly in New York, on the French Riviera and in Paris, where Fitzgerald befriended Hemingway. The Great Gatsby (1925) was admired by critics but sold modestly. Zelda's mental illness, beginning in 1930, and his own alcoholism and debts darkened the following years; Tender Is the Night (1934) was a commercial failure. He worked as a Hollywood screenwriter and died of a heart attack in 1940, aged forty-four, leaving The Last Tycoon unfinished.",
+   "Fitzgerald wrote with lyrical precision about wealth, glamour, ambition and disillusion, and about the American Dream and its corruption. He supported himself mostly with stories for popular magazines, such as Babylon Revisited and The Diamond as Big as the Ritz. He died believing himself a failure, but the revival of interest after the Second World War made The Great Gatsby one of the most widely read American novels."
+  ]
+ },
+ {
+  "id": "faulkner",
+  "name": "William Faulkner",
+  "born": "1897",
+  "died": "1962",
+  "sort": 1897,
+  "birthplace": "New Albany, Mississippi",
+  "deathplace": "Byhalia, Mississippi",
+  "nationality": "American",
+  "movements": [
+   "lost-generation",
+   "modernism-literature"
+  ],
+  "bio": "The novelist of the American South, whose fictional Yoknapatawpha County holds The Sound and the Fury, As I Lay Dying and Absalom, Absalom!",
+  "bio_full": [
+   "William Cuthbert Falkner, who later added the u, was born in 1897 in New Albany, Mississippi, and grew up in Oxford, Mississippi, the town where he spent most of his life. He trained with the Royal Air Force in Canada in 1918 but the war ended before he saw action. He attended the University of Mississippi briefly, worked odd jobs, including as postmaster, and was encouraged by Sherwood Anderson to write about his native region. In 1929 he published Sartoris and The Sound and the Fury, beginning his saga of Yoknapatawpha County, followed by As I Lay Dying, Light in August, Absalom, Absalom! and Go Down, Moses. To earn money he wrote screenplays in Hollywood, including for The Big Sleep. His reputation, low in the late 1930s, revived in the 1940s, and he received the Nobel Prize in 1949. He died in 1962.",
+   "Faulkner used stream of consciousness, multiple narrators, fractured chronology and long, rhetorical sentences to explore the burden of history, race, family and memory in the South after slavery and the Civil War. His idea that the past is never dead runs through all his work. He influenced writers across the Americas, notably García Márquez and the Latin American Boom."
+  ]
+ },
+ {
+  "id": "hemingway",
+  "name": "Ernest Hemingway",
+  "born": "1899",
+  "died": "1961",
+  "sort": 1899,
+  "birthplace": "Oak Park, Illinois",
+  "deathplace": "Ketchum, Idaho",
+  "nationality": "American",
+  "movements": [
+   "lost-generation"
+  ],
+  "bio": "The writer whose terse, understated prose transformed twentieth-century fiction, author of The Sun Also Rises and The Old Man and the Sea.",
+  "bio_full": [
+   "Ernest Miller Hemingway was born in 1899 in Oak Park, Illinois, and worked as a reporter for the Kansas City Star before volunteering as an ambulance driver in Italy in the First World War, where he was badly wounded in 1918. In the 1920s he lived in Paris as a foreign correspondent, mixing with Gertrude Stein, Ezra Pound, Fitzgerald and Joyce, and published the stories of In Our Time and the novel The Sun Also Rises (1926), followed by A Farewell to Arms (1929). He later lived in Key West and Cuba, reported on the Spanish Civil War, which inspired For Whom the Bell Tolls (1940), and covered the Second World War in Europe. Married four times, he cultivated a public image of big-game hunter, fisherman and war correspondent. The Old Man and the Sea (1952) won the Pulitzer Prize, and he received the Nobel Prize in 1954. Suffering from depression and ill health, he died by suicide in Ketchum, Idaho, in 1961.",
+   "Hemingway's style, short declarative sentences, plain words, repetition and dialogue, aimed to convey emotion by leaving it unsaid, an approach he compared to an iceberg with most of its mass beneath the surface. His themes are war, love, loss, courage and stoic endurance. His influence on prose in English, from hard-boiled crime fiction to minimalism, has been enormous, while his portrayal of masculinity and of women has been much debated."
+  ]
+ },
+ {
+  "id": "borges",
+  "name": "Jorge Luis Borges",
+  "born": "1899",
+  "died": "1986",
+  "sort": 1899,
+  "birthplace": "Buenos Aires",
+  "deathplace": "Geneva",
+  "nationality": "Argentine",
+  "movements": [
+   "latin-american-boom",
+   "postmodernism-literature"
+  ],
+  "bio": "The Argentine master of the short story and essay, whose labyrinths, libraries and mirrors anticipated postmodern fiction.",
+  "bio_full": [
+   "Jorge Luis Borges was born in Buenos Aires in 1899 into a bilingual family and learned English before Spanish. His family lived in Geneva during the First World War and then in Spain, where he joined the avant-garde Ultraist movement. Returning to Buenos Aires in 1921, he published poetry and essays and co-founded literary magazines. A serious head injury in 1938 was followed by the stories of his greatest period, collected in Ficciones (1944) and The Aleph (1949). Under Perón he was removed from his post at a municipal library. After Perón's fall he became director of the National Library in 1955, by which time he was almost blind, and taught English literature at the University of Buenos Aires. International fame came after he shared the Formentor Prize with Samuel Beckett in 1961. He died in Geneva in 1986.",
+   "Borges's short stories are compressed philosophical fictions about infinity, time, identity and the nature of books, often disguised as essays, reviews or encyclopaedia entries. Their erudition, irony and play with invented sources made him a precursor of postmodernism and a key influence on writers such as Calvino, Eco and García Márquez. He wrote poetry throughout his life and is regarded as one of the most important writers in Spanish of the twentieth century."
+  ]
+ },
+ {
+  "id": "neruda",
+  "name": "Pablo Neruda",
+  "born": "1904",
+  "died": "1973",
+  "sort": 1904,
+  "birthplace": "Parral, Chile",
+  "deathplace": "Santiago, Chile",
+  "nationality": "Chilean",
+  "movements": [
+   "latin-american-boom"
+  ],
+  "bio": "Chilean poet of love and politics, author of Twenty Love Poems and a Song of Despair and Canto General, and winner of the 1971 Nobel Prize.",
+  "bio_full": [
+   "Ricardo Eliécer Neftalí Reyes Basoalto was born in 1904 in Parral, Chile, and grew up in Temuco in the south; he adopted the pen name Pablo Neruda as a teenager. His second book, Twenty Love Poems and a Song of Despair (1924), made him famous at twenty. He served as a consul in Burma, Ceylon, Java, Spain and Mexico, and the Spanish Civil War and the murder of his friend Lorca turned him to political poetry. He joined the Chilean Communist Party and was elected senator in 1945, but went into hiding and exile in 1948 after the party was banned. His epic Canto General (1950) traces the history of the Americas. He returned to Chile in 1952, received the Nobel Prize in 1971 and served as ambassador to France under Salvador Allende. He died in Santiago in September 1973, days after the military coup; the cause of his death has been disputed.",
+   "Neruda's poetry ranges from sensual love lyrics and the dark, surreal Residence on Earth to political epic and the simple, celebratory Elemental Odes to everyday things. Gabriel García Márquez called him the greatest poet of the twentieth century in any language. He remains one of the most widely read poets in the world."
+  ]
+ },
+ {
+  "id": "orwell",
+  "name": "George Orwell (Eric Arthur Blair)",
+  "born": "1903",
+  "died": "1950",
+  "sort": 1903,
+  "birthplace": "Motihari, Bengal Presidency, British India",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "existentialism-absurd"
+  ],
+  "bio": "The essayist and novelist of Animal Farm and Nineteen Eighty-Four, whose name became a byword for warnings against totalitarianism.",
+  "bio_full": [
+   "Eric Arthur Blair was born in 1903 in Motihari, India, where his father worked for the opium department, and was educated in England at Eton. He served in the Indian Imperial Police in Burma from 1922 to 1927, an experience that turned him against imperialism. He then deliberately lived among the poor in Paris and London, writing Down and Out in Paris and London (1933) under the name George Orwell, and investigated working-class life in The Road to Wigan Pier. In 1936 he fought with the POUM militia in the Spanish Civil War, was shot in the throat and fled the communist purge of his comrades, as he recorded in Homage to Catalonia. During the Second World War he worked for the BBC and as literary editor of the Tribune. Animal Farm (1945) brought him fame. Already ill with tuberculosis, he wrote Nineteen Eighty-Four on the Scottish island of Jura and died in London in 1950.",
+   "Orwell was a democratic socialist who opposed both fascism and Soviet communism. His plain, vigorous prose and essays such as Politics and the English Language and Shooting an Elephant made him one of the great English essayists. Words he coined or popularised, such as Big Brother, doublethink and thoughtcrime, entered everyday language, and the adjective Orwellian describes the abuse of language and surveillance by the state."
+  ]
+ },
+ {
+  "id": "nabokov",
+  "name": "Vladimir Nabokov",
+  "born": "1899",
+  "died": "1977",
+  "sort": 1899,
+  "birthplace": "Saint Petersburg",
+  "deathplace": "Montreux, Switzerland",
+  "nationality": "Russian-American",
+  "movements": [
+   "postmodernism-literature"
+  ],
+  "bio": "The Russian-born novelist who wrote in two languages, author of Lolita and Pale Fire, and a dazzling stylist and lepidopterist.",
+  "bio_full": [
+   "Vladimir Vladimirovich Nabokov was born in Saint Petersburg in 1899 into a wealthy aristocratic family; his father was a liberal politician. After the Revolution the family fled to Western Europe, and Nabokov studied at Trinity College, Cambridge. In Berlin in 1922 his father was killed shielding another man from an assassin. Under the pen name V. Sirin, Nabokov became the leading writer of the Russian émigré community, with novels such as The Defence and The Gift. In 1940 he fled with his Jewish wife Véra and their son to the United States, where he taught at Wellesley and Cornell, worked on butterflies at Harvard's Museum of Comparative Zoology and began writing in English. Lolita, rejected by American publishers, appeared in Paris in 1955 and became an international scandal and bestseller. He moved to Montreux, Switzerland, in 1961, where he wrote Pale Fire and Ada, and died in 1977.",
+   "Nabokov's fiction is full of wordplay, puzzles, unreliable narrators and parodies, written in a richly allusive, sensuous prose in his adopted English. He insisted on the primacy of style and detail and scorned novels of ideas. Lolita, narrated by a paedophile, remains controversial for its subject and admired for its artistry, while Pale Fire, a poem with a mad commentary, is a landmark of postmodern form."
+  ]
+ },
+ {
+  "id": "camus",
+  "name": "Albert Camus",
+  "born": "1913",
+  "died": "1960",
+  "sort": 1913,
+  "birthplace": "Mondovi (Dréan), French Algeria",
+  "deathplace": "Villeblevin, France",
+  "nationality": "French (Algerian-born)",
+  "movements": [
+   "existentialism-absurd"
+  ],
+  "bio": "The French-Algerian novelist and essayist of The Stranger, The Plague and The Myth of Sisyphus, winner of the 1957 Nobel Prize.",
+  "bio_full": [
+   "Albert Camus was born in 1913 in Mondovi in French Algeria. His father was killed in the First World War, and he grew up in poverty in Algiers with his nearly deaf, illiterate mother. A scholarship took him to the lycée and the University of Algiers, where he studied philosophy, played football and contracted tuberculosis. He worked as a journalist and ran a theatre company. In 1942, in occupied France, he published The Stranger and the essay The Myth of Sisyphus, and he became editor of the Resistance newspaper Combat. The Plague (1947) and the essay The Rebel (1951), which led to a break with Sartre, followed. He was troubled by the Algerian War, condemning both terrorism and colonial repression. He received the Nobel Prize in 1957, aged forty-four, and died in a car accident in 1960.",
+   "Camus explored the absurd, the conflict between the human need for meaning and the silent universe, and argued for lucid revolt, solidarity and moderation rather than despair or ideology. He rejected the label existentialist, though he is often grouped with Sartre. His clear, classical style and moral seriousness made him one of the most widely read French writers of the twentieth century."
+  ]
+ },
+ {
+  "id": "beckett",
+  "name": "Samuel Beckett",
+  "born": "1906",
+  "died": "1989",
+  "sort": 1906,
+  "birthplace": "Foxrock, Dublin",
+  "deathplace": "Paris",
+  "nationality": "Irish",
+  "movements": [
+   "existentialism-absurd",
+   "modernism-literature"
+  ],
+  "bio": "Irish playwright and novelist, writing in English and French, whose Waiting for Godot is the landmark of the Theatre of the Absurd. Nobel Prize 1969.",
+  "bio_full": [
+   "Samuel Barclay Beckett was born in 1906 in Foxrock, near Dublin, into a Protestant middle-class family. He studied French and Italian at Trinity College Dublin and in 1928 went to Paris as a lecturer, where he became a friend and assistant of James Joyce. He published essays, stories and the novel Murphy (1938), and settled in Paris permanently. During the Second World War he joined the French Resistance and later hid in the south of France. After the war, writing mainly in French, he produced his most important work: the novels Molloy, Malone Dies and The Unnamable, and the play Waiting for Godot, which premiered in Paris in 1953 and became an international sensation. Endgame, Krapp's Last Tape and Happy Days followed. He received the Nobel Prize in 1969 and died in Paris in 1989.",
+   "Beckett pared drama and fiction down to their bare essentials: characters waiting, talking, failing and going on in empty spaces, with bleak humour drawn from music hall and silent film. His work deals with time, memory, habit and the difficulty of meaning, and became increasingly minimal in late plays such as Not I. He translated most of his own works between French and English, and he is regarded as one of the most important dramatists of the twentieth century."
+  ]
+ },
+ {
+  "id": "garcia-marquez",
+  "name": "Gabriel García Márquez",
+  "born": "1927",
+  "died": "2014",
+  "sort": 1927,
+  "birthplace": "Aracataca, Colombia",
+  "deathplace": "Mexico City",
+  "nationality": "Colombian",
+  "movements": [
+   "latin-american-boom"
+  ],
+  "bio": "Colombian novelist and journalist, master of magical realism and author of One Hundred Years of Solitude. Nobel Prize 1982.",
+  "bio_full": [
+   "Gabriel José García Márquez was born in 1927 in Aracataca, a town in Colombia's Caribbean region, and was raised in his early years by his maternal grandparents, whose stories of war and superstition shaped his imagination. He studied law in Bogotá but left to become a journalist, working in Cartagena, Barranquilla and Bogotá and as a correspondent in Europe. His early fiction, including No One Writes to the Colonel, was little noticed. Living in Mexico City, he wrote One Hundred Years of Solitude in about eighteen months; published in Buenos Aires in 1967, it became a phenomenon across the Spanish-speaking world and then internationally. The Autumn of the Patriarch, Chronicle of a Death Foretold and Love in the Time of Cholera followed. He received the Nobel Prize in 1982, remained a political journalist and friend of Fidel Castro, and died in Mexico City in 2014.",
+   "García Márquez combined the matter-of-fact narration of his grandmother's tales with the techniques of Faulkner and Kafka, presenting marvels and miracles as ordinary events, a style that became known as magical realism. His fiction explores solitude, power, memory and the cycles of Latin American history. He is the best-known writer of the Latin American Boom and one of the most widely read novelists of the twentieth century."
+  ]
+ },
+ {
+  "id": "calvino",
+  "name": "Italo Calvino",
+  "born": "1923",
+  "died": "1985",
+  "sort": 1923,
+  "birthplace": "Santiago de las Vegas, Cuba",
+  "deathplace": "Siena, Italy",
+  "nationality": "Italian",
+  "movements": [
+   "postmodernism-literature"
+  ],
+  "bio": "Italian writer of fables, fantasies and formal experiments, including Invisible Cities and If on a winter's night a traveller.",
+  "bio_full": [
+   "Italo Calvino was born in 1923 near Havana, Cuba, where his Italian parents were working as agronomists, and grew up in Sanremo on the Italian Riviera. During the Second World War he joined the communist partisans in the Ligurian mountains, the background of his first novel, The Path to the Spiders' Nests (1947). He worked for decades as an editor at the Einaudi publishing house in Turin and left the Communist Party after the Soviet invasion of Hungary in 1956. His trilogy Our Ancestors, including The Baron in the Trees, and his collection of Italian Folktales established him. Living in Paris from 1967, he joined the Oulipo group of experimental writers. Invisible Cities (1972) and If on a winter's night a traveller (1979) followed. He died in Siena in 1985 while preparing the lectures later published as Six Memos for the Next Millennium.",
+   "Calvino moved from neorealism to fantasy and to fiction built on combinatory rules and games, but his work is always light, clear and playful, informed by science, folk tale and a deep curiosity about how stories are made. He is one of the key figures of postmodern fiction and among the most translated Italian writers of the century."
+  ]
+ },
+ {
+  "id": "morrison",
+  "name": "Toni Morrison",
+  "born": "1931",
+  "died": "2019",
+  "sort": 1931,
+  "birthplace": "Lorain, Ohio",
+  "deathplace": "The Bronx, New York",
+  "nationality": "American",
+  "movements": [
+   "postmodernism-literature"
+  ],
+  "bio": "American novelist of Beloved and Song of Solomon, who placed African American history and experience at the centre of the novel. Nobel Prize 1993.",
+  "bio_full": [
+   "Chloe Ardelia Wofford was born in 1931 in Lorain, Ohio, into a working-class family whose stories and songs she later drew on. She took the name Toni at Howard University, where she studied English, and earned a master's degree at Cornell. She taught at Howard, married and divorced, and in 1965 became an editor at Random House, where she published and championed African American writers. Her first novel, The Bluest Eye, appeared in 1970, followed by Sula, Song of Solomon (1977) and Tar Baby. Beloved (1987) won the Pulitzer Prize. In 1993 she became the first African American woman to receive the Nobel Prize in Literature. She taught at Princeton for many years and continued to publish novels, essays and criticism, including Playing in the Dark. She died in 2019.",
+   "Morrison wrote lyrical, layered novels that combine shifting points of view, myth, folklore and the supernatural with an unflinching treatment of slavery, racism, community and love. She wrote, as she said, without explaining Black life to a white gaze. Her work transformed the American canon and is widely taught around the world."
+  ]
+ }
+]

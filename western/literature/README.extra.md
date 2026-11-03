@@ -1,0 +1,7 @@
+## Notes on this section
+
+- **Scope.** Western literature from Homer to the late twentieth century: epic, drama, lyric poetry and the novel. Latin American and North American writers are included as part of the Western tradition. Works are dated by first performance or first publication; for long works written over many years the range is given.
+- **Pictures.** Images are manuscripts, first-edition title pages, early printed illustrations (such as Tenniel's Alice and Doré's Dante and Coleridge), ancient vase paintings and portraits from Wikimedia Commons. Portraits are paintings, drawings, engravings or sculpture, never photographs, so several modern authors have no portrait. Busts of ancient poets are mostly Roman copies or later imaginary likenesses and are labelled as such.
+- **Copyright.** Books by authors who died less than about seventy years ago are not illustrated, not even with their original covers. Links to free texts (Project Gutenberg searches) are given only for works in the public domain; for older works in other languages they usually lead to public-domain English translations.
+- **Attribution.** Anonymous medieval works are listed under a conventional author: the *Beowulf* poet, and Turold for *The Song of Roland* (a name from the manuscript whose role is debated).
+- **Quotations** are kept short and only from texts long in the public domain; everything else is paraphrased.

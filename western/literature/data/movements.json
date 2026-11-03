@@ -1,0 +1,170 @@
+[
+ {
+  "id": "greek-epic-lyric",
+  "name": "Greek epic & lyric",
+  "dates": "c. 750–450 BC",
+  "period": "antiquity",
+  "summary": "Greek literature begins with the oral epics attributed to Homer, the Iliad and the Odyssey, composed in dactylic hexameter and performed by singers long before they were written down. Alongside them grew a lyric tradition of shorter sung poems, personal, erotic or choral, whose greatest voice was Sappho of Lesbos. Together they supplied the stories, metres and models that all later European poetry drew on."
+ },
+ {
+  "id": "greek-drama",
+  "name": "Greek tragedy & comedy",
+  "dates": "c. 500–380 BC",
+  "period": "antiquity",
+  "summary": "Drama was born in Athens at the festivals of Dionysus, where citizen choruses and a few masked actors performed new plays in competition. Aeschylus, Sophocles and Euripides turned myth into tragedy that questioned justice, fate and the gods, while Aristophanes wrote riotous political comedy. Aristotle's Poetics, written a century later, made these plays the template for Western theories of drama."
+ },
+ {
+  "id": "latin-golden-age",
+  "name": "Latin Golden Age",
+  "dates": "c. 70 BC – AD 18",
+  "period": "antiquity",
+  "summary": "Under the late Republic and the reign of Augustus, Roman poets reshaped Greek models into a confident Latin literature. Virgil wrote the national epic, the Aeneid; Horace perfected the ode and the verse letter; Ovid retold the whole of mythology in the Metamorphoses. For more than fifteen centuries these were the school texts of Europe, the core of what an educated person read."
+ },
+ {
+  "id": "medieval-epic-romance",
+  "name": "Medieval epic & romance",
+  "dates": "c. 700–1400",
+  "period": "middle-ages",
+  "summary": "Medieval Europe produced heroic poetry in its new vernacular languages, from the Old English Beowulf to the Old French chansons de geste such as the Song of Roland. In the twelfth century the courts of France invented romance: tales of knights, quests and love, above all the Arthurian stories of Chrétien de Troyes. Courtly love, chivalry and the Grail became lasting themes of European imagination."
+ },
+ {
+  "id": "italian-trecento",
+  "name": "Italian Trecento",
+  "dates": "c. 1290–1400",
+  "period": "middle-ages",
+  "summary": "Fourteenth-century Tuscany produced the three crowns of Italian literature. Dante's Divine Comedy proved that a vernacular could carry the highest subjects; Petrarch's sonnets created a language of love that the whole of Europe imitated; Boccaccio's Decameron set the pattern for the prose tale. Their influence, through Chaucer and the humanists, carried far beyond Italy."
+ },
+ {
+  "id": "renaissance-literature",
+  "name": "Renaissance humanism",
+  "dates": "c. 1400–1600",
+  "period": "renaissance",
+  "summary": "Humanist scholars recovered and printed the classics, and writers used them to fashion new forms in their own languages. Ariosto's chivalric epic, Rabelais's comic giants and Montaigne's essays show the period's mix of learning, play and self-examination. Printing spread books more widely than ever before, and national literatures began to take their modern shape."
+ },
+ {
+  "id": "elizabethan-jacobean",
+  "name": "Elizabethan & Jacobean",
+  "dates": "c. 1570–1642",
+  "period": "renaissance",
+  "summary": "Under Elizabeth I and James I, English literature had an extraordinary flowering. Public playhouses in London staged the work of Marlowe, Shakespeare and Jonson, the sonnet and the lyric flourished, and John Donne led the metaphysical poets with their dense, witty conceits. The period ended when Parliament closed the theatres in 1642."
+ },
+ {
+  "id": "spanish-golden-age",
+  "name": "Spanish Golden Age",
+  "dates": "c. 1550–1680",
+  "period": "seventeenth-century",
+  "summary": "At the height of Spanish power, Spain's writers produced the Siglo de Oro. Cervantes wrote Don Quixote, often called the first modern novel; Lope de Vega created a popular national theatre with hundreds of plays; Calderón brought it to philosophical depth. Picaresque novels, mystical poetry and the comedia shaped literature across Europe."
+ },
+ {
+  "id": "french-classicism",
+  "name": "French Classicism",
+  "dates": "c. 1630–1700",
+  "period": "seventeenth-century",
+  "summary": "In the France of Louis XIV, writers sought clarity, order and decorum modelled on ancient rules. Corneille and Racine wrote verse tragedies observing the unities of time, place and action, Molière created a comedy of character and manners, and La Fontaine and La Rochefoucauld refined the fable and the maxim. The period set standards of taste for much of Europe."
+ },
+ {
+  "id": "english-epic-restoration",
+  "name": "Milton & the Restoration",
+  "dates": "c. 1640–1700",
+  "period": "seventeenth-century",
+  "summary": "The English Civil War and the restoration of the monarchy in 1660 framed a turbulent literary era. Milton, the blind republican, wrote Paradise Lost, the great English epic; after 1660 reopened theatres staged witty Restoration comedy and Dryden made the heroic couplet the dominant verse form. It bridges the Renaissance and the Augustan age."
+ },
+ {
+  "id": "augustan-enlightenment",
+  "name": "Augustan & Enlightenment",
+  "dates": "c. 1700–1780",
+  "period": "enlightenment",
+  "summary": "Eighteenth-century writers valued reason, wit and public usefulness. In England Swift and Pope practised savage and polished satire; in France Voltaire and Rousseau carried Enlightenment ideas to a wide readership through tales, letters and novels. Literature became part of a new public sphere of coffee houses, periodicals and salons."
+ },
+ {
+  "id": "rise-of-the-novel",
+  "name": "Rise of the novel",
+  "dates": "c. 1700–1800",
+  "period": "enlightenment",
+  "summary": "Long prose fiction about ordinary people became the dominant new form of the century, especially in England. Defoe's realistic adventures, Richardson's novels in letters, Fielding's comic epics and Sterne's playful Tristram Shandy found a growing middle-class and female readership. Circulating libraries and cheaper printing made the novel the most popular literary genre in Europe."
+ },
+ {
+  "id": "sturm-und-drang",
+  "name": "Sturm und Drang & Weimar Classicism",
+  "dates": "c. 1770–1832",
+  "period": "enlightenment",
+  "summary": "A generation of young German writers rebelled against French rules with works of passion, genius and nature: the Sturm und Drang, or Storm and Stress. Goethe's Werther became a European sensation. Goethe and Schiller later settled in Weimar and sought a balanced classicism inspired by ancient Greece, creating the foundations of modern German literature."
+ },
+ {
+  "id": "romanticism-literature",
+  "name": "Romanticism",
+  "dates": "c. 1790–1850",
+  "period": "nineteenth-century",
+  "summary": "Romantic writers prized imagination, feeling, nature and the individual over reason and convention. In England Blake, Wordsworth, Coleridge, Byron, Shelley and Keats remade poetry; in France Hugo led the revolt against classicism; in Russia Pushkin created a national literature. The Gothic novel, the historical novel and the cult of the outcast hero all belong to this movement."
+ },
+ {
+  "id": "american-renaissance",
+  "name": "American Renaissance",
+  "dates": "c. 1835–1865",
+  "period": "nineteenth-century",
+  "summary": "In the decades before the Civil War, American writers created a literature independent of Britain. Poe invented the detective story and refined the tale of terror, Hawthorne explored Puritan guilt, Melville wrote Moby-Dick and Whitman Leaves of Grass. Emily Dickinson, writing in private, belongs to the same remarkable generation."
+ },
+ {
+  "id": "realism-literature",
+  "name": "Realism",
+  "dates": "c. 1830–1890",
+  "period": "nineteenth-century",
+  "summary": "Realist novelists set out to show society as it actually was, especially the middle classes, money, marriage and work. Balzac mapped France in his Human Comedy, Flaubert perfected the impersonal style, and in Britain Dickens, the Brontës and George Eliot built large social and moral panoramas. The realist novel became the century's central art form."
+ },
+ {
+  "id": "russian-golden-age",
+  "name": "Russian Golden Age",
+  "dates": "c. 1820–1905",
+  "period": "nineteenth-century",
+  "summary": "In less than a century Russia produced one of the world's great literatures. Pushkin and Gogol laid its foundations; Tolstoy and Dostoevsky wrote vast novels of history, faith and conscience; Chekhov transformed the short story and the play. Under censorship and autocracy, literature became the main forum for Russia's moral and political debates."
+ },
+ {
+  "id": "naturalism-literature",
+  "name": "Naturalism",
+  "dates": "c. 1870–1910",
+  "period": "nineteenth-century",
+  "summary": "Naturalism pushed realism towards science, presenting characters shaped by heredity and environment. Zola, its leader, documented the working class in his Rougon-Macquart cycle; Ibsen brought social problems onto the stage; Hardy portrayed people crushed by circumstance. Its frankness about sex, poverty and disease caused repeated scandals."
+ },
+ {
+  "id": "symbolism-aestheticism",
+  "name": "Symbolism & Aestheticism",
+  "dates": "c. 1857–1910",
+  "period": "nineteenth-century",
+  "summary": "Starting with Baudelaire, French poets sought suggestion, music and correspondence rather than description, and Rimbaud, Verlaine and Mallarmé pushed language to new limits. In Britain the Aesthetic movement, with Oscar Wilde as its showman, proclaimed art for art's sake. Their ideas fed directly into Modernism and twentieth-century poetry."
+ },
+ {
+  "id": "modernism-literature",
+  "name": "Modernism",
+  "dates": "c. 1900–1945",
+  "period": "modern",
+  "summary": "Modernist writers broke with traditional narrative and verse to capture consciousness, memory and the fractured experience of modern life. Proust, Joyce, Woolf, Kafka, Mann, Rilke and T. S. Eliot experimented with stream of consciousness, myth, fragmentation and new forms. The First World War sharpened their sense that an old world had ended."
+ },
+ {
+  "id": "lost-generation",
+  "name": "Lost Generation & American modernism",
+  "dates": "c. 1920–1950",
+  "period": "modern",
+  "summary": "The term Lost Generation, used by Gertrude Stein and popularised by Hemingway, describes American writers who came of age in the First World War, many of whom lived in Paris in the 1920s. Fitzgerald chronicled the Jazz Age, Hemingway developed a terse new prose and Faulkner reinvented the Southern novel. Their styles shaped American fiction for decades."
+ },
+ {
+  "id": "existentialism-absurd",
+  "name": "Existentialism & the Absurd",
+  "dates": "c. 1940–1965",
+  "period": "contemporary",
+  "summary": "After the Second World War, writers confronted a world without given meaning. Camus explored the absurd and revolt in novels and essays, Sartre made existentialism a literary movement, and the Theatre of the Absurd of Beckett and Ionesco stripped drama down to waiting, repetition and dark comedy. Orwell's political fiction belongs to the same era of totalitarian threat."
+ },
+ {
+  "id": "latin-american-boom",
+  "name": "Latin American Boom",
+  "dates": "c. 1940–1980",
+  "period": "contemporary",
+  "summary": "From the 1960s, Latin American novelists won a worldwide readership with ambitious, experimental fiction. Borges had prepared the ground with his labyrinthine stories; García Márquez, Cortázar, Fuentes and Vargas Llosa followed, and the magical realism of One Hundred Years of Solitude became internationally famous. Neruda's poetry gave the continent an equally powerful voice."
+ },
+ {
+  "id": "postmodernism-literature",
+  "name": "Postmodernism",
+  "dates": "c. 1955–2000",
+  "period": "contemporary",
+  "summary": "Postmodern writers treated fiction as a game aware of its own artifice, mixing genres, parodying traditions and questioning the possibility of a single truth. Nabokov, Calvino and Borges are among its precursors and masters. Later writers such as Toni Morrison combined formal experiment with history and memory, especially the history of those left out of the older canon."
+ }
+]
