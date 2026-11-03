@@ -1,10 +1,14 @@
 # Jean-Siméon Chardin
 
+<a href="https://commons.wikimedia.org/wiki/File:Chardin_pastel_selfportrait.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Chardin_pastel_selfportrait.jpg/330px-Chardin_pastel_selfportrait.jpg" alt="Jean-Siméon Chardin" title="Self-portrait in pastel, 1770s"></a>
+
 **1699 – 1779** · French  
 Born: Paris · Died: Paris  
 Movements: [Rococo](../movements/rococo.md)  
 
 > A painter of still lifes and quiet domestic scenes, admired for his textured paint and truth to everyday life.
+
+<sub>Portrait: Self-portrait in pastel, 1770s · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chardin_pastel_selfportrait.jpg)</sub>
 
 ## Biography
 

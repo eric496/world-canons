@@ -6,6 +6,10 @@ Era: [Classical Antiquity](../../periods/antiquity.md)
 
 Greek sculptors develop the idealised, naturalistic human body, contrapposto and canons of proportion. Most Greek bronzes are lost and survive through Roman marble copies, which shaped every later classical revival.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/02_10_2024_Photo_Paolo_Villa-Napoli-mann-Museo_Archeologico-FO232526tris-Arte_Greca_copia_romana-Policleto_Doriforo_Polykleitos_Doryphoros_from_Pompeii-marmo_marble_carrara.jpg/1280px-thumbnail.jpg" width="100%" alt="Classical Antiquity (Greece & Rome)">
+
+<sub>Polykleitos, Doryphoros (Spear-Bearer), Roman marble copy from Pompeii, National Archaeological Museum, Naples · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:02_10_2024_Photo_Paolo_Villa-Napoli-mann-Museo_Archeologico-FO232526tris-Arte_Greca_copia_romana-Policleto_Doriforo_Polykleitos_Doryphoros_from_Pompeii-marmo_marble_carrara.jpg)</sub>
+
 ## Artists
 
 -  [Phidias](../creators/phidias.md) (c. 480 BC – c. 430 BC)

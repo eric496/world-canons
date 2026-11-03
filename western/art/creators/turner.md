@@ -1,10 +1,14 @@
 # J. M. W. Turner
 
+<a href="https://commons.wikimedia.org/wiki/File:Turner_selfportrait_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Turner_selfportrait_%28cropped%29.jpg/330px-Turner_selfportrait_%28cropped%29.jpg" alt="J. M. W. Turner" title="Self-portrait, c. 1799"></a>
+
 **1775 – 1851** · British  
 Born: London · Died: London  
 Movements: [Romanticism](../movements/romanticism.md)  
 
 > Turner dissolved landscape into light, storm and atmosphere. His late canvases were so free that they seemed nearly abstract to contemporaries.
+
+<sub>Portrait: Self-portrait, c. 1799 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Turner_selfportrait_%28cropped%29.jpg)</sub>
 
 ## Biography
 

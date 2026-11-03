@@ -1,10 +1,14 @@
 # Giovanni Bellini
 
+<a href="https://commons.wikimedia.org/wiki/File:Giovanni_Bellini_Felt%C3%A9telezett%C3%96narck%C3%A9peKJ.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Giovanni_Bellini_Felt%C3%A9telezett%C3%96narck%C3%A9peKJ.jpg/330px-Giovanni_Bellini_Felt%C3%A9telezett%C3%96narck%C3%A9peKJ.jpg" alt="Giovanni Bellini" title="Presumed self-portrait"></a>
+
 **c. 1430 – 1516** · Italian  
 Born: Venice · Died: Venice  
 Movements: [Early Italian Renaissance](../movements/early-renaissance.md), [High Renaissance](../movements/high-renaissance.md)  
 
 > The father of Venetian Renaissance painting, who pioneered oil technique in Venice and taught Giorgione and Titian. His landscapes glow with natural light.
+
+<sub>Portrait: Presumed self-portrait · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giovanni_Bellini_Felt%C3%A9telezett%C3%96narck%C3%A9peKJ.jpg)</sub>
 
 ## Biography
 

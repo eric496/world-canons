@@ -1,10 +1,14 @@
 # Johannes Vermeer
 
+<a href="https://commons.wikimedia.org/wiki/File:Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg/330px-Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg" alt="Johannes Vermeer" title="Figure in The Procuress, 1656, often thought to be a self-portrait"></a>
+
 **1632 – 1675** · Dutch  
 Born: Delft, Dutch Republic · Died: Delft  
 Movements: [Baroque](../movements/baroque.md)  
 
 > Vermeer painted quiet domestic interiors bathed in pearly daylight. Only about 35 works are attributed to him, and he was largely forgotten until the 19th century.
+
+<sub>Portrait: Figure in The Procuress, 1656, often thought to be a self-portrait · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg)</sub>
 
 ## Biography
 

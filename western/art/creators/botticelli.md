@@ -1,10 +1,14 @@
 # Sandro Botticelli
 
+<a href="https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_083.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/330px-Sandro_Botticelli_083.jpg" alt="Sandro Botticelli" title="Presumed self-portrait, detail of the Adoration of the Magi, c. 1475"></a>
+
 **c. 1445 – 1510** · Italian  
 Born: Florence, Italy · Died: Florence  
 Movements: [Early Italian Renaissance](../movements/early-renaissance.md)  
 
 > A Florentine painter close to the Medici circle, known for graceful line and mythological subjects drawn from Neoplatonic philosophy. His work fell out of favour for centuries before being rediscovered in the 19th century.
+
+<sub>Portrait: Presumed self-portrait, detail of the Adoration of the Magi, c. 1475 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_083.jpg)</sub>
 
 ## Biography
 

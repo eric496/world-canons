@@ -6,7 +6,7 @@
 
 Western art from ancient Greek sculpture to the 1980s, built around the artworks and the people who made them. Every artist has a full biography and every work a detailed introduction. Public-domain works are shown in high resolution from Wikimedia Commons; works still under copyright link to the official museum page.
 
-**111 artists** · **165 artworks** (147 with images) · **24 movements** · 0 portraits
+**111 artists** · **165 artworks** (147 with images) · **24 movements** · 51 portraits
 
 ## Browse
 

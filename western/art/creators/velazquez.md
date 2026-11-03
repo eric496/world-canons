@@ -1,10 +1,14 @@
 # Diego Velázquez
 
+<a href="https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg" alt="Diego Velázquez" title="Self-portrait, c. 1640s, Museo de Bellas Artes, Valencia"></a>
+
 **1599 – 1660** · Spanish  
 Born: Seville · Died: Madrid  
 Movements: [Baroque](../movements/baroque.md)  
 
 > Court painter to Philip IV of Spain, admired for his virtuoso, economical brushwork and penetrating portraits. Manet called him 'the painter of painters'.
+
+<sub>Portrait: Self-portrait, c. 1640s, Museo de Bellas Artes, Valencia · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg)</sub>
 
 ## Biography
 

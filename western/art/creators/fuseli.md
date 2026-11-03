@@ -1,10 +1,14 @@
 # Henry Fuseli
 
+<a href="https://commons.wikimedia.org/wiki/File:Henry_Fuseli_by_James_Northcote.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Henry_Fuseli_by_James_Northcote.jpg/330px-Henry_Fuseli_by_James_Northcote.jpg" alt="Henry Fuseli" title="Portrait by James Northcote, 1778"></a>
+
 **1741 – 1825** · Swiss-British  
 Born: Zürich · Died: London  
 Movements: [Romanticism](../movements/romanticism.md)  
 
 > A Swiss-born painter in London who specialised in the supernatural, dreams and dramatic literary scenes.
+
+<sub>Portrait: Portrait by James Northcote, 1778 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henry_Fuseli_by_James_Northcote.jpg)</sub>
 
 ## Biography
 

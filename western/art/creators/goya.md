@@ -1,10 +1,14 @@
 # Francisco Goya
 
+<a href="https://commons.wikimedia.org/wiki/File:Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg/330px-Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg" alt="Francisco Goya" title="Portrait by Vicente López Portaña, 1826"></a>
+
 **1746 – 1828** · Spanish  
 Born: Fuendetodos, Spain · Died: Bordeaux, France  
 Movements: [Romanticism](../movements/romanticism.md)  
 
 > Court painter to the Spanish crown who became an unsparing witness to war, cruelty and superstition. His late 'Black Paintings' and print series point straight toward modern art.
+
+<sub>Portrait: Portrait by Vicente López Portaña, 1826 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg)</sub>
 
 ## Biography
 

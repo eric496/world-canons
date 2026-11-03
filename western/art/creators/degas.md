@@ -1,10 +1,14 @@
 # Edgar Degas
 
+<a href="https://commons.wikimedia.org/wiki/File:Self-portrait_by_Edgar_Degas.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Self-portrait_by_Edgar_Degas.jpg/330px-Self-portrait_by_Edgar_Degas.jpg" alt="Edgar Degas" title="Self-portrait"></a>
+
 **1834 – 1917** · French  
 Born: Paris · Died: Paris  
 Movements: [Impressionism](../movements/impressionism.md)  
 
 > A founder of the Impressionist exhibitions who preferred the studio to the outdoors. He is known for dancers, racecourses and bold, cropped compositions influenced by photography and Japanese prints.
+
+<sub>Portrait: Self-portrait · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Self-portrait_by_Edgar_Degas.jpg)</sub>
 
 ## Biography
 
@@ -48,7 +52,7 @@ Painted in 1875–76, this scene of café life was posed by Degas's friends, the
 
 [![Little Dancer Aged Fourteen](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/The_Little_Fourteen-Year-Old_Dancer_MET_DP-14939-005.jpg/1280px-The_Little_Fourteen-Year-Old_Dancer_MET_DP-14939-005.jpg)](https://commons.wikimedia.org/wiki/File:The_Little_Fourteen-Year-Old_Dancer_MET_DP-14939-005.jpg)
 
-<sub>Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_Little_Fourteen-Year-Old_Dancer_MET_DP-14939-005.jpg).</sub>
+<sub>Posthumous bronze cast, Metropolitan Museum of Art, New York Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_Little_Fourteen-Year-Old_Dancer_MET_DP-14939-005.jpg).</sub>
 
 - **Date:** 1878–81
 - **Type:** Wax sculpture with fabric and hair

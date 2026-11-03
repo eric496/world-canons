@@ -6,14 +6,18 @@ Era: [The Renaissance](../../periods/renaissance.md)
 
 A short peak of balance and harmony centred on Rome, Florence, Milan and Venice, defined by Leonardo, Michelangelo, Raphael and Titian.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1280px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg" width="100%" alt="High Renaissance">
+
+<sub>Raphael, The School of Athens, 1509–11 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)</sub>
+
 ## Artists
 
--  [Giovanni Bellini](../creators/bellini.md) (c. 1430 – 1516)
--  [Leonardo da Vinci](../creators/leonardo.md) (1452 – 1519)
--  [Michelangelo Buonarroti](../creators/michelangelo.md) (1475 – 1564)
--  [Giorgione](../creators/giorgione.md) (c. 1477 – 1510)
--  [Raphael (Raffaello Sanzio)](../creators/raphael.md) (1483 – 1520)
--  [Titian (Tiziano Vecellio)](../creators/titian.md) (c. 1488–90 – 1576)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Giovanni_Bellini_Felt%C3%A9telezett%C3%96narck%C3%A9peKJ.jpg/330px-Giovanni_Bellini_Felt%C3%A9telezett%C3%96narck%C3%A9peKJ.jpg" width="40" alt="Giovanni Bellini"> [Giovanni Bellini](../creators/bellini.md) (c. 1430 – 1516)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png/330px-Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png" width="40" alt="Leonardo da Vinci"> [Leonardo da Vinci](../creators/leonardo.md) (1452 – 1519)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/330px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg" width="40" alt="Michelangelo Buonarroti"> [Michelangelo Buonarroti](../creators/michelangelo.md) (1475 – 1564)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Self_portrait%2C_by_Giorgio_da_Castelfranco.jpg/330px-Self_portrait%2C_by_Giorgio_da_Castelfranco.jpg" width="40" alt="Giorgione"> [Giorgione](../creators/giorgione.md) (c. 1477 – 1510)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Raffaello_Sanzio.jpg/330px-Raffaello_Sanzio.jpg" width="40" alt="Raphael (Raffaello Sanzio)"> [Raphael (Raffaello Sanzio)](../creators/raphael.md) (1483 – 1520)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg/330px-Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg" width="40" alt="Titian (Tiziano Vecellio)"> [Titian (Tiziano Vecellio)](../creators/titian.md) (c. 1488–90 – 1576)
 
 ## Key artworks
 

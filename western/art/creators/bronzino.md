@@ -1,10 +1,14 @@
 # Agnolo Bronzino
 
+<a href="https://commons.wikimedia.org/wiki/File:Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg/330px-Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg" alt="Agnolo Bronzino" title="Portrait in Alessandro Allori's Holy Trinity fresco, c. 1567–71"></a>
+
 **1503 – 1572** · Italian  
 Born: Florence · Died: Florence  
 Movements: [Mannerism](../movements/mannerism.md)  
 
 > Court painter to Cosimo I de' Medici, famed for cool, enamel-smooth portraits and complex allegories.
+
+<sub>Portrait: Portrait in Alessandro Allori's Holy Trinity fresco, c. 1567–71 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg)</sub>
 
 ## Biography
 

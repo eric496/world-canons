@@ -1,10 +1,14 @@
 # Giovanni Battista Tiepolo
 
+<a href="https://commons.wikimedia.org/wiki/File:Tiepolo%2C_Giovanni_Battista_-_Fresken_Treppenhaus_des_W%C3%BCrzburger_Residenzschlosses%2C_Szenen_zur_Apotheose_des_F%C3%BCrstbischofs%2C_Detail_Giovanni_Battista_Tiepolo_-_1750-1753.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tiepolo%2C_Giovanni_Battista_-_Fresken_Treppenhaus_des_W%C3%BCrzburger_Residenzschlosses%2C_Szenen_zur_Apotheose_des_F%C3%BCrstbischofs%2C_Detail_Giovanni_Battista_Tiepolo_-_1750-1753.jpg" alt="Giovanni Battista Tiepolo" title="Self-portrait in the staircase fresco of the Würzburg Residence, 1752–53"></a>
+
 **1696 – 1770** · Italian  
 Born: Venice · Died: Madrid  
 Movements: [Rococo](../movements/rococo.md)  
 
 > The greatest decorative painter of the 18th century, filling palace ceilings across Europe with luminous skies and figures.
+
+<sub>Portrait: Self-portrait in the staircase fresco of the Würzburg Residence, 1752–53 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tiepolo%2C_Giovanni_Battista_-_Fresken_Treppenhaus_des_W%C3%BCrzburger_Residenzschlosses%2C_Szenen_zur_Apotheose_des_F%C3%BCrstbischofs%2C_Detail_Giovanni_Battista_Tiepolo_-_1750-1753.jpg)</sub>
 
 ## Biography
 

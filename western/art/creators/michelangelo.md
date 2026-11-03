@@ -1,10 +1,15 @@
 # Michelangelo Buonarroti
 
+<a href="https://commons.wikimedia.org/wiki/File:Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/330px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg" alt="Michelangelo Buonarroti" title="Portrait by Daniele da Volterra, c. 1544"></a>
+
 **1475 – 1564** · Italian  
 Born: Caprese, Republic of Florence · Died: Rome  
 Movements: [High Renaissance](../movements/high-renaissance.md), [Mannerism](../movements/mannerism.md)  
+Also in: [Architecture](../../architecture/creators/michelangelo.md)  
 
 > Sculptor first, but also painter, architect and poet. His heroic, muscular figures dominate the High Renaissance, and his late work points toward Mannerism.
+
+<sub>Portrait: Portrait by Daniele da Volterra, c. 1544 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg)</sub>
 
 ## Biography
 

@@ -1,10 +1,14 @@
 # El Greco (Domenikos Theotokopoulos)
 
+<a href="https://commons.wikimedia.org/wiki/File:El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg/330px-El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg" alt="El Greco (Domenikos Theotokopoulos)" title="Portrait of a Man, c. 1595–1600, probably a self-portrait"></a>
+
 **1541 – 1614** · Greek-Spanish  
 Born: Crete (then Venetian) · Died: Toledo, Spain  
 Movements: [Mannerism](../movements/mannerism.md)  
 
 > Trained as an icon painter in Crete, then in Venice and Rome, El Greco settled in Toledo. His elongated, flickering figures and visionary colour were rediscovered by early modernists.
+
+<sub>Portrait: Portrait of a Man, c. 1595–1600, probably a self-portrait · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg)</sub>
 
 ## Biography
 

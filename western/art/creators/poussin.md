@@ -1,10 +1,14 @@
 # Nicolas Poussin
 
+<a href="https://commons.wikimedia.org/wiki/File:Nicolas_Poussin_078.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nicolas_Poussin_078.jpg/330px-Nicolas_Poussin_078.jpg" alt="Nicolas Poussin" title="Self-portrait, 1650"></a>
+
 **1594 – 1665** · French  
 Born: Les Andelys, Normandy · Died: Rome  
 Movements: [Baroque](../movements/baroque.md)  
 
 > The founder of French classical painting, who worked mostly in Rome on ordered, intellectual scenes from mythology, history and the Bible.
+
+<sub>Portrait: Self-portrait, 1650 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nicolas_Poussin_078.jpg)</sub>
 
 ## Biography
 

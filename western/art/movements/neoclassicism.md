@@ -6,10 +6,14 @@ Era: [The Enlightenment](../../periods/enlightenment.md)
 
 Inspired by excavations at Pompeii and Enlightenment ideals, artists return to clear line, civic virtue and Greco-Roman subjects.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Le_Serment_des_Horaces_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3692_%3B_MR_1432.jpg/1280px-Le_Serment_des_Horaces_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3692_%3B_MR_1432.jpg" width="100%" alt="Neoclassicism">
+
+<sub>Jacques-Louis David, Oath of the Horatii, 1784 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Le_Serment_des_Horaces_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3692_%3B_MR_1432.jpg)</sub>
+
 ## Artists
 
--  [Jacques-Louis David](../creators/david.md) (1748 – 1825)
--  [Antonio Canova](../creators/canova.md) (1757 – 1822)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/David_Self_Portrait.jpg/330px-David_Self_Portrait.jpg" width="40" alt="Jacques-Louis David"> [Jacques-Louis David](../creators/david.md) (1748 – 1825)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Antonio_Canova_Selfportrait_1792.jpg" width="40" alt="Antonio Canova"> [Antonio Canova](../creators/canova.md) (1757 – 1822)
 -  [Jean-Auguste-Dominique Ingres](../creators/ingres.md) (1780 – 1867)
 
 ## Key artworks

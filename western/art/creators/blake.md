@@ -1,10 +1,15 @@
 # William Blake
 
+<a href="https://commons.wikimedia.org/wiki/File:William_Blake_by_Thomas_Phillips.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/William_Blake_by_Thomas_Phillips.jpg/330px-William_Blake_by_Thomas_Phillips.jpg" alt="William Blake" title="Portrait by Thomas Phillips, 1807"></a>
+
 **1757 – 1827** · British  
 Born: London · Died: London  
 Movements: [Romanticism](../movements/romanticism.md)  
+Also in: [Literature](../../literature/creators/blake.md)  
 
 > Poet, painter and printmaker who invented relief etching to combine his own text and images into visionary illuminated books.
+
+<sub>Portrait: Portrait by Thomas Phillips, 1807 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:William_Blake_by_Thomas_Phillips.jpg)</sub>
 
 ## Biography
 

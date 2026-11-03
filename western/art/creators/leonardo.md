@@ -1,10 +1,15 @@
 # Leonardo da Vinci
 
+<a href="https://commons.wikimedia.org/wiki/File:Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png/330px-Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png" alt="Leonardo da Vinci" title="Portrait drawing by Francesco Melzi, c. 1515–18"></a>
+
 **1452 – 1519** · Italian  
 Born: Vinci, Republic of Florence · Died: Amboise, France  
 Movements: [High Renaissance](../movements/high-renaissance.md)  
+Also in: [Science](../../science/creators/leonardo.md)  
 
 > The archetypal Renaissance polymath: painter, engineer, anatomist and inventor. Fewer than twenty paintings survive, but his soft modelling (sfumato) and psychological depth transformed painting.
+
+<sub>Portrait: Portrait drawing by Francesco Melzi, c. 1515–18 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png)</sub>
 
 ## Biography
 

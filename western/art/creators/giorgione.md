@@ -1,10 +1,14 @@
 # Giorgione
 
+<a href="https://commons.wikimedia.org/wiki/File:Self_portrait%2C_by_Giorgio_da_Castelfranco.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Self_portrait%2C_by_Giorgio_da_Castelfranco.jpg/330px-Self_portrait%2C_by_Giorgio_da_Castelfranco.jpg" alt="Giorgione" title="Self-portrait as David (attributed), c. 1510"></a>
+
 **c. 1477 – 1510** · Italian  
 Born: Castelfranco Veneto · Died: Venice  
 Movements: [High Renaissance](../movements/high-renaissance.md)  
 
 > A mysterious Venetian who pioneered poetic, mood-driven landscape painting. Only a handful of works are securely his; he died young, probably of plague.
+
+<sub>Portrait: Self-portrait as David (attributed), c. 1510 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Self_portrait%2C_by_Giorgio_da_Castelfranco.jpg)</sub>
 
 ## Biography
 

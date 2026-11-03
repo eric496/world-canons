@@ -1,10 +1,14 @@
 # Thomas Gainsborough
 
+<a href="https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough_by_Thomas_Gainsborough.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Thomas_Gainsborough_by_Thomas_Gainsborough.jpg/330px-Thomas_Gainsborough_by_Thomas_Gainsborough.jpg" alt="Thomas Gainsborough" title="Self-portrait, c. 1759"></a>
+
 **1727 – 1788** · British  
 Born: Sudbury, Suffolk, England · Died: London  
 Movements: [Rococo](../movements/rococo.md)  
 
 > A leading British portrait and landscape painter and founder member of the Royal Academy, with a light, feathery touch.
+
+<sub>Portrait: Self-portrait, c. 1759 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough_by_Thomas_Gainsborough.jpg)</sub>
 
 ## Biography
 

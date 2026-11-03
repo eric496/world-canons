@@ -6,6 +6,10 @@ Era: [Modernism](../../periods/modern.md)
 
 American artists portray the modern city and its isolation in a clear, realist idiom.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Grant_Wood_-_American_Gothic_%281930%29.jpg/1280px-Grant_Wood_-_American_Gothic_%281930%29.jpg" width="100%" alt="American Modernism">
+
+<sub>Grant Wood, American Gothic, 1930 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Grant_Wood_-_American_Gothic_%281930%29.jpg)</sub>
+
 ## Artists
 
 -  [Edward Hopper](../creators/hopper.md) (1882 – 1967)

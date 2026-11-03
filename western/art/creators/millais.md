@@ -1,10 +1,14 @@
 # John Everett Millais
 
+<a href="https://commons.wikimedia.org/wiki/File:Sir_John_Everett_Millais%2C_1st_Bt_by_Charles_Robert_Leslie.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sir_John_Everett_Millais%2C_1st_Bt_by_Charles_Robert_Leslie.jpg/330px-Sir_John_Everett_Millais%2C_1st_Bt_by_Charles_Robert_Leslie.jpg" alt="John Everett Millais" title="Portrait by Charles Robert Leslie, 1852"></a>
+
 **1829 – 1896** · British  
 Born: Southampton, England · Died: London  
 Movements: [Pre-Raphaelite Brotherhood](../movements/pre-raphaelites.md)  
 
 > A child prodigy and co-founder of the Pre-Raphaelite Brotherhood who later became President of the Royal Academy.
+
+<sub>Portrait: Portrait by Charles Robert Leslie, 1852 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sir_John_Everett_Millais%2C_1st_Bt_by_Charles_Robert_Leslie.jpg)</sub>
 
 ## Biography
 

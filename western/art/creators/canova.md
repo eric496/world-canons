@@ -1,10 +1,14 @@
 # Antonio Canova
 
+<a href="https://commons.wikimedia.org/wiki/File:Antonio_Canova_Selfportrait_1792.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Antonio_Canova_Selfportrait_1792.jpg" alt="Antonio Canova" title="Self-portrait, 1792"></a>
+
 **1757 – 1822** · Italian  
 Born: Possagno, Republic of Venice · Died: Venice  
 Movements: [Neoclassicism](../movements/neoclassicism.md)  
 
 > The most celebrated Neoclassical sculptor, famous for marble of extraordinary smoothness and grace. He also helped recover art looted by Napoleon.
+
+<sub>Portrait: Self-portrait, 1792 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Antonio_Canova_Selfportrait_1792.jpg)</sub>
 
 ## Biography
 

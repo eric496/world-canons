@@ -1,10 +1,14 @@
 # Antoine Watteau
 
+<a href="https://commons.wikimedia.org/wiki/File:%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg/330px-%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg" alt="Antoine Watteau" title="Pastel portrait by Rosalba Carriera, 1721"></a>
+
 **1684 – 1721** · French  
 Born: Valenciennes, France · Died: Nogent-sur-Marne  
 Movements: [Rococo](../movements/rococo.md)  
 
 > Inventor of the fête galante, a scene of elegant figures flirting in dreamy parkland. His wistful mood set the tone for the Rococo.
+
+<sub>Portrait: Pastel portrait by Rosalba Carriera, 1721 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg)</sub>
 
 ## Biography
 

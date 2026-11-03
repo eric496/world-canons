@@ -6,18 +6,22 @@ Era: [Baroque & the Scientific Revolution](../../periods/seventeenth-century.md)
 
 Drama, movement and strong light-and-shadow (chiaroscuro). Catholic Baroque aims to overwhelm the faithful; Dutch Golden Age painting turns to portraits, interiors and civic life.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg/1280px-Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg" width="100%" alt="Baroque">
+
+<sub>Caravaggio, The Calling of Saint Matthew, 1599–1600 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg)</sub>
+
 ## Artists
 
--  [Caravaggio (Michelangelo Merisi)](../creators/caravaggio.md) (1571 – 1610)
--  [Peter Paul Rubens](../creators/rubens.md) (1577 – 1640)
--  [Frans Hals](../creators/hals.md) (c. 1582 – 1666)
--  [Artemisia Gentileschi](../creators/artemisia.md) (1593 – c. 1656)
--  [Nicolas Poussin](../creators/poussin.md) (1594 – 1665)
--  [Gian Lorenzo Bernini](../creators/bernini.md) (1598 – 1680)
--  [Diego Velázquez](../creators/velazquez.md) (1599 – 1660)
--  [Anthony van Dyck](../creators/van-dyck.md) (1599 – 1641)
--  [Rembrandt van Rijn](../creators/rembrandt.md) (1606 – 1669)
--  [Johannes Vermeer](../creators/vermeer.md) (1632 – 1675)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg/330px-Bild-Ottavio_Leoni%2C_Caravaggio.jpg" width="40" alt="Caravaggio (Michelangelo Merisi)"> [Caravaggio (Michelangelo Merisi)](../creators/caravaggio.md) (1571 – 1610)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peter_Paul_Rubens_-_Self-portrait_-_RH.S.180_-_Rubenshuis_%28after_restoration%29.jpg/330px-Peter_Paul_Rubens_-_Self-portrait_-_RH.S.180_-_Rubenshuis_%28after_restoration%29.jpg" width="40" alt="Peter Paul Rubens"> [Peter Paul Rubens](../creators/rubens.md) (1577 – 1640)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/After_Frans_Hals_-_Portrait_of_Frans_Hals_-_Indianapolis.jpg/330px-After_Frans_Hals_-_Portrait_of_Frans_Hals_-_Indianapolis.jpg" width="40" alt="Frans Hals"> [Frans Hals](../creators/hals.md) (c. 1582 – 1666)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg/330px-Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg" width="40" alt="Artemisia Gentileschi"> [Artemisia Gentileschi](../creators/artemisia.md) (1593 – c. 1656)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nicolas_Poussin_078.jpg/330px-Nicolas_Poussin_078.jpg" width="40" alt="Nicolas Poussin"> [Nicolas Poussin](../creators/poussin.md) (1594 – 1665)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg/330px-Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg" width="40" alt="Gian Lorenzo Bernini"> [Gian Lorenzo Bernini](../creators/bernini.md) (1598 – 1680)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg" width="40" alt="Diego Velázquez"> [Diego Velázquez](../creators/velazquez.md) (1599 – 1660)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Anthony_van_Dyck_-_Self-portrait_with_a_Sunflower.jpg/330px-Anthony_van_Dyck_-_Self-portrait_with_a_Sunflower.jpg" width="40" alt="Anthony van Dyck"> [Anthony van Dyck](../creators/van-dyck.md) (1599 – 1641)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg/330px-Rembrandt_Self-portrait_%28Kenwood%29.jpg" width="40" alt="Rembrandt van Rijn"> [Rembrandt van Rijn](../creators/rembrandt.md) (1606 – 1669)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg/330px-Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg" width="40" alt="Johannes Vermeer"> [Johannes Vermeer](../creators/vermeer.md) (1632 – 1675)
 
 ## Key artworks
 

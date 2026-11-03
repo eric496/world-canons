@@ -6,14 +6,18 @@ Era: [The Renaissance](../../periods/renaissance.md)
 
 In Flanders, the Netherlands and Germany, artists perfect oil painting and pursue minute detail, rich symbolism and scenes of everyday and moral life.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Arnolfini_portrait_%281434%29.jpg/1280px-The_Arnolfini_portrait_%281434%29.jpg" width="100%" alt="Northern Renaissance">
+
+<sub>Jan van Eyck, Arnolfini Portrait, 1434 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Arnolfini_portrait_%281434%29.jpg)</sub>
+
 ## Artists
 
--  [Jan van Eyck](../creators/van-eyck.md) (c. 1390 – 1441)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg/330px-Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg" width="40" alt="Jan van Eyck"> [Jan van Eyck](../creators/van-eyck.md) (c. 1390 – 1441)
 -  [Rogier van der Weyden](../creators/van-der-weyden.md) (c. 1399 – 1464)
 -  [Hieronymus Bosch](../creators/bosch.md) (c. 1450 – 1516)
--  [Albrecht Dürer](../creators/durer.md) (1471 – 1528)
--  [Hans Holbein the Younger](../creators/holbein.md) (c. 1497 – 1543)
--  [Pieter Bruegel the Elder](../creators/bruegel.md) (c. 1525 – 1569)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/D%C3%BCrer_Alte_Pinakothek.jpg/330px-D%C3%BCrer_Alte_Pinakothek.jpg" width="40" alt="Albrecht Dürer"> [Albrecht Dürer](../creators/durer.md) (1471 – 1528)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hans_Holbein_the_Younger%2C_self-portrait.jpg/330px-Hans_Holbein_the_Younger%2C_self-portrait.jpg" width="40" alt="Hans Holbein the Younger"> [Hans Holbein the Younger](../creators/holbein.md) (c. 1497 – 1543)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg/330px-Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg" width="40" alt="Pieter Bruegel the Elder"> [Pieter Bruegel the Elder](../creators/bruegel.md) (c. 1525 – 1569)
 
 ## Key artworks
 

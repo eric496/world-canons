@@ -6,15 +6,19 @@ Era: [Romanticism to the Fin de Siècle](../../periods/nineteenth-century.md)
 
 Emotion, the sublime power of nature, national struggle and the individual imagination take priority over reason and rules.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg/1280px-Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg" width="100%" alt="Romanticism">
+
+<sub>Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1818 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg)</sub>
+
 ## Artists
 
--  [Henry Fuseli](../creators/fuseli.md) (1741 – 1825)
--  [Francisco Goya](../creators/goya.md) (1746 – 1828)
--  [William Blake](../creators/blake.md) (1757 – 1827)
--  [Caspar David Friedrich](../creators/friedrich.md) (1774 – 1840)
--  [J. M. W. Turner](../creators/turner.md) (1775 – 1851)
--  [John Constable](../creators/constable.md) (1776 – 1837)
--  [Théodore Géricault](../creators/gericault.md) (1791 – 1824)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Henry_Fuseli_by_James_Northcote.jpg/330px-Henry_Fuseli_by_James_Northcote.jpg" width="40" alt="Henry Fuseli"> [Henry Fuseli](../creators/fuseli.md) (1741 – 1825)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg/330px-Vicente_L%C3%B3pez_Porta%C3%B1a_-_el_pintor_Francisco_de_Goya.jpg" width="40" alt="Francisco Goya"> [Francisco Goya](../creators/goya.md) (1746 – 1828)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/William_Blake_by_Thomas_Phillips.jpg/330px-William_Blake_by_Thomas_Phillips.jpg" width="40" alt="William Blake"> [William Blake](../creators/blake.md) (1757 – 1827)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg/330px-Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg" width="40" alt="Caspar David Friedrich"> [Caspar David Friedrich](../creators/friedrich.md) (1774 – 1840)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Turner_selfportrait_%28cropped%29.jpg/330px-Turner_selfportrait_%28cropped%29.jpg" width="40" alt="J. M. W. Turner"> [J. M. W. Turner](../creators/turner.md) (1775 – 1851)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/John_Constable_by_Ramsay_Richard_Reinagle.jpg/330px-John_Constable_by_Ramsay_Richard_Reinagle.jpg" width="40" alt="John Constable"> [John Constable](../creators/constable.md) (1776 – 1837)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horace_Vernet%2C_Jean-Louis-Andr%C3%A9-Th%C3%A9odore_Gericault%2C_probably_1822_or_1823%2C_1998.84%2C_MET.jpg/330px-Horace_Vernet%2C_Jean-Louis-Andr%C3%A9-Th%C3%A9odore_Gericault%2C_probably_1822_or_1823%2C_1998.84%2C_MET.jpg" width="40" alt="Théodore Géricault"> [Théodore Géricault](../creators/gericault.md) (1791 – 1824)
 -  [Eugène Delacroix](../creators/delacroix.md) (1798 – 1863)
 
 ## Key artworks

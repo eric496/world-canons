@@ -6,16 +6,20 @@ Era: [The Enlightenment](../../periods/enlightenment.md)
 
 A lighter, playful French court style of pastel colour, curving ornament, love and leisure.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_Swing_%28P430%29.jpg/1280px-The_Swing_%28P430%29.jpg" width="100%" alt="Rococo">
+
+<sub>Jean-Honoré Fragonard, The Swing, 1767 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Swing_%28P430%29.jpg)</sub>
+
 ## Artists
 
--  [Antoine Watteau](../creators/watteau.md) (1684 – 1721)
--  [Giovanni Battista Tiepolo](../creators/tiepolo.md) (1696 – 1770)
--  [William Hogarth](../creators/hogarth.md) (1697 – 1764)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg/330px-%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg" width="40" alt="Antoine Watteau"> [Antoine Watteau](../creators/watteau.md) (1684 – 1721)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tiepolo%2C_Giovanni_Battista_-_Fresken_Treppenhaus_des_W%C3%BCrzburger_Residenzschlosses%2C_Szenen_zur_Apotheose_des_F%C3%BCrstbischofs%2C_Detail_Giovanni_Battista_Tiepolo_-_1750-1753.jpg" width="40" alt="Giovanni Battista Tiepolo"> [Giovanni Battista Tiepolo](../creators/tiepolo.md) (1696 – 1770)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Painter_and_His_Pug_by_William_Hogarth.jpg/330px-The_Painter_and_His_Pug_by_William_Hogarth.jpg" width="40" alt="William Hogarth"> [William Hogarth](../creators/hogarth.md) (1697 – 1764)
 -  [Canaletto](../creators/canaletto.md) (1697 – 1768)
--  [Jean-Siméon Chardin](../creators/chardin.md) (1699 – 1779)
--  [François Boucher](../creators/boucher.md) (1703 – 1770)
--  [Thomas Gainsborough](../creators/gainsborough.md) (1727 – 1788)
--  [Jean-Honoré Fragonard](../creators/fragonard.md) (1732 – 1806)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Chardin_pastel_selfportrait.jpg/330px-Chardin_pastel_selfportrait.jpg" width="40" alt="Jean-Siméon Chardin"> [Jean-Siméon Chardin](../creators/chardin.md) (1699 – 1779)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Boucher_par_Gustav_Lundberg_1741.jpg/330px-Boucher_par_Gustav_Lundberg_1741.jpg" width="40" alt="François Boucher"> [François Boucher](../creators/boucher.md) (1703 – 1770)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Thomas_Gainsborough_by_Thomas_Gainsborough.jpg/330px-Thomas_Gainsborough_by_Thomas_Gainsborough.jpg" width="40" alt="Thomas Gainsborough"> [Thomas Gainsborough](../creators/gainsborough.md) (1727 – 1788)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Jean-Honor%C3%A9_Fragonard_-_Self-portrait_with_smiling_face.jpg" width="40" alt="Jean-Honoré Fragonard"> [Jean-Honoré Fragonard](../creators/fragonard.md) (1732 – 1806)
 
 ## Key artworks
 

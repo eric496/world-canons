@@ -6,6 +6,10 @@ Era: [Modernism](../../periods/modern.md)
 
 Art without recognisable subject matter: Kandinsky's spiritual colour music and Mondrian's grid of primaries.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg/1280px-Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg" width="100%" alt="Early Abstraction">
+
+<sub>Wassily Kandinsky, Composition VII, 1913 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg)</sub>
+
 ## Artists
 
 -  [Wassily Kandinsky](../creators/kandinsky.md) (1866 – 1944)

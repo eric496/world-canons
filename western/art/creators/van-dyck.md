@@ -1,10 +1,14 @@
 # Anthony van Dyck
 
+<a href="https://commons.wikimedia.org/wiki/File:Anthony_van_Dyck_-_Self-portrait_with_a_Sunflower.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Anthony_van_Dyck_-_Self-portrait_with_a_Sunflower.jpg/330px-Anthony_van_Dyck_-_Self-portrait_with_a_Sunflower.jpg" alt="Anthony van Dyck" title="Self-Portrait with a Sunflower, c. 1632–33"></a>
+
 **1599 – 1641** · Flemish  
 Born: Antwerp · Died: London  
 Movements: [Baroque](../movements/baroque.md)  
 
 > Rubens's most gifted assistant, who became principal painter to Charles I of England. His elegant aristocratic portraits set the model for British portraiture.
+
+<sub>Portrait: Self-Portrait with a Sunflower, c. 1632–33 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anthony_van_Dyck_-_Self-portrait_with_a_Sunflower.jpg)</sub>
 
 ## Biography
 

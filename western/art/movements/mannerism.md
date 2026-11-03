@@ -6,13 +6,17 @@ Era: [The Renaissance](../../periods/renaissance.md)
 
 A reaction to High Renaissance calm: elongated figures, unstable compositions, acid colour and deliberate artifice.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Parmigianino_-_Madonna_and_Child_with_Angels%2C_known_as_the_Madonna_with_the_Long_Neck.jpg/1280px-Parmigianino_-_Madonna_and_Child_with_Angels%2C_known_as_the_Madonna_with_the_Long_Neck.jpg" width="100%" alt="Mannerism">
+
+<sub>Parmigianino, Madonna with the Long Neck, c. 1534–40 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parmigianino_-_Madonna_and_Child_with_Angels%2C_known_as_the_Madonna_with_the_Long_Neck.jpg)</sub>
+
 ## Artists
 
--  [Michelangelo Buonarroti](../creators/michelangelo.md) (1475 – 1564)
--  [Parmigianino](../creators/parmigianino.md) (1503 – 1540)
--  [Agnolo Bronzino](../creators/bronzino.md) (1503 – 1572)
--  [Tintoretto](../creators/tintoretto.md) (1518 – 1594)
--  [El Greco (Domenikos Theotokopoulos)](../creators/el-greco.md) (1541 – 1614)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/330px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg" width="40" alt="Michelangelo Buonarroti"> [Michelangelo Buonarroti](../creators/michelangelo.md) (1475 – 1564)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Parmigianino_Selfportrait.jpg/330px-Parmigianino_Selfportrait.jpg" width="40" alt="Parmigianino"> [Parmigianino](../creators/parmigianino.md) (1503 – 1540)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg/330px-Alessandro_Allori%2C_santissima_trinit%C3%A0%2C_1567-1571_circa%2C_ritratto_dei_maestri%2C_bronzino_%28cropped%29.jpg" width="40" alt="Agnolo Bronzino"> [Agnolo Bronzino](../creators/bronzino.md) (1503 – 1572)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tintoretto-selfport.jpg/330px-Tintoretto-selfport.jpg" width="40" alt="Tintoretto"> [Tintoretto](../creators/tintoretto.md) (1518 – 1594)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg/330px-El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg" width="40" alt="El Greco (Domenikos Theotokopoulos)"> [El Greco (Domenikos Theotokopoulos)](../creators/el-greco.md) (1541 – 1614)
 
 ## Key artworks
 

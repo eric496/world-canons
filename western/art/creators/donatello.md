@@ -1,10 +1,14 @@
 # Donatello
 
+<a href="https://commons.wikimedia.org/wiki/File:Donatello%2C_miracolo_della_mula%2C_1446-49_ca._%28pd%2C_museo_antoniano%29_37_uomo_che_si_allontana%2C_forse_autoritratto_%28cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Donatello%2C_miracolo_della_mula%2C_1446-49_ca._%28pd%2C_museo_antoniano%29_37_uomo_che_si_allontana%2C_forse_autoritratto_%28cropped%29.jpg" alt="Donatello" title="Possible self-portrait, detail of the Miracle of the Mule relief, Padua, 1446–49"></a>
+
 **c. 1386 – 1466** · Italian  
 Born: Florence, Italy · Died: Florence  
 Movements: [Early Italian Renaissance](../movements/early-renaissance.md)  
 
 > The most inventive sculptor of the early Renaissance, Donatello revived the classical nude and free-standing bronze statue. He worked in marble, bronze, wood and terracotta with striking psychological realism.
+
+<sub>Portrait: Possible self-portrait, detail of the Miracle of the Mule relief, Padua, 1446–49 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Donatello%2C_miracolo_della_mula%2C_1446-49_ca._%28pd%2C_museo_antoniano%29_37_uomo_che_si_allontana%2C_forse_autoritratto_%28cropped%29.jpg)</sub>
 
 ## Biography
 

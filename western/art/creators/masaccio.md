@@ -1,10 +1,14 @@
 # Masaccio
 
+<a href="https://commons.wikimedia.org/wiki/File:Masaccio_Self_Portrait.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Masaccio_Self_Portrait.jpg" alt="Masaccio" title="Presumed self-portrait, Brancacci Chapel, Florence"></a>
+
 **1401 – 1428** · Italian  
 Born: San Giovanni Valdarno, near Florence · Died: Rome  
 Movements: [Early Italian Renaissance](../movements/early-renaissance.md)  
 
 > In a career of barely six years, Masaccio applied perspective and solid, light-modelled figures to painting. He died at 26.
+
+<sub>Portrait: Presumed self-portrait, Brancacci Chapel, Florence · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Masaccio_Self_Portrait.jpg)</sub>
 
 ## Biography
 

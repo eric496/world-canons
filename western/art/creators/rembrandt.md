@@ -1,10 +1,14 @@
 # Rembrandt van Rijn
 
+<a href="https://commons.wikimedia.org/wiki/File:Rembrandt_Self-portrait_%28Kenwood%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg/330px-Rembrandt_Self-portrait_%28Kenwood%29.jpg" alt="Rembrandt van Rijn" title="Self-Portrait with Two Circles, c. 1665–69"></a>
+
 **1606 – 1669** · Dutch  
 Born: Leiden, Dutch Republic · Died: Amsterdam  
 Movements: [Baroque](../movements/baroque.md)  
 
 > The greatest painter of the Dutch Golden Age, celebrated for dramatic light, deep humanity and a lifelong series of self-portraits. He was also a master etcher.
+
+<sub>Portrait: Self-Portrait with Two Circles, c. 1665–69 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rembrandt_Self-portrait_%28Kenwood%29.jpg)</sub>
 
 ## Biography
 

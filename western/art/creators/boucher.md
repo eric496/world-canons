@@ -1,10 +1,14 @@
 # François Boucher
 
+<a href="https://commons.wikimedia.org/wiki/File:Boucher_par_Gustav_Lundberg_1741.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Boucher_par_Gustav_Lundberg_1741.jpg/330px-Boucher_par_Gustav_Lundberg_1741.jpg" alt="François Boucher" title="Pastel portrait by Gustav Lundberg, 1741"></a>
+
 **1703 – 1770** · French  
 Born: Paris · Died: Paris  
 Movements: [Rococo](../movements/rococo.md)  
 
 > The favourite painter of Madame de Pompadour and first painter to Louis XV, the embodiment of Rococo decoration and pastoral fantasy.
+
+<sub>Portrait: Pastel portrait by Gustav Lundberg, 1741 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Boucher_par_Gustav_Lundberg_1741.jpg)</sub>
 
 ## Biography
 

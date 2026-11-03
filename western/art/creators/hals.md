@@ -1,10 +1,14 @@
 # Frans Hals
 
+<a href="https://commons.wikimedia.org/wiki/File:After_Frans_Hals_-_Portrait_of_Frans_Hals_-_Indianapolis.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/After_Frans_Hals_-_Portrait_of_Frans_Hals_-_Indianapolis.jpg/330px-After_Frans_Hals_-_Portrait_of_Frans_Hals_-_Indianapolis.jpg" alt="Frans Hals" title="Portrait of Frans Hals, copy after a lost original, Indianapolis Museum of Art"></a>
+
 **c. 1582 – 1666** · Dutch  
 Born: Antwerp · Died: Haarlem  
 Movements: [Baroque](../movements/baroque.md)  
 
 > A Haarlem portraitist whose loose, lively brushwork captured fleeting expressions. Impressionists such as Manet admired him greatly.
+
+<sub>Portrait: Portrait of Frans Hals, copy after a lost original, Indianapolis Museum of Art · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:After_Frans_Hals_-_Portrait_of_Frans_Hals_-_Indianapolis.jpg)</sub>
 
 ## Biography
 

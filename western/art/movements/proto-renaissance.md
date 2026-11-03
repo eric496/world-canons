@@ -6,6 +6,10 @@ Era: [The Middle Ages](../../periods/middle-ages.md)
 
 Painters begin to break from flat Byzantine conventions, giving figures weight, emotion and a believable space to inhabit. Giotto is the pivotal figure.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Compianto_sul_Cristo_morto.jpg/1280px-Compianto_sul_Cristo_morto.jpg" width="100%" alt="Late Gothic & Proto-Renaissance">
+
+<sub>Giotto, Lamentation, Scrovegni Chapel, Padua, c. 1305 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Compianto_sul_Cristo_morto.jpg)</sub>
+
 ## Artists
 
 -  [Cimabue](../creators/cimabue.md) (c. 1240 – 1302)

@@ -6,6 +6,10 @@ Era: [Romanticism to the Fin de Siècle](../../periods/nineteenth-century.md)
 
 Dream, myth, eroticism and anxiety expressed through ornament and symbolic form; Vienna Secession and Nordic angst.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg/1280px-The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg" width="100%" alt="Symbolism & Art Nouveau">
+
+<sub>Gustav Klimt, The Kiss, 1907–08 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg)</sub>
+
 ## Artists
 
 -  [Paul Gauguin](../creators/gauguin.md) (1848 – 1903)

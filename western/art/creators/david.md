@@ -1,10 +1,14 @@
 # Jacques-Louis David
 
+<a href="https://commons.wikimedia.org/wiki/File:David_Self_Portrait.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/David_Self_Portrait.jpg/330px-David_Self_Portrait.jpg" alt="Jacques-Louis David" title="Self-portrait, 1794"></a>
+
 **1748 – 1825** · French  
 Born: Paris · Died: Brussels  
 Movements: [Neoclassicism](../movements/neoclassicism.md)  
 
 > The leading Neoclassical painter, an active revolutionary and later Napoleon's official painter. He died in exile in Brussels after the Bourbon restoration.
+
+<sub>Portrait: Self-portrait, 1794 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:David_Self_Portrait.jpg)</sub>
 
 ## Biography
 

@@ -1,10 +1,14 @@
 # Caravaggio (Michelangelo Merisi)
 
+<a href="https://commons.wikimedia.org/wiki/File:Bild-Ottavio_Leoni%2C_Caravaggio.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg/330px-Bild-Ottavio_Leoni%2C_Caravaggio.jpg" alt="Caravaggio (Michelangelo Merisi)" title="Portrait drawing by Ottavio Leoni, c. 1621"></a>
+
 **1571 – 1610** · Italian  
 Born: Milan · Died: Porto Ercole  
 Movements: [Baroque](../movements/baroque.md)  
 
 > Caravaggio used street models and dramatic spotlighting (tenebrism) to make sacred scenes startlingly real. His violent life was as famous as his art, and his followers spread his style across Europe.
+
+<sub>Portrait: Portrait drawing by Ottavio Leoni, c. 1621 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bild-Ottavio_Leoni%2C_Caravaggio.jpg)</sub>
 
 ## Biography
 

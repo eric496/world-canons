@@ -6,12 +6,16 @@ Era: [Romanticism to the Fin de Siècle](../../periods/nineteenth-century.md)
 
 Painters push past Impressionism toward structure (Cézanne), science (Seurat), symbolism (Gauguin) and expressive colour (Van Gogh).
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" width="100%" alt="Post-Impressionism">
+
+<sub>Vincent van Gogh, The Starry Night, 1889 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)</sub>
+
 ## Artists
 
 -  [Paul Cézanne](../creators/cezanne.md) (1839 – 1906)
 -  [Henri Rousseau](../creators/rousseau.md) (1844 – 1910)
 -  [Paul Gauguin](../creators/gauguin.md) (1848 – 1903)
--  [Vincent van Gogh](../creators/van-gogh.md) (1853 – 1890)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/330px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg" width="40" alt="Vincent van Gogh"> [Vincent van Gogh](../creators/van-gogh.md) (1853 – 1890)
 -  [Georges Seurat](../creators/seurat.md) (1859 – 1891)
 -  [Henri de Toulouse-Lautrec](../creators/toulouse-lautrec.md) (1864 – 1901)
 

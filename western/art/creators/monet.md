@@ -48,7 +48,7 @@ Painted in 1875 at Argenteuil, this painting in the National Gallery of Art, Was
 
 [![Water Lilies (Nymphéas) murals](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg/1280px-Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg)](https://commons.wikimedia.org/wiki/File:Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg)
 
-<sub>Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg).</sub>
+<sub>Reflections of Clouds on the Water-Lily Pond, c. 1920, Museum of Modern Art, New York: a related triptych, not the Orangerie cycle Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg).</sub>
 
 - **Date:** c. 1914–26
 - **Type:** Oil on canvas (cycle)

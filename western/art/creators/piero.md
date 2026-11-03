@@ -1,10 +1,14 @@
 # Piero della Francesca
 
+<a href="https://commons.wikimedia.org/wiki/File:Delle_vite_de%27_pi%C3%B9_eccellenti_pittori%2C_scultori%2C_et_architetti_%281648%29_%2814799608033%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Delle_vite_de%27_pi%C3%B9_eccellenti_pittori%2C_scultori%2C_et_architetti_%281648%29_%2814799608033%29.jpg/330px-Delle_vite_de%27_pi%C3%B9_eccellenti_pittori%2C_scultori%2C_et_architetti_%281648%29_%2814799608033%29.jpg" alt="Piero della Francesca" title="Woodcut portrait from Vasari's Lives (1648 edition)"></a>
+
 **c. 1415 – 1492** · Italian  
 Born: Borgo San Sepolcro · Died: Borgo San Sepolcro  
 Movements: [Early Italian Renaissance](../movements/early-renaissance.md)  
 
 > A painter and mathematician whose works have a calm, geometric order and cool light. He wrote treatises on perspective and geometry.
+
+<sub>Portrait: Woodcut portrait from Vasari's Lives (1648 edition) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Delle_vite_de%27_pi%C3%B9_eccellenti_pittori%2C_scultori%2C_et_architetti_%281648%29_%2814799608033%29.jpg)</sub>
 
 ## Biography
 

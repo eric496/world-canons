@@ -1,10 +1,14 @@
 # Jean-Honoré Fragonard
 
+<a href="https://commons.wikimedia.org/wiki/File:Jean-Honor%C3%A9_Fragonard_-_Self-portrait_with_smiling_face.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Jean-Honor%C3%A9_Fragonard_-_Self-portrait_with_smiling_face.jpg" alt="Jean-Honoré Fragonard" title="Self-portrait"></a>
+
 **1732 – 1806** · French  
 Born: Grasse, France · Died: Paris  
 Movements: [Rococo](../movements/rococo.md)  
 
 > A brilliant, rapid painter of love scenes and gardens for aristocratic patrons. The French Revolution ended demand for his work.
+
+<sub>Portrait: Self-portrait · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jean-Honor%C3%A9_Fragonard_-_Self-portrait_with_smiling_face.jpg)</sub>
 
 ## Biography
 

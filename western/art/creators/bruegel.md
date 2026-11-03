@@ -1,10 +1,14 @@
 # Pieter Bruegel the Elder
 
+<a href="https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg/330px-Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg" alt="Pieter Bruegel the Elder" title="The Painter and the Buyer, drawing, c. 1566, often taken as a self-portrait"></a>
+
 **c. 1525 – 1569** · Flemish  
 Born: probably Breda, Low Countries · Died: Brussels  
 Movements: [Northern Renaissance](../movements/northern-renaissance.md)  
 
 > Bruegel painted peasant life, proverbs and landscapes with humour and humanity. His seasonal landscapes are among the first great pure landscape paintings in Europe.
+
+<sub>Portrait: The Painter and the Buyer, drawing, c. 1566, often taken as a self-portrait · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Painter_and_the_Buyer%2C_ca._1566_-_Google_Art_Project.jpg)</sub>
 
 ## Biography
 

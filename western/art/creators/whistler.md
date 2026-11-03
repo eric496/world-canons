@@ -1,10 +1,14 @@
 # James McNeill Whistler
 
+<a href="https://commons.wikimedia.org/wiki/File:Whistler_Selbstportr%C3%A4t.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Whistler_Selbstportr%C3%A4t.jpg/330px-Whistler_Selbstportr%C3%A4t.jpg" alt="James McNeill Whistler" title="Self-portrait"></a>
+
 **1834 – 1903** · American  
 Born: Lowell, Massachusetts · Died: London  
 Movements: [Realism](../movements/realism.md)  
 
 > An American based in London and Paris who championed 'art for art's sake', titling his paintings like musical compositions.
+
+<sub>Portrait: Self-portrait · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Whistler_Selbstportr%C3%A4t.jpg)</sub>
 
 ## Biography
 

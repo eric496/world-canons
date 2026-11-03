@@ -1,10 +1,14 @@
 # Andrea Mantegna
 
+<a href="https://commons.wikimedia.org/wiki/File:Mantegna_Bronze_Bust_San_Andrea_Mantua.png"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Mantegna_Bronze_Bust_San_Andrea_Mantua.png" alt="Andrea Mantegna" title="Bronze bust in his funerary chapel, Sant'Andrea, Mantua"></a>
+
 **c. 1431 – 1506** · Italian  
 Born: Isola di Carturo, near Padua · Died: Mantua  
 Movements: [Early Italian Renaissance](../movements/early-renaissance.md)  
 
 > Court painter to the Gonzaga in Mantua, famous for archaeological detail and daring foreshortening.
+
+<sub>Portrait: Bronze bust in his funerary chapel, Sant'Andrea, Mantua · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mantegna_Bronze_Bust_San_Andrea_Mantua.png)</sub>
 
 ## Biography
 

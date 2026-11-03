@@ -1,10 +1,14 @@
 # Tintoretto
 
+<a href="https://commons.wikimedia.org/wiki/File:Tintoretto-selfport.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tintoretto-selfport.jpg/330px-Tintoretto-selfport.jpg" alt="Tintoretto" title="Self-portrait, c. 1588"></a>
+
 **1518 – 1594** · Italian  
 Born: Venice · Died: Venice  
 Movements: [Mannerism](../movements/mannerism.md)  
 
 > A fast, dramatic Venetian painter who aimed to combine 'the drawing of Michelangelo and the colour of Titian', with dynamic diagonals and theatrical light.
+
+<sub>Portrait: Self-portrait, c. 1588 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tintoretto-selfport.jpg)</sub>
 
 ## Biography
 

@@ -1,10 +1,14 @@
 # Dante Gabriel Rossetti
 
+<a href="https://commons.wikimedia.org/wiki/File:William_Holman_Hunt_-_Portrait_of_Dante_Gabriel_Rossetti_at_22_years_of_Age_-_Google_Art_Project.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/William_Holman_Hunt_-_Portrait_of_Dante_Gabriel_Rossetti_at_22_years_of_Age_-_Google_Art_Project.jpg/330px-William_Holman_Hunt_-_Portrait_of_Dante_Gabriel_Rossetti_at_22_years_of_Age_-_Google_Art_Project.jpg" alt="Dante Gabriel Rossetti" title="Portrait by William Holman Hunt, 1853"></a>
+
 **1828 – 1882** · British  
 Born: London · Died: Birchington-on-Sea, England  
 Movements: [Pre-Raphaelite Brotherhood](../movements/pre-raphaelites.md)  
 
 > Poet and painter, co-founder of the Pre-Raphaelites, whose later images of brooding women shaped Aestheticism and Symbolism.
+
+<sub>Portrait: Portrait by William Holman Hunt, 1853 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:William_Holman_Hunt_-_Portrait_of_Dante_Gabriel_Rossetti_at_22_years_of_Age_-_Google_Art_Project.jpg)</sub>
 
 ## Biography
 

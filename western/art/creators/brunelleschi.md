@@ -1,10 +1,15 @@
 # Filippo Brunelleschi
 
+<a href="https://commons.wikimedia.org/wiki/File:Masaccio%2C_cappella_brancacci%2C_san_pietro_in_cattedra._ritratto_di_filippo_brunelleschi-184.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Masaccio%2C_cappella_brancacci%2C_san_pietro_in_cattedra._ritratto_di_filippo_brunelleschi-184.jpg/330px-Masaccio%2C_cappella_brancacci%2C_san_pietro_in_cattedra._ritratto_di_filippo_brunelleschi-184.jpg" alt="Filippo Brunelleschi" title="Portrait in Masaccio's St Peter Enthroned, Brancacci Chapel, Florence, c. 1425"></a>
+
 **1377 – 1446** · Italian  
 Born: Florence · Died: Florence  
 Movements: [Early Italian Renaissance](../movements/early-renaissance.md)  
+Also in: [Architecture](../../architecture/creators/brunelleschi.md)  
 
 > Architect and engineer credited with the first systematic demonstration of linear perspective. His dome for Florence Cathedral was an engineering feat without precedent since antiquity.
+
+<sub>Portrait: Portrait in Masaccio's St Peter Enthroned, Brancacci Chapel, Florence, c. 1425 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Masaccio%2C_cappella_brancacci%2C_san_pietro_in_cattedra._ritratto_di_filippo_brunelleschi-184.jpg)</sub>
 
 ## Biography
 

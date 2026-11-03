@@ -1,10 +1,14 @@
 # Vincent van Gogh
 
+<a href="https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/330px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg" alt="Vincent van Gogh" title="Self-portrait, 1887"></a>
+
 **1853 – 1890** · Dutch  
 Born: Zundert, Netherlands · Died: Auvers-sur-Oise, France  
 Movements: [Post-Impressionism](../movements/post-impressionism.md)  
 
 > In a career of about ten years Van Gogh made some 2,100 works, using vivid colour and rhythmic brushstrokes to express emotion. He sold very little in his lifetime and became one of the most famous artists in history.
+
+<sub>Portrait: Self-portrait, 1887 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg)</sub>
 
 ## Biography
 

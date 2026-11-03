@@ -1,10 +1,14 @@
 # Raphael (Raffaello Sanzio)
 
+<a href="https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Raffaello_Sanzio.jpg/330px-Raffaello_Sanzio.jpg" alt="Raphael (Raffaello Sanzio)" title="Self-portrait, c. 1506"></a>
+
 **1483 – 1520** · Italian  
 Born: Urbino · Died: Rome  
 Movements: [High Renaissance](../movements/high-renaissance.md)  
 
 > Raphael synthesised the lessons of Leonardo and Michelangelo into a style of perfect clarity and grace. He ran a large workshop in Rome for the papacy before dying at 37.
+
+<sub>Portrait: Self-portrait, c. 1506 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio.jpg)</sub>
 
 ## Biography
 

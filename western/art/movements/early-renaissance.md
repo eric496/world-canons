@@ -6,17 +6,21 @@ Era: [The Renaissance](../../periods/renaissance.md)
 
 Florence leads a revival of classical antiquity: linear perspective, anatomical study and free-standing sculpture return, funded by patrons such as the Medici.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Tribute_Money_by_Masaccio.jpg/1280px-The_Tribute_Money_by_Masaccio.jpg" width="100%" alt="Early Italian Renaissance">
+
+<sub>Masaccio, The Tribute Money, Brancacci Chapel, Florence, c. 1425 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Tribute_Money_by_Masaccio.jpg)</sub>
+
 ## Artists
 
--  [Filippo Brunelleschi](../creators/brunelleschi.md) (1377 – 1446)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Masaccio%2C_cappella_brancacci%2C_san_pietro_in_cattedra._ritratto_di_filippo_brunelleschi-184.jpg/330px-Masaccio%2C_cappella_brancacci%2C_san_pietro_in_cattedra._ritratto_di_filippo_brunelleschi-184.jpg" width="40" alt="Filippo Brunelleschi"> [Filippo Brunelleschi](../creators/brunelleschi.md) (1377 – 1446)
 -  [Lorenzo Ghiberti](../creators/ghiberti.md) (1378 – 1455)
--  [Donatello](../creators/donatello.md) (c. 1386 – 1466)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Donatello%2C_miracolo_della_mula%2C_1446-49_ca._%28pd%2C_museo_antoniano%29_37_uomo_che_si_allontana%2C_forse_autoritratto_%28cropped%29.jpg" width="40" alt="Donatello"> [Donatello](../creators/donatello.md) (c. 1386 – 1466)
 -  [Fra Angelico](../creators/fra-angelico.md) (c. 1395 – 1455)
--  [Masaccio](../creators/masaccio.md) (1401 – 1428)
--  [Piero della Francesca](../creators/piero.md) (c. 1415 – 1492)
--  [Giovanni Bellini](../creators/bellini.md) (c. 1430 – 1516)
--  [Andrea Mantegna](../creators/mantegna.md) (c. 1431 – 1506)
--  [Sandro Botticelli](../creators/botticelli.md) (c. 1445 – 1510)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Masaccio_Self_Portrait.jpg" width="40" alt="Masaccio"> [Masaccio](../creators/masaccio.md) (1401 – 1428)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Delle_vite_de%27_pi%C3%B9_eccellenti_pittori%2C_scultori%2C_et_architetti_%281648%29_%2814799608033%29.jpg/330px-Delle_vite_de%27_pi%C3%B9_eccellenti_pittori%2C_scultori%2C_et_architetti_%281648%29_%2814799608033%29.jpg" width="40" alt="Piero della Francesca"> [Piero della Francesca](../creators/piero.md) (c. 1415 – 1492)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Giovanni_Bellini_Felt%C3%A9telezett%C3%96narck%C3%A9peKJ.jpg/330px-Giovanni_Bellini_Felt%C3%A9telezett%C3%96narck%C3%A9peKJ.jpg" width="40" alt="Giovanni Bellini"> [Giovanni Bellini](../creators/bellini.md) (c. 1430 – 1516)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Mantegna_Bronze_Bust_San_Andrea_Mantua.png" width="40" alt="Andrea Mantegna"> [Andrea Mantegna](../creators/mantegna.md) (c. 1431 – 1506)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/330px-Sandro_Botticelli_083.jpg" width="40" alt="Sandro Botticelli"> [Sandro Botticelli](../creators/botticelli.md) (c. 1445 – 1510)
 
 ## Key artworks
 

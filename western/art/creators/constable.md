@@ -1,10 +1,14 @@
 # John Constable
 
+<a href="https://commons.wikimedia.org/wiki/File:John_Constable_by_Ramsay_Richard_Reinagle.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/John_Constable_by_Ramsay_Richard_Reinagle.jpg/330px-John_Constable_by_Ramsay_Richard_Reinagle.jpg" alt="John Constable" title="Portrait by Ramsay Richard Reinagle, c. 1799"></a>
+
 **1776 – 1837** · British  
 Born: East Bergholt, Suffolk, England · Died: London  
 Movements: [Romanticism](../movements/romanticism.md)  
 
 > Constable painted the English countryside from direct observation, with fresh skies and flecks of light. He was more admired in France than in Britain during his lifetime.
+
+<sub>Portrait: Portrait by Ramsay Richard Reinagle, c. 1799 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Constable_by_Ramsay_Richard_Reinagle.jpg)</sub>
 
 ## Biography
 

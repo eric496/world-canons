@@ -4,112 +4,144 @@
   "name": "Classical Antiquity (Greece & Rome)",
   "dates": "c. 500 BC – AD 100",
   "summary": "Greek sculptors develop the idealised, naturalistic human body, contrapposto and canons of proportion. Most Greek bronzes are lost and survive through Roman marble copies, which shaped every later classical revival.",
-  "period": "antiquity"
+  "period": "antiquity",
+  "image_file": "02 10 2024 Photo Paolo Villa-Napoli-mann-Museo Archeologico-FO232526tris-Arte Greca copia romana-Policleto Doriforo Polykleitos Doryphoros from Pompeii-marmo marble carrara.jpg",
+  "image_caption": "Polykleitos, Doryphoros (Spear-Bearer), Roman marble copy from Pompeii, National Archaeological Museum, Naples"
  },
  {
   "id": "proto-renaissance",
   "name": "Late Gothic & Proto-Renaissance",
   "dates": "c. 1280–1400",
   "summary": "Painters begin to break from flat Byzantine conventions, giving figures weight, emotion and a believable space to inhabit. Giotto is the pivotal figure.",
-  "period": "middle-ages"
+  "period": "middle-ages",
+  "image_file": "Compianto sul Cristo morto.jpg",
+  "image_caption": "Giotto, Lamentation, Scrovegni Chapel, Padua, c. 1305"
  },
  {
   "id": "early-renaissance",
   "name": "Early Italian Renaissance",
   "dates": "c. 1400–1490",
   "summary": "Florence leads a revival of classical antiquity: linear perspective, anatomical study and free-standing sculpture return, funded by patrons such as the Medici.",
-  "period": "renaissance"
+  "period": "renaissance",
+  "image_file": "The Tribute Money by Masaccio.jpg",
+  "image_caption": "Masaccio, The Tribute Money, Brancacci Chapel, Florence, c. 1425"
  },
  {
   "id": "northern-renaissance",
   "name": "Northern Renaissance",
   "dates": "c. 1430–1580",
   "summary": "In Flanders, the Netherlands and Germany, artists perfect oil painting and pursue minute detail, rich symbolism and scenes of everyday and moral life.",
-  "period": "renaissance"
+  "period": "renaissance",
+  "image_file": "The Arnolfini portrait (1434).jpg",
+  "image_caption": "Jan van Eyck, Arnolfini Portrait, 1434"
  },
  {
   "id": "high-renaissance",
   "name": "High Renaissance",
   "dates": "c. 1490–1530",
   "summary": "A short peak of balance and harmony centred on Rome, Florence, Milan and Venice, defined by Leonardo, Michelangelo, Raphael and Titian.",
-  "period": "renaissance"
+  "period": "renaissance",
+  "image_file": "\"The School of Athens\" by Raffaello Sanzio da Urbino.jpg",
+  "image_caption": "Raphael, The School of Athens, 1509–11"
  },
  {
   "id": "mannerism",
   "name": "Mannerism",
   "dates": "c. 1520–1600",
   "summary": "A reaction to High Renaissance calm: elongated figures, unstable compositions, acid colour and deliberate artifice.",
-  "period": "renaissance"
+  "period": "renaissance",
+  "image_file": "Parmigianino - Madonna and Child with Angels, known as the Madonna with the Long Neck.jpg",
+  "image_caption": "Parmigianino, Madonna with the Long Neck, c. 1534–40"
  },
  {
   "id": "baroque",
   "name": "Baroque",
   "dates": "c. 1600–1750",
   "summary": "Drama, movement and strong light-and-shadow (chiaroscuro). Catholic Baroque aims to overwhelm the faithful; Dutch Golden Age painting turns to portraits, interiors and civic life.",
-  "period": "seventeenth-century"
+  "period": "seventeenth-century",
+  "image_file": "Caravaggio — The Calling of Saint Matthew.jpg",
+  "image_caption": "Caravaggio, The Calling of Saint Matthew, 1599–1600"
  },
  {
   "id": "rococo",
   "name": "Rococo",
   "dates": "c. 1720–1780",
   "summary": "A lighter, playful French court style of pastel colour, curving ornament, love and leisure.",
-  "period": "enlightenment"
+  "period": "enlightenment",
+  "image_file": "The Swing (P430).jpg",
+  "image_caption": "Jean-Honoré Fragonard, The Swing, 1767"
  },
  {
   "id": "neoclassicism",
   "name": "Neoclassicism",
   "dates": "c. 1760–1830",
   "summary": "Inspired by excavations at Pompeii and Enlightenment ideals, artists return to clear line, civic virtue and Greco-Roman subjects.",
-  "period": "enlightenment"
+  "period": "enlightenment",
+  "image_file": "Le Serment des Horaces - Jacques-Louis David - Musée du Louvre Peintures INV 3692 ; MR 1432.jpg",
+  "image_caption": "Jacques-Louis David, Oath of the Horatii, 1784"
  },
  {
   "id": "romanticism",
   "name": "Romanticism",
   "dates": "c. 1790–1850",
   "summary": "Emotion, the sublime power of nature, national struggle and the individual imagination take priority over reason and rules.",
-  "period": "nineteenth-century"
+  "period": "nineteenth-century",
+  "image_file": "Caspar David Friedrich - Wanderer above the Sea of Fog.jpeg",
+  "image_caption": "Caspar David Friedrich, Wanderer above the Sea of Fog, c. 1818"
  },
  {
   "id": "realism",
   "name": "Realism",
   "dates": "c. 1840–1880",
   "summary": "Artists reject idealised history painting and depict ordinary people, labour and contemporary life as they are.",
-  "period": "nineteenth-century"
+  "period": "nineteenth-century",
+  "image_file": "Jean-François Millet - Gleaners - Google Art Project 2.jpg",
+  "image_caption": "Jean-François Millet, The Gleaners, 1857"
  },
  {
   "id": "pre-raphaelites",
   "name": "Pre-Raphaelite Brotherhood",
   "dates": "c. 1848–1870",
   "summary": "Young English painters reject academic convention for brilliant colour, minute natural detail and medieval, literary and moral subjects.",
-  "period": "nineteenth-century"
+  "period": "nineteenth-century",
+  "image_file": "John Everett Millais - Ophelia - Google Art Project.jpg",
+  "image_caption": "John Everett Millais, Ophelia, 1851–52"
  },
  {
   "id": "impressionism",
   "name": "Impressionism",
   "dates": "c. 1867–1886",
   "summary": "Painting outdoors with broken brushwork to capture light, weather and fleeting modern Paris; named after Monet's 'Impression, Sunrise'.",
-  "period": "nineteenth-century"
+  "period": "nineteenth-century",
+  "image_file": "Monet - Impression, Sunrise.jpg",
+  "image_caption": "Claude Monet, Impression, Sunrise, 1872"
  },
  {
   "id": "post-impressionism",
   "name": "Post-Impressionism",
   "dates": "c. 1886–1905",
   "summary": "Painters push past Impressionism toward structure (Cézanne), science (Seurat), symbolism (Gauguin) and expressive colour (Van Gogh).",
-  "period": "nineteenth-century"
+  "period": "nineteenth-century",
+  "image_file": "Van Gogh - Starry Night - Google Art Project.jpg",
+  "image_caption": "Vincent van Gogh, The Starry Night, 1889"
  },
  {
   "id": "symbolism",
   "name": "Symbolism & Art Nouveau",
   "dates": "c. 1880–1910",
   "summary": "Dream, myth, eroticism and anxiety expressed through ornament and symbolic form; Vienna Secession and Nordic angst.",
-  "period": "nineteenth-century"
+  "period": "nineteenth-century",
+  "image_file": "The Kiss - Gustav Klimt - Google Cultural Institute.jpg",
+  "image_caption": "Gustav Klimt, The Kiss, 1907–08"
  },
  {
   "id": "fauvism-expressionism",
   "name": "Fauvism & Expressionism",
   "dates": "c. 1905–1925",
   "summary": "Colour is freed from description and used for emotional and decorative force.",
-  "period": "modern"
+  "period": "modern",
+  "image_file": "Kirchner - Street, Dresden, 1908, 12.1951.jpg",
+  "image_caption": "Ernst Ludwig Kirchner, Street, Dresden, 1908 (reworked 1919)"
  },
  {
   "id": "cubism",
@@ -123,14 +155,18 @@
   "name": "Futurism",
   "dates": "c. 1909–1916",
   "summary": "An Italian avant-garde that glorifies speed, machines, the city and violent modernity, trying to show motion and energy in paint and bronze.",
-  "period": "modern"
+  "period": "modern",
+  "image_file": "'Unique Forms of Continuity in Space', 1913 bronze by Umberto Boccioni.jpg",
+  "image_caption": "Umberto Boccioni, Unique Forms of Continuity in Space, 1913"
  },
  {
   "id": "abstraction",
   "name": "Early Abstraction",
   "dates": "c. 1910–1945",
   "summary": "Art without recognisable subject matter: Kandinsky's spiritual colour music and Mondrian's grid of primaries.",
-  "period": "modern"
+  "period": "modern",
+  "image_file": "Composition VII - Wassily Kandinsky, GAC.jpg",
+  "image_caption": "Wassily Kandinsky, Composition VII, 1913"
  },
  {
   "id": "dada-surrealism",
@@ -144,7 +180,9 @@
   "name": "American Modernism",
   "dates": "c. 1910–1960",
   "summary": "American artists portray the modern city and its isolation in a clear, realist idiom.",
-  "period": "modern"
+  "period": "modern",
+  "image_file": "Grant Wood - American Gothic (1930).jpg",
+  "image_caption": "Grant Wood, American Gothic, 1930"
  },
  {
   "id": "abstract-expressionism",

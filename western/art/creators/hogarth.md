@@ -1,10 +1,14 @@
 # William Hogarth
 
+<a href="https://commons.wikimedia.org/wiki/File:The_Painter_and_His_Pug_by_William_Hogarth.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Painter_and_His_Pug_by_William_Hogarth.jpg/330px-The_Painter_and_His_Pug_by_William_Hogarth.jpg" alt="William Hogarth" title="The Painter and His Pug (self-portrait), 1745"></a>
+
 **1697 – 1764** · British  
 Born: London · Died: London  
 Movements: [Rococo](../movements/rococo.md)  
 
 > Painter, printmaker and satirist who invented the 'modern moral subject', narrative series sold as popular engravings.
+
+<sub>Portrait: The Painter and His Pug (self-portrait), 1745 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Painter_and_His_Pug_by_William_Hogarth.jpg)</sub>
 
 ## Biography
 

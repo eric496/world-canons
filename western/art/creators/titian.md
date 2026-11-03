@@ -1,10 +1,14 @@
 # Titian (Tiziano Vecellio)
 
+<a href="https://commons.wikimedia.org/wiki/File:Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg/330px-Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg" alt="Titian (Tiziano Vecellio)" title="Self-portrait, c. 1567"></a>
+
 **c. 1488–90 – 1576** · Italian  
 Born: Pieve di Cadore, Republic of Venice · Died: Venice  
 Movements: [High Renaissance](../movements/high-renaissance.md)  
 
 > Leader of the Venetian school, Titian built paintings from colour rather than line. His loose late brushwork anticipated painters from Rubens to the Impressionists.
+
+<sub>Portrait: Self-portrait, c. 1567 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg)</sub>
 
 ## Biography
 

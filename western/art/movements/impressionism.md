@@ -6,11 +6,15 @@ Era: [Romanticism to the Fin de Siècle](../../periods/nineteenth-century.md)
 
 Painting outdoors with broken brushwork to capture light, weather and fleeting modern Paris; named after Monet's 'Impression, Sunrise'.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/1280px-Monet_-_Impression%2C_Sunrise.jpg" width="100%" alt="Impressionism">
+
+<sub>Claude Monet, Impression, Sunrise, 1872 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Monet_-_Impression%2C_Sunrise.jpg)</sub>
+
 ## Artists
 
 -  [Camille Pissarro](../creators/pissarro.md) (1830 – 1903)
 -  [Édouard Manet](../creators/manet.md) (1832 – 1883)
--  [Edgar Degas](../creators/degas.md) (1834 – 1917)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Self-portrait_by_Edgar_Degas.jpg/330px-Self-portrait_by_Edgar_Degas.jpg" width="40" alt="Edgar Degas"> [Edgar Degas](../creators/degas.md) (1834 – 1917)
 -  [Claude Monet](../creators/monet.md) (1840 – 1926)
 -  [Auguste Rodin](../creators/rodin.md) (1840 – 1917)
 -  [Pierre-Auguste Renoir](../creators/renoir.md) (1841 – 1919)

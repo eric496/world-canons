@@ -1,10 +1,15 @@
 # Gian Lorenzo Bernini
 
+<a href="https://commons.wikimedia.org/wiki/File:Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg/330px-Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg" alt="Gian Lorenzo Bernini" title="Self-portrait, c. 1623"></a>
+
 **1598 – 1680** · Italian  
 Born: Naples · Died: Rome  
 Movements: [Baroque](../movements/baroque.md)  
+Also in: [Architecture](../../architecture/creators/bernini.md)  
 
 > The supreme sculptor and architect of Baroque Rome, he made marble appear to move, breathe and soften. He also designed the colonnade of St Peter's Square.
+
+<sub>Portrait: Self-portrait, c. 1623 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gian_Lorenzo_Bernini%2C_self-portrait%2C_c1623.jpg)</sub>
 
 ## Biography
 

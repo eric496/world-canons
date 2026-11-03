@@ -1,10 +1,14 @@
 # Artemisia Gentileschi
 
+<a href="https://commons.wikimedia.org/wiki/File:Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg/330px-Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg" alt="Artemisia Gentileschi" title="Self-Portrait as the Allegory of Painting, c. 1638–39"></a>
+
 **1593 – c. 1656** · Italian  
 Born: Rome · Died: Naples  
 Movements: [Baroque](../movements/baroque.md)  
 
 > One of the most accomplished followers of Caravaggio and the first woman admitted to Florence's Accademia delle Arti del Disegno. She specialised in powerful heroines from the Bible and history.
+
+<sub>Portrait: Self-Portrait as the Allegory of Painting, c. 1638–39 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Self-portrait_as_the_Allegory_of_Painting_%28La_Pittura%29_-_Artemisia_Gentileschi.jpg)</sub>
 
 ## Biography
 

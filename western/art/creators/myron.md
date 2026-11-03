@@ -4,7 +4,7 @@
 Born: Eleutherae, Greece · Died: unknown  
 Movements: [Classical Antiquity (Greece & Rome)](../movements/classical-antiquity.md)  
 
-> An Athenian-trained bronze sculptor of the early Classical period, admired for capturing athletes in motion. None of his originals survive; his work is known through Roman marble copies.
+> A bronze sculptor of the early Classical period, active in Athens,, admired for capturing athletes in motion. None of his originals survive; his work is known through Roman marble copies.
 
 ## Biography
 

@@ -1,10 +1,14 @@
 # Peter Paul Rubens
 
+<a href="https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Self-portrait_-_RH.S.180_-_Rubenshuis_%28after_restoration%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Peter_Paul_Rubens_-_Self-portrait_-_RH.S.180_-_Rubenshuis_%28after_restoration%29.jpg/330px-Peter_Paul_Rubens_-_Self-portrait_-_RH.S.180_-_Rubenshuis_%28after_restoration%29.jpg" alt="Peter Paul Rubens" title="Self-portrait, c. 1630"></a>
+
 **1577 – 1640** · Flemish  
 Born: Siegen, Westphalia · Died: Antwerp  
 Movements: [Baroque](../movements/baroque.md)  
 
 > Painter, diplomat and scholar who ran a huge Antwerp studio. His energetic compositions and fleshy figures define the Flemish Baroque.
+
+<sub>Portrait: Self-portrait, c. 1630 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Self-portrait_-_RH.S.180_-_Rubenshuis_%28after_restoration%29.jpg)</sub>
 
 ## Biography
 

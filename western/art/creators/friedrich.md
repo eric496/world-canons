@@ -1,10 +1,14 @@
 # Caspar David Friedrich
 
+<a href="https://commons.wikimedia.org/wiki/File:Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg/330px-Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg" alt="Caspar David Friedrich" title="Portrait by Gerhard von Kügelgen, c. 1810"></a>
+
 **1774 – 1840** · German  
 Born: Greifswald, Swedish Pomerania · Died: Dresden  
 Movements: [Romanticism](../movements/romanticism.md)  
 
 > The key German Romantic painter, known for solitary figures facing vast, spiritual landscapes. His work fell into obscurity until the early 20th century.
+
+<sub>Portrait: Portrait by Gerhard von Kügelgen, c. 1810 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg)</sub>
 
 ## Biography
 

@@ -1,10 +1,14 @@
 # Albrecht Dürer
 
+<a href="https://commons.wikimedia.org/wiki/File:D%C3%BCrer_Alte_Pinakothek.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/D%C3%BCrer_Alte_Pinakothek.jpg/330px-D%C3%BCrer_Alte_Pinakothek.jpg" alt="Albrecht Dürer" title="Self-portrait, 1500"></a>
+
 **1471 – 1528** · German  
 Born: Nuremberg, Holy Roman Empire · Died: Nuremberg  
 Movements: [Northern Renaissance](../movements/northern-renaissance.md)  
 
 > Painter, printmaker and theorist who carried Italian Renaissance ideas north of the Alps. His woodcuts and engravings circulated across Europe and made him the first internationally famous artist through print.
+
+<sub>Portrait: Self-portrait, 1500 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:D%C3%BCrer_Alte_Pinakothek.jpg)</sub>
 
 ## Biography
 

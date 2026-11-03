@@ -1,10 +1,14 @@
 # Parmigianino
 
+<a href="https://commons.wikimedia.org/wiki/File:Parmigianino_Selfportrait.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Parmigianino_Selfportrait.jpg/330px-Parmigianino_Selfportrait.jpg" alt="Parmigianino" title="Self-portrait in a Convex Mirror, c. 1524"></a>
+
 **1503 – 1540** · Italian  
 Born: Parma · Died: Casalmaggiore  
 Movements: [Mannerism](../movements/mannerism.md)  
 
 > A leading Mannerist known for elegant, elongated figures and virtuoso effects.
+
+<sub>Portrait: Self-portrait in a Convex Mirror, c. 1524 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parmigianino_Selfportrait.jpg)</sub>
 
 ## Biography
 

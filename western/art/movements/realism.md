@@ -6,13 +6,17 @@ Era: [Romanticism to the Fin de Siècle](../../periods/nineteenth-century.md)
 
 Artists reject idealised history painting and depict ordinary people, labour and contemporary life as they are.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg/1280px-Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg" width="100%" alt="Realism">
+
+<sub>Jean-François Millet, The Gleaners, 1857 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg)</sub>
+
 ## Artists
 
 -  [Jean-François Millet](../creators/millet.md) (1814 – 1875)
 -  [Gustave Courbet](../creators/courbet.md) (1819 – 1877)
 -  [Rosa Bonheur](../creators/bonheur.md) (1822 – 1899)
 -  [Édouard Manet](../creators/manet.md) (1832 – 1883)
--  [James McNeill Whistler](../creators/whistler.md) (1834 – 1903)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Whistler_Selbstportr%C3%A4t.jpg/330px-Whistler_Selbstportr%C3%A4t.jpg" width="40" alt="James McNeill Whistler"> [James McNeill Whistler](../creators/whistler.md) (1834 – 1903)
 -  [John Singer Sargent](../creators/sargent.md) (1856 – 1925)
 
 ## Key artworks

@@ -1,10 +1,14 @@
 # Jan van Eyck
 
+<a href="https://commons.wikimedia.org/wiki/File:Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg/330px-Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg" alt="Jan van Eyck" title="Portrait of a Man (Man in a Red Turban), 1433, possibly a self-portrait"></a>
+
 **c. 1390 – 1441** · Flemish  
 Born: probably Maaseik, Low Countries · Died: Bruges  
 Movements: [Northern Renaissance](../movements/northern-renaissance.md)  
 
 > Court painter to the Duke of Burgundy, van Eyck brought oil painting to an unmatched level of luminous detail. His portraits and altarpieces fuse close observation with layered religious symbolism.
+
+<sub>Portrait: Portrait of a Man (Man in a Red Turban), 1433, possibly a self-portrait · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg)</sub>
 
 ## Biography
 

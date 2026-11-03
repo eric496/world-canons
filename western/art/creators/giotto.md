@@ -3,6 +3,7 @@
 **c. 1267 – 1337** · Italian  
 Born: near Florence, Italy · Died: Florence  
 Movements: [Late Gothic & Proto-Renaissance](../movements/proto-renaissance.md)  
+Also in: [Architecture](../../architecture/creators/giotto.md)  
 
 > Often called the first great painter of the Renaissance, Giotto gave figures real bulk, weight and human feeling. His fresco cycle in Padua's Scrovegni Chapel set the course of Western narrative painting.
 

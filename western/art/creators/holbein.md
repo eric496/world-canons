@@ -1,10 +1,14 @@
 # Hans Holbein the Younger
 
+<a href="https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger%2C_self-portrait.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hans_Holbein_the_Younger%2C_self-portrait.jpg/330px-Hans_Holbein_the_Younger%2C_self-portrait.jpg" alt="Hans Holbein the Younger" title="Self-portrait, c. 1542–43"></a>
+
 **c. 1497 – 1543** · German  
 Born: Augsburg · Died: London  
 Movements: [Northern Renaissance](../movements/northern-renaissance.md)  
 
 > A brilliant portraitist who became painter to Henry VIII of England. His portraits combine precise likeness with display of status.
+
+<sub>Portrait: Self-portrait, c. 1542–43 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger%2C_self-portrait.jpg)</sub>
 
 ## Biography
 

@@ -6,6 +6,10 @@ Era: [Modernism](../../periods/modern.md)
 
 Colour is freed from description and used for emotional and decorative force.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kirchner_-_Street%2C_Dresden%2C_1908%2C_12.1951.jpg/1280px-Kirchner_-_Street%2C_Dresden%2C_1908%2C_12.1951.jpg" width="100%" alt="Fauvism & Expressionism">
+
+<sub>Ernst Ludwig Kirchner, Street, Dresden, 1908 (reworked 1919) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kirchner_-_Street%2C_Dresden%2C_1908%2C_12.1951.jpg)</sub>
+
 ## Artists
 
 -  [Edvard Munch](../creators/munch.md) (1863 – 1944)

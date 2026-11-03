@@ -1,10 +1,14 @@
 # Théodore Géricault
 
+<a href="https://commons.wikimedia.org/wiki/File:Horace_Vernet%2C_Jean-Louis-Andr%C3%A9-Th%C3%A9odore_Gericault%2C_probably_1822_or_1823%2C_1998.84%2C_MET.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horace_Vernet%2C_Jean-Louis-Andr%C3%A9-Th%C3%A9odore_Gericault%2C_probably_1822_or_1823%2C_1998.84%2C_MET.jpg/330px-Horace_Vernet%2C_Jean-Louis-Andr%C3%A9-Th%C3%A9odore_Gericault%2C_probably_1822_or_1823%2C_1998.84%2C_MET.jpg" alt="Théodore Géricault" title="Portrait by Horace Vernet, probably 1822–23"></a>
+
 **1791 – 1824** · French  
 Born: Rouen, France · Died: Paris  
 Movements: [Romanticism](../movements/romanticism.md)  
 
 > A pioneer of French Romanticism who turned a contemporary scandal into monumental history painting. He died at 32 after a riding accident.
+
+<sub>Portrait: Portrait by Horace Vernet, probably 1822–23 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Horace_Vernet%2C_Jean-Louis-Andr%C3%A9-Th%C3%A9odore_Gericault%2C_probably_1822_or_1823%2C_1998.84%2C_MET.jpg)</sub>
 
 ## Biography
 
