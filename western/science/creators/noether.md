@@ -16,6 +16,10 @@ Noether's theorem of 1918 shows that every continuous symmetry of a physical sys
 
 ### Invariante Variationsprobleme (Noether's theorem) (1918)
 
+[![Invariante Variationsprobleme (Noether's theorem)](https://upload.wikimedia.org/wikipedia/commons/d/dd/Noether_theorem_1st_page.png)](https://commons.wikimedia.org/wiki/File:Noether_theorem_1st_page.png)
+
+<sub>First page of Noether's paper, 1918 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Noether_theorem_1st_page.png).</sub>
+
 - **Date:** 1918
 - **Type:** Mathematical paper
 - **Published / where:** Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen

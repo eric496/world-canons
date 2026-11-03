@@ -1,10 +1,14 @@
 # Benjamin Franklin
 
+<a href="https://commons.wikimedia.org/wiki/File:Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/330px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg" alt="Benjamin Franklin" title="Joseph Siffred Duplessis, Benjamin Franklin"></a>
+
 **1706 – 1790** · American  
 Born: Boston, Massachusetts Bay · Died: Philadelphia, Pennsylvania  
 Eras & fields: [Enlightenment chemistry & natural history](../movements/enlightenment-science.md)  
 
 > Printer, statesman and natural philosopher who showed that lightning is electrical and invented the lightning rod. His theory of a single electrical fluid introduced the terms positive and negative charge.
+
+<sub>Portrait: Joseph Siffred Duplessis, Benjamin Franklin · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ In the late 1740s Franklin's electrical experiments, reported in letters to Lond
 ## Key works & discoveries
 
 ### Experiments and Observations on Electricity (1751)
+
+[![Experiments and Observations on Electricity](https://upload.wikimedia.org/wikipedia/commons/e/e0/Experiments_1751_color.jpg)](https://commons.wikimedia.org/wiki/File:Experiments_1751_color.jpg)
+
+<sub>Title page, 1751 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Experiments_1751_color.jpg).</sub>
 
 - **Date:** 1751
 - **Type:** Collection of letters on electricity

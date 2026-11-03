@@ -16,6 +16,10 @@ In 1927 Lemaître published, in a little-read Belgian journal, a solution of Ein
 
 ### The primeval atom and the expanding universe (1927–1931)
 
+[![The primeval atom and the expanding universe](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/1280px-CMB_Timeline300_no_WMAP.jpg)](https://commons.wikimedia.org/wiki/File:CMB_Timeline300_no_WMAP.jpg)
+
+<sub>Diagram of the history of the expanding universe (NASA) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:CMB_Timeline300_no_WMAP.jpg).</sub>
+
 - **Date:** 1927–1931
 - **Type:** Scientific papers
 - **Published / where:** Annales de la Société Scientifique de Bruxelles, 1927; Nature, 1931

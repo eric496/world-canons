@@ -1,10 +1,14 @@
 # Ada Lovelace
 
+<a href="https://commons.wikimedia.org/wiki/File:Watercolour%2C_Ada_Lovelace%2C_possibly_by_A_E_Chalon_%281780-1860%29%2C_%28c1840%29._25_x_18.3_cm.png"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Watercolour%2C_Ada_Lovelace%2C_possibly_by_A_E_Chalon_%281780-1860%29%2C_%28c1840%29._25_x_18.3_cm.png" alt="Ada Lovelace" title="Watercolour of Ada Lovelace, possibly by Alfred Edward Chalon, c. 1840"></a>
+
 **1815 – 1852** · English  
 Born: London · Died: London  
 Eras & fields: [Computing & information](../movements/computing.md)  
 
 > Mathematician who wrote the first published account of programming a general-purpose computer, Babbage's Analytical Engine, and foresaw that such machines could handle symbols as well as numbers.
+
+<sub>Portrait: Watercolour of Ada Lovelace, possibly by Alfred Edward Chalon, c. 1840 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Watercolour%2C_Ada_Lovelace%2C_possibly_by_A_E_Chalon_%281780-1860%29%2C_%28c1840%29._25_x_18.3_cm.png)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ In 1843 Lovelace translated an Italian article by Luigi Menabrea on the Analytic
 ## Key works & discoveries
 
 ### Notes on the Analytical Engine (Note G) (1843)
+
+[![Notes on the Analytical Engine (Note G)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Diagram_for_the_computation_of_Bernoulli_numbers.jpg/1280px-Diagram_for_the_computation_of_Bernoulli_numbers.jpg)](https://commons.wikimedia.org/wiki/File:Diagram_for_the_computation_of_Bernoulli_numbers.jpg)
+
+<sub>Lovelace's table for computing Bernoulli numbers, Note G, 1843 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Diagram_for_the_computation_of_Bernoulli_numbers.jpg).</sub>
 
 - **Date:** 1843
 - **Type:** Translation with notes

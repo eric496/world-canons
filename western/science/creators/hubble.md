@@ -16,6 +16,10 @@ In 1923–24 Hubble identified Cepheid variable stars in the Andromeda nebula an
 
 ### Hubble's law of galaxy recession (1929)
 
+[![Hubble's law of galaxy recession](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Snapshots_of_the_star_that_changed_the_Universe_%28opo1115d%29.jpg/1280px-Snapshots_of_the_star_that_changed_the_Universe_%28opo1115d%29.jpg)](https://commons.wikimedia.org/wiki/File:Snapshots_of_the_star_that_changed_the_Universe_%28opo1115d%29.jpg)
+
+<sub>Hubble Space Telescope images of V1, the Cepheid in Andromeda that Hubble identified in 1923 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Snapshots_of_the_star_that_changed_the_Universe_%28opo1115d%29.jpg).</sub>
+
 - **Date:** 1929
 - **Type:** Scientific paper
 - **Published / where:** Mount Wilson Observatory; published in the Proceedings of the National Academy of Sciences

@@ -17,6 +17,10 @@ His Canon of Medicine organised Greek, Persian and Indian medical knowledge, wit
 
 ### The Canon of Medicine (1025)
 
+[![The Canon of Medicine](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/The_Canon_of_Medicine.jpg/1280px-The_Canon_of_Medicine.jpg)](https://commons.wikimedia.org/wiki/File:The_Canon_of_Medicine.jpg)
+
+<sub>Page from a manuscript of the Canon of Medicine Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_Canon_of_Medicine.jpg).</sub>
+
 - **Date:** 1025
 - **Type:** Medical encyclopedia
 - **Published / where:** Persia; Latin translation by Gerard of Cremona, Toledo, 12th century; printed Milan, 1473

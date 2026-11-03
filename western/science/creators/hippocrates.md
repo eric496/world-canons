@@ -1,10 +1,14 @@
 # Hippocrates of Kos
 
+<a href="https://commons.wikimedia.org/wiki/File:Hippocrates.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Hippocrates.jpg" alt="Hippocrates of Kos" title="Traditional imagined portrait of Hippocrates"></a>
+
 **c. 460 BC – c. 370 BC** · Greek  
 Born: Kos, Greece · Died: Larissa, Thessaly (traditionally)  
 Eras & fields: [Greek natural philosophy & medicine](../movements/greek-natural-philosophy.md)  
 
 > Physician of Kos, traditionally called the father of medicine. The large body of medical writings that bears his name taught that illness has natural causes and should be treated by careful observation.
+
+<sub>Portrait: Traditional imagined portrait of Hippocrates · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hippocrates.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ His name is attached to the Hippocratic Corpus, some sixty treatises written by 
 
 ### Hippocratic Corpus (c. 430–330 BC)
 
+[![Hippocratic Corpus](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Part_of_11th_C_Manuscript_of_Hippocrates%27_works_Wellcome_M0009558.jpg/1280px-Part_of_11th_C_Manuscript_of_Hippocrates%27_works_Wellcome_M0009558.jpg)](https://commons.wikimedia.org/wiki/File:Part_of_11th_C_Manuscript_of_Hippocrates%27_works_Wellcome_M0009558.jpg)
+
+<sub>Part of an eleventh-century manuscript of Hippocratic works Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Part_of_11th_C_Manuscript_of_Hippocrates%27_works_Wellcome_M0009558.jpg).</sub>
+
 - **Date:** c. 430–330 BC
 - **Type:** Collection of medical treatises
 - **Published / where:** Greek manuscripts; first printed edition Venice, 1526
@@ -27,6 +35,10 @@ His name is attached to the Hippocratic Corpus, some sixty treatises written by 
 The Hippocratic Corpus is a collection of about sixty medical texts written in Ionic Greek by many authors, mostly between about 430 and 330 BC, and gathered under the name of Hippocrates, probably in Alexandria. Which, if any, Hippocrates wrote himself has been debated since antiquity. The treatises range from case histories in Epidemics and practical surgery on fractures and head wounds to theoretical works such as On the Nature of Man, which set out the theory of four humours, and On the Sacred Disease, which argues that epilepsy has natural causes like any other illness. Airs, Waters, Places links health to climate and environment, and the Aphorisms condense medical wisdom into short sayings, beginning with the famous observation that life is short and the art long. Preserved by Galen and by Arabic and Byzantine scholars, the corpus was the foundation of medical teaching in Europe until the seventeenth century.
 
 ### Hippocratic Oath (c. 400 BC)
+
+[![Hippocratic Oath](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Papyrus_text%3B_fragment_of_Hippocratic_oath._Wellcome_L0034090.jpg/1280px-Papyrus_text%3B_fragment_of_Hippocratic_oath._Wellcome_L0034090.jpg)](https://commons.wikimedia.org/wiki/File:Papyrus_text%3B_fragment_of_Hippocratic_oath._Wellcome_L0034090.jpg)
+
+<sub>Papyrus fragment of the Hippocratic Oath Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Papyrus_text%3B_fragment_of_Hippocratic_oath._Wellcome_L0034090.jpg).</sub>
 
 - **Date:** c. 400 BC
 - **Type:** Medical oath

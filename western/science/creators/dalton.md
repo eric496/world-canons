@@ -1,10 +1,14 @@
 # John Dalton
 
+<a href="https://commons.wikimedia.org/wiki/File:John_Dalton_by_Thomas_Phillips%2C_1835.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/0/00/John_Dalton_by_Thomas_Phillips%2C_1835.jpg" alt="John Dalton" title="Thomas Phillips, John Dalton, 1835"></a>
+
 **1766 – 1844** · English  
 Born: Eaglesfield, Cumberland · Died: Manchester  
 Eras & fields: [Atoms & the periodic table](../movements/chemical-atomism.md)  
 
 > Quaker teacher in Manchester who turned the ancient idea of atoms into a quantitative chemical theory, with each element made of atoms of a characteristic weight.
+
+<sub>Portrait: Thomas Phillips, John Dalton, 1835 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Dalton_by_Thomas_Phillips%2C_1835.jpg)</sub>
 
 ## Biography
 

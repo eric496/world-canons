@@ -1,10 +1,14 @@
 # Charles Darwin
 
+<a href="https://commons.wikimedia.org/wiki/File:Charles_Robert_Darwin_by_John_Collier.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Charles_Robert_Darwin_by_John_Collier.jpg/330px-Charles_Robert_Darwin_by_John_Collier.jpg" alt="Charles Darwin" title="John Collier, Charles Darwin"></a>
+
 **1809 – 1882** · English  
 Born: Shrewsbury, Shropshire · Died: Downe, Kent  
 Eras & fields: [Geology, evolution & heredity](../movements/evolution-biology.md)  
 
 > Naturalist who showed that species evolve by natural selection, explaining the diversity and adaptation of life as the result of descent with modification from common ancestors.
+
+<sub>Portrait: John Collier, Charles Darwin · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Charles_Robert_Darwin_by_John_Collier.jpg)</sub>
 
 ## Biography
 
@@ -21,6 +25,10 @@ By 1838 Darwin had conceived the theory of natural selection, but he spent twent
 
 ### 'I think' tree sketch (Notebook B) (1837)
 
+[!['I think' tree sketch (Notebook B)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Darwin_Tree_1837.png/1280px-Darwin_Tree_1837.png)](https://commons.wikimedia.org/wiki/File:Darwin_Tree_1837.png)
+
+<sub>Darwin's 'I think' sketch, Notebook B, 1837 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Darwin_Tree_1837.png).</sub>
+
 - **Date:** 1837
 - **Type:** Notebook sketch
 - **Published / where:** Cambridge University Library
@@ -29,6 +37,10 @@ By 1838 Darwin had conceived the theory of natural selection, but he spent twent
 In July 1837, back in London, Darwin began a series of private notebooks on the 'transmutation of species'. On page 36 of the first of them, Notebook B, he wrote the words 'I think' and below them drew a small branching tree, with a single trunk dividing into branches, some ending in lines and some marked with letters, to show how species might be related by common descent, with extinct forms explaining the gaps between living groups. It is his earliest known diagram of evolution as a branching process rather than a ladder, and it anticipates the only illustration in On the Origin of Species, a more abstract tree. The notebook was among two that went missing from Cambridge University Library around 2000 and were returned anonymously, in good condition, in 2022.
 
 ### Journal of Researches (The Voyage of the Beagle) (1839)
+
+[![Journal of Researches (The Voyage of the Beagle)](https://upload.wikimedia.org/wikipedia/commons/b/b2/The_Voyage_of_the_Beagle.png)](https://commons.wikimedia.org/wiki/File:The_Voyage_of_the_Beagle.png)
+
+<sub>From an early edition of Darwin's Journal Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_Voyage_of_the_Beagle.png).</sub>
 
 - **Date:** 1839
 - **Type:** Travel narrative and natural history
@@ -39,6 +51,10 @@ Darwin's journal of the voyage of HMS Beagle, 1831–36, was first published in 
 
 ### On the Origin of Species (1859)
 
+[![On the Origin of Species](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Origin_of_Species_title_page.jpg/960px-Origin_of_Species_title_page.jpg)](https://commons.wikimedia.org/wiki/File:Origin_of_Species_title_page.jpg)
+
+<sub>Title page of the first edition, 1859 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Origin_of_Species_title_page.jpg).</sub>
+
 - **Date:** 1859
 - **Type:** Scientific book
 - **Published / where:** London: John Murray
@@ -47,6 +63,10 @@ Darwin's journal of the voyage of HMS Beagle, 1831–36, was first published in 
 On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life was published on 24 November 1859, and its first printing of 1,250 copies was taken up by booksellers on the first day. Darwin, prompted by Alfred Russel Wallace's independent discovery, presented what he called one long argument. Starting from the variation produced by breeders of pigeons and other domestic animals, he argued that in nature more individuals are born than can survive, so those with variations better suited to their conditions tend to leave more offspring, and over long periods this natural selection produces new species. He showed how the theory explained the geological record, the geographical distribution of species, classification, embryology and rudimentary organs, and frankly discussed difficulties such as the evolution of the eye. He said almost nothing about humans. The book provoked fierce debate, but within two decades most scientists accepted evolution. It went through six editions, in which Darwin answered critics.
 
 ### The Descent of Man (1871)
+
+[![The Descent of Man](https://upload.wikimedia.org/wikipedia/commons/7/7b/Darwin_-_Descent_of_Man_%281871%29.jpg)](https://commons.wikimedia.org/wiki/File:Darwin_-_Descent_of_Man_%281871%29.jpg)
+
+<sub>Title page, 1871 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Darwin_-_Descent_of_Man_%281871%29.jpg).</sub>
 
 - **Date:** 1871
 - **Type:** Scientific book in two volumes

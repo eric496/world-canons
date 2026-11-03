@@ -1,11 +1,15 @@
 # Leonardo da Vinci
 
+<a href="https://commons.wikimedia.org/wiki/File:Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png/330px-Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png" alt="Leonardo da Vinci" title="Attributed to Francesco Melzi, portrait of Leonardo, c. 1515–18"></a>
+
 **1452 – 1519** · Italian  
 Born: Vinci, Republic of Florence · Died: Amboise, France  
 Eras & fields: [Renaissance anatomy & astronomy](../movements/renaissance-science.md)  
 Also in: [Art](../../art/creators/leonardo.md)  
 
 > Painter, engineer and investigator of nature whose notebooks contain anatomical, geological, hydraulic and mechanical studies far ahead of their time. They were largely unpublished until modern times.
+
+<sub>Portrait: Attributed to Francesco Melzi, portrait of Leonardo, c. 1515–18 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ In anatomy he dissected some thirty human bodies in Florence, Milan and Rome, pr
 - [Anatomical drawings](#anatomical-drawings-c-14871513) (c. 1487–1513)
 
 ### Codex Leicester (c. 1506–1510)
+
+[![Codex Leicester](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Vinci_-_Hammer_2A.jpg/1280px-Vinci_-_Hammer_2A.jpg)](https://commons.wikimedia.org/wiki/File:Vinci_-_Hammer_2A.jpg)
+
+<sub>A page of the Codex Leicester Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Vinci_-_Hammer_2A.jpg).</sub>
 
 - **Date:** c. 1506–1510
 - **Type:** Notebook (72 pages)

@@ -1,10 +1,14 @@
 # Louis Pasteur
 
+<a href="https://commons.wikimedia.org/wiki/File:Albert_Edelfelt_-_Louis_Pasteur_-_1885.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Edelfelt_-_Louis_Pasteur_-_1885.jpg/330px-Albert_Edelfelt_-_Louis_Pasteur_-_1885.jpg" alt="Louis Pasteur" title="Albert Edelfelt, Louis Pasteur in his laboratory, 1885, Musée d'Orsay"></a>
+
 **1822 – 1895** · French  
 Born: Dole, Jura, France · Died: Marnes-la-Coquette, near Paris  
 Eras & fields: [Public health, germ theory & modern medicine](../movements/germ-theory.md)  
 
 > Chemist and microbiologist who showed that fermentation and many diseases are caused by microorganisms, disproved spontaneous generation and developed vaccines against anthrax and rabies.
+
+<sub>Portrait: Albert Edelfelt, Louis Pasteur in his laboratory, 1885, Musée d'Orsay · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Albert_Edelfelt_-_Louis_Pasteur_-_1885.jpg)</sub>
 
 ## Biography
 
@@ -18,6 +22,10 @@ Studying fermentation for the wine and beer industries, Pasteur showed that it i
 - [Rabies vaccine](#rabies-vaccine-1885) (1885)
 
 ### Swan-neck flask experiments (1859–1862)
+
+[![Swan-neck flask experiments](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Swan-necked_flask_used_by_Pasteur._Wellcome_M0012521.jpg/1280px-Swan-necked_flask_used_by_Pasteur._Wellcome_M0012521.jpg)](https://commons.wikimedia.org/wiki/File:Swan-necked_flask_used_by_Pasteur._Wellcome_M0012521.jpg)
+
+<sub>Swan-necked flask used by Pasteur Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Swan-necked_flask_used_by_Pasteur._Wellcome_M0012521.jpg).</sub>
 
 - **Date:** 1859–1862
 - **Type:** Experiment

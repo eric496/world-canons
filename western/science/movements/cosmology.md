@@ -16,8 +16,8 @@ General relativity made the shape and history of the universe a scientific quest
 
 | Image | Year | Work / discovery | Scientist | Published / where |
 |---|---|---|---|---|
-| — | 1927–1931 | **The primeval atom and the expanding universe** | [Georges Lemaître](../creators/lemaitre.md) | Annales de la Société Scientifique de Bruxelles, 1927; Nature, 1931 |
-| — | 1929 | **Hubble's law of galaxy recession** | [Edwin Hubble](../creators/hubble.md) | Mount Wilson Observatory; published in the Proceedings of the National Academy of Sciences |
+| <a href="https://commons.wikimedia.org/wiki/File:CMB_Timeline300_no_WMAP.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/330px-CMB_Timeline300_no_WMAP.jpg" width="140" alt="The primeval atom and the expanding universe"></a> | 1927–1931 | **The primeval atom and the expanding universe** | [Georges Lemaître](../creators/lemaitre.md) | Annales de la Société Scientifique de Bruxelles, 1927; Nature, 1931 |
+| <a href="https://commons.wikimedia.org/wiki/File:Snapshots_of_the_star_that_changed_the_Universe_%28opo1115d%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Snapshots_of_the_star_that_changed_the_Universe_%28opo1115d%29.jpg/330px-Snapshots_of_the_star_that_changed_the_Universe_%28opo1115d%29.jpg" width="140" alt="Hubble's law of galaxy recession"></a> | 1929 | **Hubble's law of galaxy recession** | [Edwin Hubble](../creators/hubble.md) | Mount Wilson Observatory; published in the Proceedings of the National Academy of Sciences |
 
 ---
 [← Logic & the foundations of mathematics](logic-foundations.md) · [Science](../README.md) · [Computing & information →](computing.md)

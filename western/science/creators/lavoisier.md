@@ -1,10 +1,14 @@
 # Antoine Lavoisier
 
+<a href="https://commons.wikimedia.org/wiki/File:David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%292.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%292.jpg" alt="Antoine Lavoisier" title="Jacques-Louis David, Antoine Lavoisier and his wife (detail), 1788"></a>
+
 **1743 – 1794** · French  
 Born: Paris · Died: Paris  
 Eras & fields: [Enlightenment chemistry & natural history](../movements/enlightenment-science.md)  
 
 > Chemist who explained combustion by oxygen, established the conservation of mass and reformed chemical names, laying the foundations of modern chemistry. He was guillotined in the Terror.
+
+<sub>Portrait: Jacques-Louis David, Antoine Lavoisier and his wife (detail), 1788 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%292.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Using precise balances and sealed vessels, Lavoisier showed that combustion and 
 ## Key works & discoveries
 
 ### Traité élémentaire de chimie (1789)
+
+[![Traité élémentaire de chimie](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lavoisier-7.jpg/960px-Lavoisier-7.jpg)](https://commons.wikimedia.org/wiki/File:Lavoisier-7.jpg)
+
+<sub>From the Traité élémentaire de chimie, 1789 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Lavoisier-7.jpg).</sub>
 
 - **Date:** 1789
 - **Type:** Chemical textbook

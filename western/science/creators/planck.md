@@ -16,6 +16,10 @@ Working on the problem of how the radiation emitted by a hot body depends on tem
 
 ### Planck's radiation law and the quantum of action (1900)
 
+[![Planck's radiation law and the quantum of action](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Black_body.svg/1280px-Black_body.svg.png)](https://commons.wikimedia.org/wiki/File:Black_body.svg)
+
+<sub>Black-body radiation curves at different temperatures Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Black_body.svg).</sub>
+
 - **Date:** 1900
 - **Type:** Scientific papers
 - **Published / where:** Verhandlungen der Deutschen Physikalischen Gesellschaft, Berlin; Annalen der Physik, 1901

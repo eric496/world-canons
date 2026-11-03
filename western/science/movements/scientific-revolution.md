@@ -8,42 +8,42 @@ In a few generations the Aristotelian picture of nature gave way to a mechanical
 
 ## Scientists
 
--  [Francis Bacon](../creators/francis-bacon.md) (1561 – 1626)
--  [Galileo Galilei](../creators/galileo.md) (1564 – 1642)
--  [Johannes Kepler](../creators/kepler.md) (1571 – 1630)
--  [William Harvey](../creators/harvey.md) (1578 – 1657)
--  [René Descartes](../creators/descartes.md) (1596 – 1650)
--  [Pierre de Fermat](../creators/fermat.md) (1601 – 1665)
--  [Blaise Pascal](../creators/pascal.md) (1623 – 1662)
--  [Robert Boyle](../creators/boyle.md) (1627 – 1691)
--  [Christiaan Huygens](../creators/huygens.md) (1629 – 1695)
--  [Antonie van Leeuwenhoek](../creators/leeuwenhoek.md) (1632 – 1723)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Somer_Francis_Bacon.jpg/330px-Somer_Francis_Bacon.jpg" width="40" alt="Francis Bacon"> [Francis Bacon](../creators/francis-bacon.md) (1561 – 1626)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-960px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg" width="40" alt="Galileo Galilei"> [Galileo Galilei](../creators/galileo.md) (1564 – 1642)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/JKepler.jpg" width="40" alt="Johannes Kepler"> [Johannes Kepler](../creators/kepler.md) (1571 – 1630)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/William_Harvey_2.jpg" width="40" alt="William Harvey"> [William Harvey](../creators/harvey.md) (1578 – 1657)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg" width="40" alt="René Descartes"> [René Descartes](../creators/descartes.md) (1596 – 1650)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Pierre_de_Fermat.jpg" width="40" alt="Pierre de Fermat"> [Pierre de Fermat](../creators/fermat.md) (1601 – 1665)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Blaise_Pascal_Versailles%2C_circa_1690.JPG/330px-Blaise_Pascal_Versailles%2C_circa_1690.JPG" width="40" alt="Blaise Pascal"> [Blaise Pascal](../creators/pascal.md) (1623 – 1662)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg/330px-The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg" width="40" alt="Robert Boyle"> [Robert Boyle](../creators/boyle.md) (1627 – 1691)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Caspar_Netscher_-_Christiaan_Huygens%2C_the_astronomer%2C_1671.jpg/330px-Caspar_Netscher_-_Christiaan_Huygens%2C_the_astronomer%2C_1671.jpg" width="40" alt="Christiaan Huygens"> [Christiaan Huygens](../creators/huygens.md) (1629 – 1695)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg/330px-Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg" width="40" alt="Antonie van Leeuwenhoek"> [Antonie van Leeuwenhoek](../creators/leeuwenhoek.md) (1632 – 1723)
 -  [Robert Hooke](../creators/hooke.md) (1635 – 1703)
 
 ## Key works & discoveries
 
 | Image | Year | Work / discovery | Scientist | Published / where |
 |---|---|---|---|---|
-| — | 1596 | **Mysterium Cosmographicum** | [Johannes Kepler](../creators/kepler.md) | Tübingen: Georg Gruppenbach |
-| — | 1609 | **Astronomia nova** | [Johannes Kepler](../creators/kepler.md) | Heidelberg: Gotthard Vögelin (printed in Prague) |
-| — | 1609–1610 | **Galileo's telescopes** | [Galileo Galilei](../creators/galileo.md) | Museo Galileo, Florence |
-| — | 1610 | **Sidereus Nuncius** | [Galileo Galilei](../creators/galileo.md) | Venice: Tommaso Baglioni |
-| — | 1619 | **Harmonices Mundi** | [Johannes Kepler](../creators/kepler.md) | Linz: Johann Planck |
-| — | 1620 | **Novum Organum** | [Francis Bacon](../creators/francis-bacon.md) | London: John Bill |
-| — | 1628 | **De motu cordis** | [William Harvey](../creators/harvey.md) | Frankfurt: William Fitzer |
-| — | 1632 | **Dialogue Concerning the Two Chief World Systems** | [Galileo Galilei](../creators/galileo.md) | Florence: Giovanni Battista Landini |
-| — | 1637 | **La Géométrie** | [René Descartes](../creators/descartes.md) | Leiden: Jan Maire (appendix to the Discourse on Method) |
-| — | c. 1637; published 1670 | **Fermat's Last Theorem (marginal note)** | [Pierre de Fermat](../creators/fermat.md) | Note in Fermat's copy of Diophantus' Arithmetica; published Toulouse, 1670 |
-| — | 1638 | **Two New Sciences** | [Galileo Galilei](../creators/galileo.md) | Leiden: Elsevier |
-| — | 1642–1652 | **Pascaline** | [Blaise Pascal](../creators/pascal.md) | Surviving examples in the Musée des Arts et Métiers, Paris, and elsewhere |
-| — | 1654; published 1665 | **Traité du triangle arithmétique** | [Blaise Pascal](../creators/pascal.md) | Paris: Guillaume Desprez (posthumous) |
+| <a href="https://commons.wikimedia.org/wiki/File:Mysterium_Cosmographicum_front_page.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mysterium_Cosmographicum_front_page.jpg/330px-Mysterium_Cosmographicum_front_page.jpg" width="140" alt="Mysterium Cosmographicum"></a> | 1596 | **Mysterium Cosmographicum** | [Johannes Kepler](../creators/kepler.md) | Tübingen: Georg Gruppenbach |
+| <a href="https://commons.wikimedia.org/wiki/File:Astronomia_Nova.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Astronomia_Nova.jpg" width="140" alt="Astronomia nova"></a> | 1609 | **Astronomia nova** | [Johannes Kepler](../creators/kepler.md) | Heidelberg: Gotthard Vögelin (printed in Prague) |
+| <a href="https://commons.wikimedia.org/wiki/File:Galilei_telescopes%2C_Museo_Galileo%2C_Florence%2C_Inv._242%2C_2428%2C_224088.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Galilei_telescopes%2C_Museo_Galileo%2C_Florence%2C_Inv._242%2C_2428%2C_224088.jpg/330px-Galilei_telescopes%2C_Museo_Galileo%2C_Florence%2C_Inv._242%2C_2428%2C_224088.jpg" width="140" alt="Galileo's telescopes"></a> | 1609–1610 | **Galileo's telescopes** | [Galileo Galilei](../creators/galileo.md) | Museo Galileo, Florence |
+| <a href="https://commons.wikimedia.org/wiki/File:Houghton_IC6.G1333.610sa_-_Sidereus_nuncius.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Houghton_IC6.G1333.610sa_-_Sidereus_nuncius.jpg/330px-Houghton_IC6.G1333.610sa_-_Sidereus_nuncius.jpg" width="140" alt="Sidereus Nuncius"></a> | 1610 | **Sidereus Nuncius** | [Galileo Galilei](../creators/galileo.md) | Venice: Tommaso Baglioni |
+| <a href="https://commons.wikimedia.org/wiki/File:Harmonices_Mundi_0001-lg.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Harmonices_Mundi_0001-lg.jpg/330px-Harmonices_Mundi_0001-lg.jpg" width="140" alt="Harmonices Mundi"></a> | 1619 | **Harmonices Mundi** | [Johannes Kepler](../creators/kepler.md) | Linz: Johann Planck |
+| <a href="https://commons.wikimedia.org/wiki/File:Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg/330px-Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg" width="140" alt="Novum Organum"></a> | 1620 | **Novum Organum** | [Francis Bacon](../creators/francis-bacon.md) | London: John Bill |
+| <a href="https://commons.wikimedia.org/wiki/File:Illustrations_de_Exercitatio_anatomica_de_motu_cordis_et_sanguinis_in_animalibus..._-_%28Non_identifi%C3%A9%29_%3B_William_Harvey%2C_aut._du_texte_-_btv1b2100015j_%281_of_2%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Illustrations_de_Exercitatio_anatomica_de_motu_cordis_et_sanguinis_in_animalibus..._-_%28Non_identifi%C3%A9%29_%3B_William_Harvey%2C_aut._du_texte_-_btv1b2100015j_%281_of_2%29.jpg/330px-thumbnail.jpg" width="140" alt="De motu cordis"></a> | 1628 | **De motu cordis** | [William Harvey](../creators/harvey.md) | Frankfurt: William Fitzer |
+| <a href="https://commons.wikimedia.org/wiki/File:Galileos_Dialogue_Title_Page.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Galileos_Dialogue_Title_Page.png/330px-Galileos_Dialogue_Title_Page.png" width="140" alt="Dialogue Concerning the Two Chief World Systems"></a> | 1632 | **Dialogue Concerning the Two Chief World Systems** | [Galileo Galilei](../creators/galileo.md) | Florence: Giovanni Battista Landini |
+| <a href="https://commons.wikimedia.org/wiki/File:GeometryDescartes.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GeometryDescartes.JPG" width="140" alt="La Géométrie"></a> | 1637 | **La Géométrie** | [René Descartes](../creators/descartes.md) | Leiden: Jan Maire (appendix to the Discourse on Method) |
+| <a href="https://commons.wikimedia.org/wiki/File:Diophantus-II-8-Fermat.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Diophantus-II-8-Fermat.jpg" width="140" alt="Fermat's Last Theorem (marginal note)"></a> | c. 1637; published 1670 | **Fermat's Last Theorem (marginal note)** | [Pierre de Fermat](../creators/fermat.md) | Note in Fermat's copy of Diophantus' Arithmetica; published Toulouse, 1670 |
+| <a href="https://commons.wikimedia.org/wiki/File:Galileo_Galilei%2C_Discorsi_e_Dimostrazioni_Matematiche_Intorno_a_Due_Nuove_Scienze%2C_1638_%281400x1400%29.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Galileo_Galilei%2C_Discorsi_e_Dimostrazioni_Matematiche_Intorno_a_Due_Nuove_Scienze%2C_1638_%281400x1400%29.png/330px-Galileo_Galilei%2C_Discorsi_e_Dimostrazioni_Matematiche_Intorno_a_Due_Nuove_Scienze%2C_1638_%281400x1400%29.png" width="140" alt="Two New Sciences"></a> | 1638 | **Two New Sciences** | [Galileo Galilei](../creators/galileo.md) | Leiden: Elsevier |
+| <a href="https://commons.wikimedia.org/wiki/File:Pascaline-CnAM_823-1-IMG_1506-black.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Pascaline-CnAM_823-1-IMG_1506-black.jpg/330px-Pascaline-CnAM_823-1-IMG_1506-black.jpg" width="140" alt="Pascaline"></a> | 1642–1652 | **Pascaline** | [Blaise Pascal](../creators/pascal.md) | Surviving examples in the Musée des Arts et Métiers, Paris, and elsewhere |
+| <a href="https://commons.wikimedia.org/wiki/File:FR-631136102_Em_0011_f_106_Triangulus_Arithmeticus_Definitiones.png"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/FR-631136102_Em_0011_f_106_Triangulus_Arithmeticus_Definitiones.png" width="140" alt="Traité du triangle arithmétique"></a> | 1654; published 1665 | **Traité du triangle arithmétique** | [Blaise Pascal](../creators/pascal.md) | Paris: Guillaume Desprez (posthumous) |
 | — | 1654 | **Correspondence with Pascal on probability** | [Pierre de Fermat](../creators/fermat.md) | Toulouse and Paris; published in Fermat's Varia Opera, 1679 |
-| — | 1660; 2nd ed. 1662 | **New Experiments Physico-Mechanical, Touching the Spring of the Air** | [Robert Boyle](../creators/boyle.md) | Oxford: H. Hall for Thomas Robinson |
-| — | 1661 | **The Sceptical Chymist** | [Robert Boyle](../creators/boyle.md) | London: J. Cadwell for J. Crooke |
-| — | 1665 | **Micrographia** | [Robert Hooke](../creators/hooke.md) | London: John Martyn and James Allestry, printers to the Royal Society |
-| — | 1673 | **Horologium Oscillatorium** | [Christiaan Huygens](../creators/huygens.md) | Paris: F. Muguet |
+| <a href="https://commons.wikimedia.org/wiki/File:Boyle%27s_first_air_pump._Wellcome_M0010676.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Boyle%27s_first_air_pump._Wellcome_M0010676.jpg/330px-Boyle%27s_first_air_pump._Wellcome_M0010676.jpg" width="140" alt="New Experiments Physico-Mechanical, Touching the Spring of the Air"></a> | 1660; 2nd ed. 1662 | **New Experiments Physico-Mechanical, Touching the Spring of the Air** | [Robert Boyle](../creators/boyle.md) | Oxford: H. Hall for Thomas Robinson |
+| <a href="https://commons.wikimedia.org/wiki/File:Sceptical_chymist_1661_Boyle_Title_page_AQ18_%283%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sceptical_chymist_1661_Boyle_Title_page_AQ18_%283%29.jpg/330px-Sceptical_chymist_1661_Boyle_Title_page_AQ18_%283%29.jpg" width="140" alt="The Sceptical Chymist"></a> | 1661 | **The Sceptical Chymist** | [Robert Boyle](../creators/boyle.md) | London: J. Cadwell for J. Crooke |
+| <a href="https://commons.wikimedia.org/wiki/File:Flea_Micrographia_Hooke.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flea_Micrographia_Hooke.png/330px-Flea_Micrographia_Hooke.png" width="140" alt="Micrographia"></a> | 1665 | **Micrographia** | [Robert Hooke](../creators/hooke.md) | London: John Martyn and James Allestry, printers to the Royal Society |
+| <a href="https://commons.wikimedia.org/wiki/File:Huygens_horologium.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Huygens_horologium.jpg" width="140" alt="Horologium Oscillatorium"></a> | 1673 | **Horologium Oscillatorium** | [Christiaan Huygens](../creators/huygens.md) | Paris: F. Muguet |
 | — | 1676 | **Letter on the 'little animals'** | [Antonie van Leeuwenhoek](../creators/leeuwenhoek.md) | Delft; published in the Philosophical Transactions, London, 1677 |
-| — | 1690 | **Treatise on Light** | [Christiaan Huygens](../creators/huygens.md) | Leiden: Pieter van der Aa |
+| <a href="https://commons.wikimedia.org/wiki/File:Web_Huygens690.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Web_Huygens690.jpg/330px-Web_Huygens690.jpg" width="140" alt="Treatise on Light"></a> | 1690 | **Treatise on Light** | [Christiaan Huygens](../creators/huygens.md) | Leiden: Pieter van der Aa |
 
 ---
 [← Renaissance anatomy & astronomy](renaissance-science.md) · [Science](../README.md) · [The Newtonian age →](newtonian-age.md)

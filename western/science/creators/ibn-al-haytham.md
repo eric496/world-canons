@@ -16,6 +16,10 @@ His Book of Optics rejected the ancient theory that the eye sends out rays, comb
 
 ### Book of Optics (Kitab al-Manazir) (1011–1021)
 
+[![Book of Optics (Kitab al-Manazir)](https://upload.wikimedia.org/wikipedia/commons/4/45/Book_of_Optics_Cover_Page.jpg)](https://commons.wikimedia.org/wiki/File:Book_of_Optics_Cover_Page.jpg)
+
+<sub>Frontispiece of Risner's Latin edition, Opticae thesaurus, 1572 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Book_of_Optics_Cover_Page.jpg).</sub>
+
 - **Date:** 1011–1021
 - **Type:** Treatise on optics
 - **Published / where:** Cairo; Latin translation De aspectibus c. 1200; printed Basel, 1572

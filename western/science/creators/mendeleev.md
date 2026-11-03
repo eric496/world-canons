@@ -1,10 +1,14 @@
 # Dmitri Mendeleev
 
+<a href="https://commons.wikimedia.org/wiki/File:Medeleeff_by_repin.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Medeleeff_by_repin.jpg" alt="Dmitri Mendeleev" title="Ilya Repin, portrait of Dmitri Mendeleev"></a>
+
 **1834 – 1907** · Russian  
 Born: Verkhnie Aremzyani, near Tobolsk, Siberia · Died: Saint Petersburg  
 Eras & fields: [Atoms & the periodic table](../movements/chemical-atomism.md)  
 
 > Russian chemist who arranged the elements in a periodic table by atomic weight and properties, and used its gaps to predict elements not yet discovered.
+
+<sub>Portrait: Ilya Repin, portrait of Dmitri Mendeleev · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Medeleeff_by_repin.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ While writing a textbook, The Principles of Chemistry, Mendeleev looked for a na
 ## Key works & discoveries
 
 ### Periodic table of the elements (1869)
+
+[![Periodic table of the elements](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Colour_18-col_PT_with_labels.svg/1280px-Colour_18-col_PT_with_labels.svg.png)](https://commons.wikimedia.org/wiki/File:Colour_18-col_PT_with_labels.svg)
+
+<sub>A modern form of the periodic table Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Colour_18-col_PT_with_labels.svg).</sub>
 
 - **Date:** 1869
 - **Type:** Classification of the elements

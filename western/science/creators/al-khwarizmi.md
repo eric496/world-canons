@@ -19,6 +19,10 @@ His treatise on calculation by completion and balancing taught the systematic so
 
 ### The Compendious Book on Calculation by Completion and Balancing (Al-jabr) (c. 820)
 
+[![The Compendious Book on Calculation by Completion and Balancing (Al-jabr)](https://upload.wikimedia.org/wikipedia/commons/2/23/Image-Al-Kit%C4%81b_al-mu%E1%B8%ABta%E1%B9%A3ar_f%C4%AB_%E1%B8%A5is%C4%81b_al-%C4%9Fabr_wa-l-muq%C4%81bala.jpg)](https://commons.wikimedia.org/wiki/File:Image-Al-Kit%C4%81b_al-mu%E1%B8%ABta%E1%B9%A3ar_f%C4%AB_%E1%B8%A5is%C4%81b_al-%C4%9Fabr_wa-l-muq%C4%81bala.jpg)
+
+<sub>Page from a manuscript of the Al-jabr Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Image-Al-Kit%C4%81b_al-mu%E1%B8%ABta%E1%B9%A3ar_f%C4%AB_%E1%B8%A5is%C4%81b_al-%C4%9Fabr_wa-l-muq%C4%81bala.jpg).</sub>
+
 - **Date:** c. 820
 - **Type:** Mathematical treatise
 - **Published / where:** Baghdad; Latin translation by Robert of Chester, Segovia, 1145

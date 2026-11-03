@@ -1,10 +1,14 @@
 # Archimedes of Syracuse
 
+<a href="https://commons.wikimedia.org/wiki/File:Domenico-Fetti_Archimedes_1620.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/330px-Domenico-Fetti_Archimedes_1620.jpg" alt="Archimedes of Syracuse" title="Domenico Fetti, Archimedes, 1620"></a>
+
 **c. 287 BC – c. 212 BC** · Greek  
 Born: Syracuse, Sicily · Died: Syracuse, Sicily  
 Eras & fields: [Hellenistic science & mathematics](../movements/hellenistic-science.md)  
 
 > Mathematician, physicist and engineer, the greatest of the ancient world. He calculated areas and volumes with methods close to the integral calculus and founded statics and hydrostatics.
+
+<sub>Portrait: Domenico Fetti, Archimedes, 1620 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Domenico-Fetti_Archimedes_1620.jpg)</sub>
 
 ## Biography
 
@@ -21,6 +25,10 @@ His surviving treatises calculate the area of the circle and parabola, the volum
 
 ### On Floating Bodies (c. 250 BC)
 
+[![On Floating Bodies](https://upload.wikimedia.org/wikipedia/commons/9/9b/Archimedes_Palimpsest.jpg)](https://commons.wikimedia.org/wiki/File:Archimedes_Palimpsest.jpg)
+
+<sub>A page of the Archimedes Palimpsest, source of the Greek text of On Floating Bodies Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Archimedes_Palimpsest.jpg).</sub>
+
 - **Date:** c. 250 BC
 - **Type:** Treatise on hydrostatics
 - **Published / where:** Syracuse
@@ -29,6 +37,10 @@ His surviving treatises calculate the area of the circle and parabola, the volum
 In On Floating Bodies Archimedes treats fluids mathematically for the first time. Starting from a postulate about how pressure is transmitted in a fluid, the first book proves what is now called Archimedes' principle: a solid immersed in a fluid is pushed up by a force equal to the weight of the fluid it displaces, so a body lighter than the fluid floats with just enough of itself submerged. The second book, a tour de force of geometry, finds the positions in which a floating paraboloid, a model of a ship's hull, is stable. The famous story of Archimedes discovering the principle in his bath while testing King Hiero's crown is told only by the Roman writer Vitruvius two centuries later and is probably a legend. The Greek text was long known only in a Latin translation by William of Moerbeke of 1269, until a Greek version was found in the Archimedes Palimpsest.
 
 ### The Method of Mechanical Theorems (Archimedes Palimpsest) (c. 250 BC; manuscript 10th century)
+
+[![The Method of Mechanical Theorems (Archimedes Palimpsest)](https://upload.wikimedia.org/wikipedia/commons/1/1b/ArPalimTypPage.jpg)](https://commons.wikimedia.org/wiki/File:ArPalimTypPage.jpg)
+
+<sub>A page of the Archimedes Palimpsest, with the prayer book written over the erased text Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:ArPalimTypPage.jpg).</sub>
 
 - **Date:** c. 250 BC; manuscript 10th century
 - **Type:** Mathematical treatise in a palimpsest manuscript
@@ -39,6 +51,10 @@ The Method, addressed to Eratosthenes, explains how Archimedes found his results
 
 ### On the Sphere and Cylinder (c. 225 BC)
 
+[![On the Sphere and Cylinder](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Archimedes_-_On_the_Sphere_and_Cylinder.jpg/1280px-Archimedes_-_On_the_Sphere_and_Cylinder.jpg)](https://commons.wikimedia.org/wiki/File:Archimedes_-_On_the_Sphere_and_Cylinder.jpg)
+
+<sub>Page from a copy of On the Sphere and Cylinder Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Archimedes_-_On_the_Sphere_and_Cylinder.jpg).</sub>
+
 - **Date:** c. 225 BC
 - **Type:** Mathematical treatise
 - **Published / where:** Syracuse; sent to Dositheus in Alexandria
@@ -47,6 +63,10 @@ The Method, addressed to Eratosthenes, explains how Archimedes found his results
 On the Sphere and Cylinder is a two-book treatise that Archimedes sent as a letter to the mathematician Dositheus in Alexandria. Using the method of exhaustion, squeezing a curved figure between inscribed and circumscribed shapes, he proved that the surface area of a sphere is four times that of its greatest circle, and that a sphere has two-thirds the volume and two-thirds the surface of the smallest cylinder that contains it. The second book solves problems such as cutting a sphere by a plane so that the two pieces have a given ratio. Archimedes regarded this as his finest result and, according to Cicero, asked for a sphere inscribed in a cylinder to be carved on his tomb; Cicero found the overgrown tomb in Syracuse by this sign. The treatise survived through Byzantine manuscripts, the commentary of Eutocius and Arabic and Latin translations.
 
 ### The Sand Reckoner (c. 216 BC)
+
+[![The Sand Reckoner](https://upload.wikimedia.org/wikipedia/commons/f/f7/Arenarius.jpg)](https://commons.wikimedia.org/wiki/File:Arenarius.jpg)
+
+<sub>Page from an early printed edition of The Sand Reckoner Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Arenarius.jpg).</sub>
 
 - **Date:** c. 216 BC
 - **Type:** Mathematical essay

@@ -1,10 +1,14 @@
 # Florence Nightingale
 
+<a href="https://commons.wikimedia.org/wiki/File:Florence_Nightingale._Coloured_lithograph._Wellcome_V0006579.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Florence_Nightingale._Coloured_lithograph._Wellcome_V0006579.jpg/330px-Florence_Nightingale._Coloured_lithograph._Wellcome_V0006579.jpg" alt="Florence Nightingale" title="Florence Nightingale, coloured lithograph, Wellcome Collection"></a>
+
 **1820 – 1910** · British  
 Born: Florence, Grand Duchy of Tuscany · Died: London  
 Eras & fields: [Public health, germ theory & modern medicine](../movements/germ-theory.md)  
 
 > Nurse, reformer and statistician who used data and innovative diagrams to show that most soldiers' deaths in the Crimean War came from preventable disease.
+
+<sub>Portrait: Florence Nightingale, coloured lithograph, Wellcome Collection · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Florence_Nightingale._Coloured_lithograph._Wellcome_V0006579.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Nightingale had been taught mathematics as a girl and worked with the statistici
 ## Key works & discoveries
 
 ### Diagram of the Causes of Mortality in the Army in the East (1858)
+
+[![Diagram of the Causes of Mortality in the Army in the East](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Diagram_of_the_Causes_of_Mortality_in_the_Army_in_the_East._%28IA_dr_diagram-of-the-causes-of-mortality-in-the-army-in-the-east-10563002%29.jpg/1280px-Diagram_of_the_Causes_of_Mortality_in_the_Army_in_the_East._%28IA_dr_diagram-of-the-causes-of-mortality-in-the-army-in-the-east-10563002%29.jpg)](https://commons.wikimedia.org/wiki/File:Diagram_of_the_Causes_of_Mortality_in_the_Army_in_the_East._%28IA_dr_diagram-of-the-causes-of-mortality-in-the-army-in-the-east-10563002%29.jpg)
+
+<sub>Nightingale's rose diagram of causes of mortality, 1858 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Diagram_of_the_Causes_of_Mortality_in_the_Army_in_the_East._%28IA_dr_diagram-of-the-causes-of-mortality-in-the-army-in-the-east-10563002%29.jpg).</sub>
 
 - **Date:** 1858
 - **Type:** Statistical diagram

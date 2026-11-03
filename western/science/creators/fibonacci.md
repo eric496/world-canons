@@ -1,10 +1,14 @@
 # Leonardo of Pisa (Fibonacci)
 
+<a href="https://commons.wikimedia.org/wiki/File:Leonardo_Fibonacci.JPG"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Leonardo_Fibonacci.JPG/330px-Leonardo_Fibonacci.JPG" alt="Leonardo of Pisa (Fibonacci)" title="Nineteenth-century statue of Fibonacci, Pisa"></a>
+
 **c. 1170 – c. 1250** · Italian  
 Born: Pisa · Died: Pisa (probably)  
 Eras & fields: [Medieval Latin scholarship](../movements/medieval-latin-science.md)  
 
 > Merchant mathematician of Pisa whose Liber Abaci introduced Hindu-Arabic numerals and their arithmetic to European commerce. He was the most original European mathematician of the Middle Ages.
+
+<sub>Portrait: Nineteenth-century statue of Fibonacci, Pisa · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leonardo_Fibonacci.JPG)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ His Liber Abaci of 1202 taught the new numerals, place value and zero through hu
 ## Key works & discoveries
 
 ### Liber Abaci (1202; revised 1228)
+
+[![Liber Abaci](https://upload.wikimedia.org/wikipedia/commons/0/04/Liber_abbaci_magliab_f124r.jpg)](https://commons.wikimedia.org/wiki/File:Liber_abbaci_magliab_f124r.jpg)
+
+<sub>Page from a manuscript of Liber Abaci, Biblioteca Nazionale Centrale, Florence Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Liber_abbaci_magliab_f124r.jpg).</sub>
 
 - **Date:** 1202; revised 1228
 - **Type:** Mathematical treatise

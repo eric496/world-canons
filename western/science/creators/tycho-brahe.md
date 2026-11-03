@@ -1,10 +1,14 @@
 # Tycho Brahe
 
+<a href="https://commons.wikimedia.org/wiki/File:Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif/lossy-page1-1280px-Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif.jpg" alt="Tycho Brahe" title="Portrait of Tycho Brahe, Skokloster Castle"></a>
+
 **1546 – 1601** · Danish  
 Born: Knutstorp, Scania, Denmark · Died: Prague, Bohemia  
 Eras & fields: [Renaissance anatomy & astronomy](../movements/renaissance-science.md)  
 
 > Danish nobleman and astronomer whose naked-eye observations, made with great instruments of his own design, were the most accurate before the telescope. Kepler used them to find the laws of planetary motion.
+
+<sub>Portrait: Portrait of Tycho Brahe, Skokloster Castle · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ Tycho's large quadrants, sextants and armillary spheres, used systematically ove
 
 ### De nova stella (1573)
 
+[![De nova stella](https://upload.wikimedia.org/wikipedia/commons/8/8c/Tycho_Cas_SN1572.jpg)](https://commons.wikimedia.org/wiki/File:Tycho_Cas_SN1572.jpg)
+
+<sub>Tycho's chart of Cassiopeia with the new star marked I, from De nova stella Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Tycho_Cas_SN1572.jpg).</sub>
+
 - **Date:** 1573
 - **Type:** Astronomical treatise
 - **Published / where:** Copenhagen: Lorentz Benedicht
@@ -27,6 +35,10 @@ Tycho's large quadrants, sextants and armillary spheres, used systematically ove
 On 11 November 1572 Tycho noticed a brilliant new star in Cassiopeia, as bright as Venus. Over the following months he measured its position with a large sextant and found that it showed no daily parallax, the shift that a nearby object would show as the Earth turned, and no motion against the stars. It must therefore lie beyond the Moon, among the fixed stars, contradicting the Aristotelian doctrine that the heavens are perfect and unchangeable. The star faded and disappeared by early 1574. Tycho's short book On the New Star, published in 1573, made his reputation and led to royal support for his observatory on Hven. The object is now known to have been a supernova, an exploding star, and is called Tycho's Supernova; its remnant has been studied with modern telescopes.
 
 ### Astronomiae instauratae mechanica (1598)
+
+[![Astronomiae instauratae mechanica](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tycho-Brahe-Mural-Quadrant.jpg/1280px-Tycho-Brahe-Mural-Quadrant.jpg)](https://commons.wikimedia.org/wiki/File:Tycho-Brahe-Mural-Quadrant.jpg)
+
+<sub>The mural quadrant at Uraniborg, from Astronomiae instauratae mechanica Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Tycho-Brahe-Mural-Quadrant.jpg).</sub>
 
 - **Date:** 1598
 - **Type:** Illustrated book of instruments

@@ -16,6 +16,10 @@ In 1913 Bohr proposed that electrons in atoms occupy only certain allowed orbits
 
 ### On the Constitution of Atoms and Molecules (Bohr model) (1913)
 
+[![On the Constitution of Atoms and Molecules (Bohr model)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bohr_atom_model.svg/1280px-Bohr_atom_model.svg.png)](https://commons.wikimedia.org/wiki/File:Bohr_atom_model.svg)
+
+<sub>Diagram of the Bohr model of the atom Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Bohr_atom_model.svg).</sub>
+
 - **Date:** 1913
 - **Type:** Scientific papers
 - **Published / where:** Philosophical Magazine, London

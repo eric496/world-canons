@@ -1,11 +1,15 @@
 # Blaise Pascal
 
+<a href="https://commons.wikimedia.org/wiki/File:Blaise_Pascal_Versailles%2C_circa_1690.JPG"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Blaise_Pascal_Versailles%2C_circa_1690.JPG/330px-Blaise_Pascal_Versailles%2C_circa_1690.JPG" alt="Blaise Pascal" title="Portrait of Blaise Pascal, c. 1690, Versailles"></a>
+
 **1623 – 1662** · French  
 Born: Clermont-Ferrand, France · Died: Paris  
 Eras & fields: [Scientific Revolution](../movements/scientific-revolution.md)  
 Also in: [Philosophy](../../philosophy/eras/03-early-modern/blaise-pascal.md), [Religion](../../religion/creators/pascal.md)  
 
 > Mathematician, physicist and religious thinker who built one of the first calculating machines, founded probability theory with Fermat and proved that air has weight.
+
+<sub>Portrait: Portrait of Blaise Pascal, c. 1690, Versailles · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blaise_Pascal_Versailles%2C_circa_1690.JPG)</sub>
 
 ## Biography
 
@@ -20,6 +24,10 @@ His experiments on the vacuum, including the measurement organised in 1648 on th
 
 ### Pascaline (1642–1652)
 
+[![Pascaline](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Pascaline-CnAM_823-1-IMG_1506-black.jpg/1280px-Pascaline-CnAM_823-1-IMG_1506-black.jpg)](https://commons.wikimedia.org/wiki/File:Pascaline-CnAM_823-1-IMG_1506-black.jpg)
+
+<sub>A Pascaline, Musée des Arts et Métiers, Paris Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Pascaline-CnAM_823-1-IMG_1506-black.jpg).</sub>
+
 - **Date:** 1642–1652
 - **Type:** Mechanical calculator
 - **Published / where:** Surviving examples in the Musée des Arts et Métiers, Paris, and elsewhere
@@ -28,6 +36,10 @@ His experiments on the vacuum, including the measurement organised in 1648 on th
 Pascal began designing a calculating machine in 1642, aged nineteen, to help his father, then supervising tax collection in Rouen. After some fifty prototypes he presented a finished machine in 1645 and obtained a royal privilege in 1649. It is a brass box with dials operated by a stylus; each dial turns a wheel, and an ingenious falling weight called a sautoir carries a one to the next wheel when a wheel passes nine, allowing reliable addition with carries across many digits. Subtraction was done by adding complements, and models for French currency had wheels for twenty sols and twelve deniers. About twenty machines were made, and nine survive. The Pascaline was expensive and delicate and sold poorly, but it was the first calculator to be produced in numbers and inspired Leibniz's stepped reckoner. The computer language Pascal is named in his honour.
 
 ### Traité du triangle arithmétique (1654; published 1665)
+
+[![Traité du triangle arithmétique](https://upload.wikimedia.org/wikipedia/commons/8/8c/FR-631136102_Em_0011_f_106_Triangulus_Arithmeticus_Definitiones.png)](https://commons.wikimedia.org/wiki/File:FR-631136102_Em_0011_f_106_Triangulus_Arithmeticus_Definitiones.png)
+
+<sub>Page from Pascal's treatise on the arithmetical triangle Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:FR-631136102_Em_0011_f_106_Triangulus_Arithmeticus_Definitiones.png).</sub>
 
 - **Date:** 1654; published 1665
 - **Type:** Mathematical treatise

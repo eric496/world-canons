@@ -1,11 +1,15 @@
 # Gottfried Wilhelm Leibniz
 
+<a href="https://commons.wikimedia.org/wiki/File:Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg/330px-Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg" alt="Gottfried Wilhelm Leibniz" title="Christoph Bernhard Francke, portrait of Leibniz, c. 1695"></a>
+
 **1646 – 1716** · German  
 Born: Leipzig, Saxony · Died: Hanover  
 Eras & fields: [The Newtonian age](../movements/newtonian-age.md)  
 Also in: [Philosophy](../../philosophy/eras/03-early-modern/gottfried-wilhelm-leibniz.md)  
 
 > Philosopher and mathematician who invented the calculus independently of Newton, with the notation still used today, and worked out binary arithmetic.
+
+<sub>Portrait: Christoph Bernhard Francke, portrait of Leibniz, c. 1695 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ Leibniz published his differential calculus in 1684 and his integral calculus in
 - [Explication de l'arithmétique binaire](#explication-de-larithmétique-binaire-1703) (1703)
 
 ### Nova methodus pro maximis et minimis (1684)
+
+[![Nova methodus pro maximis et minimis](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Leibniz-Acta-1684-NovaMethodus.jpg/960px-Leibniz-Acta-1684-NovaMethodus.jpg)](https://commons.wikimedia.org/wiki/File:Leibniz-Acta-1684-NovaMethodus.jpg)
+
+<sub>First page of Nova methodus in the Acta Eruditorum, 1684 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Leibniz-Acta-1684-NovaMethodus.jpg).</sub>
 
 - **Date:** 1684
 - **Type:** Mathematical paper

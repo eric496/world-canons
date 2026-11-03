@@ -1,10 +1,14 @@
 # Nicole Oresme
 
+<a href="https://commons.wikimedia.org/wiki/File:Oresme.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Oresme.jpg/330px-Oresme.jpg" alt="Nicole Oresme" title="Nicole Oresme in a medieval manuscript miniature"></a>
+
 **c. 1320 – 1382** · French  
 Born: Normandy (probably near Caen) · Died: Lisieux  
 Eras & fields: [Medieval Latin scholarship](../movements/medieval-latin-science.md)  
 
 > Paris scholar and bishop who graphed changing quantities, analysed motion and argued that the daily rotation of the Earth could not be disproved. He was one of the most original thinkers of the fourteenth century.
+
+<sub>Portrait: Nicole Oresme in a medieval manuscript miniature · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oresme.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ In his treatise on the configurations of qualities he represented changing quant
 ## Key works & discoveries
 
 ### Le Livre du ciel et du monde (1377)
+
+[![Le Livre du ciel et du monde](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Oresme_Spheres.jpg/1280px-Oresme_Spheres.jpg)](https://commons.wikimedia.org/wiki/File:Oresme_Spheres.jpg)
+
+<sub>Miniature of the celestial spheres from a manuscript of Oresme Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Oresme_Spheres.jpg).</sub>
 
 - **Date:** 1377
 - **Type:** Translation and commentary

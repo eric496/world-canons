@@ -20,6 +20,10 @@ Turing's 1936 paper described a simple abstract machine that can perform any com
 
 ### On Computable Numbers, with an Application to the Entscheidungsproblem (1936)
 
+[![On Computable Numbers, with an Application to the Entscheidungsproblem](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Turing_Machine_Model_Davey_2012.jpg/1280px-Turing_Machine_Model_Davey_2012.jpg)](https://commons.wikimedia.org/wiki/File:Turing_Machine_Model_Davey_2012.jpg)
+
+<sub>A working model of a Turing machine (2012) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Turing_Machine_Model_Davey_2012.jpg).</sub>
+
 - **Date:** 1936
 - **Type:** Mathematical paper
 - **Published / where:** Proceedings of the London Mathematical Society
@@ -28,6 +32,10 @@ Turing's 1936 paper described a simple abstract machine that can perform any com
 Hilbert had asked whether there is a definite mechanical procedure that can decide, for any statement of mathematical logic, whether it is provable, the Entscheidungsproblem or decision problem. To answer, Turing, aged twenty-three, analysed what a human computer does when calculating with pencil and paper, and reduced it to a simple abstract machine that reads and writes symbols on an endless tape, one square at a time, following a finite table of rules. He showed that there is a universal machine that, given the description of any other machine on its tape, can imitate it, the essential idea of the stored-program computer. He then proved that no machine can decide, for every machine, whether it will ever print a certain symbol, a result related to what is now called the halting problem, and concluded that the decision problem has no solution. Alonzo Church had reached the same conclusion by a different method shortly before. The Turing machine became the standard definition of computation and the foundation of computer science.
 
 ### The Bombe (1940)
+
+[![The Bombe](https://upload.wikimedia.org/wikipedia/commons/7/7a/Wartime_picture_of_a_Bletchley_Park_Bombe.jpg)](https://commons.wikimedia.org/wiki/File:Wartime_picture_of_a_Bletchley_Park_Bombe.jpg)
+
+<sub>A Bombe at Bletchley Park during the war Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Wartime_picture_of_a_Bletchley_Park_Bombe.jpg).</sub>
 
 - **Date:** 1940
 - **Type:** Electromechanical codebreaking machine

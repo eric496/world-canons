@@ -1,10 +1,14 @@
 # Roger Bacon
 
+<a href="https://commons.wikimedia.org/wiki/File:Roger-bacon-statue.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Roger-bacon-statue.jpg" alt="Roger Bacon" title="Statue of Roger Bacon, Oxford University Museum of Natural History"></a>
+
 **c. 1219 – c. 1292** · English  
 Born: Ilchester, Somerset (probably) · Died: Oxford  
 Eras & fields: [Medieval Latin scholarship](../movements/medieval-latin-science.md)  
 
 > Franciscan friar and Oxford scholar who argued that mathematics and experience were the keys to knowledge of nature, and wrote influential work on optics.
+
+<sub>Portrait: Statue of Roger Bacon, Oxford University Museum of Natural History · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Roger-bacon-statue.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Bacon drew heavily on Arabic sources, above all Ibn al-Haytham's optics, and arg
 ## Key works & discoveries
 
 ### Opus Majus (1267)
+
+[![Opus Majus](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bacon_-_Opus_maius%2C_1750_-_4325246.tif/lossy-page1-960px-Bacon_-_Opus_maius%2C_1750_-_4325246.tif.jpg)](https://commons.wikimedia.org/wiki/File:Bacon_-_Opus_maius%2C_1750_-_4325246.tif)
+
+<sub>Title page of a 1750 edition of the Opus Majus Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Bacon_-_Opus_maius%2C_1750_-_4325246.tif).</sub>
 
 - **Date:** 1267
 - **Type:** Encyclopedic treatise

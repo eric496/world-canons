@@ -1,10 +1,14 @@
 # Galen of Pergamon
 
+<a href="https://commons.wikimedia.org/wiki/File:Galenus.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Galenus.jpg" alt="Galen of Pergamon" title="Imagined portrait of Galen"></a>
+
 **AD 129 – c. 216** · Greek  
 Born: Pergamon, Asia Minor · Died: Rome (probably)  
 Eras & fields: [Roman & late-antique science](../movements/roman-science.md)  
 
 > Physician to Roman emperors whose voluminous writings on anatomy, physiology and therapy were the foundation of medicine in Europe and the Islamic world until the seventeenth century.
+
+<sub>Portrait: Imagined portrait of Galen · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Galenus.jpg)</sub>
 
 ## Biography
 

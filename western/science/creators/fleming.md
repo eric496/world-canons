@@ -28,6 +28,10 @@ In 1921, while suffering from a cold, Fleming added a drop of his own nasal mucu
 
 ### History of penicillin: Fleming's discovery (1928; published 1929)
 
+[![History of penicillin: Fleming's discovery](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Glass_phial_of_British_Standard_penicillin%2C_London%2C_England%2C_Wellcome_L0059573.jpg/1280px-Glass_phial_of_British_Standard_penicillin%2C_London%2C_England%2C_Wellcome_L0059573.jpg)](https://commons.wikimedia.org/wiki/File:Glass_phial_of_British_Standard_penicillin%2C_London%2C_England%2C_Wellcome_L0059573.jpg)
+
+<sub>Glass phial of British standard penicillin, Wellcome Collection Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Glass_phial_of_British_Standard_penicillin%2C_London%2C_England%2C_Wellcome_L0059573.jpg).</sub>
+
 - **Date:** 1928; published 1929
 - **Type:** Discovery of an antibiotic
 - **Published / where:** St Mary's Hospital, London; published in the British Journal of Experimental Pathology, 1929

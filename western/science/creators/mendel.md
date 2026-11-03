@@ -16,6 +16,10 @@ Over eight years Mendel crossed and counted thousands of pea plants with contras
 
 ### Experiments on Plant Hybridization (1866)
 
+[![Experiments on Plant Hybridization](https://upload.wikimedia.org/wikipedia/commons/c/c3/Mendel_paper.jpg)](https://commons.wikimedia.org/wiki/File:Mendel_paper.jpg)
+
+<sub>First page of Mendel's paper Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Mendel_paper.jpg).</sub>
+
 - **Date:** 1866
 - **Type:** Scientific paper
 - **Published / where:** Verhandlungen des naturforschenden Vereines in Brünn

@@ -1,10 +1,14 @@
 # Carl Linnaeus
 
+<a href="https://commons.wikimedia.org/wiki/File:Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723_%28cropped%29.tif"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723_%28cropped%29.tif/lossy-page1-1280px-Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723_%28cropped%29.tif.jpg" alt="Carl Linnaeus" title="Alexander Roslin, Carl Linnaeus, 1775, Nationalmuseum, Stockholm"></a>
+
 **1707 – 1778** · Swedish  
 Born: Råshult, Småland, Sweden · Died: Uppsala, Sweden  
 Eras & fields: [Enlightenment chemistry & natural history](../movements/enlightenment-science.md)  
 
 > Swedish botanist and physician who created the modern system of naming and classifying living things, giving every species a two-part Latin name.
+
+<sub>Portrait: Alexander Roslin, Carl Linnaeus, 1775, Nationalmuseum, Stockholm · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723_%28cropped%29.tif)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ Linnaeus classified plants by the number and arrangement of their sexual organs,
 
 ### Systema Naturae (1735)
 
+[![Systema Naturae](https://upload.wikimedia.org/wikipedia/commons/a/ae/Linnaeus1758-title-page.jpg)](https://commons.wikimedia.org/wiki/File:Linnaeus1758-title-page.jpg)
+
+<sub>Title page of the tenth edition, 1758 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Linnaeus1758-title-page.jpg).</sub>
+
 - **Date:** 1735
 - **Type:** Taxonomic treatise
 - **Published / where:** Leiden: Theodor Haak
@@ -27,6 +35,10 @@ Linnaeus classified plants by the number and arrangement of their sexual organs,
 The first edition of Systema Naturae, printed in Leiden when Linnaeus was a 28-year-old medical student, was just eleven large pages of tables classifying the three kingdoms of nature, animal, vegetable and mineral, into classes, orders, genera and species. Plants were sorted by their sexual system, the number and arrangement of their stamens and pistils, which made identification easy but caused offence to some readers for its frankness. Linnaeus revised and expanded it through twelve editions in his lifetime. The tenth edition of 1758–59, which consistently used two-word names for animals, is the official starting point of zoological nomenclature, as his Species Plantarum of 1753 is for plants. In it he placed humans with apes and monkeys in the order Primates under the name Homo sapiens. The hierarchy of ranks and the binomial system survive in modern biology, though the classification itself is now based on evolutionary relationships.
 
 ### Species Plantarum (1753)
+
+[![Species Plantarum](https://upload.wikimedia.org/wikipedia/commons/c/c4/Species_plantarum_001.jpg)](https://commons.wikimedia.org/wiki/File:Species_plantarum_001.jpg)
+
+<sub>Title page, 1753 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Species_plantarum_001.jpg).</sub>
 
 - **Date:** 1753
 - **Type:** Botanical catalogue

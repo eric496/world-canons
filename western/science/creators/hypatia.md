@@ -1,10 +1,14 @@
 # Hypatia of Alexandria
 
+<a href="https://commons.wikimedia.org/wiki/File:Hypatia_%28Charles_William_Mitchell%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hypatia_%28Charles_William_Mitchell%29.jpg/330px-Hypatia_%28Charles_William_Mitchell%29.jpg" alt="Hypatia of Alexandria" title="Charles William Mitchell, Hypatia, 1885, Laing Art Gallery, Newcastle"></a>
+
 **c. 355–370 – 415** · Greek  
 Born: Alexandria · Died: Alexandria  
 Eras & fields: [Roman & late-antique science](../movements/roman-science.md)  
 
 > Mathematician, astronomer and Neoplatonist philosopher who taught in Alexandria and was murdered by a Christian mob. She is the first woman mathematician whose life is reasonably well documented.
+
+<sub>Portrait: Charles William Mitchell, Hypatia, 1885, Laing Art Gallery, Newcastle · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hypatia_%28Charles_William_Mitchell%29.jpg)</sub>
 
 ## Biography
 

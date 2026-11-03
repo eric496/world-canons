@@ -16,6 +16,10 @@ At a time when most doctors believed cholera was spread by bad air, or miasma, S
 
 ### On the Mode of Communication of Cholera and the Broad Street map (1849; 2nd ed. 1855)
 
+[![On the Mode of Communication of Cholera and the Broad Street map](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Snow-cholera-map-1.jpg/1280px-Snow-cholera-map-1.jpg)](https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg)
+
+<sub>Snow's map of cholera deaths around the Broad Street pump, 1854 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg).</sub>
+
 - **Date:** 1849; 2nd ed. 1855
 - **Type:** Epidemiological study and map
 - **Published / where:** London: John Churchill

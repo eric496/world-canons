@@ -1,10 +1,14 @@
 # Leonhard Euler
 
+<a href="https://commons.wikimedia.org/wiki/File:Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg/330px-Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg" alt="Leonhard Euler" title="Jakob Emanuel Handmann, Leonhard Euler, 1753, Kunstmuseum Basel"></a>
+
 **1707 – 1783** · Swiss  
 Born: Basel, Switzerland · Died: Saint Petersburg, Russia  
 Eras & fields: [The Newtonian age](../movements/newtonian-age.md)  
 
 > The most prolific mathematician in history, whose work shaped analysis, number theory, mechanics and much of modern notation.
+
+<sub>Portrait: Jakob Emanuel Handmann, Leonhard Euler, 1753, Kunstmuseum Basel · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ Euler wrote some 850 papers and books on almost every branch of pure and applied
 
 ### Solution of the Seven Bridges of Königsberg (1736)
 
+[![Solution of the Seven Bridges of Königsberg](https://upload.wikimedia.org/wikipedia/commons/e/e5/Bridges_of_Konigsberg.png)](https://commons.wikimedia.org/wiki/File:Bridges_of_Konigsberg.png)
+
+<sub>The seven bridges of Königsberg Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Bridges_of_Konigsberg.png).</sub>
+
 - **Date:** 1736
 - **Type:** Mathematical paper
 - **Published / where:** Commentarii Academiae Scientiarum Petropolitanae, Saint Petersburg (published 1741)
@@ -27,6 +35,10 @@ Euler wrote some 850 papers and books on almost every branch of pure and applied
 The city of Königsberg in Prussia, now Kaliningrad, was built on both banks of the river Pregel and on two islands, joined by seven bridges, and its citizens wondered whether it was possible to walk through the city crossing each bridge exactly once. In a paper presented to the Saint Petersburg Academy in 1736, Euler showed that the answer depends only on how the land areas are connected, not on distances or shapes. Representing each area and its bridges, he showed that such a walk is possible only if no more than two areas have an odd number of bridges, and in Königsberg all four did. The reasoning, though Euler did not draw the diagram of points and lines now used, is regarded as the first theorem of graph theory and an early step towards topology, the study of properties unchanged by stretching. Two of the bridges were destroyed in the Second World War.
 
 ### Introductio in analysin infinitorum (1748)
+
+[![Introductio in analysin infinitorum](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Introductio_in_analysin_infinitorum._T._1_-_Leonhard_Euler%2C_1748_%28title_page%29.jpg/1280px-Introductio_in_analysin_infinitorum._T._1_-_Leonhard_Euler%2C_1748_%28title_page%29.jpg)](https://commons.wikimedia.org/wiki/File:Introductio_in_analysin_infinitorum._T._1_-_Leonhard_Euler%2C_1748_%28title_page%29.jpg)
+
+<sub>Title page of volume 1, 1748 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Introductio_in_analysin_infinitorum._T._1_-_Leonhard_Euler%2C_1748_%28title_page%29.jpg).</sub>
 
 - **Date:** 1748
 - **Type:** Mathematical textbook

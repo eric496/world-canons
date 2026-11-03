@@ -1,11 +1,15 @@
 # Aristotle
 
+<a href="https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/330px-Aristotle_Altemps_Inv8575.jpg" alt="Aristotle" title="Roman copy of a Greek bust of Aristotle, Palazzo Altemps, Rome"></a>
+
 **384 BC – 322 BC** · Greek  
 Born: Stagira, Chalcidice · Died: Chalcis, Euboea  
 Eras & fields: [Greek natural philosophy & medicine](../movements/greek-natural-philosophy.md)  
 Also in: [Philosophy](../../philosophy/eras/01-ancient/aristotle.md)  
 
 > Philosopher and naturalist whose physics, cosmology and biology dominated European and Islamic science until the seventeenth century. He was the first great field biologist.
+
+<sub>Portrait: Roman copy of a Greek bust of Aristotle, Palazzo Altemps, Rome · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg)</sub>
 
 ## Biography
 
@@ -20,6 +24,10 @@ In natural science Aristotle described a universe of nested celestial spheres ar
 
 ### Physics (c. 350 BC)
 
+[![Physics](https://upload.wikimedia.org/wikipedia/commons/4/4e/Aristotle_Physica_page_1.png)](https://commons.wikimedia.org/wiki/File:Aristotle_Physica_page_1.png)
+
+<sub>Opening page of the Physics in a printed Greek edition Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Aristotle_Physica_page_1.png).</sub>
+
 - **Date:** c. 350 BC
 - **Type:** Treatise on natural philosophy
 - **Published / where:** Greek manuscripts; Latin translations from the 12th century
@@ -28,6 +36,10 @@ In natural science Aristotle described a universe of nested celestial spheres ar
 Aristotle's Physics, from physis, nature, is a set of eight books of lectures on the principles of everything that changes. It defines nature as an inner source of motion and rest, distinguishes the four causes, material, formal, efficient and final, and analyses change, the infinite, place, void and time. Aristotle argues that a void is impossible, that a moving body needs a mover in contact with it, and, in the final books, that the eternal motion of the heavens requires an unmoved first mover. Together with On the Heavens, which described the four elements seeking their natural places at the centre of a spherical cosmos, it framed physics in the Islamic world and medieval Europe, where scholars wrote long commentaries on it and criticised its theory of projectiles. The new mechanics of Galileo and Newton was built largely in opposition to it.
 
 ### History of Animals (c. 343–330 BC)
+
+[![History of Animals](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Costantinopoli%2C_aristotele%2C_historia_animalium_e_altri_scritti%2C_xii_sec.%2C_pluteo_87%2C4.JPG/1280px-Costantinopoli%2C_aristotele%2C_historia_animalium_e_altri_scritti%2C_xii_sec.%2C_pluteo_87%2C4.JPG)](https://commons.wikimedia.org/wiki/File:Costantinopoli%2C_aristotele%2C_historia_animalium_e_altri_scritti%2C_xii_sec.%2C_pluteo_87%2C4.JPG)
+
+<sub>Twelfth-century Byzantine manuscript of the History of Animals, Biblioteca Medicea Laurenziana, Florence Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Costantinopoli%2C_aristotele%2C_historia_animalium_e_altri_scritti%2C_xii_sec.%2C_pluteo_87%2C4.JPG).</sub>
 
 - **Date:** c. 343–330 BC
 - **Type:** Zoological treatise

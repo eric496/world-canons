@@ -1,10 +1,14 @@
 # Santiago Ramón y Cajal
 
+<a href="https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla._Santiago_Ram%C3%B3n_y_Cajal_1906.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Joaqu%C3%ADn_Sorolla._Santiago_Ram%C3%B3n_y_Cajal_1906.jpg/330px-Joaqu%C3%ADn_Sorolla._Santiago_Ram%C3%B3n_y_Cajal_1906.jpg" alt="Santiago Ramón y Cajal" title="Joaquín Sorolla, Santiago Ramón y Cajal, 1906"></a>
+
 **1852 – 1934** · Spanish  
 Born: Petilla de Aragón, Navarre, Spain · Died: Madrid  
 Eras & fields: [Public health, germ theory & modern medicine](../movements/germ-theory.md)  
 
 > Spanish histologist who showed that the nervous system is made of separate cells, neurons, and drew them with unmatched skill. He is regarded as the founder of modern neuroscience.
+
+<sub>Portrait: Joaquín Sorolla, Santiago Ramón y Cajal, 1906 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla._Santiago_Ram%C3%B3n_y_Cajal_1906.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Using and improving Golgi's silver staining method, Cajal studied the brain, spi
 ## Key works & discoveries
 
 ### Drawings of neurons and the neuron doctrine (1888–1904)
+
+[![Drawings of neurons and the neuron doctrine](https://upload.wikimedia.org/wikipedia/commons/6/6f/CajalCerebellum.jpg)](https://commons.wikimedia.org/wiki/File:CajalCerebellum.jpg)
+
+<sub>Cajal's drawing of neurons in the cerebellum Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:CajalCerebellum.jpg).</sub>
 
 - **Date:** 1888–1904
 - **Type:** Histological drawings and treatises

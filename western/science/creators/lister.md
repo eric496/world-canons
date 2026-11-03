@@ -16,6 +16,10 @@ At Glasgow Royal Infirmary Lister saw that many patients died of infection after
 
 ### On the Antiseptic Principle in the Practice of Surgery (1867)
 
+[![On the Antiseptic Principle in the Practice of Surgery](https://upload.wikimedia.org/wikipedia/commons/2/22/Lister%2C_On_the_antiseptic_principle...Lancet_Wellcome_L0000598.jpg)](https://commons.wikimedia.org/wiki/File:Lister%2C_On_the_antiseptic_principle...Lancet_Wellcome_L0000598.jpg)
+
+<sub>Lister's article in The Lancet, 1867 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Lister%2C_On_the_antiseptic_principle...Lancet_Wellcome_L0000598.jpg).</sub>
+
 - **Date:** 1867
 - **Type:** Medical papers
 - **Published / where:** The Lancet, London

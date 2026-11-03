@@ -1,10 +1,14 @@
 # Johannes Kepler
 
+<a href="https://commons.wikimedia.org/wiki/File:JKepler.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/7/74/JKepler.jpg" alt="Johannes Kepler" title="Portrait of Johannes Kepler, 1610"></a>
+
 **1571 – 1630** · German  
 Born: Weil der Stadt, Württemberg · Died: Regensburg, Bavaria  
 Eras & fields: [Scientific Revolution](../movements/scientific-revolution.md)  
 
 > Astronomer who discovered that the planets move in ellipses, with speeds and periods governed by exact laws. He also founded modern optics and explained how the eye and the telescope work.
+
+<sub>Portrait: Portrait of Johannes Kepler, 1610 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JKepler.jpg)</sub>
 
 ## Biography
 
@@ -20,6 +24,10 @@ Kepler was a convinced Copernican who sought the geometrical harmonies by which 
 
 ### Mysterium Cosmographicum (1596)
 
+[![Mysterium Cosmographicum](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mysterium_Cosmographicum_front_page.jpg/960px-Mysterium_Cosmographicum_front_page.jpg)](https://commons.wikimedia.org/wiki/File:Mysterium_Cosmographicum_front_page.jpg)
+
+<sub>Title page, 1596 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Mysterium_Cosmographicum_front_page.jpg).</sub>
+
 - **Date:** 1596
 - **Type:** Astronomical treatise
 - **Published / where:** Tübingen: Georg Gruppenbach
@@ -29,6 +37,10 @@ The Cosmographic Mystery was Kepler's first book and the first openly Copernican
 
 ### Astronomia nova (1609)
 
+[![Astronomia nova](https://upload.wikimedia.org/wikipedia/commons/6/62/Astronomia_Nova.jpg)](https://commons.wikimedia.org/wiki/File:Astronomia_Nova.jpg)
+
+<sub>Title page, 1609 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Astronomia_Nova.jpg).</sub>
+
 - **Date:** 1609
 - **Type:** Astronomical treatise
 - **Published / where:** Heidelberg: Gotthard Vögelin (printed in Prague)
@@ -37,6 +49,10 @@ The Cosmographic Mystery was Kepler's first book and the first openly Copernican
 Astronomia nova grew out of Kepler's 'war with Mars', years of calculation using Tycho Brahe's observations of the planet whose orbit was hardest to fit. Kepler recounts his struggle step by step, including false starts: a model that fitted Tycho's positions to within eight minutes of arc was rejected because Tycho's data were better than that. He found that the planet's speed varies so that a line from the Sun sweeps out equal areas in equal times, and finally that the orbit is an ellipse with the Sun at one focus, the first two of Kepler's laws. The subtitle presents it as a celestial physics based on causes, with the Sun moving the planets by a magnetic-like force. The book broke with two thousand years of uniform circular motion and was the basis of the Rudolphine Tables of 1627, which proved far more accurate than earlier tables.
 
 ### Harmonices Mundi (1619)
+
+[![Harmonices Mundi](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Harmonices_Mundi_0001-lg.jpg/960px-Harmonices_Mundi_0001-lg.jpg)](https://commons.wikimedia.org/wiki/File:Harmonices_Mundi_0001-lg.jpg)
+
+<sub>Title page, 1619 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Harmonices_Mundi_0001-lg.jpg).</sub>
 
 - **Date:** 1619
 - **Type:** Treatise on cosmic harmony

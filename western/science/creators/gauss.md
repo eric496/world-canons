@@ -1,10 +1,14 @@
 # Carl Friedrich Gauss
 
+<a href="https://commons.wikimedia.org/wiki/File:Carl_Friedrich_Gauss_1840_by_Jensen.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg/330px-Carl_Friedrich_Gauss_1840_by_Jensen.jpg" alt="Carl Friedrich Gauss" title="Christian Albrecht Jensen, Carl Friedrich Gauss, 1840"></a>
+
 **1777 – 1855** · German  
 Born: Brunswick, Duchy of Brunswick-Wolfenbüttel · Died: Göttingen, Kingdom of Hanover  
 Eras & fields: [Mathematics in the age of rigour](../movements/nineteenth-century-mathematics.md)  
 
 > Mathematician and astronomer, often called the prince of mathematicians, who transformed number theory, geometry, statistics and the theory of magnetism.
+
+<sub>Portrait: Christian Albrecht Jensen, Carl Friedrich Gauss, 1840 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carl_Friedrich_Gauss_1840_by_Jensen.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ Gauss made fundamental contributions to number theory, algebra, where he gave a 
 
 ### Disquisitiones Arithmeticae (1801)
 
+[![Disquisitiones Arithmeticae](https://upload.wikimedia.org/wikipedia/commons/e/e3/Disqvisitiones-800.jpg)](https://commons.wikimedia.org/wiki/File:Disqvisitiones-800.jpg)
+
+<sub>Title page, 1801 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Disqvisitiones-800.jpg).</sub>
+
 - **Date:** 1801
 - **Type:** Mathematical treatise
 - **Published / where:** Leipzig: Gerhard Fleischer
@@ -27,6 +35,10 @@ Gauss made fundamental contributions to number theory, algebra, where he gave a 
 The Disquisitiones Arithmeticae, Arithmetical Investigations, was written in Latin when Gauss was twenty-one and published in 1801 with funding from the Duke of Brunswick. It turned number theory, previously a collection of isolated results by Fermat, Euler, Lagrange and Legendre, into a coherent discipline. It introduced the notation of congruence, writing a ≡ b (mod m) when two numbers leave the same remainder on division by m, which made 'clock arithmetic' a powerful tool. It gave the first complete proof of the law of quadratic reciprocity, which Gauss called the golden theorem, developed the theory of quadratic forms, and in its final section explained which regular polygons can be constructed with ruler and compass, including the 17-sided polygon he had discovered at eighteen. Its compressed style made it hard reading, but it set the agenda of number theory throughout the nineteenth century.
 
 ### Theoria motus corporum coelestium (1809)
+
+[![Theoria motus corporum coelestium](https://upload.wikimedia.org/wikipedia/commons/b/b6/Gauss%2C_Carl_Friedrich_%E2%80%93_Theoria_motus_corporum_coelestium_in_sectionibus_conicis_solem_ambientium%2C_1809_%E2%80%93_BEIC_12217180.jpg)](https://commons.wikimedia.org/wiki/File:Gauss%2C_Carl_Friedrich_%E2%80%93_Theoria_motus_corporum_coelestium_in_sectionibus_conicis_solem_ambientium%2C_1809_%E2%80%93_BEIC_12217180.jpg)
+
+<sub>Title page, 1809 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Gauss%2C_Carl_Friedrich_%E2%80%93_Theoria_motus_corporum_coelestium_in_sectionibus_conicis_solem_ambientium%2C_1809_%E2%80%93_BEIC_12217180.jpg).</sub>
 
 - **Date:** 1809
 - **Type:** Astronomical treatise

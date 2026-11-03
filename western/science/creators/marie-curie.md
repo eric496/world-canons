@@ -16,6 +16,10 @@ Following Henri Becquerel's discovery of uranium rays, Curie found that the inte
 
 ### Discovery of polonium and radium (1898)
 
+[![Discovery of polonium and radium](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Pages_from_Marie_Curie%27s_notebook%2C_Wellcome_L0001764.jpg/1280px-Pages_from_Marie_Curie%27s_notebook%2C_Wellcome_L0001764.jpg)](https://commons.wikimedia.org/wiki/File:Pages_from_Marie_Curie%27s_notebook%2C_Wellcome_L0001764.jpg)
+
+<sub>Pages from Marie Curie's laboratory notebook Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Pages_from_Marie_Curie%27s_notebook%2C_Wellcome_L0001764.jpg).</sub>
+
 - **Date:** 1898
 - **Type:** Discovery of chemical elements
 - **Published / where:** École municipale de physique et chimie industrielles, Paris; announced in the Comptes rendus de l'Académie des sciences

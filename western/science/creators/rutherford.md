@@ -16,6 +16,10 @@ At McGill, with Frederick Soddy, Rutherford showed that radioactive atoms sponta
 
 ### Rutherford model of the atom (1911)
 
+[![Rutherford model of the atom](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Rutherford_gold_foil_experiment_results.svg/1280px-Rutherford_gold_foil_experiment_results.svg.png)](https://commons.wikimedia.org/wiki/File:Rutherford_gold_foil_experiment_results.svg)
+
+<sub>Diagram of the gold-foil experiment: expected and observed scattering Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Rutherford_gold_foil_experiment_results.svg).</sub>
+
 - **Date:** 1911
 - **Type:** Theory and experiment
 - **Published / where:** University of Manchester; published in the Philosophical Magazine

@@ -16,6 +16,10 @@ Hooke's ideas ranged across microscopy, elasticity, where Hooke's law describes 
 
 ### Micrographia (1665)
 
+[![Micrographia](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flea_Micrographia_Hooke.png/1280px-Flea_Micrographia_Hooke.png)](https://commons.wikimedia.org/wiki/File:Flea_Micrographia_Hooke.png)
+
+<sub>Hooke's engraving of a flea Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Flea_Micrographia_Hooke.png).</sub>
+
 - **Date:** 1665
 - **Type:** Illustrated book of observations
 - **Published / where:** London: John Martyn and James Allestry, printers to the Royal Society

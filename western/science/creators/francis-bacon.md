@@ -1,11 +1,15 @@
 # Francis Bacon
 
+<a href="https://commons.wikimedia.org/wiki/File:Somer_Francis_Bacon.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Somer_Francis_Bacon.jpg/330px-Somer_Francis_Bacon.jpg" alt="Francis Bacon" title="Paul van Somer, portrait of Francis Bacon"></a>
+
 **1561 – 1626** · English  
 Born: London · Died: Highgate, London  
 Eras & fields: [Scientific Revolution](../movements/scientific-revolution.md)  
 Also in: [Philosophy](../../philosophy/eras/03-early-modern/francis-bacon.md)  
 
 > Statesman and philosopher who called for a new science based on systematic observation, experiment and induction, carried out collectively for the benefit of humanity.
+
+<sub>Portrait: Paul van Somer, portrait of Francis Bacon · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Somer_Francis_Bacon.jpg)</sub>
 
 ## Biography
 
@@ -16,6 +20,10 @@ In the Novum Organum and other works Bacon attacked reliance on ancient authorit
 ## Key works & discoveries
 
 ### Novum Organum (1620)
+
+[![Novum Organum](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg/960px-Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg)](https://commons.wikimedia.org/wiki/File:Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg)
+
+<sub>Frontispiece of the 1620 edition, Houghton Library Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Houghton_EC.B1328.620ib_-_Novum_organum_scientiarum.jpg).</sub>
 
 - **Date:** 1620
 - **Type:** Treatise on scientific method

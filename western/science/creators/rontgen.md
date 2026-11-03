@@ -16,6 +16,10 @@ In November 1895, experimenting with cathode-ray tubes, Röntgen noticed that a 
 
 ### Discovery of X-rays (Hand mit Ringen) (1895)
 
+[![Discovery of X-rays (Hand mit Ringen)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg/1280px-First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg)](https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg)
+
+<sub>Röntgen's X-ray image of his wife's hand, 22 December 1895 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg).</sub>
+
 - **Date:** 1895
 - **Type:** Discovery and first radiograph
 - **Published / where:** University of Würzburg; published in the Sitzungsberichte der Physikalisch-Medizinischen Gesellschaft zu Würzburg

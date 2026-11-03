@@ -15,7 +15,9 @@
   "bio_full": [
    "Almost nothing certain is known about Hippocrates' life. Ancient sources, including Plato, describe him as a famous physician and teacher of medicine from the island of Kos, born into a family of healers who claimed descent from the god Asclepius. Later biographies, written centuries after his death, have him travel widely in Greece and die in Thessaly, but most of these stories are legend.",
    "His name is attached to the Hippocratic Corpus, some sixty treatises written by many authors between about 430 and 330 BC and beyond; which, if any, are by Hippocrates himself is unknown. The ideal they share, of medicine as a craft built on observation, prognosis and natural explanation rather than divine punishment, made him the emblem of the rational physician. The Hippocratic Oath, still echoed in medical ceremonies, carries that ideal into the present."
-  ]
+  ],
+  "portrait_file": "Hippocrates.jpg",
+  "portrait_caption": "Traditional imagined portrait of Hippocrates"
  },
  {
   "id": "aristotle",
@@ -33,7 +35,9 @@
   "bio_full": [
    "Aristotle was the son of a court physician in Macedon. He studied for twenty years in Plato's Academy in Athens, then spent several years on the island of Lesbos and around the Aegean, where he and his student Theophrastus carried out much of their biological research. He tutored the young Alexander the Great, and in 335 BC founded his own school in Athens, the Lyceum, which gathered collections and research on an unprecedented scale.",
    "In natural science Aristotle described a universe of nested celestial spheres around a central Earth, explained motion by the natural places of four elements, and sought the purposes, or final causes, of things. Many of these ideas were later overturned, but his biological works, based on dissection and careful observation of hundreds of animals, were unmatched for two thousand years. Translated into Arabic and then Latin, his system framed the questions that the Scientific Revolution set out to answer differently."
-  ]
+  ],
+  "portrait_file": "Aristotle Altemps Inv8575.jpg",
+  "portrait_caption": "Roman copy of a Greek bust of Aristotle, Palazzo Altemps, Rome"
  },
  {
   "id": "euclid",
@@ -51,7 +55,9 @@
   "bio_full": [
    "Euclid's life is almost a blank. Later writers say that he taught in Alexandria in the time of the first Ptolemy, around 300 BC, and he probably learned his mathematics from students of Plato's Academy. Stories about him, such as his reply that there is no royal road to geometry, come from much later and may not be true.",
    "Besides the Elements, works on optics, astronomy, music and conic sections are attributed to him, some surviving and some lost. His achievement was less to discover new results than to organise the mathematics of his predecessors into a single deductive system, starting from definitions, postulates and common notions. That model of rigorous proof shaped mathematics, philosophy and even political writing, from Islamic scholars to Newton, Spinoza and the authors of the American Declaration of Independence."
-  ]
+  ],
+  "portrait_file": "Italian - Euclid - Google Art Project.jpg",
+  "portrait_caption": "Imagined portrait of Euclid, 15th-century Italian painting"
  },
  {
   "id": "archimedes",
@@ -69,7 +75,9 @@
   "bio_full": [
    "Archimedes was the son of an astronomer and spent most of his life in Syracuse, probably with a period of study in Alexandria, where he kept up a correspondence with mathematicians such as Eratosthenes. He served King Hiero II, and according to ancient accounts designed war machines that held off the Roman siege of the city for two years. He was killed when Syracuse fell in 212 BC, by tradition while absorbed in a geometrical diagram.",
    "His surviving treatises calculate the area of the circle and parabola, the volume and surface of the sphere, and estimate pi, using an exhaustion method that anticipates calculus. He gave rigorous laws for the lever and for floating bodies, and the screw pump still bears his name. Many anecdotes, such as the cry of 'Eureka!' in the bath, are later legends. Rediscovered in Latin and Arabic translations, his works inspired Galileo, and the twentieth-century study of the Archimedes Palimpsest revealed texts thought lost."
-  ]
+  ],
+  "portrait_file": "Domenico-Fetti Archimedes 1620.jpg",
+  "portrait_caption": "Domenico Fetti, Archimedes, 1620"
  },
  {
   "id": "eratosthenes",
@@ -141,7 +149,9 @@
   "bio_full": [
    "Ptolemy lived and worked in Alexandria under Roman rule, and his recorded observations run from AD 127 to 141. His name combines a Roman citizen's Claudius with the Greek-Egyptian Ptolemaeus; beyond that and his writings, nothing is known about his life.",
    "His Almagest was a complete mathematical astronomy that explained the motions of the Sun, Moon and planets with circles, epicycles and the device called the equant, accurate enough to predict their positions for centuries. He also wrote the Geography, a guide to mapping the known world with coordinates, the astrological Tetrabiblos, and works on optics and harmonics. Through Arabic and Latin translations he dominated astronomy until Copernicus and Kepler."
-  ]
+  ],
+  "portrait_file": "Ptolemy 1476 with armillary sphere model.jpg",
+  "portrait_caption": "Justus van Gent and Pedro Berruguete, imagined portrait of Ptolemy with an armillary sphere, c. 1476"
  },
  {
   "id": "galen",
@@ -159,7 +169,9 @@
   "bio_full": [
    "Galen was the son of a wealthy architect in Pergamon, a city with a famous healing sanctuary. He studied medicine there, in Smyrna and in Alexandria, then served as physician to the gladiators of Pergamon, where he learned much about wounds. From about AD 162 he lived in Rome, winning fame through public anatomical demonstrations, and became physician to Marcus Aurelius and his successors.",
    "Galen wrote more than any other ancient author whose works survive. He combined Hippocratic medicine and the theory of the four humours with Aristotle's philosophy and his own extensive dissections, mostly of animals such as Barbary apes and pigs, and he showed by experiment that the arteries carry blood and that the nerves control the voice. Because human dissection was then forbidden, some of his anatomy was wrong, but his authority was so great that Vesalius and Harvey had to overturn him from his own methods."
-  ]
+  ],
+  "portrait_file": "Galenus.jpg",
+  "portrait_caption": "Imagined portrait of Galen"
  },
  {
   "id": "hypatia",
@@ -177,7 +189,9 @@
   "bio_full": [
    "Hypatia was the daughter of the mathematician Theon of Alexandria, who prepared editions of Euclid and Ptolemy. She became a celebrated teacher of philosophy and mathematics in her own right, with pupils from across the eastern Mediterranean, and was an influential figure in the city's public life. In 415, amid a bitter political conflict between the city's prefect and its bishop Cyril, she was attacked and killed by a Christian mob.",
    "None of her writings survives under her name. Ancient sources credit her with commentaries on the Arithmetica of Diophantus and the Conics of Apollonius and with an astronomical table, and scholars think she worked with her father on his edition of Ptolemy. Her life and violent death were later turned into a symbol of the end of classical learning, a picture that historians now regard as simplified."
-  ]
+  ],
+  "portrait_file": "Hypatia (Charles William Mitchell).jpg",
+  "portrait_caption": "Charles William Mitchell, Hypatia, 1885, Laing Art Gallery, Newcastle"
  },
  {
   "id": "al-khwarizmi",
@@ -249,7 +263,9 @@
   "bio_full": [
    "Leonardo was the son of a Pisan merchant and customs official stationed at Bugia (Béjaïa) in North Africa, where as a boy he learned to calculate with the Indian numerals used by Arab merchants. He travelled around the Mediterranean, to Egypt, Syria, Byzantium and Sicily, studying the methods of the mathematicians he met. Back in Pisa he wrote a series of books and was honoured by the city with a salary; he also met and corresponded with the scholars at the court of Emperor Frederick II. The nickname Fibonacci, 'son of Bonacci', was popularised in the nineteenth century.",
    "His Liber Abaci of 1202 taught the new numerals, place value and zero through hundreds of practical problems, and helped them displace Roman numerals and the counting board in Italian business. His other works, on geometry and on number theory, contain original results. A problem about breeding rabbits gave the sequence named after him, which turns up throughout mathematics and nature."
-  ]
+  ],
+  "portrait_file": "Leonardo Fibonacci.JPG",
+  "portrait_caption": "Nineteenth-century statue of Fibonacci, Pisa"
  },
  {
   "id": "roger-bacon",
@@ -267,7 +283,9 @@
   "bio_full": [
    "Bacon studied and taught at Oxford and Paris, lecturing on Aristotle, and became a Franciscan friar around 1257. At the request of Pope Clement IV he composed, in great haste, a series of works setting out a reform of learning, of which the Opus Majus of 1267 is the largest. Later in life he seems to have fallen foul of his order, and a story that he was imprisoned for his teaching is uncertain.",
    "Bacon drew heavily on Arabic sources, above all Ibn al-Haytham's optics, and argued that a 'science of experience' should confirm the conclusions of reasoning. His writings describe lenses, the rainbow and an early recipe for gunpowder. Later legend made him a wizard who built a brazen talking head; in the nineteenth century he was hailed as a lone prophet of experimental science, a view historians now see as exaggerated, but he was among the most forceful medieval advocates of mathematical natural science."
-  ]
+  ],
+  "portrait_file": "Roger-bacon-statue.jpg",
+  "portrait_caption": "Statue of Roger Bacon, Oxford University Museum of Natural History"
  },
  {
   "id": "oresme",
@@ -285,7 +303,9 @@
   "bio_full": [
    "Oresme studied at the University of Paris and became master of the College of Navarre. He was an adviser to King Charles V of France, for whom he translated Aristotle's works on ethics, politics and the heavens into French, coining many French scientific words in the process, and he wrote an important treatise on money. He ended his life as bishop of Lisieux.",
    "In his treatise on the configurations of qualities he represented changing quantities by geometrical figures, a forerunner of the graph, and gave a geometric proof of the mean-speed rule for uniformly accelerated motion later used by Galileo. In his commentary on Aristotle's On the Heavens he argued that no observation or argument could prove that the Earth does not rotate daily, though he concluded, as faith required, that it stands still. He also attacked astrology and proved that the harmonic series diverges."
-  ]
+  ],
+  "portrait_file": "Oresme.jpg",
+  "portrait_caption": "Nicole Oresme in a medieval manuscript miniature"
  },
  {
   "id": "leonardo",
@@ -302,7 +322,9 @@
   "bio_full": [
    "Leonardo was the illegitimate son of a Florentine notary, trained in Verrocchio's workshop and worked for Lorenzo de' Medici, Ludovico Sforza in Milan, Cesare Borgia, the papal court and finally Francis I of France. Throughout his career he filled thousands of notebook pages with drawings and mirror-written notes, studying everything from the flight of birds and the flow of water to fossils, optics and machines.",
    "In anatomy he dissected some thirty human bodies in Florence, Milan and Rome, producing drawings of the heart, skeleton, muscles and fetus of a quality not matched until Vesalius. He was guided by direct observation and by analogies between the body and the Earth. Because the notebooks were scattered after his death and not published, they had little influence on the science of his time; their rediscovery since the nineteenth century has made him the emblem of Renaissance curiosity."
-  ]
+  ],
+  "portrait_file": "Francesco Melzi - Portrait of Leonardo (colour correction).png",
+  "portrait_caption": "Attributed to Francesco Melzi, portrait of Leonardo, c. 1515–18"
  },
  {
   "id": "copernicus",
@@ -319,7 +341,9 @@
   "bio_full": [
    "Copernicus was born into a merchant family in Toruń and raised by his uncle, later Prince-Bishop of Warmia. He studied at Kraków and then for years in Italy, at Bologna, Padua and Ferrara, taking a doctorate in canon law and studying medicine. Back in Warmia he served as a canon of Frombork cathedral, administering estates, practising medicine and writing on currency reform, while pursuing astronomy in his spare time.",
    "Around 1510 he circulated a short sketch of a Sun-centred system, but held back his full treatise for decades. Encouraged by the young Lutheran mathematician Rheticus, he finally allowed De revolutionibus to be printed in 1543, and is said to have received a copy on his deathbed. His model still used circular orbits and was no more accurate than Ptolemy's, but it set the stage for Kepler, Galileo and Newton, and 'Copernican revolution' became a phrase for any fundamental change of view."
-  ]
+  ],
+  "portrait_file": "Nikolaus Kopernikus MOT.jpg",
+  "portrait_caption": "Portrait of Copernicus, Toruń, c. 1580"
  },
  {
   "id": "vesalius",
@@ -336,7 +360,9 @@
   "bio_full": [
    "Vesalius came from a family of imperial physicians and apothecaries in Brussels. He studied at Leuven and Paris, where he collected bones from cemeteries and gallows, and in 1537 took his medical degree at Padua and was immediately appointed to teach surgery and anatomy. Unusually, he performed dissections himself before his students rather than leaving them to a barber-surgeon. After the Fabrica he became physician to Emperor Charles V and then Philip II of Spain; he died on the island of Zakynthos returning from a pilgrimage to Jerusalem.",
    "By dissecting human bodies, Vesalius showed that many of Galen's descriptions were based on animals and did not apply to humans, and he insisted that anatomy should be learned from the body itself rather than from books. The Fabrica, with its large woodcuts from the workshop of Titian, set a new standard for scientific illustration. His approach of direct observation made Padua the leading medical school of Europe, where Harvey later studied."
-  ]
+  ],
+  "portrait_file": "Andreae Vesali (BM 1877,1013.1171).jpg",
+  "portrait_caption": "Woodcut portrait of Vesalius from the Fabrica, 1543"
  },
  {
   "id": "tycho-brahe",
@@ -353,7 +379,9 @@
   "bio_full": [
    "Tycho was born into the high Danish nobility and studied at Copenhagen, Leipzig and other German universities, losing part of his nose in a duel and wearing a metal replacement for the rest of his life. His observation of a new star in 1572 made him famous, and King Frederick II gave him the island of Hven, where he built the observatory-palace Uraniborg and the underground observatory Stjerneborg. After quarrels with Frederick's successor he left Denmark in 1597 and became imperial mathematician to Rudolf II in Prague, where he died in 1601.",
    "Tycho's large quadrants, sextants and armillary spheres, used systematically over twenty years with attention to error, measured positions to about a minute of arc. He showed that the new star of 1572 and the comet of 1577 lay beyond the Moon, undermining the idea of unchanging heavens. He proposed a compromise system in which the planets go around the Sun and the Sun around a stationary Earth. His greatest legacy was the observational record he left to his assistant Kepler."
-  ]
+  ],
+  "portrait_file": "Porträtt av Tycho Brahe - Skoklosters slott - 90153.tif",
+  "portrait_caption": "Portrait of Tycho Brahe, Skokloster Castle"
  },
  {
   "id": "kepler",
@@ -370,7 +398,9 @@
   "bio_full": [
    "Kepler grew up in modest and troubled circumstances in Württemberg and was educated for the Lutheran ministry at Tübingen, where his teacher Michael Maestlin introduced him to Copernicus. He became a mathematics teacher in Graz, joined Tycho Brahe in Prague in 1600 and succeeded him as imperial mathematician. His later life was disrupted by religious war and persecution: he had to defend his mother in a witchcraft trial, and he moved between Linz, Ulm and Sagan before dying at Regensburg in 1630.",
    "Kepler was a convinced Copernican who sought the geometrical harmonies by which he believed God had ordered the cosmos. Working for years on Tycho's observations of Mars, he abandoned circles and found that the orbit is an ellipse with the Sun at one focus, and that a planet sweeps out equal areas in equal times; later he found the relation between orbital period and distance. He also explained the inverted image on the retina, the theory of the telescope and the inverse-square fall of light. His laws became the foundation on which Newton built his theory of gravity."
-  ]
+  ],
+  "portrait_file": "JKepler.jpg",
+  "portrait_caption": "Portrait of Johannes Kepler, 1610"
  },
  {
   "id": "galileo",
@@ -387,7 +417,9 @@
   "bio_full": [
    "Galileo was the son of a Florentine musician and music theorist. He abandoned medicine for mathematics, taught at Pisa and then for eighteen years at Padua, where he studied falling bodies and pendulums. In 1609 he built improved telescopes, and the discoveries he announced in 1610 won him the post of mathematician and philosopher to the Grand Duke of Tuscany. His open support for Copernicus led to a warning from the Church in 1616, and after the publication of his Dialogue in 1632 he was tried by the Roman Inquisition, forced to recant and confined to his villa at Arcetri until his death.",
    "Galileo insisted that the book of nature is written in the language of mathematics and combined experiment, idealisation and geometrical argument. He found that falling bodies accelerate uniformly regardless of weight, that projectiles follow parabolas and that motion persists unless something stops it, the beginnings of the concept of inertia. His telescopic observations of the Moon, Jupiter's satellites, the phases of Venus and sunspots destroyed the old picture of perfect heavens. Two New Sciences, written under house arrest, founded modern mechanics."
-  ]
+  ],
+  "portrait_file": "Galileo Galilei (1564-1642) RMG BHC2700.tiff",
+  "portrait_caption": "Portrait of Galileo after Justus Sustermans, Royal Museums Greenwich"
  },
  {
   "id": "francis-bacon",
@@ -404,7 +436,9 @@
   "bio_full": [
    "Bacon was the son of Elizabeth I's Lord Keeper of the Great Seal and studied at Trinity College, Cambridge. A lawyer and member of Parliament, he rose under James I to become Attorney General and Lord Chancellor, but in 1621 he was convicted of accepting bribes and removed from office. He spent his last years writing, and is said to have died of a chill caught while experimenting with stuffing a chicken with snow.",
    "In the Novum Organum and other works Bacon attacked reliance on ancient authority and on deduction from first principles, and proposed a method of gathering natural histories and reasoning step by step to general laws, guarding against the 'idols' that distort human judgement. His utopia New Atlantis imagined a state research institution. Though he made no great discoveries himself, the founders of the Royal Society in 1660 claimed him as their inspiration, and his vision of organised, useful science has remained powerful."
-  ]
+  ],
+  "portrait_file": "Somer Francis Bacon.jpg",
+  "portrait_caption": "Paul van Somer, portrait of Francis Bacon"
  },
  {
   "id": "harvey",
@@ -421,7 +455,9 @@
   "bio_full": [
    "Harvey was the son of a prosperous yeoman in Kent. He studied at Cambridge and then at Padua, the leading medical school of the day, under the anatomist Fabricius, who had described the valves of the veins. Returning to London, he became physician at St Bartholomew's Hospital, a lecturer at the College of Physicians and physician to James I and Charles I, whom he accompanied during the Civil War.",
    "Through dissection, vivisection of many animals and simple quantitative reasoning, Harvey showed that the heart pumps far more blood than the body could ever produce from food, and that the blood must therefore return to the heart in a circuit, through the arteries and back by the veins. His De motu cordis of 1628 met fierce opposition but was widely accepted within a generation. He also studied the development of embryos, arguing that all animals come from an egg."
-  ]
+  ],
+  "portrait_file": "William Harvey 2.jpg",
+  "portrait_caption": "Portrait of William Harvey"
  },
  {
   "id": "descartes",
@@ -438,7 +474,9 @@
   "bio_full": [
    "Descartes was educated at the Jesuit college of La Flèche and took a law degree at Poitiers. As a young man he served as a gentleman soldier in the Dutch and Bavarian armies, and in 1619 had the dreams that, he said, revealed his mission to found a unified science. He spent most of his working life in the Dutch Republic, and died in Stockholm in 1650, a few months after going to teach philosophy to Queen Christina.",
    "His Discourse on Method of 1637 was published with three scientific essays, on optics, meteorology and geometry. La Géométrie showed how to describe curves by equations and solve geometrical problems by algebra, introducing the notation still in use. In physics he described the universe as matter in motion filling space, with planets carried by vortices, and he gave an early statement of the law of inertia and of the law of refraction. His mechanical philosophy was later displaced by Newton's, but it set the agenda for seventeenth-century science."
-  ]
+  ],
+  "portrait_file": "Frans Hals - Portret van René Descartes.jpg",
+  "portrait_caption": "After Frans Hals, portrait of René Descartes"
  },
  {
   "id": "pascal",
@@ -455,7 +493,9 @@
   "bio_full": [
    "Pascal was educated at home by his father, a tax official with a strong interest in mathematics, who took him to the scientific meetings of Marin Mersenne in Paris. At sixteen he wrote an essay on conic sections, and at nineteen he began building a mechanical calculator to help his father with tax accounts. After a religious experience in 1654 he turned increasingly to theology and the Jansenist cause, writing the Provincial Letters and the notes later published as the Pensées. He suffered poor health all his life and died at thirty-nine.",
    "His experiments on the vacuum, including the measurement organised in 1648 on the Puy de Dôme showing that a barometer reads lower on a mountain, established that air pressure supports the column of mercury. He formulated the principle of pressure in fluids that bears his name. In correspondence with Fermat he founded the mathematical theory of probability, and his treatise on the arithmetical triangle gave a systematic account of the number pattern now called Pascal's triangle."
-  ]
+  ],
+  "portrait_file": "Blaise Pascal Versailles, circa 1690.JPG",
+  "portrait_caption": "Portrait of Blaise Pascal, c. 1690, Versailles"
  },
  {
   "id": "fermat",
@@ -473,7 +513,9 @@
   "bio_full": [
    "Fermat was the son of a wealthy merchant and studied law, probably at Orléans. He spent his career as a councillor of the parliament of Toulouse, a judicial post, and did mathematics in his leisure. His birth year is uncertain, given as 1601 or about 1607. He published almost nothing, communicating his results in letters to Mersenne, Pascal and others, often without proofs, and his work became widely known only when his son published his papers after his death.",
    "Fermat developed a method of finding maxima, minima and tangents that anticipated the differential calculus, devised coordinate geometry at the same time as Descartes, and in letters with Pascal in 1654 laid the foundations of probability. In optics he stated the principle that light takes the path of least time. Above all he revived number theory, with results such as his 'little theorem' on primes, and left the famous marginal note claiming a proof of what became known as Fermat's Last Theorem."
-  ]
+  ],
+  "portrait_file": "Pierre de Fermat.jpg",
+  "portrait_caption": "Portrait of Pierre de Fermat"
  },
  {
   "id": "boyle",
@@ -490,7 +532,9 @@
   "bio_full": [
    "Boyle was the fourteenth child of Richard Boyle, 1st Earl of Cork, one of the richest men in Britain. Educated at Eton and on a long tour of the Continent, he settled first in Dorset and then in Oxford, where from about 1656 he worked with a circle of experimenters and hired the young Robert Hooke as his assistant. He was a founder of the Royal Society in 1660 and lived his last decades in London with his sister Katherine, Lady Ranelagh. Deeply pious, he funded Bible translations and endowed lectures defending Christianity.",
    "With Hooke's improved air pump Boyle carried out a famous series of experiments on air and vacuum, finding that the volume of a gas varies inversely with its pressure. In The Sceptical Chymist he attacked both the Aristotelian elements and the alchemists' principles, arguing for a corpuscular view of matter tested by experiment. He wrote in detail about his procedures so that others could repeat them, and his idea of the experimental report and the credible witness shaped the practice of modern science."
-  ]
+  ],
+  "portrait_file": "The Shannon Portrait of the Hon Robert Boyle.jpg",
+  "portrait_caption": "Johann Kerseboom, the 'Shannon portrait' of Robert Boyle"
  },
  {
   "id": "huygens",
@@ -507,7 +551,9 @@
   "bio_full": [
    "Huygens was the son of Constantijn Huygens, poet and secretary to the princes of Orange, and grew up among the cultural elite of the Dutch Republic; Descartes was a family friend. He studied law and mathematics at Leiden and Breda. With his brother he ground excellent telescope lenses, and in 1655 discovered Titan. From 1666 to 1681 he was the leading member of the new Académie Royale des Sciences in Paris, before returning to The Hague.",
    "Huygens patented the pendulum clock in 1657, the first accurate timekeeper, and in Horologium Oscillatorium analysed the pendulum mathematically, with results on centrifugal force and curves that influenced Newton. He explained the strange appearance of Saturn as a ring, wrote an early treatise on probability, and proposed that light is a wave spreading through an ether, explaining reflection and refraction with the principle that still bears his name. He was perhaps the greatest scientist between Galileo and Newton."
-  ]
+  ],
+  "portrait_file": "Caspar Netscher - Christiaan Huygens, the astronomer, 1671.jpg",
+  "portrait_caption": "Caspar Netscher, Christiaan Huygens, 1671"
  },
  {
   "id": "hooke",
@@ -541,7 +587,9 @@
   "bio_full": [
    "Leeuwenhoek had no university education and knew no Latin. He ran a drapery business in Delft and held minor civic posts. Probably inspired by Hooke's Micrographia and by the use of lenses to check cloth, he began grinding or blowing tiny lenses and mounting them in small brass and silver holders, reaching magnifications of over two hundred times. From 1673 until his death he sent hundreds of letters describing his observations to the Royal Society in London, which elected him a fellow in 1680.",
    "Leeuwenhoek saw and described single-celled organisms in pond water, bacteria from his own teeth, red blood cells, the flow of blood in capillaries and spermatozoa, and he argued against the spontaneous generation of small creatures. He kept his lens-making techniques secret, so few could match his results for more than a century. He is regarded as the founder of microbiology."
-  ]
+  ],
+  "portrait_file": "Anthonie van Leeuwenhoek (1632-1723). Natuurkundige te Delft Rijksmuseum SK-A-957.jpeg",
+  "portrait_caption": "Jan Verkolje, Antonie van Leeuwenhoek, Rijksmuseum, Amsterdam"
  },
  {
   "id": "newton",
@@ -559,7 +607,9 @@
   "bio_full": [
    "Newton was born on Christmas Day 1642 by the old calendar, 4 January 1643 by the modern one, after his father's death, and was largely raised by his grandmother. He studied at Trinity College, Cambridge, and in 1665–66, when the university closed for the plague, made his first great discoveries in mathematics, optics and gravitation at home. He became Lucasian Professor at Cambridge in 1669, and later Warden and Master of the Royal Mint in London and President of the Royal Society. He also devoted great effort to alchemy and biblical chronology, and was knighted in 1705.",
    "Newton's Principia of 1687 set out three laws of motion and a law of universal gravitation that explained the orbits of planets and comets, the tides and falling bodies with one set of principles. In optics he showed with prisms that white light is composed of colours and built the first reflecting telescope. His development of the calculus led to a bitter priority dispute with Leibniz. His work became the model of physical science for two centuries, until relativity and quantum theory showed its limits."
-  ]
+  ],
+  "portrait_file": "Portrait of Sir Isaac Newton, 1689 (brightened).jpg",
+  "portrait_caption": "Godfrey Kneller, portrait of Isaac Newton, 1689"
  },
  {
   "id": "leibniz",
@@ -576,7 +626,9 @@
   "bio_full": [
    "Leibniz was the son of a professor of moral philosophy at Leipzig and studied law. He entered the service of the Elector of Mainz and in 1672–76 was in Paris on a diplomatic mission, where Huygens taught him modern mathematics and where he developed the calculus. From 1676 he was librarian, historian and adviser to the dukes of Brunswick-Lüneburg in Hanover. He founded the Berlin Academy of Sciences, corresponded with hundreds of scholars and died somewhat neglected in Hanover.",
    "Leibniz published his differential calculus in 1684 and his integral calculus in 1686; his symbols dx and the integral sign proved so effective that they became standard. The bitter priority dispute with Newton's followers divided British and Continental mathematics for a century. He also built a calculating machine that could multiply, explored binary numbers, and dreamed of a universal logical language in which reasoning could be done by calculation, an idea later realised in symbolic logic and computing."
-  ]
+  ],
+  "portrait_file": "Christoph Bernhard Francke - Bildnis des Philosophen Leibniz (ca. 1695).jpg",
+  "portrait_caption": "Christoph Bernhard Francke, portrait of Leibniz, c. 1695"
  },
  {
   "id": "harrison",
@@ -594,7 +646,9 @@
   "bio_full": [
    "Harrison was the son of a carpenter and grew up in Barrow upon Humber in Lincolnshire, where he built wooden clocks with remarkable innovations to reduce friction and the effects of temperature. In 1714 the British Parliament offered a prize of up to £20,000 for a practical method of finding longitude at sea, and Harrison moved to London and devoted the rest of his life to the problem, supported by the clockmaker George Graham.",
    "Over some thirty years he built three large sea clocks, H1 to H3, and then the large watch H4, which on trials to Jamaica and Barbados in the 1760s kept time well enough to fix longitude within the terms of the prize. The Board of Longitude was slow to pay, partly because many favoured an astronomical method, and Harrison received his reward only in stages, with the help of George III. His work led to the marine chronometer, essential for navigation until the age of radio."
-  ]
+  ],
+  "portrait_file": "John Harrison (Gemälde).jpg",
+  "portrait_caption": "Thomas King, portrait of John Harrison"
  },
  {
   "id": "euler",
@@ -611,7 +665,9 @@
   "bio_full": [
    "Euler was the son of a pastor near Basel and studied under Johann Bernoulli. In 1727 he joined the new Academy of Sciences in Saint Petersburg, moved in 1741 to Frederick the Great's academy in Berlin, and returned to Saint Petersburg in 1766, where he spent the rest of his life. He lost the sight of one eye in the 1730s and became almost totally blind around 1771, yet his output increased, as he dictated to assistants and his sons.",
    "Euler wrote some 850 papers and books on almost every branch of pure and applied mathematics, from infinite series and differential equations to the mechanics of fluids and rigid bodies, the motion of the Moon, optics and ship design. He solved the Königsberg bridge problem, founding graph theory, and introduced or popularised the notations f(x), e, i and the summation sign. His textbooks taught the calculus to Europe and the remark attributed to Laplace, that Euler was the master of us all, sums up his influence."
-  ]
+  ],
+  "portrait_file": "Leonhard Euler - Jakob Emanuel Handmann (Kunstmuseum Basel).jpg",
+  "portrait_caption": "Jakob Emanuel Handmann, Leonhard Euler, 1753, Kunstmuseum Basel"
  },
  {
   "id": "linnaeus",
@@ -628,7 +684,9 @@
   "bio_full": [
    "Linnaeus was the son of a Lutheran pastor and keen gardener. He studied medicine at Lund and Uppsala, made a botanical expedition to Lapland in 1732, and took his medical degree in the Dutch Republic in 1735, where he published the first edition of Systema Naturae. Returning to Sweden, he practised medicine in Stockholm and from 1741 was professor at Uppsala, where he restored the botanical garden. He sent his students, the 'apostles', on voyages around the world to collect specimens, and was ennobled as Carl von Linné in 1761.",
    "Linnaeus classified plants by the number and arrangement of their sexual organs, an artificial system that was easy to use, and from 1753 consistently gave each species a binomial name such as Homo sapiens, a term he coined. His system of nested categories made it possible to catalogue the flood of new organisms reaching Europe, and binomial names remain the basis of biological nomenclature, though his classification has long been replaced by evolutionary ones."
-  ]
+  ],
+  "portrait_file": "Carl von Linné, 1707-1778, botanist, professor (Alexander Roslin) - Nationalmuseum - 15723 (cropped).tif",
+  "portrait_caption": "Alexander Roslin, Carl Linnaeus, 1775, Nationalmuseum, Stockholm"
  },
  {
   "id": "benjamin-franklin",
@@ -645,7 +703,9 @@
   "bio_full": [
    "Franklin was the fifteenth child of a Boston candle maker and was apprenticed to his brother, a printer. He ran away to Philadelphia, where he built a successful printing and publishing business and founded a library, a fire company and the institutions that became the University of Pennsylvania and the American Philosophical Society. Retiring from business in 1748, he devoted himself to science, and later to politics, as colonial agent in London, signer of the Declaration of Independence, ambassador to France and delegate to the Constitutional Convention.",
    "In the late 1740s Franklin's electrical experiments, reported in letters to London, led him to describe electricity as a single fluid that bodies could have in excess or deficit, which he called positive and negative, and to state the conservation of charge. He proposed that lightning is an electrical discharge and that pointed iron rods could protect buildings; the experiment was first carried out in France in 1752, and Franklin's own kite experiment is said to have followed. He also charted the Gulf Stream and invented bifocals and an efficient stove."
-  ]
+  ],
+  "portrait_file": "Joseph Siffrein Duplessis - Benjamin Franklin - Google Art Project.jpg",
+  "portrait_caption": "Joseph Siffred Duplessis, Benjamin Franklin"
  },
  {
   "id": "lavoisier",
@@ -662,7 +722,9 @@
   "bio_full": [
    "Lavoisier was born into a wealthy Parisian family and trained in law before turning to science. He joined the Royal Academy of Sciences in 1768 and bought a share in the Ferme générale, the private company that collected taxes, which financed his laboratory. His wife, Marie-Anne Paulze Lavoisier, translated English chemistry for him, kept his records and drew the plates of his books. He also directed the royal gunpowder administration and worked on agriculture and the metric system. Because of his role as a tax farmer he was arrested during the Revolution and guillotined in May 1794.",
    "Using precise balances and sealed vessels, Lavoisier showed that combustion and the rusting of metals involve combination with a component of the air, which he named oxygen, overturning the theory of phlogiston. He showed that water is a compound of oxygen and hydrogen, and he treated chemical reactions as balanced equations in which mass is conserved. With colleagues he introduced the systematic chemical nomenclature still in use, and his Traité élémentaire de chimie of 1789 defined an element as a substance that cannot be further decomposed."
-  ]
+  ],
+  "portrait_file": "David - Portrait of Monsieur Lavoisier (cropped)2.jpg",
+  "portrait_caption": "Jacques-Louis David, Antoine Lavoisier and his wife (detail), 1788"
  },
  {
   "id": "laplace",
@@ -679,7 +741,9 @@
   "bio_full": [
    "Laplace came from a family of modest farmers in Normandy and was intended for the Church, but at Caen he discovered mathematics and went to Paris, where d'Alembert found him a teaching post at the military school. He was elected to the Academy of Sciences and collaborated with Lavoisier on heat. He survived the Revolution, helped design the metric system, briefly served Napoleon as minister of the interior, and was made a marquis under the restored monarchy.",
    "In his five-volume Celestial Mechanics he showed that the apparent irregularities in the motions of the planets are periodic and that the solar system is stable, completing the Newtonian programme; he also suggested that it formed from a rotating nebula. His Analytical Theory of Probabilities and its popular companion set out the mathematics of chance and errors and applied it to astronomy, demography and judgement. He expressed the ideal of a strict determinism, imagining an intellect that could know the future from the present state of the universe."
-  ]
+  ],
+  "portrait_file": "Laplace, Pierre-Simon, marquis de.jpg",
+  "portrait_caption": "Portrait of Pierre-Simon Laplace"
  },
  {
   "id": "jenner",
@@ -696,7 +760,9 @@
   "bio_full": [
    "Jenner was the son of the vicar of Berkeley. He was apprenticed to a surgeon and then studied in London under the great surgeon-anatomist John Hunter, who encouraged him to experiment. He returned to Berkeley as a country practitioner, studied the nesting of cuckoos and the hibernation of hedgehogs, and was elected to the Royal Society for his work on the cuckoo.",
    "Smallpox was then one of the great killers, and the risky practice of variolation, inoculating with smallpox matter itself, was common. Jenner investigated the country belief that milkmaids who caught cowpox were immune, and in 1796 inoculated a boy, James Phipps, with cowpox and later showed he could not be infected with smallpox. He published his results in 1798, and vaccination, from the Latin vacca for cow, spread rapidly around the world. Jenner spent much of his life promoting it; smallpox was declared eradicated in 1980."
-  ]
+  ],
+  "portrait_file": "Edward Jenner.jpg",
+  "portrait_caption": "Portrait of Edward Jenner"
  },
  {
   "id": "humboldt",
@@ -713,7 +779,9 @@
   "bio_full": [
    "Humboldt was born into a wealthy Prussian family; his brother Wilhelm became a famous linguist and educational reformer. After studying at several universities and the Freiberg mining academy, he worked as a mining inspector. On his mother's death he used his inheritance to fund a five-year expedition with the botanist Aimé Bonpland through Venezuela, Cuba, the Andes and Mexico in 1799–1804, then spent over twenty years in Paris writing up the results, and lived his last decades in Berlin.",
    "Humboldt measured everything he could, from temperature and altitude to magnetism, and he mapped how vegetation changes with climate and height, introducing isotherms to show climate on maps. He saw nature as a unified whole in which life, climate and geology interact, and he wrote about it with literary passion. His late work Kosmos sought to describe the entire physical universe. Darwin carried his travel narrative on the Beagle, and many places and species bear his name."
-  ]
+  ],
+  "portrait_file": "Stieler, Joseph Karl - Alexander von Humboldt - 1843.jpg",
+  "portrait_caption": "Joseph Karl Stieler, Alexander von Humboldt, 1843"
  },
  {
   "id": "gauss",
@@ -730,7 +798,9 @@
   "bio_full": [
    "Gauss was the son of a poor bricklayer and gardener in Brunswick. His precocious gift for calculation came to the attention of the Duke of Brunswick, who paid for his education at the Collegium Carolinum and the University of Göttingen. In 1796 he showed that a regular seventeen-sided polygon can be constructed with ruler and compass, and in 1801 published his Disquisitiones Arithmeticae. From 1807 until his death he was director of the Göttingen observatory and professor of astronomy.",
    "Gauss made fundamental contributions to number theory, algebra, where he gave a proof of the fundamental theorem, complex numbers, differential geometry and statistics, where the normal distribution is often named after him. He calculated the orbit of the newly found asteroid Ceres from a handful of observations using his method of least squares, surveyed the Kingdom of Hanover, and with Wilhelm Weber studied the Earth's magnetism and built an early electric telegraph. Cautious and perfectionist, he left many discoveries, including non-Euclidean geometry, unpublished, guided by the motto 'few, but ripe'."
-  ]
+  ],
+  "portrait_file": "Carl Friedrich Gauss 1840 by Jensen.jpg",
+  "portrait_caption": "Christian Albrecht Jensen, Carl Friedrich Gauss, 1840"
  },
  {
   "id": "dalton",
@@ -747,7 +817,9 @@
   "bio_full": [
    "Dalton was the son of a Quaker weaver in Cumberland and was teaching school by the age of twelve. In 1793 he moved to Manchester to teach at a dissenting academy, and spent the rest of his life there as a private tutor and an active member of the Manchester Literary and Philosophical Society. He kept a daily weather diary for over fifty years, and his account of his own colour blindness was the first scientific description of the condition, sometimes called Daltonism.",
    "From studies of gases and the weather, Dalton came to the view that each chemical element consists of identical, indestructible atoms with a particular weight, and that compounds form when atoms combine in simple whole-number ratios. He set out the theory, with the first table of relative atomic weights and circular symbols for the elements, in his New System of Chemical Philosophy from 1808. Many of his values were wrong and his symbols did not catch on, but the atomic theory became the foundation of nineteenth-century chemistry."
-  ]
+  ],
+  "portrait_file": "John Dalton by Thomas Phillips, 1835.jpg",
+  "portrait_caption": "Thomas Phillips, John Dalton, 1835"
  },
  {
   "id": "faraday",
@@ -764,7 +836,9 @@
   "bio_full": [
    "Faraday was the son of a blacksmith and had little schooling. Apprenticed to a bookbinder, he educated himself by reading the books he bound, and after attending lectures by Humphry Davy he obtained a post as Davy's laboratory assistant at the Royal Institution in London in 1813. He spent his whole career there, becoming its director of the laboratory and Fullerian Professor of Chemistry, and was a devout member of a small Christian sect, the Sandemanians. He refused a knighthood and lived his last years in a house at Hampton Court given by Queen Victoria.",
    "Faraday made important chemical discoveries, including benzene and the laws of electrolysis, but his greatest work was in electricity and magnetism. In 1821 he made a wire rotate around a magnet, the first electric motor, and in 1831 he discovered that a changing magnetic field induces a current, the principle of the dynamo and the transformer. Lacking mathematics, he thought in terms of lines of force filling space, an idea that Maxwell turned into field theory. His Christmas lectures for young people, still held today, made him a celebrated popular teacher."
-  ]
+  ],
+  "portrait_file": "Thomas Phillips (1770-1845) - Michael Faraday - NPG 269 - National Portrait Gallery.jpg",
+  "portrait_caption": "Thomas Phillips, Michael Faraday, National Portrait Gallery, London"
  },
  {
   "id": "lyell",
@@ -781,7 +855,9 @@
   "bio_full": [
    "Lyell was the eldest son of a wealthy Scottish landowner and botanist. He studied at Oxford, where William Buckland's lectures drew him to geology, and trained as a barrister, but soon devoted himself to science. Field trips in France, Italy and Sicily, including the volcano Etna, convinced him of the power of gradual change. He was professor of geology at King's College London for a short time, and travelled widely in Europe and North America.",
    "In the Principles of Geology, Lyell argued against catastrophist theories that the Earth's features were made by sudden upheavals, and claimed that present-day causes acting over vast periods were sufficient, a view later called uniformitarianism. Darwin read the first volume on the Beagle and later became Lyell's close friend. Lyell was long reluctant to accept evolution, especially for humans, but in his later work he came to support Darwin's theory."
-  ]
+  ],
+  "portrait_file": "Lowes Cato Dickinson (1819-1908) - Sir Charles Lyell, 1st Bt (replica of an original of c.1870 by the artist) - NPG 1387 - National Portrait Gallery.jpg",
+  "portrait_caption": "Lowes Cato Dickinson, Sir Charles Lyell, National Portrait Gallery, London"
  },
  {
   "id": "darwin",
@@ -798,7 +874,9 @@
   "bio_full": [
    "Darwin was the son of a wealthy doctor and grandson of the potter Josiah Wedgwood and of the naturalist Erasmus Darwin. He abandoned medicine at Edinburgh and studied for the Church at Cambridge, where he became devoted to natural history. From 1831 to 1836 he sailed around the world as naturalist on HMS Beagle, collecting fossils, observing the geology of South America and the animals of the Galápagos. Back in England he married his cousin Emma Wedgwood and settled at Down House in Kent, where, often ill, he worked for the rest of his life.",
    "By 1838 Darwin had conceived the theory of natural selection, but he spent twenty years gathering evidence, including long studies of barnacles and domestic breeding. When Alfred Russel Wallace sent him an essay with the same idea in 1858, their papers were read together, and On the Origin of Species followed in 1859. Later books extended the theory to human origins, sexual selection, emotions, orchids, climbing plants and earthworms. Evolution was accepted quickly; natural selection as its main mechanism became established only in the twentieth century, when it was united with genetics."
-  ]
+  ],
+  "portrait_file": "Charles Robert Darwin by John Collier.jpg",
+  "portrait_caption": "John Collier, Charles Darwin"
  },
  {
   "id": "mendel",
@@ -832,7 +910,9 @@
   "bio_full": [
    "Pasteur was the son of a tanner in the Jura. He studied at the École normale supérieure in Paris and made his name as a chemist with the discovery that some molecules exist in mirror-image forms. He was professor at Strasbourg and Lille and then at the École normale in Paris. Despite a stroke in 1868 that left him partly paralysed, he continued working, and in 1888 the Institut Pasteur was founded in his honour by public subscription.",
    "Studying fermentation for the wine and beer industries, Pasteur showed that it is the work of living microorganisms, and that gentle heating, now called pasteurisation, could prevent spoilage. His experiments with swan-necked flasks discredited spontaneous generation. He helped save the French silk industry from silkworm diseases and championed the germ theory of disease. With his collaborators he developed vaccines by weakening microbes, against chicken cholera, anthrax and, in 1885, rabies, which made him a national hero. Studies of his notebooks have shown that his public accounts sometimes simplified what he actually did."
-  ]
+  ],
+  "portrait_file": "Albert Edelfelt - Louis Pasteur - 1885.jpg",
+  "portrait_caption": "Albert Edelfelt, Louis Pasteur in his laboratory, 1885, Musée d'Orsay"
  },
  {
   "id": "maxwell",
@@ -849,7 +929,9 @@
   "bio_full": [
    "Maxwell grew up on the family estate of Glenlair in Galloway and published his first scientific paper, on oval curves, at fourteen. He studied at Edinburgh and Cambridge, then taught at Aberdeen and King's College London, where he did his most important work on electromagnetism. After some years at Glenlair he became the first Cavendish Professor of Experimental Physics at Cambridge in 1871 and planned the Cavendish Laboratory. He died of abdominal cancer at forty-eight.",
    "Building on Faraday's lines of force, Maxwell developed a set of equations describing electric and magnetic fields and showed that they predict waves travelling at the speed of light, concluding that light is an electromagnetic wave. Heinrich Hertz produced such waves in 1887, opening the way to radio. Maxwell also explained Saturn's rings, made the first colour photograph with his three-colour method, and with Boltzmann founded statistical mechanics. Einstein kept his picture on the wall of his study, alongside those of Newton and Faraday."
-  ]
+  ],
+  "portrait_file": "James Clerk-Maxwell. Stipple engraving by G. J. Stodart, 188 Wellcome V0001155.jpg",
+  "portrait_caption": "G. J. Stodart, stipple engraving of James Clerk Maxwell"
  },
  {
   "id": "mendeleev",
@@ -866,7 +948,9 @@
   "bio_full": [
    "Mendeleev was the youngest of a large family in Siberia; after his father's death his mother took him to Saint Petersburg to study. He trained as a teacher, studied in Heidelberg and attended the 1860 Karlsruhe Congress, where chemists agreed on reliable atomic weights. He became professor of chemistry at Saint Petersburg University, and later director of the Russian bureau of weights and measures. He advised the government on oil, agriculture and industry.",
    "While writing a textbook, The Principles of Chemistry, Mendeleev looked for a natural way to order the elements and in 1869 published a table arranging them by atomic weight in which chemical properties recurred periodically. He boldly left gaps and predicted the properties of the missing elements, and the discovery of gallium, scandium and germanium within two decades made the table famous. Others, notably Lothar Meyer, made similar arrangements, but Mendeleev's predictions won him the credit. Element 101, mendelevium, is named after him."
-  ]
+  ],
+  "portrait_file": "Medeleeff by repin.jpg",
+  "portrait_caption": "Ilya Repin, portrait of Dmitri Mendeleev"
  },
  {
   "id": "lister",
@@ -934,7 +1018,9 @@
   "bio_full": [
    "Nightingale was born into a wealthy English family and named after the city of her birth. Against her family's wishes she trained as a nurse, and in 1854 led a team of nurses to the British military hospital at Scutari during the Crimean War, where she became famous as 'the Lady with the Lamp'. On her return she worked tirelessly, though often bedridden, for reform of army medicine, hospital design and nursing, founding a nursing school at St Thomas' Hospital in 1860.",
    "Nightingale had been taught mathematics as a girl and worked with the statistician William Farr. She collected mortality figures and presented them in striking graphics, notably her polar-area 'rose' diagrams, to persuade officials that sanitary conditions were killing far more soldiers than wounds. In 1858 she became the first woman elected a fellow of the Royal Statistical Society. She held to a miasma view of disease long after germ theory arose, but her use of evidence made her a pioneer of public health statistics."
-  ]
+  ],
+  "portrait_file": "Florence Nightingale. Coloured lithograph. Wellcome V0006579.jpg",
+  "portrait_caption": "Florence Nightingale, coloured lithograph, Wellcome Collection"
  },
  {
   "id": "cajal",
@@ -951,7 +1037,9 @@
   "bio_full": [
    "Cajal was the son of a country doctor and anatomy teacher in Aragon. A rebellious boy who wanted to be an artist, he trained in medicine at Zaragoza, served as an army doctor in Cuba, where he caught malaria, and became professor of anatomy at Valencia, then of histology at Barcelona and Madrid. He shared the Nobel Prize in Physiology or Medicine in 1906 with Camillo Golgi.",
    "Using and improving Golgi's silver staining method, Cajal studied the brain, spinal cord and retina and argued that nerve tissue is not a continuous network, as Golgi believed, but a mass of distinct cells that communicate across small gaps, and that signals flow in one direction through each cell. This neuron doctrine was confirmed by electron microscopy in the 1950s. His thousands of drawings remain both scientific evidence and admired works of art."
-  ]
+  ],
+  "portrait_file": "Joaquín Sorolla. Santiago Ramón y Cajal 1906.jpg",
+  "portrait_caption": "Joaquín Sorolla, Santiago Ramón y Cajal, 1906"
  },
  {
   "id": "boole",
@@ -985,7 +1073,9 @@
   "bio_full": [
    "Babbage was the son of a wealthy London banker and studied at Cambridge, where he helped introduce Continental calculus notation. He was Lucasian Professor of Mathematics at Cambridge from 1828 to 1839, though he rarely lectured, and was a founder of the Astronomical and Statistical Societies. He wrote on manufacturing, economics and the decline of British science, campaigned against street musicians and held famous Saturday evening parties in London.",
    "Frustrated by errors in printed mathematical tables, Babbage designed in 1822 a Difference Engine to calculate and print them mechanically, and obtained government funds to build it; it was never completed. He then conceived the Analytical Engine, with a separate store and mill, the equivalent of memory and processor, programmed by punched cards like a Jacquard loom. Neither machine was built in his lifetime, but in 1991 the Science Museum in London completed a working Difference Engine No. 2 from his drawings."
-  ]
+  ],
+  "portrait_file": "Charles Babbage by Samuel Laurence.jpg",
+  "portrait_caption": "Samuel Laurence, Charles Babbage, 1845"
  },
  {
   "id": "lovelace",
@@ -1002,7 +1092,9 @@
   "bio_full": [
    "Augusta Ada Byron was the only legitimate child of the poet Lord Byron, who left the family weeks after her birth. Her mother, Annabella Milbanke, had her taught mathematics and science, partly to steer her away from her father's temperament. She met Charles Babbage in 1833 and became a close friend and correspondent. In 1835 she married William King, later Earl of Lovelace. She studied mathematics with Augustus De Morgan, suffered long periods of illness and died of cancer at thirty-six.",
    "In 1843 Lovelace translated an Italian article by Luigi Menabrea on the Analytical Engine and added notes three times its length. They explained how the engine could be instructed and included a table of operations for calculating Bernoulli numbers, often called the first computer program, and speculated that it might compose music. How much of the mathematics was her own and how much Babbage's is debated, but her vision of the computer as a general symbol-manipulating machine was unique in her time."
-  ]
+  ],
+  "portrait_file": "Watercolour, Ada Lovelace, possibly by A E Chalon (1780-1860), (c1840). 25 x 18.3 cm.png",
+  "portrait_caption": "Watercolour of Ada Lovelace, possibly by Alfred Edward Chalon, c. 1840"
  },
  {
   "id": "riemann",

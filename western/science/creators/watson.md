@@ -16,6 +16,10 @@ With Crick he built a model of DNA as two helical chains held together by paired
 
 ### Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid (1953)
 
+[![Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid](https://upload.wikimedia.org/wikipedia/commons/b/b8/DNA-structure-and-bases.png)](https://commons.wikimedia.org/wiki/File:DNA-structure-and-bases.png)
+
+<sub>Diagram of the DNA double helix and its base pairs Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:DNA-structure-and-bases.png).</sub>
+
 - **Date:** 1953
 - **Type:** Scientific paper (with Francis Crick)
 - **Published / where:** Nature, London, 25 April 1953

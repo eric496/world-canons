@@ -1,10 +1,14 @@
 # Edward Jenner
 
+<a href="https://commons.wikimedia.org/wiki/File:Edward_Jenner.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Edward_Jenner.jpg/330px-Edward_Jenner.jpg" alt="Edward Jenner" title="Portrait of Edward Jenner"></a>
+
 **1749 – 1823** · English  
 Born: Berkeley, Gloucestershire · Died: Berkeley, Gloucestershire  
 Eras & fields: [Enlightenment chemistry & natural history](../movements/enlightenment-science.md)  
 
 > Country doctor who showed that inoculation with cowpox protects against smallpox, creating the first vaccine.
+
+<sub>Portrait: Portrait of Edward Jenner · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edward_Jenner.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Smallpox was then one of the great killers, and the risky practice of variolatio
 ## Key works & discoveries
 
 ### An Inquiry into the Causes and Effects of the Variolae Vaccinae (1798)
+
+[![An Inquiry into the Causes and Effects of the Variolae Vaccinae](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jenner%2C_An_inquiry_into_the_causes_%26_effects_Wellcome_L0031742.jpg/1280px-Jenner%2C_An_inquiry_into_the_causes_%26_effects_Wellcome_L0031742.jpg)](https://commons.wikimedia.org/wiki/File:Jenner%2C_An_inquiry_into_the_causes_%26_effects_Wellcome_L0031742.jpg)
+
+<sub>From Jenner's Inquiry, 1798 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Jenner%2C_An_inquiry_into_the_causes_%26_effects_Wellcome_L0031742.jpg).</sub>
 
 - **Date:** 1798
 - **Type:** Medical treatise

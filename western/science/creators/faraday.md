@@ -1,10 +1,14 @@
 # Michael Faraday
 
+<a href="https://commons.wikimedia.org/wiki/File:Thomas_Phillips_%281770-1845%29_-_Michael_Faraday_-_NPG_269_-_National_Portrait_Gallery.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Thomas_Phillips_%281770-1845%29_-_Michael_Faraday_-_NPG_269_-_National_Portrait_Gallery.jpg" alt="Michael Faraday" title="Thomas Phillips, Michael Faraday, National Portrait Gallery, London"></a>
+
 **1791 – 1867** · English  
 Born: Newington Butts, Surrey · Died: Hampton Court, Middlesex  
 Eras & fields: [Electromagnetism & classical physics](../movements/electromagnetism.md)  
 
 > Self-taught experimenter at the Royal Institution who discovered electromagnetic induction, built the first electric motor and generator, and introduced the idea of the field.
+
+<sub>Portrait: Thomas Phillips, Michael Faraday, National Portrait Gallery, London · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Thomas_Phillips_%281770-1845%29_-_Michael_Faraday_-_NPG_269_-_National_Portrait_Gallery.jpg)</sub>
 
 ## Biography
 
@@ -18,6 +22,10 @@ Faraday made important chemical discoveries, including benzene and the laws of e
 - [The Chemical History of a Candle](#the-chemical-history-of-a-candle-1848-published-1861) (1848; published 1861)
 
 ### Discovery of electromagnetic induction (1831)
+
+[![Discovery of electromagnetic induction](https://upload.wikimedia.org/wikipedia/commons/4/40/Faraday_ring_transformer.jpg)](https://commons.wikimedia.org/wiki/File:Faraday_ring_transformer.jpg)
+
+<sub>Faraday's induction ring of 1831 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Faraday_ring_transformer.jpg).</sub>
 
 - **Date:** 1831
 - **Type:** Experimental discovery

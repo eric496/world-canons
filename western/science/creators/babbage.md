@@ -1,10 +1,14 @@
 # Charles Babbage
 
+<a href="https://commons.wikimedia.org/wiki/File:Charles_Babbage_by_Samuel_Laurence.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Charles_Babbage_by_Samuel_Laurence.jpg/330px-Charles_Babbage_by_Samuel_Laurence.jpg" alt="Charles Babbage" title="Samuel Laurence, Charles Babbage, 1845"></a>
+
 **1791 – 1871** · English  
 Born: London · Died: London  
 Eras & fields: [Computing & information](../movements/computing.md)  
 
 > Mathematician and inventor who designed the Difference Engine and the Analytical Engine, a mechanical general-purpose computer conceived a century before electronic ones.
+
+<sub>Portrait: Samuel Laurence, Charles Babbage, 1845 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Charles_Babbage_by_Samuel_Laurence.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ Frustrated by errors in printed mathematical tables, Babbage designed in 1822 a 
 
 ### Difference Engine (1822–1849; built 1991)
 
+[![Difference Engine](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Babbage_Difference_Engine.jpg/1280px-Babbage_Difference_Engine.jpg)](https://commons.wikimedia.org/wiki/File:Babbage_Difference_Engine.jpg)
+
+<sub>Babbage's Difference Engine Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Babbage_Difference_Engine.jpg).</sub>
+
 - **Date:** 1822–1849; built 1991
 - **Type:** Mechanical calculator
 - **Published / where:** Science Museum, London; Computer History Museum, Mountain View (Difference Engine No. 2)
@@ -27,6 +35,10 @@ Frustrated by errors in printed mathematical tables, Babbage designed in 1822 a 
 Mathematical tables of logarithms, astronomical positions and navigation were calculated by hand and full of errors. In 1822 Babbage proposed a machine that would compute tables by the method of finite differences, which needs only repeated addition, and print the results to avoid copying mistakes. With government money he employed the engineer Joseph Clement to build Difference Engine No. 1, but after disputes and costs of over £17,000 work stopped in 1833, leaving only a demonstration section of about 2,000 parts, which Babbage showed at his parties. Between 1847 and 1849 he designed a simpler and more elegant Difference Engine No. 2. Its plans lay unused until the Science Museum in London built it, completing the calculating section in 1991 for the bicentenary of Babbage's birth and the printer in 2002. It weighs about five tonnes, has some 8,000 parts and works exactly as he intended, proving that the design was sound. The Swedish engineers Georg and Edvard Scheutz built a working difference engine of their own in the 1850s.
 
 ### Analytical Engine (1834–1871)
+
+[![Analytical Engine](https://upload.wikimedia.org/wikipedia/commons/c/cc/Babbages_Analytical_Engine%2C_1834-1871._%289660574685%29.jpg)](https://commons.wikimedia.org/wiki/File:Babbages_Analytical_Engine%2C_1834-1871._%289660574685%29.jpg)
+
+<sub>Trial model of part of the Analytical Engine, Science Museum, London Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Babbages_Analytical_Engine%2C_1834-1871._%289660574685%29.jpg).</sub>
 
 - **Date:** 1834–1871
 - **Type:** Design for a mechanical general-purpose computer

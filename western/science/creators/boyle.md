@@ -1,10 +1,14 @@
 # Robert Boyle
 
+<a href="https://commons.wikimedia.org/wiki/File:The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg/330px-The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg" alt="Robert Boyle" title="Johann Kerseboom, the 'Shannon portrait' of Robert Boyle"></a>
+
 **1627 – 1691** · Anglo-Irish  
 Born: Lismore Castle, County Waterford, Ireland · Died: London  
 Eras & fields: [Scientific Revolution](../movements/scientific-revolution.md)  
 
 > Natural philosopher and founder member of the Royal Society who made chemistry an experimental science and discovered the law relating the pressure and volume of a gas.
+
+<sub>Portrait: Johann Kerseboom, the 'Shannon portrait' of Robert Boyle · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ With Hooke's improved air pump Boyle carried out a famous series of experiments 
 
 ### New Experiments Physico-Mechanical, Touching the Spring of the Air (1660; 2nd ed. 1662)
 
+[![New Experiments Physico-Mechanical, Touching the Spring of the Air](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Boyle%27s_first_air_pump._Wellcome_M0010676.jpg/1280px-Boyle%27s_first_air_pump._Wellcome_M0010676.jpg)](https://commons.wikimedia.org/wiki/File:Boyle%27s_first_air_pump._Wellcome_M0010676.jpg)
+
+<sub>Boyle's first air pump Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Boyle%27s_first_air_pump._Wellcome_M0010676.jpg).</sub>
+
 - **Date:** 1660; 2nd ed. 1662
 - **Type:** Experimental report
 - **Published / where:** Oxford: H. Hall for Thomas Robinson
@@ -27,6 +35,10 @@ With Hooke's improved air pump Boyle carried out a famous series of experiments 
 In New Experiments, Boyle described 43 experiments made with an air pump designed with Robert Hooke, a glass globe from which air could be largely removed. He showed that sound does not travel through a vacuum, that a feather and a coin fall at the same rate, that candles go out and small animals die without air, and that the mercury in a barometer placed inside falls as the air is pumped out, confirming that air pressure supports it. The second edition of 1662, answering critics, included measurements with a J-shaped tube showing that the volume of trapped air varies inversely with the pressure on it, the relation now known as Boyle's law; it had also been found by Richard Towneley and Henry Power, and was independently published by Edme Mariotte in 1676. Boyle's detailed, circumstantial style of reporting, written so that readers could virtually witness the experiments, became a model for scientific writing.
 
 ### The Sceptical Chymist (1661)
+
+[![The Sceptical Chymist](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sceptical_chymist_1661_Boyle_Title_page_AQ18_%283%29.jpg/960px-Sceptical_chymist_1661_Boyle_Title_page_AQ18_%283%29.jpg)](https://commons.wikimedia.org/wiki/File:Sceptical_chymist_1661_Boyle_Title_page_AQ18_%283%29.jpg)
+
+<sub>Title page, 1661 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Sceptical_chymist_1661_Boyle_Title_page_AQ18_%283%29.jpg).</sub>
 
 - **Date:** 1661
 - **Type:** Chemical treatise (dialogue)

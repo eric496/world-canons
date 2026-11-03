@@ -1,10 +1,14 @@
 # Pierre-Simon Laplace
 
+<a href="https://commons.wikimedia.org/wiki/File:Laplace%2C_Pierre-Simon%2C_marquis_de.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Laplace%2C_Pierre-Simon%2C_marquis_de.jpg" alt="Pierre-Simon Laplace" title="Portrait of Pierre-Simon Laplace"></a>
+
 **1749 – 1827** · French  
 Born: Beaumont-en-Auge, Normandy · Died: Paris  
 Eras & fields: [Enlightenment chemistry & natural history](../movements/enlightenment-science.md)  
 
 > Mathematician and astronomer who showed the stability of the solar system under Newtonian gravity and made probability theory a tool of science.
+
+<sub>Portrait: Portrait of Pierre-Simon Laplace · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Laplace%2C_Pierre-Simon%2C_marquis_de.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ In his five-volume Celestial Mechanics he showed that the apparent irregularitie
 ## Key works & discoveries
 
 ### Traité de mécanique céleste (1799–1825)
+
+[![Traité de mécanique céleste](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Trait%C3%A9_de_m%C3%A9canique_c%C3%A9leste_%281798%29_%2814597824739%29.jpg/1280px-Trait%C3%A9_de_m%C3%A9canique_c%C3%A9leste_%281798%29_%2814597824739%29.jpg)](https://commons.wikimedia.org/wiki/File:Trait%C3%A9_de_m%C3%A9canique_c%C3%A9leste_%281798%29_%2814597824739%29.jpg)
+
+<sub>From the first volume of Mécanique céleste Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Trait%C3%A9_de_m%C3%A9canique_c%C3%A9leste_%281798%29_%2814597824739%29.jpg).</sub>
 
 - **Date:** 1799–1825
 - **Type:** Treatise on celestial mechanics

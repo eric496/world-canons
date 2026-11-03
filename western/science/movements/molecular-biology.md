@@ -18,7 +18,7 @@ Physicists and chemists turned to the question of how heredity works at the leve
 | Image | Year | Work / discovery | Scientist | Published / where |
 |---|---|---|---|---|
 | — | 1952 | **Photo 51** | [Rosalind Franklin](../creators/rosalind-franklin.md) | King's College London; published in Nature, 25 April 1953 |
-| — | 1953 | **Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid** | [James Watson](../creators/watson.md) | Nature, London, 25 April 1953 |
+| <a href="https://commons.wikimedia.org/wiki/File:DNA-structure-and-bases.png"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/DNA-structure-and-bases.png" width="140" alt="Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid"></a> | 1953 | **Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid** | [James Watson](../creators/watson.md) | Nature, London, 25 April 1953 |
 | — | 1958 | **On Protein Synthesis (the central dogma)** | [Francis Crick](../creators/crick.md) | Symposia of the Society for Experimental Biology, Cambridge |
 
 ---

@@ -1,10 +1,14 @@
 # James Clerk Maxwell
 
+<a href="https://commons.wikimedia.org/wiki/File:James_Clerk-Maxwell._Stipple_engraving_by_G._J._Stodart%2C_188_Wellcome_V0001155.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/James_Clerk-Maxwell._Stipple_engraving_by_G._J._Stodart%2C_188_Wellcome_V0001155.jpg/330px-James_Clerk-Maxwell._Stipple_engraving_by_G._J._Stodart%2C_188_Wellcome_V0001155.jpg" alt="James Clerk Maxwell" title="G. J. Stodart, stipple engraving of James Clerk Maxwell"></a>
+
 **1831 – 1879** · Scottish  
 Born: Edinburgh, Scotland · Died: Cambridge  
 Eras & fields: [Electromagnetism & classical physics](../movements/electromagnetism.md)  
 
 > Physicist who unified electricity, magnetism and light in a single theory, expressed in the equations that bear his name, and founded the statistical theory of gases.
+
+<sub>Portrait: G. J. Stodart, stipple engraving of James Clerk Maxwell · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:James_Clerk-Maxwell._Stipple_engraving_by_G._J._Stodart%2C_188_Wellcome_V0001155.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ Building on Faraday's lines of force, Maxwell developed a set of equations descr
 - [A Treatise on Electricity and Magnetism](#a-treatise-on-electricity-and-magnetism-1873) (1873)
 
 ### First colour photograph (tartan ribbon) (1861)
+
+[![First colour photograph (tartan ribbon)](https://upload.wikimedia.org/wikipedia/commons/7/7f/Tartan_Ribbon.jpg)](https://commons.wikimedia.org/wiki/File:Tartan_Ribbon.jpg)
+
+<sub>The tartan ribbon, projected by Maxwell in 1861 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Tartan_Ribbon.jpg).</sub>
 
 - **Date:** 1861
 - **Type:** Three-colour photographic demonstration

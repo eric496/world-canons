@@ -1,10 +1,14 @@
 # Alexander von Humboldt
 
+<a href="https://commons.wikimedia.org/wiki/File:Stieler%2C_Joseph_Karl_-_Alexander_von_Humboldt_-_1843.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Stieler%2C_Joseph_Karl_-_Alexander_von_Humboldt_-_1843.jpg" alt="Alexander von Humboldt" title="Joseph Karl Stieler, Alexander von Humboldt, 1843"></a>
+
 **1769 – 1859** · German  
 Born: Berlin, Prussia · Died: Berlin  
 Eras & fields: [Enlightenment chemistry & natural history](../movements/enlightenment-science.md)  
 
 > Naturalist and explorer whose travels in the Americas and vision of nature as a web of interconnections founded plant geography and inspired a generation of scientists, including Darwin.
+
+<sub>Portrait: Joseph Karl Stieler, Alexander von Humboldt, 1843 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stieler%2C_Joseph_Karl_-_Alexander_von_Humboldt_-_1843.jpg)</sub>
 
 ## Biography
 
@@ -27,6 +31,10 @@ Humboldt measured everything he could, from temperature and altitude to magnetis
 The Essai sur la géographie des plantes, written with Aimé Bonpland, was the first publication from Humboldt's American expedition. It is accompanied by a large engraved plate, the Tableau physique or Naturgemälde, showing a cross-section of the volcanoes Chimborazo and Cotopaxi in the Andes, with the names of plants written at the heights where they grow, and columns on either side giving, for each altitude, the temperature, air pressure, humidity, the blueness of the sky, the boiling point of water and other measurements. The plate showed at a glance how zones of vegetation are linked to climate and altitude, and how similar zones recur from the equator to the poles. It founded the science of plant geography, or biogeography, and expressed Humboldt's view of nature as an interconnected whole. In 1802 Humboldt and Bonpland had climbed to about 5,900 metres on Chimborazo, then believed the highest mountain on Earth, a record for decades.
 
 ### Kosmos (1845–1862)
+
+[![Kosmos](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Atlas_zu_Alex._v._Humboldts_kosmos_1851_%28139502973%29.jpg/1280px-Atlas_zu_Alex._v._Humboldts_kosmos_1851_%28139502973%29.jpg)](https://commons.wikimedia.org/wiki/File:Atlas_zu_Alex._v._Humboldts_kosmos_1851_%28139502973%29.jpg)
+
+<sub>Plate from the atlas to Humboldt's Kosmos, 1851 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Atlas_zu_Alex._v._Humboldts_kosmos_1851_%28139502973%29.jpg).</sub>
 
 - **Date:** 1845–1862
 - **Type:** Scientific survey in five volumes

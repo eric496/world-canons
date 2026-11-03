@@ -1,10 +1,14 @@
 # Andreas Vesalius
 
+<a href="https://commons.wikimedia.org/wiki/File:Andreae_Vesali_%28BM_1877%2C1013.1171%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Andreae_Vesali_%28BM_1877%2C1013.1171%29.jpg" alt="Andreas Vesalius" title="Woodcut portrait of Vesalius from the Fabrica, 1543"></a>
+
 **1514 – 1564** · Flemish  
 Born: Brussels, Habsburg Netherlands · Died: Zakynthos, Venetian Republic  
 Eras & fields: [Renaissance anatomy & astronomy](../movements/renaissance-science.md)  
 
 > Anatomist who founded modern human anatomy on dissection, correcting Galen in his magnificently illustrated Fabrica of 1543.
+
+<sub>Portrait: Woodcut portrait of Vesalius from the Fabrica, 1543 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Andreae_Vesali_%28BM_1877%2C1013.1171%29.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ By dissecting human bodies, Vesalius showed that many of Galen's descriptions we
 ## Key works & discoveries
 
 ### De humani corporis fabrica (1543)
+
+[![De humani corporis fabrica](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vesalius_Fabrica_fronticepiece.jpg/960px-Vesalius_Fabrica_fronticepiece.jpg)](https://commons.wikimedia.org/wiki/File:Vesalius_Fabrica_fronticepiece.jpg)
+
+<sub>Title page of the Fabrica, 1543, showing Vesalius dissecting before a crowd Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Vesalius_Fabrica_fronticepiece.jpg).</sub>
 
 - **Date:** 1543
 - **Type:** Anatomical atlas

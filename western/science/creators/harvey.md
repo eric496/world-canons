@@ -1,10 +1,14 @@
 # William Harvey
 
+<a href="https://commons.wikimedia.org/wiki/File:William_Harvey_2.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/4/42/William_Harvey_2.jpg" alt="William Harvey" title="Portrait of William Harvey"></a>
+
 **1578 – 1657** · English  
 Born: Folkestone, Kent · Died: Roehampton, Surrey  
 Eras & fields: [Scientific Revolution](../movements/scientific-revolution.md)  
 
 > Physician who demonstrated that the blood circulates continuously around the body, pumped by the heart. His work began modern physiology.
+
+<sub>Portrait: Portrait of William Harvey · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:William_Harvey_2.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Through dissection, vivisection of many animals and simple quantitative reasonin
 ## Key works & discoveries
 
 ### De motu cordis (1628)
+
+[![De motu cordis](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Illustrations_de_Exercitatio_anatomica_de_motu_cordis_et_sanguinis_in_animalibus..._-_%28Non_identifi%C3%A9%29_%3B_William_Harvey%2C_aut._du_texte_-_btv1b2100015j_%281_of_2%29.jpg/960px-thumbnail.jpg)](https://commons.wikimedia.org/wiki/File:Illustrations_de_Exercitatio_anatomica_de_motu_cordis_et_sanguinis_in_animalibus..._-_%28Non_identifi%C3%A9%29_%3B_William_Harvey%2C_aut._du_texte_-_btv1b2100015j_%281_of_2%29.jpg)
+
+<sub>Harvey's ligature experiments on the veins of the arm Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Illustrations_de_Exercitatio_anatomica_de_motu_cordis_et_sanguinis_in_animalibus..._-_%28Non_identifi%C3%A9%29_%3B_William_Harvey%2C_aut._du_texte_-_btv1b2100015j_%281_of_2%29.jpg).</sub>
 
 - **Date:** 1628
 - **Type:** Physiological treatise

@@ -1,10 +1,14 @@
 # Nicolaus Copernicus
 
+<a href="https://commons.wikimedia.org/wiki/File:Nikolaus_Kopernikus_MOT.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nikolaus_Kopernikus_MOT.jpg/330px-Nikolaus_Kopernikus_MOT.jpg" alt="Nicolaus Copernicus" title="Portrait of Copernicus, Toruń, c. 1580"></a>
+
 **1473 – 1543** · Polish  
 Born: Toruń, Royal Prussia, Kingdom of Poland · Died: Frombork, Royal Prussia  
 Eras & fields: [Renaissance anatomy & astronomy](../movements/renaissance-science.md)  
 
 > Astronomer and church administrator who proposed that the Earth and planets move around the Sun, the starting point of modern astronomy.
+
+<sub>Portrait: Portrait of Copernicus, Toruń, c. 1580 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nikolaus_Kopernikus_MOT.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ Around 1510 he circulated a short sketch of a Sun-centred system, but held back 
 
 ### Commentariolus (c. 1510–1514)
 
+[![Commentariolus](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Commentariolus_Wien_MS10530_Blatt_34.png/960px-Commentariolus_Wien_MS10530_Blatt_34.png)](https://commons.wikimedia.org/wiki/File:Commentariolus_Wien_MS10530_Blatt_34.png)
+
+<sub>Page of the Vienna manuscript of the Commentariolus Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Commentariolus_Wien_MS10530_Blatt_34.png).</sub>
+
 - **Date:** c. 1510–1514
 - **Type:** Manuscript treatise
 - **Published / where:** Circulated in manuscript; first printed Vienna, 1878
@@ -27,6 +35,10 @@ Around 1510 he circulated a short sketch of a Sun-centred system, but held back 
 The Commentariolus, Little Commentary, was a short text that Copernicus circulated among friends without a title or his name some time before 1514, when a Kraków professor listed it in his library. It sets out seven assumptions: that there is no single centre for all the celestial spheres, that the centre of the Earth is not the centre of the universe, that the Sun is near the centre of the planetary spheres, that the distance to the stars is immeasurably greater than that to the Sun, that the daily motion of the heavens is due to the Earth's rotation, that the Sun's apparent annual motion results from the Earth's orbit, and that the apparent backward loops of the planets are caused by the Earth's own motion. It then describes the models with small epicycles that would replace Ptolemy's equant. Only three manuscript copies are known, rediscovered in the nineteenth century.
 
 ### De revolutionibus orbium coelestium (1543)
+
+[![De revolutionibus orbium coelestium](https://upload.wikimedia.org/wikipedia/commons/6/6f/De_revolutionibus_1543.png)](https://commons.wikimedia.org/wiki/File:De_revolutionibus_1543.png)
+
+<sub>Title page of the first edition, 1543 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:De_revolutionibus_1543.png).</sub>
 
 - **Date:** 1543
 - **Type:** Astronomical treatise

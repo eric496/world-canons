@@ -1,10 +1,14 @@
 # Galileo Galilei
 
+<a href="https://commons.wikimedia.org/wiki/File:Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-960px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg" alt="Galileo Galilei" title="Portrait of Galileo after Justus Sustermans, Royal Museums Greenwich"></a>
+
 **1564 – 1642** · Italian  
 Born: Pisa, Duchy of Florence · Died: Arcetri, near Florence  
 Eras & fields: [Scientific Revolution](../movements/scientific-revolution.md)  
 
 > Mathematician, physicist and astronomer who turned the telescope on the heavens and founded the mathematical science of motion. His trial by the Inquisition made him a symbol of the conflict between science and authority.
+
+<sub>Portrait: Portrait of Galileo after Justus Sustermans, Royal Museums Greenwich · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff)</sub>
 
 ## Biography
 
@@ -21,6 +25,10 @@ Galileo insisted that the book of nature is written in the language of mathemati
 
 ### Galileo's telescopes (1609–1610)
 
+[![Galileo's telescopes](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Galilei_telescopes%2C_Museo_Galileo%2C_Florence%2C_Inv._242%2C_2428%2C_224088.jpg/1280px-Galilei_telescopes%2C_Museo_Galileo%2C_Florence%2C_Inv._242%2C_2428%2C_224088.jpg)](https://commons.wikimedia.org/wiki/File:Galilei_telescopes%2C_Museo_Galileo%2C_Florence%2C_Inv._242%2C_2428%2C_224088.jpg)
+
+<sub>Galileo's two surviving telescopes, Museo Galileo, Florence Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Galilei_telescopes%2C_Museo_Galileo%2C_Florence%2C_Inv._242%2C_2428%2C_224088.jpg).</sub>
+
 - **Date:** 1609–1610
 - **Type:** Scientific instrument
 - **Published / where:** Museo Galileo, Florence
@@ -29,6 +37,10 @@ Galileo insisted that the book of nature is written in the language of mathemati
 Hearing in 1609 of a Dutch spyglass that made distant objects appear near, Galileo worked out its principle and ground his own lenses in Padua, quickly improving the magnification from three to about twenty times. A convex objective lens and a concave eyepiece gave an upright image with a small field of view. He presented one to the Venetian Senate for its value at sea and in war, winning a salary increase, and then turned the instrument to the sky. Two of his telescopes survive in the Museo Galileo in Florence, one covered in paper and one in leather, together with the cracked objective lens of the instrument with which he discovered the moons of Jupiter. They are modest tubes of wood and paper about a metre long, but with them he discovered the mountains of the Moon, the moons of Jupiter, the phases of Venus, sunspots and the countless stars of the Milky Way.
 
 ### Sidereus Nuncius (1610)
+
+[![Sidereus Nuncius](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Houghton_IC6.G1333.610sa_-_Sidereus_nuncius.jpg/960px-Houghton_IC6.G1333.610sa_-_Sidereus_nuncius.jpg)](https://commons.wikimedia.org/wiki/File:Houghton_IC6.G1333.610sa_-_Sidereus_nuncius.jpg)
+
+<sub>Title page, 1610, Houghton Library Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Houghton_IC6.G1333.610sa_-_Sidereus_nuncius.jpg).</sub>
 
 - **Date:** 1610
 - **Type:** Astronomical pamphlet
@@ -39,6 +51,10 @@ Sidereus Nuncius was a short Latin pamphlet printed in March 1610, a few weeks a
 
 ### Dialogue Concerning the Two Chief World Systems (1632)
 
+[![Dialogue Concerning the Two Chief World Systems](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Galileos_Dialogue_Title_Page.png/1280px-Galileos_Dialogue_Title_Page.png)](https://commons.wikimedia.org/wiki/File:Galileos_Dialogue_Title_Page.png)
+
+<sub>Title page, 1632 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Galileos_Dialogue_Title_Page.png).</sub>
+
 - **Date:** 1632
 - **Type:** Dialogue
 - **Published / where:** Florence: Giovanni Battista Landini
@@ -47,6 +63,10 @@ Sidereus Nuncius was a short Latin pamphlet printed in March 1610, a few weeks a
 Written in Italian for a broad readership, the Dialogue presents four days of conversation in Venice between Salviati, who speaks for Galileo and Copernicus, Simplicio, a follower of Aristotle, and Sagredo, an intelligent layman. They examine Aristotle's arguments for an unchanging heaven and a stationary Earth, the evidence of the telescope and the problem of why we do not feel the Earth move, which Galileo answered with a principle of relativity of motion illustrated by a ship's cabin. In the final day Galileo presented his theory that the tides prove the Earth's motion, an argument that was wrong. Although the book had been licensed by the censors, it was taken as a clear defence of Copernicanism, and putting a favourite argument of Pope Urban VIII into the mouth of Simplicio was seen as an insult. Galileo was tried by the Inquisition in 1633, and the book was placed on the Index of Prohibited Books, where it remained until 1835.
 
 ### Two New Sciences (1638)
+
+[![Two New Sciences](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Galileo_Galilei%2C_Discorsi_e_Dimostrazioni_Matematiche_Intorno_a_Due_Nuove_Scienze%2C_1638_%281400x1400%29.png/1280px-Galileo_Galilei%2C_Discorsi_e_Dimostrazioni_Matematiche_Intorno_a_Due_Nuove_Scienze%2C_1638_%281400x1400%29.png)](https://commons.wikimedia.org/wiki/File:Galileo_Galilei%2C_Discorsi_e_Dimostrazioni_Matematiche_Intorno_a_Due_Nuove_Scienze%2C_1638_%281400x1400%29.png)
+
+<sub>Title page, Leiden, 1638 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Galileo_Galilei%2C_Discorsi_e_Dimostrazioni_Matematiche_Intorno_a_Due_Nuove_Scienze%2C_1638_%281400x1400%29.png).</sub>
 
 - **Date:** 1638
 - **Type:** Treatise on mechanics

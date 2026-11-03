@@ -1,10 +1,14 @@
 # John Harrison
 
+<a href="https://commons.wikimedia.org/wiki/File:John_Harrison_%28Gem%C3%A4lde%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/John_Harrison_%28Gem%C3%A4lde%29.jpg/330px-John_Harrison_%28Gem%C3%A4lde%29.jpg" alt="John Harrison" title="Thomas King, portrait of John Harrison"></a>
+
 **1693 – 1776** · English  
 Born: Foulby, Yorkshire · Died: London  
 Eras & fields: [The Newtonian age](../movements/newtonian-age.md)  
 
 > Self-taught carpenter and clockmaker who solved the problem of finding longitude at sea with a series of precision marine timekeepers.
+
+<sub>Portrait: Thomas King, portrait of John Harrison · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Harrison_%28Gem%C3%A4lde%29.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Over some thirty years he built three large sea clocks, H1 to H3, and then the l
 ## Key works & discoveries
 
 ### Marine chronometer H4 (1759)
+
+[![Marine chronometer H4](https://upload.wikimedia.org/wikipedia/commons/0/0d/Harrison_H4_chronometer.jpg)](https://commons.wikimedia.org/wiki/File:Harrison_H4_chronometer.jpg)
+
+<sub>H4, National Maritime Museum, Greenwich Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Harrison_H4_chronometer.jpg).</sub>
 
 - **Date:** 1759
 - **Type:** Marine timekeeper

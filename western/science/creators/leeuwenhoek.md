@@ -1,10 +1,14 @@
 # Antonie van Leeuwenhoek
 
+<a href="https://commons.wikimedia.org/wiki/File:Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg/330px-Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg" alt="Antonie van Leeuwenhoek" title="Jan Verkolje, Antonie van Leeuwenhoek, Rijksmuseum, Amsterdam"></a>
+
 **1632 – 1723** · Dutch  
 Born: Delft, Dutch Republic · Died: Delft  
 Eras & fields: [Scientific Revolution](../movements/scientific-revolution.md)  
 
 > Delft cloth merchant who made the finest single-lens microscopes of his age and was the first to see bacteria, protozoa and sperm cells.
+
+<sub>Portrait: Jan Verkolje, Antonie van Leeuwenhoek, Rijksmuseum, Amsterdam · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg)</sub>
 
 ## Biography
 

@@ -1,10 +1,14 @@
 # Pierre de Fermat
 
+<a href="https://commons.wikimedia.org/wiki/File:Pierre_de_Fermat.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Pierre_de_Fermat.jpg" alt="Pierre de Fermat" title="Portrait of Pierre de Fermat"></a>
+
 **1601 – 1665** · French  
 Born: Beaumont-de-Lomagne, France · Died: Castres, France  
 Eras & fields: [Scientific Revolution](../movements/scientific-revolution.md)  
 
 > Lawyer and amateur mathematician who founded modern number theory, invented analytic geometry independently of Descartes and helped create probability theory and calculus.
+
+<sub>Portrait: Portrait of Pierre de Fermat · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pierre_de_Fermat.jpg)</sub>
 
 ## Biography
 
@@ -18,6 +22,10 @@ Fermat developed a method of finding maxima, minima and tangents that anticipate
 - [Correspondence with Pascal on probability](#correspondence-with-pascal-on-probability-1654) (1654)
 
 ### Fermat's Last Theorem (marginal note) (c. 1637; published 1670)
+
+[![Fermat's Last Theorem (marginal note)](https://upload.wikimedia.org/wikipedia/commons/4/47/Diophantus-II-8-Fermat.jpg)](https://commons.wikimedia.org/wiki/File:Diophantus-II-8-Fermat.jpg)
+
+<sub>Problem II.8 in the 1670 edition of Diophantus, with Fermat's note Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Diophantus-II-8-Fermat.jpg).</sub>
 
 - **Date:** c. 1637; published 1670
 - **Type:** Mathematical conjecture

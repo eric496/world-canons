@@ -1,10 +1,14 @@
 # Christiaan Huygens
 
+<a href="https://commons.wikimedia.org/wiki/File:Caspar_Netscher_-_Christiaan_Huygens%2C_the_astronomer%2C_1671.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Caspar_Netscher_-_Christiaan_Huygens%2C_the_astronomer%2C_1671.jpg/330px-Caspar_Netscher_-_Christiaan_Huygens%2C_the_astronomer%2C_1671.jpg" alt="Christiaan Huygens" title="Caspar Netscher, Christiaan Huygens, 1671"></a>
+
 **1629 – 1695** · Dutch  
 Born: The Hague, Dutch Republic · Died: The Hague  
 Eras & fields: [Scientific Revolution](../movements/scientific-revolution.md)  
 
 > Mathematician, astronomer and physicist who invented the pendulum clock, discovered Saturn's ring and its moon Titan and developed the wave theory of light.
+
+<sub>Portrait: Caspar Netscher, Christiaan Huygens, 1671 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caspar_Netscher_-_Christiaan_Huygens%2C_the_astronomer%2C_1671.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ Huygens patented the pendulum clock in 1657, the first accurate timekeeper, and 
 
 ### Horologium Oscillatorium (1673)
 
+[![Horologium Oscillatorium](https://upload.wikimedia.org/wikipedia/commons/1/13/Huygens_horologium.jpg)](https://commons.wikimedia.org/wiki/File:Huygens_horologium.jpg)
+
+<sub>Huygens's pendulum clock, from Horologium Oscillatorium Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Huygens_horologium.jpg).</sub>
+
 - **Date:** 1673
 - **Type:** Treatise on clocks and mechanics
 - **Published / where:** Paris: F. Muguet
@@ -27,6 +35,10 @@ Huygens patented the pendulum clock in 1657, the first accurate timekeeper, and 
 Huygens built the first pendulum clock in 1656 and had it made by the clockmaker Salomon Coster in The Hague, reducing the error of the best clocks from about fifteen minutes to well under a minute a day. In Horologium Oscillatorium, published in Paris and dedicated to Louis XIV, he described improved clocks and provided their mathematical theory. He showed that a pendulum swinging in a circular arc is not exactly regular, but one swinging along a cycloid is, and he showed how to make it follow that curve with curved metal cheeks. On the way he developed the theory of evolutes of curves, found the formula for the period of a pendulum, analysed the compound pendulum and stated the laws of centrifugal force. The book was one of the most important works of mechanics before Newton's Principia, which owed much to it.
 
 ### Treatise on Light (1690)
+
+[![Treatise on Light](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Web_Huygens690.jpg/960px-Web_Huygens690.jpg)](https://commons.wikimedia.org/wiki/File:Web_Huygens690.jpg)
+
+<sub>Title page, 1690 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Web_Huygens690.jpg).</sub>
 
 - **Date:** 1690
 - **Type:** Treatise on optics

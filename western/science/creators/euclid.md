@@ -1,10 +1,14 @@
 # Euclid of Alexandria
 
+<a href="https://commons.wikimedia.org/wiki/File:Italian_-_Euclid_-_Google_Art_Project.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Italian_-_Euclid_-_Google_Art_Project.jpg/330px-Italian_-_Euclid_-_Google_Art_Project.jpg" alt="Euclid of Alexandria" title="Imagined portrait of Euclid, 15th-century Italian painting"></a>
+
 **fl. c. 300 BC** · Greek  
 Born:  · Died: Alexandria (presumed)  
 Eras & fields: [Hellenistic science & mathematics](../movements/hellenistic-science.md)  
 
 > Mathematician of Alexandria whose Elements set out geometry and number theory as a chain of proofs from a few definitions and axioms. It became the most influential mathematics textbook ever written.
+
+<sub>Portrait: Imagined portrait of Euclid, 15th-century Italian painting · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Italian_-_Euclid_-_Google_Art_Project.jpg)</sub>
 
 ## Biography
 
@@ -15,6 +19,10 @@ Besides the Elements, works on optics, astronomy, music and conic sections are a
 ## Key works & discoveries
 
 ### Elements (c. 300 BC)
+
+[![Elements](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/P.Penn._Museum_inv._E02748_Euclid%27s_Elements_2.5.jpg/1280px-P.Penn._Museum_inv._E02748_Euclid%27s_Elements_2.5.jpg)](https://commons.wikimedia.org/wiki/File:P.Penn._Museum_inv._E02748_Euclid%27s_Elements_2.5.jpg)
+
+<sub>Papyrus fragment from Oxyrhynchus with a diagram from Book II of the Elements Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:P.Penn._Museum_inv._E02748_Euclid%27s_Elements_2.5.jpg).</sub>
 
 - **Date:** c. 300 BC
 - **Type:** Mathematical treatise

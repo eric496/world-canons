@@ -1,8 +1,12 @@
 # Science
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vesalius_Fabrica_fronticepiece.jpg/960px-Vesalius_Fabrica_fronticepiece.jpg" width="100%" alt="Science">
+
+<sub>Title page of Andreas Vesalius, De humani corporis fabrica, Basel, 1543 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vesalius_Fabrica_fronticepiece.jpg)</sub>
+
 Western science, mathematics and medicine from the first Greek attempts to explain nature without the gods to the double helix and the stored-program computer, told through the people and their landmark books, papers, experiments and instruments. Islamic, Indian and Chinese learning appears where it fed directly into the European story, mostly through translation; those traditions will have sections of their own. Pictures are first editions, manuscripts, plates, diagrams and surviving instruments from Wikimedia Commons, and portraits are paintings, drawings, engravings or sculpture only, never photographs.
 
-**79 scientists** · **120 works & discoveries** (0 with images) · **20 eras & fields** · 0 portraits
+**79 scientists** · **120 works & discoveries** (88 with images) · **20 eras & fields** · 46 portraits
 
 ## Browse
 
@@ -11,6 +15,7 @@ Western science, mathematics and medicine from the first Greek attempts to expla
 | [**Eras & fields**](#eras--fields) | Each era / field in order, with its people and key works & discoveries |
 | [**Scientists**](CREATORS.md) | Everyone, by date of birth, with a page each |
 | [**Timeline**](TIMELINE.md) | Every work / discovery in chronological order |
+| [**Gallery**](GALLERY.md) | All the pictures on one page |
 | [`data/`](data/) | The same information as JSON and CSV |
 
 ## Eras & fields

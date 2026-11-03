@@ -1,11 +1,15 @@
 # René Descartes
 
+<a href="https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg" alt="René Descartes" title="After Frans Hals, portrait of René Descartes"></a>
+
 **1596 – 1650** · French  
 Born: La Haye en Touraine, France · Died: Stockholm, Sweden  
 Eras & fields: [Scientific Revolution](../movements/scientific-revolution.md)  
 Also in: [Philosophy](../../philosophy/eras/03-early-modern/rene-descartes.md)  
 
 > Philosopher and mathematician who joined algebra and geometry in analytic geometry and proposed a mechanical picture of the whole physical world.
+
+<sub>Portrait: After Frans Hals, portrait of René Descartes · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg)</sub>
 
 ## Biography
 
@@ -16,6 +20,10 @@ His Discourse on Method of 1637 was published with three scientific essays, on o
 ## Key works & discoveries
 
 ### La Géométrie (1637)
+
+[![La Géométrie](https://upload.wikimedia.org/wikipedia/commons/3/35/GeometryDescartes.JPG)](https://commons.wikimedia.org/wiki/File:GeometryDescartes.JPG)
+
+<sub>Opening page of La Géométrie, 1637 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:GeometryDescartes.JPG).</sub>
 
 - **Date:** 1637
 - **Type:** Mathematical treatise

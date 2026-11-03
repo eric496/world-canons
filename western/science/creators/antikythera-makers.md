@@ -15,6 +15,10 @@ Whoever they were, they combined Babylonian cycles, Greek geometrical astronomy 
 
 ### Antikythera mechanism (c. 150–60 BC)
 
+[![Antikythera mechanism](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antikythera_Fragment_A_%28Front%29.webp/1280px-Antikythera_Fragment_A_%28Front%29.webp)](https://commons.wikimedia.org/wiki/File:Antikythera_Fragment_A_%28Front%29.webp)
+
+<sub>Fragment A of the mechanism, National Archaeological Museum, Athens Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Antikythera_Fragment_A_%28Front%29.webp).</sub>
+
 - **Date:** c. 150–60 BC
 - **Type:** Geared astronomical calculator (bronze)
 - **Published / where:** National Archaeological Museum, Athens

@@ -1,10 +1,14 @@
 # Isaac Newton
 
+<a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/330px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg" alt="Isaac Newton" title="Godfrey Kneller, portrait of Isaac Newton, 1689"></a>
+
 **1643 – 1727** · English  
 Born: Woolsthorpe, Lincolnshire · Died: Kensington, London  
 Eras & fields: [The Newtonian age](../movements/newtonian-age.md)  
 
 > Mathematician and physicist who discovered the laws of motion and universal gravitation, invented calculus independently of Leibniz and showed that white light is a mixture of colours.
+
+<sub>Portrait: Godfrey Kneller, portrait of Isaac Newton, 1689 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg)</sub>
 
 ## Biography
 
@@ -20,6 +24,10 @@ Newton's Principia of 1687 set out three laws of motion and a law of universal g
 
 ### Newton's reflecting telescope (1668)
 
+[![Newton's reflecting telescope](https://upload.wikimedia.org/wikipedia/commons/d/db/Newton_telescope_replica_1668.jpg)](https://commons.wikimedia.org/wiki/File:Newton_telescope_replica_1668.jpg)
+
+<sub>Replica of Newton's reflecting telescope of 1668 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Newton_telescope_replica_1668.jpg).</sub>
+
 - **Date:** 1668
 - **Type:** Scientific instrument
 - **Published / where:** Replica at the Royal Society, London
@@ -29,6 +37,10 @@ Newton's studies of colour convinced him that lens telescopes could never be fre
 
 ### Philosophiæ Naturalis Principia Mathematica (1687)
 
+[![Philosophiæ Naturalis Principia Mathematica](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Newton%27s_Principia_title_page.png/960px-Newton%27s_Principia_title_page.png)](https://commons.wikimedia.org/wiki/File:Newton%27s_Principia_title_page.png)
+
+<sub>Title page of the first edition, 1687 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Newton%27s_Principia_title_page.png).</sub>
+
 - **Date:** 1687
 - **Type:** Treatise on mechanics and gravitation
 - **Published / where:** London: Joseph Streater for the Royal Society
@@ -37,6 +49,10 @@ Newton's studies of colour convinced him that lens telescopes could never be fre
 The Principia grew out of a visit by Edmond Halley to Cambridge in 1684 to ask Newton what orbit a planet would follow under a force decreasing with the square of distance; Newton replied that it would be an ellipse and spent the next two years writing the book, which Halley edited and paid to have printed. It opens with definitions and three laws of motion, including the law of inertia and the relation between force and change of motion. Book I develops the mathematics of motion under central forces, Book II treats motion in resisting media and refutes Descartes's vortices, and Book III, The System of the World, shows that a single universal gravitation, acting between all bodies in proportion to their masses and inversely as the square of their distance, explains Kepler's laws, the motions of the Moon and comets, the tides and the flattening of the Earth. Written largely in the language of geometry, it was hard reading, but it became the foundation of physics for two centuries. Revised editions appeared in 1713 and 1726.
 
 ### Opticks (1704)
+
+[![Opticks](https://upload.wikimedia.org/wikipedia/commons/a/a0/Opticks.jpg)](https://commons.wikimedia.org/wiki/File:Opticks.jpg)
+
+<sub>Title page of the first edition, 1704 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Opticks.jpg).</sub>
 
 - **Date:** 1704
 - **Type:** Treatise on light and colour

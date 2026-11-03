@@ -1,10 +1,14 @@
 # Claudius Ptolemy
 
+<a href="https://commons.wikimedia.org/wiki/File:Ptolemy_1476_with_armillary_sphere_model.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ptolemy_1476_with_armillary_sphere_model.jpg/330px-Ptolemy_1476_with_armillary_sphere_model.jpg" alt="Claudius Ptolemy" title="Justus van Gent and Pedro Berruguete, imagined portrait of Ptolemy with an armillary sphere, c. 1476"></a>
+
 **c. AD 100 – c. AD 170** · Greco-Roman Egyptian  
 Born: Egypt (probably) · Died: Alexandria (probably)  
 Eras & fields: [Roman & late-antique science](../movements/roman-science.md)  
 
 > Alexandrian astronomer, mathematician and geographer whose Almagest gave the definitive Earth-centred model of the universe, unchallenged for fourteen hundred years.
+
+<sub>Portrait: Justus van Gent and Pedro Berruguete, imagined portrait of Ptolemy with an armillary sphere, c. 1476 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ptolemy_1476_with_armillary_sphere_model.jpg)</sub>
 
 ## Biography
 
@@ -19,6 +23,10 @@ His Almagest was a complete mathematical astronomy that explained the motions of
 
 ### Almagest (c. 150)
 
+[![Almagest](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Claudius_Ptolemaeus%2C_Almagestum%2C_1515.djvu/page1-960px-Claudius_Ptolemaeus%2C_Almagestum%2C_1515.djvu.jpg)](https://commons.wikimedia.org/wiki/File:Claudius_Ptolemaeus%2C_Almagestum%2C_1515.djvu)
+
+<sub>Latin edition of the Almagest, 1515 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Claudius_Ptolemaeus%2C_Almagestum%2C_1515.djvu).</sub>
+
 - **Date:** c. 150
 - **Type:** Astronomical treatise
 - **Published / where:** Alexandria; Latin translation from Arabic by Gerard of Cremona, Toledo, 1175
@@ -27,6 +35,10 @@ His Almagest was a complete mathematical astronomy that explained the motions of
 Ptolemy called his thirteen-book treatise the Mathematical Syntaxis; Arabic translators knew it as al-majisti, the greatest, from which comes Almagest. Starting from the arguments that the heavens are spherical and the Earth stationary at the centre, it develops the trigonometry required, then constructs geometrical models for the Sun, the Moon, eclipses and each of the five planets, using eccentric circles, epicycles and the equant, a point from which a planet's motion appears uniform. It includes a catalogue of 1,022 stars in 48 constellations, largely based on Hipparchus. The models predicted positions well enough for practical astronomy and astrology for over a thousand years. Translated into Arabic in the ninth century and corrected by astronomers such as al-Battani, it reached Latin Europe through Gerard of Cremona's translation in Toledo. Copernicus, though he moved the Sun to the centre, followed its structure closely in De revolutionibus.
 
 ### Geography (c. 150)
+
+[![Geography](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burney_MS_111_f105v-f106r_Ptolemy%27s_World_Map_1420_crop_01.jpg/1280px-Burney_MS_111_f105v-f106r_Ptolemy%27s_World_Map_1420_crop_01.jpg)](https://commons.wikimedia.org/wiki/File:Burney_MS_111_f105v-f106r_Ptolemy%27s_World_Map_1420_crop_01.jpg)
+
+<sub>World map from a 15th-century manuscript of the Geography, British Library Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Burney_MS_111_f105v-f106r_Ptolemy%27s_World_Map_1420_crop_01.jpg).</sub>
 
 - **Date:** c. 150
 - **Type:** Geographical treatise with world map

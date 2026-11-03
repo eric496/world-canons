@@ -16,6 +16,10 @@ Starting from problems about trigonometric series, Cantor developed a theory of 
 
 ### Cantor's diagonal argument and the theory of transfinite numbers (1874–1897)
 
+[![Cantor's diagonal argument and the theory of transfinite numbers](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Diagonal_argument_01.svg/960px-Diagonal_argument_01.svg.png)](https://commons.wikimedia.org/wiki/File:Diagonal_argument_01.svg)
+
+<sub>Diagram of the diagonal argument Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Diagonal_argument_01.svg).</sub>
+
 - **Date:** 1874–1897
 - **Type:** Mathematical papers
 - **Published / where:** Journal für die reine und angewandte Mathematik; Jahresbericht der Deutschen Mathematiker-Vereinigung, 1891
