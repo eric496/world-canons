@@ -1,0 +1,116 @@
+# Progress Tracker
+
+Tick each figure off as you read the entry and its "read first" work. Order follows the master index (chronological), not the learning path — for the study order use `learning-path.md`.
+
+- [ ] **Thales** (c.624–c.546 BCE) — archē, natural explanation
+- [ ] **Pythagoras** (c.570–c.495 BCE) — Number, harmony, soul
+- [ ] **Heraclitus** (c.540–c.480 BCE) — Flux, logos
+- [ ] **Parmenides** (b. c.515 BCE) — Being, deductive argument
+- [ ] **Zeno of Elea** (c.490–c.430 BCE) — Paradoxes of motion and plurality
+- [ ] **Empedocles** (c.494–c.434 BCE) — Four roots, Love and Strife
+- [ ] **Democritus** (c.460–c.370 BCE) — Atoms and void
+- [ ] **Protagoras (with Gorgias)** (c.490–c.420 BCE) — Man the measure, relativism; Gorgias: *Encomium of Helen*
+- [ ] **Socrates** (470–399 BCE) — Elenchus, virtue is knowledge
+- [ ] **Plato** (428/427–348/347 BCE) — Forms, Cave, philosopher-kings
+- [ ] **Aristotle** (384–322 BCE) — Four causes, virtue, eudaimonia
+- [ ] **Diogenes** (c.412–323 BCE) — Autarkeia, life by nature
+- [ ] **Pyrrho** (c.360–c.270 BCE) — Epochē, suspension of judgment
+- [ ] **Epicurus** (341–270 BCE) — Ataraxia, tetrapharmakos
+- [ ] **Zeno of Citium** (c.334–c.262 BCE) — Logos, indifferents, virtue
+- [ ] **Seneca** (c.4 BCE–65 CE) — Time, anger, providence
+- [ ] **Epictetus** (c.50–c.135 CE) — Dichotomy of control
+- [ ] **Marcus Aurelius** (121–180 CE) — Memento mori, view from above
+- [ ] **Plotinus** (204/205–270 CE) — The One, emanation
+- [ ] **Augustine** (354–430) — Evil as privation, time, grace
+- [ ] **Boethius** (c.477–524) — Consolation, universals problem
+- [ ] **John Scotus Eriugena** (c.800–c.877) — Division of nature, negative theology
+- [ ] **Avicenna** (980–1037) — Necessary Existent, Flying Man
+- [ ] **Anselm** (1033–1109) — Ontological argument
+- [ ] **Abelard** (1079–1142) — Intention, conceptualism
+- [ ] **Hildegard of Bingen** (1098–1179) — Viriditas, visionary cosmology
+- [ ] **Averroes** (1126–1198) — Commentary, harmony of faith/reason
+- [ ] **Maimonides** (c.1138–1204) — Negative theology
+- [ ] **Aquinas** (1225–1274) — Five Ways, natural law
+- [ ] **Duns Scotus** (c.1266–1308) — Univocity, haecceity
+- [ ] **Ockham** (c.1287–1347) — Razor, nominalism
+- [ ] **Nicholas of Cusa** (1401–1464) — Learned ignorance, coincidence of opposites
+- [ ] **Machiavelli** (1469–1527) — Effectual truth, virtù/fortuna
+- [ ] **Michel de Montaigne** (1533–1592) — "Que sçay-je?", the essay, custom
+- [ ] **Bacon** (1561–1626) — Idols, induction
+- [ ] **Hobbes** (1588–1679) — State of nature, Leviathan
+- [ ] **Descartes** (1596–1650) — Cogito, dualism, doubt
+- [ ] **Blaise Pascal** (1623–1662) — Wager, diversion, limits of reason
+- [ ] **Spinoza** (1632–1677) — One substance, Deus sive Natura
+- [ ] **Locke** (1632–1704) — White paper (no innate ideas), rights, toleration
+- [ ] **Leibniz** (1646–1716) — Monads, sufficient reason
+- [ ] **Giambattista Vico** (1668–1744) — Verum factum, three ages, corsi e ricorsi
+- [ ] **Berkeley** (1685–1753) — Esse est percipi
+- [ ] **Montesquieu** (1689–1755) — Separation of powers, spirit of the laws
+- [ ] **Émilie du Châtelet** (1706–1749) — Hypotheses, vis viva
+- [ ] **Hume** (1711–1776) — Induction, causation, is–ought
+- [ ] **Rousseau** (1712–1778) — General will, natural goodness
+- [ ] **Diderot** (1713–1784) — Encyclopédie, materialism
+- [ ] **Adam Smith** (1723–1790) — Sympathy, impartial spectator
+- [ ] **Kant** (1724–1804) — Categories, categorical imperative
+- [ ] **Lessing** (1729–1781) — Ring parable, "ugly broad ditch", Laocoön
+- [ ] **Mary Wollstonecraft** (1759–1797) — Rights of woman, education
+- [ ] **Bentham** (1748–1832) — Utility principle
+- [ ] **Johann Gottlieb Fichte** (1762–1814) — Self-positing I, striving
+- [ ] **Schleiermacher** (1768–1834) — Hermeneutics, feeling of absolute dependence
+- [ ] **Hegel** (1770–1831) — Dialectic, recognition, Geist
+- [ ] **Schelling** (1775–1854) — Naturphilosophie, identity philosophy
+- [ ] **Schopenhauer** (1788–1860) — Will, suffering, compassion
+- [ ] **Auguste Comte** (1798–1857) — Law of three stages, positivism
+- [ ] **Emerson & Thoreau** (1803–1882 / 1817–1862) — Self-reliance, civil disobedience
+- [ ] **Alexis de Tocqueville** (1805–1859) — Tyranny of the majority, soft despotism
+- [ ] **Mill** (1806–1873) — Harm principle
+- [ ] **Harriet Taylor Mill** (1807–1858) — Enfranchisement of women
+- [ ] **Kierkegaard** (1813–1855) — Stages, anxiety, subjective truth
+- [ ] **Marx** (1818–1883) — Alienation, surplus value, ideology
+- [ ] **Franz Brentano** (1838–1917) — Intentionality
+- [ ] **Henry Sidgwick** (1838–1900) — Methods of ethics, dualism of practical reason
+- [ ] **Peirce** (1839–1914) — Pragmatic maxim
+- [ ] **James** (1842–1910) — Truth as verified, will to believe
+- [ ] **Nietzsche** (1844–1900) — God is dead, slave morality, recurrence
+- [ ] **Frege** (1848–1925) — Sense/reference, predicate logic
+- [ ] **John Dewey** (1859–1952) — Inquiry, education as growth
+- [ ] **Husserl** (1859–1938) — Intentionality, lifeworld
+- [ ] **Henri Bergson** (1859–1941) — Duration, intuition, élan vital
+- [ ] **Alfred North Whitehead** (1861–1947) — Actual occasions, prehension, misplaced concreteness
+- [ ] **Russell** (1872–1970) — Descriptions, logical atomism
+- [ ] **G. E. Moore** (1873–1958) — Open-question argument, common sense
+- [ ] **Karl Jaspers** (1883–1969) — Boundary situations, the Encompassing, Axial Age
+- [ ] **Wittgenstein** (1889–1951) — Picture theory → language-games
+- [ ] **Heidegger** (1889–1976) — Being, Dasein, authenticity
+- [ ] **Susanne Langer** (1895–1985) — Presentational symbols, feeling and form
+- [ ] **Leo Strauss** (1899–1973) — Esoteric writing, ancients vs moderns
+- [ ] **Gilbert Ryle** (1900–1976) — Category mistakes, knowing-how
+- [ ] **Hans-Georg Gadamer** (1900–2002) — Fusion of horizons, prejudice
+- [ ] **Popper** (1902–1994) — Falsifiability, open society
+- [ ] **Thomas Kuhn** (1922–1996) — Paradigms, scientific revolutions
+- [ ] **(School entry) Vienna Circle** (1924–1936) — Verification principle
+- [ ] **Sartre** (1905–1980) — Bad faith, radical freedom
+- [ ] **Arendt** (1906–1975) — Action, banality of evil
+- [ ] **Emmanuel Levinas** (1906–1995) — The Face, ethics as first philosophy
+- [ ] **Beauvoir** (1908–1986) — The Other, situated freedom
+- [ ] **Simone Weil** (1909–1943) — Attention, affliction (malheur)
+- [ ] **Maurice Merleau-Ponty** (1908–1961) — Embodied perception, body-subject
+- [ ] **Quine** (1908–2000) — Web of belief, two dogmas
+- [ ] **Paul Ricoeur** (1913–2005) — Narrative identity, idem/ipse
+- [ ] **Adorno** (1903–1969) — Culture industry, negative dialectics
+- [ ] **Horkheimer** (1895–1973) — Critical vs traditional theory
+- [ ] **Habermas** (b. 1929) — Communicative action, public sphere
+- [ ] **Anscombe & Foot** (1919–2001 / 1920–2010) — Intention, natural goodness, tram problem
+- [ ] **Iris Murdoch** (1919–1999) — Attention, unselfing, the Good
+- [ ] **Mary Midgley** (1919–2018) — Human nature, anti-reductionism
+- [ ] **Rawls** (1921–2002) — Veil of ignorance, difference principle
+- [ ] **Foucault** (1926–1984) — Power/knowledge, discipline
+- [ ] **Alasdair MacIntyre** (1929–2025) — Practices, narrative, tradition
+- [ ] **Bernard Williams** (1929–2003) — Moral luck, integrity, internal reasons
+- [ ] **Judith Jarvis Thomson** (1929–2020) — Violinist argument, trolley problem
+- [ ] **Derrida** (1930–2004) — Différance, binary oppositions
+- [ ] **Hanna Pitkin** (1931–2023) — The concept of representation
+- [ ] **Derek Parfit** (1942–2017) — Identity not what matters, non-identity problem
+- [ ] **Peter Singer** (b. 1946) — Speciesism, drowning child
+- [ ] **Martha Nussbaum** (b. 1947) — Capabilities approach, emotions as judgments
+- [ ] **(School entry) Frankfurt School** (1923–) — Instrumental reason, emancipation

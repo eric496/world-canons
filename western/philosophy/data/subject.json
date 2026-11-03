@@ -1,0 +1,18 @@
+{
+ "title": "Philosophy",
+ "order": 3,
+ "generate_pages": false,
+ "tagline": "Twenty-five centuries of argument, from Thales to Martha Nussbaum",
+ "hero_file": "\"The School of Athens\" by Raffaello Sanzio da Urbino.jpg",
+ "hero_caption": "Raphael, The School of Athens, fresco in the Vatican's Stanza della Segnatura, 1509–11",
+ "labels": {
+  "creator": "Philosopher",
+  "creators": "Philosophers",
+  "work": "Key text",
+  "works": "Key texts",
+  "movement": "School",
+  "movements": "Eras & schools",
+  "location": "First published / written"
+ },
+ "intro": "A self-study map of Western philosophy: 112 key figures across 2,500 years, each with a full hand-written entry covering life, ideas, key works, influence, criticisms and the first thing of theirs to read. Around it sit a learning path, era overviews, themes, a glossary, common misconceptions, work-level study guides, Anki decks and in-depth focus studies of six philosophers."
+}

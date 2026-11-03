@@ -1,0 +1,240 @@
+[
+ {
+  "id": "presocratics",
+  "name": "The Presocratics",
+  "dates": "c. 600–400 BC",
+  "period": "antiquity",
+  "summary": "The first Greek thinkers to explain the world by nature rather than myth, from Thales in Miletus to the atomists Leucippus and Democritus. They asked what everything is made of and how change is possible; Heraclitus made flux the rule, Parmenides argued that change cannot logically happen, and later pluralists and atomists tried to save both. Their works survive only in fragments and later reports."
+ },
+ {
+  "id": "classical-greek",
+  "name": "Classical Greek philosophy",
+  "dates": "c. 450–322 BC",
+  "period": "antiquity",
+  "summary": "The Athenian turn from nature to the human questions of virtue, knowledge, justice and the good life. The Sophists taught rhetoric for pay and questioned whether values are natural or conventional; Socrates questioned everyone; Plato built a philosophy of eternal Forms in dialogue form; Aristotle systematised logic, natural science, ethics and politics in his Lyceum."
+ },
+ {
+  "id": "hellenistic",
+  "name": "Hellenistic and Roman schools",
+  "dates": "c. 323 BC – AD 200",
+  "period": "antiquity",
+  "summary": "After Alexander, philosophy became a set of rival ways of life aimed at tranquillity of mind. Epicureans sought pleasure as freedom from pain and fear, Stoics taught that virtue alone is good and that we should live in agreement with a rational cosmos, Skeptics suspended judgment, and Cynics flouted convention. In Rome, Seneca, Epictetus and Marcus Aurelius turned Stoicism into a practical discipline."
+ },
+ {
+  "id": "neoplatonism",
+  "name": "Neoplatonism",
+  "dates": "c. AD 250–550",
+  "period": "antiquity",
+  "summary": "The last great school of pagan antiquity, founded by Plotinus, which read Plato as a guide to an ineffable One from which Intellect, Soul and the material world emanate. Through Porphyry, Proclus, Augustine and Pseudo-Dionysius it shaped Christian, Jewish and Islamic thought for a thousand years. The name is modern; its members thought of themselves simply as Platonists."
+ },
+ {
+  "id": "early-medieval",
+  "name": "Patristic and early medieval philosophy",
+  "dates": "c. 380–1150",
+  "period": "middle-ages",
+  "summary": "Christian thinkers who joined the Bible to Greek philosophy, above all to Platonism, as the Western Roman Empire fell. Augustine set the agenda on grace, time, evil and the two cities; Boethius passed Aristotle's logic and the problem of universals to the Latin West; Eriugena and the monastic culture of figures such as Hildegard of Bingen kept speculative thought alive before the universities."
+ },
+ {
+  "id": "islamic-jewish",
+  "name": "Islamic and Jewish philosophy",
+  "dates": "c. 850–1200",
+  "period": "middle-ages",
+  "summary": "Philosophers writing in Arabic, the falāsifa, inherited Greek philosophy in translation and built great systems on Aristotle and Neoplatonism. Avicenna's metaphysics of essence and existence, Averroes's commentaries on Aristotle and Maimonides's Guide of the Perplexed were translated into Latin and transformed the medieval universities."
+ },
+ {
+  "id": "scholasticism",
+  "name": "Scholasticism",
+  "dates": "c. 1080–1400",
+  "period": "middle-ages",
+  "summary": "The method and culture of the medieval schools and universities: questions disputed by argument and counter-argument, drawing on Scripture, the Church Fathers and, after the twelfth-century translations, the whole of Aristotle. Anselm and Abelard opened it, Aquinas built its grandest synthesis, and Duns Scotus and Ockham pushed it toward univocity, nominalism and the separation of faith from proof."
+ },
+ {
+  "id": "renaissance-humanism",
+  "name": "Renaissance humanism",
+  "dates": "c. 1400–1600",
+  "period": "renaissance",
+  "summary": "A revival of classical learning that put human life, language, history and politics at the centre. Nicholas of Cusa bridged late medieval mysticism and the new mathematics; Machiavelli analysed power as it actually works; Montaigne revived ancient scepticism and invented the essay as a way of examining oneself."
+ },
+ {
+  "id": "new-science",
+  "name": "The new science",
+  "dates": "c. 1600–1700",
+  "period": "seventeenth-century",
+  "summary": "The philosophy of the Scientific Revolution, which replaced Aristotelian natural philosophy with experiment, mathematics and mechanism. Francis Bacon called for a reformed method of induction, Hobbes built a materialist account of mind and state, and Pascal, mathematician and physicist, set the limits of reason against the claims of the heart."
+ },
+ {
+  "id": "rationalism",
+  "name": "Continental rationalism",
+  "dates": "c. 1630–1720",
+  "period": "seventeenth-century",
+  "summary": "A later textbook label for Descartes, Spinoza and Leibniz, who held that reason, working from clear ideas and first principles, can give us knowledge of mind, God and the world. They built rival systems: Descartes's dualism of mind and matter, Spinoza's single substance of God or Nature, and Leibniz's monads in pre-established harmony. Scholars warn that the rationalist-empiricist division oversimplifies."
+ },
+ {
+  "id": "empiricism",
+  "name": "British empiricism",
+  "dates": "c. 1620–1780",
+  "period": "seventeenth-century",
+  "summary": "A later label for Locke, Berkeley and Hume, who traced all ideas back to experience. Locke rejected innate ideas, Berkeley concluded that to be is to be perceived, and Hume showed that our beliefs about causation, the self and morality rest on custom and feeling rather than reason. Bacon is often counted as a forerunner."
+ },
+ {
+  "id": "social-contract",
+  "name": "Social contract theory",
+  "dates": "c. 1650–1770",
+  "period": "seventeenth-century",
+  "summary": "The idea that political authority rests on an agreement among free and equal individuals, imagined as leaving a state of nature. Hobbes derived absolute sovereignty from fear of violent death, Locke limited government by natural rights and consent, and Rousseau sought a general will through which citizens obey only themselves. The tradition was revived by John Rawls in 1971."
+ },
+ {
+  "id": "enlightenment",
+  "name": "The Enlightenment",
+  "dates": "c. 1680–1800",
+  "period": "enlightenment",
+  "summary": "A Europe-wide movement that set reason, criticism and useful knowledge against tradition and authority. It included Montesquieu's science of laws, Diderot's Encyclopédie, Du Châtelet's physics, the Scottish moral philosophy of Hume and Smith, Lessing's plea for toleration, Wollstonecraft's case for women's rights and, at its summit, Kant's critical philosophy."
+ },
+ {
+  "id": "german-idealism",
+  "name": "German Idealism",
+  "dates": "c. 1781–1850",
+  "period": "nineteenth-century",
+  "summary": "The movement that grew out of Kant's critical philosophy and tried to complete it as a single system. Fichte derived experience from the self-positing I, Schelling made nature and spirit two sides of one absolute, and Hegel described reality as spirit coming to know itself through history. Schopenhauer and Schleiermacher worked in its orbit while opposing much of it."
+ },
+ {
+  "id": "transcendentalism",
+  "name": "American Transcendentalism",
+  "dates": "c. 1830–1860",
+  "period": "nineteenth-century",
+  "summary": "A New England movement of writers and reformers, centred on Concord, Massachusetts, which drew on Romanticism, German idealism and Asian scriptures. Emerson preached self-reliance and the divinity of nature; Thoreau tested the doctrine at Walden Pond and defended individual conscience against unjust law."
+ },
+ {
+  "id": "utilitarianism",
+  "name": "Utilitarianism",
+  "dates": "c. 1780–present",
+  "period": "nineteenth-century",
+  "summary": "The theory that the right action is the one that produces the most happiness or well-being overall. Bentham founded it as a programme of legal reform, John Stuart Mill refined it with higher and lower pleasures, and Sidgwick gave it its most rigorous classical statement. In the twentieth century Peter Singer applied it to poverty and animals."
+ },
+ {
+  "id": "liberalism",
+  "name": "Nineteenth-century liberalism",
+  "dates": "c. 1748–1873",
+  "period": "nineteenth-century",
+  "summary": "Political thought concerned with protecting liberty under modern conditions: separation of powers, representative government, freedom of thought and the dangers of majority opinion. Montesquieu supplied its constitutional theory, Tocqueville its sociology of democracy, and John Stuart Mill and Harriet Taylor Mill its classic defence of individual liberty and women's equality."
+ },
+ {
+  "id": "positivism",
+  "name": "Positivism",
+  "dates": "c. 1830–1900",
+  "period": "nineteenth-century",
+  "summary": "Auguste Comte's doctrine that human thought passes through theological, metaphysical and finally scientific, or positive, stages, and that only the methods of science give real knowledge. Comte coined the word sociology and later founded a secular Religion of Humanity. The logical positivists of the twentieth century took up the name but not most of the doctrine."
+ },
+ {
+  "id": "young-hegelians-marxism",
+  "name": "Young Hegelians and Marxism",
+  "dates": "c. 1835–1883",
+  "period": "nineteenth-century",
+  "summary": "After Hegel's death his radical followers turned his philosophy against religion and the Prussian state. Feuerbach read God as a projection of human nature, Stirner rejected every abstraction above the individual, and Marx, with Engels, recast Hegel's dialectic as historical materialism, a theory of history driven by modes of production and class struggle."
+ },
+ {
+  "id": "existential-precursors",
+  "name": "Nineteenth-century precursors of existentialism",
+  "dates": "c. 1840–1900",
+  "period": "nineteenth-century",
+  "summary": "Thinkers who turned philosophy toward the existing individual, choice, suffering and the loss of inherited values. Schopenhauer made a blind will the inner nature of the world, Kierkegaard set the single individual against Hegel's system and complacent Christendom, and Nietzsche diagnosed the death of God and demanded new values. The existentialist label was applied to them only later."
+ },
+ {
+  "id": "pragmatism",
+  "name": "Pragmatism",
+  "dates": "c. 1870–1950",
+  "period": "nineteenth-century",
+  "summary": "An American philosophy that judges ideas by their practical consequences in experience. Peirce formulated the pragmatic maxim and a fallibilist theory of inquiry, William James made truth what proves itself in living, and John Dewey turned pragmatism into a philosophy of education and democracy."
+ },
+ {
+  "id": "phenomenology",
+  "name": "Phenomenology",
+  "dates": "c. 1874–present",
+  "period": "modern",
+  "summary": "A method of describing experience exactly as it is lived, before theory explains it away. Brentano revived intentionality, Husserl founded the movement, Heidegger turned it toward the question of being, and Merleau-Ponty and Levinas carried it into embodiment and ethics. Existentialism, hermeneutics and deconstruction all grew out of it."
+ },
+ {
+  "id": "analytic",
+  "name": "Analytic philosophy",
+  "dates": "c. 1879–present",
+  "period": "modern",
+  "summary": "The tradition, dominant in English-speaking universities, that treats philosophical problems through the logical analysis of language and concepts. Frege invented modern logic, Russell and Moore broke with British idealism, Wittgenstein wrote both its founding and its most self-critical works, and Ryle and Quine reshaped philosophy of mind and knowledge."
+ },
+ {
+  "id": "logical-positivism",
+  "name": "Logical positivism",
+  "dates": "c. 1924–1950",
+  "period": "modern",
+  "summary": "The doctrine of the Vienna Circle that a statement is meaningful only if it is true by logic or verifiable by experience, so that traditional metaphysics is literally nonsense. Its members, scattered by Nazism, carried logical empiricism to Britain and America. Popper's falsifiability criterion and Quine's critique of the analytic-synthetic distinction grew out of arguments with it."
+ },
+ {
+  "id": "process-philosophy",
+  "name": "Philosophies of life and process",
+  "dates": "c. 1889–1960",
+  "period": "modern",
+  "summary": "Thinkers who took time, change and creative becoming as the basic features of reality, against static and mechanistic pictures. Bergson contrasted lived duration with clock time, Whitehead built a metaphysics of actual occasions and their relations, and his student Susanne Langer extended a philosophy of symbolism to art and feeling."
+ },
+ {
+  "id": "critical-theory",
+  "name": "Critical theory",
+  "dates": "c. 1923–present",
+  "period": "modern",
+  "summary": "The Western Marxism of the Frankfurt Institute for Social Research. Horkheimer, Adorno and Marcuse asked why Enlightenment reason and mass culture had produced new forms of domination rather than freedom; the second generation, led by Habermas, rebuilt the project around communication and the public sphere."
+ },
+ {
+  "id": "existentialism",
+  "name": "Existentialism",
+  "dates": "c. 1930–1970",
+  "period": "contemporary",
+  "summary": "A philosophy of human existence as freedom, choice and responsibility in a world without given meaning. Jaspers wrote of boundary situations, Sartre held that existence precedes essence, and Beauvoir worked out an ethics of ambiguity and an analysis of how women are made the Other. It drew on Kierkegaard, Nietzsche, Husserl and Heidegger."
+ },
+ {
+  "id": "hermeneutics",
+  "name": "Hermeneutics",
+  "dates": "c. 1800–present",
+  "period": "contemporary",
+  "summary": "The theory of interpretation and understanding. Schleiermacher made it a universal art for any text, Gadamer argued that understanding is a fusion of the reader's and the tradition's horizons, and Ricoeur joined it to phenomenology, symbols and narrative."
+ },
+ {
+  "id": "philosophy-of-science",
+  "name": "Philosophy of science",
+  "dates": "c. 1934–present",
+  "period": "contemporary",
+  "summary": "Twentieth-century inquiry into what makes science rational and how it changes. Popper replaced verification with falsifiability, while Kuhn's history of paradigms and revolutions challenged the idea that science grows by steady accumulation."
+ },
+ {
+  "id": "political-philosophy",
+  "name": "Twentieth-century political philosophy",
+  "dates": "c. 1945–present",
+  "period": "contemporary",
+  "summary": "After totalitarianism and war, political philosophy revived in several forms: Arendt's account of action and the banality of evil, Strauss's return to classical political thought, Rawls's theory of justice as fairness, Pitkin's analysis of representation and Nussbaum's capabilities approach."
+ },
+ {
+  "id": "virtue-ethics",
+  "name": "Virtue ethics and moral realism",
+  "dates": "c. 1958–present",
+  "period": "contemporary",
+  "summary": "A revival of Aristotelian ethics of character against duty-based and consequence-based theories, sparked by Anscombe's 1958 paper 'Modern Moral Philosophy'. Foot developed natural goodness, Murdoch made attention to the Good central, Midgley grounded ethics in human nature and MacIntyre diagnosed modern moral fragmentation. Simone Weil's ethics of attention was a major source for Murdoch."
+ },
+ {
+  "id": "analytic-ethics",
+  "name": "Contemporary analytic ethics",
+  "dates": "c. 1960–present",
+  "period": "contemporary",
+  "summary": "Analytic moral philosophy's turn to substantive questions: rights, abortion, personal identity, future generations, poverty and animals. Bernard Williams challenged systematic moral theory, Judith Jarvis Thomson shaped debates on abortion and the trolley problem, Parfit transformed personal identity and population ethics, and Singer made applied ethics a public force."
+ },
+ {
+  "id": "post-structuralism",
+  "name": "Post-structuralism",
+  "dates": "c. 1966–present",
+  "period": "contemporary",
+  "summary": "French thought of the 1960s onward that questioned stable structures of meaning, the autonomous subject and the neutrality of knowledge. Foucault traced how power produces knowledge and kinds of people; Derrida's deconstruction showed how texts depend on oppositions they cannot keep stable."
+ },
+ {
+  "id": "feminist-philosophy",
+  "name": "Feminist philosophy",
+  "dates": "1792–present",
+  "period": "contemporary",
+  "summary": "Philosophy that examines how sex and gender shape knowledge, ethics and politics, and argues for women's equality. Wollstonecraft's Vindication founded the tradition, Harriet Taylor Mill and John Stuart Mill extended liberal equality, and Beauvoir's The Second Sex opened its modern era."
+ }
+]
