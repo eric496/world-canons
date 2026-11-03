@@ -1,0 +1,241 @@
+# Timeline of buildings
+
+Every building in this section in chronological order.
+
+
+## 5th century BC
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Veduta_di_Paestum_2010.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Veduta_di_Paestum_2010.jpg" width="140" alt="Second Temple of Hera, Paestum"></a> | c. 460 BC | **Second Temple of Hera, Paestum** | [Greek master builders](creators/greek-master-builders.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/The_Parthenon_in_Athens.jpg" width="140" alt="Parthenon"></a> | 447–432 BC | **Parthenon** | [Ictinus](creators/ictinus.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:East_Facade_of_the_Propylaea_on_July_23%2C_2019.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/East_Facade_of_the_Propylaea_on_July_23%2C_2019.jpg/330px-East_Facade_of_the_Propylaea_on_July_23%2C_2019.jpg" width="140" alt="Propylaea of the Acropolis"></a> | 437–432 BC | **Propylaea of the Acropolis** | [Greek master builders](creators/greek-master-builders.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Temple_of_Athena_Nik%C3%A8_from_Propylaea%2C_Acropolis%2C_Athens%2C_Greece.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Temple_of_Athena_Nik%C3%A8_from_Propylaea%2C_Acropolis%2C_Athens%2C_Greece.jpg/330px-Temple_of_Athena_Nik%C3%A8_from_Propylaea%2C_Acropolis%2C_Athens%2C_Greece.jpg" width="140" alt="Temple of Athena Nike"></a> | c. 427–424 BC | **Temple of Athena Nike** | [Callicrates](creators/callicrates.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Erechtheum_Acropolis_Athens.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Erechtheum_Acropolis_Athens.jpg/330px-Erechtheum_Acropolis_Athens.jpg" width="140" alt="Erechtheion"></a> | 421–406 BC | **Erechtheion** | [Greek master builders](creators/greek-master-builders.md) |
+
+## 4th century BC
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| — | c. 340–300 BC | **Theatre of Epidaurus** | [Greek master builders](creators/greek-master-builders.md) |
+
+## 1st century BC
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:De_architectura.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/De_architectura.jpg/330px-De_architectura.jpg" width="140" alt="De architectura (Ten Books on Architecture)"></a> | c. 30–15 BC | **De architectura (Ten Books on Architecture)** | [Vitruvius](creators/vitruvius.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Maison_Carree_in_Nimes_%2816%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Maison_Carree_in_Nimes_%2816%29.jpg/330px-Maison_Carree_in_Nimes_%2816%29.jpg" width="140" alt="Maison Carrée"></a> | c. 16 BC – AD 4 | **Maison Carrée** | [Roman imperial builders](creators/roman-builders.md) |
+
+## 1st century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Pont_du_Gard_BLS.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pont_du_Gard_BLS.jpg/330px-Pont_du_Gard_BLS.jpg" width="140" alt="Pont du Gard"></a> | c. AD 40–60 | **Pont du Gard** | [Roman imperial builders](creators/roman-builders.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/330px-Colosseo_2020.jpg" width="140" alt="Colosseum (Flavian Amphitheatre)"></a> | AD 70–80 | **Colosseum (Flavian Amphitheatre)** | [Roman imperial builders](creators/roman-builders.md) |
+
+## 2nd century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Trajan%27s_Column_HD.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Trajan%27s_Column_HD.jpg/330px-Trajan%27s_Column_HD.jpg" width="140" alt="Trajan's Column"></a> | AD 107–113 | **Trajan's Column** | [Apollodorus of Damascus](creators/apollodorus.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Pantheon_%28Rome%29_-_Right_side_and_front.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/330px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg" width="140" alt="Pantheon"></a> | c. AD 113–125 | **Pantheon** | [Roman imperial builders](creators/roman-builders.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Villa_Hadriana_%28Villa_Adriana_Tivoli%29_1000_03.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Villa_Hadriana_%28Villa_Adriana_Tivoli%29_1000_03.jpg/330px-Villa_Hadriana_%28Villa_Adriana_Tivoli%29_1000_03.jpg" width="140" alt="Hadrian's Villa"></a> | c. AD 118–138 | **Hadrian's Villa** | [Roman imperial builders](creators/roman-builders.md) |
+
+## 3rd century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Baths_of_Caracalla%2C_facing_Caldarium.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Baths_of_Caracalla%2C_facing_Caldarium.jpg/330px-Baths_of_Caracalla%2C_facing_Caldarium.jpg" width="140" alt="Baths of Caracalla"></a> | AD 212–216 | **Baths of Caracalla** | [Roman imperial builders](creators/roman-builders.md) |
+
+## 5th century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Santa_Sabina_%28Rome%29_-_Esterno.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Santa_Sabina_%28Rome%29_-_Esterno.jpg/330px-Santa_Sabina_%28Rome%29_-_Esterno.jpg" width="140" alt="Santa Sabina"></a> | c. 422–432 | **Santa Sabina** | [Early Christian & Byzantine builders](creators/byzantine-builders.md) |
+
+## 6th century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Hagia_Sophia_%28228968325%29.jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/330px-Hagia_Sophia_%28228968325%29.jpeg" width="140" alt="Hagia Sophia"></a> | 532–537 | **Hagia Sophia** | [Anthemius of Tralles & Isidore of Miletus](creators/anthemius-isidore.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Basilica_of_San_Vitale.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Basilica_of_San_Vitale.jpg/330px-Basilica_of_San_Vitale.jpg" width="140" alt="Basilica of San Vitale"></a> | 526–547 | **Basilica of San Vitale** | [Early Christian & Byzantine builders](creators/byzantine-builders.md) |
+
+## 8th century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Aachener_Dom_Oktogon.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aachener_Dom_Oktogon.jpg/330px-Aachener_Dom_Oktogon.jpg" width="140" alt="Palatine Chapel, Aachen"></a> | c. 796–805 | **Palatine Chapel, Aachen** | [Odo of Metz](creators/odo-of-metz.md) |
+
+## 11th century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Speyer_dom_11.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Speyer_dom_11.jpg/330px-Speyer_dom_11.jpg" width="140" alt="Speyer Cathedral"></a> | 1030–1106 | **Speyer Cathedral** | [Romanesque master builders](creators/romanesque-builders.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Venezia_Basilica_di_San_Marco_Fassade_2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Venezia_Basilica_di_San_Marco_Fassade_2.jpg/330px-Venezia_Basilica_di_San_Marco_Fassade_2.jpg" width="140" alt="St Mark's Basilica"></a> | 1063–1094 | **St Mark's Basilica** | [Early Christian & Byzantine builders](creators/byzantine-builders.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:View_of_the_Cathedral_facade_from_the_Baptistry_%28Pisa%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/View_of_the_Cathedral_facade_from_the_Baptistry_%28Pisa%29.jpg/330px-View_of_the_Cathedral_facade_from_the_Baptistry_%28Pisa%29.jpg" width="140" alt="Pisa Cathedral and Leaning Tower"></a> | 1063–1372 | **Pisa Cathedral and Leaning Tower** | [Romanesque master builders](creators/romanesque-builders.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg/330px-Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg" width="140" alt="Basilica of Saint-Sernin"></a> | c. 1080–1120 | **Basilica of Saint-Sernin** | [Romanesque master builders](creators/romanesque-builders.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Durham_MMB_02_Cathedral.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Durham_MMB_02_Cathedral.jpg/330px-Durham_MMB_02_Cathedral.jpg" width="140" alt="Durham Cathedral"></a> | 1093–1133 | **Durham Cathedral** | [Romanesque master builders](creators/romanesque-builders.md) |
+
+## 12th century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Saint-Denis_-_Fa%C3%A7ade.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saint-Denis_-_Fa%C3%A7ade.jpg/330px-Saint-Denis_-_Fa%C3%A7ade.jpg" width="140" alt="Basilica of Saint-Denis"></a> | c. 1135–1144 | **Basilica of Saint-Denis** | [Abbot Suger](creators/abbot-suger.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris%2C_4_October_2017.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg/330px-Notre-Dame_de_Paris%2C_4_October_2017.jpg" width="140" alt="Notre-Dame de Paris"></a> | 1163–c. 1345 | **Notre-Dame de Paris** | [Master builders of Notre-Dame](creators/notre-dame-master-builders.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Notre_Dame_de_Chartres.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Notre_Dame_de_Chartres.jpg/330px-Notre_Dame_de_Chartres.jpg" width="140" alt="Chartres Cathedral"></a> | 1194–1260 | **Chartres Cathedral** | [Master builders of Chartres](creators/chartres-master-builders.md) |
+
+## 13th century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Exterior_view_of_the_west_facade_of_Notre-Dame_Cathedral_in_Reims.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Exterior_view_of_the_west_facade_of_Notre-Dame_Cathedral_in_Reims.jpg/330px-Exterior_view_of_the_west_facade_of_Notre-Dame_Cathedral_in_Reims.jpg" width="140" alt="Reims Cathedral"></a> | 1211–c. 1345 | **Reims Cathedral** | [Gothic master builders](creators/gothic-master-builders.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:0_Amiens_-_Cath%C3%A9drale_Notre-Dame_%281%29.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/0_Amiens_-_Cath%C3%A9drale_Notre-Dame_%281%29.JPG/330px-0_Amiens_-_Cath%C3%A9drale_Notre-Dame_%281%29.JPG" width="140" alt="Amiens Cathedral"></a> | 1220–c. 1270 | **Amiens Cathedral** | [Gothic master builders](creators/gothic-master-builders.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:SalisburyCathedral-wyrdlight-EastExt.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/SalisburyCathedral-wyrdlight-EastExt.jpg" width="140" alt="Salisbury Cathedral"></a> | 1220–1258; spire c. 1320 | **Salisbury Cathedral** | [Gothic master builders](creators/gothic-master-builders.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Sainte_Chapelle_-_Upper_level_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sainte_Chapelle_-_Upper_level_1.jpg/330px-Sainte_Chapelle_-_Upper_level_1.jpg" width="140" alt="Sainte-Chapelle"></a> | 1242–1248 | **Sainte-Chapelle** | [Pierre de Montreuil](creators/pierre-de-montreuil.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/330px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg" width="140" alt="Cologne Cathedral"></a> | 1248–1880 | **Cologne Cathedral** | [Gothic master builders](creators/gothic-master-builders.md) |
+| — | 1294–1385 | **Basilica of Santa Croce** | [Arnolfo di Cambio](creators/arnolfo.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Piazza_della_signoria%2C_palazzo_vecchio%2C_veduta_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Piazza_della_signoria%2C_palazzo_vecchio%2C_veduta_01.jpg/330px-Piazza_della_signoria%2C_palazzo_vecchio%2C_veduta_01.jpg" width="140" alt="Palazzo Vecchio"></a> | 1299–1314 | **Palazzo Vecchio** | [Arnolfo di Cambio](creators/arnolfo.md) |
+
+## 14th century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:CampanileGiotto-01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/CampanileGiotto-01.jpg/330px-CampanileGiotto-01.jpg" width="140" alt="Florence Campanile"></a> | 1334–c. 1359 | **Florence Campanile** | [Giotto di Bondone](creators/giotto.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:PragueCathedral03.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PragueCathedral03.jpg/330px-PragueCathedral03.jpg" width="140" alt="St Vitus Cathedral"></a> | 1344–1929 | **St Vitus Cathedral** | [Peter Parler](creators/parler.md) |
+
+## 15th century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Florence%2C_Piazza_SS_Annunziata_with_Ospedale_degli_Innocenti_%281419-39%29_and_part_of_SS_Annunziata_%281601%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Florence%2C_Piazza_SS_Annunziata_with_Ospedale_degli_Innocenti_%281419-39%29_and_part_of_SS_Annunziata_%281601%29.jpg/330px-Florence%2C_Piazza_SS_Annunziata_with_Ospedale_degli_Innocenti_%281419-39%29_and_part_of_SS_Annunziata_%281601%29.jpg" width="140" alt="Ospedale degli Innocenti"></a> | 1419–1445 | **Ospedale degli Innocenti** | [Filippo Brunelleschi](creators/brunelleschi.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg/330px-Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg" width="140" alt="Dome of Florence Cathedral"></a> | 1420–1436 | **Dome of Florence Cathedral** | [Filippo Brunelleschi](creators/brunelleschi.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Florence%2C_Santa_Croce%2C_Cappella_dei_Pazzi%2C_1440s-70s.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Florence%2C_Santa_Croce%2C_Cappella_dei_Pazzi%2C_1440s-70s.jpg/330px-Florence%2C_Santa_Croce%2C_Cappella_dei_Pazzi%2C_1440s-70s.jpg" width="140" alt="Pazzi Chapel"></a> | c. 1430–1460s | **Pazzi Chapel** | [Filippo Brunelleschi](creators/brunelleschi.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:KingsCollegeChapel.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/KingsCollegeChapel.jpg" width="140" alt="King's College Chapel"></a> | 1446–1515 | **King's College Chapel** | [Gothic master builders](creators/gothic-master-builders.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Via_della_Vigna_Nuova_18%2C_palazzo_rucellai%2C_02%2C0.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Via_della_Vigna_Nuova_18%2C_palazzo_rucellai%2C_02%2C0.jpg/330px-Via_della_Vigna_Nuova_18%2C_palazzo_rucellai%2C_02%2C0.jpg" width="140" alt="Palazzo Rucellai"></a> | c. 1446–1451 | **Palazzo Rucellai** | [Leon Battista Alberti](creators/alberti.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Florence%2C_Santa_Maria_Novella%2C_facade.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Florence%2C_Santa_Maria_Novella%2C_facade.jpg/330px-Florence%2C_Santa_Maria_Novella%2C_facade.jpg" width="140" alt="Façade of Santa Maria Novella"></a> | 1456–1470 | **Façade of Santa Maria Novella** | [Leon Battista Alberti](creators/alberti.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:MantovaBasilicaSantAndrea_cutnpaste_over_intrusions.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MantovaBasilicaSantAndrea_cutnpaste_over_intrusions.jpg/330px-MantovaBasilicaSantAndrea_cutnpaste_over_intrusions.jpg" width="140" alt="Sant'Andrea, Mantua"></a> | 1472–1790 | **Sant'Andrea, Mantua** | [Leon Battista Alberti](creators/alberti.md) |
+
+## 16th century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| — | c. 1502–1510 | **Tempietto of San Pietro in Montorio** | [Donato Bramante](creators/bramante.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/330px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg" width="140" alt="St Peter's Basilica"></a> | 1506–1626; dome 1547–1590 | **St Peter's Basilica** | [Michelangelo Buonarroti](creators/michelangelo.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Medicibib.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Medicibib.jpg/330px-Medicibib.jpg" width="140" alt="Laurentian Library"></a> | 1524–1571 | **Laurentian Library** | [Michelangelo Buonarroti](creators/michelangelo.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Mantova_104.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Mantova_104.jpg/330px-Mantova_104.jpg" width="140" alt="Palazzo Te"></a> | 1524–1534 | **Palazzo Te** | [Giulio Romano](creators/giulio-romano.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Piazza_del_Campidoglio_2015.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Piazza_del_Campidoglio_2015.jpg/330px-Piazza_del_Campidoglio_2015.jpg" width="140" alt="Piazza del Campidoglio"></a> | 1536–c. 1655 | **Piazza del Campidoglio** | [Michelangelo Buonarroti](creators/michelangelo.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Basilica_Palladiana_%28Vicenza%29_-_facade_on_Piazza_dei_signori.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Basilica_Palladiana_%28Vicenza%29_-_facade_on_Piazza_dei_signori.jpg/330px-Basilica_Palladiana_%28Vicenza%29_-_facade_on_Piazza_dei_signori.jpg" width="140" alt="Basilica Palladiana"></a> | 1549–1614 | **Basilica Palladiana** | [Andrea Palladio](creators/palladio.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Monasterio_de_El_Escorial_en_Madrid.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monasterio_de_El_Escorial_en_Madrid.jpg/330px-Monasterio_de_El_Escorial_en_Madrid.jpg" width="140" alt="El Escorial"></a> | 1563–1584 | **El Escorial** | [Juan de Herrera](creators/herrera.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Larotonda2009.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Larotonda2009.JPG" width="140" alt="Villa La Rotonda"></a> | 1566–c. 1591 | **Villa La Rotonda** | [Andrea Palladio](creators/palladio.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Jesus_Church.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Jesus_Church.jpg/330px-Jesus_Church.jpg" width="140" alt="Church of the Gesù"></a> | 1568–1584 | **Church of the Gesù** | [Giacomo Barozzi da Vignola](creators/vignola.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Chiesa_del_Santissimo_Redentore%2C_Venice%2C_Italy.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Chiesa_del_Santissimo_Redentore%2C_Venice%2C_Italy.jpg" width="140" alt="Il Redentore"></a> | 1577–1592 | **Il Redentore** | [Andrea Palladio](creators/palladio.md) |
+
+## 17th century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Queens_House.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Queens_House.jpg/330px-Queens_House.jpg" width="140" alt="Queen's House"></a> | 1616–1635 | **Queen's House** | [Inigo Jones](creators/inigo-jones.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Banqueting_House_London.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Banqueting_House_London.jpg" width="140" alt="Banqueting House, Whitehall"></a> | 1619–1622 | **Banqueting House, Whitehall** | [Inigo Jones](creators/inigo-jones.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:San_Carlo_alle_Quattro_Fontane_-_Front.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/San_Carlo_alle_Quattro_Fontane_-_Front.jpg/330px-San_Carlo_alle_Quattro_Fontane_-_Front.jpg" width="140" alt="San Carlo alle Quattro Fontane"></a> | 1634–1646; façade 1665–1667 | **San Carlo alle Quattro Fontane** | [Francesco Borromini](creators/borromini.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Sant%27Ivo_alla_Sapienza_-Rome.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sant%27Ivo_alla_Sapienza_-Rome.jpg/330px-Sant%27Ivo_alla_Sapienza_-Rome.jpg" width="140" alt="Sant'Ivo alla Sapienza"></a> | 1642–1660 | **Sant'Ivo alla Sapienza** | [Francesco Borromini](creators/borromini.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg/330px-St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg" width="140" alt="St Peter's Square"></a> | 1656–1667 | **St Peter's Square** | [Gian Lorenzo Bernini](creators/bernini.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:0_Maincy_-_Ch%C3%A2teau_de_Vaux-le-Vicomte_%282%29.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/0_Maincy_-_Ch%C3%A2teau_de_Vaux-le-Vicomte_%282%29.JPG/330px-0_Maincy_-_Ch%C3%A2teau_de_Vaux-le-Vicomte_%282%29.JPG" width="140" alt="Vaux-le-Vicomte"></a> | 1656–1661 | **Vaux-le-Vicomte** | [Louis Le Vau](creators/le-vau.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Sant%27Andrea_al_Quirinale.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sant%27Andrea_al_Quirinale.jpg/330px-Sant%27Andrea_al_Quirinale.jpg" width="140" alt="Sant'Andrea al Quirinale"></a> | 1658–1670 | **Sant'Andrea al Quirinale** | [Gian Lorenzo Bernini](creators/bernini.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg/330px-Versailles_Palace_%28FRA%29_%E2%80%93_Equestrian_Olympic_Venue.jpg" width="140" alt="Palace of Versailles"></a> | 1661–1710 | **Palace of Versailles** | [Louis Le Vau](creators/le-vau.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:St_Pauls_aerial_%28cropped%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/St_Pauls_aerial_%28cropped%29.jpg/330px-St_Pauls_aerial_%28cropped%29.jpg" width="140" alt="St Paul's Cathedral"></a> | 1675–1710 | **St Paul's Cathedral** | [Christopher Wren](creators/wren.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg/330px-H%C3%B4tel_des_Invalides_from_the_Eiffel_Tower%2C_23_July_2009.jpg" width="140" alt="Les Invalides (Dôme des Invalides)"></a> | 1677–1706 | **Les Invalides (Dôme des Invalides)** | [Jules Hardouin-Mansart](creators/hardouin-mansart.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Chateau_Versailles_Galerie_des_Glaces.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chateau_Versailles_Galerie_des_Glaces.jpg/330px-Chateau_Versailles_Galerie_des_Glaces.jpg" width="140" alt="Hall of Mirrors"></a> | 1678–1684 | **Hall of Mirrors** | [Jules Hardouin-Mansart](creators/hardouin-mansart.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Royal_Naval_College_Greenwich_view_from_the_Thames.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Royal_Naval_College_Greenwich_view_from_the_Thames.jpg/330px-Royal_Naval_College_Greenwich_view_from_the_Thames.jpg" width="140" alt="Old Royal Naval College (Royal Hospital for Seamen)"></a> | 1696–1712 | **Old Royal Naval College (Royal Hospital for Seamen)** | [Christopher Wren](creators/wren.md) |
+
+## 18th century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:Karlskirche_Abendsonne_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Karlskirche_Abendsonne_1.jpg/330px-Karlskirche_Abendsonne_1.jpg" width="140" alt="Karlskirche"></a> | 1716–1737 | **Karlskirche** | [Johann Bernhard Fischer von Erlach](creators/fischer-von-erlach.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Residencia%2C_Wurzburgo%2C_Alemania%2C_2025-10-03%2C_DD_104.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Residencia%2C_Wurzburgo%2C_Alemania%2C_2025-10-03%2C_DD_104.jpg/330px-Residencia%2C_Wurzburgo%2C_Alemania%2C_2025-10-03%2C_DD_104.jpg" width="140" alt="Würzburg Residence"></a> | 1720–1744 | **Würzburg Residence** | [Balthasar Neumann](creators/neumann.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Vierzehnheiligen_Fassade.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Vierzehnheiligen_Fassade.JPG/330px-Vierzehnheiligen_Fassade.JPG" width="140" alt="Basilica of the Fourteen Holy Helpers (Vierzehnheiligen)"></a> | 1743–1772 | **Basilica of the Fourteen Holy Helpers (Vierzehnheiligen)** | [Balthasar Neumann](creators/neumann.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:RUS-2016-Aerial-SPB-Winter_Palace_%28crop%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RUS-2016-Aerial-SPB-Winter_Palace_%28crop%29.jpg/330px-RUS-2016-Aerial-SPB-Winter_Palace_%28crop%29.jpg" width="140" alt="Winter Palace"></a> | 1754–1762 | **Winter Palace** | [Francesco Bartolomeo Rastrelli](creators/rastrelli.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Pantheon_of_Paris_007.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pantheon_of_Paris_007.JPG/330px-Pantheon_of_Paris_007.JPG" width="140" alt="Panthéon (Church of Sainte-Geneviève)"></a> | 1757–1790 | **Panthéon (Church of Sainte-Geneviève)** | [Jacques-Germain Soufflot](creators/soufflot.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Monticello_reflected.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Monticello_reflected.JPG/330px-Monticello_reflected.JPG" width="140" alt="Monticello"></a> | 1769–1809 | **Monticello** | [Thomas Jefferson](creators/jefferson.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:France_arc_et_senas_saline_royal_main_building_1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/France_arc_et_senas_saline_royal_main_building_1.jpg/330px-France_arc_et_senas_saline_royal_main_building_1.jpg" width="140" alt="Royal Saltworks at Arc-et-Senans"></a> | 1775–1779 | **Royal Saltworks at Arc-et-Senans** | [Claude-Nicolas Ledoux](creators/ledoux.md) |
+| — | 1792–1824 | **Sir John Soane's Museum** | [John Soane](creators/soane.md) |
+
+## 19th century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:University_of_Virginia_Rotunda_2006.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/University_of_Virginia_Rotunda_2006.jpg/330px-University_of_Virginia_Rotunda_2006.jpg" width="140" alt="The Rotunda and Lawn, University of Virginia"></a> | 1817–1826 | **The Rotunda and Lawn, University of Virginia** | [Thomas Jefferson](creators/jefferson.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Altes_Museum_%28Berlin%29_%286339770591%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Altes_Museum_%28Berlin%29_%286339770591%29.jpg/330px-Altes_Museum_%28Berlin%29_%286339770591%29.jpg" width="140" alt="Altes Museum"></a> | 1823–1830 | **Altes Museum** | [Karl Friedrich Schinkel](creators/schinkel.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg/330px-Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg" width="140" alt="Palace of Westminster"></a> | 1840–1870 | **Palace of Westminster** | [Charles Barry](creators/barry.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:St_Giles_RC_Church_Cheadle_Staffs_tower.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/St_Giles_RC_Church_Cheadle_Staffs_tower.jpg/330px-St_Giles_RC_Church_Cheadle_Staffs_tower.jpg" width="140" alt="St Giles' Catholic Church, Cheadle"></a> | 1841–1846 | **St Giles' Catholic Church, Cheadle** | [Augustus Welby Northmore Pugin](creators/pugin.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg/330px-Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg" width="140" alt="Elizabeth Tower (Big Ben)"></a> | 1843–1859 | **Elizabeth Tower (Big Ben)** | [Augustus Welby Northmore Pugin](creators/pugin.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Crystal_Palace_General_view_from_Water_Temple.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Crystal_Palace_General_view_from_Water_Temple.jpg" width="140" alt="The Crystal Palace"></a> | 1850–1851 | **The Crystal Palace** | [Joseph Paxton](creators/paxton.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Pierrefonds_vu_depuis_le_Parc.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ch%C3%A2teau_de_Pierrefonds_vu_depuis_le_Parc.jpg" width="140" alt="Château de Pierrefonds"></a> | 1857–1885 | **Château de Pierrefonds** | [Eugène Viollet-le-Duc](creators/viollet-le-duc.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Paris_Opera_full_frontal_architecture%2C_May_2009.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Paris_Opera_full_frontal_architecture%2C_May_2009.jpg/330px-Paris_Opera_full_frontal_architecture%2C_May_2009.jpg" width="140" alt="Palais Garnier (Paris Opéra)"></a> | 1861–1875 | **Palais Garnier (Paris Opéra)** | [Charles Garnier](creators/garnier.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/SF_maig_2_cropped.jpg/330px-SF_maig_2_cropped.jpg" width="140" alt="Sagrada Família"></a> | 1882–present | **Sagrada Família** | [Antoni Gaudí](creators/gaudi.md) |
+| — | 1887–1889 | **Eiffel Tower** | [Gustave Eiffel](creators/eiffel.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Wainwright_Building%2C_7th_Street_and_Chestnut_Street%2C_St._Louis%2C_MO_-_53051647915.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wainwright_Building%2C_7th_Street_and_Chestnut_Street%2C_St._Louis%2C_MO_-_53051647915.jpg/330px-Wainwright_Building%2C_7th_Street_and_Chestnut_Street%2C_St._Louis%2C_MO_-_53051647915.jpg" width="140" alt="Wainwright Building"></a> | 1890–1891 | **Wainwright Building** | [Louis Sullivan](creators/sullivan.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Victor_Horta_Hotel_Tassel.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Victor_Horta_Hotel_Tassel.JPG/330px-Victor_Horta_Hotel_Tassel.JPG" width="140" alt="Hôtel Tassel"></a> | 1892–1893 | **Hôtel Tassel** | [Victor Horta](creators/horta.md) |
+| — | 1897–1909 | **Glasgow School of Art (Mackintosh Building)** | [Charles Rennie Mackintosh](creators/mackintosh.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Carson%2C_Pirie%2C_Scott_and_Company_Building_%28Sullivan_Center%29%2C_Chicago%2C_Illinois_%289179422705%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Carson%2C_Pirie%2C_Scott_and_Company_Building_%28Sullivan_Center%29%2C_Chicago%2C_Illinois_%289179422705%29.jpg/330px-Carson%2C_Pirie%2C_Scott_and_Company_Building_%28Sullivan_Center%29%2C_Chicago%2C_Illinois_%289179422705%29.jpg" width="140" alt="Carson, Pirie, Scott and Company Building (Sullivan Center)"></a> | 1899–1904 | **Carson, Pirie, Scott and Company Building (Sullivan Center)** | [Louis Sullivan](creators/sullivan.md) |
+
+## 20th century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| — | 1900–1914 | **Park Güell** | [Antoni Gaudí](creators/gaudi.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Edificio_Fuller_%28Flatiron%29_en_2010_desde_el_Empire_State_crop_boxin.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Edificio_Fuller_%28Flatiron%29_en_2010_desde_el_Empire_State_crop_boxin.jpg/330px-Edificio_Fuller_%28Flatiron%29_en_2010_desde_el_Empire_State_crop_boxin.jpg" width="140" alt="Flatiron Building"></a> | 1901–1902 | **Flatiron Building** | [Daniel Burnham](creators/burnham.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Casa_Batllo_Overview_Barcelona_Spain_cut.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Casa_Batllo_Overview_Barcelona_Spain_cut.jpg/330px-Casa_Batllo_Overview_Barcelona_Spain_cut.jpg" width="140" alt="Casa Batlló"></a> | 1904–1906 | **Casa Batlló** | [Antoni Gaudí](creators/gaudi.md) |
+| — | 1904–1906; 1910–1912 | **Austrian Postal Savings Bank** | [Otto Wagner](creators/otto-wagner.md) |
+| <a href="https://commons.wikimedia.org/wiki/File:Casa_Mil%C3%A0%2C_general_view.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Casa_Mil%C3%A0%2C_general_view.jpg/330px-Casa_Mil%C3%A0%2C_general_view.jpg" width="140" alt="Casa Milà (La Pedrera)"></a> | 1906–1912 | **Casa Milà (La Pedrera)** | [Antoni Gaudí](creators/gaudi.md) |
+| — | 1909–1910 | **Frederick C. Robie House** | [Frank Lloyd Wright](creators/wright.md) |
+| — | 1911–1925 | **Fagus Factory** | [Walter Gropius](creators/gropius.md) |
+| — | 1924 | **Rietveld Schröder House** | [Gerrit Rietveld](creators/rietveld.md) |
+| — | 1925–1926 | **Bauhaus Building, Dessau** | [Walter Gropius](creators/gropius.md) |
+| — | 1928–1930 | **Chrysler Building** | [William Van Alen](creators/van-alen.md) |
+| — | 1928–1931 | **Villa Savoye** | [Le Corbusier](creators/le-corbusier.md) |
+| — | 1929; reconstructed 1983–1986 | **Barcelona Pavilion** | [Ludwig Mies van der Rohe](creators/mies.md) |
+| — | 1928–1930 | **Villa Tugendhat** | [Ludwig Mies van der Rohe](creators/mies.md) |
+| — | 1929–1933 | **Paimio Sanatorium** | [Alvar Aalto](creators/aalto.md) |
+| — | 1936–1939 | **Fallingwater** | [Frank Lloyd Wright](creators/wright.md) |
+| — | 1937–1939 | **Villa Mairea** | [Alvar Aalto](creators/aalto.md) |
+| — | 1947–1952 | **Unité d'Habitation, Marseille** | [Le Corbusier](creators/le-corbusier.md) |
+| — | 1945–1951 | **Farnsworth House** | [Ludwig Mies van der Rohe](creators/mies.md) |
+| — | 1949 | **Glass House** | [Philip Johnson](creators/johnson.md) |
+| — | 1950–1955 | **Notre-Dame du Haut, Ronchamp** | [Le Corbusier](creators/le-corbusier.md) |
+| — | 1954–1958 | **Seagram Building** | [Ludwig Mies van der Rohe](creators/mies.md) |
+| — | 1943–1959 | **Solomon R. Guggenheim Museum** | [Frank Lloyd Wright](creators/wright.md) |
+| — | 1958–1970 | **Cathedral of Brasília** | [Oscar Niemeyer](creators/niemeyer.md) |
+| — | 1958–1960 | **National Congress of Brazil** | [Oscar Niemeyer](creators/niemeyer.md) |
+| — | 1959–1962 | **TWA Flight Center** | [Eero Saarinen](creators/eero-saarinen.md) |
+| — | 1959–1973 | **Sydney Opera House** | [Jørn Utzon](creators/utzon.md) |
+| — | 1959–1965 | **Salk Institute for Biological Studies** | [Louis Kahn](creators/kahn.md) |
+| — | 1962–1982 | **National Parliament House, Dhaka (Jatiya Sangsad Bhaban)** | [Louis Kahn](creators/kahn.md) |
+| — | 1962–1964 | **Vanna Venturi House** | [Robert Venturi](creators/venturi.md) |
+| — | 1963–1965 | **Gateway Arch** | [Eero Saarinen](creators/eero-saarinen.md) |
+| — | 1965–1976; arts centre 1982 | **Barbican Estate** | [Chamberlin, Powell and Bon](creators/chamberlin-powell-bon.md) |
+| — | 1967–1976 | **Royal National Theatre** | [Denys Lasdun](creators/lasdun.md) |
+| — | 1971–1977 | **Centre Pompidou** | [Richard Rogers](creators/rogers.md) |
+| — | 1978–1986 | **Lloyd's Building** | [Richard Rogers](creators/rogers.md) |
+| — | 1979–1986 | **HSBC Main Building, Hong Kong** | [Norman Foster](creators/foster.md) |
+| — | 1980–1982 | **Portland Building** | [Michael Graves](creators/graves.md) |
+| — | 1984–1989 | **Louvre Pyramid** | [I. M. Pei](creators/pei.md) |
+| — | 1985–1990 | **Bank of China Tower** | [I. M. Pei](creators/pei.md) |
+| — | 1990–1993 | **Vitra Fire Station** | [Zaha Hadid](creators/hadid.md) |
+| — | 1991–2009 | **City of Arts and Sciences** | [Santiago Calatrava](creators/calatrava.md) |
+| — | 1992–1999 | **Reichstag Dome** | [Norman Foster](creators/foster.md) |
+| — | 1992–1999; opened 2001 | **Jewish Museum Berlin** | [Daniel Libeskind](creators/libeskind.md) |
+| — | 1993–1997 | **Guggenheim Museum Bilbao** | [Frank Gehry](creators/gehry.md) |
+| — | 1995–2000; extension 2016 | **Tate Modern** | [Herzog & de Meuron](creators/herzog-de-meuron.md) |
+| — | 1999–2003 | **Walt Disney Concert Hall** | [Frank Gehry](creators/gehry.md) |
+| — | 1999–2004 | **Seattle Central Library** | [Rem Koolhaas](creators/koolhaas.md) |
+
+## 21st century
+
+| Image | Year | Building | Architect |
+|---|---|---|---|
+| — | 2001–2004 | **30 St Mary Axe (The Gherkin)** | [Norman Foster](creators/foster.md) |
+| — | 2004–2012 | **CCTV Headquarters** | [Rem Koolhaas](creators/koolhaas.md) |
+| — | 2007–2012 | **Heydar Aliyev Center** | [Zaha Hadid](creators/hadid.md) |
+| — | 2007–2016; opened 2017 | **Elbphilharmonie** | [Herzog & de Meuron](creators/herzog-de-meuron.md) |
+| — | 2009–2012 | **The Shard** | [Renzo Piano](creators/piano.md) |

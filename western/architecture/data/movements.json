@@ -1,0 +1,189 @@
+[
+ {
+  "id": "ancient-greek",
+  "name": "Ancient Greek",
+  "dates": "c. 650–30 BC",
+  "period": "antiquity",
+  "summary": "Greek builders turned the timber temple into stone and refined it into the Doric, Ionic and Corinthian orders: column, capital and entablature in fixed proportions. Temples were conceived as sculpture set in a landscape, with subtle curves and tapers to correct the eye. Theatres, stoas and sanctuaries completed the repertoire that every later classicism would return to.",
+  "image_file": "The Parthenon in Athens.jpg",
+  "image_caption": "Parthenon, Acropolis, Athens, Greece"
+ },
+ {
+  "id": "ancient-roman",
+  "name": "Ancient Roman",
+  "dates": "c. 300 BC – AD 400",
+  "period": "antiquity",
+  "summary": "Rome borrowed the Greek orders but built with the arch, the vault and the dome, using concrete to enclose vast interior spaces. Basilicas, baths, amphitheatres, aqueducts and triumphal arches served an empire of cities. Vitruvius wrote the only architectural treatise to survive from antiquity, which shaped Western theory for over a thousand years.",
+  "image_file": "Pantheon (Rome) - Right side and front.jpg",
+  "image_caption": "Pantheon, Rome, Italy"
+ },
+ {
+  "id": "early-christian-byzantine",
+  "name": "Early Christian & Byzantine",
+  "dates": "c. 300–1453",
+  "period": "middle-ages",
+  "summary": "After Constantine, Christians adapted the Roman basilica for congregational worship and built centrally planned shrines and baptisteries. In the Eastern Empire, builders set domes over square bays on pendentives and covered interiors in gold mosaic, culminating in Justinian's Hagia Sophia. The Byzantine domed church spread through Italy, the Balkans and Russia.",
+  "image_file": "Hagia Sophia (228968325).jpeg",
+  "image_caption": "Hagia Sophia, Istanbul, Turkey"
+ },
+ {
+  "id": "romanesque",
+  "name": "Carolingian & Romanesque",
+  "dates": "c. 780–1150",
+  "period": "middle-ages",
+  "summary": "From Charlemagne's chapel at Aachen onward, northern Europe revived Roman ideas of masonry building. Romanesque churches, raised along pilgrimage roads and by great monasteries, have thick walls, round arches, massive piers and stone vaults, with sculpted portals and capitals. Durham Cathedral's ribbed vaults point toward the Gothic.",
+  "image_file": "Durham MMB 02 Cathedral.jpg",
+  "image_caption": "Durham Cathedral, Durham, England"
+ },
+ {
+  "id": "gothic",
+  "name": "Gothic",
+  "dates": "c. 1140–1520",
+  "period": "middle-ages",
+  "summary": "Beginning at Saint-Denis near Paris, the pointed arch, rib vault and flying buttress let builders raise taller churches and dissolve their walls into stained glass. The style spread from the Île-de-France across Europe, producing High Gothic cathedrals, the Rayonnant glass cage of the Sainte-Chapelle and the late flamboyant, perpendicular and hall-church variants.",
+  "image_file": "Notre Dame de Chartres.jpg",
+  "image_caption": "Chartres Cathedral, Chartres, France"
+ },
+ {
+  "id": "renaissance-architecture",
+  "name": "Renaissance",
+  "dates": "c. 1420–1550",
+  "period": "renaissance",
+  "summary": "In Florence, Brunelleschi and Alberti revived the classical orders and governed buildings by clear proportion and geometry. Architecture became a learned art, grounded in study of Roman ruins and of Vitruvius. In Rome, Bramante's work for Pope Julius II set the standard of the High Renaissance."
+ },
+ {
+  "id": "mannerism",
+  "name": "Mannerism",
+  "dates": "c. 1520–1600",
+  "period": "renaissance",
+  "summary": "Architects who had mastered the classical rules began to bend them: columns sunk into walls, brackets that support nothing, keystones that slip. Michelangelo and Giulio Romano treated the orders with wit and tension, while Vignola and the Counter-Reformation produced the model of the Jesuit church.",
+  "image_file": "Medicibib.jpg",
+  "image_caption": "Laurentian Library, San Lorenzo, Florence, Italy"
+ },
+ {
+  "id": "baroque",
+  "name": "Baroque",
+  "dates": "c. 1600–1750",
+  "period": "seventeenth-century",
+  "summary": "Born in papal Rome, Baroque architecture uses curving walls, ovals, dramatic light and the fusion of architecture, sculpture and painting to move the viewer. It served the Catholic Church and absolute monarchs alike, from Bernini's colonnade at St Peter's to Versailles, Wren's London and the palaces and abbeys of Central Europe.",
+  "image_file": "San Carlo alle Quattro Fontane - Front.jpg",
+  "image_caption": "San Carlo alle Quattro Fontane, Rome, Italy"
+ },
+ {
+  "id": "rococo",
+  "name": "Rococo",
+  "dates": "c. 1720–1770",
+  "period": "enlightenment",
+  "summary": "A lighter, more decorative late phase of the Baroque that began in French interiors. Rococo rooms dissolve structure into white and gold stucco, asymmetrical shell-like ornament, mirrors and painted skies. In southern Germany, Austria and Russia it produced pilgrimage churches and palaces of extraordinary brilliance.",
+  "image_file": "Vierzehnheiligen Fassade.JPG",
+  "image_caption": "Basilica of the Fourteen Holy Helpers (Vierzehnheiligen), Bad Staffelstein, Bavaria, Germany"
+ },
+ {
+  "id": "neoclassicism",
+  "name": "Palladianism & Neoclassicism",
+  "dates": "c. 1615–1850",
+  "period": "enlightenment",
+  "summary": "Palladio's villas and treatise inspired Inigo Jones and, a century later, a British and American Palladian revival. From the 1750s, archaeology at Herculaneum, Pompeii and Athens encouraged a sterner, purer classicism. Neoclassicism became the language of the Enlightenment and of the new republics, museums and capitals.",
+  "image_file": "Altes Museum (Berlin) (6339770591).jpg",
+  "image_caption": "Altes Museum, Museum Island, Berlin, Germany"
+ },
+ {
+  "id": "gothic-revival",
+  "name": "Gothic Revival",
+  "dates": "c. 1740–1900",
+  "period": "nineteenth-century",
+  "summary": "First a picturesque taste for medieval ruins and castles, the Gothic Revival became a moral and national cause in the nineteenth century. Pugin argued that pointed architecture was the only true Christian style; Viollet-le-Duc studied and restored medieval buildings as rational structure. Parliaments, churches, universities and railway stations went Gothic.",
+  "image_file": "Palace of Westminster as seen from Westminster Bridge.jpg",
+  "image_caption": "Palace of Westminster, Westminster, London, England"
+ },
+ {
+  "id": "iron-and-glass",
+  "name": "Iron, Glass & Engineering",
+  "dates": "c. 1830–1900",
+  "period": "nineteenth-century",
+  "summary": "Industrial iron, steel and plate glass gave rise to a new architecture of greenhouses, railway sheds, exhibition halls, bridges and towers, often designed by engineers rather than architects. The Crystal Palace and the Eiffel Tower showed that prefabricated metal structures could be spectacular in their own right."
+ },
+ {
+  "id": "beaux-arts",
+  "name": "Beaux-Arts & Historicism",
+  "dates": "c. 1850–1920",
+  "period": "nineteenth-century",
+  "summary": "Taught at the École des Beaux-Arts in Paris, this academic style combined rigorous symmetrical planning with rich classical and Baroque decoration. Opera houses, museums, libraries and railway terminals across Europe and the Americas were built in its grand manner.",
+  "image_file": "Paris Opera full frontal architecture, May 2009.jpg",
+  "image_caption": "Palais Garnier (Paris Opéra), Paris, France"
+ },
+ {
+  "id": "chicago-school",
+  "name": "Chicago School",
+  "dates": "c. 1880–1910",
+  "period": "nineteenth-century",
+  "summary": "After the fire of 1871, Chicago builders combined steel frames, elevators and fireproofing to produce the first skyscrapers. Louis Sullivan gave the tall office building an artistic form, organised as base, shaft and crown, and the large 'Chicago window' became a hallmark.",
+  "image_file": "Wainwright Building, 7th Street and Chestnut Street, St. Louis, MO - 53051647915.jpg",
+  "image_caption": "Wainwright Building, St Louis, Missouri, United States"
+ },
+ {
+  "id": "art-nouveau",
+  "name": "Art Nouveau & Modernisme",
+  "dates": "c. 1890–1914",
+  "period": "nineteenth-century",
+  "summary": "A deliberate break with historical styles, Art Nouveau took its forms from plants, whiplash curves and new materials such as exposed iron. It flourished in Brussels, Paris, Glasgow, Vienna and Barcelona, where Gaudí's Catalan Modernisme went furthest. The Vienna Secession pointed toward a sparer, geometric modernity.",
+  "image_file": "Casa Batllo Overview Barcelona Spain cut.jpg",
+  "image_caption": "Casa Batlló, Passeig de Gràcia, Barcelona, Spain"
+ },
+ {
+  "id": "art-deco",
+  "name": "Art Deco",
+  "dates": "c. 1920–1940",
+  "period": "modern",
+  "summary": "Named after the 1925 Paris decorative arts exhibition, Art Deco brought streamlined, geometric ornament, stepped profiles and luxurious materials to cinemas, liners and above all New York skyscrapers. It celebrated speed, machinery and modern glamour."
+ },
+ {
+  "id": "modernism",
+  "name": "Modernism & the International Style",
+  "dates": "c. 1905–1960",
+  "period": "modern",
+  "summary": "Modernists rejected historical ornament in favour of form that followed function, new materials and the free plan made possible by the frame. Wright's organic architecture, De Stijl, the Bauhaus and Le Corbusier's five points converged by the late 1920s on a white, flat-roofed, glass-walled International Style that went worldwide after 1945."
+ },
+ {
+  "id": "late-modernism",
+  "name": "Late & Expressive Modernism",
+  "dates": "c. 1945–1975",
+  "period": "contemporary",
+  "summary": "After the war, modernism became the official style of corporations and governments, while many architects pushed it toward sculptural concrete shells, monumental geometry and regional character. Niemeyer's Brasília, Saarinen's TWA terminal, Kahn's monumental buildings and Utzon's Sydney Opera House belong here."
+ },
+ {
+  "id": "brutalism",
+  "name": "Brutalism",
+  "dates": "c. 1950–1980",
+  "period": "contemporary",
+  "summary": "Taking its name from béton brut, the raw concrete of Le Corbusier's Unité d'Habitation, Brutalism exposed materials and structure with blunt honesty. It was widely used for housing, universities and civic buildings in the postwar welfare states, and remains much debated, demolished and, lately, admired."
+ },
+ {
+  "id": "postmodernism",
+  "name": "Postmodernism",
+  "dates": "c. 1965–1995",
+  "period": "contemporary",
+  "summary": "Reacting against the austerity of modernism, postmodern architects brought back ornament, colour, historical quotation and irony. Robert Venturi's 'less is a bore' countered Mies's 'less is more', and buildings began to speak in signs and symbols again."
+ },
+ {
+  "id": "high-tech",
+  "name": "High-tech",
+  "dates": "c. 1970–present",
+  "period": "contemporary",
+  "summary": "High-tech architects celebrate engineering, exposing structure, ducts and services and using lightweight steel, glass and prefabricated parts. Born in Britain and France with the Centre Pompidou, it shaped many corporate towers and airports and evolved toward environmental performance."
+ },
+ {
+  "id": "deconstructivism",
+  "name": "Deconstructivism & Digital Form",
+  "dates": "c. 1980–present",
+  "period": "contemporary",
+  "summary": "Named after a 1988 exhibition at the Museum of Modern Art, deconstructivist buildings fragment, tilt and collide forms, rejecting the stable box. Computer design and fabrication then made possible the flowing, curved forms of Gehry and Hadid."
+ },
+ {
+  "id": "contemporary-architecture",
+  "name": "Contemporary",
+  "dates": "c. 1990–present",
+  "period": "contemporary",
+  "summary": "Today's architecture is plural: expressive structure, material experiment, adaptive reuse of industrial buildings and growing concern with energy and climate. Signature cultural buildings compete with a quieter return to craft, context and sustainability."
+ }
+]

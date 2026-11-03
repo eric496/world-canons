@@ -1,0 +1,16 @@
+{
+ "title": "Architecture",
+ "order": 2,
+ "tagline": "Buildings and their architects from the Parthenon to the present",
+ "hero_caption": "",
+ "labels": {
+  "creator": "Architect",
+  "creators": "Architects",
+  "work": "Building",
+  "works": "Buildings",
+  "movement": "Style",
+  "movements": "Styles",
+  "location": "Location"
+ },
+ "intro": "Western architecture from the temples of ancient Greece to the present, told through the buildings themselves and the people who designed them. Every architect or builder has a full biography and every building a detailed introduction, with photographs from Wikimedia Commons. Where a medieval or ancient builder is unknown, buildings are grouped under a collective entry."
+}

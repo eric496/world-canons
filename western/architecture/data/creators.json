@@ -1,0 +1,1387 @@
+[
+ {
+  "id": "greek-master-builders",
+  "name": "Greek master builders",
+  "born": "active 7th–4th century BC",
+  "died": "",
+  "sort": -600,
+  "nationality": "Greek",
+  "movements": [
+   "ancient-greek"
+  ],
+  "bio": "The architects of most Greek temples, theatres and gateways are unknown or known only by name from ancient writers. This entry gathers the buildings of the Greek world whose designers cannot be firmly identified.",
+  "bio_full": [
+   "Greek architecture was the work of an architekton, a master builder who designed the building, drew up specifications, ordered stone and directed teams of quarrymen, masons and sculptors. A handful of names survive in inscriptions and in writers such as Vitruvius, Plutarch and Pausanias: Mnesicles for the Propylaea of the Acropolis, Polykleitos the Younger for the theatre at Epidaurus, and others. For many temples, including the great Doric temples of the Greek colonies in southern Italy and Sicily, no names are recorded at all.",
+   "What these builders created was a disciplined system rather than a sequence of individual styles. The Doric and Ionic orders fixed the relations of column, capital, frieze and cornice, and generations of architects refined proportions, spacing and optical corrections. Their temples, theatres and propylaea became the vocabulary that Rome adopted and that the Renaissance, Neoclassicism and even modern architects kept rediscovering."
+  ]
+ },
+ {
+  "id": "ictinus",
+  "name": "Ictinus",
+  "born": "active mid-5th century BC",
+  "died": "",
+  "sort": -450,
+  "nationality": "Greek (Athenian)",
+  "movements": [
+   "ancient-greek"
+  ],
+  "bio": "Athenian architect who, with Callicrates, designed the Parthenon on the Acropolis under the direction of Phidias. Ancient sources also credit him with the temple of Apollo at Bassae and the hall of the Mysteries at Eleusis.",
+  "bio_full": [
+   "Almost nothing is known of Ictinus's life. Ancient writers name him as an architect of the Parthenon, built between 447 and 432 BC as part of Pericles's programme to rebuild the Acropolis after the Persian sack, and Vitruvius records that he wrote a book on the temple together with one Carpion; it is lost. The travel writer Pausanias says Ictinus designed the temple of Apollo Epicurius at Bassae in Arcadia, and Plutarch and Strabo connect him with the Telesterion, the initiation hall at Eleusis.",
+   "The Parthenon shows an architect working with exceptional sophistication. It combines a Doric exterior with Ionic elements such as a continuous sculpted frieze, and its floor, columns and entablature are subtly curved and inclined so that the building reads as alive rather than rigid. Bassae, with its early Corinthian capital and inward-facing half-columns, suggests the same interest in experiment. Ictinus has stood ever since as the archetype of the classical architect."
+  ]
+ },
+ {
+  "id": "callicrates",
+  "name": "Callicrates",
+  "born": "active mid-5th century BC",
+  "died": "",
+  "sort": -448,
+  "nationality": "Greek (Athenian)",
+  "movements": [
+   "ancient-greek"
+  ],
+  "bio": "Athenian architect named with Ictinus as a builder of the Parthenon and credited with the small Ionic temple of Athena Nike on the Acropolis.",
+  "bio_full": [
+   "Callicrates appears in ancient sources and inscriptions as one of the leading architects of Periclean Athens. Plutarch names him with Ictinus as a builder of the Parthenon, and an Athenian decree assigns him the design of the temple of Athena Nike, apparently approved around 449 BC but built only in the 420s. He is also associated with work on the Long Walls connecting Athens to its port at Piraeus.",
+   "How the work on the Parthenon was divided between Ictinus and Callicrates is not known, and scholars have suggested that Callicrates may have been more the practical builder. The temple of Athena Nike, a jewel-like Ionic building perched on the bastion beside the Propylaea, shows a gift for elegance on a small scale. Together with the Erechtheion it made the Ionic order a full partner of the Doric in the Athenian Acropolis."
+  ]
+ },
+ {
+  "id": "vitruvius",
+  "name": "Vitruvius",
+  "born": "c. 80–70 BC",
+  "died": "after c. 15 BC",
+  "sort": -75,
+  "nationality": "Roman",
+  "movements": [
+   "ancient-roman"
+  ],
+  "bio": "Roman architect and military engineer whose ten books On Architecture are the only complete treatise on the subject to survive from antiquity. Rediscovered in the Renaissance, they became the foundation of Western architectural theory.",
+  "bio_full": [
+   "Marcus Vitruvius Pollio served as a military engineer under Julius Caesar, building siege machines and artillery, and later received a pension through the favour of Octavian, the future Augustus, to whom he dedicated his treatise. The only building he says he designed is a basilica at Fanum Fortunae (modern Fano), which has not survived. Even his full name is partly uncertain, and his dates are inferred from the text.",
+   "De architectura covers far more than buildings: town planning, materials, temples and the orders, public buildings, houses, water supply, sundials and machines. Its insistence that architecture must have firmitas, utilitas and venustas (strength, usefulness and beauty) became a lasting formula, and its passage relating the proportions of temples to those of the human body inspired Leonardo's Vitruvian Man. Copied through the Middle Ages, it was studied intensely from the fifteenth century and printed, translated and illustrated across Europe."
+  ]
+ },
+ {
+  "id": "roman-builders",
+  "name": "Roman imperial builders",
+  "born": "active 1st century BC – 4th century AD",
+  "died": "",
+  "sort": -20,
+  "nationality": "Roman",
+  "movements": [
+   "ancient-roman"
+  ],
+  "bio": "The engineers, architects and workforces of Rome, mostly anonymous, who built the temples, amphitheatres, baths, aqueducts and basilicas of the empire.",
+  "bio_full": [
+   "Roman building was organised on a vast scale. Emperors, magistrates and wealthy citizens commissioned public works; architects, often Greek or trained in Greek traditions, designed them; and military engineers, contractors, slaves and free craftsmen carried them out. Only a few architects are known by name, such as Rabirius for Domitian's palace or Apollodorus of Damascus for Trajan, and the designers of even the most famous buildings, including the Colosseum and Hadrian's Pantheon, are not recorded.",
+   "The Roman achievement was above all structural. Roman concrete, made with volcanic pozzolana, allowed builders to cast arches, barrel and groin vaults and domes of unprecedented size, and to standardise construction across an empire. Romans combined these vaulted spaces with Greek columns and pediments, inventing building types from the amphitheatre to the bath complex. Their ruins, studied by every later classicist, made Rome the great school of Western architecture."
+  ]
+ },
+ {
+  "id": "apollodorus",
+  "name": "Apollodorus of Damascus",
+  "born": "c. AD 60",
+  "died": "c. 130",
+  "sort": 60,
+  "birthplace": "Damascus, Roman Syria",
+  "nationality": "Roman (Syrian Greek)",
+  "movements": [
+   "ancient-roman"
+  ],
+  "bio": "Engineer and architect to the emperor Trajan, builder of the bridge over the Danube and of Trajan's Forum in Rome. He is traditionally credited with Trajan's Column and Trajan's Market.",
+  "bio_full": [
+   "Apollodorus came from Damascus in the Roman province of Syria and became Trajan's chief engineer. During the Dacian Wars he built a great bridge across the Danube at Drobeta, around 105, famous in antiquity and shown on Trajan's Column. In Rome he designed the Forum of Trajan, the largest and most splendid of the imperial forums, with its Basilica Ulpia, libraries and column, completed around 112. The adjoining market complex and the Baths of Trajan are often attributed to him as well.",
+   "According to the historian Cassius Dio, Apollodorus mocked the young Hadrian's architectural ambitions and was later banished and put to death by him, a story many historians treat with caution. Whatever the truth, his work shows the confidence of Roman engineering at the height of the empire: vast vaulted halls, terraced concrete markets and monumental planning that integrated architecture, sculpture and urban space. A treatise on siege engines under his name also survives."
+  ]
+ },
+ {
+  "id": "byzantine-builders",
+  "name": "Early Christian & Byzantine builders",
+  "born": "active 4th–11th century",
+  "died": "",
+  "sort": 400,
+  "nationality": "Roman / Byzantine",
+  "movements": [
+   "early-christian-byzantine"
+  ],
+  "bio": "The largely anonymous architects and mosaicists of the late Roman and Byzantine world who created the Christian basilica and the domed, mosaic-covered church.",
+  "bio_full": [
+   "When Christianity became a favoured and then an official religion in the fourth century, builders adapted the Roman basilica, a long hall with aisles and an apse, for congregational worship, and the Roman mausoleum for shrines and baptisteries. The bishops, emperors and patrons who paid for these churches are often recorded; the architects rarely are. In the Eastern Empire centred on Constantinople, and in its Italian outposts at Ravenna and Venice, Byzantine builders developed domes, vaults and lavish marble and mosaic interiors.",
+   "Early Christian and Byzantine architecture turned attention inward. Plain brick exteriors hide interiors in which light, colour and gold create an image of heaven. The basilica plan shaped the Western church for a millennium, while the domed centralised church became the norm in the Orthodox world from Greece and the Balkans to Russia. Their mosaics are among the greatest survivals of late antique art."
+  ]
+ },
+ {
+  "id": "anthemius-isidore",
+  "name": "Anthemius of Tralles & Isidore of Miletus",
+  "born": "active 6th century",
+  "died": "",
+  "sort": 530,
+  "nationality": "Byzantine Greek",
+  "movements": [
+   "early-christian-byzantine"
+  ],
+  "bio": "Two Greek mathematicians and engineers from Asia Minor whom the emperor Justinian commissioned to design Hagia Sophia in Constantinople, built in under six years from 532.",
+  "bio_full": [
+   "Anthemius came from Tralles in western Asia Minor, from a family of doctors and scholars; he wrote on burning mirrors and conic sections and was famous for mechanical ingenuity. Isidore of Miletus was a geometer who taught in Constantinople and edited the works of Archimedes. After the Nika riots of 532 destroyed the earlier church of Hagia Sophia, Justinian chose these two theorists rather than conventional builders, and the new church was dedicated in 537. Anthemius seems to have died soon after.",
+   "Their solution, a vast dome on pendentives over a square bay, buttressed by half-domes to east and west, created the largest enclosed space of its age and appeared, as the court historian Procopius wrote, to hang from heaven. When the first dome collapsed after earthquakes in 558, Isidore's nephew, Isidore the Younger, rebuilt it higher and more stable. The pair stand at the head of a tradition of architects as mathematicians, and their building set the pattern for Byzantine and Ottoman domed architecture."
+  ]
+ },
+ {
+  "id": "odo-of-metz",
+  "name": "Odo of Metz",
+  "born": "active c. 790–805",
+  "died": "",
+  "sort": 790,
+  "nationality": "Frankish",
+  "movements": [
+   "romanesque"
+  ],
+  "bio": "Frankish architect traditionally credited with Charlemagne's Palatine Chapel at Aachen, one of the earliest surviving monuments of medieval northern Europe.",
+  "bio_full": [
+   "Odo of Metz is known only from a single line of verse, a dedicatory inscription recorded in the Middle Ages, which names him as the builder of the chapel of Charlemagne's palace at Aachen. Nothing else is known of his life, and some historians are cautious about the attribution. He presumably worked within the circle of scholars and craftsmen gathered at Charlemagne's court around 790 to 805.",
+   "The chapel attributed to him is an octagon surrounded by a sixteen-sided ambulatory and gallery, built of stone and covered with a domed vault. It draws on San Vitale in Ravenna and on Roman imperial buildings, and Charlemagne brought columns and marbles from Rome and Ravenna for it. Odo's achievement was to revive large-scale vaulted masonry in the north, giving visible form to the Carolingian idea of a renewed Roman Empire."
+  ]
+ },
+ {
+  "id": "romanesque-builders",
+  "name": "Romanesque master builders",
+  "born": "active 11th–12th century",
+  "died": "",
+  "sort": 1030,
+  "nationality": "European",
+  "movements": [
+   "romanesque"
+  ],
+  "bio": "The masons and master builders, mostly anonymous, who raised the great abbeys, pilgrimage churches and cathedrals of eleventh- and twelfth-century Europe.",
+  "bio_full": [
+   "Around the year 1000 a wave of church building spread across Western Europe, driven by monastic reform, pilgrimage, growing towns and newly powerful rulers such as the German emperors and the Norman dukes. Master masons travelled between building sites, and a few names survive in inscriptions, such as Buscheto at Pisa or Gislebertus, the sculptor of Autun. Most of the men who designed and built these churches, however, are unrecorded.",
+   "Romanesque buildings share thick walls, round arches, massive piers and an increasing ambition to vault naves in stone, partly for fireproofing and partly for grandeur and acoustics. Regional schools varied widely, from the striped marble of Tuscany to the pilgrimage churches of southern France and the Norman cathedrals of England. Their structural experiments, especially Durham's rib vaults, led directly to the Gothic."
+  ]
+ },
+ {
+  "id": "abbot-suger",
+  "name": "Abbot Suger",
+  "born": "c. 1081",
+  "died": "1151",
+  "sort": 1081,
+  "deathplace": "Saint-Denis",
+  "nationality": "French",
+  "movements": [
+   "gothic"
+  ],
+  "bio": "Abbot of Saint-Denis and adviser to two French kings, whose rebuilding of his abbey church in the 1130s and 1140s is regarded as the birth of Gothic architecture.",
+  "bio_full": [
+   "Suger was of modest birth and was given as a boy to the royal abbey of Saint-Denis north of Paris, where he was educated alongside the future King Louis VI. He became abbot in 1122 and served as a leading counsellor to Louis VI and Louis VII, acting as regent of France while Louis VII was on the Second Crusade. He reformed the abbey's finances and administration, and from about 1135 rebuilt its church, the burial place of French kings.",
+   "Suger was a patron rather than a mason, and the name of his master builder is unknown. But his writings on the consecration and administration of the abbey explain his aims: to fill the church with light, which he understood, following the theology of light attributed to Dionysius, as an image of the divine. The new west front and especially the choir of 1140–44, with its ring of stained-glass windows and slender columns, launched the Gothic style that spread across France and Europe."
+  ]
+ },
+ {
+  "id": "chartres-master-builders",
+  "name": "Master builders of Chartres",
+  "born": "active c. 1194–1260",
+  "died": "",
+  "sort": 1194,
+  "nationality": "French",
+  "movements": [
+   "gothic"
+  ],
+  "bio": "The unknown master masons who rebuilt Chartres Cathedral after the fire of 1194, creating the classic model of High Gothic.",
+  "bio_full": [
+   "When fire destroyed most of the Romanesque cathedral of Chartres in 1194, sparing only the west towers, the crypt and the Royal Portal, the chapter and townspeople rebuilt the church at great speed, with the main structure largely complete by about 1220 and consecration in 1260. No names of the designers are recorded. Scholars have analysed the masonry stone by stone and proposed several successive teams of builders, but how many masters there were and who led the work remain debated.",
+   "The Chartres builders defined High Gothic: a three-storey elevation of arcade, triforium and tall clerestory, quadripartite rib vaults, and flying buttresses that allowed the upper walls to become great windows. They also oversaw one of the largest and best-preserved ensembles of medieval stained glass and sculpture. Chartres became the reference point for Reims, Amiens and the cathedrals that followed."
+  ]
+ },
+ {
+  "id": "notre-dame-master-builders",
+  "name": "Master builders of Notre-Dame",
+  "born": "active 1163–c. 1345",
+  "died": "",
+  "sort": 1163,
+  "nationality": "French",
+  "movements": [
+   "gothic"
+  ],
+  "bio": "The successive masters who built Notre-Dame de Paris over nearly two centuries, among them Jean de Chelles and Pierre de Montreuil, who designed the transept façades.",
+  "bio_full": [
+   "Bishop Maurice de Sully began the new cathedral of Paris in 1163, and its choir, nave and west front rose in stages over the following eighty years under masters whose names are unrecorded. From the mid-thirteenth century, named architects appear: Jean de Chelles, whose name is carved on the south transept, began the transept façades in the 1250s, and Pierre de Montreuil continued them. Later masters including Jean Ravy completed the choir chapels and screen in the fourteenth century.",
+   "Notre-Dame began as an early Gothic building with sexpartite vaults and galleries, and was modernised as it rose, gaining huge rose windows and flying buttresses among the earliest of their kind on a great scale. Its history is a reminder that Gothic cathedrals were collective, generational works. Nineteenth-century restoration by Viollet-le-Duc and the rebuilding after the fire of 2019 continue that long history."
+  ]
+ },
+ {
+  "id": "pierre-de-montreuil",
+  "name": "Pierre de Montreuil",
+  "born": "c. 1200",
+  "died": "1267",
+  "sort": 1200,
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "gothic"
+  ],
+  "bio": "Leading Parisian architect of the mid-thirteenth century, master of works at Saint-Denis and Notre-Dame, traditionally credited with the Sainte-Chapelle.",
+  "bio_full": [
+   "Pierre de Montreuil is documented in Paris from the 1240s. He worked at the abbey of Saint-Germain-des-Prés, where he built a refectory and a Lady Chapel, both now lost, and he is associated with the rebuilding of Saint-Denis. By 1265 he was master of works at Notre-Dame, where he continued the south transept façade begun by Jean de Chelles. His tombstone at Saint-Germain-des-Prés called him a doctor of stones, a sign of the high status a master mason could reach.",
+   "Since the nineteenth century he has often been named as the architect of Louis IX's Sainte-Chapelle, consecrated in 1248, but there is no document to prove it, and many historians now treat the attribution as uncertain. What is clear is that he was a master of the Rayonnant style, in which walls are reduced to thin tracery frames and glass. His career marks the moment when the names of Gothic architects begin to be recorded and celebrated."
+  ]
+ },
+ {
+  "id": "gothic-master-builders",
+  "name": "Gothic master builders",
+  "born": "active 12th–16th century",
+  "died": "",
+  "sort": 1220,
+  "nationality": "European",
+  "movements": [
+   "gothic"
+  ],
+  "bio": "The master masons of the great Gothic cathedrals and chapels of France, England, Germany and Italy, some known by name, many not.",
+  "bio_full": [
+   "From the thirteenth century, master masons were increasingly recognised as professionals. At Amiens a labyrinth set into the floor named the successive masters Robert de Luzarches and Thomas and Renaud de Cormont; at Reims a similar labyrinth, now lost, recorded Jean d'Orbais and his successors. At Salisbury the canon Elias of Dereham and the mason Nicholas of Ely are connected with the work, while Cologne Cathedral was begun under Master Gerhard. Masters travelled, kept drawings, trained apprentices in lodges and were sometimes buried within their churches.",
+   "These builders spread the Gothic of the Île-de-France across Europe and adapted it to local traditions: the soaring French cathedral, the long, low English cathedral with its single spire, the hall churches of Germany, and late variants such as English Perpendicular and fan vaulting. Their methods relied on geometry, templates and experience rather than calculation, yet produced some of the tallest and boldest masonry structures ever built."
+  ]
+ },
+ {
+  "id": "parler",
+  "name": "Peter Parler",
+  "born": "c. 1330",
+  "died": "1399",
+  "sort": 1330,
+  "birthplace": "Schwäbisch Gmünd, Swabia",
+  "deathplace": "Prague",
+  "nationality": "German",
+  "movements": [
+   "gothic"
+  ],
+  "bio": "German architect and sculptor called to Prague by Emperor Charles IV, who continued St Vitus Cathedral and built the Charles Bridge and its Old Town tower.",
+  "bio_full": [
+   "Peter Parler came from a family of masons; his father Heinrich worked on the Church of the Holy Cross at Schwäbisch Gmünd, one of the first great German hall churches. In 1356, aged about twenty-three, Peter was summoned to Prague by Emperor Charles IV to continue the new cathedral of St Vitus after the death of its first architect, Matthias of Arras. He also built the Charles Bridge across the Vltava and its Old Town tower, and the Parler workshop produced sculpture and buildings throughout Bohemia.",
+   "Parler was among the most inventive architects of the late Middle Ages. His net vaults with their parallel ribs, his hanging bosses and his playful tracery anticipated the virtuoso late Gothic of Central Europe. The portrait busts of the triforium at St Vitus, which include one of Parler himself, are among the earliest realistic portraits of the period. The Parler family's work spread through relatives and pupils to Vienna, Ulm, Freiburg and beyond."
+  ]
+ },
+ {
+  "id": "giotto",
+  "name": "Giotto di Bondone",
+  "born": "c. 1267",
+  "died": "1337",
+  "sort": 1267,
+  "birthplace": "Vespignano, near Florence",
+  "deathplace": "Florence",
+  "nationality": "Florentine",
+  "movements": [
+   "gothic"
+  ],
+  "bio": "The great Florentine painter, appointed in 1334 master of works of Florence Cathedral, who designed its marble-clad bell tower.",
+  "bio_full": [
+   "Giotto, the most famous painter of his age, transformed Italian art with the fresco cycles of the Arena Chapel in Padua and Santa Croce in Florence. In 1334 the city of Florence appointed him master of works of the cathedral and of the city's fortifications, a sign of the prestige he had won. He laid the foundations of the bell tower beside the cathedral in July of that year and supervised the lowest storey before his death in 1337.",
+   "His design for the campanile, slender and clad in white, green and pink marble, seems to have been modified by his successors Andrea Pisano and Francesco Talenti, who completed it around 1359. A parchment drawing in Siena is often linked with Giotto's original idea, though this is debated. Giotto's appointment is a landmark in the history of the architect as an artist, a generalist of design rather than a mason trained on site."
+  ]
+ },
+ {
+  "id": "arnolfo",
+  "name": "Arnolfo di Cambio",
+  "born": "c. 1240",
+  "died": "c. 1300–1310",
+  "sort": 1240,
+  "birthplace": "Colle di Val d'Elsa, Tuscany",
+  "nationality": "Florentine",
+  "movements": [
+   "gothic"
+  ],
+  "bio": "Sculptor and architect who designed the original plan of Florence Cathedral and is traditionally credited with the Palazzo Vecchio and the church of Santa Croce.",
+  "bio_full": [
+   "Arnolfo trained as a sculptor in the workshop of Nicola Pisano, working on the pulpit of Siena Cathedral, and then served Charles of Anjou in Rome, where he created tombs and the elaborate Gothic canopies over the altars of San Paolo fuori le Mura and Santa Cecilia. By the 1290s he was in Florence, where he was given charge of the new cathedral of Santa Maria del Fiore, begun in 1296, and carved sculpture for its façade.",
+   "Arnolfo's cathedral plan, with its wide nave and vast octagonal crossing, set the challenge that Brunelleschi's dome would answer more than a century later. The sixteenth-century writer Vasari also credited him with the Palazzo Vecchio and Santa Croce, attributions that are plausible but undocumented. His work combines the Gothic of France with a Tuscan love of broad spaces and clear volumes."
+  ]
+ },
+ {
+  "id": "brunelleschi",
+  "name": "Filippo Brunelleschi",
+  "born": "1377",
+  "died": "1446",
+  "sort": 1377,
+  "birthplace": "Florence",
+  "deathplace": "Florence",
+  "nationality": "Florentine",
+  "movements": [
+   "renaissance-architecture"
+  ],
+  "bio": "Goldsmith turned engineer and architect who built the dome of Florence Cathedral and, with buildings such as the Foundling Hospital and San Lorenzo, founded Renaissance architecture.",
+  "bio_full": [
+   "Brunelleschi, son of a Florentine notary, trained as a goldsmith and in 1401 competed, against Lorenzo Ghiberti, for the bronze doors of the Baptistery. After losing, he turned to architecture and, according to his early biographers, studied the ruins of ancient Rome. Around 1415 he demonstrated linear perspective with painted panels of the Baptistery. From 1418 to his death he directed the construction of the cathedral dome, and in the 1420s and 1430s he designed the Ospedale degli Innocenti, the Old Sacristy and church of San Lorenzo, the Pazzi Chapel and Santo Spirito.",
+   "Brunelleschi combined two things: brilliant engineering, including the hoisting machines and herringbone brickwork that allowed the dome to be built without centring, and a new architectural language of Corinthian columns, round arches and grey stone articulating white walls, all governed by simple ratios. His buildings made antiquity a living model rather than a source of fragments, and every Renaissance architect after him built on his example."
+  ]
+ },
+ {
+  "id": "alberti",
+  "name": "Leon Battista Alberti",
+  "born": "1404",
+  "died": "1472",
+  "sort": 1404,
+  "birthplace": "Genoa",
+  "deathplace": "Rome",
+  "nationality": "Florentine",
+  "movements": [
+   "renaissance-architecture"
+  ],
+  "bio": "Humanist, writer and architect whose treatise On the Art of Building was the first Renaissance theory of architecture, and whose façades and churches applied ancient forms with new rigour.",
+  "bio_full": [
+   "Alberti was born in exile, the illegitimate son of a Florentine merchant family, and studied law at Bologna before entering the papal bureaucracy. A true universal man, he wrote dialogues on the family, Latin comedies, a treatise on painting that codified perspective, and works on sculpture, cryptography and surveying. From the late 1440s he advised popes, the Malatesta of Rimini, the Rucellai of Florence and the Gonzaga of Mantua on their buildings, usually providing designs that others executed.",
+   "His De re aedificatoria, completed around 1452, recast Vitruvius for the modern world and defined beauty as a harmony of parts to which nothing can be added or taken away. His buildings put the theory into practice: the classical orders layered on the Palazzo Rucellai, the Roman triumphal arch adapted for the churches of Rimini and Mantua, and the geometric façade of Santa Maria Novella. Alberti established the architect as an intellectual who designs rather than builds."
+  ]
+ },
+ {
+  "id": "bramante",
+  "name": "Donato Bramante",
+  "born": "1444",
+  "died": "1514",
+  "sort": 1444,
+  "birthplace": "Fermignano, near Urbino",
+  "deathplace": "Rome",
+  "nationality": "Italian",
+  "movements": [
+   "renaissance-architecture"
+  ],
+  "bio": "Painter and architect who brought the High Renaissance to Rome with the Tempietto and the first design for the new St Peter's Basilica.",
+  "bio_full": [
+   "Bramante trained as a painter in the circle of Piero della Francesca and Urbino's humanist court, then spent some twenty years in Milan under Ludovico Sforza, where he knew Leonardo da Vinci and built Santa Maria presso San Satiro, with its illusionistic painted choir, and the tribune of Santa Maria delle Grazie. After the French conquest of Milan in 1499 he moved to Rome and studied its ruins. Pope Julius II made him his architect, entrusting him with the Belvedere Court of the Vatican and, from 1506, the rebuilding of St Peter's.",
+   "Bramante's Roman works, such as the cloister of Santa Maria della Pace and the Tempietto, have a gravity and mass new to the Renaissance, modelled closely on ancient buildings. His plan for St Peter's, a Greek cross crowned by a huge dome, was altered by his successors but set the project's scale. Raphael, Peruzzi and Antonio da Sangallo worked under him, and his circle created the High Renaissance language of Roman architecture."
+  ]
+ },
+ {
+  "id": "michelangelo",
+  "name": "Michelangelo Buonarroti",
+  "born": "1475",
+  "died": "1564",
+  "sort": 1475,
+  "birthplace": "Caprese, Republic of Florence",
+  "deathplace": "Rome",
+  "nationality": "Florentine",
+  "movements": [
+   "renaissance-architecture",
+   "mannerism"
+  ],
+  "bio": "Sculptor, painter and poet who became, in later life, the most influential architect of the sixteenth century, designing the Laurentian Library, the Campidoglio and the dome of St Peter's.",
+  "bio_full": [
+   "Michelangelo came to architecture through sculpture. His first major architectural commissions, in the 1510s and 1520s, were for the Medici in Florence: a façade for San Lorenzo that was never built, the New Sacristy that houses the Medici tombs, and the Laurentian Library. After settling in Rome in 1534 he redesigned the Capitoline Hill, completed the Palazzo Farnese, and in 1546, aged seventy-one, became architect of St Peter's, which he directed until his death, refusing payment. He also designed the Porta Pia and converted the Baths of Diocletian into the church of Santa Maria degli Angeli.",
+   "Michelangelo treated architecture as a body, with walls that swell and tighten like muscle, and he broke the classical rules with conscious freedom: columns recessed into walls, brackets that support nothing, staircases that pour like lava. This licence made him a founder of Mannerism and an inspiration for the Baroque. His plan for St Peter's simplified Bramante's, and its ribbed dome, completed by Giacomo della Porta after his death, became the model for domes from London to Washington."
+  ]
+ },
+ {
+  "id": "giulio-romano",
+  "name": "Giulio Romano",
+  "born": "c. 1499",
+  "died": "1546",
+  "sort": 1499,
+  "birthplace": "Rome",
+  "deathplace": "Mantua",
+  "nationality": "Italian",
+  "movements": [
+   "mannerism"
+  ],
+  "bio": "Raphael's chief assistant, painter and architect to the Gonzaga court at Mantua, whose Palazzo Te is the defining building of architectural Mannerism.",
+  "bio_full": [
+   "Giulio Pippi, called Romano, grew up in Raphael's workshop, rising to become his principal assistant on the Vatican frescoes and, after Raphael's death in 1520, his artistic heir. In 1524 he moved to Mantua to serve Federico II Gonzaga, and for the rest of his life he directed nearly every artistic project in the city: palaces, churches, festivals, tapestries and the rebuilding of the cathedral. He was the only living artist named by Shakespeare, in The Winter's Tale.",
+   "At the Palazzo Te, Giulio played with the expectations of educated visitors who knew the classical rules: triglyphs slip out of place, keystones bulge, rough rustication meets smooth stone. Inside, the Sala dei Giganti is painted so that the whole room seems to collapse on the viewer. His witty, theatrical treatment of the orders made Mantua a centre of Mannerism and influenced Palladio and later architects across Europe."
+  ]
+ },
+ {
+  "id": "palladio",
+  "name": "Andrea Palladio",
+  "born": "1508",
+  "died": "1580",
+  "sort": 1508,
+  "birthplace": "Padua",
+  "deathplace": "Maser or Vicenza, Republic of Venice",
+  "nationality": "Venetian",
+  "movements": [
+   "renaissance-architecture",
+   "neoclassicism"
+  ],
+  "bio": "Architect of villas, palaces and churches in the Veneto whose Four Books of Architecture made him the most imitated architect in Western history.",
+  "bio_full": [
+   "Andrea di Pietro della Gondola was the son of a miller and trained as a stonemason. In Vicenza the humanist Gian Giorgio Trissino took him up, educated him, took him to Rome to study ancient buildings, and gave him the classical name Palladio. From the 1540s he designed palaces in Vicenza and the Basilica's new loggias, and villas for Venetian landowners who were turning to agriculture on the mainland. In his later years he built the churches of San Giorgio Maggiore and Il Redentore in Venice and began the Teatro Olimpico in Vicenza, completed after his death.",
+   "Palladio combined careful study of Roman temples, baths and houses with practical sense and clear proportional systems. His villas, with temple-fronted porticoes on working farmhouses, his church façades interlocking two temple fronts, and his rooms sized by harmonic ratios became a universal model. I quattro libri dell'architettura (1570), illustrated with woodcuts of his own designs, carried his ideas to Britain, Ireland, North America and Russia, where Palladianism shaped country houses and public buildings for two centuries."
+  ]
+ },
+ {
+  "id": "vignola",
+  "name": "Giacomo Barozzi da Vignola",
+  "born": "1507",
+  "died": "1573",
+  "sort": 1507,
+  "birthplace": "Vignola, near Modena",
+  "deathplace": "Rome",
+  "nationality": "Italian",
+  "movements": [
+   "mannerism"
+  ],
+  "bio": "Architect of the Farnese and the Jesuits, designer of the Gesù in Rome and author of the most widely used handbook of the classical orders.",
+  "bio_full": [
+   "Vignola trained as a painter in Bologna, moved to Rome around 1530 and worked measuring ancient monuments for a Vitruvian academy, then spent time at the French court at Fontainebleau. Back in Rome he worked for Pope Julius III on the Villa Giulia and became architect to the powerful Farnese family, for whom he transformed a pentagonal fortress at Caprarola into a palace. In 1568 Cardinal Alessandro Farnese commissioned him to design the Gesù, the mother church of the Jesuit order, and he succeeded Michelangelo as architect of St Peter's.",
+   "His Regola delli cinque ordini d'architettura (1562) reduced the five orders to simple modular rules on clearly engraved plates, and it remained a standard textbook for architects and builders into the twentieth century. The Gesù, with its broad nave for preaching, side chapels and dome, became the model for Counter-Reformation churches across Catholic Europe and Latin America."
+  ]
+ },
+ {
+  "id": "herrera",
+  "name": "Juan de Herrera",
+  "born": "c. 1530",
+  "died": "1597",
+  "sort": 1530,
+  "birthplace": "Roiz, Cantabria",
+  "deathplace": "Madrid",
+  "nationality": "Spanish",
+  "movements": [
+   "renaissance-architecture"
+  ],
+  "bio": "Architect, mathematician and courtier of Philip II of Spain who completed El Escorial and created the severe Herrerian style.",
+  "bio_full": [
+   "Herrera served as a soldier in Italy and Flanders in the retinue of Prince Philip, and studied mathematics, astronomy and mechanics. In 1563 he joined the works at El Escorial under its first architect, Juan Bautista de Toledo, and after Toledo's death in 1567 he took charge, redesigning the basilica and completing the vast monastery-palace by 1584. Philip II also employed him on the palace at Aranjuez, the cathedral of Valladolid and the Archive of the Indies in Seville, and Herrera founded an academy of mathematics in Madrid.",
+   "The Herrerian style, called estilo desornamentado, the unornamented style, strips classical architecture to granite planes, simple orders and pyramidal pinnacles. It reflected Philip II's piety and the sober spirit of the Counter-Reformation. Herrera's austere monumentality shaped Spanish architecture for decades and remained a reference point for official building in Spain."
+  ]
+ },
+ {
+  "id": "inigo-jones",
+  "name": "Inigo Jones",
+  "born": "1573",
+  "died": "1652",
+  "sort": 1573,
+  "birthplace": "London",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "neoclassicism"
+  ],
+  "bio": "The first English architect to master Italian classicism, designer of the Queen's House at Greenwich and the Banqueting House in Whitehall.",
+  "bio_full": [
+   "The son of a London clothworker, Jones first made his name as a designer of masques, the lavish court entertainments of James I, for which he created costumes, scenery and stage machinery with Ben Jonson. He travelled in Italy, and on a long tour in 1613–14 with the collector the Earl of Arundel he studied ancient ruins and the buildings of Palladio, annotating his own copy of the Four Books. Appointed Surveyor of the King's Works in 1615, he designed the Queen's House, the Banqueting House, the Queen's Chapel at St James's and the piazza of Covent Garden. The Civil War ended his career.",
+   "Jones introduced to England, still building in a Tudor and Jacobean manner, a pure classical architecture based on Palladio and on ancient Rome. His buildings seemed revolutionary in their restraint and proportion. A century later Lord Burlington and his circle revered him as the father of English Palladianism, published his designs and made his style the foundation of Georgian architecture."
+  ]
+ },
+ {
+  "id": "bernini",
+  "name": "Gian Lorenzo Bernini",
+  "born": "1598",
+  "died": "1680",
+  "sort": 1598,
+  "birthplace": "Naples",
+  "deathplace": "Rome",
+  "nationality": "Italian",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "The dominant artist of Baroque Rome, sculptor and architect to a series of popes, who shaped St Peter's with its baldachin and colonnaded square.",
+  "bio_full": [
+   "The son of a sculptor, Bernini was a prodigy whose marble groups for Cardinal Scipione Borghese made him famous in his early twenties. Pope Urban VIII made him the leading artist of Rome: in 1624 he began the bronze baldachin over the high altar of St Peter's, and from 1629 he was architect of the basilica. Under Alexander VII he designed the colonnades of St Peter's Square (1656–67) and the Scala Regia, as well as the church of Sant'Andrea al Quirinale. In 1665 he travelled to Paris at the invitation of Louis XIV to design the east front of the Louvre, but his plans were rejected.",
+   "Bernini thought of architecture as theatre, uniting building, sculpture, painting and hidden light to overwhelm the viewer, as in the Cornaro Chapel with its Ecstasy of Saint Teresa. His square at St Peter's embraces the crowd like arms, and his small oval Sant'Andrea concentrates the effect of a great church. His rivalry with Borromini defined Roman Baroque, and his manner of designing whole ensembles spread across Catholic Europe."
+  ]
+ },
+ {
+  "id": "borromini",
+  "name": "Francesco Borromini",
+  "born": "1599",
+  "died": "1667",
+  "sort": 1599,
+  "birthplace": "Bissone, Ticino",
+  "deathplace": "Rome",
+  "nationality": "Italian (Ticinese)",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "Brilliant and difficult Baroque architect whose churches of San Carlo alle Quattro Fontane and Sant'Ivo alla Sapienza fold walls and domes into complex geometry.",
+  "bio_full": [
+   "Francesco Castelli, later called Borromini, came from a family of stonemasons on Lake Lugano and arrived in Rome around 1619 to work under his relative Carlo Maderno at St Peter's. After Maderno's death he served for a time under Bernini on the baldachin and Palazzo Barberini, an uneasy collaboration that became a lifelong rivalry. His independent career began in 1634 with the monastery and church of San Carlo alle Quattro Fontane, followed by the Oratory of the Filippini, Sant'Ivo alla Sapienza, the remodelling of San Giovanni in Laterano and Sant'Agnese in Agone. Melancholy and isolated in his last years, he took his own life in 1667.",
+   "Borromini built mostly in brick and stucco, on cramped sites and modest budgets, but his plans are generated from interlocking triangles, circles and ovals that make walls undulate and domes seem to expand. He invented new ornament and treated the classical orders with great freedom, which his critics called extravagant. His influence was strongest in northern Italy and Central Europe, in Guarini's Turin and the churches of Bohemia and Bavaria, and twentieth-century architects rediscovered him as a master of space."
+  ]
+ },
+ {
+  "id": "le-vau",
+  "name": "Louis Le Vau",
+  "born": "1612",
+  "died": "1670",
+  "sort": 1612,
+  "birthplace": "Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "French Baroque architect of Vaux-le-Vicomte and First Architect to Louis XIV, who began the transformation of Versailles into a palace.",
+  "bio_full": [
+   "Le Vau was the son of a master mason and built town houses for wealthy Parisians on the Île Saint-Louis, including the Hôtel Lambert. His breakthrough was the château of Vaux-le-Vicomte (1656–61) for the finance minister Nicolas Fouquet, created with the painter Charles Le Brun and the garden designer André Le Nôtre. After Fouquet's fall, Louis XIV took the same team into royal service. Le Vau became First Architect of the King, worked at the Louvre and the Tuileries, designed the Collège des Quatre-Nations (now the Institut de France), and from 1668 wrapped the old hunting lodge at Versailles in a new stone envelope.",
+   "Le Vau's gift was for grand, unified ensembles in which architecture, interior decoration and landscape work together, an approach that became the model of French royal magnificence. His buildings combine classical restraint with Baroque movement, such as the oval domed salon at Vaux. Versailles, completed by Hardouin-Mansart, was imitated by princes across Europe for a century."
+  ]
+ },
+ {
+  "id": "hardouin-mansart",
+  "name": "Jules Hardouin-Mansart",
+  "born": "1646",
+  "died": "1708",
+  "sort": 1646,
+  "birthplace": "Paris",
+  "deathplace": "Marly-le-Roi",
+  "nationality": "French",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "First Architect to Louis XIV, who enlarged Versailles, created its Hall of Mirrors and built the domed church of Les Invalides.",
+  "bio_full": [
+   "Jules Hardouin trained with his great-uncle François Mansart, the leading French classical architect of the previous generation, whose name he added to his own. He won the favour of Louis XIV with the château of Clagny for Madame de Montespan, and from 1678 directed the enlargement of Versailles: the Hall of Mirrors, the north and south wings, the Orangery, the Grand Trianon and the Royal Chapel. He also designed the Place des Victoires and Place Vendôme in Paris and the Dôme des Invalides, and in 1699 became superintendent of the king's buildings.",
+   "Running a large office of draughtsmen and designers, Hardouin-Mansart produced architecture on an industrial scale for the most powerful monarchy in Europe. His style is sober classicism handled with Baroque grandeur, crowned by the gilded dome of the Invalides. The steep roof named after his great-uncle, the mansard, became a staple of French building."
+  ]
+ },
+ {
+  "id": "wren",
+  "name": "Christopher Wren",
+  "born": "1632",
+  "died": "1723",
+  "sort": 1632,
+  "birthplace": "East Knoyle, Wiltshire",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "Astronomer turned architect who rebuilt London after the Great Fire of 1666, designing St Paul's Cathedral and over fifty City churches.",
+  "bio_full": [
+   "Wren was a mathematician and astronomer, a professor at Gresham College and then Savilian Professor of Astronomy at Oxford, and a founder of the Royal Society. He turned to architecture in the 1660s with the Sheldonian Theatre at Oxford and Pembroke College Chapel at Cambridge, and visited Paris in 1665. After the Great Fire of 1666 he proposed a new plan for London, which was not adopted, and as Surveyor of the King's Works from 1669 he rebuilt St Paul's Cathedral (1675–1710) and fifty-one parish churches. He also designed the Royal Hospitals at Chelsea and Greenwich, parts of Hampton Court Palace and Trinity College Library, Cambridge.",
+   "Wren brought a scientist's mind to architecture, solving structural problems such as the triple dome of St Paul's, whose inner dome, brick cone and outer timber shell each do different work. His style draws on French and Italian Baroque and on Inigo Jones, but his steeples, rising in stacked stages, were an English invention imitated across the colonies. His epitaph in St Paul's tells the reader, in Latin, to look around for his monument."
+  ]
+ },
+ {
+  "id": "fischer-von-erlach",
+  "name": "Johann Bernhard Fischer von Erlach",
+  "born": "1656",
+  "died": "1723",
+  "sort": 1656,
+  "birthplace": "Graz",
+  "deathplace": "Vienna",
+  "nationality": "Austrian",
+  "movements": [
+   "baroque"
+  ],
+  "bio": "Leading architect of Habsburg Vienna, designer of the Karlskirche, and author of the first illustrated world history of architecture.",
+  "bio_full": [
+   "Fischer was the son of a sculptor in Graz and spent some sixteen years in Rome and Naples, where he knew Bernini's circle and studied ancient and modern buildings. Returning to Austria in the 1680s, he became architect to the Habsburg court, tutor in architecture to the future Emperor Joseph I, and was ennobled as von Erlach. He designed churches in Salzburg, including the Kollegienkirche, palaces in Vienna and Prague, the first plans for Schönbrunn, the Court Library in the Hofburg and, from 1716, the Karlskirche.",
+   "Fischer created an imperial Baroque that combined Roman grandeur with symbols of Habsburg power. In 1721 he published the Entwurff einer historischen Architectur, a survey in engraved plates of buildings from the Temple of Solomon and the wonders of the world to Egypt, China and the Islamic world, ending with his own works. It was the first attempt at a universal history of architecture and helped widen European taste."
+  ]
+ },
+ {
+  "id": "neumann",
+  "name": "Balthasar Neumann",
+  "born": "1687",
+  "died": "1753",
+  "sort": 1687,
+  "birthplace": "Eger, Bohemia (now Cheb, Czech Republic)",
+  "deathplace": "Würzburg",
+  "nationality": "German",
+  "movements": [
+   "rococo",
+   "baroque"
+  ],
+  "bio": "Military engineer and architect to the prince-bishops of Würzburg whose Residence and pilgrimage church of Vierzehnheiligen are high points of German late Baroque and Rococo.",
+  "bio_full": [
+   "Neumann trained as a bell- and gun-founder, came to Würzburg in 1711 and rose through the artillery of the prince-bishop's army, studying engineering and architecture and visiting Vienna, northern Italy and Paris. From 1720 he directed the building of the Würzburg Residence for the Schönborn prince-bishops, consulting French and Viennese architects but giving the palace its final form. He went on to design churches, palaces, bridges and town plans across Franconia and the Rhineland, including the staircase at Brühl, the abbey church at Neresheim and the pilgrimage church of Vierzehnheiligen.",
+   "Neumann's genius lay in space and structure. His vaults, like the unsupported ceiling over the Würzburg staircase that Tiepolo painted, were daring feats of engineering, and his church plans of interlocking ovals create interiors that seem to float and move. Working with stuccoists and painters, he brought the fusion of the arts in German Rococo to its height."
+  ]
+ },
+ {
+  "id": "rastrelli",
+  "name": "Francesco Bartolomeo Rastrelli",
+  "born": "1700",
+  "died": "1771",
+  "sort": 1700,
+  "birthplace": "Paris",
+  "deathplace": "St Petersburg",
+  "nationality": "Italian-Russian",
+  "movements": [
+   "rococo",
+   "baroque"
+  ],
+  "bio": "Italian architect in Russian imperial service who created the Winter Palace and the Catherine Palace, defining Elizabethan Baroque in St Petersburg.",
+  "bio_full": [
+   "Rastrelli was the son of the Florentine sculptor Carlo Bartolomeo Rastrelli, who moved with his family to St Petersburg in 1716 to work for Peter the Great. The young Rastrelli trained in Russia and probably abroad, and under the empresses Anna and especially Elizabeth he became chief architect of the imperial court. He built the Smolny Convent, the Catherine Palace at Tsarskoye Selo, the Great Palace at Peterhof, the Stroganov Palace and, from 1754, the Winter Palace. Catherine the Great preferred Neoclassicism, and he left court service in 1763.",
+   "Rastrelli's buildings have long, rhythmic façades of coloured stucco with white columns and gilded ornament, and interiors of mirrors, carving and gold. He combined Italian and French Baroque and Rococo with Russian traditions such as onion domes and five-domed churches. His style, called Elizabethan Baroque, gave St Petersburg its most festive buildings."
+  ]
+ },
+ {
+  "id": "soufflot",
+  "name": "Jacques-Germain Soufflot",
+  "born": "1713",
+  "died": "1780",
+  "sort": 1713,
+  "birthplace": "Irancy, Burgundy",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "neoclassicism"
+  ],
+  "bio": "French architect of the church of Sainte-Geneviève in Paris, now the Panthéon, a founding monument of Neoclassicism.",
+  "bio_full": [
+   "Soufflot studied in Rome in the 1730s and made his name in Lyon with the Hôtel-Dieu hospital and a theatre. In 1749–51 he accompanied the future Marquis de Marigny, brother of Madame de Pompadour and director of the king's buildings, on a tour of Italy that included the Greek temples at Paestum. Through Marigny he was appointed in 1755 to design the new church of Sainte-Geneviève in Paris, the project that occupied the rest of his life. He also served as controller of royal buildings in Paris.",
+   "Soufflot aimed to combine the lightness of Gothic structure with the purity of Greek columns, using freestanding columns inside rather than heavy piers and reinforcing the masonry with iron. Critics doubted the piers could carry the dome, and cracks led to controversy that continued after his death; the building was completed in 1790 by his pupil Jean-Baptiste Rondelet. Converted into the Panthéon during the Revolution, it became a model for domed buildings across Europe and America."
+  ]
+ },
+ {
+  "id": "ledoux",
+  "name": "Claude-Nicolas Ledoux",
+  "born": "1736",
+  "died": "1806",
+  "sort": 1736,
+  "birthplace": "Dormans, Champagne",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "neoclassicism"
+  ],
+  "bio": "Visionary French Neoclassical architect of the Royal Saltworks at Arc-et-Senans and the Paris toll gates, whose ideal city anticipated modern planning.",
+  "bio_full": [
+   "Ledoux trained in Paris under Jacques-François Blondel and built fashionable town houses and the pavilion of Louveciennes for Madame du Barry. As inspector of saltworks he designed the Royal Saltworks at Arc-et-Senans (1775–79), and he built a theatre at Besançon. In the 1780s he designed some fifty toll houses for the hated customs wall around Paris, of which four survive, including the Rotonde de la Villette. His royal connections led to his imprisonment during the Terror, and he spent his last years preparing his book L'Architecture considérée sous le rapport de l'art, des moeurs et de la législation (1804).",
+   "Ledoux reduced architecture to elemental geometry, cubes, cylinders, pyramids and heavy rusticated columns, and believed buildings should express their purpose and shape society. His book expanded the saltworks into an ideal city, Chaux, with houses for workers and symbolic public buildings. Long dismissed as a megalomaniac, he was rediscovered in the twentieth century as a precursor of modernism."
+  ]
+ },
+ {
+  "id": "jefferson",
+  "name": "Thomas Jefferson",
+  "born": "1743",
+  "died": "1826",
+  "sort": 1743,
+  "birthplace": "Shadwell, Colony of Virginia",
+  "deathplace": "Monticello, Virginia",
+  "nationality": "American",
+  "movements": [
+   "neoclassicism"
+  ],
+  "bio": "Author of the Declaration of Independence and third US president, and a self-taught architect who designed Monticello, the Virginia State Capitol and the University of Virginia.",
+  "bio_full": [
+   "Jefferson learned architecture from books, above all Palladio's Four Books, and began building his hilltop house at Monticello in 1769, rebuilding it after his years in France. As minister to France (1784–89) he saw the Maison Carrée at Nîmes, which he took as the model for the Virginia State Capitol in Richmond, the first modern public building in the form of a classical temple. As secretary of state and president he promoted classicism for Washington. In retirement he founded and designed the University of Virginia, which opened in 1825.",
+   "For Jefferson architecture was a civic art: the forms of Roman republican buildings would educate the citizens of a new republic. His 'academical village', a lawn flanked by pavilions and colonnades with a Rotunda modelled on the Pantheon at its head, is one of the great American architectural achievements. His legacy is entangled with slavery: Monticello and the university were built and maintained largely by enslaved people, a history the sites now present alongside the architecture."
+  ]
+ },
+ {
+  "id": "schinkel",
+  "name": "Karl Friedrich Schinkel",
+  "born": "1781",
+  "died": "1841",
+  "sort": 1781,
+  "birthplace": "Neuruppin, Brandenburg",
+  "deathplace": "Berlin",
+  "nationality": "Prussian",
+  "movements": [
+   "neoclassicism",
+   "gothic-revival"
+  ],
+  "bio": "The great architect of Prussia, who made Berlin a Neoclassical capital with the Neue Wache, the Schauspielhaus and the Altes Museum.",
+  "bio_full": [
+   "Schinkel studied under Friedrich Gilly and his father David, travelled in Italy, and during the Napoleonic occupation, when little was built, worked as a painter of romantic landscapes and panoramas and as a stage designer, notably for The Magic Flute. From 1810 he served in the Prussian building administration, rising to its head. He built the Neue Wache (1816–18), the Schauspielhaus (1818–21), the Altes Museum (1823–30), the Friedrichswerder Church in Gothic, and the Bauakademie (1832–36), as well as palaces at Potsdam.",
+   "Schinkel was equally at home in Greek and Gothic and believed each age must find its own architecture. His late works, above all the red-brick Bauakademie with its expressed structural grid, pointed toward a rational, industrial architecture; he had studied English factories on a trip in 1826. Mies van der Rohe and other twentieth-century architects admired him as a model of clarity, and his buildings define the centre of Berlin."
+  ]
+ },
+ {
+  "id": "soane",
+  "name": "John Soane",
+  "born": "1753",
+  "died": "1837",
+  "sort": 1753,
+  "birthplace": "Goring-on-Thames, Oxfordshire",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "neoclassicism"
+  ],
+  "bio": "Highly original English Neoclassical architect of the Bank of England and of his own house-museum in Lincoln's Inn Fields.",
+  "bio_full": [
+   "Soane was the son of a bricklayer and trained with George Dance the Younger and Henry Holland. A Royal Academy scholarship sent him to Italy in 1778–80. In 1788 he became architect to the Bank of England, which he rebuilt over forty-five years as a complex of top-lit banking halls behind a windowless wall; it was largely demolished in the 1920s. He became professor of architecture at the Royal Academy, designed Dulwich Picture Gallery (1811–17), the first purpose-built public art gallery in Britain, and remodelled three houses in Lincoln's Inn Fields as his home, office and museum.",
+   "Soane stripped classicism down to incised lines, shallow domes and arches, and used hidden sources of light to create mysterious, layered interiors. His collection of antiquities, casts, drawings and paintings, arranged as a teaching museum, was preserved by an Act of Parliament in 1833 to remain as he left it. His idiosyncratic style has been admired by modern and postmodern architects alike."
+  ]
+ },
+ {
+  "id": "barry",
+  "name": "Charles Barry",
+  "born": "1795",
+  "died": "1860",
+  "sort": 1795,
+  "birthplace": "London",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "gothic-revival"
+  ],
+  "bio": "Victorian architect who won the competition to rebuild the Palace of Westminster after the fire of 1834, working with Augustus Pugin.",
+  "bio_full": [
+   "Barry was the son of a stationer and spent three years travelling in France, Italy, Greece, Turkey, Egypt and Syria (1817–20), drawing ancient and Renaissance buildings. Back in London he built Gothic churches and then the Travellers Club (1829–32) and Reform Club (1837–41) in the manner of Italian Renaissance palaces, a style he made fashionable for clubs and banks. In 1836 his design won the competition for the new Houses of Parliament, which occupied him until his death; he was knighted in 1852.",
+   "Barry was a master of planning and of the picturesque skyline. At Westminster he organised a vast and complicated building around a clear, symmetrical plan, while Pugin supplied the Gothic detail and furnishings. How credit should be divided between them was argued by their sons and is still discussed. Barry's sons Edward Middleton Barry and Charles Barry Jr continued his practice."
+  ]
+ },
+ {
+  "id": "pugin",
+  "name": "Augustus Welby Northmore Pugin",
+  "born": "1812",
+  "died": "1852",
+  "sort": 1812,
+  "birthplace": "London",
+  "deathplace": "Ramsgate, Kent",
+  "nationality": "English",
+  "movements": [
+   "gothic-revival"
+  ],
+  "bio": "Passionate champion of the Gothic Revival, designer of the interiors and the clock tower of the Palace of Westminster and of many Catholic churches.",
+  "bio_full": [
+   "Pugin was the son of the French draughtsman Auguste Charles Pugin, who published studies of Gothic architecture, and he was designing furniture for Windsor Castle at fifteen. He converted to Catholicism in 1835 and in Contrasts (1836) set noble medieval towns beside squalid modern ones, arguing that Gothic was the only true Christian architecture. Working with great speed, he designed churches, cathedrals and houses across Britain and Ireland, including St Giles' at Cheadle and his own house and church at Ramsgate, and from 1844 the interiors, furniture, tiles, metalwork and clock tower of the Palace of Westminster. Overwork led to a breakdown, and he died at forty.",
+   "Pugin's True Principles of Pointed or Christian Architecture (1841) argued that ornament should enrich structure and that a building should honestly express its construction and purpose. Those ideas outlived the Gothic style and passed through Ruskin and William Morris to the Arts and Crafts movement and early modernism. He made the Gothic Revival a serious architectural language rather than a picturesque fashion."
+  ]
+ },
+ {
+  "id": "viollet-le-duc",
+  "name": "Eugène Viollet-le-Duc",
+  "born": "1814",
+  "died": "1879",
+  "sort": 1814,
+  "birthplace": "Paris",
+  "deathplace": "Lausanne",
+  "nationality": "French",
+  "movements": [
+   "gothic-revival"
+  ],
+  "bio": "French architect, restorer and theorist who restored Notre-Dame de Paris, Carcassonne and Pierrefonds and taught that Gothic was a rational structural system.",
+  "bio_full": [
+   "Viollet-le-Duc refused to attend the École des Beaux-Arts and taught himself by travelling and drawing medieval buildings. Prosper Mérimée, inspector of historic monuments, gave him the restoration of the abbey of Vézelay in 1840, and in 1844 he and Jean-Baptiste Lassus won the commission to restore Notre-Dame de Paris, for which he designed the new spire and many of the gargoyles and chimeras. He went on to restore Saint-Denis, Amiens, the walled city of Carcassonne and the castle of Pierrefonds for Napoleon III. His ten-volume Dictionnaire raisonné de l'architecture française appeared between 1854 and 1868.",
+   "He defined restoration as reinstating a building in a complete state that may never have existed at any time, an approach now widely criticised. Yet his analysis of Gothic as a rational system of forces, and his call in the Entretiens sur l'architecture for a modern architecture of iron and honest construction, inspired Art Nouveau architects such as Horta and Gaudí and early modernists. His drawings remain unrivalled records of medieval building."
+  ]
+ },
+ {
+  "id": "paxton",
+  "name": "Joseph Paxton",
+  "born": "1803",
+  "died": "1865",
+  "sort": 1803,
+  "birthplace": "Milton Bryan, Bedfordshire",
+  "deathplace": "Sydenham, London",
+  "nationality": "English",
+  "movements": [
+   "iron-and-glass"
+  ],
+  "bio": "Gardener and glasshouse designer who created the Crystal Palace for the Great Exhibition of 1851, a landmark of prefabricated iron and glass building.",
+  "bio_full": [
+   "The son of a farmer, Paxton became head gardener to the Duke of Devonshire at Chatsworth in 1826, aged twenty-three. There he designed glasshouses of increasing ambition, including the Great Conservatory and the lily house built to make the giant Amazonian water lily Victoria regia flower, whose ribbed leaf he said inspired its structure. In 1850, when the committee for the Great Exhibition could not agree on a building, he sketched a vast glasshouse on blotting paper, and it was built in Hyde Park in about nine months. Knighted, he became a railway director, a member of Parliament and a designer of parks and houses.",
+   "The Crystal Palace was assembled from standardised iron columns, girders and panes of glass manufactured in quantity and fixed on site, a radical system that made speed and scale possible. It was moved to Sydenham after the exhibition and burned in 1936. Paxton's achievement showed that a building could be a kind of machine, a lesson for engineers and, later, for modernist and high-tech architects."
+  ]
+ },
+ {
+  "id": "eiffel",
+  "name": "Gustave Eiffel",
+  "born": "1832",
+  "died": "1923",
+  "sort": 1832,
+  "birthplace": "Dijon",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "iron-and-glass"
+  ],
+  "bio": "French engineer whose firm built viaducts, bridges and railway stations across the world and the Eiffel Tower for the Paris Exposition of 1889.",
+  "bio_full": [
+   "Eiffel graduated from the École Centrale des Arts et Manufactures in 1855 and specialised in metal structures, founding his own firm in 1866. It built railway bridges and viaducts such as the Maria Pia bridge in Porto and the Garabit viaduct in France, stations in Budapest and elsewhere, and the internal iron framework of Bartholdi's Statue of Liberty. For the Exposition Universelle of 1889, celebrating the centenary of the Revolution, his company designed and built the 300-metre tower, from a concept by his engineers Maurice Koechlin and Émile Nouguier with the architect Stephen Sauvestre. Eiffel's reputation suffered from the Panama Canal scandal of 1893, and he then devoted himself to research in meteorology and aerodynamics.",
+   "Eiffel's structures are calculated lattices of wrought iron in which every member answers to the forces of weight and wind, and his tower was the tallest structure in the world until 1930. Many artists and writers publicly protested against it, but it became the symbol of Paris and of modern engineering. He used it for experiments in radio, which helped save it from demolition."
+  ]
+ },
+ {
+  "id": "garnier",
+  "name": "Charles Garnier",
+  "born": "1825",
+  "died": "1898",
+  "sort": 1825,
+  "birthplace": "Paris",
+  "deathplace": "Paris",
+  "nationality": "French",
+  "movements": [
+   "beaux-arts"
+  ],
+  "bio": "Architect of the Paris Opéra, the most celebrated building of Second Empire France and a model of Beaux-Arts splendour.",
+  "bio_full": [
+   "Garnier, son of a wheelwright, studied at the École des Beaux-Arts and won the Prix de Rome in 1848, spending five years in Italy and visiting Greece. Little known, he won the competition of 1861 for a new opera house in Paris, which was built between 1861 and 1875, interrupted by the Franco-Prussian War and the Commune. He later designed the casino and opera house at Monte Carlo and villas at Bordighera on the Riviera.",
+   "Asked by the Empress Eugénie what style his design was, Garnier is said to have answered that it was Napoleon III style. The Opéra combines a rigorous plan, expressing each function in its own volume, with a sumptuous synthesis of Renaissance and Baroque forms, coloured marbles, gilding and sculpture. Its grand staircase is designed as a stage on which the audience itself performs, and the building became the model for opera houses and theatres across the world."
+  ]
+ },
+ {
+  "id": "sullivan",
+  "name": "Louis Sullivan",
+  "born": "1856",
+  "died": "1924",
+  "sort": 1856,
+  "birthplace": "Boston, Massachusetts",
+  "deathplace": "Chicago",
+  "nationality": "American",
+  "movements": [
+   "chicago-school"
+  ],
+  "bio": "Chicago architect who gave the steel-framed skyscraper its first convincing form and coined the phrase 'form follows function'.",
+  "bio_full": [
+   "Sullivan studied briefly at the Massachusetts Institute of Technology and the École des Beaux-Arts and worked for Frank Furness in Philadelphia and William Le Baron Jenney in Chicago. In partnership with the engineer Dankmar Adler from 1883, he designed the Auditorium Building (1886–89), the Wainwright Building in St Louis (1890–91), the Guaranty Building in Buffalo (1894–96) and the Schlesinger and Mayer store (now the Sullivan Center) in Chicago. After the partnership ended in 1895 his commissions dwindled, and his late works were mainly small banks in the Midwest. He died poor.",
+   "In his essay The Tall Office Building Artistically Considered (1896), Sullivan argued that a skyscraper should be proud and soaring and that form ever follows function. His buildings articulate base, vertical shaft and cornice, and are covered with intricate organic terracotta and iron ornament of his own invention. Frank Lloyd Wright, who worked for him, called him his Lieber Meister."
+  ]
+ },
+ {
+  "id": "burnham",
+  "name": "Daniel Burnham",
+  "born": "1846",
+  "died": "1912",
+  "sort": 1846,
+  "birthplace": "Henderson, New York",
+  "deathplace": "Heidelberg, Germany",
+  "nationality": "American",
+  "movements": [
+   "chicago-school",
+   "beaux-arts"
+  ],
+  "bio": "Chicago architect and planner, partner of John Wellborn Root, director of the 1893 World's Columbian Exposition and designer of the Flatiron Building in New York.",
+  "bio_full": [
+   "Burnham grew up in Chicago and formed a partnership with John Wellborn Root in 1873. Burnham and Root designed pioneering tall buildings such as the Monadnock and the Rookery, and after Root's death in 1891 the firm, as D. H. Burnham and Company, built the glass-walled Reliance Building in Chicago, the Flatiron Building in New York (1902) and Union Station in Washington. Burnham directed the design of the World's Columbian Exposition in Chicago in 1893, whose white classical 'White City' inspired the City Beautiful movement, and he led plans for Washington, San Francisco, Manila and Chicago.",
+   "Burnham was an organiser of genius whose large office became a model of the modern architectural firm. His buildings range from the structural directness of the Chicago School to grand Beaux-Arts classicism, and his 1909 Plan of Chicago, with its lakefront parks, shaped the city. Words often attributed to him, urging planners to make no little plans, are probably a later paraphrase."
+  ]
+ },
+ {
+  "id": "horta",
+  "name": "Victor Horta",
+  "born": "1861",
+  "died": "1947",
+  "sort": 1861,
+  "birthplace": "Ghent",
+  "deathplace": "Brussels",
+  "nationality": "Belgian",
+  "movements": [
+   "art-nouveau"
+  ],
+  "bio": "Belgian architect whose Hôtel Tassel in Brussels (1893) is regarded as the first Art Nouveau building.",
+  "bio_full": [
+   "Horta studied at the academies of Ghent and Brussels and worked for Alphonse Balat, architect to King Leopold II, on the royal greenhouses at Laeken. His Hôtel Tassel (1892–93) was followed by a series of town houses for Brussels industrialists and professionals, including the Hôtel Solvay, the Hôtel van Eetvelde and his own house and studio (1898–1901), and by the Maison du Peuple (1896–99) for the Belgian Workers' Party, demolished in 1965. After the First World War, spent partly in the United States, he turned to a more austere style, as at the Palais des Beaux-Arts in Brussels.",
+   "Horta used exposed iron and glass in domestic architecture and let the whiplash curves of the iron spread into mosaics, wall paintings, banisters and door handles, designing every detail. His open, light-filled plans around central staircases were as new as his ornament. Four of his Brussels houses are a UNESCO World Heritage Site."
+  ]
+ },
+ {
+  "id": "gaudi",
+  "name": "Antoni Gaudí",
+  "born": "1852",
+  "died": "1926",
+  "sort": 1852,
+  "birthplace": "Reus, Catalonia",
+  "deathplace": "Barcelona",
+  "nationality": "Spanish (Catalan)",
+  "movements": [
+   "art-nouveau"
+  ],
+  "bio": "Catalan architect of the Sagrada Família, Casa Batlló, Casa Milà and Park Güell, whose structural and natural forms are unique in modern architecture.",
+  "bio_full": [
+   "Gaudí, the son of a coppersmith, studied at the Barcelona School of Architecture, graduating in 1878. He found his great patron in the industrialist Eusebi Güell, for whom he built a palace, a crypt for a workers' colony and Park Güell. In 1883 he took over the expiatory church of the Sagrada Família, begun the year before in Gothic Revival style. His Barcelona houses include Casa Vicens, Casa Batlló (1904–06) and Casa Milà (1906–12). From 1914 he worked only on the Sagrada Família, living in its workshop. He died after being struck by a tram.",
+   "Gaudí drew on Gothic, Mudéjar and Catalan traditions and on the forms of nature, and he designed with hanging chain models whose curves, inverted, give arches that carry their loads in pure compression. His buildings use catenary arches, branching columns, hyperboloids and broken-tile mosaic, called trencadís. Seven of his works are a UNESCO World Heritage Site, and the Sagrada Família, still under construction, has become a symbol of Barcelona."
+  ]
+ },
+ {
+  "id": "mackintosh",
+  "name": "Charles Rennie Mackintosh",
+  "born": "1868",
+  "died": "1928",
+  "sort": 1868,
+  "birthplace": "Glasgow",
+  "deathplace": "London",
+  "nationality": "Scottish",
+  "movements": [
+   "art-nouveau"
+  ],
+  "bio": "Glasgow architect and designer whose Glasgow School of Art combined Scottish tradition, Art Nouveau and a new spatial freedom.",
+  "bio_full": [
+   "Mackintosh trained at the Glasgow School of Art in evening classes while apprenticed to an architect, and joined the firm of Honeyman and Keppie. With his future wife Margaret Macdonald, her sister Frances and Herbert MacNair he formed 'The Four', whose graphic work and furniture were admired in Vienna, where they exhibited at the Secession in 1900. He designed the Glasgow School of Art (1897–1909), the Willow Tea Rooms, Hill House at Helensburgh and Queen's Cross Church. Commissions dried up after 1914, and he later painted watercolours in France.",
+   "Mackintosh combined the massing of Scottish baronial castles with elongated, geometric Art Nouveau ornament, white interiors and dark, tall-backed furniture. His work was better appreciated on the Continent than in Britain during his lifetime. The School of Art's Mackintosh Building was gutted by fires in 2014 and 2018."
+  ]
+ },
+ {
+  "id": "otto-wagner",
+  "name": "Otto Wagner",
+  "born": "1841",
+  "died": "1918",
+  "sort": 1841,
+  "birthplace": "Penzing, near Vienna",
+  "deathplace": "Vienna",
+  "nationality": "Austrian",
+  "movements": [
+   "art-nouveau",
+   "modernism"
+  ],
+  "bio": "Viennese architect and teacher who moved from historicism to the Secession and pioneered a functional modern architecture, as in the Postal Savings Bank.",
+  "bio_full": [
+   "Wagner studied in Vienna and Berlin and spent decades building apartment houses in the historical styles of the Ringstrasse. In 1894 he became professor at the Vienna Academy of Fine Arts and was commissioned to design the stations, bridges and viaducts of the Vienna Stadtbahn railway. His book Moderne Architektur (1896) argued that architecture must reflect modern life, materials and construction. He joined the Vienna Secession in 1899, and built the Majolikahaus, the church of St Leopold at Steinhof (1904–07) and the Austrian Postal Savings Bank (1904–06, 1910–12).",
+   "Wagner's later buildings are clad in thin panels of marble or tile fixed with visible bolts, and his interiors use aluminium, glass and steel with a new frankness. As a teacher he formed a generation of architects, including Josef Hoffmann, Joseph Maria Olbrich and Jože Plečnik. He bridges the decorative Secession and the functional modernism of the twentieth century."
+  ]
+ },
+ {
+  "id": "van-alen",
+  "name": "William Van Alen",
+  "born": "1883",
+  "died": "1954",
+  "sort": 1883,
+  "birthplace": "Brooklyn, New York",
+  "deathplace": "New York City",
+  "nationality": "American",
+  "movements": [
+   "art-deco"
+  ],
+  "bio": "New York architect of the Chrysler Building, the Art Deco skyscraper that was briefly the tallest building in the world.",
+  "bio_full": [
+   "Van Alen studied at the Pratt Institute and in the ateliers of New York, and won a scholarship to the École des Beaux-Arts in Paris. Back in New York he practised with H. Craig Severance, then alone. The Chrysler Building, commissioned by the automobile maker Walter Chrysler, was completed in 1930 and, with its secretly assembled stainless-steel spire, overtook its rival 40 Wall Street, designed by Severance, as the world's tallest building. A dispute over his fee ended his career as a major architect, and the Depression left him few commissions.",
+   "Van Alen rejected historical styles for an architecture of modern materials and machine-age imagery. The Chrysler Building's terraced crown of stainless-steel sunbursts, its gargoyles in the form of radiator caps and eagles, and its lavish lobby are among the most admired designs of Art Deco."
+  ]
+ },
+ {
+  "id": "gropius",
+  "name": "Walter Gropius",
+  "born": "1883",
+  "died": "1969",
+  "sort": 1883,
+  "birthplace": "Berlin",
+  "deathplace": "Boston, Massachusetts",
+  "nationality": "German-American",
+  "movements": [
+   "modernism"
+  ],
+  "bio": "Founder of the Bauhaus school and designer of the Fagus Factory and the Bauhaus building at Dessau, central figures of modern architecture and design.",
+  "bio_full": [
+   "Gropius worked for Peter Behrens in Berlin and in 1911, with Adolf Meyer, designed the Fagus shoe-last factory at Alfeld with glass walls wrapped around the corners. After serving in the First World War, he founded the Bauhaus at Weimar in 1919, bringing together art, craft and later industrial design, and moved it to Dessau in 1925 into buildings of his own design. He left the school in 1928, emigrated to England in 1934 and in 1937 to the United States, where he headed the architecture department at Harvard and founded The Architects Collaborative.",
+   "Gropius saw architecture as a collective, rational discipline uniting the arts with industrial production and social housing. The Bauhaus, with teachers such as Kandinsky, Klee, Moholy-Nagy and Breuer, became the most influential design school of the century, and its building at Dessau a manifesto of the new architecture. At Harvard he trained a generation of American architects in modernist principles."
+  ]
+ },
+ {
+  "id": "mies",
+  "name": "Ludwig Mies van der Rohe",
+  "born": "1886",
+  "died": "1969",
+  "sort": 1886,
+  "birthplace": "Aachen",
+  "deathplace": "Chicago",
+  "nationality": "German-American",
+  "movements": [
+   "modernism",
+   "late-modernism"
+  ],
+  "bio": "German-American architect of the Barcelona Pavilion, the Farnsworth House and the Seagram Building, who refined modern architecture to steel, glass and space.",
+  "bio_full": [
+   "Mies, the son of a stonemason, had no formal architectural education and worked for Peter Behrens in Berlin. In the early 1920s he made visionary projects for glass skyscrapers, directed the Weissenhof housing exhibition at Stuttgart in 1927, and designed the German Pavilion at the Barcelona International Exposition of 1929 and the Villa Tugendhat in Brno. He was the last director of the Bauhaus, closed under Nazi pressure in 1933, and emigrated to Chicago in 1938 to head the architecture school of what became the Illinois Institute of Technology, whose campus he designed. His American works include the Farnsworth House, the Lake Shore Drive apartments, the Seagram Building and the Neue Nationalgalerie in Berlin.",
+   "Mies sought a universal architecture of the industrial age: a precise steel or concrete frame, walls of glass, and open space that flows freely. His aphorisms 'less is more' and 'God is in the details' express his concern with proportion, fine materials and refined joints. His glass towers became the model of corporate architecture worldwide, much imitated and often cheapened."
+  ]
+ },
+ {
+  "id": "le-corbusier",
+  "name": "Le Corbusier",
+  "born": "1887",
+  "died": "1965",
+  "sort": 1887,
+  "birthplace": "La Chaux-de-Fonds, Switzerland",
+  "deathplace": "Roquebrune-Cap-Martin, France",
+  "nationality": "Swiss-French",
+  "movements": [
+   "modernism",
+   "brutalism"
+  ],
+  "bio": "Swiss-French architect, planner and polemicist, designer of the Villa Savoye, the Unité d'Habitation and the chapel at Ronchamp, the most influential architect of the twentieth century.",
+  "bio_full": [
+   "Charles-Édouard Jeanneret trained as an engraver in his Swiss watchmaking town, travelled in Europe and the Mediterranean, and worked briefly for Auguste Perret and Peter Behrens before settling in Paris in 1917. With Amédée Ozenfant he founded Purism and the magazine L'Esprit Nouveau, adopting the pseudonym Le Corbusier, and his book Vers une architecture (1923) proclaimed the house a machine for living in. With his cousin Pierre Jeanneret he designed white villas culminating in the Villa Savoye, and urban schemes for towers in parks. After the Second World War he built the Unité d'Habitation in Marseille, the chapel of Notre-Dame du Haut at Ronchamp, the monastery of La Tourette and the capital of Chandigarh in India. Seventeen of his works are a UNESCO World Heritage Site.",
+   "His five points of a new architecture (pilotis, roof garden, free plan, ribbon windows, free façade) and his proportional system, the Modulor, codified modernism, while his late raw-concrete buildings launched Brutalism. His urban ideas, applied crudely by others, are blamed for many failings of postwar planning, and his dealings with the Vichy regime have drawn growing criticism. His influence on architects worldwide remains unmatched."
+  ]
+ },
+ {
+  "id": "wright",
+  "name": "Frank Lloyd Wright",
+  "born": "1867",
+  "died": "1959",
+  "sort": 1867,
+  "birthplace": "Richland Center, Wisconsin",
+  "deathplace": "Phoenix, Arizona",
+  "nationality": "American",
+  "movements": [
+   "modernism",
+   "late-modernism"
+  ],
+  "bio": "American architect of the Prairie houses, Fallingwater and the Guggenheim Museum, and the prophet of an 'organic architecture' rooted in landscape.",
+  "bio_full": [
+   "Wright studied briefly at the University of Wisconsin and worked for Louis Sullivan in Chicago before opening his own practice in Oak Park in 1893. His Prairie houses, culminating in the Robie House, and Unity Temple made him famous, and the Wasmuth portfolio of his work, published in Berlin in 1910–11, influenced European modernists. Personal scandal and tragedy, including the murder of his partner Mamah Borthwick and six others at Taliesin in 1914, interrupted his career; he built the Imperial Hotel in Tokyo and concrete-block houses in California. From the mid-1930s came a remarkable late flowering: Fallingwater, the Johnson Wax headquarters, the Usonian houses, Taliesin West and the Solomon R. Guggenheim Museum, completed after his death.",
+   "Wright sought an architecture that grew from its site, with low horizontal lines, open plans flowing around a central hearth, natural materials, and a continuity between inside and outside. He designed furniture, glass and textiles for his buildings. Over a career of some seventy years he completed more than five hundred works, and eight of them form a UNESCO World Heritage Site."
+  ]
+ },
+ {
+  "id": "rietveld",
+  "name": "Gerrit Rietveld",
+  "born": "1888",
+  "died": "1964",
+  "sort": 1888,
+  "birthplace": "Utrecht",
+  "deathplace": "Utrecht",
+  "nationality": "Dutch",
+  "movements": [
+   "modernism"
+  ],
+  "bio": "Dutch furniture maker and architect of De Stijl, designer of the Red and Blue Chair and the Rietveld Schröder House in Utrecht.",
+  "bio_full": [
+   "Rietveld trained in his father's furniture workshop and set up as a cabinetmaker in Utrecht in 1917. His Red and Blue Chair, made around 1918 and painted in primary colours in the early 1920s, brought him into the De Stijl group of Theo van Doesburg and Piet Mondrian. In 1924, with his client Truus Schröder-Schräder, he designed the Schröder House, his first building. He later designed social housing, furniture for mass production such as the Zig-Zag chair, and the Dutch pavilion at the Venice Biennale; the Van Gogh Museum in Amsterdam was completed after his death.",
+   "Rietveld translated Mondrian's paintings into three dimensions: planes, lines and primary colours that seem to slide past each other in space. The Schröder House, with sliding partitions that open its upper floor into a single space, is the only building fully realised on De Stijl principles and a UNESCO World Heritage Site."
+  ]
+ },
+ {
+  "id": "aalto",
+  "name": "Alvar Aalto",
+  "born": "1898",
+  "died": "1976",
+  "sort": 1898,
+  "birthplace": "Kuortane, Finland",
+  "deathplace": "Helsinki",
+  "nationality": "Finnish",
+  "movements": [
+   "modernism",
+   "late-modernism"
+  ],
+  "bio": "Finnish architect and designer who gave modernism a humane, organic character, with the Paimio Sanatorium, Villa Mairea and bentwood furniture.",
+  "bio_full": [
+   "Aalto studied at the Helsinki University of Technology and began in a Nordic classical manner before turning to modernism in the late 1920s with the Turun Sanomat newspaper building and the Paimio Sanatorium (1929–33). With his wife Aino Aalto he designed bentwood furniture and glassware, founding the company Artek in 1935. Major works include the Viipuri Library, Villa Mairea (1937–39), Baker House at MIT, Säynätsalo Town Hall, the House of Culture and Finlandia Hall in Helsinki.",
+   "Aalto softened the machine aesthetic with wood, brick and copper, undulating walls and ceilings, careful daylight and attention to the human senses. He designed buildings down to their door handles and lamps. His work became the model of a regional, humane modernism and made Finland a centre of modern design."
+  ]
+ },
+ {
+  "id": "johnson",
+  "name": "Philip Johnson",
+  "born": "1906",
+  "died": "2005",
+  "sort": 1906,
+  "birthplace": "Cleveland, Ohio",
+  "deathplace": "New Canaan, Connecticut",
+  "nationality": "American",
+  "movements": [
+   "modernism",
+   "postmodernism"
+  ],
+  "bio": "American curator and architect who named the International Style in 1932, built the Glass House, and later turned to postmodernism with the AT&T Building.",
+  "bio_full": [
+   "Johnson studied classics at Harvard and in 1932, with Henry-Russell Hitchcock, organised the Museum of Modern Art's exhibition Modern Architecture and the book The International Style, which introduced European modernism to America. In the 1930s he was drawn to fascist politics, which he later repudiated. He returned to Harvard to study architecture and built his Glass House at New Canaan in 1949, collaborated with Mies on the Seagram Building, and practised for decades with John Burgee, producing the AT&T Building, PPG Place and the Crystal Cathedral.",
+   "Johnson was an arbiter of taste more than an innovator, moving from Miesian modernism to historicism, postmodernism and deconstructivism, which he again helped launch with a MoMA exhibition in 1988. He was the first winner of the Pritzker Prize in 1979. His career shows how architecture's styles in the twentieth century were shaped by exhibitions, criticism and patronage as well as building."
+  ]
+ },
+ {
+  "id": "niemeyer",
+  "name": "Oscar Niemeyer",
+  "born": "1907",
+  "died": "2012",
+  "sort": 1907,
+  "birthplace": "Rio de Janeiro",
+  "deathplace": "Rio de Janeiro",
+  "nationality": "Brazilian",
+  "movements": [
+   "late-modernism"
+  ],
+  "bio": "Brazilian architect whose sensuous concrete curves, from Pampulha to the public buildings of Brasília, gave modernism a new freedom.",
+  "bio_full": [
+   "Niemeyer studied at the National School of Fine Arts in Rio and worked under Lúcio Costa on the Ministry of Education and Health building (1936–43), for which Le Corbusier was consultant. For Juscelino Kubitschek, then mayor of Belo Horizonte, he designed the Pampulha complex (1940–43), including the church of São Francisco de Assis. When Kubitschek became president, Niemeyer designed the principal buildings of the new capital Brasília, laid out by Costa and inaugurated in 1960. A lifelong communist, he worked in exile in France and Algeria during the military dictatorship, and kept designing until his death aged 104.",
+   "Niemeyer rejected the right angle in favour of free curves inspired, he said, by the mountains, rivers and bodies of Brazil. He exploited reinforced concrete for thin shells, domes and slender columns that make heavy buildings appear weightless. He shared the Pritzker Prize in 1988 with Gordon Bunshaft."
+  ]
+ },
+ {
+  "id": "eero-saarinen",
+  "name": "Eero Saarinen",
+  "born": "1910",
+  "died": "1961",
+  "sort": 1910,
+  "birthplace": "Kirkkonummi, Finland",
+  "deathplace": "Ann Arbor, Michigan",
+  "nationality": "Finnish-American",
+  "movements": [
+   "late-modernism"
+  ],
+  "bio": "Finnish-American architect and designer of the Gateway Arch, the TWA Flight Center and the Tulip chair, who sought a distinct form for every building.",
+  "bio_full": [
+   "Eero was the son of the Finnish architect Eliel Saarinen, who emigrated to the United States in 1923 and headed the Cranbrook Academy of Art in Michigan. Eero studied sculpture in Paris and architecture at Yale, worked with his father, and with Charles Eames won prizes for furniture design. His breakthrough came with the General Motors Technical Center (1948–56) and the competition for the Jefferson National Expansion Memorial in St Louis, won in 1948 and built as the Gateway Arch (1963–65). He went on to design the Kresge Auditorium at MIT, the TWA Flight Center, Dulles Airport and the CBS Building, but died of a brain tumour at fifty-one, leaving many works to be completed by his office.",
+   "Saarinen believed each building should have a style suited to its purpose, which critics took as inconsistency. His expressive concrete shells and swooping curves captured the optimism of postwar America, and his furniture for Knoll, including the Tulip and Womb chairs, remains in production."
+  ]
+ },
+ {
+  "id": "utzon",
+  "name": "Jørn Utzon",
+  "born": "1918",
+  "died": "2008",
+  "sort": 1918,
+  "birthplace": "Copenhagen",
+  "deathplace": "Copenhagen",
+  "nationality": "Danish",
+  "movements": [
+   "late-modernism"
+  ],
+  "bio": "Danish architect whose winning design of 1957 for the Sydney Opera House produced one of the most recognised buildings of the twentieth century.",
+  "bio_full": [
+   "Utzon, son of a naval architect, studied at the Royal Danish Academy of Fine Arts, worked briefly with Alvar Aalto, and travelled in Mexico, the United States, China and Japan. In 1957, still little known, he won the international competition for an opera house on Bennelong Point in Sydney. Years of work on the structure of its shells followed, with the engineers Ove Arup and Partners, but after disputes with the New South Wales government over costs and design he resigned in 1966 and never returned to see the building finished. He later built the Bagsværd Church near Copenhagen and the National Assembly of Kuwait.",
+   "Utzon's architecture draws on platforms and roofs, on natural growth and on the additive repetition of parts. He received the Pritzker Prize in 2003, and the Sydney Opera House became a UNESCO World Heritage Site in 2007, one of the few sites so listed in its architect's lifetime. Late in life he was reconciled with Sydney and drew up guidelines for the building's future."
+  ]
+ },
+ {
+  "id": "kahn",
+  "name": "Louis Kahn",
+  "born": "1901",
+  "died": "1974",
+  "sort": 1901,
+  "birthplace": "Kuressaare, Estonia (then Russian Empire)",
+  "deathplace": "New York City",
+  "nationality": "American",
+  "movements": [
+   "late-modernism",
+   "brutalism"
+  ],
+  "bio": "American architect of the Salk Institute, the Kimbell Art Museum and the National Assembly of Bangladesh, who brought monumental gravity and light back to modern architecture.",
+  "bio_full": [
+   "Kahn emigrated to Philadelphia as a child, studied at the University of Pennsylvania in its Beaux-Arts tradition, and worked through the Depression on public housing. Only in his fifties, after a stay at the American Academy in Rome in 1950–51, did he find his own voice, with the Yale University Art Gallery and the Richards Medical Research Laboratories. His mature works include the Salk Institute in La Jolla (1959–65), the Indian Institute of Management in Ahmedabad, the National Assembly in Dhaka, the Kimbell Art Museum and the Yale Center for British Art. He died in debt in a station washroom in New York.",
+   "Kahn asked what a building wants to be, and answered with primary geometries, massive walls of concrete and brick, and a careful distinction between served and servant spaces. His buildings are shaped by daylight, which he called the giver of all presences. A revered teacher in Philadelphia, he influenced architects from Mario Botta to Tadao Ando."
+  ]
+ },
+ {
+  "id": "pei",
+  "name": "I. M. Pei",
+  "born": "1917",
+  "died": "2019",
+  "sort": 1917,
+  "birthplace": "Guangzhou, China",
+  "deathplace": "New York City",
+  "nationality": "Chinese-American",
+  "movements": [
+   "late-modernism"
+  ],
+  "bio": "Chinese-American architect of geometric modern buildings, among them the East Building of the National Gallery in Washington and the glass pyramid of the Louvre.",
+  "bio_full": [
+   "Ieoh Ming Pei went to the United States in 1935 to study architecture at the University of Pennsylvania and MIT, and later at Harvard under Gropius. He worked for the developer William Zeckendorf before founding his own firm, later Pei Cobb Freed. His works include the National Center for Atmospheric Research in Colorado, the John F. Kennedy Library, the East Building of the National Gallery of Art (1978), the Grand Louvre project with its pyramid (1989), the Bank of China Tower in Hong Kong (1990), the Rock and Roll Hall of Fame and the Museum of Islamic Art in Doha.",
+   "Pei worked in a sharply geometric modernism of triangles, prisms and precise stone and glass, combining it with careful response to historic settings. The Louvre pyramid, attacked at first in France, became a beloved landmark. He received the Pritzker Prize in 1983."
+  ]
+ },
+ {
+  "id": "lasdun",
+  "name": "Denys Lasdun",
+  "born": "1914",
+  "died": "2001",
+  "sort": 1914,
+  "birthplace": "London",
+  "deathplace": "London",
+  "nationality": "English",
+  "movements": [
+   "brutalism"
+  ],
+  "bio": "English architect of the Royal National Theatre on London's South Bank and the University of East Anglia, leading works of British Brutalism.",
+  "bio_full": [
+   "Lasdun studied at the Architectural Association, worked with Wells Coates and joined Berthold Lubetkin's Tecton group in the 1930s. After war service he built housing in Bethnal Green, the Royal College of Physicians in Regent's Park (1964), the University of East Anglia's ziggurat residences and teaching wall, and buildings for the University of London. The National Theatre, designed from 1963 and opened in 1976, was his most important work. He was knighted in 1976.",
+   "Lasdun thought of buildings as urban landscapes, with layered horizontal terraces and strata that make public space continuous with the city. The National Theatre's board-marked concrete divided opinion, famously drawing Prince Charles's criticism, but it was listed Grade II* in 1994 and is now widely admired."
+  ]
+ },
+ {
+  "id": "chamberlin-powell-bon",
+  "name": "Chamberlin, Powell and Bon",
+  "born": "founded 1952",
+  "died": "",
+  "sort": 1952,
+  "nationality": "British",
+  "movements": [
+   "brutalism"
+  ],
+  "bio": "London practice of Peter Chamberlin, Geoffry Powell and Christoph Bon, designers of the Golden Lane Estate and the Barbican Estate in the City of London.",
+  "bio_full": [
+   "The three partners taught together at Kingston School of Art. In 1952 Powell won the competition for the Golden Lane Estate in the City of London, and they formed a partnership on the understanding that whoever won would share the work. From 1955 they planned the redevelopment of the bomb-damaged Barbican area as a residential neighbourhood, built from 1965 to 1976, with the Barbican Arts Centre opening in 1982. They also designed buildings for Leeds University and New Hall, Cambridge.",
+   "The Barbican combines three residential towers, long terrace blocks raised on columns, lakes and gardens, a school, a church and an arts centre in a single walkable complex with pedestrian walkways above the streets. Its bush-hammered concrete, vaulted roofs and romantic medieval echoes make it one of the most complete achievements of British Brutalism."
+  ]
+ },
+ {
+  "id": "venturi",
+  "name": "Robert Venturi",
+  "born": "1925",
+  "died": "2018",
+  "sort": 1925,
+  "birthplace": "Philadelphia",
+  "deathplace": "Philadelphia",
+  "nationality": "American",
+  "movements": [
+   "postmodernism"
+  ],
+  "bio": "American architect and theorist whose book Complexity and Contradiction in Architecture and Vanna Venturi House launched postmodernism.",
+  "bio_full": [
+   "Venturi studied at Princeton, won the Rome Prize, and worked for Eero Saarinen and Louis Kahn before opening his own practice in Philadelphia, where he was joined by Denise Scott Brown, his wife from 1967, and John Rauch. His mother's house in Chestnut Hill (1962–64), Guild House for the elderly, and the Sainsbury Wing of the National Gallery in London (1991) are among the firm's best-known works.",
+   "In Complexity and Contradiction in Architecture (1966) Venturi defended ambiguity and the richness of historical architecture against modernist purity, answering Mies's 'less is more' with 'less is a bore'. With Scott Brown and Steven Izenour he wrote Learning from Las Vegas (1972), which took the commercial strip seriously and distinguished buildings that are sculptural 'ducks' from 'decorated sheds'. He received the Pritzker Prize in 1991; that Scott Brown was not included became a long-running controversy."
+  ]
+ },
+ {
+  "id": "graves",
+  "name": "Michael Graves",
+  "born": "1934",
+  "died": "2015",
+  "sort": 1934,
+  "birthplace": "Indianapolis, Indiana",
+  "deathplace": "Princeton, New Jersey",
+  "nationality": "American",
+  "movements": [
+   "postmodernism"
+  ],
+  "bio": "American architect and designer whose Portland Building of 1982 became the emblem of postmodern architecture.",
+  "bio_full": [
+   "Graves studied at the University of Cincinnati and Harvard, won the Rome Prize and taught at Princeton for nearly forty years. He first gained notice as one of the 'New York Five', architects of white neo-Corbusian houses, before turning to colourful, abstracted classicism with the Portland Building (1982) and the Humana Building in Louisville. He designed hotels and offices for Disney and, through Alessi and Target, kettles and household products that brought design to a mass market. Paralysed by an illness in 2003, he devoted his late work to healthcare design.",
+   "Graves's architecture uses simplified columns, keystones and garlands in pastel colours, treating the façade as a symbolic picture. His work was both popular and derided, and the Portland Building became a test case for whether postmodern buildings should be preserved."
+  ]
+ },
+ {
+  "id": "rogers",
+  "name": "Richard Rogers",
+  "born": "1933",
+  "died": "2021",
+  "sort": 1933,
+  "birthplace": "Florence",
+  "deathplace": "London",
+  "nationality": "British (Italian-born)",
+  "movements": [
+   "high-tech"
+  ],
+  "bio": "British architect who with Renzo Piano designed the Centre Pompidou in Paris and later the Lloyd's building, leading figures of high-tech architecture.",
+  "bio_full": [
+   "Rogers was born in Florence to an Anglo-Italian family that moved to England in 1939. He studied at the Architectural Association and at Yale, where he met Norman Foster, with whom he formed Team 4 in 1963. With Renzo Piano he won the competition for the Centre Pompidou in 1971. His later firm, now Rogers Stirk Harbour and Partners, designed the Lloyd's building (1986), the Millennium Dome, Terminal 4 of Madrid Barajas Airport and the Leadenhall Building. He sat in the House of Lords and championed compact, sustainable cities.",
+   "Rogers turned buildings inside out, placing structure, lifts, stairs and service ducts on the exterior to free flexible open floors and to give the city a lively, legible machine. He received the Pritzker Prize in 2007."
+  ]
+ },
+ {
+  "id": "piano",
+  "name": "Renzo Piano",
+  "born": "1937",
+  "died": "",
+  "sort": 1937,
+  "birthplace": "Genoa",
+  "nationality": "Italian",
+  "movements": [
+   "high-tech",
+   "contemporary-architecture"
+  ],
+  "bio": "Italian architect, co-designer of the Centre Pompidou, whose later museums and towers, among them the Shard in London, combine lightness, craft and engineering.",
+  "bio_full": [
+   "Piano grew up in a family of builders in Genoa and studied at the Milan Polytechnic. After the Centre Pompidou with Richard Rogers, he founded the Renzo Piano Building Workshop, with offices in Genoa and Paris. Its works include the Menil Collection in Houston, Kansai International Airport, the Jean-Marie Tjibaou Cultural Centre in New Caledonia, the Potsdamer Platz redevelopment in Berlin, the California Academy of Sciences, the Shard in London and the Whitney Museum in New York.",
+   "Piano's architecture is detailed with craftsmanlike care, uses light roofs and filtered daylight, and seeks to integrate engineering and context rather than impose a single style. He received the Pritzker Prize in 1998 and was named a senator for life in Italy in 2013."
+  ]
+ },
+ {
+  "id": "foster",
+  "name": "Norman Foster",
+  "born": "1935",
+  "died": "",
+  "sort": 1935,
+  "birthplace": "Reddish, Stockport",
+  "nationality": "British",
+  "movements": [
+   "high-tech",
+   "contemporary-architecture"
+  ],
+  "bio": "British architect whose firm designed the HSBC headquarters in Hong Kong, the glass dome of the Reichstag and 30 St Mary Axe, leading high-tech and sustainable design.",
+  "bio_full": [
+   "Foster grew up in a working-class family near Manchester, studied at the University of Manchester and at Yale, and founded Team 4 with Richard Rogers before setting up Foster Associates in 1967. Early works such as the Willis Faber and Dumas building in Ipswich and the Sainsbury Centre for Visual Arts were followed by the Hongkong and Shanghai Bank headquarters (1986), Stansted Airport, the Reichstag dome in Berlin (1999), the Great Court of the British Museum, the Millau Viaduct with the engineer Michel Virlogeux, and 30 St Mary Axe in London (2004). Foster and Partners became one of the largest architecture firms in the world.",
+   "Foster's buildings emphasise lightweight structure, prefabrication, daylight and natural ventilation, and his practice has made energy performance a central design concern. He received the Pritzker Prize in 1999 and a life peerage."
+  ]
+ },
+ {
+  "id": "gehry",
+  "name": "Frank Gehry",
+  "born": "1929",
+  "died": "2025",
+  "sort": 1929,
+  "birthplace": "Toronto",
+  "deathplace": "Santa Monica, California",
+  "nationality": "Canadian-American",
+  "movements": [
+   "deconstructivism"
+  ],
+  "bio": "Canadian-American architect of the Guggenheim Museum Bilbao and the Walt Disney Concert Hall, whose sculptural, computer-designed forms changed the image of architecture.",
+  "bio_full": [
+   "Frank Owen Goldberg moved from Toronto to Los Angeles in 1947, studied architecture at the University of Southern California and city planning at Harvard, and opened his own office in 1962. His renovation of his own house in Santa Monica (1978), wrapped in chain-link fencing and corrugated metal, made his name. He then designed the Vitra Design Museum in Germany, the Dancing House in Prague, the Guggenheim Museum Bilbao (1997), the Walt Disney Concert Hall (2003), the Fondation Louis Vuitton in Paris and many other buildings worldwide.",
+   "Gehry worked from crumpled paper and hand-made models, and his office adapted software from the aerospace industry to design and fabricate complex curved surfaces, a revolution in how buildings are made. The success of Bilbao in reviving its city gave rise to the term 'Bilbao effect' for iconic cultural buildings. He received the Pritzker Prize in 1989."
+  ]
+ },
+ {
+  "id": "hadid",
+  "name": "Zaha Hadid",
+  "born": "1950",
+  "died": "2016",
+  "sort": 1950,
+  "birthplace": "Baghdad",
+  "deathplace": "Miami, Florida",
+  "nationality": "Iraqi-British",
+  "movements": [
+   "deconstructivism",
+   "contemporary-architecture"
+  ],
+  "bio": "Iraqi-British architect, the first woman to win the Pritzker Prize, whose dynamic, flowing buildings range from the Vitra Fire Station to the Heydar Aliyev Center.",
+  "bio_full": [
+   "Hadid studied mathematics at the American University of Beirut and architecture at the Architectural Association in London, where she worked with Rem Koolhaas. For years her explosive, painted competition designs, such as The Peak in Hong Kong (1983), were celebrated but unbuilt. Her first major building was the Vitra Fire Station (1993), followed by the Rosenthal Center in Cincinnati, the Phaeno Science Centre, MAXXI in Rome, the London Aquatics Centre for the 2012 Olympics, the Guangzhou Opera House and the Heydar Aliyev Center in Baku. She won the Pritzker Prize in 2004 and died suddenly at sixty-five.",
+   "Influenced by the Russian avant-garde, especially Malevich, Hadid began with fragmented, angular forms and moved, with her partner Patrik Schumacher and digital tools, toward continuous, fluid surfaces. Her success as a woman in a male-dominated profession made her a role model, while some commissions for authoritarian states drew criticism."
+  ]
+ },
+ {
+  "id": "libeskind",
+  "name": "Daniel Libeskind",
+  "born": "1946",
+  "died": "",
+  "sort": 1946,
+  "birthplace": "Łódź, Poland",
+  "nationality": "Polish-American",
+  "movements": [
+   "deconstructivism"
+  ],
+  "bio": "Polish-American architect whose Jewish Museum Berlin turned architecture into a medium of memory.",
+  "bio_full": [
+   "Libeskind, the son of Holocaust survivors, studied music in Israel and New York before turning to architecture at the Cooper Union. He was known for theoretical drawings and teaching until he won the competition for the Jewish Museum Berlin in 1989, which opened in 2001. His later works include the Imperial War Museum North in Manchester, the extension of the Denver Art Museum and the Royal Ontario Museum, and in 2003 he won the competition for the master plan of the World Trade Center site in New York.",
+   "Libeskind's buildings are made of sharp, intersecting volumes and slashed openings, intended to express rupture and absence. He was one of the architects shown at the 1988 Deconstructivist Architecture exhibition at MoMA."
+  ]
+ },
+ {
+  "id": "koolhaas",
+  "name": "Rem Koolhaas",
+  "born": "1944",
+  "died": "",
+  "sort": 1944,
+  "birthplace": "Rotterdam",
+  "nationality": "Dutch",
+  "movements": [
+   "deconstructivism",
+   "contemporary-architecture"
+  ],
+  "bio": "Dutch architect and writer, founder of OMA and author of Delirious New York, whose buildings include the Seattle Central Library and the CCTV Headquarters in Beijing.",
+  "bio_full": [
+   "Koolhaas worked as a journalist and screenwriter before studying at the Architectural Association in London and at Cornell. In 1975 he founded the Office for Metropolitan Architecture with Elia and Zoe Zenghelis and Madelon Vriesendorp, and published Delirious New York (1978), a 'retroactive manifesto' for Manhattan. OMA's works include the Kunsthal in Rotterdam, the Euralille master plan, the Maison à Bordeaux, the Casa da Música in Porto, the Seattle Central Library (2004) and the CCTV Headquarters (2012). He taught at Harvard, wrote S,M,L,XL with Bruce Mau, and in 2014 directed the Venice Architecture Biennale.",
+   "Koolhaas treats architecture as a response to the forces of the modern metropolis, programme and global capitalism rather than as an exercise in style. His research studios at Harvard examined shopping, the Pearl River Delta and Lagos, and many leading architects trained at OMA. He received the Pritzker Prize in 2000."
+  ]
+ },
+ {
+  "id": "calatrava",
+  "name": "Santiago Calatrava",
+  "born": "1951",
+  "died": "",
+  "sort": 1951,
+  "birthplace": "Benimàmet, Valencia",
+  "nationality": "Spanish",
+  "movements": [
+   "contemporary-architecture"
+  ],
+  "bio": "Spanish architect and engineer of bridges, stations and the City of Arts and Sciences in Valencia, whose white structures recall skeletons and wings.",
+  "bio_full": [
+   "Calatrava studied architecture in Valencia and civil engineering at the ETH in Zurich, where he wrote a doctoral thesis on folding structures and opened his practice in 1981. He designed the Stadelhofen station in Zurich, the Alamillo Bridge in Seville, the Lyon-Saint Exupéry airport station, the Milwaukee Art Museum extension, the City of Arts and Sciences in his native Valencia, the Turning Torso in Malmö and the World Trade Center Transportation Hub in New York.",
+   "Calatrava's work merges sculpture, architecture and engineering in white steel and concrete, with forms derived from his studies of the human body and animals. His buildings are admired for their drama and criticised for cost overruns and practical problems."
+  ]
+ },
+ {
+  "id": "herzog-de-meuron",
+  "name": "Herzog & de Meuron",
+  "born": "founded 1978",
+  "died": "",
+  "sort": 1978,
+  "birthplace": "Basel",
+  "nationality": "Swiss",
+  "movements": [
+   "contemporary-architecture"
+  ],
+  "bio": "Basel practice of Jacques Herzog and Pierre de Meuron, known for Tate Modern, the Beijing National Stadium and the Elbphilharmonie in Hamburg.",
+  "bio_full": [
+   "Jacques Herzog and Pierre de Meuron, both born in Basel in 1950, studied together at the ETH in Zurich under Aldo Rossi among others and founded their practice in Basel in 1978. Early works such as the Signal Box in Basel and the Ricola storage building attracted attention for their surfaces. The conversion of Bankside Power Station into Tate Modern (2000) brought international fame, followed by the de Young Museum in San Francisco, the Allianz Arena in Munich, the Beijing National Stadium with Ai Weiwei (2008), the Elbphilharmonie (2017) and M+ in Hong Kong.",
+   "Herzog & de Meuron have no signature style; each project begins with experiments in material, from printed glass and copper bands to concrete and stone, and they often collaborate with artists. They received the Pritzker Prize in 2001."
+  ]
+ }
+]
