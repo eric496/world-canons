@@ -1,0 +1,128 @@
+[
+ {
+  "id": "chant-early-medieval",
+  "name": "Chant & early medieval",
+  "dates": "c. 600–1150",
+  "period": "middle-ages",
+  "summary": "The single-line sacred song of the Latin church, sung in Latin to free, unmetred rhythms and organised by the eight church modes. Carolingian rulers spread a standard repertory, later credited to Pope Gregory I, and monks invented staff notation so it could be written down rather than memorised. Hymns, sequences and liturgical drama, like the visionary songs of Hildegard of Bingen, grew around this core."
+ },
+ {
+  "id": "ars-antiqua",
+  "name": "Ars antiqua (Notre-Dame school)",
+  "dates": "c. 1160–1300",
+  "period": "middle-ages",
+  "summary": "At the new cathedral of Notre-Dame in Paris, singers began to add one, two or three voices above a slowed-down chant, measuring them in repeating rhythmic patterns. Léonin and Pérotin are the first named composers of this polyphony, collected in the Magnus liber organi. The thirteenth century added the motet, in which each voice could sing a different text."
+ },
+ {
+  "id": "ars-nova",
+  "name": "Ars nova",
+  "dates": "c. 1310–1380",
+  "period": "middle-ages",
+  "summary": "A new notation, set out in treatises of around 1320, allowed duple as well as triple time and much finer rhythmic values. French composers used it for intricate isorhythmic motets and for courtly songs in the fixed forms of ballade, rondeau and virelai. Guillaume de Machaut, poet and composer, is its towering figure, and Italy developed a parallel trecento style."
+ },
+ {
+  "id": "franco-flemish",
+  "name": "Franco-Flemish Renaissance",
+  "dates": "c. 1420–1530",
+  "period": "renaissance",
+  "summary": "Composers from northern France and the Low Countries dominated the courts and chapels of Europe for a century. Absorbing a sweet, consonant English sound, they built the cyclic mass on a borrowed tune and developed imitation, where each voice takes up the same motif in turn. Dufay, Ockeghem and Josquin des Prez are the central names, and music printing spread their work from 1501."
+ },
+ {
+  "id": "late-renaissance-music",
+  "name": "Late Renaissance & Venetian",
+  "dates": "c. 1530–1600",
+  "period": "renaissance",
+  "summary": "The mature polyphonic style reached its classic poise in the Roman church music of Palestrina and in the works of Lassus, Victoria, Tallis and Byrd. Reformation and Counter-Reformation both pressed for words that could be understood. The Italian madrigal grew ever more expressive, and at St Mark's in Venice the Gabrielis exploited divided choirs and brass in grand antiphonal sound."
+ },
+ {
+  "id": "early-baroque-music",
+  "name": "Early Baroque & opera",
+  "dates": "c. 1600–1680",
+  "period": "seventeenth-century",
+  "summary": "Around 1600 Florentine humanists, hoping to revive Greek drama, created recitative: a solo voice declaiming over a bass line. This monody gave birth to opera, and Monteverdi's Orfeo of 1607 showed its dramatic power. The basso continuo, the concerted church style, the cantata, the oratorio and the first independent instrumental sonatas all date from this period."
+ },
+ {
+  "id": "high-baroque",
+  "name": "High Baroque",
+  "dates": "c. 1680–1750",
+  "period": "enlightenment",
+  "summary": "Major-minor tonality became the governing system, giving music strong harmonic direction. Corelli and Vivaldi fixed the forms of the concerto and sonata, opera seria spread from Italy across Europe, and French music under Lully and Rameau kept its own dance-based style. Bach and Handel summed up the age, in learned counterpoint and in English oratorio."
+ },
+ {
+  "id": "classical-era",
+  "name": "Galant & Classical",
+  "dates": "c. 1740–1820",
+  "period": "enlightenment",
+  "summary": "Composers turned towards clear, singable melody over light accompaniment, first in the galant style and then in the Classical style of Vienna. Sonata form, the symphony, the string quartet and the piano concerto became the central genres, built on balanced phrases and dramatic contrasts of key. Haydn, Mozart and early Beethoven are its masters, and Gluck reformed opera towards dramatic truth."
+ },
+ {
+  "id": "early-romantic",
+  "name": "Early Romantic",
+  "dates": "c. 1815–1850",
+  "period": "nineteenth-century",
+  "summary": "Romantic composers prized personal expression, the sublime, nature and the supernatural, and links with poetry and literature. The art song, the short lyric piano piece and the programme symphony flourished, and the virtuoso performer became a celebrity. Schubert, Berlioz, Mendelssohn, Chopin, Schumann and the young Liszt worked in this generation, alongside the bel canto opera of Rossini and his successors."
+ },
+ {
+  "id": "high-romantic",
+  "name": "High Romantic & opera",
+  "dates": "c. 1850–1890",
+  "period": "nineteenth-century",
+  "summary": "Opera dominated the middle of the century. Verdi brought Italian opera to a new dramatic intensity, while Wagner remade opera as music drama, with continuous music woven from leading motifs. Instrumental music split, in a famous controversy, between Liszt and Wagner's progressive New German School and the classical forms upheld by Brahms."
+ },
+ {
+  "id": "nationalist-schools",
+  "name": "Nationalist schools",
+  "dates": "c. 1860–1920",
+  "period": "nineteenth-century",
+  "summary": "Composers from Russia, Bohemia, Scandinavia and elsewhere set out to create music of their own nations, drawing on folk song, dance rhythms, national history and landscape. The Russian 'Mighty Handful', with Mussorgsky at its most original, Smetana and Dvořák in Bohemia, Grieg in Norway and Sibelius in Finland gave this movement its classics."
+ },
+ {
+  "id": "late-romantic",
+  "name": "Late Romantic & post-Wagnerian",
+  "dates": "c. 1880–1915",
+  "period": "nineteenth-century",
+  "summary": "Under Wagner's influence harmony became ever richer and more chromatic, and orchestras grew enormous. Mahler's vast symphonies, Bruckner's cathedral-like structures, Strauss's tone poems and operas and Puccini's verismo dramas belong to this last flowering of Romanticism, which stretched tonality close to breaking point."
+ },
+ {
+  "id": "impressionism-music",
+  "name": "Impressionism & French modernism",
+  "dates": "c. 1890–1930",
+  "period": "modern",
+  "summary": "French composers, led by Debussy, turned away from German rhetoric towards colour, atmosphere and suggestion. They used whole-tone and pentatonic scales, old modes, unresolved chords and delicate orchestral textures, often inspired by poetry, painting and the music of Java heard in Paris in 1889. Ravel and the ironic simplicity of Satie extended the French line."
+ },
+ {
+  "id": "second-viennese-school",
+  "name": "Second Viennese School & modernism",
+  "dates": "c. 1908–1950",
+  "period": "modern",
+  "summary": "Arnold Schoenberg and his pupils Alban Berg and Anton Webern left tonality behind, writing 'atonal' music without a key centre from 1908. In the early 1920s Schoenberg devised the twelve-tone method, which orders all twelve notes of the chromatic scale into a series. Alongside them, Stravinsky's Rite of Spring and Bartók's folk-based modernism shook the musical world with new rhythmic violence."
+ },
+ {
+  "id": "neoclassicism-music",
+  "name": "Neoclassicism & mid-century tonal modernism",
+  "dates": "c. 1920–1960",
+  "period": "modern",
+  "summary": "After the First World War many composers rejected Romantic excess and returned to the clarity, forms and dry textures of the eighteenth century, filtered through modern harmony. Stravinsky led the way; Prokofiev, Copland, Shostakovich and Britten in different ways forged accessible but distinctly twentieth-century tonal styles, some of them under heavy political pressure."
+ },
+ {
+  "id": "jazz",
+  "name": "Jazz",
+  "dates": "c. 1910–1970",
+  "period": "modern",
+  "summary": "Jazz arose among African American musicians in New Orleans in the early twentieth century, out of blues, ragtime, brass-band music and spirituals. Built on swing rhythm, blue notes and improvisation, it spread through recordings and radio to become a world music. Louis Armstrong made the improvising soloist central, Duke Ellington made the jazz orchestra a composer's instrument, and Gershwin carried its idioms into the concert hall."
+ },
+ {
+  "id": "postwar-avant-garde",
+  "name": "Post-war avant-garde",
+  "dates": "c. 1945–1975",
+  "period": "contemporary",
+  "summary": "After 1945 young composers sought a fresh start. At Darmstadt, Boulez and Stockhausen extended serial ordering to every parameter of sound; electronic studios opened in Paris and Cologne; Messiaen drew on birdsong and Indian rhythm. John Cage introduced chance and silence, and Ligeti built shimmering clouds of sound. Their experiments widened the very idea of music."
+ },
+ {
+  "id": "minimalism-music",
+  "name": "Minimalism & new simplicity",
+  "dates": "c. 1964–1990",
+  "period": "contemporary",
+  "summary": "In the 1960s American composers including Terry Riley, Steve Reich and Philip Glass reacted against the complexity of serialism with music built from steady pulse, repeated patterns and slow, audible processes of change, influenced by African drumming, Indian music and rock. In Estonia Arvo Pärt developed his spare, bell-like tintinnabuli style. These styles brought new audiences to contemporary music."
+ }
+]
