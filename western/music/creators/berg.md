@@ -1,10 +1,14 @@
 # Alban Berg
 
+<a href="https://commons.wikimedia.org/wiki/File:Alban_Berg_by_Arnold_Schoenberg_1910.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Alban_Berg_by_Arnold_Schoenberg_1910.jpg" alt="Alban Berg" title="Arnold Schoenberg, portrait of Alban Berg, c. 1910"></a>
+
 **1885 – 1935** · Austrian  
 Born: Vienna · Died: Vienna  
 Eras & schools: [Second Viennese School & modernism](../movements/second-viennese-school.md)  
 
 > Schoenberg's pupil Berg combined atonality and twelve-tone technique with Romantic expressiveness, above all in the opera Wozzeck.
+
+<sub>Portrait: Arnold Schoenberg, portrait of Alban Berg, c. 1910 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alban_Berg_by_Arnold_Schoenberg_1910.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Berg,_Alban)
 

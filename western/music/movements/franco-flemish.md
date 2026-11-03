@@ -8,8 +8,8 @@ Composers from northern France and the Low Countries dominated the courts and ch
 
 ## Composers
 
--  [Guillaume Du Fay](../creators/dufay.md) (c. 1397 – 1474)
--  [Josquin des Prez](../creators/josquin.md) (c. 1450 – 1521)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/DufayBinchois.jpg" width="40" alt="Guillaume Du Fay"> [Guillaume Du Fay](../creators/dufay.md) (c. 1397 – 1474)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Josquin_woodcut.jpg" width="40" alt="Josquin des Prez"> [Josquin des Prez](../creators/josquin.md) (c. 1450 – 1521)
 
 ## Key works
 

@@ -1,10 +1,14 @@
 # Claudio Monteverdi
 
+<a href="https://commons.wikimedia.org/wiki/File:Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg/330px-Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg" alt="Claudio Monteverdi" title="Bernardo Strozzi, portrait of Monteverdi, c. 1630"></a>
+
 **1567 – 1643** · Italian  
 Born: Cremona, Duchy of Milan · Died: Venice  
 Eras & schools: [Late Renaissance & Venetian](../movements/late-renaissance-music.md), [Early Baroque & opera](../movements/early-baroque-music.md)  
 
 > Monteverdi carried music from the Renaissance madrigal into the Baroque, and his Orfeo of 1607 is the earliest opera still regularly staged.
+
+<sub>Portrait: Bernardo Strozzi, portrait of Monteverdi, c. 1630 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Monteverdi,_Claudio)
 
@@ -22,6 +26,10 @@ Monteverdi published nine books of madrigals that trace the shift from the old s
 
 ### L'Orfeo (1607)
 
+[![L'Orfeo](https://upload.wikimedia.org/wikipedia/commons/8/8d/Cesare_Gennari_Orfeo.jpg)](https://commons.wikimedia.org/wiki/File:Cesare_Gennari_Orfeo.jpg)
+
+<sub>Cesare Gennari, Orpheus, 17th-century painting Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Cesare_Gennari_Orfeo.jpg).</sub>
+
 - **Date:** 1607
 - **Type:** Opera (favola in musica), prologue and five acts
 - **Premiere / first published:** Ducal palace, Mantua, 24 February 1607
@@ -32,6 +40,10 @@ L'Orfeo, with a libretto by Alessandro Striggio, was commissioned for the Accade
 
 ### Vespers of 1610 (Vespro della Beata Vergine) (1610)
 
+[![Vespers of 1610 (Vespro della Beata Vergine)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Monteverdi_Marienvespers_voorpagina.jpg/960px-Monteverdi_Marienvespers_voorpagina.jpg)](https://commons.wikimedia.org/wiki/File:Monteverdi_Marienvespers_voorpagina.jpg)
+
+<sub>Title page of a part-book of the 1610 Venice print Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Monteverdi_Marienvespers_voorpagina.jpg).</sub>
+
 - **Date:** 1610
 - **Type:** Sacred collection for voices and instruments
 - **Premiere / first published:** Published in Venice, 1610, dedicated to Pope Paul V
@@ -41,6 +53,10 @@ L'Orfeo, with a libretto by Alessandro Striggio, was commissioned for the Accade
 Monteverdi published this collection in Venice in 1610 together with a conservative mass, dedicating them to Pope Paul V, perhaps hoping for a post in Rome. It includes music for Vespers on feasts of the Virgin: psalms, a hymn and two Magnificats, along with motets for solo voices, a sonata in which a soprano repeatedly sings Sancta Maria over instruments, and the echo piece Audi coelum. Plainchant runs through many movements as a structural thread, while around it Monteverdi deploys every modern device, from virtuoso solo singing and dance rhythms to grand choral and instrumental writing. Whether it was meant to be performed as a whole is debated. Since its revival in the twentieth century it has become one of the most popular works of the period.
 
 ### L'incoronazione di Poppea (1643)
+
+[![L'incoronazione di Poppea](https://upload.wikimedia.org/wikipedia/commons/8/80/Title_page_of_the_1656_libretto_of_L%27incoronazione_di_Poppea.jpg)](https://commons.wikimedia.org/wiki/File:Title_page_of_the_1656_libretto_of_L%27incoronazione_di_Poppea.jpg)
+
+<sub>Title page of the 1656 libretto Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Title_page_of_the_1656_libretto_of_L%27incoronazione_di_Poppea.jpg).</sub>
 
 - **Date:** 1643
 - **Type:** Opera, prologue and three acts

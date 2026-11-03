@@ -1,10 +1,14 @@
 # Robert Schumann
 
+<a href="https://commons.wikimedia.org/wiki/File:Robert_Schumann_1839.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Robert_Schumann_1839.jpg/330px-Robert_Schumann_1839.jpg" alt="Robert Schumann" title="Josef Kriehuber, lithograph of Schumann, 1839"></a>
+
 **1810 – 1856** · German  
 Born: Zwickau, Saxony · Died: Endenich, near Bonn  
 Eras & schools: [Early Romantic](../movements/early-romantic.md)  
 
 > Schumann's piano cycles, songs and symphonies embody literary Romanticism, and as a critic he championed Chopin and Brahms.
+
+<sub>Portrait: Josef Kriehuber, lithograph of Schumann, 1839 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Robert_Schumann_1839.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Schumann,_Robert)
 
@@ -20,6 +24,10 @@ Schumann's piano music, including Carnaval, Kinderszenen and Kreisleriana, consi
 - [Dichterliebe](#dichterliebe-1840) (1840)
 
 ### Kinderszenen (1838)
+
+[![Kinderszenen](https://upload.wikimedia.org/wikipedia/commons/e/ed/Schumann_-_Kinderszenen%2C_Op15_-_Score_1st_page.jpg)](https://commons.wikimedia.org/wiki/File:Schumann_-_Kinderszenen%2C_Op15_-_Score_1st_page.jpg)
+
+<sub>First page of the score Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Schumann_-_Kinderszenen%2C_Op15_-_Score_1st_page.jpg).</sub>
 
 - **Date:** 1838
 - **Type:** Piano cycle, Op. 15

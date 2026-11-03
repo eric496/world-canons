@@ -1,10 +1,14 @@
 # Anton Bruckner
 
+<a href="https://commons.wikimedia.org/wiki/File:Anton_Bruckner_%28Kaulbach%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Anton_Bruckner_%28Kaulbach%29.jpg/330px-Anton_Bruckner_%28Kaulbach%29.jpg" alt="Anton Bruckner" title="Portrait of Bruckner by Hermann von Kaulbach"></a>
+
 **1824 – 1896** · Austrian  
 Born: Ansfelden, Upper Austria · Died: Vienna  
 Eras & schools: [Late Romantic & post-Wagnerian](../movements/late-romantic.md)  
 
 > An organist and devout Catholic, Bruckner wrote vast, cathedral-like symphonies that fuse Wagnerian harmony with the tradition of Beethoven and Schubert.
+
+<sub>Portrait: Portrait of Bruckner by Hermann von Kaulbach · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anton_Bruckner_%28Kaulbach%29.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Bruckner,_Anton)
 

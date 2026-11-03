@@ -1,10 +1,14 @@
 # Jean-Baptiste Lully
 
+<a href="https://commons.wikimedia.org/wiki/File:Paul_Mignard_-_Jean-Baptiste_Lully.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Paul_Mignard_-_Jean-Baptiste_Lully.jpg" alt="Jean-Baptiste Lully" title="Paul Mignard, portrait of Lully"></a>
+
 **1632 – 1687** · Italian-French  
 Born: Florence · Died: Paris  
 Eras & schools: [Early Baroque & opera](../movements/early-baroque-music.md)  
 
 > Florentine-born, Lully became Louis XIV's music master and created French opera, the tragédie en musique.
+
+<sub>Portrait: Paul Mignard, portrait of Lully · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Paul_Mignard_-_Jean-Baptiste_Lully.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Lully,_Jean-Baptiste)
 
@@ -17,6 +21,10 @@ With the librettist Philippe Quinault, Lully created the tragédie en musique, a
 ## Key works
 
 ### Armide (1686)
+
+[![Armide](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Scene_from_Armide_by_Lully_-_drawing_by_Saint-Aubin_-_Boston_MFA.jpg/1280px-Scene_from_Armide_by_Lully_-_drawing_by_Saint-Aubin_-_Boston_MFA.jpg)](https://commons.wikimedia.org/wiki/File:Scene_from_Armide_by_Lully_-_drawing_by_Saint-Aubin_-_Boston_MFA.jpg)
+
+<sub>Gabriel de Saint-Aubin, drawing of a scene from Lully's Armide (Museum of Fine Arts, Boston) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Scene_from_Armide_by_Lully_-_drawing_by_Saint-Aubin_-_Boston_MFA.jpg).</sub>
 
 - **Date:** 1686
 - **Type:** Tragédie en musique, prologue and five acts

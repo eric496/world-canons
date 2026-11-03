@@ -1,11 +1,15 @@
 # Hildegard of Bingen
 
+<a href="https://commons.wikimedia.org/wiki/File:Hildegard_von_Bingen.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hildegard_von_Bingen.jpg/330px-Hildegard_von_Bingen.jpg" alt="Hildegard of Bingen" title="Hildegard receiving a vision, miniature from the Liber Scivias"></a>
+
 **1098 – 1179** · German  
 Born: Bermersheim vor der Höhe, Rhineland · Died: Rupertsberg, near Bingen  
 Eras & schools: [Chant & early medieval](../movements/chant-early-medieval.md)  
 Also in: [Philosophy](../../philosophy/eras/02-medieval/hildegard-of-bingen.md), [Religion](../../religion/creators/hildegard.md)  
 
 > Benedictine abbess, visionary writer and composer, Hildegard wrote some of the most distinctive chant of the Middle Ages and the earliest surviving morality play with music.
+
+<sub>Portrait: Hildegard receiving a vision, miniature from the Liber Scivias · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hildegard_von_Bingen.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Hildegard_von_Bingen)
 
@@ -18,6 +22,10 @@ About seventy of Hildegard's chants survive, gathered under the title Symphonia 
 ## Key works
 
 ### Ordo Virtutum (c. 1151)
+
+[![Ordo Virtutum](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Riesencodex_-_fl.0466r.jpg/960px-Riesencodex_-_fl.0466r.jpg)](https://commons.wikimedia.org/wiki/File:Riesencodex_-_fl.0466r.jpg)
+
+<sub>A page of the Riesenkodex (Wiesbaden), the main source of Hildegard's music Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Riesencodex_-_fl.0466r.jpg).</sub>
 
 - **Date:** c. 1151
 - **Type:** Sung morality play

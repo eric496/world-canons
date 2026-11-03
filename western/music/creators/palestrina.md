@@ -1,10 +1,14 @@
 # Giovanni Pierluigi da Palestrina
 
+<a href="https://commons.wikimedia.org/wiki/File:Giovanni_Pierluigi_da_Palestrina.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Giovanni_Pierluigi_da_Palestrina.jpg" alt="Giovanni Pierluigi da Palestrina" title="Portrait of Palestrina"></a>
+
 **c. 1525 – 1594** · Italian  
 Born: Palestrina, Papal States · Died: Rome  
 Eras & schools: [Late Renaissance & Venetian](../movements/late-renaissance-music.md)  
 
 > Palestrina's serene, balanced polyphony for the Catholic church became the model of Renaissance sacred style, studied by composers for centuries.
+
+<sub>Portrait: Portrait of Palestrina · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giovanni_Pierluigi_da_Palestrina.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Palestrina,_Giovanni_Pierluigi_da)
 

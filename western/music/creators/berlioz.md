@@ -1,10 +1,14 @@
 # Hector Berlioz
 
+<a href="https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_Portrait_of_the_Composer_Hector_Berlioz_-_NG.M.01289_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gustave_Courbet_-_Portrait_of_the_Composer_Hector_Berlioz_-_NG.M.01289_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/330px-Gustave_Courbet_-_Portrait_of_the_Composer_Hector_Berlioz_-_NG.M.01289_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg" alt="Hector Berlioz" title="Gustave Courbet, portrait of Berlioz"></a>
+
 **1803 – 1869** · French  
 Born: La Côte-Saint-André, Isère · Died: Paris  
 Eras & schools: [Early Romantic](../movements/early-romantic.md)  
 
 > A pioneer of the Romantic programme symphony and of modern orchestration, Berlioz wrote the Symphonie fantastique and the epic opera Les Troyens.
+
+<sub>Portrait: Gustave Courbet, portrait of Berlioz · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_Portrait_of_the_Composer_Hector_Berlioz_-_NG.M.01289_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Berlioz,_Hector)
 

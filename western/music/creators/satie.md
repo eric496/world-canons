@@ -1,10 +1,14 @@
 # Erik Satie
 
+<a href="https://commons.wikimedia.org/wiki/File:Portrait_d%27Erik_Satie_1892-1893_-_Suzanne_Valadon.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Portrait_d%27Erik_Satie_1892-1893_-_Suzanne_Valadon.jpg/330px-Portrait_d%27Erik_Satie_1892-1893_-_Suzanne_Valadon.jpg" alt="Erik Satie" title="Suzanne Valadon, portrait of Satie, 1892–93"></a>
+
 **1866 – 1925** · French  
 Born: Honfleur · Died: Paris  
 Eras & schools: [Impressionism & French modernism](../movements/impressionism-music.md)  
 
 > An eccentric of Montmartre, Satie wrote deliberately simple, ironic pieces such as the Gymnopédies and influenced generations of experimental composers.
+
+<sub>Portrait: Suzanne Valadon, portrait of Satie, 1892–93 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_d%27Erik_Satie_1892-1893_-_Suzanne_Valadon.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Satie,_Erik)
 
@@ -17,6 +21,10 @@ Satie rejected the grandeur of Wagner and the refinement of Debussy alike, favou
 ## Key works
 
 ### Gymnopédies (1888)
+
+[![Gymnopédies](https://upload.wikimedia.org/wikipedia/commons/c/cc/Gymnop%C3%A9die_1_d%27Erik_Satie%2C_autographe.jpg)](https://commons.wikimedia.org/wiki/File:Gymnop%C3%A9die_1_d%27Erik_Satie%2C_autographe.jpg)
+
+<sub>Satie's autograph of the first Gymnopédie Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Gymnop%C3%A9die_1_d%27Erik_Satie%2C_autographe.jpg).</sub>
 
 - **Date:** 1888
 - **Type:** Three piano pieces

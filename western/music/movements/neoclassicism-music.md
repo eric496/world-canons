@@ -9,7 +9,7 @@ After the First World War many composers rejected Romantic excess and returned t
 ## Composers
 
 -  [Maurice Ravel](../creators/ravel.md) (1875 – 1937)
--  [Igor Stravinsky](../creators/stravinsky.md) (1882 – 1971)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Portrait_d%27Igor_Stravinsky%2C_par_Jacques-%C3%89mile_Blanche.jpg" width="40" alt="Igor Stravinsky"> [Igor Stravinsky](../creators/stravinsky.md) (1882 – 1971)
 -  [Sergei Prokofiev](../creators/prokofiev.md) (1891 – 1953)
 -  [Aaron Copland](../creators/copland.md) (1900 – 1990)
 -  [Dmitri Shostakovich](../creators/shostakovich.md) (1906 – 1975)
@@ -19,7 +19,7 @@ After the First World War many composers rejected Romantic excess and returned t
 
 | Image | Year | Work | Composer | Premiere / first published |
 |---|---|---|---|---|
-| — | 1936 | **Peter and the Wolf** | [Sergei Prokofiev](../creators/prokofiev.md) | Moscow, 2 May 1936, Central Children's Theatre |
+| — | 1936 | **Peter and the Wolf** | [Sergei Prokofiev](../creators/prokofiev.md) | Moscow, 2 May 1936 |
 | — | 1937 | **Symphony No. 5 in D minor** | [Dmitri Shostakovich](../creators/shostakovich.md) | Leningrad Philharmonic Hall, 21 November 1937, conducted by Yevgeny Mravinsky |
 | — | 1935–36 | **Romeo and Juliet** | [Sergei Prokofiev](../creators/prokofiev.md) | Mahen Theatre, Brno, 30 December 1938; Kirov Theatre, Leningrad, 11 January 1940 |
 | — | 1941 | **Symphony No. 7 in C major, 'Leningrad'** | [Dmitri Shostakovich](../creators/shostakovich.md) | Kuybyshev (Samara), 5 March 1942; Leningrad, 9 August 1942, during the siege |

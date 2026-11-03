@@ -1,10 +1,14 @@
 # Richard Strauss
 
+<a href="https://commons.wikimedia.org/wiki/File:Max_Liebermann_-_Portrait_of_Richard_Strauss%2C_1919.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Max_Liebermann_-_Portrait_of_Richard_Strauss%2C_1919.jpg" alt="Richard Strauss" title="Max Liebermann, portrait of Richard Strauss"></a>
+
 **1864 – 1949** · German  
 Born: Munich · Died: Garmisch-Partenkirchen  
 Eras & schools: [Late Romantic & post-Wagnerian](../movements/late-romantic.md)  
 
 > Strauss wrote brilliant tone poems such as Also sprach Zarathustra and operas from the shocking Salome to the nostalgic Der Rosenkavalier.
+
+<sub>Portrait: Max Liebermann, portrait of Richard Strauss · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Max_Liebermann_-_Portrait_of_Richard_Strauss%2C_1919.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Strauss,_Richard)
 
@@ -41,6 +45,10 @@ Strauss wrote this tone poem 'freely after Friedrich Nietzsche', inspired by Nie
 Strauss set Hedwig Lachmann's German translation of Oscar Wilde's play Salome, itself scandalous. The princess Salome is fascinated by the prophet Jochanaan (John the Baptist), imprisoned by her stepfather Herod, who rejects her. Herod lusts after Salome and promises her anything if she dances for him; after the Dance of the Seven Veils she demands Jochanaan's head on a silver platter, and in a long final scene she kisses the dead lips, before Herod orders her killed. The dissonant, richly orchestrated score caused a sensation; the opera was banned in London and Vienna and withdrawn from the Metropolitan Opera after one performance in 1907. Its success enabled Strauss to build a villa in Garmisch.
 
 ### Der Rosenkavalier (1909–10)
+
+[![Der Rosenkavalier](https://upload.wikimedia.org/wikipedia/commons/4/4a/Robert_Sterl_Schuch_dirigiert_Rosenkavalier.jpg)](https://commons.wikimedia.org/wiki/File:Robert_Sterl_Schuch_dirigiert_Rosenkavalier.jpg)
+
+<sub>Robert Sterl, Ernst von Schuch conducting Der Rosenkavalier Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Robert_Sterl_Schuch_dirigiert_Rosenkavalier.jpg).</sub>
 
 - **Date:** 1909–10
 - **Type:** Comic opera, three acts, Op. 59

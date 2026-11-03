@@ -1,10 +1,14 @@
 # Gioachino Rossini
 
+<a href="https://commons.wikimedia.org/wiki/File:Gioachino_Rossini%2C_1828%2C_by_Hortense_Haudebourt-Lescot.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gioachino_Rossini%2C_1828%2C_by_Hortense_Haudebourt-Lescot.jpg/330px-Gioachino_Rossini%2C_1828%2C_by_Hortense_Haudebourt-Lescot.jpg" alt="Gioachino Rossini" title="Hortense Haudebourt-Lescot, portrait of Rossini, 1828"></a>
+
 **1792 – 1868** · Italian  
 Born: Pesaro, Papal States · Died: Passy, Paris  
 Eras & schools: [Early Romantic](../movements/early-romantic.md)  
 
 > The most popular opera composer of his day, Rossini wrote The Barber of Seville and some forty operas before retiring from the stage at thirty-seven.
+
+<sub>Portrait: Hortense Haudebourt-Lescot, portrait of Rossini, 1828 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gioachino_Rossini%2C_1828%2C_by_Hortense_Haudebourt-Lescot.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Rossini,_Gioachino)
 
@@ -17,6 +21,10 @@ Rossini's comic operas are celebrated for their sparkle and energy, especially t
 ## Key works
 
 ### The Barber of Seville (Il barbiere di Siviglia) (1816)
+
+[![The Barber of Seville (Il barbiere di Siviglia)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Alexandre_Fragonard_-_Sc%C3%A8ne_de_L%27orage_%28Barbier_de_S%C3%A9ville%29.jpg/1280px-Alexandre_Fragonard_-_Sc%C3%A8ne_de_L%27orage_%28Barbier_de_S%C3%A9ville%29.jpg)](https://commons.wikimedia.org/wiki/File:Alexandre_Fragonard_-_Sc%C3%A8ne_de_L%27orage_%28Barbier_de_S%C3%A9ville%29.jpg)
+
+<sub>Alexandre-Évariste Fragonard, the storm scene from The Barber of Seville Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Alexandre_Fragonard_-_Sc%C3%A8ne_de_L%27orage_%28Barbier_de_S%C3%A9ville%29.jpg).</sub>
 
 - **Date:** 1816
 - **Type:** Opera buffa, two acts

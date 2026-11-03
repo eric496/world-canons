@@ -1,10 +1,14 @@
 # Henry Purcell
 
+<a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Henry_Purcell_%28cropped%29.png"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Portrait_of_Henry_Purcell_%28cropped%29.png/330px-Portrait_of_Henry_Purcell_%28cropped%29.png" alt="Henry Purcell" title="Portrait of Henry Purcell"></a>
+
 **1659 – 1695** · English  
 Born: Westminster, London · Died: Westminster, London  
 Eras & schools: [Early Baroque & opera](../movements/early-baroque-music.md)  
 
 > The finest English composer of the Baroque, Purcell wrote the opera Dido and Aeneas and a wealth of theatre, church and ceremonial music before his early death.
+
+<sub>Portrait: Portrait of Henry Purcell · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_of_Henry_Purcell_%28cropped%29.png)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Purcell,_Henry)
 

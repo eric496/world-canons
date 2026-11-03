@@ -1,10 +1,14 @@
 # Giuseppe Verdi
 
+<a href="https://commons.wikimedia.org/wiki/File:Giuseppe_Verdi_by_Giovanni_Boldini.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Giuseppe_Verdi_by_Giovanni_Boldini.jpg" alt="Giuseppe Verdi" title="Giovanni Boldini, portrait of Verdi, 1886"></a>
+
 **1813 – 1901** · Italian  
 Born: Le Roncole, near Busseto, Duchy of Parma · Died: Milan  
 Eras & schools: [High Romantic & opera](../movements/high-romantic.md)  
 
 > The greatest Italian opera composer of the nineteenth century, Verdi wrote Rigoletto, La traviata, Aida and Otello, and became a symbol of Italian unity.
+
+<sub>Portrait: Giovanni Boldini, portrait of Verdi, 1886 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giuseppe_Verdi_by_Giovanni_Boldini.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Verdi,_Giuseppe)
 
@@ -24,6 +28,10 @@ Verdi's operas centre on intense human conflicts, between fathers and daughters,
 
 ### Rigoletto (1851)
 
+[![Rigoletto](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Philippe_Chaperon_-_Rigoletto.jpg/1280px-Philippe_Chaperon_-_Rigoletto.jpg)](https://commons.wikimedia.org/wiki/File:Philippe_Chaperon_-_Rigoletto.jpg)
+
+<sub>Philippe Chaperon, stage design for Rigoletto Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Philippe_Chaperon_-_Rigoletto.jpg).</sub>
+
 - **Date:** 1851
 - **Type:** Opera, three acts
 - **Premiere / first published:** Teatro La Fenice, Venice, 11 March 1851
@@ -33,6 +41,10 @@ Verdi's operas centre on intense human conflicts, between fathers and daughters,
 Rigoletto is based on Victor Hugo's play Le roi s'amuse, which had been banned in France after one performance. The Austrian censors in Venice objected to the depiction of a licentious king, so Verdi and his librettist Francesco Maria Piave changed the setting to the court of the Duke of Mantua. The jester Rigoletto mocks the victims of his master, the womanising Duke, but is cursed by one of them, the Count Monterone. When the Duke seduces Rigoletto's daughter Gilda, Rigoletto hires an assassin, but Gilda sacrifices herself for the Duke. Verdi's dramatic treatment, including the storm scene and the famous quartet in which four characters express different emotions simultaneously, marked a new stage in his career. The Duke's carefree 'La donna è mobile' was so catchy that Verdi kept it secret until the final rehearsal.
 
 ### La traviata (1853)
+
+[![La traviata](https://upload.wikimedia.org/wikipedia/commons/9/9e/Violetta%2C_1853_Premiere_Costume.jpg)](https://commons.wikimedia.org/wiki/File:Violetta%2C_1853_Premiere_Costume.jpg)
+
+<sub>Costume design for Violetta at the 1853 premiere Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Violetta%2C_1853_Premiere_Costume.jpg).</sub>
 
 - **Date:** 1853
 - **Type:** Opera, three acts
@@ -53,6 +65,10 @@ La traviata (The Fallen Woman) is based on the play by Alexandre Dumas fils, whi
 Aida was commissioned by Isma'il Pasha, the Khedive of Egypt, for his new opera house in Cairo; the story was devised by the French Egyptologist Auguste Mariette and the libretto written by Antonio Ghislanzoni. Aida, an Ethiopian princess enslaved in Egypt, loves the Egyptian general Radamès, who is loved in turn by the Pharaoh's daughter Amneris. Radamès is tricked into betraying military secrets and is buried alive, and Aida joins him in the tomb. The opera combines grand spectacle, as in the triumphal scene with its long trumpets, with intimate drama. The Cairo premiere was delayed by the Franco-Prussian War, as the sets and costumes were trapped in besieged Paris. It is one of the most popular operas.
 
 ### Messa da Requiem (1873–74)
+
+[![Messa da Requiem](https://upload.wikimedia.org/wikipedia/commons/c/cc/Requiem_%28Verdi%29_Titelblatt_%281874%29.jpg)](https://commons.wikimedia.org/wiki/File:Requiem_%28Verdi%29_Titelblatt_%281874%29.jpg)
+
+<sub>Title page of the 1874 edition Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Requiem_%28Verdi%29_Titelblatt_%281874%29.jpg).</sub>
 
 - **Date:** 1873–74
 - **Type:** Requiem mass

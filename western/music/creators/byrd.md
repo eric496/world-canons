@@ -1,10 +1,14 @@
 # William Byrd
 
+<a href="https://commons.wikimedia.org/wiki/File:William_Byrd_%281543-1623%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/William_Byrd_%281543-1623%29.jpg/330px-William_Byrd_%281543-1623%29.jpg" alt="William Byrd" title="Engraved portrait of Byrd by Gerard Vandergucht, 18th century (imaginary likeness)"></a>
+
 **c. 1540 – 1623** · English  
 Born: London · Died: Stondon Massey, Essex  
 Eras & schools: [Late Renaissance & Venetian](../movements/late-renaissance-music.md)  
 
 > The greatest English composer of his age, Byrd was a Catholic in Protestant England who wrote for the Anglican church, for secret Catholic worship and for the keyboard.
+
+<sub>Portrait: Engraved portrait of Byrd by Gerard Vandergucht, 18th century (imaginary likeness) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:William_Byrd_%281543-1623%29.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Byrd,_William)
 

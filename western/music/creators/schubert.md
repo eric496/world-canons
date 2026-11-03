@@ -1,10 +1,14 @@
 # Franz Schubert
 
+<a href="https://commons.wikimedia.org/wiki/File:Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg/330px-Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg" alt="Franz Schubert" title="Wilhelm August Rieder, oil portrait of Schubert, 1875, after his watercolour of 1825"></a>
+
 **1797 – 1828** · Austrian  
 Born: Himmelpfortgrund, Vienna · Died: Vienna  
 Eras & schools: [Early Romantic](../movements/early-romantic.md)  
 
 > In a life of only thirty-one years Schubert wrote more than six hundred songs, raising the German lied to high art, as well as symphonies, chamber music and piano works of great beauty.
+
+<sub>Portrait: Wilhelm August Rieder, oil portrait of Schubert, 1875, after his watercolour of 1825 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Schubert,_Franz)
 
@@ -23,6 +27,10 @@ Schubert's songs, including Erlkönig, Gretchen am Spinnrade and the cycles Die 
 
 ### Erlkönig (1815)
 
+[![Erlkönig](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Erlkonig1sted.jpg/1280px-Erlkonig1sted.jpg)](https://commons.wikimedia.org/wiki/File:Erlkonig1sted.jpg)
+
+<sub>First edition, Vienna, 1821 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Erlkonig1sted.jpg).</sub>
+
 - **Date:** 1815
 - **Type:** Lied, D. 328
 - **Premiere / first published:** Published as Op. 1, Vienna, 1821; first public performance 7 March 1821
@@ -32,6 +40,10 @@ Schubert's songs, including Erlkönig, Gretchen am Spinnrade and the cycles Die 
 Schubert was seventeen when he set Goethe's ballad of a father riding through the night with his sick child, who is lured and finally killed by the supernatural Erl-King. According to his friend Joseph von Spaun, he wrote it in one afternoon. The piano part hammers out the galloping hooves in relentless repeated octaves, and the single singer has to portray four characters, the narrator, the frightened child, the reassuring father and the seductive Erl-King, in different registers and styles. The child's cries rise in pitch each time, and at the end the music stops for the stark final line. Goethe was reportedly indifferent to it, but it became Schubert's first published work and made his name.
 
 ### Symphony No. 8 in B minor, 'Unfinished' (1822)
+
+[![Symphony No. 8 in B minor, 'Unfinished'](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Symphony_No._8_in_B_minor.jpg/1280px-Symphony_No._8_in_B_minor.jpg)](https://commons.wikimedia.org/wiki/File:Symphony_No._8_in_B_minor.jpg)
+
+<sub>Schubert's autograph score Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Symphony_No._8_in_B_minor.jpg).</sub>
 
 - **Date:** 1822
 - **Type:** Symphony (two movements), D. 759

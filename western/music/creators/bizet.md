@@ -1,10 +1,14 @@
 # Georges Bizet
 
+<a href="https://commons.wikimedia.org/wiki/File:F%C3%A9lix_Henri_Giacomotti_-_Georges_Bizet_%281838-1875%29%2C_compositeur_-_P2501_-_Mus%C3%A9e_Carnavalet.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/F%C3%A9lix_Henri_Giacomotti_-_Georges_Bizet_%281838-1875%29%2C_compositeur_-_P2501_-_Mus%C3%A9e_Carnavalet.jpg/330px-F%C3%A9lix_Henri_Giacomotti_-_Georges_Bizet_%281838-1875%29%2C_compositeur_-_P2501_-_Mus%C3%A9e_Carnavalet.jpg" alt="Georges Bizet" title="Félix-Henri Giacomotti, portrait of Bizet (Musée Carnavalet)"></a>
+
 **1838 – 1875** · French  
 Born: Paris · Died: Bougival, near Paris  
 Eras & schools: [High Romantic & opera](../movements/high-romantic.md)  
 
 > Bizet's Carmen, a failure at its 1875 premiere, became one of the most popular operas ever written.
+
+<sub>Portrait: Félix-Henri Giacomotti, portrait of Bizet (Musée Carnavalet) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:F%C3%A9lix_Henri_Giacomotti_-_Georges_Bizet_%281838-1875%29%2C_compositeur_-_P2501_-_Mus%C3%A9e_Carnavalet.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Bizet,_Georges)
 
@@ -17,6 +21,10 @@ Bizet's music is marked by vivid melody, clear orchestration and dramatic direct
 ## Key works
 
 ### Carmen (1873–74)
+
+[![Carmen](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Prudent-Louis_Leray_-_Poster_for_the_premi%C3%A8re_of_Georges_Bizet%27s_Carmen.jpg/960px-Prudent-Louis_Leray_-_Poster_for_the_premi%C3%A8re_of_Georges_Bizet%27s_Carmen.jpg)](https://commons.wikimedia.org/wiki/File:Prudent-Louis_Leray_-_Poster_for_the_premi%C3%A8re_of_Georges_Bizet%27s_Carmen.jpg)
+
+<sub>Prudent-Louis Leray, poster for the 1875 premiere Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Prudent-Louis_Leray_-_Poster_for_the_premi%C3%A8re_of_Georges_Bizet%27s_Carmen.jpg).</sub>
 
 - **Date:** 1873–74
 - **Type:** Opéra comique, four acts

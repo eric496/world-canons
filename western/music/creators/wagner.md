@@ -1,10 +1,14 @@
 # Richard Wagner
 
+<a href="https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Richard_Wagner.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Pierre-Auguste_Renoir_-_Richard_Wagner.jpg/330px-Pierre-Auguste_Renoir_-_Richard_Wagner.jpg" alt="Richard Wagner" title="Pierre-Auguste Renoir, portrait of Wagner, 1882"></a>
+
 **1813 – 1883** · German  
 Born: Leipzig · Died: Venice  
 Eras & schools: [High Romantic & opera](../movements/high-romantic.md)  
 
 > Wagner remade opera as music drama, writing his own librettos and creating the Ring cycle, Tristan und Isolde and a theatre at Bayreuth for his works.
+
+<sub>Portrait: Pierre-Auguste Renoir, portrait of Wagner, 1882 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Richard_Wagner.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Wagner,_Richard)
 
@@ -42,6 +46,10 @@ Wagner interrupted his work on the Ring to write Tristan und Isolde, inspired by
 Die Meistersinger is set in sixteenth-century Nuremberg, where the shoemaker-poet Hans Sachs, a historical figure, helps the young knight Walther win a singing contest and the hand of Eva, against the pedantic town clerk Beckmesser. The work celebrates German art and the balance between tradition and innovation, and contains Wagner's most diatonic and contrapuntal music, including a famous overture that combines several themes at once. Many have seen Beckmesser as an antisemitic caricature and as a portrait of the critic Hanslick, though the extent of such meanings is debated. The Nazis made the opera a showpiece at Bayreuth, a history that later productions often confront.
 
 ### Der Ring des Nibelungen (1848–1874)
+
+[![Der Ring des Nibelungen](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/B%C3%BChnenbildentwurf_Rheingold.JPG/1280px-B%C3%BChnenbildentwurf_Rheingold.JPG)](https://commons.wikimedia.org/wiki/File:B%C3%BChnenbildentwurf_Rheingold.JPG)
+
+<sub>Stage design for Das Rheingold Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:B%C3%BChnenbildentwurf_Rheingold.JPG).</sub>
 
 - **Date:** 1848–1874
 - **Type:** Cycle of four music dramas

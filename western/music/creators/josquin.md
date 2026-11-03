@@ -1,10 +1,14 @@
 # Josquin des Prez
 
+<a href="https://commons.wikimedia.org/wiki/File:Josquin_woodcut.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Josquin_woodcut.jpg" alt="Josquin des Prez" title="Woodcut of Josquin from Petrus Opmeer's Opus chronographicum, 1611"></a>
+
 **c. 1450 – 1521** · Franco-Flemish  
 Born: probably Hainaut or Picardy · Died: Condé-sur-l'Escaut  
 Eras & schools: [Franco-Flemish Renaissance](../movements/franco-flemish.md)  
 
 > Hailed in his lifetime as the greatest composer of his age, Josquin combined expressive word-setting with mastery of imitative counterpoint in masses, motets and chansons.
+
+<sub>Portrait: Woodcut of Josquin from Petrus Opmeer's Opus chronographicum, 1611 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Josquin_woodcut.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Josquin_des_Prez)
 

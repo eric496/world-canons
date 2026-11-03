@@ -1,10 +1,14 @@
 # Jean-Philippe Rameau
 
+<a href="https://commons.wikimedia.org/wiki/File:Attribu%C3%A9_%C3%A0_Joseph_Aved%2C_Portrait_de_Jean-Philippe_Rameau_%28vers_1728%29_-_001.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Attribu%C3%A9_%C3%A0_Joseph_Aved%2C_Portrait_de_Jean-Philippe_Rameau_%28vers_1728%29_-_001.jpg" alt="Jean-Philippe Rameau" title="Attributed to Joseph Aved, portrait of Rameau, c. 1728"></a>
+
 **1683 – 1764** · French  
 Born: Dijon · Died: Paris  
 Eras & schools: [High Baroque](../movements/high-baroque.md)  
 
 > Theorist and composer, Rameau wrote a landmark treatise on harmony and in his fifties became the leading composer of French opera.
+
+<sub>Portrait: Attributed to Joseph Aved, portrait of Rameau, c. 1728 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Attribu%C3%A9_%C3%A0_Joseph_Aved%2C_Portrait_de_Jean-Philippe_Rameau_%28vers_1728%29_-_001.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Rameau,_Jean-Philippe)
 

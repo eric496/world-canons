@@ -1,10 +1,14 @@
 # Giacomo Puccini
 
+<a href="https://commons.wikimedia.org/wiki/File:Arturo_rietti%2C_ritratto_del_compositore_giacomo_puccini%2C_1906.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Arturo_rietti%2C_ritratto_del_compositore_giacomo_puccini%2C_1906.jpg/330px-Arturo_rietti%2C_ritratto_del_compositore_giacomo_puccini%2C_1906.jpg" alt="Giacomo Puccini" title="Arturo Rietti, portrait of Puccini, 1906"></a>
+
 **1858 – 1924** · Italian  
 Born: Lucca, Duchy of Lucca · Died: Brussels  
 Eras & schools: [Late Romantic & post-Wagnerian](../movements/late-romantic.md)  
 
 > Heir to Verdi, Puccini wrote La bohème, Tosca and Madama Butterfly, among the most performed operas in the world.
+
+<sub>Portrait: Arturo Rietti, portrait of Puccini, 1906 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arturo_rietti%2C_ritratto_del_compositore_giacomo_puccini%2C_1906.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Puccini,_Giacomo)
 
@@ -22,6 +26,10 @@ Puccini had an unmatched gift for soaring, emotional melody and a sure sense of 
 
 ### La bohème (1893–95)
 
+[![La bohème](https://upload.wikimedia.org/wikipedia/commons/7/70/La_Boheme_poster_by_Hohenstein.PNG)](https://commons.wikimedia.org/wiki/File:La_Boheme_poster_by_Hohenstein.PNG)
+
+<sub>Adolfo Hohenstein, poster for La bohème, 1896 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:La_Boheme_poster_by_Hohenstein.PNG).</sub>
+
 - **Date:** 1893–95
 - **Type:** Opera, four acts
 - **Premiere / first published:** Teatro Regio, Turin, 1 February 1896, conducted by Arturo Toscanini
@@ -32,6 +40,10 @@ La bohème, with a libretto by Luigi Illica and Giuseppe Giacosa, is based on He
 
 ### Tosca (1896–99)
 
+[![Tosca](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tosca_%281899%29.jpg/960px-Tosca_%281899%29.jpg)](https://commons.wikimedia.org/wiki/File:Tosca_%281899%29.jpg)
+
+<sub>Poster for Tosca, 1899 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Tosca_%281899%29.jpg).</sub>
+
 - **Date:** 1896–99
 - **Type:** Opera, three acts
 - **Premiere / first published:** Teatro Costanzi, Rome, 14 January 1900
@@ -41,6 +53,10 @@ La bohème, with a libretto by Luigi Illica and Giuseppe Giacosa, is based on He
 Tosca is based on Victorien Sardou's play, which Puccini had seen with Sarah Bernhardt in the title role. Its action takes place over less than a day in Rome in June 1800, during Napoleon's campaign in Italy, in real places: the church of Sant'Andrea della Valle, the Palazzo Farnese and the Castel Sant'Angelo. The singer Floria Tosca tries to save her lover, the painter Cavaradossi, from the brutal police chief Scarpia, who wants her for himself. She stabs Scarpia but is deceived: Cavaradossi's mock execution turns out to be real, and she throws herself from the castle battlements. The arias 'Vissi d'arte', 'Recondita armonia' and 'E lucevan le stelle' are famous. The musicologist Joseph Kerman dismissed it as a 'shabby little shocker', but it is one of the most popular operas.
 
 ### Madama Butterfly (1901–04)
+
+[![Madama Butterfly](https://upload.wikimedia.org/wikipedia/commons/b/b4/Hohenstein_Madama_Butterfly.jpg)](https://commons.wikimedia.org/wiki/File:Hohenstein_Madama_Butterfly.jpg)
+
+<sub>Adolfo Hohenstein, poster for Madama Butterfly, 1904 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Hohenstein_Madama_Butterfly.jpg).</sub>
 
 - **Date:** 1901–04
 - **Type:** Opera, two acts (originally), revised in three acts

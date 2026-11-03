@@ -1,10 +1,14 @@
 # Claude Debussy
 
+<a href="https://commons.wikimedia.org/wiki/File:Claude_Debussy%2C_portrait_by_Marcel_Baschet_%281884%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Claude_Debussy%2C_portrait_by_Marcel_Baschet_%281884%29.jpg/330px-Claude_Debussy%2C_portrait_by_Marcel_Baschet_%281884%29.jpg" alt="Claude Debussy" title="Marcel Baschet, portrait of Debussy, 1884"></a>
+
 **1862 – 1918** · French  
 Born: Saint-Germain-en-Laye · Died: Paris  
 Eras & schools: [Impressionism & French modernism](../movements/impressionism-music.md)  
 
 > Debussy freed harmony from traditional rules and created a new music of colour and atmosphere, from Prélude à l'après-midi d'un faune to La mer.
+
+<sub>Portrait: Marcel Baschet, portrait of Debussy, 1884 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Claude_Debussy%2C_portrait_by_Marcel_Baschet_%281884%29.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Debussy,_Claude)
 
@@ -32,6 +36,10 @@ Debussy's Prelude to the Afternoon of a Faun was inspired by Stéphane Mallarmé
 
 ### Pelléas et Mélisande (1893–1902)
 
+[![Pelléas et Mélisande](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Georges_Rochegrosse_-_Poster_for_the_pr%C3%A8miere_of_Claude_Debussy_and_Maurice_Maeterlinck%27s_Pell%C3%A9as_et_M%C3%A9lisande.jpg/960px-Georges_Rochegrosse_-_Poster_for_the_pr%C3%A8miere_of_Claude_Debussy_and_Maurice_Maeterlinck%27s_Pell%C3%A9as_et_M%C3%A9lisande.jpg)](https://commons.wikimedia.org/wiki/File:Georges_Rochegrosse_-_Poster_for_the_pr%C3%A8miere_of_Claude_Debussy_and_Maurice_Maeterlinck%27s_Pell%C3%A9as_et_M%C3%A9lisande.jpg)
+
+<sub>Georges Rochegrosse, poster for the 1902 premiere Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Georges_Rochegrosse_-_Poster_for_the_pr%C3%A8miere_of_Claude_Debussy_and_Maurice_Maeterlinck%27s_Pell%C3%A9as_et_M%C3%A9lisande.jpg).</sub>
+
 - **Date:** 1893–1902
 - **Type:** Opera (drame lyrique), five acts
 - **Premiere / first published:** Opéra-Comique, Paris, 30 April 1902
@@ -41,6 +49,10 @@ Debussy's Prelude to the Afternoon of a Faun was inspired by Stéphane Mallarmé
 Debussy set Maurice Maeterlinck's Symbolist play almost word for word. In the mysterious kingdom of Allemonde, Prince Golaud finds the fragile Mélisande weeping by a spring in the forest and marries her; she and his younger half-brother Pelléas fall in love, and Golaud in jealousy kills Pelléas. Mélisande dies after giving birth. Instead of arias, the singers follow the natural inflections of French speech, and the orchestra creates atmosphere through subtle colours, while the most intense moments are often almost silent. Maeterlinck, who had wanted his mistress to sing the title role, publicly hoped for the opera's failure. The premiere divided critics but it soon became a cult among young musicians. It is a key work of operatic modernism.
 
 ### La mer (1903–05)
+
+[![La mer](https://upload.wikimedia.org/wikipedia/commons/a/af/Debussy_-_La_Mer_-_The_great_wave_of_Kanaga_from_Hokusai.jpg)](https://commons.wikimedia.org/wiki/File:Debussy_-_La_Mer_-_The_great_wave_of_Kanaga_from_Hokusai.jpg)
+
+<sub>Cover of the first edition, after Hokusai's Great Wave Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Debussy_-_La_Mer_-_The_great_wave_of_Kanaga_from_Hokusai.jpg).</sub>
 
 - **Date:** 1903–05
 - **Type:** Three symphonic sketches for orchestra

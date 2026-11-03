@@ -1,10 +1,14 @@
 # Frédéric Chopin
 
+<a href="https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_Fr%C3%A9d%C3%A9ric_Chopin_-_WGA06194.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Eug%C3%A8ne_Delacroix_-_Fr%C3%A9d%C3%A9ric_Chopin_-_WGA06194.jpg" alt="Frédéric Chopin" title="Eugène Delacroix, portrait of Chopin, 1838 (Louvre)"></a>
+
 **1810 – 1849** · Polish-French  
 Born: Żelazowa Wola, Duchy of Warsaw · Died: Paris  
 Eras & schools: [Early Romantic](../movements/early-romantic.md)  
 
 > Chopin wrote almost exclusively for the piano, creating a deeply personal poetry of the instrument in nocturnes, études, ballades, mazurkas and polonaises.
+
+<sub>Portrait: Eugène Delacroix, portrait of Chopin, 1838 (Louvre) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_Fr%C3%A9d%C3%A9ric_Chopin_-_WGA06194.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Chopin,_Frédéric)
 
@@ -41,6 +45,10 @@ The nocturne, a dreamy piano piece with a singing melody over broken-chord accom
 Chopin's two sets of twelve études each focus on a particular technical problem, such as arpeggios, chromatic scales, octaves or the independence of the weak fingers, but they are also concert pieces of great expressive and musical richness. Op. 10, written largely in Warsaw and Vienna before 1832, is dedicated to Liszt, and Op. 25 to Liszt's partner Marie d'Agoult. Among the best known are the 'Revolutionary' Étude in C minor, Op. 10 No. 12, associated with the fall of Warsaw to the Russians in 1831, the lyrical Op. 10 No. 3 in E major, and the 'Winter Wind', Op. 25 No. 11. They established the étude as an artistic genre, followed by Liszt, Debussy, Scriabin and Ligeti.
 
 ### Ballade No. 1 in G minor (c. 1831–35)
+
+[![Ballade No. 1 in G minor](https://upload.wikimedia.org/wikipedia/commons/9/96/Chopin_Ballade_1.png)](https://commons.wikimedia.org/wiki/File:Chopin_Ballade_1.png)
+
+<sub>Opening of the Ballade No. 1 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Chopin_Ballade_1.png).</sub>
 
 - **Date:** c. 1831–35
 - **Type:** Piano ballade, Op. 23

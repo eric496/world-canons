@@ -21,7 +21,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Hildegard_von_Bingen"
    }
-  ]
+  ],
+  "portrait_file": "Hildegard von Bingen.jpg",
+  "portrait_caption": "Hildegard receiving a vision, miniature from the Liber Scivias"
  },
  {
   "id": "leonin",
@@ -81,7 +83,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Machaut,_Guillaume_de"
    }
-  ]
+  ],
+  "portrait_file": "Machaut 1.jpg",
+  "portrait_caption": "Machaut in a fourteenth-century manuscript miniature"
  },
  {
   "id": "dufay",
@@ -105,7 +109,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Du_Fay,_Guillaume"
    }
-  ]
+  ],
+  "portrait_file": "DufayBinchois.jpg",
+  "portrait_caption": "Du Fay (left) with Gilles Binchois, miniature from Martin le Franc's Le champion des dames"
  },
  {
   "id": "josquin",
@@ -129,7 +135,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Josquin_des_Prez"
    }
-  ]
+  ],
+  "portrait_file": "Josquin woodcut.jpg",
+  "portrait_caption": "Woodcut of Josquin from Petrus Opmeer's Opus chronographicum, 1611"
  },
  {
   "id": "palestrina",
@@ -153,7 +161,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Palestrina,_Giovanni_Pierluigi_da"
    }
-  ]
+  ],
+  "portrait_file": "Giovanni Pierluigi da Palestrina.jpg",
+  "portrait_caption": "Portrait of Palestrina"
  },
  {
   "id": "tallis",
@@ -177,7 +187,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Tallis,_Thomas"
    }
-  ]
+  ],
+  "portrait_file": "Tallis crop.png",
+  "portrait_caption": "Engraved portrait of Tallis by Gerard Vandergucht, 18th century (imaginary likeness)"
  },
  {
   "id": "byrd",
@@ -201,7 +213,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Byrd,_William"
    }
-  ]
+  ],
+  "portrait_file": "William Byrd (1543-1623).jpg",
+  "portrait_caption": "Engraved portrait of Byrd by Gerard Vandergucht, 18th century (imaginary likeness)"
  },
  {
   "id": "lassus",
@@ -225,7 +239,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Lassus,_Orlande_de"
    }
-  ]
+  ],
+  "portrait_file": "Orlande de Lassus.jpg",
+  "portrait_caption": "Portrait of Orlande de Lassus"
  },
  {
   "id": "gabrieli",
@@ -275,7 +291,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Monteverdi,_Claudio"
    }
-  ]
+  ],
+  "portrait_file": "Bernardo Strozzi - Claudio Monteverdi (c.1630).jpg",
+  "portrait_caption": "Bernardo Strozzi, portrait of Monteverdi, c. 1630"
  },
  {
   "id": "lully",
@@ -299,7 +317,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Lully,_Jean-Baptiste"
    }
-  ]
+  ],
+  "portrait_file": "Paul Mignard - Jean-Baptiste Lully.jpg",
+  "portrait_caption": "Paul Mignard, portrait of Lully"
  },
  {
   "id": "purcell",
@@ -323,7 +343,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Purcell,_Henry"
    }
-  ]
+  ],
+  "portrait_file": "Portrait of Henry Purcell (cropped).png",
+  "portrait_caption": "Portrait of Henry Purcell"
  },
  {
   "id": "corelli",
@@ -347,7 +369,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Corelli,_Arcangelo"
    }
-  ]
+  ],
+  "portrait_file": "Arcangelo Corelli, portrait by Hugh Howard (1697).jpg",
+  "portrait_caption": "Hugh Howard, portrait of Corelli, 1697"
  },
  {
   "id": "vivaldi",
@@ -371,7 +395,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Vivaldi,_Antonio"
    }
-  ]
+  ],
+  "portrait_file": "Vivaldi.jpg",
+  "portrait_caption": "Anonymous portrait traditionally identified as Vivaldi, c. 1723"
  },
  {
   "id": "bach",
@@ -395,7 +421,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Bach,_Johann_Sebastian"
    }
-  ]
+  ],
+  "portrait_file": "Johann Sebastian Bach.jpg",
+  "portrait_caption": "Elias Gottlob Haussmann, portrait of Bach holding a canon"
  },
  {
   "id": "handel",
@@ -419,7 +447,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Handel,_George_Frideric"
    }
-  ]
+  ],
+  "portrait_file": "George Frideric Handel by Balthasar Denner.jpg",
+  "portrait_caption": "Balthasar Denner, portrait of Handel"
  },
  {
   "id": "rameau",
@@ -443,7 +473,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Rameau,_Jean-Philippe"
    }
-  ]
+  ],
+  "portrait_file": "Attribué à Joseph Aved, Portrait de Jean-Philippe Rameau (vers 1728) - 001.jpg",
+  "portrait_caption": "Attributed to Joseph Aved, portrait of Rameau, c. 1728"
  },
  {
   "id": "gluck",
@@ -467,7 +499,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Gluck,_Christoph_Willibald"
    }
-  ]
+  ],
+  "portrait_file": "Joseph Siffred Duplessis - Christoph Willibald Gluck - Google Art Project.jpg",
+  "portrait_caption": "Joseph Siffred Duplessis, portrait of Gluck, 1775"
  },
  {
   "id": "haydn",
@@ -491,7 +525,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Haydn,_Joseph"
    }
-  ]
+  ],
+  "portrait_file": "Joseph Haydn, portrait by Thomas Hardy.jpg",
+  "portrait_caption": "Thomas Hardy, portrait of Haydn, 1791"
  },
  {
   "id": "mozart",
@@ -515,7 +551,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Mozart,_Wolfgang_Amadeus"
    }
-  ]
+  ],
+  "portrait_file": "Mozart (unfinished) by Lange 1782.jpg",
+  "portrait_caption": "Joseph Lange, unfinished portrait of Mozart, c. 1782"
  },
  {
   "id": "beethoven",
@@ -540,7 +578,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Beethoven,_Ludwig_van"
    }
-  ]
+  ],
+  "portrait_file": "Joseph Karl Stieler's Beethoven mit dem Manuskript der Missa solemnis.jpg",
+  "portrait_caption": "Joseph Karl Stieler, Beethoven with the manuscript of the Missa solemnis, 1820"
  },
  {
   "id": "schubert",
@@ -564,7 +604,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Schubert,_Franz"
    }
-  ]
+  ],
+  "portrait_file": "Franz Schubert by Wilhelm August Rieder 1875.jpg",
+  "portrait_caption": "Wilhelm August Rieder, oil portrait of Schubert, 1875, after his watercolour of 1825"
  },
  {
   "id": "rossini",
@@ -588,7 +630,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Rossini,_Gioachino"
    }
-  ]
+  ],
+  "portrait_file": "Gioachino Rossini, 1828, by Hortense Haudebourt-Lescot.jpg",
+  "portrait_caption": "Hortense Haudebourt-Lescot, portrait of Rossini, 1828"
  },
  {
   "id": "berlioz",
@@ -612,7 +656,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Berlioz,_Hector"
    }
-  ]
+  ],
+  "portrait_file": "Gustave Courbet - Portrait of the Composer Hector Berlioz - NG.M.01289 - National Museum of Art, Architecture and Design.jpg",
+  "portrait_caption": "Gustave Courbet, portrait of Berlioz"
  },
  {
   "id": "felix-mendelssohn",
@@ -636,7 +682,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Mendelssohn,_Felix"
    }
-  ]
+  ],
+  "portrait_file": "Felix Mendelssohn Bartholdy by Eduard Magnus (1833).jpg",
+  "portrait_caption": "Eduard Magnus, portrait of Mendelssohn, 1833"
  },
  {
   "id": "chopin",
@@ -660,7 +708,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Chopin,_Frédéric"
    }
-  ]
+  ],
+  "portrait_file": "Eugène Delacroix - Frédéric Chopin - WGA06194.jpg",
+  "portrait_caption": "Eugène Delacroix, portrait of Chopin, 1838 (Louvre)"
  },
  {
   "id": "robert-schumann",
@@ -684,7 +734,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Schumann,_Robert"
    }
-  ]
+  ],
+  "portrait_file": "Robert Schumann 1839.jpg",
+  "portrait_caption": "Josef Kriehuber, lithograph of Schumann, 1839"
  },
  {
   "id": "clara-schumann",
@@ -708,7 +760,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Schumann,_Clara"
    }
-  ]
+  ],
+  "portrait_file": "Andreas Staub - Clara Wieck (Lithographie 1839, cropped).jpg",
+  "portrait_caption": "Andreas Staub, lithograph of Clara Wieck, 1839"
  },
  {
   "id": "liszt",
@@ -733,7 +787,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Liszt,_Franz"
    }
-  ]
+  ],
+  "portrait_file": "Liszt (Lehmann portrait).jpg",
+  "portrait_caption": "Henri Lehmann, portrait of Liszt, 1839"
  },
  {
   "id": "wagner",
@@ -757,7 +813,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Wagner,_Richard"
    }
-  ]
+  ],
+  "portrait_file": "Pierre-Auguste Renoir - Richard Wagner.jpg",
+  "portrait_caption": "Pierre-Auguste Renoir, portrait of Wagner, 1882"
  },
  {
   "id": "verdi",
@@ -781,7 +839,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Verdi,_Giuseppe"
    }
-  ]
+  ],
+  "portrait_file": "Giuseppe Verdi by Giovanni Boldini.jpg",
+  "portrait_caption": "Giovanni Boldini, portrait of Verdi, 1886"
  },
  {
   "id": "brahms",
@@ -805,7 +865,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Brahms,_Johannes"
    }
-  ]
+  ],
+  "portrait_file": "Brahms-Laurens-1853.png",
+  "portrait_caption": "Jean-Joseph Bonaventure Laurens, drawing of the young Brahms, 1853"
  },
  {
   "id": "bizet",
@@ -829,7 +891,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Bizet,_Georges"
    }
-  ]
+  ],
+  "portrait_file": "Félix Henri Giacomotti - Georges Bizet (1838-1875), compositeur - P2501 - Musée Carnavalet.jpg",
+  "portrait_caption": "Félix-Henri Giacomotti, portrait of Bizet (Musée Carnavalet)"
  },
  {
   "id": "smetana",
@@ -877,7 +941,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Mussorgsky,_Modest"
    }
-  ]
+  ],
+  "portrait_file": "Ilya Repin - Портрет композитора М.П.Мусоргского - Google Art Project.jpg",
+  "portrait_caption": "Ilya Repin, portrait of Mussorgsky, March 1881, days before his death"
  },
  {
   "id": "tchaikovsky",
@@ -950,7 +1016,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Grieg,_Edvard"
    }
-  ]
+  ],
+  "portrait_file": "Eilif Peterssen - Portrait of the Composer Edvard Grieg - NG.M.00396 - National Museum of Art, Architecture and Design.jpg",
+  "portrait_caption": "Eilif Peterssen, portrait of Grieg (National Museum, Oslo)"
  },
  {
   "id": "bruckner",
@@ -974,7 +1042,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Bruckner,_Anton"
    }
-  ]
+  ],
+  "portrait_file": "Anton Bruckner (Kaulbach).jpg",
+  "portrait_caption": "Portrait of Bruckner by Hermann von Kaulbach"
  },
  {
   "id": "puccini",
@@ -998,7 +1068,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Puccini,_Giacomo"
    }
-  ]
+  ],
+  "portrait_file": "Arturo rietti, ritratto del compositore giacomo puccini, 1906.jpg",
+  "portrait_caption": "Arturo Rietti, portrait of Puccini, 1906"
  },
  {
   "id": "mahler",
@@ -1022,7 +1094,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Mahler,_Gustav"
    }
-  ]
+  ],
+  "portrait_file": "Gustav Mahler Emil Orlik 1902.jpg",
+  "portrait_caption": "Emil Orlik, etching of Mahler, 1902"
  },
  {
   "id": "debussy",
@@ -1046,7 +1120,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Debussy,_Claude"
    }
-  ]
+  ],
+  "portrait_file": "Claude Debussy, portrait by Marcel Baschet (1884).jpg",
+  "portrait_caption": "Marcel Baschet, portrait of Debussy, 1884"
  },
  {
   "id": "richard-strauss",
@@ -1070,7 +1146,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Strauss,_Richard"
    }
-  ]
+  ],
+  "portrait_file": "Max Liebermann - Portrait of Richard Strauss, 1919.jpg",
+  "portrait_caption": "Max Liebermann, portrait of Richard Strauss"
  },
  {
   "id": "sibelius",
@@ -1095,7 +1173,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Sibelius,_Jean"
    }
-  ]
+  ],
+  "portrait_file": "Jean Sibelius by Eero Järnefelt 1892.jpg",
+  "portrait_caption": "Eero Järnefelt, portrait of Sibelius, 1892"
  },
  {
   "id": "satie",
@@ -1119,7 +1199,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Satie,_Erik"
    }
-  ]
+  ],
+  "portrait_file": "Portrait d'Erik Satie 1892-1893 - Suzanne Valadon.jpg",
+  "portrait_caption": "Suzanne Valadon, portrait of Satie, 1892–93"
  },
  {
   "id": "ravel",
@@ -1162,7 +1244,9 @@
   "bio_full": [
    "Arnold Schoenberg was born in Vienna in 1874 into a Jewish family and was largely self-taught, apart from lessons with Alexander Zemlinsky, whose sister he married. His early works, such as the string sextet Verklärte Nacht (1899) and Gurre-Lieder, extend Wagner and Brahms. From around 1908 he abandoned key altogether in works such as the Five Orchestral Pieces, Erwartung and Pierrot lunaire. He was also an Expressionist painter linked with Kandinsky's Blue Rider group. His teaching drew pupils including Berg and Webern. In the early 1920s he formulated the method of composing with twelve tones. He taught at the Prussian Academy of Arts in Berlin until the Nazis dismissed him in 1933; he formally returned to Judaism in Paris and emigrated to the United States, teaching at the University of California, Los Angeles. He died in Los Angeles in 1951, leaving his opera Moses und Aron unfinished.",
    "Schoenberg saw his work as the logical continuation of the German tradition, from Bach and Brahms to Wagner and Mahler. He called his abandonment of tonality the emancipation of dissonance. The twelve-tone method arranges the twelve notes into a fixed series, which can be inverted, reversed and transposed to generate a whole work. Few composers have been as controversial: his music has never been popular, but its ideas dominated composition for decades after the Second World War, and his textbooks on harmony and composition are still widely read."
-  ]
+  ],
+  "portrait_file": "Schiele - Bildnis des Komponisten Arnold Schönberg. 1917.jpg",
+  "portrait_caption": "Egon Schiele, portrait of Schoenberg, 1917"
  },
  {
   "id": "stravinsky",
@@ -1181,7 +1265,9 @@
   "bio_full": [
    "Igor Stravinsky was born in 1882 at Oranienbaum near Saint Petersburg, the son of a leading bass at the Mariinsky Theatre. He studied law but took private lessons in composition with Nikolai Rimsky-Korsakov. Sergei Diaghilev commissioned The Firebird for his Ballets Russes in Paris in 1910, followed by Petrushka (1911) and The Rite of Spring (1913), whose premiere caused one of the most famous scandals in music history. Cut off from Russia by war and revolution, he lived in Switzerland and then France, becoming a French citizen in 1934. In 1939 he moved to the United States, settling in Hollywood, and became an American citizen in 1945. From the late 1940s his assistant Robert Craft helped turn him towards serial music. He died in New York in 1971 and was buried in Venice near Diaghilev.",
    "Stravinsky's Russian ballets use folk-derived melodies, layered ostinatos, clashing harmonies and violently shifting irregular metres. From Pulcinella (1920), based on eighteenth-century music, he led the neoclassical movement, borrowing older forms and styles with ironic detachment, as in the Symphony of Psalms and the opera The Rake's Progress. His late serial works, such as Agon and Threni, completed a career of constant reinvention. Few composers had a wider influence on the music of the twentieth century."
-  ]
+  ],
+  "portrait_file": "Portrait d'Igor Stravinsky, par Jacques-Émile Blanche.jpg",
+  "portrait_caption": "Jacques-Émile Blanche, portrait of Stravinsky, 1915"
  },
  {
   "id": "bartok",
@@ -1230,7 +1316,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Berg,_Alban"
    }
-  ]
+  ],
+  "portrait_file": "Alban Berg by Arnold Schoenberg 1910.jpg",
+  "portrait_caption": "Arnold Schoenberg, portrait of Alban Berg, c. 1910"
  },
  {
   "id": "webern",
@@ -1296,7 +1384,9 @@
     "name": "Scores on IMSLP",
     "url": "https://imslp.org/wiki/Category:Gershwin,_George"
    }
-  ]
+  ],
+  "portrait_file": "Self-portrait by George Gershwin, 1934, oil on canvas board, from the National Portrait Gallery - NPG-6600086A 3.jpg",
+  "portrait_caption": "George Gershwin, self-portrait in oil, 1934 (National Portrait Gallery, Washington)"
  },
  {
   "id": "louis-armstrong",

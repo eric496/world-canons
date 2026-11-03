@@ -1,10 +1,14 @@
 # Christoph Willibald Gluck
 
+<a href="https://commons.wikimedia.org/wiki/File:Joseph_Siffred_Duplessis_-_Christoph_Willibald_Gluck_-_Google_Art_Project.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Joseph_Siffred_Duplessis_-_Christoph_Willibald_Gluck_-_Google_Art_Project.jpg/330px-Joseph_Siffred_Duplessis_-_Christoph_Willibald_Gluck_-_Google_Art_Project.jpg" alt="Christoph Willibald Gluck" title="Joseph Siffred Duplessis, portrait of Gluck, 1775"></a>
+
 **1714 – 1787** · German-Bohemian  
 Born: Erasbach, Upper Palatinate · Died: Vienna  
 Eras & schools: [Galant & Classical](../movements/classical-era.md)  
 
 > Gluck reformed opera, stripping away showy display in favour of dramatic truth, as in Orfeo ed Euridice.
+
+<sub>Portrait: Joseph Siffred Duplessis, portrait of Gluck, 1775 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joseph_Siffred_Duplessis_-_Christoph_Willibald_Gluck_-_Google_Art_Project.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Gluck,_Christoph_Willibald)
 
@@ -17,6 +21,10 @@ In the preface to Alceste Gluck explained his aim of making music serve the poet
 ## Key works
 
 ### Orfeo ed Euridice (1762)
+
+[![Orfeo ed Euridice](https://upload.wikimedia.org/wikipedia/commons/5/56/Gluck%27s_Orph%C3%A9e_-_title_page_illustration_%28lightened_and_cropped%29.jpg)](https://commons.wikimedia.org/wiki/File:Gluck%27s_Orph%C3%A9e_-_title_page_illustration_%28lightened_and_cropped%29.jpg)
+
+<sub>Title-page illustration of the Paris score of Orphée, 1774 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Gluck%27s_Orph%C3%A9e_-_title_page_illustration_%28lightened_and_cropped%29.jpg).</sub>
 
 - **Date:** 1762
 - **Type:** Opera (azione teatrale), three acts

@@ -1,10 +1,14 @@
 # Arnold Schoenberg
 
+<a href="https://commons.wikimedia.org/wiki/File:Schiele_-_Bildnis_des_Komponisten_Arnold_Sch%C3%B6nberg._1917.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Schiele_-_Bildnis_des_Komponisten_Arnold_Sch%C3%B6nberg._1917.jpg" alt="Arnold Schoenberg" title="Egon Schiele, portrait of Schoenberg, 1917"></a>
+
 **1874 – 1951** · Austrian-American  
 Born: Vienna · Died: Los Angeles  
 Eras & schools: [Second Viennese School & modernism](../movements/second-viennese-school.md)  
 
 > Schoenberg led music beyond tonality and created the twelve-tone method, one of the most influential developments of twentieth-century music.
+
+<sub>Portrait: Egon Schiele, portrait of Schoenberg, 1917 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Schiele_-_Bildnis_des_Komponisten_Arnold_Sch%C3%B6nberg._1917.jpg)</sub>
 
 ## Biography
 

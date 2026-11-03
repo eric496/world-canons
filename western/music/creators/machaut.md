@@ -1,10 +1,14 @@
 # Guillaume de Machaut
 
+<a href="https://commons.wikimedia.org/wiki/File:Machaut_1.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Machaut_1.jpg" alt="Guillaume de Machaut" title="Machaut in a fourteenth-century manuscript miniature"></a>
+
 **c. 1300 – 1377** · French  
 Born: probably Machault, Champagne · Died: Reims  
 Eras & schools: [Ars nova](../movements/ars-nova.md)  
 
 > Poet and composer, Machaut was the dominant figure of the French Ars nova, and his Messe de Nostre Dame is the earliest complete setting of the Mass by a single known composer.
+
+<sub>Portrait: Machaut in a fourteenth-century manuscript miniature · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Machaut_1.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Machaut,_Guillaume_de)
 
@@ -29,6 +33,10 @@ Machaut was as famous a poet as a composer, and his long narrative poems influen
 The title of this rondeau, 'My end is my beginning', describes its construction. The top voice, sung backwards, gives the second voice, and the third voice reaches its midpoint and then repeats itself in reverse, so that the whole piece is a palindrome. Machaut's text explains the puzzle, which was meant as much to be solved by the eye as heard. Despite the ingenuity, the music works as a graceful courtly song in the rondeau form, with its refrain returning between verses. The motto was later embroidered by Mary, Queen of Scots, and T. S. Eliot inverted it in Four Quartets. The piece is a good example of the delight in intellectual design that runs through medieval music.
 
 ### Messe de Nostre Dame (c. 1360s)
+
+[![Messe de Nostre Dame](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Guillaume_de_Machaut_-_Kyrie_da_Missa_de_Notre-Dame.jpg/960px-Guillaume_de_Machaut_-_Kyrie_da_Missa_de_Notre-Dame.jpg)](https://commons.wikimedia.org/wiki/File:Guillaume_de_Machaut_-_Kyrie_da_Missa_de_Notre-Dame.jpg)
+
+<sub>The Kyrie in a fourteenth-century Machaut manuscript Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Guillaume_de_Machaut_-_Kyrie_da_Missa_de_Notre-Dame.jpg).</sub>
 
 - **Date:** c. 1360s
 - **Type:** Polyphonic mass for four voices

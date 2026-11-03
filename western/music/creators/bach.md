@@ -1,10 +1,14 @@
 # Johann Sebastian Bach
 
+<a href="https://commons.wikimedia.org/wiki/File:Johann_Sebastian_Bach.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/330px-Johann_Sebastian_Bach.jpg" alt="Johann Sebastian Bach" title="Elias Gottlob Haussmann, portrait of Bach holding a canon"></a>
+
 **1685 – 1750** · German  
 Born: Eisenach, Saxe-Eisenach · Died: Leipzig  
 Eras & schools: [High Baroque](../movements/high-baroque.md)  
 
 > Bach brought Baroque counterpoint to its summit in church cantatas, Passions, keyboard and instrumental works, and is widely regarded as one of the greatest composers of all.
+
+<sub>Portrait: Elias Gottlob Haussmann, portrait of Bach holding a canon · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Johann_Sebastian_Bach.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Bach,_Johann_Sebastian)
 
@@ -26,6 +30,10 @@ Bach mastered every genre of his time except opera and combined the counterpoint
 
 ### Cello Suites (c. 1717–23)
 
+[![Cello Suites](https://upload.wikimedia.org/wikipedia/commons/8/87/Frontespizio_Cello_Suite.png)](https://commons.wikimedia.org/wiki/File:Frontespizio_Cello_Suite.png)
+
+<sub>Title page of Anna Magdalena Bach's manuscript copy Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Frontespizio_Cello_Suite.png).</sub>
+
 - **Date:** c. 1717–23
 - **Type:** Six suites for unaccompanied cello, BWV 1007–1012
 - **Premiere / first published:** Copy by Anna Magdalena Bach, c. 1727–31 (no autograph survives)
@@ -36,6 +44,10 @@ Bach probably wrote the six suites for unaccompanied cello at Köthen, where the
 
 ### Brandenburg Concertos (1721 (compiled))
 
+[![Brandenburg Concertos](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Title_page_of_Brandenburg_Concertos.png/1280px-Title_page_of_Brandenburg_Concertos.png)](https://commons.wikimedia.org/wiki/File:Title_page_of_Brandenburg_Concertos.png)
+
+<sub>Title page of Bach's 1721 autograph dedication score Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Title_page_of_Brandenburg_Concertos.png).</sub>
+
 - **Date:** 1721 (compiled)
 - **Type:** Six concertos, BWV 1046–1051
 - **Premiere / first published:** Autograph dedication to Margrave Christian Ludwig of Brandenburg, 24 March 1721; Staatsbibliothek zu Berlin
@@ -45,6 +57,10 @@ Bach probably wrote the six suites for unaccompanied cello at Köthen, where the
 In 1721 Bach sent a beautifully copied set of six concertos to Christian Ludwig, Margrave of Brandenburg, whom he had met in Berlin, with a dedication in French, perhaps hoping for a post. Most of the music had been written earlier at Weimar and Köthen. Each concerto uses a different combination: No. 2 has a high trumpet, recorder, oboe and violin as soloists; No. 3 is for three groups of strings; No. 5 gives the harpsichord a long solo cadenza, a novelty that points towards the keyboard concerto; No. 6 omits violins altogether. Bach combines the Italian concerto forms of Vivaldi with dense German counterpoint. There is no record that the margrave ever had them played, and the manuscript was rediscovered in the nineteenth century and first published in 1850. They are now among Bach's most popular works.
 
 ### The Well-Tempered Clavier (Book I 1722; Book II c. 1742)
+
+[![The Well-Tempered Clavier](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bach-wtc1-title-ms.jpg/960px-Bach-wtc1-title-ms.jpg)](https://commons.wikimedia.org/wiki/File:Bach-wtc1-title-ms.jpg)
+
+<sub>Autograph title page of Book I, 1722 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Bach-wtc1-title-ms.jpg).</sub>
 
 - **Date:** Book I 1722; Book II c. 1742
 - **Type:** 48 preludes and fugues, BWV 846–893
@@ -66,6 +82,10 @@ The St Matthew Passion was first performed on Good Friday in St Thomas Church, L
 
 ### Goldberg Variations (1741)
 
+[![Goldberg Variations](https://upload.wikimedia.org/wikipedia/commons/f/f5/Goldberg-titlepage.png)](https://commons.wikimedia.org/wiki/File:Goldberg-titlepage.png)
+
+<sub>Title page of the first edition, Nuremberg, 1741 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Goldberg-titlepage.png).</sub>
+
 - **Date:** 1741
 - **Type:** Aria with thirty variations for harpsichord, BWV 988
 - **Premiere / first published:** Published by Balthasar Schmid, Nuremberg, 1741
@@ -76,6 +96,10 @@ Bach published this work in 1741 as the fourth part of his Clavier-Übung, an ar
 
 ### Mass in B minor (1733–1749)
 
+[![Mass in B minor](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BWV_232_Et_incarnatus.jpg/960px-BWV_232_Et_incarnatus.jpg)](https://commons.wikimedia.org/wiki/File:BWV_232_Et_incarnatus.jpg)
+
+<sub>Autograph score, the Et incarnatus est Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:BWV_232_Et_incarnatus.jpg).</sub>
+
 - **Date:** 1733–1749
 - **Type:** Missa tota, BWV 232
 - **Premiere / first published:** Kyrie and Gloria presented to the Elector of Saxony, Dresden, 1733; first complete performance 1859
@@ -85,6 +109,10 @@ Bach published this work in 1741 as the fourth part of his Clavier-Übung, an ar
 In 1733 Bach presented a Kyrie and Gloria to the new Elector of Saxony in Dresden, seeking a court title. Near the end of his life, around 1748–49, he expanded it into a complete setting of the Latin Mass, writing new music and adapting movements from earlier cantatas, a process called parody. The result has twenty-seven movements for soloists, choir and orchestra, ranging from the archaic counterpoint of the Credo's opening, based on plainchant, to the dancing Gloria and the radiant Sanctus. Why a Lutheran composer completed a full Catholic mass is debated; it may have been a summation of his art, written with no particular performance in mind. It was not performed complete until 1859, and the Swiss publisher Hans Georg Nägeli called it the greatest musical work of all times and peoples.
 
 ### The Art of Fugue (c. 1742–1750)
+
+[![The Art of Fugue](https://upload.wikimedia.org/wikipedia/commons/0/06/Title_page_of_The_Art_of_Fugue.jpg)](https://commons.wikimedia.org/wiki/File:Title_page_of_The_Art_of_Fugue.jpg)
+
+<sub>Title page of the first edition, 1751 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Title_page_of_The_Art_of_Fugue.jpg).</sub>
 
 - **Date:** c. 1742–1750
 - **Type:** Collection of fugues and canons, BWV 1080

@@ -18,6 +18,10 @@ Dvořák's music combines Classical forms, learned partly from Brahms, with Czec
 
 ### Symphony No. 9 in E minor, 'From the New World' (1893)
 
+[![Symphony No. 9 in E minor, 'From the New World'](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/The_title_page_of_the_autograph_score_of_Dvo%C5%99%C3%A1k%27s_ninth_symphony.jpg/1280px-The_title_page_of_the_autograph_score_of_Dvo%C5%99%C3%A1k%27s_ninth_symphony.jpg)](https://commons.wikimedia.org/wiki/File:The_title_page_of_the_autograph_score_of_Dvo%C5%99%C3%A1k%27s_ninth_symphony.jpg)
+
+<sub>Title page of Dvořák's autograph score Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_title_page_of_the_autograph_score_of_Dvo%C5%99%C3%A1k%27s_ninth_symphony.jpg).</sub>
+
 - **Date:** 1893
 - **Type:** Symphony, Op. 95
 - **Premiere / first published:** Carnegie Hall, New York, 16 December 1893, New York Philharmonic conducted by Anton Seidl

@@ -1,10 +1,14 @@
 # Felix Mendelssohn
 
+<a href="https://commons.wikimedia.org/wiki/File:Felix_Mendelssohn_Bartholdy_by_Eduard_Magnus_%281833%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Felix_Mendelssohn_Bartholdy_by_Eduard_Magnus_%281833%29.jpg/330px-Felix_Mendelssohn_Bartholdy_by_Eduard_Magnus_%281833%29.jpg" alt="Felix Mendelssohn" title="Eduard Magnus, portrait of Mendelssohn, 1833"></a>
+
 **1809 – 1847** · German  
 Born: Hamburg · Died: Leipzig  
 Eras & schools: [Early Romantic](../movements/early-romantic.md)  
 
 > Composer, pianist and conductor, Mendelssohn wrote polished Romantic works such as A Midsummer Night's Dream and led the revival of Bach.
+
+<sub>Portrait: Eduard Magnus, portrait of Mendelssohn, 1833 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Felix_Mendelssohn_Bartholdy_by_Eduard_Magnus_%281833%29.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Mendelssohn,_Felix)
 

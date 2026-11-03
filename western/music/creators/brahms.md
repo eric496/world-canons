@@ -1,10 +1,14 @@
 # Johannes Brahms
 
+<a href="https://commons.wikimedia.org/wiki/File:Brahms-Laurens-1853.png"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Brahms-Laurens-1853.png" alt="Johannes Brahms" title="Jean-Joseph Bonaventure Laurens, drawing of the young Brahms, 1853"></a>
+
 **1833 – 1897** · German  
 Born: Hamburg · Died: Vienna  
 Eras & schools: [High Romantic & opera](../movements/high-romantic.md)  
 
 > Brahms united Romantic feeling with the forms and counterpoint of Bach and Beethoven in symphonies, concertos, chamber music and A German Requiem.
+
+<sub>Portrait: Jean-Joseph Bonaventure Laurens, drawing of the young Brahms, 1853 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brahms-Laurens-1853.png)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Brahms,_Johannes)
 

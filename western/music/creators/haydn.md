@@ -1,10 +1,14 @@
 # Joseph Haydn
 
+<a href="https://commons.wikimedia.org/wiki/File:Joseph_Haydn%2C_portrait_by_Thomas_Hardy.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Joseph_Haydn%2C_portrait_by_Thomas_Hardy.jpg" alt="Joseph Haydn" title="Thomas Hardy, portrait of Haydn, 1791"></a>
+
 **1732 – 1809** · Austrian  
 Born: Rohrau, Lower Austria · Died: Vienna  
 Eras & schools: [Galant & Classical](../movements/classical-era.md)  
 
 > Called the father of the symphony and the string quartet, Haydn spent three decades at the Esterházy court and became the most celebrated composer in Europe.
+
+<sub>Portrait: Thomas Hardy, portrait of Haydn, 1791 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joseph_Haydn%2C_portrait_by_Thomas_Hardy.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Haydn,_Joseph)
 

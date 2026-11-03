@@ -16,6 +16,10 @@ Léonin's organum takes a chant and slows it down so that each note is held as a
 
 ### Magnus liber organi (c. 1160–1200)
 
+[![Magnus liber organi](https://upload.wikimedia.org/wikipedia/commons/7/74/Magnus_Liber_OrganiFC.png)](https://commons.wikimedia.org/wiki/File:Magnus_Liber_OrganiFC.png)
+
+<sub>Opening page of the Florence manuscript of the Magnus liber organi Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Magnus_Liber_OrganiFC.png).</sub>
+
 - **Date:** c. 1160–1200
 - **Type:** Collection of two-voice organum
 - **Premiere / first published:** Notre-Dame Cathedral, Paris; survives in manuscripts now in Florence, Wolfenbüttel and Madrid

@@ -1,10 +1,14 @@
 # Franz Liszt
 
+<a href="https://commons.wikimedia.org/wiki/File:Liszt_%28Lehmann_portrait%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Liszt_%28Lehmann_portrait%29.jpg/330px-Liszt_%28Lehmann_portrait%29.jpg" alt="Franz Liszt" title="Henri Lehmann, portrait of Liszt, 1839"></a>
+
 **1811 – 1886** · Hungarian  
 Born: Raiding, Kingdom of Hungary · Died: Bayreuth  
 Eras & schools: [Early Romantic](../movements/early-romantic.md), [High Romantic & opera](../movements/high-romantic.md)  
 
 > The supreme piano virtuoso of the nineteenth century, Liszt also invented the symphonic poem and pointed the way to modern harmony.
+
+<sub>Portrait: Henri Lehmann, portrait of Liszt, 1839 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Liszt_%28Lehmann_portrait%29.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Liszt,_Franz)
 

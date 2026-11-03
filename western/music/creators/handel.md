@@ -1,10 +1,14 @@
 # George Frideric Handel
 
+<a href="https://commons.wikimedia.org/wiki/File:George_Frideric_Handel_by_Balthasar_Denner.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/330px-George_Frideric_Handel_by_Balthasar_Denner.jpg" alt="George Frideric Handel" title="Balthasar Denner, portrait of Handel"></a>
+
 **1685 – 1759** · German-British  
 Born: Halle, Duchy of Magdeburg · Died: London  
 Eras & schools: [High Baroque](../movements/high-baroque.md)  
 
 > German-born and London-based, Handel was the leading composer of Italian opera in England and created the English oratorio, above all Messiah.
+
+<sub>Portrait: Balthasar Denner, portrait of Handel · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:George_Frideric_Handel_by_Balthasar_Denner.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Handel,_George_Frideric)
 
@@ -22,6 +26,10 @@ Handel combined German counterpoint, Italian melody and English choral tradition
 - [Music for the Royal Fireworks](#music-for-the-royal-fireworks-1749) (1749)
 
 ### Water Music (1717)
+
+[![Water Music](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GeorgIvonGro%C3%9FbritannienGeorgFriedrichHaendelHamman.jpg/1280px-GeorgIvonGro%C3%9FbritannienGeorgFriedrichHaendelHamman.jpg)](https://commons.wikimedia.org/wiki/File:GeorgIvonGro%C3%9FbritannienGeorgFriedrichHaendelHamman.jpg)
+
+<sub>Édouard Hamman, 19th-century painting of Handel and George I on the Thames Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:GeorgIvonGro%C3%9FbritannienGeorgFriedrichHaendelHamman.jpg).</sub>
 
 - **Date:** 1717
 - **Type:** Three orchestral suites, HWV 348–350
@@ -43,6 +51,10 @@ Written for the Royal Academy of Music, the London opera company Handel directed
 
 ### Messiah (1741)
 
+[![Messiah](https://upload.wikimedia.org/wikipedia/commons/7/71/Messiah-titlepage.jpg)](https://commons.wikimedia.org/wiki/File:Messiah-titlepage.jpg)
+
+<sub>An early title page of Messiah Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Messiah-titlepage.jpg).</sub>
+
 - **Date:** 1741
 - **Type:** English oratorio, HWV 56
 - **Premiere / first published:** Great Music Hall, Fishamble Street, Dublin, 13 April 1742
@@ -52,6 +64,10 @@ Written for the Royal Academy of Music, the London opera company Handel directed
 Handel composed Messiah in about three and a half weeks in August and September 1741, to a libretto compiled from the King James Bible and the Book of Common Prayer by Charles Jennens. It was first performed in Dublin on 13 April 1742 as a charity concert, to an audience so eager that ladies were asked not to wear hoops in their dresses. Unlike Handel's other oratorios, it has no dramatic characters; its three parts reflect on the prophecy and birth of Christ, his passion and resurrection, and the redemption of the world. Choruses such as 'For unto us a child is born' and 'Hallelujah' alternate with arias like 'I know that my Redeemer liveth'. London received it coolly at first, but annual charity performances for the Foundling Hospital from 1750 made it popular. The custom of standing for the Hallelujah chorus is traditionally linked to George II, though there is no contemporary evidence for this. Messiah has never left the repertoire.
 
 ### Music for the Royal Fireworks (1749)
+
+[![Music for the Royal Fireworks](https://upload.wikimedia.org/wikipedia/commons/8/86/Elevationvanda.jpg)](https://commons.wikimedia.org/wiki/File:Elevationvanda.jpg)
+
+<sub>Engraving of the firework building erected in Green Park, 1749 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Elevationvanda.jpg).</sub>
 
 - **Date:** 1749
 - **Type:** Orchestral suite, HWV 351

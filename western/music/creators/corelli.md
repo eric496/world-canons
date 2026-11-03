@@ -1,10 +1,14 @@
 # Arcangelo Corelli
 
+<a href="https://commons.wikimedia.org/wiki/File:Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29.jpg/330px-Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29.jpg" alt="Arcangelo Corelli" title="Hugh Howard, portrait of Corelli, 1697"></a>
+
 **1653 – 1713** · Italian  
 Born: Fusignano, Papal States · Died: Rome  
 Eras & schools: [High Baroque](../movements/high-baroque.md)  
 
 > Violinist and composer, Corelli published only six collections, but they fixed the forms of the sonata and the concerto grosso for the whole Baroque.
+
+<sub>Portrait: Hugh Howard, portrait of Corelli, 1697 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Corelli,_Arcangelo)
 

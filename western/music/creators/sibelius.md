@@ -1,10 +1,14 @@
 # Jean Sibelius
 
+<a href="https://commons.wikimedia.org/wiki/File:Jean_Sibelius_by_Eero_J%C3%A4rnefelt_1892.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jean_Sibelius_by_Eero_J%C3%A4rnefelt_1892.jpg/330px-Jean_Sibelius_by_Eero_J%C3%A4rnefelt_1892.jpg" alt="Jean Sibelius" title="Eero Järnefelt, portrait of Sibelius, 1892"></a>
+
 **1865 – 1957** · Finnish  
 Born: Hämeenlinna, Grand Duchy of Finland · Died: Ainola, Järvenpää  
 Eras & schools: [Nationalist schools](../movements/nationalist-schools.md), [Late Romantic & post-Wagnerian](../movements/late-romantic.md)  
 
 > Finland's national composer, Sibelius wrote Finlandia and seven symphonies of remarkable concentration and organic growth.
+
+<sub>Portrait: Eero Järnefelt, portrait of Sibelius, 1892 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jean_Sibelius_by_Eero_J%C3%A4rnefelt_1892.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Sibelius,_Jean)
 

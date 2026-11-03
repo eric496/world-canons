@@ -1,10 +1,14 @@
 # Guillaume Du Fay
 
+<a href="https://commons.wikimedia.org/wiki/File:DufayBinchois.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/DufayBinchois.jpg" alt="Guillaume Du Fay" title="Du Fay (left) with Gilles Binchois, miniature from Martin le Franc's Le champion des dames"></a>
+
 **c. 1397 – 1474** · Franco-Flemish  
 Born: probably near Brussels, Hainaut · Died: Cambrai  
 Eras & schools: [Franco-Flemish Renaissance](../movements/franco-flemish.md)  
 
 > The leading composer of the early fifteenth century, Du Fay wrote masses, motets and chansons that set the course for Renaissance polyphony.
+
+<sub>Portrait: Du Fay (left) with Gilles Binchois, miniature from Martin le Franc's Le champion des dames · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:DufayBinchois.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Du_Fay,_Guillaume)
 

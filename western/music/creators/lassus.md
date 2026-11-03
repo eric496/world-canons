@@ -1,10 +1,14 @@
 # Orlande de Lassus
 
+<a href="https://commons.wikimedia.org/wiki/File:Orlande_de_Lassus.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Orlande_de_Lassus.jpg/330px-Orlande_de_Lassus.jpg" alt="Orlande de Lassus" title="Portrait of Orlande de Lassus"></a>
+
 **c. 1532 – 1594** · Franco-Flemish  
 Born: Mons, Hainaut · Died: Munich  
 Eras & schools: [Late Renaissance & Venetian](../movements/late-renaissance-music.md)  
 
 > One of the most prolific and versatile composers of the Renaissance, Lassus wrote more than two thousand works in Latin, French, Italian and German.
+
+<sub>Portrait: Portrait of Orlande de Lassus · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Orlande_de_Lassus.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Lassus,_Orlande_de)
 

@@ -1,10 +1,14 @@
 # Gustav Mahler
 
+<a href="https://commons.wikimedia.org/wiki/File:Gustav_Mahler_Emil_Orlik_1902.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gustav_Mahler_Emil_Orlik_1902.jpg/330px-Gustav_Mahler_Emil_Orlik_1902.jpg" alt="Gustav Mahler" title="Emil Orlik, etching of Mahler, 1902"></a>
+
 **1860 – 1911** · Austrian  
 Born: Kaliště, Bohemia · Died: Vienna  
 Eras & schools: [Late Romantic & post-Wagnerian](../movements/late-romantic.md)  
 
 > Conductor and composer, Mahler wrote ten vast symphonies and orchestral song cycles that, in his words, embraced the whole world.
+
+<sub>Portrait: Emil Orlik, etching of Mahler, 1902 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gustav_Mahler_Emil_Orlik_1902.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Mahler,_Gustav)
 

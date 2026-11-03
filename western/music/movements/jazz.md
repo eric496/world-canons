@@ -8,7 +8,7 @@ Jazz arose among African American musicians in New Orleans in the early twentiet
 
 ## Composers
 
--  [George Gershwin](../creators/gershwin.md) (1898 – 1937)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Self-portrait_by_George_Gershwin%2C_1934%2C_oil_on_canvas_board%2C_from_the_National_Portrait_Gallery_-_NPG-6600086A_3.jpg/330px-Self-portrait_by_George_Gershwin%2C_1934%2C_oil_on_canvas_board%2C_from_the_National_Portrait_Gallery_-_NPG-6600086A_3.jpg" width="40" alt="George Gershwin"> [George Gershwin](../creators/gershwin.md) (1898 – 1937)
 -  [Duke Ellington](../creators/ellington.md) (1899 – 1974)
 -  [Louis Armstrong](../creators/louis-armstrong.md) (1901 – 1971)
 

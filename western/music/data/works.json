@@ -13,7 +13,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Ordo+Virtutum+Hildegard+Bingen"
    }
-  ]
+  ],
+  "image_file": "Riesencodex - fl.0466r.jpg",
+  "image_caption": "A page of the Riesenkodex (Wiesbaden), the main source of Hildegard's music"
  },
  {
   "title": "Viderunt omnes (organum quadruplum)",
@@ -33,7 +35,9 @@
   "type": "Collection of two-voice organum",
   "location": "Notre-Dame Cathedral, Paris; survives in manuscripts now in Florence, Wolfenbüttel and Madrid",
   "note": "The 'Great Book of Organum', the foundational repertory of written Western polyphony.",
-  "description": "The Magnus liber organi, the Great Book of Organum, was the collection of polyphonic settings of chant for the main feasts of the church year used at Notre-Dame in Paris. The theorist known as Anonymous IV credited its first form to Léonin and its revision to Pérotin. It contained organa for two voices in which a sustained chant underpins a florid upper voice, along with sections in measured discant. The book itself does not survive; its contents are known from three large later manuscripts, the most important now in the Biblioteca Medicea Laurenziana in Florence, each preserving a different stage of revision. The book's rhythmic notation, based on patterns of long and short notes, was one of the first ways of writing rhythm precisely. Together these collections are the starting point of the history of composed polyphony in the West."
+  "description": "The Magnus liber organi, the Great Book of Organum, was the collection of polyphonic settings of chant for the main feasts of the church year used at Notre-Dame in Paris. The theorist known as Anonymous IV credited its first form to Léonin and its revision to Pérotin. It contained organa for two voices in which a sustained chant underpins a florid upper voice, along with sections in measured discant. The book itself does not survive; its contents are known from three large later manuscripts, the most important now in the Biblioteca Medicea Laurenziana in Florence, each preserving a different stage of revision. The book's rhythmic notation, based on patterns of long and short notes, was one of the first ways of writing rhythm precisely. Together these collections are the starting point of the history of composed polyphony in the West.",
+  "image_file": "Magnus Liber OrganiFC.png",
+  "image_caption": "Opening page of the Florence manuscript of the Magnus liber organi"
  },
  {
   "title": "Messe de Nostre Dame",
@@ -49,7 +53,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Messe+de+Nostre+Dame+Machaut"
    }
-  ]
+  ],
+  "image_file": "Guillaume de Machaut - Kyrie da Missa de Notre-Dame.jpg",
+  "image_caption": "The Kyrie in a fourteenth-century Machaut manuscript"
  },
  {
   "title": "Ma fin est mon commencement",
@@ -219,7 +225,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=L%27Orfeo+Monteverdi"
    }
-  ]
+  ],
+  "image_file": "Cesare Gennari Orfeo.jpg",
+  "image_caption": "Cesare Gennari, Orpheus, 17th-century painting"
  },
  {
   "title": "Vespers of 1610 (Vespro della Beata Vergine)",
@@ -235,7 +243,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Vespro+della+Beata+Vergine+Monteverdi"
    }
-  ]
+  ],
+  "image_file": "Monteverdi Marienvespers voorpagina.jpg",
+  "image_caption": "Title page of a part-book of the 1610 Venice print"
  },
  {
   "title": "L'incoronazione di Poppea",
@@ -251,7 +261,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=L%27incoronazione+di+Poppea+Monteverdi"
    }
-  ]
+  ],
+  "image_file": "Title page of the 1656 libretto of L'incoronazione di Poppea.jpg",
+  "image_caption": "Title page of the 1656 libretto"
  },
  {
   "title": "Armide",
@@ -267,7 +279,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Armide+Lully"
    }
-  ]
+  ],
+  "image_file": "Scene from Armide by Lully - drawing by Saint-Aubin - Boston MFA.jpg",
+  "image_caption": "Gabriel de Saint-Aubin, drawing of a scene from Lully's Armide (Museum of Fine Arts, Boston)"
  },
  {
   "title": "Dido and Aeneas",
@@ -331,7 +345,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Brandenburg+Concertos+Bach"
    }
-  ]
+  ],
+  "image_file": "Title page of Brandenburg Concertos.png",
+  "image_caption": "Title page of Bach's 1721 autograph dedication score"
  },
  {
   "title": "The Well-Tempered Clavier",
@@ -347,7 +363,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Well-Tempered+Clavier+Bach"
    }
-  ]
+  ],
+  "image_file": "Bach-wtc1-title-ms.jpg",
+  "image_caption": "Autograph title page of Book I, 1722"
  },
  {
   "title": "St Matthew Passion",
@@ -379,7 +397,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Mass+in+B+minor+Bach"
    }
-  ]
+  ],
+  "image_file": "BWV 232 Et incarnatus.jpg",
+  "image_caption": "Autograph score, the Et incarnatus est"
  },
  {
   "title": "Goldberg Variations",
@@ -395,7 +415,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Goldberg+Variations+Bach"
    }
-  ]
+  ],
+  "image_file": "Goldberg-titlepage.png",
+  "image_caption": "Title page of the first edition, Nuremberg, 1741"
  },
  {
   "title": "The Art of Fugue",
@@ -411,7 +433,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Art+of+Fugue+Bach"
    }
-  ]
+  ],
+  "image_file": "Title page of The Art of Fugue.jpg",
+  "image_caption": "Title page of the first edition, 1751"
  },
  {
   "title": "Cello Suites",
@@ -427,7 +451,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Cello+Suites+Bach"
    }
-  ]
+  ],
+  "image_file": "Frontespizio Cello Suite.png",
+  "image_caption": "Title page of Anna Magdalena Bach's manuscript copy"
  },
  {
   "title": "Messiah",
@@ -443,7 +469,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Messiah+Handel"
    }
-  ]
+  ],
+  "image_file": "Messiah-titlepage.jpg",
+  "image_caption": "An early title page of Messiah"
  },
  {
   "title": "Water Music",
@@ -459,7 +487,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Water+Music+Handel"
    }
-  ]
+  ],
+  "image_file": "GeorgIvonGroßbritannienGeorgFriedrichHaendelHamman.jpg",
+  "image_caption": "Édouard Hamman, 19th-century painting of Handel and George I on the Thames"
  },
  {
   "title": "Music for the Royal Fireworks",
@@ -475,7 +505,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Music+for+the+Royal+Fireworks+Handel"
    }
-  ]
+  ],
+  "image_file": "Elevationvanda.jpg",
+  "image_caption": "Engraving of the firework building erected in Green Park, 1749"
  },
  {
   "title": "Giulio Cesare in Egitto",
@@ -523,7 +555,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Orfeo+ed+Euridice+Gluck"
    }
-  ]
+  ],
+  "image_file": "Gluck's Orphée - title page illustration (lightened and cropped).jpg",
+  "image_caption": "Title-page illustration of the Paris score of Orphée, 1774"
  },
  {
   "title": "Symphony No. 94 in G major, 'Surprise'",
@@ -587,7 +621,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Le+nozze+di+Figaro+Mozart"
    }
-  ]
+  ],
+  "image_file": "Ramberg figaro 1.jpg",
+  "image_caption": "Johann Heinrich Ramberg, illustration of a scene from Figaro"
  },
  {
   "title": "Don Giovanni",
@@ -603,7 +639,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Don+Giovanni+Mozart"
    }
-  ]
+  ],
+  "image_file": "Max Slevogt - Der Sänger Francisco d'Andrade als Don Giovanni in Mozarts Oper - Google Art Project.jpg",
+  "image_caption": "Max Slevogt, the baritone Francisco d'Andrade as Don Giovanni, 1912"
  },
  {
   "title": "The Magic Flute (Die Zauberflöte)",
@@ -619,7 +657,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Die+Zauberfl%C3%B6te+Mozart"
    }
-  ]
+  ],
+  "image_file": "Mozart magic flute.jpg",
+  "image_caption": "Playbill for the first performance, 30 September 1791"
  },
  {
   "title": "Requiem in D minor",
@@ -635,7 +675,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Requiem+Mozart"
    }
-  ]
+  ],
+  "image_file": "K626 Requiem Mozart.jpg",
+  "image_caption": "Mozart's autograph score, opening of the Requiem"
  },
  {
   "title": "Symphony No. 41 in C major, 'Jupiter'",
@@ -667,7 +709,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Piano+Concerto+No.20+Mozart"
    }
-  ]
+  ],
+  "image_file": "PC 20 autograph.jpg",
+  "image_caption": "Mozart's autograph score"
  },
  {
   "title": "Eine kleine Nachtmusik",
@@ -683,7 +727,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Eine+kleine+Nachtmusik+Mozart"
    }
-  ]
+  ],
+  "image_file": "Mozart - Eine kleine Nachtmusik K.525 autograph.png",
+  "image_caption": "Mozart's autograph score, first page"
  },
  {
   "title": "Symphony No. 3 in E-flat major, 'Eroica'",
@@ -699,7 +745,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Symphony+No.3+Beethoven"
    }
-  ]
+  ],
+  "image_file": "Eroica Beethoven title.jpg",
+  "image_caption": "Title page of the copy score, with Napoleon's name scratched out"
  },
  {
   "title": "Symphony No. 5 in C minor",
@@ -715,7 +763,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Symphony+No.5+Beethoven"
    }
-  ]
+  ],
+  "image_file": "Beethoven-Deckblatt.png",
+  "image_caption": "Title page of the Fifth Symphony"
  },
  {
   "title": "Symphony No. 9 in D minor, 'Choral'",
@@ -731,7 +781,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Symphony+No.9+Beethoven"
    }
-  ]
+  ],
+  "image_file": "The Premiere of Symphony No. 9.jpg",
+  "image_caption": "Illustration of the 1824 premiere"
  },
  {
   "title": "Piano Sonata No. 14 in C-sharp minor, 'Moonlight'",
@@ -747,7 +799,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Piano+Sonata+No.14+Beethoven"
    }
-  ]
+  ],
+  "image_file": "Beethoven Piano Sonata 14 - title page 1802.jpg",
+  "image_caption": "Title page of the first edition, Vienna, 1802"
  },
  {
   "title": "Piano Sonata No. 29 in B-flat major, 'Hammerklavier'",
@@ -779,7 +833,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Fidelio+Beethoven"
    }
-  ]
+  ],
+  "image_file": "Fidelio18140523.jpg",
+  "image_caption": "Playbill for the revised version, 23 May 1814"
  },
  {
   "title": "String Quartet No. 14 in C-sharp minor",
@@ -795,7 +851,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=String+Quartet+No.14+Beethoven"
    }
-  ]
+  ],
+  "image_file": "Ludwig van Beethoven - Sketches for the String Quartet Op. 131. (BL Add MS 38070 f. 51r).jpg",
+  "image_caption": "Beethoven's sketches for Op. 131 (British Library)"
  },
  {
   "title": "Missa solemnis in D major",
@@ -811,7 +869,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Missa+solemnis+Beethoven"
    }
-  ]
+  ],
+  "image_file": "Beethoven, Missa solemnis, Kyrie.jpg",
+  "image_caption": "The Kyrie of the Missa solemnis"
  },
  {
   "title": "Erlkönig",
@@ -827,7 +887,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Erlk%C3%B6nig+Schubert"
    }
-  ]
+  ],
+  "image_file": "Erlkonig1sted.jpg",
+  "image_caption": "First edition, Vienna, 1821"
  },
  {
   "title": "Winterreise",
@@ -859,7 +921,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Symphony+No.8+Schubert"
    }
-  ]
+  ],
+  "image_file": "Symphony No. 8 in B minor.jpg",
+  "image_caption": "Schubert's autograph score"
  },
  {
   "title": "String Quintet in C major",
@@ -891,7 +955,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Il+barbiere+di+Siviglia+Rossini"
    }
-  ]
+  ],
+  "image_file": "Alexandre Fragonard - Scène de L'orage (Barbier de Séville).jpg",
+  "image_caption": "Alexandre-Évariste Fragonard, the storm scene from The Barber of Seville"
  },
  {
   "title": "Symphonie fantastique",
@@ -987,7 +1053,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Ballade+No.1+Chopin"
    }
-  ]
+  ],
+  "image_file": "Chopin Ballade 1.png",
+  "image_caption": "Opening of the Ballade No. 1"
  },
  {
   "title": "Dichterliebe",
@@ -1019,7 +1087,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Kinderszenen+Schumann"
    }
-  ]
+  ],
+  "image_file": "Schumann - Kinderszenen, Op15 - Score 1st page.jpg",
+  "image_caption": "First page of the score"
  },
  {
   "title": "Piano Concerto in A minor",
@@ -1083,7 +1153,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Der+Ring+des+Nibelungen+Wagner"
    }
-  ]
+  ],
+  "image_file": "Bühnenbildentwurf Rheingold.JPG",
+  "image_caption": "Stage design for Das Rheingold"
  },
  {
   "title": "Tristan und Isolde",
@@ -1147,7 +1219,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Rigoletto+Verdi"
    }
-  ]
+  ],
+  "image_file": "Philippe Chaperon - Rigoletto.jpg",
+  "image_caption": "Philippe Chaperon, stage design for Rigoletto"
  },
  {
   "title": "La traviata",
@@ -1163,7 +1237,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=La+traviata+Verdi"
    }
-  ]
+  ],
+  "image_file": "Violetta, 1853 Premiere Costume.jpg",
+  "image_caption": "Costume design for Violetta at the 1853 premiere"
  },
  {
   "title": "Aida",
@@ -1195,7 +1271,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Requiem+Verdi"
    }
-  ]
+  ],
+  "image_file": "Requiem (Verdi) Titelblatt (1874).jpg",
+  "image_caption": "Title page of the 1874 edition"
  },
  {
   "title": "Otello",
@@ -1275,7 +1353,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Carmen+Bizet"
    }
-  ]
+  ],
+  "image_file": "Prudent-Louis Leray - Poster for the première of Georges Bizet's Carmen.jpg",
+  "image_caption": "Prudent-Louis Leray, poster for the 1875 premiere"
  },
  {
   "title": "Má vlast",
@@ -1403,7 +1483,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Symphony+No.9+Dvo%C5%99%C3%A1k"
    }
-  ]
+  ],
+  "image_file": "The title page of the autograph score of Dvořák's ninth symphony.jpg",
+  "image_caption": "Title page of Dvořák's autograph score"
  },
  {
   "title": "Peer Gynt",
@@ -1467,7 +1549,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=La+boh%C3%A8me+Puccini"
    }
-  ]
+  ],
+  "image_file": "La Boheme poster by Hohenstein.PNG",
+  "image_caption": "Adolfo Hohenstein, poster for La bohème, 1896"
  },
  {
   "title": "Tosca",
@@ -1483,7 +1567,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Tosca+Puccini"
    }
-  ]
+  ],
+  "image_file": "Tosca (1899).jpg",
+  "image_caption": "Poster for Tosca, 1899"
  },
  {
   "title": "Madama Butterfly",
@@ -1499,7 +1585,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Madama+Butterfly+Puccini"
    }
-  ]
+  ],
+  "image_file": "Hohenstein Madama Butterfly.jpg",
+  "image_caption": "Adolfo Hohenstein, poster for Madama Butterfly, 1904"
  },
  {
   "title": "Symphony No. 2 in C minor, 'Resurrection'",
@@ -1595,7 +1683,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Der+Rosenkavalier+Strauss"
    }
-  ]
+  ],
+  "image_file": "Robert Sterl Schuch dirigiert Rosenkavalier.jpg",
+  "image_caption": "Robert Sterl, Ernst von Schuch conducting Der Rosenkavalier"
  },
  {
   "title": "Finlandia",
@@ -1659,7 +1749,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Pell%C3%A9as+et+M%C3%A9lisande+Debussy"
    }
-  ]
+  ],
+  "image_file": "Georges Rochegrosse - Poster for the prèmiere of Claude Debussy and Maurice Maeterlinck's Pelléas et Mélisande.jpg",
+  "image_caption": "Georges Rochegrosse, poster for the 1902 premiere"
  },
  {
   "title": "La mer",
@@ -1675,7 +1767,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=La+mer+Debussy"
    }
-  ]
+  ],
+  "image_file": "Debussy - La Mer - The great wave of Kanaga from Hokusai.jpg",
+  "image_caption": "Cover of the first edition, after Hokusai's Great Wave"
  },
  {
   "title": "Gymnopédies",
@@ -1691,7 +1785,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Gymnop%C3%A9dies+Satie"
    }
-  ]
+  ],
+  "image_file": "Gymnopédie 1 d'Erik Satie, autographe.jpg",
+  "image_caption": "Satie's autograph of the first Gymnopédie"
  },
  {
   "title": "Daphnis et Chloé",
@@ -1707,7 +1803,9 @@
     "name": "Free scores on IMSLP (search)",
     "url": "https://imslp.org/index.php?search=Daphnis+et+Chlo%C3%A9+Ravel"
    }
-  ]
+  ],
+  "image_file": "Harvard Theatre Collection - Bakst, MS Thr 414.4 (9).jpg",
+  "image_caption": "Léon Bakst, design for Daphnis et Chloé (Harvard Theatre Collection)"
  },
  {
   "title": "Boléro",
@@ -1753,7 +1851,9 @@
   "type": "Ballet, two scenes",
   "location": "Palais Garnier, Paris, 25 June 1910, Ballets Russes, choreographed by Michel Fokine",
   "note": "Stravinsky's first ballet for Diaghilev, which made him famous overnight.",
-  "description": "Diaghilev commissioned The Firebird after Anatoly Lyadov failed to deliver the score. The story combines Russian folk tales: Prince Ivan captures the magical Firebird, who gives him a feather in exchange for her freedom; he later uses it to overcome the immortal sorcerer Kashchei and free thirteen princesses. Stravinsky, then twenty-eight, wrote a brilliant score in the style of his teacher Rimsky-Korsakov, using chromatic harmonies for the magic world and Russian folk melodies for the human characters. The premiere was a triumph. Stravinsky later made three concert suites, and the Infernal Dance of Kashchei, the Berceuse and the Finale became popular."
+  "description": "Diaghilev commissioned The Firebird after Anatoly Lyadov failed to deliver the score. The story combines Russian folk tales: Prince Ivan captures the magical Firebird, who gives him a feather in exchange for her freedom; he later uses it to overcome the immortal sorcerer Kashchei and free thirteen princesses. Stravinsky, then twenty-eight, wrote a brilliant score in the style of his teacher Rimsky-Korsakov, using chromatic harmonies for the magic world and Russian folk melodies for the human characters. The premiere was a triumph. Stravinsky later made three concert suites, and the Infernal Dance of Kashchei, the Berceuse and the Finale became popular.",
+  "image_file": "Léon Bakst 001.jpg",
+  "image_caption": "Léon Bakst, costume design for the Firebird, 1910"
  },
  {
   "title": "Petrushka",
@@ -1773,7 +1873,9 @@
   "type": "Ballet, two parts",
   "location": "Théâtre des Champs-Élysées, Paris, 29 May 1913, Ballets Russes, choreographed by Vaslav Nijinsky",
   "note": "Pictures of pagan Russia ending in a sacrificial dance; its premiere caused a riot.",
-  "description": "The Rite of Spring was conceived by Stravinsky and the painter and archaeologist Nicholas Roerich, who designed the sets and costumes, as a series of scenes of prehistoric Russian rituals celebrating the coming of spring, culminating in a young girl dancing herself to death. It opens with a high bassoon solo based on a Lithuanian folk melody and moves through violent, irregular rhythms, polytonal harmonies and hammering ostinatos. At the premiere, Nijinsky's choreography, with its turned-in feet and heavy stamping, and the music provoked an uproar in the audience, with shouting and fights that, according to some accounts, drowned out the orchestra; the extent of the riot has probably been exaggerated in later accounts. A year later, the concert performance in Paris was a triumph. It is considered one of the most influential works of the twentieth century."
+  "description": "The Rite of Spring was conceived by Stravinsky and the painter and archaeologist Nicholas Roerich, who designed the sets and costumes, as a series of scenes of prehistoric Russian rituals celebrating the coming of spring, culminating in a young girl dancing herself to death. It opens with a high bassoon solo based on a Lithuanian folk melody and moves through violent, irregular rhythms, polytonal harmonies and hammering ostinatos. At the premiere, Nijinsky's choreography, with its turned-in feet and heavy stamping, and the music provoked an uproar in the audience, with shouting and fights that, according to some accounts, drowned out the orchestra; the extent of the riot has probably been exaggerated in later accounts. A year later, the concert performance in Paris was a triumph. It is considered one of the most influential works of the twentieth century.",
+  "image_file": "Roerich Rite of Spring.jpg",
+  "image_caption": "Nicholas Roerich, design for The Rite of Spring, 1913"
  },
  {
   "title": "Symphony of Psalms",
@@ -1871,7 +1973,7 @@
   "year": "1936",
   "sort": 1936,
   "type": "Symphonic fairy tale for narrator and orchestra, Op. 67",
-  "location": "Moscow, 2 May 1936, Central Children's Theatre",
+  "location": "Moscow, 2 May 1936",
   "note": "A children's tale in which each character is represented by an instrument.",
   "description": "Natalia Sats, director of the Central Children's Theatre in Moscow, commissioned Prokofiev to write a work introducing children to the instruments of the orchestra. He wrote both the text and music within a few weeks. A narrator tells the story of the young Peter, who, ignoring his grandfather's warnings, captures a wolf with the help of a bird, while the hunters arrive too late. Each character has an instrument and a theme: Peter the strings, the bird a flute, the duck an oboe, the cat a clarinet, the grandfather a bassoon, the wolf three horns and the hunters woodwind and timpani. It has been recorded with narrators ranging from Eleanor Roosevelt to David Bowie."
  },

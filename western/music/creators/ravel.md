@@ -21,6 +21,10 @@ Ravel admired clarity, craftsmanship and objectivity, describing himself as arti
 
 ### Daphnis et Chloé (1909–12)
 
+[![Daphnis et Chloé](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Harvard_Theatre_Collection_-_Bakst%2C_MS_Thr_414.4_%289%29.jpg/1280px-Harvard_Theatre_Collection_-_Bakst%2C_MS_Thr_414.4_%289%29.jpg)](https://commons.wikimedia.org/wiki/File:Harvard_Theatre_Collection_-_Bakst%2C_MS_Thr_414.4_%289%29.jpg)
+
+<sub>Léon Bakst, design for Daphnis et Chloé (Harvard Theatre Collection) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Harvard_Theatre_Collection_-_Bakst%2C_MS_Thr_414.4_%289%29.jpg).</sub>
+
 - **Date:** 1909–12
 - **Type:** Ballet (choreographic symphony), one act in three parts
 - **Premiere / first published:** Théâtre du Châtelet, Paris, 8 June 1912, Ballets Russes, choreographed by Michel Fokine

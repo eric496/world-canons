@@ -1,10 +1,14 @@
 # Edvard Grieg
 
+<a href="https://commons.wikimedia.org/wiki/File:Eilif_Peterssen_-_Portrait_of_the_Composer_Edvard_Grieg_-_NG.M.00396_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eilif_Peterssen_-_Portrait_of_the_Composer_Edvard_Grieg_-_NG.M.00396_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/330px-Eilif_Peterssen_-_Portrait_of_the_Composer_Edvard_Grieg_-_NG.M.00396_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg" alt="Edvard Grieg" title="Eilif Peterssen, portrait of Grieg (National Museum, Oslo)"></a>
+
 **1843 – 1907** · Norwegian  
 Born: Bergen, Norway · Died: Bergen  
 Eras & schools: [Nationalist schools](../movements/nationalist-schools.md)  
 
 > Norway's leading composer, Grieg wrote the Piano Concerto in A minor, the music for Ibsen's Peer Gynt and many lyric piano pieces and songs.
+
+<sub>Portrait: Eilif Peterssen, portrait of Grieg (National Museum, Oslo) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Eilif_Peterssen_-_Portrait_of_the_Composer_Edvard_Grieg_-_NG.M.00396_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Grieg,_Edvard)
 

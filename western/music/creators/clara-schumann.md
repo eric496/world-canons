@@ -1,10 +1,14 @@
 # Clara Schumann
 
+<a href="https://commons.wikimedia.org/wiki/File:Andreas_Staub_-_Clara_Wieck_%28Lithographie_1839%2C_cropped%29.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Andreas_Staub_-_Clara_Wieck_%28Lithographie_1839%2C_cropped%29.jpg" alt="Clara Schumann" title="Andreas Staub, lithograph of Clara Wieck, 1839"></a>
+
 **1819 – 1896** · German  
 Born: Leipzig · Died: Frankfurt  
 Eras & schools: [Early Romantic](../movements/early-romantic.md)  
 
 > One of the great pianists of the nineteenth century, Clara Schumann was also a gifted composer and the leading interpreter of her husband's and Brahms's music.
+
+<sub>Portrait: Andreas Staub, lithograph of Clara Wieck, 1839 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Andreas_Staub_-_Clara_Wieck_%28Lithographie_1839%2C_cropped%29.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Schumann,_Clara)
 

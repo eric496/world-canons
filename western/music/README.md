@@ -1,8 +1,12 @@
 # Music
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bach-wtc1-title-ms.jpg/960px-Bach-wtc1-title-ms.jpg" width="100%" alt="Music">
+
+<sub>Bach's autograph title page of The Well-Tempered Clavier, Book I, 1722 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bach-wtc1-title-ms.jpg)</sub>
+
 Western music from the chant of medieval monasteries to the minimalism of the late twentieth century, told through the composers and the works that shaped the tradition, with jazz included as one of the great Western musical languages of the twentieth century. Every composer has a full biography and every work a detailed introduction with its premiere or first publication. Pictures are autograph scores, first editions, playbills and painted portraits from Wikimedia Commons; where the music is in the public domain, links lead to free scores on IMSLP.
 
-**68 composers** · **146 works** (0 with images) · **18 eras & schools** · 0 portraits
+**68 composers** · **146 works** (51 with images) · **18 eras & schools** · 45 portraits
 
 ## Browse
 
@@ -11,6 +15,7 @@ Western music from the chant of medieval monasteries to the minimalism of the la
 | [**Eras & schools**](#eras--schools) | Each era/school in order, with its people and key works |
 | [**Composers**](CREATORS.md) | Everyone, by date of birth, with a page each |
 | [**Timeline**](TIMELINE.md) | Every work in chronological order |
+| [**Gallery**](GALLERY.md) | All the pictures on one page |
 | [`data/`](data/) | The same information as JSON and CSV |
 
 ## Eras & schools

@@ -1,10 +1,14 @@
 # George Gershwin
 
+<a href="https://commons.wikimedia.org/wiki/File:Self-portrait_by_George_Gershwin%2C_1934%2C_oil_on_canvas_board%2C_from_the_National_Portrait_Gallery_-_NPG-6600086A_3.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Self-portrait_by_George_Gershwin%2C_1934%2C_oil_on_canvas_board%2C_from_the_National_Portrait_Gallery_-_NPG-6600086A_3.jpg/330px-Self-portrait_by_George_Gershwin%2C_1934%2C_oil_on_canvas_board%2C_from_the_National_Portrait_Gallery_-_NPG-6600086A_3.jpg" alt="George Gershwin" title="George Gershwin, self-portrait in oil, 1934 (National Portrait Gallery, Washington)"></a>
+
 **1898 – 1937** · American  
 Born: Brooklyn, New York · Died: Los Angeles  
 Eras & schools: [Jazz](../movements/jazz.md)  
 
 > A Broadway and Tin Pan Alley songwriter who brought jazz into the concert hall, Gershwin wrote Rhapsody in Blue and the opera Porgy and Bess.
+
+<sub>Portrait: George Gershwin, self-portrait in oil, 1934 (National Portrait Gallery, Washington) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Self-portrait_by_George_Gershwin%2C_1934%2C_oil_on_canvas_board%2C_from_the_National_Portrait_Gallery_-_NPG-6600086A_3.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Gershwin,_George)
 

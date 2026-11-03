@@ -1,10 +1,14 @@
 # Igor Stravinsky
 
+<a href="https://commons.wikimedia.org/wiki/File:Portrait_d%27Igor_Stravinsky%2C_par_Jacques-%C3%89mile_Blanche.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Portrait_d%27Igor_Stravinsky%2C_par_Jacques-%C3%89mile_Blanche.jpg" alt="Igor Stravinsky" title="Jacques-Émile Blanche, portrait of Stravinsky, 1915"></a>
+
 **1882 – 1971** · Russian-French-American  
 Born: Oranienbaum, near Saint Petersburg, Russia · Died: New York  
 Eras & schools: [Second Viennese School & modernism](../movements/second-viennese-school.md), [Neoclassicism & mid-century tonal modernism](../movements/neoclassicism-music.md)  
 
 > Stravinsky's ballets for the Ballets Russes, above all The Rite of Spring, revolutionised rhythm, and he went on to lead neoclassicism and later to adopt serialism.
+
+<sub>Portrait: Jacques-Émile Blanche, portrait of Stravinsky, 1915 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_d%27Igor_Stravinsky%2C_par_Jacques-%C3%89mile_Blanche.jpg)</sub>
 
 ## Biography
 
@@ -20,6 +24,10 @@ Stravinsky's Russian ballets use folk-derived melodies, layered ostinatos, clash
 - [Symphony of Psalms](#symphony-of-psalms-1930) (1930)
 
 ### The Firebird (1909–10)
+
+[![The Firebird](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/L%C3%A9on_Bakst_001.jpg/960px-L%C3%A9on_Bakst_001.jpg)](https://commons.wikimedia.org/wiki/File:L%C3%A9on_Bakst_001.jpg)
+
+<sub>Léon Bakst, costume design for the Firebird, 1910 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:L%C3%A9on_Bakst_001.jpg).</sub>
 
 - **Date:** 1909–10
 - **Type:** Ballet, two scenes
@@ -38,6 +46,10 @@ Diaghilev commissioned The Firebird after Anatoly Lyadov failed to deliver the s
 Petrushka began as a concert piece for piano and orchestra, which Diaghilev persuaded Stravinsky to turn into a ballet. With the designer Alexandre Benois, he set it at a Shrovetide fair in Saint Petersburg in the 1830s, where a magician brings three puppets to life: the sad Petrushka, the Ballerina and the brutal Moor. Petrushka, jealous of the Moor, is killed by him, and his ghost appears above the theatre. The 'Petrushka chord', combining C major and F-sharp major triads, symbolises the puppet's double nature. Stravinsky used street songs and folk tunes, and created layered textures of the fair's crowds. Vaslav Nijinsky danced the title role at the premiere, choreographed by Fokine.
 
 ### The Rite of Spring (Le sacre du printemps) (1911–13)
+
+[![The Rite of Spring (Le sacre du printemps)](https://upload.wikimedia.org/wikipedia/commons/6/62/Roerich_Rite_of_Spring.jpg)](https://commons.wikimedia.org/wiki/File:Roerich_Rite_of_Spring.jpg)
+
+<sub>Nicholas Roerich, design for The Rite of Spring, 1913 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Roerich_Rite_of_Spring.jpg).</sub>
 
 - **Date:** 1911–13
 - **Type:** Ballet, two parts

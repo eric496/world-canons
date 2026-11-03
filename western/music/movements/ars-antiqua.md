@@ -15,7 +15,7 @@ At the new cathedral of Notre-Dame in Paris, singers began to add one, two or th
 
 | Image | Year | Work | Composer | Premiere / first published |
 |---|---|---|---|---|
-| — | c. 1160–1200 | **Magnus liber organi** | [Léonin](../creators/leonin.md) | Notre-Dame Cathedral, Paris; survives in manuscripts now in Florence, Wolfenbüttel and Madrid |
+| <a href="https://commons.wikimedia.org/wiki/File:Magnus_Liber_OrganiFC.png"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Magnus_Liber_OrganiFC.png" width="140" alt="Magnus liber organi"></a> | c. 1160–1200 | **Magnus liber organi** | [Léonin](../creators/leonin.md) | Notre-Dame Cathedral, Paris; survives in manuscripts now in Florence, Wolfenbüttel and Madrid |
 | — | 1198 | **Viderunt omnes (organum quadruplum)** | [Pérotin](../creators/perotin.md) | Notre-Dame Cathedral, Paris (Christmas, probably from 1198) |
 
 ---

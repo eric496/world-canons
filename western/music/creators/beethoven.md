@@ -1,10 +1,14 @@
 # Ludwig van Beethoven
 
+<a href="https://commons.wikimedia.org/wiki/File:Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/330px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg" alt="Ludwig van Beethoven" title="Joseph Karl Stieler, Beethoven with the manuscript of the Missa solemnis, 1820"></a>
+
 **1770 – 1827** · German  
 Born: Bonn, Electorate of Cologne · Died: Vienna  
 Eras & schools: [Galant & Classical](../movements/classical-era.md), [Early Romantic](../movements/early-romantic.md)  
 
 > Beethoven expanded the forms of the Classical style with unprecedented power and personal expression, and continued to compose after he became deaf.
+
+<sub>Portrait: Joseph Karl Stieler, Beethoven with the manuscript of the Missa solemnis, 1820 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Beethoven,_Ludwig_van)
 
@@ -27,6 +31,10 @@ Beethoven inherited the forms of Haydn and Mozart and pushed them to new extreme
 
 ### Piano Sonata No. 14 in C-sharp minor, 'Moonlight' (1801)
 
+[![Piano Sonata No. 14 in C-sharp minor, 'Moonlight'](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Beethoven_Piano_Sonata_14_-_title_page_1802.jpg/1280px-Beethoven_Piano_Sonata_14_-_title_page_1802.jpg)](https://commons.wikimedia.org/wiki/File:Beethoven_Piano_Sonata_14_-_title_page_1802.jpg)
+
+<sub>Title page of the first edition, Vienna, 1802 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Beethoven_Piano_Sonata_14_-_title_page_1802.jpg).</sub>
+
 - **Date:** 1801
 - **Type:** Piano sonata, Op. 27 No. 2
 - **Premiere / first published:** Published in Vienna, 1802; dedicated to Countess Giulietta Guicciardi
@@ -36,6 +44,10 @@ Beethoven inherited the forms of Haydn and Mozart and pushed them to new extreme
 Beethoven subtitled this sonata 'quasi una fantasia', a sonata in the manner of a fantasy, because it departs from the usual order of movements: it opens not with a fast sonata-form movement but with a slow, quiet Adagio sostenuto in triplets, to be played with the dampers raised. A gentle Allegretto follows, and the sonata ends with a stormy Presto agitato. It was dedicated to his pupil Giulietta Guicciardi, with whom he was briefly in love. The nickname Moonlight comes from the poet Ludwig Rellstab, who after Beethoven's death compared the first movement to moonlight on Lake Lucerne. It is one of the most popular piano works ever written.
 
 ### Symphony No. 3 in E-flat major, 'Eroica' (1803–04)
+
+[![Symphony No. 3 in E-flat major, 'Eroica'](https://upload.wikimedia.org/wikipedia/commons/0/09/Eroica_Beethoven_title.jpg)](https://commons.wikimedia.org/wiki/File:Eroica_Beethoven_title.jpg)
+
+<sub>Title page of the copy score, with Napoleon's name scratched out Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Eroica_Beethoven_title.jpg).</sub>
 
 - **Date:** 1803–04
 - **Type:** Symphony, Op. 55
@@ -47,6 +59,10 @@ Beethoven wrote the Third Symphony in 1803–04, soon after the Heiligenstadt cr
 
 ### Symphony No. 5 in C minor (1804–08)
 
+[![Symphony No. 5 in C minor](https://upload.wikimedia.org/wikipedia/commons/6/6a/Beethoven-Deckblatt.png)](https://commons.wikimedia.org/wiki/File:Beethoven-Deckblatt.png)
+
+<sub>Title page of the Fifth Symphony Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Beethoven-Deckblatt.png).</sub>
+
 - **Date:** 1804–08
 - **Type:** Symphony, Op. 67
 - **Premiere / first published:** Theater an der Wien, Vienna, 22 December 1808
@@ -56,6 +72,10 @@ Beethoven wrote the Third Symphony in 1803–04, soon after the Heiligenstadt cr
 The Fifth Symphony was first performed at a marathon concert in an unheated theatre in Vienna on 22 December 1808, together with the Sixth Symphony, the Fourth Piano Concerto and the Choral Fantasy. Its opening motif of three short notes and a long one dominates the first movement and recurs in different forms throughout. Beethoven's secretary Anton Schindler claimed he called it fate knocking at the door, but Schindler is an unreliable source. The scherzo leads without a break, through a long, eerie transition, into a blazing C major finale, where trombones, piccolo and contrabassoon make their first appearance in a symphony. The Romantic writer E. T. A. Hoffmann wrote a famous review praising its sublime, infinite longing. During the Second World War its opening, which resembles the Morse code for V, was used by the BBC as a symbol of victory.
 
 ### Fidelio (1805; final version 1814)
+
+[![Fidelio](https://upload.wikimedia.org/wikipedia/commons/e/e8/Fidelio18140523.jpg)](https://commons.wikimedia.org/wiki/File:Fidelio18140523.jpg)
+
+<sub>Playbill for the revised version, 23 May 1814 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Fidelio18140523.jpg).</sub>
 
 - **Date:** 1805; final version 1814
 - **Type:** Opera, two acts, Op. 72
@@ -77,6 +97,10 @@ The Hammerklavier Sonata, named after the German word for the piano, was written
 
 ### Missa solemnis in D major (1819–23)
 
+[![Missa solemnis in D major](https://upload.wikimedia.org/wikipedia/commons/d/db/Beethoven%2C_Missa_solemnis%2C_Kyrie.jpg)](https://commons.wikimedia.org/wiki/File:Beethoven%2C_Missa_solemnis%2C_Kyrie.jpg)
+
+<sub>The Kyrie of the Missa solemnis Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Beethoven%2C_Missa_solemnis%2C_Kyrie.jpg).</sub>
+
 - **Date:** 1819–23
 - **Type:** Mass, Op. 123
 - **Premiere / first published:** Saint Petersburg, 7 April 1824 (first complete performance); parts given in Vienna, May 1824
@@ -87,6 +111,10 @@ Beethoven began the Missa solemnis for the enthronement of his patron Archduke R
 
 ### Symphony No. 9 in D minor, 'Choral' (1822–24)
 
+[![Symphony No. 9 in D minor, 'Choral'](https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Premiere_of_Symphony_No._9.jpg)](https://commons.wikimedia.org/wiki/File:The_Premiere_of_Symphony_No._9.jpg)
+
+<sub>Illustration of the 1824 premiere Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:The_Premiere_of_Symphony_No._9.jpg).</sub>
+
 - **Date:** 1822–24
 - **Type:** Symphony with chorus, Op. 125
 - **Premiere / first published:** Theater am Kärntnertor, Vienna, 7 May 1824
@@ -96,6 +124,10 @@ Beethoven began the Missa solemnis for the enthronement of his patron Archduke R
 Beethoven had long wanted to set Friedrich Schiller's poem An die Freude, and in the Ninth Symphony, commissioned in part by the Philharmonic Society of London, he did so in a finale for four soloists, chorus and orchestra. The first three movements, a mysterious opening that emerges from empty fifths, a driving scherzo and a serene slow movement, are recalled and rejected at the start of the finale, before the cellos and basses introduce the joy theme. Its variations include a Turkish march and a solemn hymn to the creator above the stars. At the premiere the totally deaf composer stood beside the conductor, and it is said that one of the soloists had to turn him round to see the audience's applause. The joy melody became the anthem of the European Union, and the autograph is listed in UNESCO's Memory of the World register.
 
 ### String Quartet No. 14 in C-sharp minor (1826)
+
+[![String Quartet No. 14 in C-sharp minor](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ludwig_van_Beethoven_-_Sketches_for_the_String_Quartet_Op._131._%28BL_Add_MS_38070_f._51r%29.jpg/1280px-Ludwig_van_Beethoven_-_Sketches_for_the_String_Quartet_Op._131._%28BL_Add_MS_38070_f._51r%29.jpg)](https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_Sketches_for_the_String_Quartet_Op._131._%28BL_Add_MS_38070_f._51r%29.jpg)
+
+<sub>Beethoven's sketches for Op. 131 (British Library) Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_Sketches_for_the_String_Quartet_Op._131._%28BL_Add_MS_38070_f._51r%29.jpg).</sub>
 
 - **Date:** 1826
 - **Type:** String quartet, Op. 131

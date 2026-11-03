@@ -1,10 +1,14 @@
 # Antonio Vivaldi
 
+<a href="https://commons.wikimedia.org/wiki/File:Vivaldi.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vivaldi.jpg/330px-Vivaldi.jpg" alt="Antonio Vivaldi" title="Anonymous portrait traditionally identified as Vivaldi, c. 1723"></a>
+
 **1678 – 1741** · Italian  
 Born: Venice · Died: Vienna  
 Eras & schools: [High Baroque](../movements/high-baroque.md)  
 
 > The 'Red Priest' of Venice wrote hundreds of concertos, including The Four Seasons, which shaped the Baroque concerto across Europe.
+
+<sub>Portrait: Anonymous portrait traditionally identified as Vivaldi, c. 1723 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vivaldi.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Vivaldi,_Antonio)
 

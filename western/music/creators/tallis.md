@@ -1,10 +1,14 @@
 # Thomas Tallis
 
+<a href="https://commons.wikimedia.org/wiki/File:Tallis_crop.png"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Tallis_crop.png" alt="Thomas Tallis" title="Engraved portrait of Tallis by Gerard Vandergucht, 18th century (imaginary likeness)"></a>
+
 **c. 1505 – 1585** · English  
 Born: probably Kent, England · Died: Greenwich  
 Eras & schools: [Late Renaissance & Venetian](../movements/late-renaissance-music.md)  
 
 > Tallis served four Tudor monarchs through the upheavals of the English Reformation and wrote the forty-voice motet Spem in alium.
+
+<sub>Portrait: Engraved portrait of Tallis by Gerard Vandergucht, 18th century (imaginary likeness) · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tallis_crop.png)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Tallis,_Thomas)
 

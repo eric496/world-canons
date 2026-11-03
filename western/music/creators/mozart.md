@@ -1,10 +1,14 @@
 # Wolfgang Amadeus Mozart
 
+<a href="https://commons.wikimedia.org/wiki/File:Mozart_%28unfinished%29_by_Lange_1782.jpg"><img align="right" width="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mozart_%28unfinished%29_by_Lange_1782.jpg/330px-Mozart_%28unfinished%29_by_Lange_1782.jpg" alt="Wolfgang Amadeus Mozart" title="Joseph Lange, unfinished portrait of Mozart, c. 1782"></a>
+
 **1756 – 1791** · Austrian  
 Born: Salzburg · Died: Vienna  
 Eras & schools: [Galant & Classical](../movements/classical-era.md)  
 
 > A child prodigy who became one of the greatest of all composers, Mozart excelled in every genre of his day, from opera and the piano concerto to the symphony and chamber music.
+
+<sub>Portrait: Joseph Lange, unfinished portrait of Mozart, c. 1782 · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mozart_%28unfinished%29_by_Lange_1782.jpg)</sub>
 
 **Links:** [Scores on IMSLP](https://imslp.org/wiki/Category:Mozart,_Wolfgang_Amadeus)
 
@@ -26,6 +30,10 @@ Mozart wrote more than six hundred works. His music combines melodic grace and p
 
 ### Piano Concerto No. 20 in D minor (1785)
 
+[![Piano Concerto No. 20 in D minor](https://upload.wikimedia.org/wikipedia/commons/2/20/PC_20_autograph.jpg)](https://commons.wikimedia.org/wiki/File:PC_20_autograph.jpg)
+
+<sub>Mozart's autograph score Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:PC_20_autograph.jpg).</sub>
+
 - **Date:** 1785
 - **Type:** Piano concerto, K. 466
 - **Premiere / first published:** Mehlgrube Casino, Vienna, 11 February 1785, with Mozart as soloist
@@ -35,6 +43,10 @@ Mozart wrote more than six hundred works. His music combines melodic grace and p
 Mozart wrote a series of piano concertos for his subscription concerts in Vienna in the 1780s, and this was the first in a minor key. The orchestra opens with quiet syncopated unease in the strings and menacing rumblings in the bass, before the soloist enters with a new, plaintive theme. The slow movement, a Romance, is serene but has a stormy central section, and the finale returns to D minor before ending in D major. Leopold Mozart heard the premiere and wrote that the concerto was magnificent; Mozart had finished copying the parts only on the day. Beethoven admired the work and wrote cadenzas for it, and in the nineteenth century it was one of the few Mozart concertos that stayed in the repertoire.
 
 ### The Marriage of Figaro (Le nozze di Figaro) (1786)
+
+[![The Marriage of Figaro (Le nozze di Figaro)](https://upload.wikimedia.org/wikipedia/commons/2/24/Ramberg_figaro_1.jpg)](https://commons.wikimedia.org/wiki/File:Ramberg_figaro_1.jpg)
+
+<sub>Johann Heinrich Ramberg, illustration of a scene from Figaro Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Ramberg_figaro_1.jpg).</sub>
 
 - **Date:** 1786
 - **Type:** Opera buffa, four acts, K. 492
@@ -46,6 +58,10 @@ The Marriage of Figaro was the first of Mozart's three operas with the librettis
 
 ### Don Giovanni (1787)
 
+[![Don Giovanni](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Max_Slevogt_-_Der_S%C3%A4nger_Francisco_d%27Andrade_als_Don_Giovanni_in_Mozarts_Oper_-_Google_Art_Project.jpg/1280px-Max_Slevogt_-_Der_S%C3%A4nger_Francisco_d%27Andrade_als_Don_Giovanni_in_Mozarts_Oper_-_Google_Art_Project.jpg)](https://commons.wikimedia.org/wiki/File:Max_Slevogt_-_Der_S%C3%A4nger_Francisco_d%27Andrade_als_Don_Giovanni_in_Mozarts_Oper_-_Google_Art_Project.jpg)
+
+<sub>Max Slevogt, the baritone Francisco d'Andrade as Don Giovanni, 1912 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Max_Slevogt_-_Der_S%C3%A4nger_Francisco_d%27Andrade_als_Don_Giovanni_in_Mozarts_Oper_-_Google_Art_Project.jpg).</sub>
+
 - **Date:** 1787
 - **Type:** Dramma giocoso, two acts, K. 527
 - **Premiere / first published:** Estates Theatre (National Theatre), Prague, 29 October 1787
@@ -55,6 +71,10 @@ The Marriage of Figaro was the first of Mozart's three operas with the librettis
 Commissioned for Prague after the success of Figaro there, Don Giovanni was again written with Da Ponte. It opens with Don Giovanni killing the Commendatore, father of Donna Anna, whom he has tried to seduce, and follows his further conquests and evasions, with his servant Leporello cataloguing his 2,065 lovers in a famous aria. In the final scene the Commendatore's statue, which Giovanni has mockingly invited to dinner, arrives and drags the unrepentant libertine down to hell, announced by the trombones and the dark D minor music of the overture. Mozart blends comedy and tragedy, which Da Ponte's subtitle dramma giocoso reflects. For the Romantics, from E. T. A. Hoffmann to Kierkegaard, it was the opera of operas. The autograph score is in the Bibliothèque nationale de France.
 
 ### Eine kleine Nachtmusik (1787)
+
+[![Eine kleine Nachtmusik](https://upload.wikimedia.org/wikipedia/commons/d/de/Mozart_-_Eine_kleine_Nachtmusik_K.525_autograph.png)](https://commons.wikimedia.org/wiki/File:Mozart_-_Eine_kleine_Nachtmusik_K.525_autograph.png)
+
+<sub>Mozart's autograph score, first page Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Mozart_-_Eine_kleine_Nachtmusik_K.525_autograph.png).</sub>
 
 - **Date:** 1787
 - **Type:** Serenade for strings, K. 525
@@ -76,6 +96,10 @@ In the summer of 1788 Mozart wrote his last three symphonies, Nos. 39, 40 and 41
 
 ### The Magic Flute (Die Zauberflöte) (1791)
 
+[![The Magic Flute (Die Zauberflöte)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mozart_magic_flute.jpg/1280px-Mozart_magic_flute.jpg)](https://commons.wikimedia.org/wiki/File:Mozart_magic_flute.jpg)
+
+<sub>Playbill for the first performance, 30 September 1791 Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:Mozart_magic_flute.jpg).</sub>
+
 - **Date:** 1791
 - **Type:** Singspiel, two acts, K. 620
 - **Premiere / first published:** Theater auf der Wieden, Vienna, 30 September 1791
@@ -85,6 +109,10 @@ In the summer of 1788 Mozart wrote his last three symphonies, Nos. 39, 40 and 41
 The Magic Flute was written for Emanuel Schikaneder's popular suburban theatre in Vienna; Schikaneder wrote the libretto and played the bird-catcher Papageno. In its fairy-tale plot, the prince Tamino is sent by the Queen of the Night to rescue her daughter Pamina from the priest Sarastro, only to discover that Sarastro represents wisdom and that the Queen is the villain. Tamino and Pamina undergo trials of silence, fire and water to enter Sarastro's brotherhood, while Papageno finds his Papagena. The work is filled with Masonic symbolism, as both Mozart and Schikaneder were Freemasons. Musically it ranges from folk-like songs to Bachian chorales and the Queen of the Night's astonishing coloratura, rising to high F. A popular success from the start, it was Mozart's last opera, staged ten weeks before his death.
 
 ### Requiem in D minor (1791 (unfinished))
+
+[![Requiem in D minor](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/K626_Requiem_Mozart.jpg/1280px-K626_Requiem_Mozart.jpg)](https://commons.wikimedia.org/wiki/File:K626_Requiem_Mozart.jpg)
+
+<sub>Mozart's autograph score, opening of the Requiem Image: Wikimedia Commons. [Full resolution, credit and licence](https://commons.wikimedia.org/wiki/File:K626_Requiem_Mozart.jpg).</sub>
 
 - **Date:** 1791 (unfinished)
 - **Type:** Requiem mass, K. 626
