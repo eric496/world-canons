@@ -32,4 +32,4 @@ Only a handful of paintings are securely attributed to him, including The Tempes
 This small painting of around 1506–08, in the Gallerie dell'Accademia in Venice, is one of the most mysterious in Western art. At the left a young man with a staff stands by broken columns. At the right a half-naked woman sits nursing a baby on the river bank and looks straight out at us. Between them, under a dark sky split by lightning, lies a town. X-rays show that Giorgione originally painted a bathing woman where the young man now stands, which suggests he invented as he went. In 1530 a Venetian collector described it simply as a 'little landscape with the storm, a gypsy and a soldier'. Interpretations range from Adam and Eve to classical myth, but its real subject may be the stormy atmosphere itself, which makes it a pioneer of landscape as mood.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

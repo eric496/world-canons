@@ -32,4 +32,4 @@ Schiele's art is defined by its nervous, angular line and its raw, often contort
 Painted in 1912, the year of Schiele's brief imprisonment, this self-portrait in the Leopold Museum in Vienna shows the artist's head and shoulders, turning sharply. His head tilts towards his shoulder and he looks out at the viewer with a fixed, intense gaze. Beside him are a sprig of physalis (Chinese lantern plant) with red fruits and a few leaves, set against a bare white background. The sharp outlines, flat white space and twisted pose create tension. It was painted as a companion to his portrait of Wally Neuzil, which is the same size.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

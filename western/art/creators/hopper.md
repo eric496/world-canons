@@ -28,4 +28,4 @@ Hopper painted American cities, diners, offices, hotel rooms, theatres, gas stat
 Hopper finished this painting in January 1942, shortly after the attack on Pearl Harbor. It shows a corner diner at night, seen through its large curved window from a deserted street. Inside, under harsh fluorescent light, a counterman in white serves three customers: a couple sitting side by side without speaking, and a man alone with his back to us. There is no visible door, which seals the figures inside the glass. Hopper said the diner was inspired by one on Greenwich Avenue in New York, simplified and enlarged, and admitted that unconsciously he was probably painting the loneliness of a big city. His wife Jo posed for the woman. The Art Institute of Chicago bought it a few months after it was painted, and it has become one of the most famous and parodied images of American art.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

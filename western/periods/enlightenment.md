@@ -164,4 +164,4 @@ Reason, toleration and progress: the Encyclopédie, Newtonian science, Bach to M
 - 1791 · **Declaration of the Rights of Woman and of the Female Citizen**, [Olympe de Gouges](../history/creators/olympe-de-gouges.md)
 
 ---
-[← Baroque & the Scientific Revolution](seventeenth-century.md) · [Western canon](../README.md) · [Romanticism to the Fin de Siècle →](nineteenth-century.md)
+[← Baroque & the Scientific Revolution](seventeenth-century.md) · [The Western Canon](../README.md) · [Romanticism to the Fin de Siècle →](nineteenth-century.md)

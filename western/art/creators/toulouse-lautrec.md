@@ -32,4 +32,4 @@ Toulouse-Lautrec captured the performers and customers of Montmartre's nightlife
 Painted in 1892–95, this painting in the Art Institute of Chicago shows a group of regulars at the Moulin Rouge dance hall in Montmartre. A group of men and women sit around a table drinking. In the background the dancer La Goulue arranges her hair in front of a mirror, and Toulouse-Lautrec himself walks past with his much taller cousin, Gabriel Tapié de Céleyran. At the right edge, a woman's face is cut off by the frame and lit in a ghostly green by the gaslight. The strange angle and lighting give the scene an unsettling, almost sinister mood.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

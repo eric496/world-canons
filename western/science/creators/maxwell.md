@@ -54,4 +54,4 @@ Maxwell read this paper to the Royal Society in December 1864 and published it i
 In the two volumes of the Treatise, Maxwell gathered the whole of electricity and magnetism, experimental and theoretical, into a single system based on the field. He covered electrostatics, electric currents, magnetism and electromagnetism, treated mathematical methods such as potential theory and spherical harmonics, described measuring instruments, and set out his electromagnetic theory of light. He predicted that light would exert a pressure on surfaces it falls on, which was later confirmed. The book was difficult and in places obscure, and much of the work of the following generation, by Heaviside, Hertz, George FitzGerald, Oliver Lodge and others, the so-called Maxwellians, consisted of clarifying and simplifying it. Einstein later called the change from action at a distance to fields the most profound since Newton.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

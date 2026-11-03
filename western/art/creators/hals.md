@@ -32,4 +32,4 @@ Hals is famous for his loose, rapid, visible brushwork, which seems to catch his
 An inscription records that this sitter was 26 years old in 1624, but his identity is unknown. The title is a Victorian invention: he is not laughing, though his raised eyebrows, upturned moustache and confident pose with his hand on his hip give him a cocky, amused air. The real showpiece is his richly embroidered sleeve, painted with dazzling freedom. It is decorated with motifs of arrows, flaming cornucopias, lovers' knots and bees, symbols of the pleasures and pains of love that suggest it may have been painted for a betrothal. The 4th Marquess of Hertford bought it in a famous Paris auction in 1865, and it is now one of the best-loved works in the Wallace Collection in London.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

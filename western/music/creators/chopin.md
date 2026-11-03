@@ -59,4 +59,4 @@ Chopin's two sets of twelve études each focus on a particular technical problem
 Chopin's four ballades created a new kind of piano piece: a large, single-movement narrative in which themes are transformed dramatically over the course of the music. The first, begun in Vienna around 1831 and finished in Paris, opens with a mysterious recitative-like introduction before a hesitant waltz-like theme. A lyrical second theme returns, transformed, in a radiant fortissimo, before a virtuosic and tragic coda. The ballades are often linked to the poetry of Adam Mickiewicz, Chopin's compatriot, though Chopin gave no programme. Schumann reported that Chopin told him it was his favourite among his works. It is one of the pinnacles of the Romantic piano repertoire.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

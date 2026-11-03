@@ -49,4 +49,4 @@ Josephus wrote the Jewish War in Rome in the 70s AD, first, he says, in Aramaic 
 In twenty books, the Antiquities retells the biblical story, adding traditions found elsewhere in Jewish sources, and continues the history through the Persian, Hellenistic and Roman periods, with extensive detail on the Hasmoneans, Herod and the Roman governors of Judea. Josephus's aim was to present Judaism as an ancient and honourable nation to a gentile audience. Book 18 contains a brief account of Jesus, the Testimonium Flavianum; in its transmitted form it calls Jesus the Messiah, which most scholars consider a Christian interpolation, though many think Josephus wrote a shorter, neutral notice. A passage on the death of 'James, the brother of Jesus who was called Christ' in Book 20 is generally accepted as authentic. The work is a major source for the historical context of the New Testament.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

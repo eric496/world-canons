@@ -55,4 +55,4 @@ Haydn wrote these six quartets in 1796–97 for Count Joseph Erdődy, after his 
 Inspired by the Handel oratorios he heard in London, Haydn composed The Creation to a German text adapted by Baron Gottfried van Swieten from an English libretto based on Genesis and Milton's Paradise Lost. It was published in 1800 with German and English texts. The work opens with an orchestral portrait of chaos, with hesitant, unresolved harmonies, before the chorus sings 'And there was light' on a blazing C major chord. The three archangels then narrate the six days of creation, with vivid musical pictures of storms, whales, lions and birds, and the final part celebrates Adam and Eve in Eden. A performance in Vienna in 1808, the composer's last public appearance, was a great tribute to the old Haydn.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

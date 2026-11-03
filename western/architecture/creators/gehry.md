@@ -44,4 +44,4 @@ The Basque government and the Solomon R. Guggenheim Foundation agreed in 1991 to
 Lillian Disney, widow of Walt Disney, gave an initial gift of 50 million dollars in 1987 for a concert hall in downtown Los Angeles, and Gehry won the competition in 1988. The project stalled for years over funding, and the design of the exterior changed from stone to stainless steel after Bilbao. Its curving, sail-like panels enclose foyers and gardens around a vineyard-style auditorium in which the audience surrounds the orchestra, lined with Douglas fir and designed with the acoustician Yasuhisa Toyota, with an organ of curved pipes. It opened in 2003 as the home of the Los Angeles Philharmonic. Glare from polished panels heated neighbouring buildings and they were dulled. It became a symbol of downtown Los Angeles.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

@@ -54,4 +54,4 @@ Western literature from the Homeric epics to the late twentieth century, told th
 - **Quotations** are kept short and only from texts long in the public domain; everything else is paraphrased.
 
 ---
-[← Western canon](../README.md) · [All people](../PEOPLE.md) · [Western timeline](../TIMELINE.md)
+[← The Western Canon](../README.md) · [All people](../PEOPLE.md) · [Timeline](../TIMELINE.md)

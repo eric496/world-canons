@@ -48,4 +48,4 @@ Old St Paul's, a huge Gothic cathedral, was gutted in the Great Fire of 1666. Wr
 In 1694 Queen Mary II founded a hospital for disabled and retired seamen on the site of the old Tudor palace at Greenwich, and Wren gave his services free. Because the queen insisted on keeping the view from the river to Inigo Jones's Queen's House, Wren designed two pairs of courts separated by a broad avenue, with twin domes and colonnades over the Painted Hall and the chapel. Nicholas Hawksmoor and John Vanbrugh continued the work. James Thornhill painted the Painted Hall from 1707 to 1726, a vast celebration of Protestant monarchy and naval power. The hospital closed in 1869, and the buildings became the Royal Naval College in 1873; since 1998 they have housed the University of Greenwich and Trinity Laban. With the park and observatory they form the Maritime Greenwich World Heritage Site.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

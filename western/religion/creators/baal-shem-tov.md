@@ -24,4 +24,4 @@ The Baal Shem Tov taught that God is present everywhere, that joyful prayer and 
 The Baal Shem Tov wrote no books. Shivhei ha-Besht, printed in Hebrew in 1814 and soon in Yiddish, collects some 250 stories about him gathered by Dov Ber of Linits, the son-in-law of the Baal Shem Tov's scribe, and edited by the printer Israel Jaffe. It tells of his hidden years, his revelation as a holy man, his miracles, healings and ascents of the soul, and his encounters with disciples, opponents and ordinary people. Historians use it with care, as legend mingles with memory, but recent research has shown that many figures in it are historical. It is a foundational work of Hasidic storytelling, which became a central genre of Hasidic culture and was later retold by Martin Buber and others.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

@@ -24,4 +24,4 @@ His Systematic Theology used a 'method of correlation', relating existential que
 In three volumes, Tillich uses a 'method of correlation' in which philosophy formulates the questions arising from human existence, such as finitude, estrangement and ambiguity, and theology answers with the symbols of Christian revelation. Its five parts treat reason and revelation, being and God, existence and the Christ, life and the Spirit, and history and the kingdom of God. Tillich describes God not as a being among others but as 'being itself' or the 'ground of being', and Christ as the 'New Being'. The work was influential in mid-century American theology and in dialogue with psychology and the arts.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

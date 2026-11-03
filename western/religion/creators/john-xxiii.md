@@ -24,4 +24,4 @@ Within three months he announced an ecumenical council to bring 'aggiornamento',
 Issued in April 1963, two months before his death and months after the Cuban missile crisis, Pacem in terris sets out a vision of peace founded on truth, justice, charity and freedom. It lists universal human rights, including freedom of religion and conscience, and corresponding duties, discusses relations between individuals and states and among nations, calls for disarmament and the banning of nuclear weapons, and supports the United Nations. It was the first encyclical addressed not only to Catholics but to all people of good will, and it was widely welcomed, influencing the Second Vatican Council and later Catholic social teaching.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

@@ -32,4 +32,4 @@ Gainsborough said he painted portraits for money and landscapes for love. His po
 Gainsborough painted this double portrait around 1750, soon after the wedding of Robert Andrews and Frances Carter in 1748, at their estate, Auberies, near Sudbury. The couple are posed at the left under an oak tree, he standing with his gun and dog, she seated in a blue silk dress. Most of the canvas is given to a wide view of their well-kept fields, with sheaves of corn, sheep and distant woods, a proud display of land ownership and modern agriculture. An unfinished area on Mrs Andrews's lap may have been meant for a book, a bird, or perhaps a future child. The National Gallery bought it in 1960.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

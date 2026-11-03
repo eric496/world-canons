@@ -32,4 +32,4 @@ Pissarro was the patriarch and teacher of Impressionism: generous, open-minded a
 In 1897 Pissarro rented a room in the Grand Hôtel de Russie in Paris overlooking the busy Boulevard Montmartre. From its window he painted a series of views of the boulevard in different weather and at different times of day. This is the only night scene in the series. Wet pavements reflect the yellowish glow of the shop windows and the newly installed electric street lights, while carriages and pedestrians become flickering dabs of paint. It is one of the first great paintings of a city at night. It is in the National Gallery, London.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

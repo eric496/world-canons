@@ -32,4 +32,4 @@ Gutenberg's achievement lay in combining a hand mould for casting uniform metal 
 Gutenberg's workshop in Mainz printed some 180 copies of the Latin Bible, about three-quarters on paper and the rest on vellum, in two large volumes of 1,286 pages, with two columns of usually 42 lines, in a Gothic type imitating the formal script of manuscripts. Production took several years and involved about 300 type designs. A letter by Enea Silvio Piccolomini, later Pope Pius II, reports seeing sheets at Frankfurt in 1454, and the books were finished by 1455. Initials, rubrics and borders were added by hand after printing, so every copy is different. Forty-nine copies, complete or substantial, survive. The Bible demonstrated that printing could match the beauty of the finest manuscripts and opened the age of the printed book, which would transform the spread of religious ideas.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

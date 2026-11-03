@@ -27,4 +27,4 @@ The chapel attributed to him is an octagon surrounded by a sixteen-sided ambulat
 Charlemagne built his palace at Aachen in the 790s, and its chapel, consecrated by Pope Leo III according to tradition in 805, survives as the core of Aachen Cathedral. Attributed to Odo of Metz, it is an octagon of stone covered by a domed vault, surrounded by a sixteen-sided ambulatory and a gallery where the emperor's throne still stands. The design draws on San Vitale in Ravenna but is heavier and more geometric, and Charlemagne brought ancient columns and marble from Rome and Ravenna. Charlemagne was buried there in 814, and for six centuries German kings were crowned on his throne. A Gothic glass choir was added in the fourteenth century. The cathedral was among the first sites inscribed on the UNESCO World Heritage List in 1978.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

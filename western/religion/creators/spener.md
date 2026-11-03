@@ -28,4 +28,4 @@ Pietism emphasised personal conversion, Bible study by lay people, a practical C
 Pia Desideria was first published as a preface to a new edition of the sermons of Johann Arndt, author of True Christianity, and soon issued separately. Spener describes the corruption of the church, among rulers, clergy and people, and expresses hope for better times. He proposes six reforms: more extensive use of scripture, including in small groups; the exercise of the priesthood of all believers; an emphasis on practical Christian life over knowledge; charity in religious controversy; reform of theological education to cultivate piety; and preaching aimed at edification rather than display. The programme gave rise to Pietism in Germany and influenced the Moravians and Methodists.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

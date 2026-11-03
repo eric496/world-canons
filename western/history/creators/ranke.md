@@ -40,4 +40,4 @@ Ranke's Geschichten der romanischen und germanischen Völker von 1494 bis 1514 d
 Die römischen Päpste, ihre Kirche und ihr Staat im sechzehnten und siebzehnten Jahrhundert was based on Ranke's research in Venice, Vienna and Rome, where the Vatican archives were closed to him, so he relied on the reports of Venetian ambassadors and on private collections. It describes the Catholic Reformation and the papacy as a political power during the age of the Reformation and the Counter-Reformation. Though a Lutheran, Ranke wrote without polemic, which was widely admired, though the book was placed on the Catholic Index. Macaulay's essay on it popularised it in England. It is a classic example of Ranke's cool, document-based narrative of states and churches.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

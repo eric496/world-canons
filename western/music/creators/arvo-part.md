@@ -36,4 +36,4 @@ Tabula rasa was written for the violinists Gidon Kremer and Tatiana Grindenko an
 Spiegel im Spiegel (Mirror in the Mirror) was one of Pärt's last works written before he left the Soviet Union. A violin plays slow, simple scale phrases that grow by one note each time, moving alternately up and down from the note A, over a piano accompaniment of rising triads in F major, with deep bass notes and high bell-like notes. The title refers to the infinity of images produced by parallel mirrors. Its calm simplicity has made it one of Pärt's most popular works, used in many films and dance pieces.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

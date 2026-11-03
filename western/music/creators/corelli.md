@@ -31,4 +31,4 @@ Corelli published four collections of trio sonatas, a book of violin sonatas (Op
 Corelli's Op. 6 was published in Amsterdam in 1714, a year after his death, but many of the concertos had been played in Rome for years; the German composer Georg Muffat heard some there in 1682. In the concerto grosso a small group of soloists, two violins and a cello, alternates and blends with the full string orchestra. The first eight concertos follow the serious church sonata style, and the last four the lighter chamber style, with dance movements. No. 8 in G minor, marked 'made for the night of Christmas', ends with a gentle pastorale. The set was reprinted throughout the eighteenth century and became the model for Handel's Op. 6 and countless others.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

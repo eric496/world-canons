@@ -138,4 +138,4 @@ Beethoven had long wanted to set Friedrich Schiller's poem An die Freude, and in
 Beethoven's last five string quartets, written in 1825–26 after the Ninth Symphony, explored new forms and expressive extremes that puzzled contemporaries. The C-sharp minor Quartet, Op. 131, has seven movements played continuously, beginning with a slow, mournful fugue that Wagner called the saddest thing ever expressed in notes. Beethoven is said to have regarded it as his greatest quartet, and Schubert asked to hear it on his deathbed, according to a story told by a friend. A theme and variations forms its centre, and the work ends with a furious finale that recalls the opening fugue. The late quartets have been a source of wonder and study for composers ever since, from Wagner to Bartók and Shostakovich.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

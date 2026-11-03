@@ -32,4 +32,4 @@ His Regola delli cinque ordini d'architettura (1562) reduced the five orders to 
 Cardinal Alessandro Farnese funded the main church of the Society of Jesus, founded by Ignatius of Loyola, and Vignola designed it in 1568. The Jesuits required a church in which large congregations could see the altar and hear sermons. Vignola gave it a single wide barrel-vaulted nave with side chapels instead of aisles, a short transept and a dome over the crossing that lights the altar. After Vignola's death in 1573 Giacomo della Porta completed it with a different façade, two storeys linked by scrolls, which was widely imitated. In the late seventeenth century Giovanni Battista Gaulli painted the ceiling with the Triumph of the Name of Jesus, figures and clouds appearing to burst into the church, and Andrea Pozzo designed the altar of Saint Ignatius. The Gesù became the pattern for Jesuit churches across Europe, Latin America and Asia.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

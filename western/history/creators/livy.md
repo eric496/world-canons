@@ -32,4 +32,4 @@ Livy's history, Ab Urbe Condita, is less a critical investigation than a moral a
 Livy spent some forty years writing a history of Rome 'from the founding of the city', running to 142 books and ending with the death of Augustus' stepson Drusus in 9 BC. Only books 1–10 and 21–45 survive, covering the city's legendary origins to 293 BC and the period from Hannibal's war to the conquest of Macedon in 167 BC; the rest are known through summaries. In his preface Livy invites readers to study the lives and morals that made Rome great and the decline that followed. His stories of Romulus and Remus, Horatius at the bridge, Lucretia, Cincinnatus and Hannibal's crossing of the Alps became the common stock of European culture. Renaissance humanists sought lost books eagerly, Petrarch assembled a text, and Machiavelli built his political philosophy on a commentary on the first ten books.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

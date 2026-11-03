@@ -27,4 +27,4 @@ The Chartres builders defined High Gothic: a three-storey elevation of arcade, t
 Chartres was a great centre of devotion to the Virgin, whose tunic was its chief relic. After a fire in 1194 destroyed most of the earlier church, the cathedral was rebuilt in about twenty-five years around the surviving west façade with its twelfth-century Royal Portal. The new building set the pattern of High Gothic: a nave elevation of arcade, narrow triforium and a clerestory as tall as the arcade, quadripartite vaults and flying buttresses. Some 170 windows preserve most of their original thirteenth-century glass, including the Notre-Dame de la Belle Verrière and three great roses, and thousands of sculpted figures fill the transept portals. The two west spires differ: the south is Romanesque, the north flamboyant Gothic of the early sixteenth century. A UNESCO World Heritage Site, it was cleaned and restored in the 2000s and 2010s.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

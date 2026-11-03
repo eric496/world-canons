@@ -48,4 +48,4 @@ Commissioned by the French royal government and painted in Rome in 1784, this ca
 On 13 July 1793 the radical revolutionary journalist Jean-Paul Marat was stabbed to death in his bath, where he spent hours soaking to soothe a skin disease, by Charlotte Corday, a supporter of the rival Girondin faction. His friend David painted him within months as a martyr of the Revolution. Marat slumps in the bath, his arm hanging down like Christ's in a Deposition, with a quill still in his hand and Corday's deceitful letter in the other. The wooden crate beside him bears the dedication 'À Marat, David'. The upper half of the canvas is empty and dark. Stripped of almost all detail, it is a powerful piece of political propaganda and a deeply moving image. It is now in the Royal Museums of Fine Arts of Belgium in Brussels.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

@@ -28,4 +28,4 @@ Writing year by year in Old English, rather than in Latin, the chroniclers creat
 The Anglo-Saxon Chronicle is a collection of annals in Old English, first compiled in the 890s in Wessex, probably in the circle of King Alfred, drawing on Bede and earlier records. Copies were distributed to monasteries and continued independently, so the nine surviving manuscripts and fragments differ. Entries range from a single sentence to long narratives of Alfred's wars with the Vikings, the reign of Æthelred the Unready and the Norman Conquest. The Peterborough Chronicle, continued until 1154, gives a bitter account of the anarchy of King Stephen's reign. As the first continuous history of a European people written in its own vernacular, it is a key source both for history and for the development of the English language.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

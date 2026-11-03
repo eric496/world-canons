@@ -40,4 +40,4 @@ Asked by Cardinal Haimeric why and how God should be loved, Bernard replies that
 Bernard began these sermons for his monks in 1135 and was still writing them at his death, having reached only the beginning of the third chapter of the Song. Using the poem's language of kisses, longing and union, he describes the soul as the bride of Christ, the Word, and traces the stages of its love, from repentance to contemplation. The sermons were polished literary compositions rather than transcripts, written in rich, rhythmic Latin full of scriptural echoes. They became a major source for later bridal mysticism, including the women mystics of the 13th century, and for devotional language in Catholicism and, through Luther and Calvin who admired Bernard, in Protestantism.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

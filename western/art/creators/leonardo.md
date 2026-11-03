@@ -77,4 +77,4 @@ Leonardo painted the Last Supper around 1495–98 on the end wall of the refecto
 Leonardo began this portrait around 1503 of Lisa Gherardini, wife of the Florentine silk merchant Francesco del Giocondo, which is why it is also called La Gioconda. He never delivered it, kept working on it for years and took it to France, where it entered the royal collection of Francis I. The sitter's famously elusive smile, the soft sfumato shading around her eyes and mouth, her calm folded hands and the hazy imaginary landscape behind her made the painting a model for portraiture. It became world-famous after it was stolen from the Louvre in 1911 by the Italian handyman Vincenzo Peruggia. It was recovered in Florence in 1913, and today millions of visitors see it each year behind protective glass.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

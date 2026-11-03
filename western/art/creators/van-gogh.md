@@ -76,4 +76,4 @@ Van Gogh painted this canvas in June 1889 while a voluntary patient at the asylu
 Van Gogh painted this canvas in July 1890 in Auvers-sur-Oise, in the last weeks of his life. Its unusual double-square format stretches out a field of wheat under a dark, stormy blue sky, with a flock of black crows flying low over the corn. Three paths lead into the field and seem to go nowhere. In a letter he described painting vast fields of wheat under troubled skies and trying to express sadness and extreme loneliness, but also the healthy and strengthening power of the countryside. Despite the legend, it was probably not his last painting. It is in the Van Gogh Museum, Amsterdam.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

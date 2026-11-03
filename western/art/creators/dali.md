@@ -27,4 +27,4 @@ Dalí developed what he called the 'paranoiac-critical method', a way of tapping
 This small painting of 1931, only about 24 by 33 cm, is one of the most famous images of Surrealism. In a dreamlike landscape based on the rocky coast of Cap de Creus near Dalí's home, pocket watches melt and droop over a tree branch, the edge of a table and a strange fleshy creature lying on the ground, which resembles Dalí's own profile with long eyelashes. Ants crawl over a closed orange watch. Dalí said the soft watches were inspired by Camembert cheese melting in the sun. The painting suggests the fluidity and unreliability of time and memory in dreams. It has been in the Museum of Modern Art in New York since 1934.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

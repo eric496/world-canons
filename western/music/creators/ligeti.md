@@ -36,4 +36,4 @@ Ligeti wrote Atmosphères for the Donaueschingen Festival of contemporary music,
 Ligeti set the text of the communion from the Latin requiem mass, Lux aeterna luceat eis, Domine (May eternal light shine upon them, Lord), for sixteen solo voices. Each voice moves in strict canon at slightly different rhythms, so the individual lines blur into a slowly changing cloud of sound in which the words dissolve. The music moves from high women's voices down to low basses and back, giving the impression of light. Like Atmosphères, it was used in 2001: A Space Odyssey, in the scene on the Moon. It is one of the best-known choral works of the late twentieth century.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

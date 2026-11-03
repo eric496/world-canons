@@ -28,4 +28,4 @@ Léonin's organum takes a chant and slows it down so that each note is held as a
 The Magnus liber organi, the Great Book of Organum, was the collection of polyphonic settings of chant for the main feasts of the church year used at Notre-Dame in Paris. The theorist known as Anonymous IV credited its first form to Léonin and its revision to Pérotin. It contained organa for two voices in which a sustained chant underpins a florid upper voice, along with sections in measured discant. The book itself does not survive; its contents are known from three large later manuscripts, the most important now in the Biblioteca Medicea Laurenziana in Florence, each preserving a different stage of revision. The book's rhythmic notation, based on patterns of long and short notes, was one of the first ways of writing rhythm precisely. Together these collections are the starting point of the history of composed polyphony in the West.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

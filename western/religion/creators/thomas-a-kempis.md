@@ -28,4 +28,4 @@ The Imitation of Christ circulated anonymously from about 1418, and its authorsh
 The Imitation of Christ consists of four books of short chapters: counsel for the spiritual life, on the inner life, on inner consolation in the form of a dialogue between Christ and the disciple, and on the sacrament of the eucharist. It urges humility, detachment from the world, self-knowledge and personal devotion to Christ, often in pithy sayings, and is sceptical of learning that does not lead to holiness. It circulated anonymously and was attributed to various authors before scholarly consensus settled on Thomas à Kempis, whose autograph copy of 1441 survives. It has been translated into more languages than almost any other book, and read by figures as different as Ignatius of Loyola, John Wesley and Thomas More.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

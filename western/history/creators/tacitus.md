@@ -72,4 +72,4 @@ The Histories originally covered the years from 69 to the death of Domitian in 9
 The Annals cover the Julio-Claudian emperors from Tiberius to Nero, AD 14 to 68, though the books on Caligula, the early years of Claudius and Nero's last years are lost. Tacitus arranges the narrative year by year in the old republican manner, while showing how real power had passed to the emperor and his household. Famous passages include the treason trials under Tiberius, the death of Germanicus, the revolt of Boudica in Britain, Nero's murder of his mother Agrippina, and the great fire of Rome, after which Nero blamed the Christians, the earliest non-Christian account of their persecution. The surviving books depend on two medieval manuscripts in Florence. Tacitus' irony and moral intensity made the Annals a handbook for critics of tyranny from the Renaissance onward.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

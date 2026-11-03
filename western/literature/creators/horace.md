@@ -31,4 +31,4 @@ Horace's works include the Satires, the Epodes, four books of Odes, two books of
 Horace published three books of Odes in 23 BC and added a fourth around 13 BC. In them he set out to do in Latin what Sappho, Alcaeus and Pindar had done in Greek, adapting their complex metres with unmatched skill. The poems are addressed to friends, lovers, patrons, gods and the emperor, and range from light invitations to drinking parties and love affairs to grand public odes on Rome's moral renewal under Augustus. Their recurrent theme is the brevity of life and the wisdom of enjoying the present moderately, crystallised in the phrase carpe diem, seize the day, from Ode 1.11. Horace ends Book 3 with the boast that he has built a monument more lasting than bronze. The Odes were imitated by Petrarch, Ronsard, Ben Jonson, Marvell and Pope and translated countless times, and they became the model for the classical ode in European poetry.
 
 ---
-[← All authors](../CREATORS.md) · [Literature](../README.md) · [Western canon](../../README.md)
+[← All authors](../CREATORS.md) · [Literature](../README.md) · [The Western Canon](../../README.md)

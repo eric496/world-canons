@@ -32,4 +32,4 @@ Malevich sought the 'supremacy of pure feeling' in art, free from the depiction 
 Malevich first exhibited this painting, a black square on a white ground, at the Last Futurist Exhibition of Paintings 0,10 in Petrograd in December 1915. It hung high in the corner of the room, the place where an icon traditionally hangs in Russian homes. He presented it as the 'zero point' of painting, the beginning of Suprematism, an art of pure feeling free from depicting objects. The paint of the original has cracked badly. In 2015 researchers at the Tretyakov Gallery found two earlier colourful compositions underneath and a handwritten inscription referring to an old joke picture by the French humorist Alphonse Allais. Malevich painted three later versions.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

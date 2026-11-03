@@ -24,4 +24,4 @@ His Quest of the Historical Jesus (1906) reviewed a century of attempts to write
 Originally titled From Reimarus to Wrede, the book reviews German and other scholarship from H. S. Reimarus in the 18th century to William Wrede in 1901, showing how each liberal 'life of Jesus' had made him in the image of its author's ideals. Schweitzer argued that the historical Jesus was dominated by the expectation of the imminent kingdom of God and, when it did not come, went to his death to bring it about, a figure strange to modern people. The book effectively ended the 19th-century quest and set the agenda for later debates on eschatology, and the 'new quest' and 'third quest' of the historical Jesus took up its questions.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

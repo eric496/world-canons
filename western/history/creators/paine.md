@@ -48,4 +48,4 @@ Published anonymously in Philadelphia in January 1776, when most colonists still
 Paine published the first part of Rights of Man in March 1791 in answer to Burke's Reflections. He argued that rights derive from nature, not from inherited institutions, that the living cannot be bound by the dead, and that hereditary government is a form of usurpation. In the second part, published in 1792, he proposed a programme of social reform funded by progressive taxation, including support for the poor, old-age pensions and public education. The work sold widely among artisans and working people, and the British government charged Paine with seditious libel; he was convicted in absence and outlawed. It is a classic of democratic radicalism.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

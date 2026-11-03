@@ -48,4 +48,4 @@ Louis XIV founded the Hôtel des Invalides in 1670 to house disabled and aged so
 Hardouin-Mansart replaced Le Vau's garden terrace with a gallery 73 metres long, completed in 1684. Seventeen arched windows overlooking the gardens are matched on the opposite wall by seventeen arches filled with 357 mirrors, a luxury made in France to compete with Venetian glass. Charles Le Brun painted the vaulted ceiling with thirty scenes glorifying Louis XIV's reign and victories, and the gallery originally held solid silver furniture, melted down in 1689 to pay for war. It was used for daily passage, court festivities and receptions of ambassadors. The German Empire was proclaimed there in 1871, and the Treaty of Versailles was signed there in 1919. A major restoration was completed in 2007.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

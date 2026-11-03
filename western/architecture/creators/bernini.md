@@ -49,4 +49,4 @@ Pope Alexander VII commissioned Bernini to create a square in front of St Peter'
 Cardinal Camillo Pamphilj paid for this church for the Jesuit novitiate on the Quirinal Hill, opposite the papal palace. Bernini set an oval plan across the short axis, so the visitor enters on the long side and faces the altar directly across a short space, with the side chapels arranged around. The interior is clad in dark, richly coloured marble below and white and gold above, where a coffered dome lit from hidden windows rises. Above the altar, a painting of Saint Andrew's martyrdom, lit from a hidden source, is crowned by a sculpture of the saint rising through a broken pediment toward heaven, uniting painting, sculpture and architecture in a single drama. Bernini's son reported that his father sat there in old age, taking pleasure in the work.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

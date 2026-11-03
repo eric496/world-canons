@@ -44,4 +44,4 @@ OMA, led by Rem Koolhaas with Joshua Prince-Ramus, designed Seattle's new centra
 China Central Television commissioned OMA, led by Rem Koolhaas and Ole Scheeren, with the engineers Arup, for its headquarters in Beijing's new business district. Instead of a conventional skyscraper, two leaning towers rise from a common base and join at the top in a cantilevered L-shaped bridge, forming a continuous loop of spaces for the broadcaster's production, offices and services. The irregular diagonal grid on its glass skin expresses the forces in the structure, denser where stresses are greater. Its shape earned it popular nicknames, and a fire in an adjacent building in 2009 delayed its completion. The building was seen as a symbol of China's ambitions before the 2008 Olympics, and its commission for a state broadcaster provoked debate in the West.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

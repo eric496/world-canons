@@ -32,4 +32,4 @@ Canova's marble is famous for its almost luminous smoothness, achieved with spec
 Commissioned in 1787 by the British collector Colonel John Campbell and completed in 1793, this marble group in the Louvre is based on the tale of Cupid and Psyche from Apuleius's Golden Ass. Psyche has opened a forbidden flask and fallen into a deathlike sleep. Cupid descends and revives her with a kiss. The two bodies form an elegant X: her arms rise to encircle his head, and his outspread wings frame the composition. The moment just before the kiss creates a delicate tension. The flawless polish of the marble makes skin appear soft and luminous. A second version is in the Hermitage in St Petersburg.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

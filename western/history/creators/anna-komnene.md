@@ -32,4 +32,4 @@ The Alexiad, written in learned classicising Greek, describes Alexios' struggles
 Anna Komnene wrote the Alexiad in the 1140s, in retirement in a convent in Constantinople, in a learned Greek modelled on classical historians. Its fifteen books tell the story of the reign of her father Alexios I Komnenos from 1081 to 1118: his rise to power, his wars against the Norman Robert Guiscard and his son Bohemond, against the Pechenegs and the Seljuk Turks, and the arrival of the armies of the First Crusade in 1096–97, whose leaders she describes with a mixture of admiration and suspicion. Anna names her sources, including her own memories and old soldiers' accounts, and repeatedly insists on her impartiality while plainly idealising her father. It is a major source for Byzantine history and the crusades, and a landmark of historical writing by a woman.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

@@ -44,4 +44,4 @@ Berg saw Georg Büchner's fragmentary play Woyzeck in Vienna in 1914 and decided
 The American violinist Louis Krasner commissioned a concerto from Berg, but he did not begin work until April 1935, when Manon Gropius, the eighteen-year-old daughter of Alma Mahler and the architect Walter Gropius, died of polio. Berg dedicated it to her memory. Its twelve-tone row is built from a chain of triads and ends with four rising whole-tone notes that coincide with the start of the Bach chorale Es ist genug (It is enough), which Berg quotes in its original harmonisation in the final movement. The concerto also includes a Carinthian folk song. Berg died before its premiere, so it became a requiem for him too.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

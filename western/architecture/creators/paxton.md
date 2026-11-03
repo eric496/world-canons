@@ -28,4 +28,4 @@ The Crystal Palace was assembled from standardised iron columns, girders and pan
 The Great Exhibition of the Works of Industry of All Nations, promoted by Prince Albert, needed a building that could be erected quickly and removed afterwards. Joseph Paxton's design, based on his glasshouses, was accepted in July 1850, and the contractors Fox, Henderson and Co. built it in Hyde Park in about nine months. It was about 563 metres long, made of standardised cast-iron columns and girders, timber and some 300,000 panes of glass, assembled from parts mass-produced off site, with a vaulted transept tall enough to enclose existing elm trees. Six million visitors came to see over 100,000 exhibits. The magazine Punch called it the Crystal Palace. It was rebuilt in enlarged form at Sydenham Hill in south London, where it served as a place of entertainment until it burned down in 1936.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

@@ -55,4 +55,4 @@ After the Second World War the French reconstruction ministry commissioned Le Co
 A pilgrimage chapel on the hill of Bourlémont, near Belfort, was destroyed in the fighting of 1944, and the diocese, encouraged by reformers of religious art, commissioned Le Corbusier to rebuild it. Surprising those who knew his machine-age villas, he created a sculptural building of thick, curved white walls, reusing the rubble of the old chapel, under a dark concrete roof shaped like a hull or a crab shell, raised slightly on hidden posts so a thin band of light separates it from the walls. The south wall is pierced by deep, irregular windows with coloured glass. Three towers bring light down onto side altars, and an outdoor altar and pulpit serve large open-air congregations. Ronchamp's free forms divided modernists and opened the way for expressive architecture. It is part of the UNESCO World Heritage listing of Le Corbusier's works.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

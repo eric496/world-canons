@@ -27,4 +27,4 @@ Smetana drew on Czech dances such as the polka and furiant, on Czech history and
 Smetana composed Má vlast (My Homeland) between 1874 and 1879, mostly after he had gone completely deaf. The six symphonic poems evoke Czech land and myth: Vyšehrad, the castle of the ancient kings in Prague; Vltava, which follows the river from two springs through forests, a peasant wedding and moonlit nymphs to Prague; Šárka, the legend of a warrior maiden; From Bohemia's Woods and Fields; and Tábor and Blaník, about the Hussite warriors of the fifteenth century and their legendary return. The Hussite chorale 'Ye who are warriors of God' unites the last two. Performed complete for the first time in 1882, it became a symbol of Czech identity and opens the Prague Spring festival each year.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

@@ -48,4 +48,4 @@ Lincoln issued a preliminary proclamation after the battle of Antietam in Septem
 Lincoln spoke at the dedication of the national cemetery at Gettysburg, four and a half months after the battle, following a two-hour oration by Edward Everett. In about two minutes he recalled that the nation had been conceived in liberty and dedicated to the proposition that all men are created equal, said that the living could not consecrate the ground that the dead had already hallowed, and called for a new birth of freedom so that government of the people, by the people, for the people shall not perish from the earth. Newspaper reactions divided along party lines. Five manuscript copies in Lincoln's hand survive, which differ slightly; the Bliss copy is the one usually reproduced. The address became one of the most quoted speeches in history.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

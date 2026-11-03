@@ -27,4 +27,4 @@ Rothko rejected being called a colourist or an abstract artist. He said he was i
 In 1964 the art collectors and philanthropists John and Dominique de Menil commissioned Rothko to create paintings for a non-denominational chapel in Houston. He worked on the 14 large canvases from 1964 to 1967 and was closely involved in the design of the octagonal building, although he died before it opened in 1971. The paintings, some single panels and some triptychs, are either black rectangles on deep maroon fields or monochrome purple tones, so dark that they reveal themselves only slowly to the eye. Together they create an atmosphere of meditation for people of all faiths. Barnett Newman's sculpture Broken Obelisk stands on the plaza outside. Several panels were damaged by Hurricane Beryl in 2024 and have been undergoing conservation.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

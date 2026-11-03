@@ -42,4 +42,4 @@ Magritte painted this image in 1929. A carefully drawn pipe, like an image in an
 Magritte painted this self-portrait in 1964 for his friend and patron, the lawyer Harry Torczyner. A man in an overcoat, red tie and bowler hat stands in front of a low wall with the sea and a cloudy sky behind him. His face is almost entirely hidden by a green apple floating in front of it, and only the edge of one eye peeps out. Magritte said that everything we see hides something else, and that we always want to see what is hidden by what we see. The title and the apple suggest Adam and the Fall. It is in a private collection and is one of the most reproduced images of Surrealism.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

@@ -90,4 +90,4 @@ Shocked by the ignorance he found visiting Saxon parishes in 1528, Luther wrote 
 Hidden at the Wartburg castle after the Diet of Worms, Luther translated the New Testament from Erasmus's Greek text in about eleven weeks; the 'September Testament' appeared in 1522, with woodcuts from Lucas Cranach's workshop. With Melanchthon and other colleagues he then translated the Old Testament from Hebrew, and the complete Bible was published by Hans Lufft in 1534. Luther sought vivid, everyday German, famously saying that one should look at 'the mouth' of the mother in the home and the man in the market. His prefaces and some choices, such as adding 'alone' to Romans 3:28, expressed his theology. Hundreds of thousands of copies were sold in his lifetime, and the Luther Bible became a foundation of modern standard German. Revised editions are still used by German Protestants.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

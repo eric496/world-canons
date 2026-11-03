@@ -32,4 +32,4 @@ Artemisia specialised in strong women from the Bible and history: Judith, Susann
 Artemisia painted the story of Judith and Holofernes several times. This version of around 1620, in the Uffizi, was made for the Medici court in Florence and is a reworking of an earlier version now in Naples. Unlike Caravaggio's hesitant Judith, Artemisia's heroine and her maid Abra work together with grim physical determination: the maid pins Holofernes down while Judith braces herself and drives the sword through his neck, and blood spurts in arcs across the white sheets. A bracelet on Judith's arm shows images of the huntress goddess Artemis, perhaps a reference to the painter's own name. Many viewers have read the painting in the light of her own experience of rape and trial, but it is above all a masterpiece of Baroque drama and physical realism.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

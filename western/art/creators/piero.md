@@ -48,4 +48,4 @@ Probably painted in the 1450s for a chapel or priory in Piero's home town of San
 This small panel of around 1455–60, in the Galleria Nazionale delle Marche in Urbino, is one of the most puzzling pictures of the Renaissance. In a classical hall at the left and rear, Christ is tied to a column and whipped while a seated ruler watches. In the right foreground, outside, three large figures stand talking, apparently paying no attention. Their identity has been debated for centuries: theories range from members of the Montefeltro court to an allusion to the fall of Constantinople in 1453. The architecture is built with such exact perspective that scholars have reconstructed its floor plan from the painting.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

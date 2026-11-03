@@ -28,4 +28,4 @@ Calatrava's work merges sculpture, architecture and engineering in white steel a
 After a catastrophic flood in 1957, Valencia diverted the river Turia, and its old bed became a long park. At its south-eastern end the regional government built the City of Arts and Sciences, mostly designed by Santiago Calatrava, a native of the city. Its buildings include the Hemisfèric (1998), a planetarium and IMAX cinema like a great eye with a moving lid, the Science Museum, with its rib-like structure, the Umbracle, a landscaped walkway, the Ágora, and the Palau de les Arts Reina Sofía (2005), an opera house under a huge feather-like crest, set among shallow pools. The oceanographic park was designed by Félix Candela. The complex became a symbol of Valencia and a tourist attraction, but its cost overruns and maintenance problems, such as the loss of mosaic tiles from the opera house, have been widely criticised.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

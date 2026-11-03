@@ -139,4 +139,4 @@ Drama and splendour in art, architecture and music; Galileo, Kepler and Newton r
 - 1689 · **Bill of Rights 1689**, [Parliament of England](../history/creators/parliament-of-england.md)
 
 ---
-[← The Renaissance](renaissance.md) · [Western canon](../README.md) · [The Enlightenment →](enlightenment.md)
+[← The Renaissance](renaissance.md) · [The Western Canon](../README.md) · [The Enlightenment →](enlightenment.md)

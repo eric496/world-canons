@@ -28,4 +28,4 @@ Julian wrote a short account of her visions and later a much longer one, which t
 Julian wrote a Short Text soon after her visions of May 1373 and, over some twenty years of reflection, a Long Text of eighty-six chapters. She describes seeing Christ's bleeding head and a small thing 'the quantity of an hazelnut' in her palm, which God told her is all that is made, kept in being by his love. She develops a theology of divine love that speaks of Jesus as our mother, of sin as having 'no manner of substance', and of the parable of a lord and servant explaining the fall. She records Christ's words that all shall be well, and all manner of thing shall be well. The Short Text survives in one manuscript and the Long Text in three later copies. Rediscovered in the 20th century, the book quoted by T. S. Eliot in Four Quartets, it is now one of the most read works of medieval spirituality.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

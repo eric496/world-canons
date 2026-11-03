@@ -32,4 +32,4 @@ Asked by the Empress Eugénie what style his design was, Garnier is said to have
 The opera house was a centrepiece of Baron Haussmann's rebuilding of Paris under Napoleon III. Charles Garnier, aged thirty-five, won the competition of 1861 from over 170 entrants. Construction was slowed by an underground water table, which was contained by a vast concrete tank, later the inspiration for the lake in Gaston Leroux's The Phantom of the Opera, and by the war of 1870–71 and the Commune, and the house opened in 1875. Each function has its own volume: the façade and loggia, the grand staircase and foyers, the horseshoe auditorium under a dome, and the huge stage house. Inside, coloured marbles, onyx, gilding, mosaics, mirrors and sculpture create a theatre of society in which the audience is on display. Marc Chagall painted a new auditorium ceiling in 1964. It remains a home of the Paris Opera Ballet.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

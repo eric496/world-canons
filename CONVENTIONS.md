@@ -90,3 +90,9 @@ Wikimedia throttles our network address. `wm.py` shares one global throttle and 
 ## Checking your work
 
 Run `python3 scripts/build.py --check`. It prints a warning for every unknown id, missing description or unregistered image. Aim for zero warnings in your section.
+
+## Non-Western traditions
+
+- **Names:** use the standard English romanization (pinyin for Chinese, Hepburn with macrons for Japanese, Revised Romanization for Korean, IAST for Sanskrit, and so on) in `name`. Put the original script in an optional `name_native` field, for example `"name_native": "李白"`. Movements can carry `name_native` too.
+- **Dates and names:** give family name first where that is the convention (Li Bai, Katsushika Hokusai). Write dynasty and era names the standard way (Tang, Edo, Joseon).
+- **People ids are global.** Someone who already exists in another tradition keeps the same id. For example, `avicenna` in Western science stays `avicenna` in the Islamic tradition.

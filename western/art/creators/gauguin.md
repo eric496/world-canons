@@ -48,4 +48,4 @@ Painted in Pont-Aven in 1888, this is one of the founding works of Symbolism and
 Gauguin painted this huge frieze, nearly four metres wide, in Tahiti in 1897–98, during a period of illness, poverty and grief after the death of his daughter Aline. He considered it his testament. It is meant to be read from right to left: a sleeping baby and young women at the right represent the beginning of life; a central figure picking fruit represents adult life and experience; and an old woman crouched in despair at the far left represents the approach of death. A mysterious blue idol presides in the background. In his letters, Gauguin said he attempted suicide after finishing it. It is in the Museum of Fine Arts, Boston.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

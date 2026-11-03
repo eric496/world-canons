@@ -28,4 +28,4 @@ His lasting influence came from his treatise, the Canon. It set out a system of 
 The Doryphoros is generally identified as the statue Polykleitos made to demonstrate his Canon of ideal proportions. The bronze original is lost. The most complete Roman marble copy was found at Pompeii and is now in Naples. A powerfully built young man walks forward with his weight on his right leg. His relaxed left leg trails behind, his hips and shoulders tilt in opposite directions, and his left arm once held a spear over the shoulder. This balance of tense and relaxed limbs, called contrapposto or chiasmus, makes the figure look alive and poised even at rest. It became the model for countless later statues, from Roman emperors to Michelangelo's David.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

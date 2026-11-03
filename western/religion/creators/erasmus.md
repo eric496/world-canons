@@ -48,4 +48,4 @@ Written, according to Erasmus, for the wife of a soldier who wanted her husband 
 Erasmus prepared his edition hastily from a handful of late Greek manuscripts available in Basel, printing the Greek beside his own fresh Latin translation, which departed from the Vulgate, with extensive annotations. For the end of Revelation, missing in his only manuscript, he translated the Latin back into Greek. Published by Froben in March 1516, it beat to publication the Complutensian Polyglot, printed earlier in Spain but released only in 1522. Revised editions followed in 1519, 1522, 1527 and 1535; the third added the 'Johannine Comma' on the Trinity (1 John 5:7) under pressure from critics, after a manuscript containing it was produced. Luther used the second edition for his German New Testament, and Tyndale used it for his English one. Its text, refined by later editors, became the Textus Receptus underlying the King James Version.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

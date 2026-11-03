@@ -54,4 +54,4 @@ The first scrolls were found in 1946–47 by Bedouin shepherds in a cave near Kh
 The best-preserved copy of the Community Rule, from Qumran Cave 1, was among the first scrolls discovered; further copies from Cave 4 show that the text developed over time. It describes how members entered a covenant, surrendered property to the community, passed through stages of probation, shared meals and study, and were punished for offences such as speaking against fellow members. A famous section, the Treatise on the Two Spirits, teaches that humanity is divided between a spirit of truth and a spirit of falsehood until God's final visitation. The text's parallels with ancient descriptions of the Essenes underlie the common identification of the Qumran group with them. Scholars have also compared its practices with those of the early Christian community in Acts, though direct links are not established.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

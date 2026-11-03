@@ -27,4 +27,4 @@ O'Keeffe is one of the founding figures of American modernism. Her close-up flow
 O'Keeffe painted this canvas in 1932. It shows a single white jimson weed (datura) blossom, a flower that grows around her home in New Mexico and opens at dusk. She enlarged the flower to fill the canvas, so that its petals become an almost abstract form against a soft blue-grey and green background. She said she painted flowers big so that busy people would take time to see them. In 2014 it sold at auction for $44.4 million, a record for a work by a woman artist at the time, and it went to the Crystal Bridges Museum of American Art in Bentonville, Arkansas.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

@@ -36,4 +36,4 @@ Natalia Sats, director of the Central Children's Theatre in Moscow, commissioned
 Prokofiev wrote Romeo and Juliet for the Kirov in Leningrad and then the Bolshoi in Moscow, but the theatres rejected it as undanceable, and an early version with a happy ending caused controversy. It was finally staged in Brno in Czechoslovakia in 1938, and in Leningrad in 1940, choreographed by Leonid Lavrovsky, with Galina Ulanova as Juliet. The score portrays the characters vividly, from the menacing Dance of the Knights of the Montagues and Capulets to the tender music of Juliet as a young girl and the tragic final scenes. The concert suites Prokofiev extracted helped it gain popularity. It is now one of the most performed full-length ballets.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

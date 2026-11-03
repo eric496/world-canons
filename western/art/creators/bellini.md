@@ -32,4 +32,4 @@ Bellini was among the first Venetians to master oil paint. He used it to create 
 Painted around 1475–80 and now in the Frick Collection, New York, this panel shows St Francis of Assisi stepping out of his rocky cell. He stands barefoot with his arms spread and face lifted towards a radiant light at the upper left. Whether Bellini meant the moment he received the stigmata or simply an ecstatic hymn to Creation is debated. The landscape is observed with extraordinary care: a donkey, a heron, a rabbit peering from a hole, layered rocks, a walled town and distant blue hills. Everything is bathed in warm, golden light, and nature itself seems to share in the saint's spiritual experience.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

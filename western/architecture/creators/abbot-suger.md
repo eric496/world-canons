@@ -32,4 +32,4 @@ Suger was a patron rather than a mason, and the name of his master builder is un
 The royal abbey of Saint-Denis held the relics of the patron saint of France and the tombs of its kings. Abbot Suger rebuilt the west end around 1135–40 with a façade of three portals and twin towers and a rose window, and then a new choir, consecrated in 1144 before the king and many bishops. In the choir, an anonymous master combined pointed arches, rib vaults and slender columns to create a double ambulatory with radiating chapels whose walls are almost entirely stained glass, so that the whole east end shines with what Suger called uninterrupted light. The nave and transept were rebuilt in the Rayonnant style from 1231. The tombs were desecrated during the Revolution and later restored. Saint-Denis became a cathedral in 1966.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

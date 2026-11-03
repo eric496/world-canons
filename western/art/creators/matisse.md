@@ -44,4 +44,4 @@ Matisse painted this portrait of his wife, Amélie, in 1905. She wears an elabor
 In 1909 the Moscow textile magnate Sergei Shchukin commissioned two large decorative panels, Dance and Music, for the staircase of his mansion. In Dance, completed in 1910, five red nude figures dance hand in hand in a circle on a green hill against a deep blue sky. The image is reduced to three colours and simplified, rhythmic outlines that seem to pulse with energy, recalling ancient vase painting and folk dances. When it was shown at the Paris Salon d'Automne in 1910, it was widely mocked. After the Russian Revolution Shchukin's collection was nationalised, and Dance is now in the Hermitage in St Petersburg. A preparatory version, Dance (I), is in the Museum of Modern Art, New York.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

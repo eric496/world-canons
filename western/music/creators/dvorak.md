@@ -31,4 +31,4 @@ Dvořák's music combines Classical forms, learned partly from Brahms, with Czec
 Dvořák wrote the New World Symphony in New York in the first months of 1893, while directing the National Conservatory, and its premiere at Carnegie Hall was a triumph. He said he had studied African American and Native American melodies and tried to write in their spirit, though all the themes are his own; how far its idioms are American or Czech has been debated ever since. The slow movement's melody for the cor anglais was later turned into the song Goin' Home by one of his students. The finale recalls themes from all the earlier movements. Neil Armstrong reportedly took a recording to the Moon in 1969. It is one of the most popular symphonies in the world.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

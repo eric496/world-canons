@@ -48,4 +48,4 @@ Bruegel painted the Tower of Babel at least three times. This large panel of 156
 This 1565 painting belongs to a series of six showing the times of the year, made for the Antwerp merchant Nicolaes Jongelinck. Five survive, three of them in Vienna. Weary hunters trudge back to their village with their hounds and only a single fox to show for their efforts. A sign hangs askew outside an inn where peasants are singeing a pig over a fire. Below, villagers skate and play on frozen ponds, and the landscape stretches out to jagged Alpine peaks under a cold greenish sky. Crows perch on bare trees. The painting captures the mood of a whole season, and it was painted during one of the harshest winters of the 'Little Ice Age'.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

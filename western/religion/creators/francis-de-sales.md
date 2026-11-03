@@ -28,4 +28,4 @@ His Introduction to the Devout Life (1609) and Treatise on the Love of God (1616
 The Introduction grew from letters of spiritual direction Francis de Sales wrote to Madame de Charmoisy, a relative by marriage. Addressed to 'Philothea', it argues that devotion is possible and necessary for people of every condition, the soldier, the craftsman, the courtier and the married woman, not only for monks and nuns. In five parts it guides the reader from a resolution to amend her life, through prayer and the sacraments, the practice of virtues, and resisting temptations, to an annual renewal of resolutions. Its gentle, gracious style made it popular across Europe; it went through many editions in his lifetime and has been translated into many languages.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

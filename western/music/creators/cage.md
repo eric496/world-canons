@@ -36,4 +36,4 @@ Cage invented the prepared piano in 1940 in Seattle, when he needed a percussion
 In 4′33″ the performer or performers are instructed not to play their instruments for the duration of the piece, divided into three movements. At the premiere the pianist David Tudor sat at the piano, closed the lid to mark the start of each movement and opened it at the end, while the audience heard the wind, rain on the roof and their own murmurs. Cage was inspired by Zen Buddhism, by Robert Rauschenberg's all-white paintings and by his visit to an anechoic chamber at Harvard, where he heard sounds of his own body and concluded that there is no such thing as silence. The piece is about listening to the sounds of the environment as music. It was mocked and celebrated in equal measure and is one of the most discussed works of the twentieth century.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

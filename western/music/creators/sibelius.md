@@ -44,4 +44,4 @@ Finlandia originated in 1899 as the final piece in music for a series of tableau
 Sibelius wrote his Fifth Symphony for celebrations of his fiftieth birthday in 1915 during the First World War, then revised it twice; the final version of 1919 has three movements instead of four. In April 1915 he wrote in his diary of seeing sixteen swans circling above him, one of the greatest experiences of his life. Their motion inspired the great theme of the finale, a swinging, bell-like idea in the horns, which he called the swan hymn. The first movement fuses a slow movement and a scherzo, accelerating continuously; the symphony ends with six widely spaced chords separated by silence. It is the most popular of his symphonies.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

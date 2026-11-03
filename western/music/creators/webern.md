@@ -27,4 +27,4 @@ Webern's complete numbered works can be heard in a few hours. His pieces are tin
 Webern's Symphony is scored for a small ensemble of clarinet, bass clarinet, two horns, harp and strings, and lasts only about ten minutes. Its twelve-tone row is a palindrome: its second half is a reverse of the first. The first movement consists of double canons in mirror form, and the second is a theme with seven variations that is itself symmetrical around its centre. The notes are scattered between instruments in sparse points of sound, a style sometimes called pointillism. When performed in New York in 1929, it baffled the audience. After 1945, young composers such as Boulez and Stockhausen took it as a model for total serialism.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

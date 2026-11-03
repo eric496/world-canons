@@ -48,4 +48,4 @@ Western music from the chant of medieval monasteries to the minimalism of the la
 - **Listening.** No recording links are given, as availability changes; most of these works are easy to find on public radio archives and streaming services.
 
 ---
-[← Western canon](../README.md) · [All people](../PEOPLE.md) · [Western timeline](../TIMELINE.md)
+[← The Western Canon](../README.md) · [All people](../PEOPLE.md) · [Timeline](../TIMELINE.md)

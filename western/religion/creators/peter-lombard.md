@@ -32,4 +32,4 @@ His Sentences, completed around 1158, gathered quotations from scripture and the
 The Sentences arranges quotations, mainly from Augustine but also from other Fathers, under four headings: God and the Trinity; creation and sin; the incarnation and the virtues; and the sacraments and the last things. Where authorities seem to disagree, Peter offers his own resolutions. After the Fourth Lateran Council endorsed his teaching on the Trinity in 1215, the Sentences became the core of the theology curriculum: Alexander of Hales introduced lectures on it at Paris in the 1220s, and commenting on it became a stage in every theologian's career. Thousands of commentaries survive, and it was only displaced by Aquinas's Summa in the 16th century.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

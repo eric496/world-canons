@@ -28,4 +28,4 @@ Since the nineteenth century he has often been named as the architect of Louis I
 King Louis IX built the Sainte-Chapelle within the royal palace in Paris to house the Crown of Thorns and other Passion relics he had bought from the Latin emperor of Constantinople. It was consecrated in 1248. A lower chapel served the palace staff; the upper chapel, for the king, is a single vessel in which the walls are reduced to slender piers between fifteen windows about fifteen metres tall, showing over a thousand scenes from the Bible culminating in the story of the relics. Iron bars and chains concealed in the masonry help stabilise the structure. The chapel is traditionally, but not certainly, attributed to Pierre de Montreuil. The relics were dispersed in the Revolution, and the chapel was extensively restored in the nineteenth century; about two thirds of the glass is original.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

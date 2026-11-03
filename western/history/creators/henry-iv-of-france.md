@@ -32,4 +32,4 @@ Henry's Edict of Nantes of 1598 was a pragmatic settlement that allowed limited 
 Henry IV signed the Edict of Nantes in April 1598, after more than three decades of civil war between Catholics and Protestants. It confirmed Catholicism as the state religion but granted the Huguenots freedom of conscience, the right to worship publicly in specified places, access to public office and the universities, special courts, and, in separate articles, the right to hold around a hundred fortified towns. It was a pragmatic compromise rather than a declaration of religious liberty, and it was resented by many Catholics. Louis XIII removed the Protestants' military privileges after the siege of La Rochelle, and Louis XIV revoked the edict entirely in 1685, driving some 200,000 Huguenots into exile across Europe and America.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

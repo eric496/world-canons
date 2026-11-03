@@ -32,4 +32,4 @@ Delacroix championed colour, movement and passionate feeling over the line-based
 This painting commemorates the July Revolution of 27–29 July 1830, the 'Three Glorious Days' in which Parisians overthrew King Charles X. Over a barricade of rubble and corpses, a bare-breasted woman, the personification of Liberty in a red Phrygian cap, holds aloft the tricolour flag and a musket and urges the people forward. Around her are a man in a top hat, possibly Delacroix himself, a worker with a sabre and a boy brandishing two pistols. The French state bought it in 1831, but it was soon hidden away as too inflammatory. Today it is a national symbol, used on the 100-franc banknote and in countless political images. It is in the Louvre, which restored it in 2023–24, revealing its original colours.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

@@ -35,4 +35,4 @@ In the preface to Alceste Gluck explained his aim of making music serve the poet
 Gluck's Orfeo, with a libretto by Ranieri de' Calzabigi, retells the myth of Orpheus and Eurydice in a simple, concentrated form with only three singers and a chorus. The title role was written for the alto castrato Gaetano Guadagni. In place of long da capo arias and showy ornamentation, Gluck used orchestrally accompanied recitative, choruses, dances and simple, expressive airs. The scene in which Orpheus calms the Furies at the gates of Hades and the Dance of the Blessed Spirits are famous. The opera ends happily, as Amor restores Eurydice. Gluck revised it for Paris in 1774, for a high tenor, and in 1859 Berlioz prepared an influential edition for the mezzo-soprano Pauline Viardot. Che farò senza Euridice is one of the most famous arias of the eighteenth century.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

@@ -27,4 +27,4 @@ Their solution, a vast dome on pendentives over a square bay, buttressed by half
 After the Nika riots burned the previous church in 532, the emperor Justinian had Hagia Sophia, the church of Holy Wisdom, rebuilt in less than six years under the mathematicians Anthemius of Tralles and Isidore of Miletus. They combined a basilica with a centralised plan: a dome about 31 metres across rises on four pendentives, curved triangles that turn a square into a circle, and is extended east and west by half-domes so that the nave forms one enormous space. A ring of forty windows at the base makes the dome seem to float on light, and the interior was clad in coloured marble and gold mosaic. The first dome fell in 558 and was rebuilt higher. For nearly a thousand years the cathedral of Constantinople, it became a mosque after the Ottoman conquest in 1453, with minarets added, a museum in 1934 and a mosque again in 2020. It inspired Ottoman architects such as Sinan.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

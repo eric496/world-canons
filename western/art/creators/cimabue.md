@@ -32,4 +32,4 @@ Cimabue still worked within the Byzantine 'Greek manner', with gold grounds and 
 This towering altarpiece, more than 3.8 metres high, was painted for the church of Santa Trinita in Florence. The Virgin sits enthroned with the Christ Child, surrounded by eight angels stacked up either side of the throne. Below, four Old Testament prophets look out from arches under the throne. The gold ground and stylised features follow Byzantine tradition. Cimabue gives the throne a sense of depth, the faces gentle individual expressions and the composition a new monumental structure. In the Uffizi it hangs in the same room as Duccio's Rucellai Madonna and Giotto's Ognissanti Madonna, so visitors can see the change from Byzantine to early Renaissance painting side by side.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

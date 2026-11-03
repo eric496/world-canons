@@ -35,4 +35,4 @@ With the librettist Philippe Quinault, Lully created the tragédie en musique, a
 Armide is based on Tasso's epic Jerusalem Delivered and tells of the sorceress Armide, who captures the crusader knight Renaud intending to kill him but falls in love with him instead. When he is rescued and leaves her, she destroys her enchanted palace in despair. Its libretto is by Philippe Quinault, and it was the last of their tragédies en musique. Armide's monologue Enfin il est en ma puissance, in which she hesitates over the sleeping Renaud, was admired by Rameau and Rousseau for the way recitative follows French speech. The work includes celebrated dances, such as a passacaille. Gluck later set the same libretto in 1777, a sign of its prestige.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

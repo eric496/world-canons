@@ -44,4 +44,4 @@ The Metropolitan Cathedral was one of the first buildings of Brazil's new capita
 At the end of the Monumental Axis of Brasília, in the Square of the Three Powers, Niemeyer designed the National Congress as a horizontal platform carrying two contrasting bowls: an upturned dome over the Senate and an open, upturned saucer over the larger Chamber of Deputies, expressing the more reflective and the more open houses of parliament. Between them rise twin 28-storey office towers joined by a bridge, forming an H that has been read as standing for humanity. The building was inaugurated with the city on 21 April 1960. Its clean geometry against the sky became the symbol of Brazilian modernism and of Kubitschek's developmental optimism, and its ramps and roof have been the scene of political demonstrations, including the storming of 8 January 2023.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

@@ -32,4 +32,4 @@ At Christmas 1085, at Gloucester, William ordered a survey of the landholdings a
 At Christmas 1085 William ordered commissioners to survey every shire in England, recording who held each estate before and after the Conquest, how many ploughs, people, mills, woods and animals it contained, and what it was worth. The returns were compiled in 1086 into two volumes, Great Domesday and Little Domesday, covering most of England, though not London, Winchester or the far north. The name Domesday, meaning day of judgement, was given later because its verdicts could not be appealed. It shows the near-total replacement of the English landholding class by Normans. It was used as legal evidence for centuries and is still consulted by historians, geographers and place-name scholars; it is kept at the National Archives in Kew.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

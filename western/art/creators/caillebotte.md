@@ -48,4 +48,4 @@ In this painting of 1875, three shirtless workmen kneel on the floor of an elega
 This large painting, shown at the third Impressionist exhibition in 1877 and now in the Art Institute of Chicago, depicts an intersection in the new Paris quartier de l'Europe, near the Gare Saint-Lazare. Elegantly dressed pedestrians carry umbrellas across the wet, shiny cobblestones, while Haussmann's uniform cream-coloured apartment buildings recede in a steep perspective. A green lamp post divides the composition in two. A fashionable couple walks towards us at the right, and their figures are sharply cut off by the picture's edge, almost like a photograph. The painting captures the modern experience of the city: anonymous, orderly and isolating.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

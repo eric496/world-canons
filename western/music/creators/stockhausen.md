@@ -24,4 +24,4 @@ Stockhausen applied serial organisation to all aspects of sound, combined electr
 Stockhausen produced Gesang der Jünglinge (Song of the Youths) at the electronic music studio of West German Radio in Cologne. It is based on the Song of the Three Holy Children from the Book of Daniel, who praise God in the fiery furnace. Stockhausen recorded a boy singing the text and combined it with electronically generated sounds, from pure sine tones to noise, aiming for a continuum between vocal and electronic sound, with the words sometimes intelligible and sometimes broken into sounds. It was originally composed for five groups of loudspeakers surrounding the audience, an early experiment in spatial sound. It is regarded as one of the first masterpieces of electronic music.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

@@ -40,4 +40,4 @@ Teresa wrote her Life at the request of her confessors, who wanted to test the a
 Written in 1577 at the request of her superiors, The Interior Castle (also called The Mansions) uses the image of a castle made of a single diamond or crystal, with many rooms grouped into seven dwelling places. The soul enters through prayer and moves inward through stages of self-knowledge, struggle, the 'prayer of quiet', and the experiences of mystical union that Teresa compares to a silkworm becoming a butterfly, culminating in 'spiritual marriage' with God in the innermost room. She combines lofty experience with practical advice and humour addressed to her nuns. It is considered her masterpiece and a classic of Christian mysticism and of Spanish prose.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

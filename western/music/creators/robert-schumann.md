@@ -48,4 +48,4 @@ Schumann wrote Kinderszenen (Scenes from Childhood) in 1838, telling Clara that 
 Schumann wrote Dichterliebe (A Poet's Love) in a single week in May 1840, his 'year of song', when he finally won the legal battle to marry Clara Wieck. It sets sixteen poems from Heinrich Heine's Lyrisches Intermezzo. The cycle moves from the first song, in which love blossoms in the lovely month of May, through dreams, tears and bitter irony, to a final song in which the poet buries his love in a huge coffin. The opening song, which hovers without a firm key and ends on an unresolved chord, is famous. The piano has its own voice, with long postludes that comment on and complete the songs. Dichterliebe is one of the central song cycles of the repertoire.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

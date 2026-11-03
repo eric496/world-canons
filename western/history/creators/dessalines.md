@@ -32,4 +32,4 @@ Haiti became the first independent nation in Latin America and the first state f
 On 1 January 1804, at Gonaïves, Jean-Jacques Dessalines proclaimed the independence of the former French colony of Saint-Domingue under the Taíno name Haiti. The declaration, written by his secretary Louis Boisrond-Tonnerre, addresses the people of Haiti and urges them to renounce France forever and to defend their liberty to the death, recalling the cruelty of French rule and of Napoleon's attempt to restore slavery. It followed thirteen years of revolution that began with the slave uprising of 1791. Haiti became the second independent republic in the Americas and the first in Latin America, but France and other powers were slow to recognise it, and in 1825 France imposed a crippling indemnity. In 2010 the historian Julia Gaffield found a printed copy of the declaration in the British National Archives, the only known original printing.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

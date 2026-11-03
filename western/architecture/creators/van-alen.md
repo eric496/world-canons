@@ -28,4 +28,4 @@ Van Alen rejected historical styles for an architecture of modern materials and 
 Built for the automobile magnate Walter P. Chrysler, the building rose during the race for the tallest skyscraper in New York. To beat 40 Wall Street, Van Alen had a 38-metre spire assembled secretly inside the crown and raised into place in about ninety minutes in October 1929, bringing the height to 319 metres. It was the tallest building in the world for eleven months, until the Empire State Building. Its terraced crown of stainless-steel arches with triangular windows, its eagle-head gargoyles and its brickwork frieze of hubcaps celebrate the car and the machine age. The triangular lobby, with marble, chrome and a ceiling mural on the theme of transport, is one of the great Art Deco interiors.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

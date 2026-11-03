@@ -40,4 +40,4 @@ The Secret History, whose Greek title Anekdota means 'unpublished things', was w
 The Wars recount the campaigns of the emperor Justinian, mostly led by Belisarius, in three parts: against the Sasanian Persians in the east, against the Vandal kingdom in North Africa, and against the Ostrogoths in Italy, followed by an eighth book bringing events up to 553. Procopius, writing in classicising Greek modelled on Herodotus and Thucydides, was present at many of the events as Belisarius' secretary. The work includes a famous description of the Nika riots of 532, in which Theodora is said to have persuaded Justinian not to flee, and the first clear account of the bubonic plague that struck Constantinople in 542. It is the principal narrative source for the age of Justinian.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

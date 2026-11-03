@@ -28,4 +28,4 @@ Graves's architecture uses simplified columns, keystones and garlands in pastel 
 The city of Portland held a design competition for a fifteen-storey municipal office building on a modest budget, judged with Philip Johnson as adviser, and Michael Graves won. On a square block he painted and applied a giant classical vocabulary: huge tapering pilasters on the façades, a stylised keystone, garlands, and colours of terracotta, blue and cream, with small square windows. Above the entrance stands Portlandia, a large copper statue by Raymond Kaskey. The building was celebrated as a turning point away from modernism and criticised for its cramped, dark interiors and leaking walls. It was listed on the National Register of Historic Places in 2011 and was extensively rebuilt between 2017 and 2020, preserving its appearance.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

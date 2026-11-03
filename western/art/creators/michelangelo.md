@@ -77,4 +77,4 @@ Pope Julius II persuaded a reluctant Michelangelo, who considered himself a scul
 More than twenty years after the ceiling, Michelangelo returned to the Sistine Chapel to paint the entire altar wall (1536–41) for Pope Paul III. A powerful, beardless Christ raises his arm in judgement at the centre of a swirling vortex of more than 300 figures. The saved rise towards heaven on the left, and the damned are dragged down to hell on the right, where Charon beats them from his boat. St Bartholomew holds his own flayed skin, whose sagging face is generally read as Michelangelo's self-portrait. The many nudes provoked fierce criticism, and after his death the painter Daniele da Volterra was hired to paint drapery over the genitals, earning the nickname 'Il Braghettone' ('the breeches-maker').
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

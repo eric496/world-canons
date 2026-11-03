@@ -28,4 +28,4 @@ Valla's treatise on the Donation of Constantine (1440) showed by historical and 
 The Donation of Constantine purported to be a decree by which the emperor Constantine, grateful for his cure from leprosy, handed authority over Rome and the western empire to Pope Sylvester I. It had been used to support papal claims since the eleventh century, although its authenticity had been doubted before. Writing in 1440 for his patron Alfonso of Aragon, then at odds with the pope, Valla showed that its Latin contained words and forms unknown in the fourth century, that it contradicted known history, and that no contemporary source mentioned it. The forgery is now generally dated to the eighth century. The treatise circulated in manuscript and was printed by Protestant reformers in the sixteenth century. It is a landmark in the development of historical criticism of sources.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

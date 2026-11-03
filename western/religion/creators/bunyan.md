@@ -48,4 +48,4 @@ Written in prison and published in 1666, Grace Abounding tells Bunyan's story as
 Bunyan began The Pilgrim's Progress during his imprisonment in Bedford gaol. The narrator dreams of a man called Christian, burdened with sin, who leaves the City of Destruction for the Celestial City. On the way he loses his burden at the cross, passes through the Slough of Despond, Vanity Fair, where his companion Faithful is martyred, and Doubting Castle, kept by Giant Despair, and meets characters such as Evangelist, Mr Worldly Wiseman and Hopeful, before crossing the river of death. The second part, of 1684, follows his wife Christiana and their children. Written in plain, vivid prose drawing on the Bible and popular storytelling, it was an immediate success and has been translated into some two hundred languages, carried worldwide by missionaries. It has been called one of the first English novels and influenced writers from Defoe to Thackeray and Louisa May Alcott.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

@@ -99,4 +99,4 @@ Hadrian, the most architecturally minded of Roman emperors and possibly involved
 The Baths of Caracalla, built under the emperors Septimius Severus and Caracalla, were among the largest public baths of Rome, used by several thousand people at a time. A central bathing block, with a cold-water hall, a warm room and a circular hot room, the caldarium, under a great dome, stood within a precinct of gardens, libraries and exercise areas. Behind the scenes, furnaces, aqueduct-fed cisterns and underground passages for slaves heated and supplied the complex. The baths functioned until the Gothic siege of 537 cut the aqueducts. Their immense brick-faced concrete ruins influenced Renaissance and modern architects; the waiting hall of New York's demolished Pennsylvania Station was modelled on them. Operas are performed in the ruins in summer.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

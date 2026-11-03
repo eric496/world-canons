@@ -32,4 +32,4 @@ Tyndale's translations, made directly from Hebrew and Greek, were absorbed into 
 Tyndale's first attempt to print his New Testament in Cologne in 1525 was interrupted by a raid, and only a fragment of that edition survives. The first complete edition was printed in Worms in 1526 in a small octavo format, and about 3,000 copies were smuggled into England, where Bishop Cuthbert Tunstall bought and burned copies at St Paul's Cross. Only three copies of the 1526 edition are known today. Tyndale went on to translate the Pentateuch (1530), Jonah and a revised New Testament (1534). His clear and rhythmic English, with phrases such as 'the salt of the earth' and 'fight the good fight', passed largely into the Great Bible, the Geneva Bible and the King James Version.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

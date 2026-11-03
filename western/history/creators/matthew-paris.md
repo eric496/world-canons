@@ -32,4 +32,4 @@ His Chronica Majora is a vast history of the world from the Creation, becoming r
 The Chronica Majora begins with the Creation, taking over the chronicle of Roger of Wendover, and from 1236 becomes Matthew Paris's own detailed record of events across Europe and the Mediterranean up to 1259: the reign of Henry III, the conflict between the emperor Frederick II and the papacy, the Mongol invasions and the crusades. Matthew copied many documents into it and wrote outspokenly against royal and papal taxation. Unusually for a chronicler, he illustrated the manuscripts himself with tinted drawings in the margins, including battles, coats of arms, an elephant presented to Henry III and the Mongols, and he made itineraries and maps. The autograph volumes survive at Corpus Christi College, Cambridge, and in the British Library.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

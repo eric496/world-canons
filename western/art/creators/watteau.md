@@ -32,4 +32,4 @@ Watteau invented a new genre, the fête galante: elegant men and women in silks 
 This is the painting Watteau submitted to the Royal Academy in 1717. Its theme did not fit any existing category, so the Academy created a new one for him: the fête galante. Elegant couples, guided by flying cupids, are on the island of Cythera, sacred to Venus, whose garlanded statue stands at right. From right to left the couples seem to pass through the stages of courtship: being persuaded, rising and finally heading down to a golden boat. Scholars debate whether they are arriving or reluctantly leaving the island of love. The hazy landscape and gentle melancholy make it the key image of the Rococo. Watteau painted a second version, now in Berlin.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

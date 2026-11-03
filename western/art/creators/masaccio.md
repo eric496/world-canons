@@ -48,4 +48,4 @@ This fresco in the Brancacci Chapel tells the story from Matthew's Gospel in whi
 Painted on a wall of Santa Maria Novella around 1427, the Holy Trinity creates the illusion of a deep chapel opening into the church. It has a coffered barrel vault and classical columns that closely follow Brunelleschi's architecture, and it is among the earliest paintings constructed with mathematically correct perspective. God the Father stands behind the crucified Christ with the dove of the Holy Spirit between them, flanked by the Virgin and St John. The two donors kneel outside the painted chapel, in the viewer's space. Below lies a painted tomb with a skeleton and an inscription warning: 'I was once what you are, and what I am you also will be.'
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

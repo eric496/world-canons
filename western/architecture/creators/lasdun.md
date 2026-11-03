@@ -28,4 +28,4 @@ Lasdun thought of buildings as urban landscapes, with layered horizontal terrace
 The idea of a National Theatre had been discussed for a century before Lasdun was appointed in 1963, working with a committee including Laurence Olivier and Peter Brook. The building beside Waterloo Bridge contains three theatres: the large open-stage Olivier, inspired by the theatre of Epidaurus, the proscenium Lyttelton and the flexible Cottesloe, now the Dorfman. Outside, horizontal concrete terraces project at many levels like geological strata, extending the foyers into public balconies overlooking the Thames, while fly towers rise above. The concrete is board-marked, recording the grain of the timber formwork. Opened in stages in 1976–77, the building was at first much criticised; it was listed Grade II* in 1994 and has since been renovated.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

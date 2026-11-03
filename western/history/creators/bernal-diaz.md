@@ -32,4 +32,4 @@ In his old age Díaz wrote the True History of the Conquest of New Spain, partly
 Bernal Díaz began writing his Historia verdadera de la conquista de la Nueva España in the 1550s and finished a version around 1568, revising it until his death; it was first printed in 1632. He wrote to correct accounts that credited the victory to Cortés alone and to claim recognition for the soldiers who fought alongside him. He describes the landing at Veracruz, the alliance with the Tlaxcalans, the first view of Tenochtitlan, which seemed to the soldiers like an enchanted vision, the meetings with Moctezuma, the Night of Sorrows and the final siege of 1521. He gives a central role to Malinche, the Nahua woman who served as interpreter. The work is an invaluable but partisan source, written from the conquerors' side, and is complemented by Indigenous accounts such as those in the Florentine Codex.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

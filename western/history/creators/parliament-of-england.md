@@ -50,4 +50,4 @@ The writ of habeas corpus, requiring a jailer to bring a prisoner before a court
 After James II fled in December 1688 and William of Orange took control, the Convention Parliament drew up a Declaration of Right, read to William and his wife Mary before they accepted the crown in February 1689, and enacted it as the Bill of Rights in December. It listed James's offences and declared illegal the suspending of laws, the levying of taxes and keeping of a standing army in peacetime without Parliament's consent, and excessive bail and cruel and unusual punishments. It asserted free elections, freedom of speech in Parliament, the right to petition the monarch and the right of Protestants to bear arms, and it barred Catholics from the throne. It remains part of the British constitution and was a direct model for parts of the American Bill of Rights, though its protections were for a Protestant political nation rather than universal.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

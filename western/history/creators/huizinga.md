@@ -40,4 +40,4 @@ Herfsttij der Middeleeuwen, published in 1919 and first translated into English 
 In Homo Ludens: A Study of the Play-Element in Culture, Huizinga argued that play is older than culture and that civilisation arises and unfolds in and as play. He defined play as a free activity, standing outside ordinary life, with its own rules, time and space, and traced the play-element in contests, law courts, warfare, poetry, philosophy and the arts across many cultures. In the final chapters he lamented the decline of genuine play in modern mass society and politics, a warning written in the shadow of totalitarianism. The book has influenced anthropology, the study of games and media theory.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

@@ -27,4 +27,4 @@ Gabrieli exploited the galleries of St Mark's, placing choirs of voices and inst
 This short piece from Gabrieli's Sacrae symphoniae of 1597 is scored for two instrumental groups, one led by a cornett and the other by a violin, each with trombones. It was written for the galleries of St Mark's in Venice, where the groups would have answered each other across the space. Its title refers to the dynamic markings piano and forte, which show where one group plays softly alone and where both join loudly. It is among the earliest pieces to call for particular instruments and among the first to mark dynamics, though such practices may have been older. It is a favourite of modern brass ensembles and a landmark in the rise of independent instrumental music.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

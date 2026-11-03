@@ -32,4 +32,4 @@ His Histories open by saying that he publishes his 'inquiry' (historia) so that 
 Herodotus composed his Histories in the third quarter of the fifth century BC, probably performing parts of it aloud before it took its final form; later scholars divided it into nine books, each named after a Muse. The first half travels outward, describing the rise of Persia and the customs, geography and wonders of Lydia, Egypt, Scythia and other lands, often in long digressions. The second half narrows to the invasions of Greece by Darius and Xerxes, culminating in Marathon, Thermopylae, Salamis and Plataea. Herodotus compares competing oral accounts, admits uncertainty and searches for causes in human motives as well as divine retribution. His word historia, meaning inquiry, gave history its name, and his combination of narrative, ethnography and analysis set the agenda for the discipline.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

@@ -43,4 +43,4 @@ President Georges Pompidou wanted a centre for modern art, books, music and desi
 The insurance market Lloyd's of London needed a building that could expand and adapt, and Richard Rogers designed one around a central atrium about 60 metres high under a barrel-vaulted glass roof, with the underwriting floors arranged as galleries connected by escalators. Lifts, staircases, toilets and service ducts are placed in six stainless-steel towers outside the main block, so that they can be replaced without disturbing the core, and the clear glass lift cars run on the exterior. The Adam Room, an eighteenth-century dining room, was reassembled inside. Completed in 1986, it became in 2011 the youngest building in England listed Grade I.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

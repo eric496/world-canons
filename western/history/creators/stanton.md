@@ -32,4 +32,4 @@ Stanton was a powerful writer and speaker who argued for women's suffrage, prope
 The Declaration of Sentiments, drafted mainly by Elizabeth Cady Stanton, was adopted at the first women's rights convention, held at the Wesleyan Chapel in Seneca Falls, New York, on 19–20 July 1848. Deliberately echoing the Declaration of Independence, it declared that all men and women are created equal, and listed the injuries inflicted on women: denial of the vote, of property rights for married women, of education and professions, and of equality in church and law. It was followed by resolutions, of which the demand for the vote was the most controversial and passed only after Frederick Douglass spoke in support. It was signed by sixty-eight women and thirty-two men. The convention launched the organised movement that eventually won women's suffrage.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

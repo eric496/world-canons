@@ -55,4 +55,4 @@ Brahms wrote this concerto for his friend Joseph Joachim, one of the leading vio
 Brahms wrote his Fourth Symphony during two summers at Mürzzuschlag in the Styrian Alps and conducted the premiere with the Meiningen Court Orchestra. The first movement grows from a chain of falling thirds and rising sixths; the slow movement opens in an archaic Phrygian mode; and the third is a boisterous scherzo with a triangle. The finale is a passacaglia, thirty variations and a coda on an eight-bar theme adapted from the closing chorus of Bach's Cantata BWV 150, a rare use of a Baroque form to end a Romantic symphony. Initially some of Brahms's friends found it austere, but it is now seen as one of the summits of the symphonic tradition.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

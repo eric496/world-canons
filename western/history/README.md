@@ -44,4 +44,4 @@ Two intertwined canons: the books in which Western writers tried to record and e
 - **Images.** Manuscripts, original documents, early editions and period paintings come from Wikimedia Commons. Portraits are paintings, engravings or sculptures, never photographs, so several modern historians have none. Twentieth-century books still in copyright are described without images.
 
 ---
-[← Western canon](../README.md) · [All people](../PEOPLE.md) · [Western timeline](../TIMELINE.md)
+[← The Western Canon](../README.md) · [All people](../PEOPLE.md) · [Timeline](../TIMELINE.md)

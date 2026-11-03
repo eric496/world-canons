@@ -40,4 +40,4 @@ Wesley kept a private diary and from 1740 published extracts as his Journal in t
 Wesley issued his sermons in volumes from 1746 onward, writing in plain style 'for plain people'. They include 'Salvation by Faith', preached at Oxford in 1738, 'The Scripture Way of Salvation', 'Christian Perfection', 'The Witness of the Spirit', 'Catholic Spirit' on tolerance between Christians, and 'The Use of Money', with its advice to gain all you can, save all you can and give all you can. The first collections, together with his Explanatory Notes upon the New Testament, became the official doctrinal standards of Methodist preachers and are still referred to by Methodist churches.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

@@ -27,4 +27,4 @@ In just under a decade Basquiat produced around 1,000 paintings and more than 1,
 Basquiat painted this large canvas, about 2 metres high, in 1981, early in his career. It was shown at his first solo gallery exhibition in New York in 1982 and bought that year by the collectors Eli and Edythe Broad. A huge head fills the canvas: part skull, part mask, part anatomical diagram, with gaping eyes, a mouth full of teeth and a brain area filled with lines, colours and patterns. It seems at once alive and dead, revealing both the outside and the inside of the head. It has been read as a self-portrait and as an allusion to African masks and the history of Black identity. It is in The Broad in Los Angeles.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

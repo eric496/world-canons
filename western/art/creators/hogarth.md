@@ -32,4 +32,4 @@ Hogarth called his narrative series 'modern moral subjects'. They are stories to
 This series of six paintings of around 1743, in the National Gallery, London, was engraved and sold to the public in 1745. It tells the story of an arranged marriage between the son of the bankrupt, gout-ridden Earl Squanderfield and the daughter of a rich, miserly city merchant, a deal trading money for rank. The couple are bored and unfaithful from the start. The young viscount catches syphilis, and his wife takes the lawyer Silvertongue as her lover. In the end, the husband is killed by the lawyer in a duel, the lawyer is hanged, and the countess poisons herself while her father pulls the ring from her finger. Every scene is crammed with satirical detail about fashion, art collecting, quack medicine and moral decay.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

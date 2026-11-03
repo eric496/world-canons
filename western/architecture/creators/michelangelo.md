@@ -63,4 +63,4 @@ Pope Clement VII, a Medici, commissioned Michelangelo in 1524 to design a librar
 In 1538 Pope Paul III had the ancient bronze equestrian statue of Marcus Aurelius moved to the Capitoline Hill, the ancient centre of Rome and seat of the city government, and Michelangelo designed a new square around it. He set the statue on a pedestal at the centre of a trapezoidal piazza paved with an oval star pattern, rising slightly in the middle. He gave new façades to the medieval Palazzo dei Conservatori and Palazzo Senatorio and designed a matching Palazzo Nuovo opposite, all using a 'giant order' of pilasters rising through two storeys, and a ramped stair, the Cordonata, leading up from the city. Most of the work was carried out after his death, and the pavement was laid only in 1940. The palaces house the Capitoline Museums, the oldest public museum in the world, and the original statue is now indoors.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

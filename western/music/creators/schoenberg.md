@@ -40,4 +40,4 @@ Verklärte Nacht (Transfigured Night) is a one-movement string sextet, written i
 The actress Albertine Zehme commissioned Pierrot lunaire, setting twenty-one poems by the Belgian Albert Giraud in Otto Erich Hartleben's German translation, about the commedia dell'arte clown Pierrot, intoxicated by moonlight, in visions of violence, religion and nostalgia. Schoenberg wrote it for a reciter and five players on eight instruments. The voice uses Sprechstimme, a half-spoken, half-sung delivery whose exact performance is still debated. The music is atonal, but within it Schoenberg uses old forms such as canons, a passacaglia and a fugue. Stravinsky, who attended a performance in 1912, called it the solar plexus of early twentieth-century music. Its instrumental combination, the Pierrot ensemble, became a standard for later composers.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

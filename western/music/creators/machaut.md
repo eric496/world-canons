@@ -47,4 +47,4 @@ The title of this rondeau, 'My end is my beginning', describes its construction.
 Machaut's Messe de Nostre Dame sets the six main sung sections of the Mass Ordinary, Kyrie, Gloria, Credo, Sanctus, Agnus Dei and the closing Ite missa est, for four voices. It was probably written in the 1360s for Reims Cathedral, where Machaut was a canon, and may have been sung at a Saturday mass of the Virgin for which he and his brother endowed prayers after their deaths. Earlier masses had been assembled from pieces by different composers; this is the first known complete cycle conceived by one author. The Gloria and Credo, with their long texts, move in mostly chordal style, while the other movements are isorhythmic, built on chant melodies laid out in repeating rhythmic patterns in the tenor. The harmony, with its open fifths and sharp dissonances, sounds austere and strange to modern ears. It is the best-known work of fourteenth-century music.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

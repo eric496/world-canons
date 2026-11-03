@@ -32,4 +32,4 @@ Rossetti's early works are medieval scenes in bright, flat colour. From the 1860
 In Roman myth, Proserpine (Persephone) was abducted by Pluto, god of the underworld. She was allowed to return to her mother, Ceres, only for part of each year, because she had eaten a few pomegranate seeds in the underworld. Rossetti shows her in a dim palace corridor, holding the bitten pomegranate, a sliver of daylight from the world above falling on the wall behind her. An incense burner and a trailing ivy branch, a symbol of clinging memory, are beside her, and Rossetti's own sonnet on the subject is inscribed in Italian on a scroll at top right. The model was Jane Morris, the wife of William Morris and Rossetti's great love, herself trapped in an unhappy marriage. Rossetti painted at least eight versions. This one, of 1874, is in Tate Britain.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

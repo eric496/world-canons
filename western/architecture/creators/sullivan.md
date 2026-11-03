@@ -44,4 +44,4 @@ The brewer Ellis Wainwright commissioned Adler and Sullivan to design a ten-stor
 Built for the Schlesinger and Mayer department store and soon taken over by Carson, Pirie, Scott and Company, the building on State Street was Sullivan's last large commission. The upper storeys express the steel frame directly as a grid of broad horizontal 'Chicago windows', each with a large fixed pane between narrow opening sashes, clad in white terracotta. At street level, where shoppers passed, the display windows are framed by intricate cast-iron ornament of foliage and geometric forms in Sullivan's personal style, swelling over the rounded corner entrance. The store was later extended by Daniel Burnham's firm and others. Carson's closed in 2007, and the building was restored and renamed the Sullivan Center, with offices and shops.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

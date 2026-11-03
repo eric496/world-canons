@@ -44,4 +44,4 @@ The Theogony, about a thousand lines of hexameter verse, opens with Hesiod's enc
 Works and Days is addressed to Hesiod's brother Perses, who had apparently cheated him over their inheritance with the help of corrupt judges. Hesiod urges him to honest labour and justice, which Zeus protects. Along the way he tells the myth of Pandora, who released evils into the world, and the myth of the five ages of humankind, from the golden race to the present iron age. The second half gives practical instruction on farming and sailing through the seasons, ending with a list of days of the month favourable or unfavourable for various tasks. The poem is a key witness to the everyday piety of archaic Greece, in which the gods are bound up with work, weather and fairness, and it was the model for later didactic poetry such as Virgil's Georgics.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

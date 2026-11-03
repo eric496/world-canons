@@ -40,4 +40,4 @@ When Emperor Leo III moved against religious images, John, writing under Muslim 
 The Exposition forms the third part of John's Fount of Knowledge, after a section on philosophy and one on heresies, including a chapter on Islam that is among the earliest Christian discussions of it. In a hundred chapters, it gathers the teachings of the Greek Fathers, above all the Cappadocians and Maximus the Confessor, on God, the Trinity, creation, angels, humanity, Christ, the sacraments, icons and the last things. Translated into Latin by Burgundio of Pisa around 1150, it was used by Peter Lombard and Thomas Aquinas, making John an important link between Eastern and Western theology.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

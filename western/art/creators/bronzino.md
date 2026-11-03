@@ -32,4 +32,4 @@ Bronzino's portraits are the epitome of Mannerist court style. His sitters are c
 Bronzino painted this allegory around 1545 as a diplomatic gift from Cosimo I de' Medici to King Francis I of France. Venus, holding the golden apple, is embraced and kissed by her son Cupid in a disturbingly erotic way. Around them crowd strange personifications. A laughing boy is about to throw roses, perhaps Folly or Pleasure. Behind him a sweet-faced girl offers honey but has a serpent's tail, perhaps Fraud. A figure tears its hair in anguish, interpreted as Jealousy or as the effects of syphilis. Above, bald Father Time and a mask-like figure struggle over a blue curtain, threatening to reveal or hide the scene. The cold polished surfaces and puzzling meaning are typical of Mannerist court art. It is in the National Gallery, London.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

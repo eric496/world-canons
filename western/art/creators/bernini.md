@@ -49,4 +49,4 @@ Carved in 1622–25 for Cardinal Scipione Borghese, this life-size marble group,
 Made in 1647–52 for the Cornaro Chapel in the church of Santa Maria della Vittoria in Rome, commissioned by the Venetian cardinal Federico Cornaro, this ensemble stages a vision described by the Spanish mystic Teresa of Ávila. An angel pierced her heart with a golden spear, leaving her 'on fire with a great love of God'. Teresa swoons on a cloud, her eyes half closed and her lips parted, while the smiling angel prepares to strike again. Natural light from a hidden window above falls down gilded bronze rays. On the side walls, members of the Cornaro family sit in theatre boxes as if watching the scene. The combination of sculpture, architecture, coloured marble and light is the supreme example of Bernini's theatrical Baroque.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

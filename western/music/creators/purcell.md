@@ -31,4 +31,4 @@ Purcell had a special gift for setting English words, catching their rhythm and 
 Dido and Aeneas, with a libretto by Nahum Tate after Virgil's Aeneid, was performed at a girls' boarding school in Chelsea run by the dancing master Josias Priest in 1689, though it may have been written earlier for the court. In under an hour it tells how Aeneas, the Trojan prince, loves Dido, Queen of Carthage, until witches trick him into leaving, and Dido dies of grief. Purcell's setting of English is supple and direct, and the score includes choruses, dances and comic witch scenes. Dido's final lament unfolds over a descending chromatic ground bass repeated eleven times. No score survives from Purcell's lifetime, and the earliest copies date from decades after his death, so some music, including part of the ending of act two, is lost. Today it is one of the most performed Baroque operas.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

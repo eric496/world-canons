@@ -1,6 +1,6 @@
-# People of the Western canon
+# People of the Western Canon
 
-Everyone in every section, 648 people in all, ordered by date of birth. People who appear in more than one section (Michelangelo, Goethe, Leonardo…) are listed once.
+Everyone in every section, 648 people in all, ordered by date of birth. People who appear in more than one section are listed once.
 
 | | Name | Life | Sections |
 |---|---|---|---|

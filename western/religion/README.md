@@ -49,4 +49,4 @@ The religious texts, thinkers and movements of the Western tradition: Greco-Roma
 **Images.** Pictures are manuscripts, early printed editions, icons, mosaics and public-domain painted or engraved portraits. Many early figures appear in portraits made long after their deaths, which are imagined likenesses. Twentieth-century figures known only from photographs have no portrait, and works still under copyright are described but not shown.
 
 ---
-[← Western canon](../README.md) · [All people](../PEOPLE.md) · [Western timeline](../TIMELINE.md)
+[← The Western Canon](../README.md) · [All people](../PEOPLE.md) · [Timeline](../TIMELINE.md)

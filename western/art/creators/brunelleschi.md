@@ -33,4 +33,4 @@ His buildings in Florence are the founding works of Renaissance architecture: th
 Florence Cathedral's octagonal crossing, about 45 metres across, had been planned at a size no one knew how to cover: it was too wide for the timber centring normally used to support a vault while it was built. In 1418 Brunelleschi won the competition with a radical proposal, and work ran from 1420 to 1436. His dome is made of two shells, an inner and an outer, linked by ribs. The bricks are laid in a herringbone pattern so the courses lock together and support themselves as the dome rises. He also invented new hoisting machines to lift around four million bricks and huge stones. The marble lantern on top was completed after his death to his design, and Verrocchio's workshop, where the young Leonardo was training, added the gilded ball in 1471. It remains the largest masonry dome ever built.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

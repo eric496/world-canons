@@ -44,4 +44,4 @@ Nicolas Fouquet, Louis XIV's superintendent of finances, built Vaux-le-Vicomte s
 Louis XIII had a hunting lodge at Versailles, and from 1661 his son Louis XIV began transforming it. Le Vau wrapped the old brick château in a stone envelope from 1668, with a terrace facing the gardens. From 1678 Jules Hardouin-Mansart enlarged the palace, filling the terrace with the Hall of Mirrors and adding long north and south wings, and in 1682 the king moved the court and government there. Le Brun directed the decoration and Le Nôtre laid out the vast gardens with their parterres, fountains and Grand Canal. The palace became an instrument of rule, where nobles were kept close to the king in an elaborate etiquette. The Revolution forced Louis XVI to leave in 1789; Louis-Philippe made it a museum of French history in 1837, and the treaty ending the First World War was signed there in 1919.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

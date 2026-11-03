@@ -63,4 +63,4 @@ By 1418 the cathedral of Santa Maria del Fiore had an octagonal crossing some 42
 The Pazzi family commissioned a chapter house for the friars of Santa Croce, set at the end of the first cloister. It is traditionally attributed to Brunelleschi, though it was completed long after his death and some scholars argue that others, perhaps Michelozzo or Giuliano da Maiano, designed part of it, especially the porch. The interior is a rectangle covered by a ribbed dome on pendentives, with a small square altar space under its own dome, and every surface is articulated by grey stone pilasters, arches and circles against white plaster. Glazed terracotta roundels of the apostles by Luca della Robbia and the evangelists add colour. The chapel is a three-dimensional diagram of the proportional thinking that defined Renaissance architecture.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

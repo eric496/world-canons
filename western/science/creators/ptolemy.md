@@ -48,4 +48,4 @@ Ptolemy called his thirteen-book treatise the Mathematical Syntaxis; Arabic tran
 Ptolemy's Geography, or Geographike hyphegesis, explains how to represent the spherical Earth on a flat map using two projections, and lists the latitude and longitude of about eight thousand places from the Atlantic to China, based on travellers' reports and earlier geographers such as Marinus of Tyre. Because it relied on itineraries rather than measurement, many positions are distorted; the Mediterranean is too long, and Asia stretches too far east, which helped Columbus believe Asia could be reached by sailing west. The text was rediscovered in Byzantium around 1300, and a Latin translation made in Florence around 1406 caused a sensation among Renaissance humanists. Printed editions with maps redrawn from its coordinates, from 1477 onwards, shaped European cartography until new discoveries made it obsolete, and its grid of coordinates became the basis of modern mapping.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

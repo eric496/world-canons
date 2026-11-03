@@ -49,4 +49,4 @@ Kierkegaard's pseudonymous author, Johannes de Silentio, retells the story of th
 Published under the pseudonym Anti-Climacus, whom Kierkegaard described as a Christian of an extraordinarily high degree, The Sickness unto Death takes its title from Jesus's words about Lazarus. It defines the self as a relation that relates itself to itself and is grounded in the power that established it, and analyses the forms of despair: not being conscious of having a self, not willing to be oneself, and willing defiantly to be oneself. Despair before God is sin, and its opposite is faith. The work's psychological depth influenced Heidegger, Sartre and theologians such as Tillich and Barth.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

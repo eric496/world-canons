@@ -40,4 +40,4 @@ Written at the start of his pontificate, the Pastoral Rule explains who should a
 Framed as conversations between Gregory and his deacon Peter, the Dialogues collect miracle stories of holy men of 6th-century Italy, to show that sanctity had not disappeared from Italy in an age of war and plague. The second book is devoted entirely to Benedict and is the main source for his life. The fourth book discusses the fate of souls after death, with visions that contributed to the development of the Western doctrine of purgatory. A minority of scholars has argued that the Dialogues were not written by Gregory, but most accept them as his. They were immensely popular, translated into Greek by Pope Zacharias and into Old English at Alfred's court.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

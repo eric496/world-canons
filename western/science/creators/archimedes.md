@@ -76,4 +76,4 @@ On the Sphere and Cylinder is a two-book treatise that Archimedes sent as a lett
 In The Sand Reckoner, addressed to Gelon, son of King Hiero of Syracuse, Archimedes sets out to show that the number of grains of sand is not infinite, as some believed, but can be named. Greek numerals went only up to a myriad of myriads, a hundred million, so he built a system of orders and periods that can express numbers vastly larger, in effect working with powers of ten. He then estimated the size of the universe and found that it would hold fewer than about ten to the power of sixty-three grains. On the way he reports that Aristarchus of Samos had proposed that the Earth goes around the Sun, which is the main ancient testimony to that heliocentric hypothesis, and he describes his own measurement of the Sun's apparent diameter. It is one of the earliest works to discuss experimental error.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

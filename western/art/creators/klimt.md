@@ -44,4 +44,4 @@ Klimt painted Adele Bloch-Bauer, the wife of the wealthy Jewish sugar industrial
 Painted in 1907–08, The Kiss shows a couple locked in an embrace at the edge of a flowery meadow that ends abruptly at a cliff. The man, his face hidden, bends to kiss the woman's cheek. She kneels with her eyes closed, her hand around his neck. They are enveloped in a single golden robe: his decorated with black and white rectangles, hers with colourful circles and flowers, symbolising male and female. The Austrian state bought the painting in 1908 at the Kunstschau exhibition, even before it was finished. It is the most famous work of Viennese Art Nouveau and the highlight of the Belvedere in Vienna.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

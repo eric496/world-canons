@@ -35,4 +35,4 @@ Rossini's comic operas are celebrated for their sparkle and energy, especially t
 Rossini wrote The Barber of Seville in a few weeks, to a libretto by Cesare Sterbini based on Beaumarchais's comedy, the prequel to The Marriage of Figaro. Count Almaviva, with the help of the resourceful barber Figaro, wins the ward Rosina from her guardian, Dr Bartolo, who wants to marry her himself. The premiere was a fiasco, disrupted by supporters of the composer Giovanni Paisiello, whose earlier opera on the same story was popular, and by stage accidents, but the second night was a triumph. The overture had been used in two earlier operas. With its patter songs, comic ensembles and crescendos, and arias such as Figaro's Largo al factotum and Rosina's Una voce poco fa, it has never left the stage.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

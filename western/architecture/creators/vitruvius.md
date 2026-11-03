@@ -31,4 +31,4 @@ De architectura covers far more than buildings: town planning, materials, temple
 Vitruvius dedicated his ten books on architecture to Augustus. They cover the education of the architect, building materials, temples and the orders, public buildings such as theatres and baths, private houses, wall painting and stucco, water and aqueducts, astronomy and sundials, and machines for war and peace. The work defines architecture by the triad of firmness, commodity and delight, and relates the proportions of buildings to the well-built human body. It survived in medieval manuscripts, was studied by humanists such as Poggio Bracciolini and Alberti, and was first printed in Rome around 1486. Illustrated editions, such as Fra Giocondo's of 1511 and Daniele Barbaro's with drawings by Palladio, made it the bible of Renaissance and Neoclassical architects, even though its diagrams were lost and its meaning often obscure.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

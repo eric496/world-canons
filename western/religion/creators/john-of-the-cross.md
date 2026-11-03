@@ -44,4 +44,4 @@ John began the Spiritual Canticle while imprisoned in a cell in the Carmelite pr
 The poem 'En una noche oscura', 'On a dark night', in eight stanzas, tells of a woman slipping out of her quiet house at night, guided only by the light in her heart, to meet her beloved and rest with him. John wrote two prose works explaining it, The Ascent of Mount Carmel and The Dark Night, which describe the 'night of the senses' and the deeper 'night of the spirit', in which God purifies the soul by taking away consolations and certainties, leading it through apparent emptiness to union with God. The prose commentaries were left unfinished. The phrase 'dark night of the soul' has come into general use for times of spiritual desolation.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

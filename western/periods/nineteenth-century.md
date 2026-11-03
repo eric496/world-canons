@@ -270,4 +270,4 @@ Industry, nation-states and empire; Romanticism, Realism and Impressionism; Beet
 - 1895 · **Inaugural Lecture on the Study of History**, [John Dalberg-Acton, 1st Baron Acton](../history/creators/acton.md)
 
 ---
-[← The Enlightenment](enlightenment.md) · [Western canon](../README.md) · [Modernism →](modern.md)
+[← The Enlightenment](enlightenment.md) · [The Western Canon](../README.md) · [Modernism →](modern.md)

@@ -40,4 +40,4 @@ Basil's Asketikon developed in several editions from his visits to monks and his
 Basil wrote On the Holy Spirit after being criticised for using a doxology that glorified the Father 'with the Son, together with the Holy Spirit', implying their equality. Against the Pneumatomachi ('Spirit-fighters'), who denied the Spirit's divinity, he argues from scripture, from the baptismal formula and from the church's unwritten tradition of worship that the Spirit is to be honoured together with the Father and the Son. He is careful not to call the Spirit 'God' directly, a caution that reflects the politics of the time. The treatise was a major influence on the Council of Constantinople and on all later Trinitarian theology, and is also an early witness to the idea of authoritative unwritten tradition.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

@@ -44,4 +44,4 @@ The Anabasis tells how Cyrus the Younger hired Greek mercenaries in 401 BC to se
 The Hellenica begins abruptly where Thucydides' history ends, in 411 BC, and carries the story through the end of the Peloponnesian War, the Spartan hegemony and the rise of Thebes, ending with the battle of Mantinea in 362 BC. Xenophon wrote as a participant in some events and with obvious sympathy for Sparta and its king Agesilaus, and he passes over some important developments, such as the founding of the Second Athenian League, in near silence. Even so, it is the only continuous contemporary narrative of the period to survive, and its vivid scenes, such as the trial of the generals after Arginusae, make it indispensable.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

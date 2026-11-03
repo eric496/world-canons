@@ -32,4 +32,4 @@ Las Casas wrote a massive History of the Indies, apologetic works defending the 
 Las Casas wrote the Brevísima relación de la destrucción de las Indias in 1542 for the future Philip II and printed it in Seville in 1552. Region by region, from Hispaniola to Peru, it describes massacres, enslavement, torture and forced labour inflicted on Indigenous peoples by Spanish conquerors and settlers, and it attributes a catastrophic population collapse to their cruelty and greed. Las Casas wrote to persuade the crown to reform colonial policy, and the work contributed to debates that led to the New Laws of 1542. Modern historians accept the reality of widespread atrocity while noting that his figures are often impossible to verify and that epidemic disease caused most deaths. Translated into Dutch, English, French and German, often with lurid engravings by Theodor de Bry, it became a mainstay of anti-Spanish propaganda, the so-called Black Legend.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

@@ -32,4 +32,4 @@ Barry was a master of planning and of the picturesque skyline. At Westminster he
 Most of the old Palace of Westminster burned in October 1834; only Westminster Hall, the crypt and the Jewel Tower survived. A competition required a design in Gothic or Elizabethan style, and Barry's won in 1836. He organised the new palace, about 300 metres along the Thames, around a central lobby between the House of Lords and the House of Commons, with long corridors and courtyards, while Augustus Pugin designed the Perpendicular Gothic detail, the tiles, wallpapers, furniture, stained glass and metalwork. The House of Lords opened in 1847 and the Commons in 1852; work continued until 1870. The Victoria Tower and the clock tower, now the Elizabeth Tower, frame the skyline. Bombed in 1941, the Commons chamber was rebuilt by Giles Gilbert Scott. With Westminster Abbey it is a UNESCO World Heritage Site, and a major restoration is planned.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

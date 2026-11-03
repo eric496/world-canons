@@ -48,4 +48,4 @@ The Hippocratic Corpus is a collection of about sixty medical texts written in I
 The Hippocratic Oath is one of the best-known texts of the Hippocratic Corpus, though its date and authorship are uncertain and it may reflect the views of only one group of physicians. The new doctor swears by Apollo, Asclepius and the healing goddesses to honour his teacher as a parent, to treat the sick by diet and regimen for their benefit and never to harm them, not to give a deadly drug or an abortive remedy, to leave cutting for stones to specialists, to avoid wrongdoing in patients' houses and to keep secret what he learns there. Byzantine scribes copied it, sometimes in the shape of a cross, and from the sixteenth century European medical schools adopted versions of it. Modernised oaths, such as the Declaration of Geneva of 1948, still carry its principles of beneficence and confidentiality.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

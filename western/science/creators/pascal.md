@@ -49,4 +49,4 @@ Pascal began designing a calculating machine in 1642, aged nineteen, to help his
 The arithmetical triangle, in which each number is the sum of the two above it, was known long before Pascal to mathematicians in India, Persia, China and Europe, where it appears for instance in the work of al-Karaji, Omar Khayyam and Yang Hui. Pascal's treatise, written in 1654 and printed after his death in 1665, gave the first systematic account of its properties and applications in Europe. He proved its properties using an early explicit statement of mathematical induction, and applied the triangle to combinations, the expansion of powers of binomials and the problem of points, how to divide the stakes fairly when a game of chance is interrupted, which he was discussing with Fermat at the same time. Because of this work the triangle is called Pascal's triangle in the West, though it is known as Yang Hui's triangle in China and Khayyam's in Iran.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

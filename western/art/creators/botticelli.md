@@ -48,4 +48,4 @@ Primavera ('Spring'), painted around 1480 for a member of the Medici family, is 
 Probably painted in the mid-1480s, this large canvas shows Venus, goddess of love, arriving at the shore of Cyprus on a scallop shell after her birth from the sea. At left, the wind god Zephyrus and a female companion blow her ashore amid falling roses, and at right a Hora (goddess of the seasons) rushes to cover her with a flowered cloak. Venus's pose, covering herself with her hand and hair, is borrowed from ancient statues of the modest Venus, but her elongated neck and sloping shoulders are pure Botticelli. It was one of the first large paintings on canvas in Florence and one of the first since antiquity to show a mythological nude on such a scale.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

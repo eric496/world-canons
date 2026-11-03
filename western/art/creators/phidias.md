@@ -28,4 +28,4 @@ Ancient sources say Phidias was accused of embezzling gold or of impiety, and hi
 The Parthenon, built 447–432 BC as the temple of Athena, carried the most ambitious sculpture programme in Greek history, designed and supervised by Phidias. There were 92 carved metopes showing mythical battles; a continuous frieze about 160 metres long showing a procession in honour of Athena, probably the Panathenaic festival; and two pediments, showing Athena's birth and her contest with Poseidon for Athens. The figures combine idealised calm with a remarkable sense of breathing flesh under clinging drapery. Between 1801 and 1812 agents of Lord Elgin removed about half of the surviving sculpture to Britain, and it has been in the British Museum since 1816. Greece has long sought its return, and the Acropolis Museum, opened in 2009, displays its own portion with spaces left for the missing pieces.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

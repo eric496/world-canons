@@ -40,4 +40,4 @@ In this treatise Philo interprets the first chapters of Genesis as a philosophic
 Philo describes a group he calls the Therapeutae ('healers' or 'worshippers'), who had left property and family to live in simple dwellings outside Alexandria, studying scripture allegorically during the week and gathering on the seventh day, men and women separately, with a great festival every fiftieth day including a night of choral singing. It is the only ancient description of this group. Eusebius in the 4th century believed they were early Christian monks, an identification no longer accepted; some modern scholars have even questioned whether Philo idealised them. The treatise is an important witness to Jewish ascetic piety in the Second Temple period and to the role of women in it, and it later fed Christian ideals of monastic life.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

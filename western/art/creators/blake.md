@@ -33,4 +33,4 @@ Blake created a private mythology of figures such as Urizen, Los and Orc to expl
 This image is the frontispiece to Blake's illuminated book Europe a Prophecy (1794). Within a blazing circle, an old man with streaming white hair and beard crouches and reaches down into the darkness with a great golden compass to measure out the universe. It refers to a passage in the Book of Proverbs about God setting a compass on the face of the deep. In Blake's own mythology the figure is Urizen, the embodiment of reason and law, a creator but also a limiting tyrant. Blake printed it in relief and coloured it by hand. According to his friend Frederick Tatham, he was colouring a copy shortly before his death. Copies are in the British Museum, the Whitworth in Manchester and elsewhere.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

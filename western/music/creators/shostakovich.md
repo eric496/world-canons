@@ -46,4 +46,4 @@ Shostakovich began the Seventh Symphony in Leningrad in the summer of 1941, afte
 Shostakovich wrote this quartet in three days in July 1960 while in Dresden, a city still in ruins from the Allied bombing of 1945, to work on a film score. Officially it is dedicated to the victims of fascism and war, but in a letter to his friend Isaak Glikman he wrote that he had dedicated it to his own memory. The five movements are played without pause, and nearly every one is based on his musical monogram, D-E flat-C-B (in German D-S-C-H), with quotations from his earlier works, a Jewish theme from his Piano Trio No. 2 and a revolutionary song. It came just after he had been pressured to join the Communist Party. It is his most often performed quartet.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

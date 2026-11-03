@@ -42,4 +42,4 @@ Picasso worked on this large canvas in his Paris studio over several months in 1
 In January 1937 the government of the Spanish Republic, then fighting General Franco's Nationalists in the Spanish Civil War, commissioned Picasso to paint a mural for its pavilion at the Paris World's Fair. On 26 April 1937 German and Italian aircraft bombed the Basque town of Guernica in support of Franco. Picasso painted the huge canvas, nearly 8 metres wide, in about five weeks, and his partner Dora Maar photographed its progress. In a monochrome palette of black, white and grey that evokes newspaper photographs, a bull, a screaming horse, a mother holding her dead child, a dismembered soldier and figures in flames are crowded under a harsh electric light. At Picasso's request it was kept at the Museum of Modern Art in New York until democracy was restored in Spain, and it arrived in Madrid in 1981. Since 1992 it has been in the Museo Reina Sofía.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

@@ -72,4 +72,4 @@ The textile industrialist Josep Batlló commissioned Gaudí to remodel his famil
 Pere Milà and his wife Roser Segimon commissioned Gaudí to build an apartment building on a corner of the Passeig de Gràcia. Its undulating limestone façade, with wrought-iron balconies like seaweed, earned it the mocking name La Pedrera, 'the stone quarry'. Inside, it has no load-bearing walls: a structure of stone and brick columns and steel beams allows the apartments to be divided freely, around two courtyards that bring in light. The attic is roofed by catenary brick arches, and on the roof terrace chimneys and ventilation towers stand like helmeted warriors. Gaudí left before completion after disputes with the owners. A UNESCO World Heritage Site since 1984, it was restored by a savings bank foundation and is open to visitors.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

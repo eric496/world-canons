@@ -62,4 +62,4 @@ Painted in 1875–76, this scene of café life was posed by Degas's friends, the
 This is the only sculpture Degas ever exhibited. He showed it at the Impressionist exhibition of 1881. It shows Marie van Goethem, a young Belgian student of the Paris Opera ballet school, standing in the fourth position with her hands clasped behind her back and her chin raised. Degas modelled it in wax and dressed it in a real fabric bodice, a tulle tutu, satin slippers and a wig of real hair tied with a silk ribbon. Critics were shocked by its realism and called the girl ugly and coarse. After Degas's death, around 28 bronze casts were made from the wax, which is now in the National Gallery of Art, Washington.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

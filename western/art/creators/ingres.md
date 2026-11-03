@@ -32,4 +32,4 @@ Ingres declared that 'drawing is the probity of art'. His paintings are defined 
 Ingres painted this nude in Rome in 1814 for Caroline Murat, Napoleon's sister and Queen of Naples, but she never received it because the Murats fell from power. A concubine of the harem (an odalisque) reclines on a couch with her back to us and turns her head to look over her shoulder. She holds a peacock-feather fan, and a hookah stands nearby. When the painting was shown at the Salon of 1819, critics complained that her back was too long: she seems to have two or three extra vertebrae, and her arm and pelvis are distorted. Ingres sacrificed anatomy for a long, sinuous line and cool, smooth sensuality. The Louvre bought it in 1899.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

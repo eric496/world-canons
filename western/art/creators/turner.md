@@ -62,4 +62,4 @@ Turner exhibited this painting in 1840 with the title Slavers Throwing Overboard
 Exhibited in 1844, this painting shows a steam train on Isambard Kingdom Brunel's Maidenhead Railway Bridge over the Thames, rushing towards the viewer through rain and mist. The engine's black funnel and the bridge are almost the only solid forms in a swirling haze of golden and grey light. A hare runs on the tracks in front of the train, perhaps a symbol of natural speed outpaced by the machine. A ploughman works in a field and boaters drift on the river below. Turner captured modern technology and the sensation of speed in an almost abstract way. It is in the National Gallery, London.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

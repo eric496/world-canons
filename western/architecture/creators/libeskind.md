@@ -28,4 +28,4 @@ Libeskind's buildings are made of sharp, intersecting volumes and slashed openin
 Daniel Libeskind won the competition in 1989 for an extension to the Berlin Museum dedicated to Jewish history. The building is a zigzag in plan, like a broken Star of David, clad in zinc and cut by slashing windows. It has no entrance of its own: visitors descend from the Baroque old building into underground axes representing continuity, exile and the Holocaust, the last ending in a tall, cold, unheated tower lit only by a slit. A line of empty concrete voids cuts through the whole building and can be seen but not entered. In the Garden of Exile, visitors walk on a tilted floor among forty-nine concrete pillars with trees growing from their tops. Before any exhibits were installed, the empty building opened to visitors in 1999, and many thought it should remain empty; the museum opened in 2001.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

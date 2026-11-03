@@ -48,4 +48,4 @@ Edwards preached this sermon on 8 July 1741 at Enfield, Connecticut, during the 
 Faced with both enthusiasm and scepticism after the revivals, Edwards asked what signs show that religious feelings come from God. He argues that true religion consists largely in 'holy affections', yet that intense emotion, bodily effects or fluent religious talk prove nothing either way. He then sets out twelve signs of genuine grace, culminating in a life of Christian practice. Combining Calvinist theology with Lockean psychology, the Religious Affections is a classic of the psychology of religion and influenced later evangelical thinking about conversion, as well as William James.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

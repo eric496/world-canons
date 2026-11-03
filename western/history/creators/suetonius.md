@@ -32,4 +32,4 @@ Suetonius was a prolific antiquarian scholar, but only the Lives of the Caesars 
 Suetonius wrote the Lives of the Caesars while working in Hadrian's administration, dedicating them to the praetorian prefect Septicius Clarus. The twelve lives run from Julius Caesar to Domitian. Rather than following a strict chronological narrative, Suetonius organises each life by themes: family, career, public works, character, appearance, habits, omens and death. He quotes letters of Augustus and other documents from the imperial archives, along with rumours and gossip that make the book memorable and controversial. Medieval writers such as Einhard used it as a model, and it remains essential for the study of the early empire, and the popular image of Caligula and Nero owes much to it.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

@@ -44,4 +44,4 @@ Sallust's first monograph tells how the bankrupt aristocrat Lucius Sergius Catil
 This monograph narrates the war of 112–105 BC against Jugurtha, a ruthless prince who seized the throne of Numidia in North Africa and repeatedly bribed Roman senators and commanders. Sallust chose the subject, he said, because it was the first time the arrogance of the nobility was challenged. The war was finally won by Gaius Marius, a 'new man' from outside the aristocracy, with the help of his quaestor Sulla, whose later rivalry would plunge Rome into civil war. The work combines geography of Africa, battle narrative and speeches, and was much read by Renaissance and early-modern writers on politics.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

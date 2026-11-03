@@ -32,4 +32,4 @@ Poussin painted mythological, historical and biblical subjects with carefully pl
 In this painting of around 1637–38 in the Louvre, three shepherds in an idyllic Arcadian landscape have discovered a tomb. One kneels to trace with his finger the inscription 'Et in Arcadia ego' ('Even in Arcadia, I am here'), meaning that Death is present even in paradise. The others reflect quietly, and a calm, classically dressed woman at right rests her hand on a shepherd's shoulder. This is a second, more meditative version of a subject Poussin had painted more dramatically a decade earlier (now at Chatsworth). The figures are arranged like a classical relief, and the mood is serene, philosophical acceptance of mortality. Louis XIV bought it in 1685.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

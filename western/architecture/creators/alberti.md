@@ -62,4 +62,4 @@ The Dominican church of Santa Maria Novella was built in the thirteenth and four
 Ludovico Gonzaga, marquis of Mantua, commissioned Alberti to design a church to house a relic of Christ's blood, and building began in 1472, the year of Alberti's death. Alberti replaced aisles with a single, huge barrel-vaulted nave lined by alternating large chapels and smaller piers, a rhythm repeated on the façade, which combines a temple front with a triumphal arch. The coffered vault deliberately evokes Roman baths and basilicas. Construction continued for centuries: the dome by Filippo Juvarra was completed in the eighteenth century. The single-nave, chapel-lined plan anticipated the Gesù in Rome and Counter-Reformation churches. The painter Andrea Mantegna is buried in one of its chapels.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

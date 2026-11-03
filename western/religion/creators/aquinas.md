@@ -45,4 +45,4 @@ The Summa contra Gentiles ('against the gentiles') treats God, creation, provide
 Aquinas intended the Summa as a guide for beginners in theology. Its three parts treat God and creation; the human being's movement toward God through action, law, virtue and grace; and Christ and the sacraments, as the way to God. It is divided into some 500 questions and about 2,600 articles, each following a fixed method: a question, objections, an authority 'on the contrary', Aquinas's own answer and replies to each objection. It includes the 'five ways' of arguing for God's existence and an influential treatment of natural law. Aquinas stopped writing in December 1273, leaving the third part unfinished; his assistants completed it from his earlier writings. After the Council of Trent it replaced Peter Lombard's Sentences as the main textbook of Catholic theology, and it remains central to Catholic thought and widely studied by philosophers.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

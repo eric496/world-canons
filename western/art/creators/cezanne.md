@@ -62,4 +62,4 @@ In the early 1890s Cézanne painted a series of five paintings of Provençal pea
 In this still life of around 1893, in the Art Institute of Chicago, a basket tipped forward spills apples across a table covered with a rumpled white cloth. A wine bottle leans at an angle, and a plate of biscuits sits at the back. Nothing is quite stable: the front edge of the table does not line up from left to right, the bottle tilts, and the plate seems seen from above while the basket is seen from the side. Cézanne combined several viewpoints and adjusted forms to create a dynamic balance of colour and structure, an approach that led directly to Cubism.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

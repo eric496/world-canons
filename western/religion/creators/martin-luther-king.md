@@ -40,4 +40,4 @@ Arrested on 12 April 1963 during the Birmingham campaign against segregation, Ki
 Strength to Love gathers sixteen sermons, many preached at Dexter Avenue Baptist Church in Montgomery and Ebenezer Baptist Church in Atlanta, and revised partly while King was in jail. They include 'A Tough Mind and a Tender Heart', 'Loving Your Enemies', 'Antidotes for Fear' and 'Pilgrimage to Nonviolence', in which he describes his intellectual journey through the social gospel, Niebuhr and Gandhi. The book shows the theological foundations of King's activism in the Black church preaching tradition. It remains under copyright.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

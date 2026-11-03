@@ -1,0 +1,18 @@
+[
+ {"id": "early-dynasties", "name": "Bronze Age & the Hundred Schools", "dates": "c. 1600 – 221 BC", "start": -1600, "end": -221,
+  "summary": "Shang oracle bones and bronzes; the Zhou dynasty and its classics; in the Spring and Autumn and Warring States periods Confucius, Laozi, Mozi, Mencius, Zhuangzi and Han Feizi found Chinese philosophy. Jōmon and Yayoi cultures in Japan; Gojoseon in Korea."},
+ {"id": "empire-formation", "name": "The First Empires", "dates": "221 BC – AD 589", "start": -221, "end": 589,
+  "summary": "Qin unification and the Terracotta Army; the Han dynasty makes Confucianism state orthodoxy, writes the first standard history and invents paper; Buddhism arrives from India; the Six Dynasties produce calligraphy and landscape poetry. Kofun-era Japan and the Three Kingdoms of Korea."},
+ {"id": "cosmopolitan-age", "name": "The Cosmopolitan Age", "dates": "589 – 960", "start": 589, "end": 960,
+  "summary": "Sui and Tang China, the age of Li Bai and Du Fu, Buddhist cave temples and the Silk Road; Japan adopts Chinese writing, law and Buddhism in the Asuka, Nara and early Heian periods; Unified Silla in Korea."},
+ {"id": "song-heian-goryeo", "name": "Song, Heian & Goryeo", "dates": "960 – 1368", "start": 960, "end": 1368,
+  "summary": "Song China: printing, Neo-Confucianism, monumental landscape painting and the civil-service state, followed by Mongol Yuan rule; Heian court literature (The Tale of Genji) and the warrior Kamakura era in Japan; Goryeo celadon and the Tripitaka Koreana in Korea."},
+ {"id": "ming-muromachi-joseon", "name": "Ming, Muromachi & Early Joseon", "dates": "1368 – 1644", "start": 1368, "end": 1644,
+  "summary": "Ming China's Forbidden City, porcelain, novels and Wang Yangming; Zen culture, Noh theatre and the tea ceremony in Muromachi and Momoyama Japan; Joseon Korea invents the Hangul alphabet."},
+ {"id": "qing-edo-late-joseon", "name": "Qing, Edo & Late Joseon", "dates": "1644 – 1868", "start": 1644, "end": 1868,
+  "summary": "The Manchu Qing dynasty at its height and Dream of the Red Chamber; Tokugawa Japan's peace, kabuki, haiku and ukiyo-e; true-view landscape painting and Silhak practical learning in Korea. Ends with Western gunboats and the opening of Japan."},
+ {"id": "east-asian-modern", "name": "Revolution & Modernisation", "dates": "1868 – 1945", "start": 1868, "end": 1945,
+  "summary": "Meiji Japan modernises and builds an empire; the Qing falls in 1911 and the May Fourth movement remakes Chinese culture; Korea is annexed by Japan in 1910. New literatures, art schools and ideas meet the West, ending in war."},
+ {"id": "east-asian-contemporary", "name": "Since 1945", "dates": "1945 – present", "start": 1945, "end": 2100,
+  "summary": "Occupation and economic miracle in Japan; the People's Republic and the Cultural Revolution, then reform; the division of Korea; East Asian film, architecture, literature and art become world forces."}
+]

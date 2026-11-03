@@ -24,4 +24,4 @@ Riley's music uses repetition, gradual change, modal harmony and improvisation, 
 In C consists of a single page of 53 short musical phrases. Any number of performers, on any instruments, play through them in order, each deciding how many times to repeat each phrase before moving on, while a steady pulse on the note C, played on piano or mallet instruments, keeps the ensemble together. The result is a constantly shifting web of patterns, different in each performance, usually lasting between forty-five and ninety minutes. The idea of the pulse was suggested by Steve Reich, who played at the premiere. The 1968 recording on Columbia Records brought the work to a wide audience. It is often considered the first major minimalist composition.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

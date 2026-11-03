@@ -44,4 +44,4 @@ Around 1637, reading Claude Bachet's 1621 Latin edition of the Arithmetica of Di
 In the summer of 1654 Pascal and Fermat exchanged a series of letters about problems posed by the gambler Antoine Gombaud, the Chevalier de Méré. The central one, known since the fifteenth century, was the problem of points: how to divide the stakes fairly between two players when a game is broken off before either has won. Fermat solved it by listing all the possible ways the remaining rounds could turn out and counting those favourable to each player; Pascal used a recursive method based on expected values and his arithmetical triangle. Their letters agreed on the answers and established the idea that uncertain outcomes can be treated mathematically by counting equally possible cases. Huygens, hearing of their work in Paris, wrote the first published book on probability in 1657, and the subject was developed by Jacob Bernoulli, de Moivre and Laplace.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

@@ -48,4 +48,4 @@ Carlyle's French Revolution, in three volumes titled The Bastille, The Constitut
 In May 1840 Carlyle gave six public lectures in London on the hero as divinity (Odin), prophet (Muhammad), poet (Dante and Shakespeare), priest (Luther and Knox), man of letters (Johnson, Rousseau and Burns) and king (Cromwell and Napoleon). He declared that universal history is at bottom the history of the great men who have worked here. His sympathetic treatment of Muhammad was unusual in Britain at the time. The lectures were enormously popular and gave a name to the 'great man theory' of history, which Herbert Spencer and others criticised for ignoring the social conditions that produce great individuals. Carlyle's later glorification of strong rulers has made the book controversial.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

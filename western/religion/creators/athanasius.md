@@ -40,4 +40,4 @@ On the Incarnation forms the second part of a two-part work, following Against t
 Written shortly after Antony's death in 356, the Life tells how the young Egyptian, hearing the Gospel command to sell all and give to the poor, gave away his property, lived as an ascetic near his village and then withdrew into the desert, first to an abandoned fort and later to the 'inner mountain' near the Red Sea. It describes his battles with demons, his counsel to visitors, his miracles and his support for Nicene orthodoxy. Translated into Latin within a few years, it spread the monastic ideal throughout the West. In his Confessions Augustine describes how hearing the story of Antony moved him on the eve of his conversion. Its scenes of temptation inspired painters from Bosch and Grünewald to Ernst and Dalí, and Flaubert's novel The Temptation of Saint Anthony.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

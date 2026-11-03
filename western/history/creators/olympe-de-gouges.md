@@ -32,4 +32,4 @@ De Gouges argued that the principles of the Revolution must apply equally to wom
 In September 1791, as the new constitution was completed, Olympe de Gouges published a pamphlet addressed to Queen Marie Antoinette that rewrote the Declaration of the Rights of Man article by article to apply to women. Its first article declares that woman is born free and remains equal to man in rights. Its tenth article notes that if women have the right to mount the scaffold, they must also have the right to mount the rostrum. She called for equal rights to property and public employment, the right of unmarried mothers to name the fathers of their children, and a new social contract for marriage. The pamphlet had little impact at the time, and its author was guillotined in 1793, but it has become a classic text of feminism.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

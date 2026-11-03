@@ -28,4 +28,4 @@ Kandinsky was one of the pioneers of abstract painting. He believed colour and f
 Kandinsky regarded his ten Compositions, painted between 1910 and 1939, as his most important works, carefully prepared summations of his ideas. Composition VII, painted in Munich in 1913 after more than 30 preparatory drawings, watercolours and oil studies, is about 2 by 3 metres. It is a whirlwind of colour, lines and forms in which traces of biblical themes such as the Resurrection, the Last Judgement, the Flood and the Garden of Love have been almost entirely dissolved into abstraction. Kandinsky is said to have painted the final canvas in about four days. It is in the State Tretyakov Gallery, Moscow.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

@@ -28,4 +28,4 @@ Their translation, published in 1611, was slow to displace the Geneva Bible, but
 Published in 1611 by the royal printer Robert Barker, the new translation was 'appointed to be read in churches'. Its translators worked from the Hebrew and Greek, with the Bishops' Bible as their base, and drew heavily on Tyndale and the Geneva Bible; their preface explains that they sought to make a good translation better. The first edition, a large folio, contains the Old and New Testaments and the Apocrypha. Early printings contained errors, and the text was standardised in the 18th century, most fully in the Oxford edition of 1769, which is the form usually read today. Although slow to replace the Geneva Bible, it became the Bible of English-speaking Protestants for three centuries, and its language profoundly influenced English literature, oratory and everyday speech, from 'the skin of my teeth' to 'a law unto themselves'.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

@@ -36,4 +36,4 @@ About seventy of Hildegard's chants survive, gathered under the title Symphonia 
 Hildegard wrote the Ordo Virtutum (Play of the Virtues) around 1151, probably for the nuns of her new convent at Rupertsberg, and a short version of it closes her visionary book Scivias. It dramatises the struggle for a human soul, Anima, between sixteen Virtues and the Devil. Anima at first rejoices, then grows weary of the Virtues' discipline and is lured away by the Devil, before returning penitent and wounded to be welcomed back, while the Virtues bind the Devil. All the characters sing in Hildegard's soaring, wide-ranging chant except the Devil, who can only speak or shout, a striking image of evil as the absence of harmony. It is the oldest known morality play by several centuries and survives with its music in the Riesenkodex at Wiesbaden. Rediscovered in modern times, it has been staged and recorded many times since the 1980s.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

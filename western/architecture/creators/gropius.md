@@ -44,4 +44,4 @@ Carl Benscheidt, a manufacturer of shoe lasts, commissioned Walter Gropius and A
 When the Bauhaus left Weimar under political pressure in 1925, the industrial city of Dessau offered it a new home, and Gropius designed its building. It is a pinwheel of separate wings for separate functions: a workshop block with a continuous curtain wall of glass, a teaching wing, a bridge over the road housing the administration, an assembly hall and canteen, and a five-storey block of studio flats for students with small balconies. Its asymmetrical composition can only be grasped by walking around it, and the school's workshops made its lighting, furniture and lettering. The Nazis closed the Dessau Bauhaus in 1932. Damaged in the war and altered, the building was restored and is used again by the Bauhaus Dessau Foundation. It is a UNESCO World Heritage Site.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

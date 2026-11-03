@@ -32,4 +32,4 @@ Fragonard painted playful scenes of love, gardens, children and reading with daz
 According to a contemporary memoir, a nobleman asked the painter Gabriel-François Doyen to paint his mistress on a swing pushed by a bishop, with himself placed where he could see her legs. The shocked Doyen passed the commission to Fragonard, who painted it in 1767. In a lush, overgrown garden, a young woman in a frothy pink dress swings high, kicking off her slipper towards a statue of Cupid, who holds a finger to his lips. Her lover hides in the bushes below, gazing up her skirts, while an elderly man, not a bishop in the final version, pushes the swing from the shadows. The painting is the quintessence of Rococo flirtation. A 2021 restoration at the Wallace Collection in London removed yellowed varnish and revealed its original bright colours.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

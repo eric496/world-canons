@@ -52,4 +52,4 @@ Lysistrata was staged in 411 BC, during the long war between Athens and Sparta a
 The Frogs was staged in 405 BC, shortly after the deaths of Euripides and Sophocles and in the last desperate year of Athens's war with Sparta. Dionysus, patron of the theatre, laments that there are no good poets left and sets off to the underworld, disguised as Heracles and accompanied by his slave Xanthias, to bring Euripides back. Crossing the lake of the dead, he is mocked by a chorus of croaking frogs. In Hades he finds a contest under way between Aeschylus and Euripides for the throne of tragedy, and he presides over a hilarious debate in which they parody each other's verses and weigh them on a scale. In the end Dionysus chooses Aeschylus as the poet who can save the city. The play is one of the earliest works of literary criticism, a precious source for how Athenians thought about tragedy, and it was so admired that it was given a second performance.
 
 ---
-[← All authors](../CREATORS.md) · [Literature](../README.md) · [Western canon](../../README.md)
+[← All authors](../CREATORS.md) · [Literature](../README.md) · [The Western Canon](../../README.md)

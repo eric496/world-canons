@@ -32,4 +32,4 @@ Tiepolo's frescoes open ceilings into dazzling skies filled with gods, allegorie
 Between 1752 and 1753, Tiepolo painted the vault over the grand staircase of the Würzburg Residence, the palace of the Prince-Bishop Karl Philipp von Greiffenclau. The vault was designed by the architect Balthasar Neumann and is one of the largest ceiling frescoes ever painted, around 600 square metres. As visitors climb the stairs, the ceiling unfolds: at the centre, the sun god Apollo rises in a radiant sky, and around the cornice are allegories of the four known continents, Europe, Asia, Africa and America, each crowded with people, animals and exotic costumes. In the Europe section Tiepolo included portraits of the prince-bishop, of Neumann sitting on a cannon with his dog, and of himself and his son Giandomenico. The vault survived the bombing of Würzburg in 1945.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

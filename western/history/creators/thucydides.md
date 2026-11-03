@@ -32,4 +32,4 @@ Thucydides set out to write a 'possession for all time' rather than a performanc
 Thucydides began writing at the outbreak of the war in 431 BC, convinced it would be the greatest conflict the Greeks had known. His account, divided by later editors into eight books, follows the war year by year, summer and winter, until it breaks off in 411 BC. He explains his method at the outset: he checked eyewitness reports and composed speeches to convey what the situation demanded. Set pieces include Pericles' Funeral Oration, the plague of Athens, the civil war at Corcyra, the Melian Dialogue, in which Athenian envoys tell the weak that they must suffer what they must, and the catastrophic expedition to Sicily. The work became a model of political history and a foundational text for theorists of international relations, from Hobbes, who translated it, to modern realists.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

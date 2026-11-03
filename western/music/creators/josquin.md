@@ -55,4 +55,4 @@ The popular song L'homme armé (The armed man) served as the basis for more than
 The Missa Pange lingua is based on the plainchant hymn Pange lingua, sung at the feast of Corpus Christi, and is probably one of Josquin's last masses. Rather than placing the borrowed tune in long notes in the tenor, as older masses did, Josquin paraphrases it freely in all four voices, so that motifs from the hymn pass through the whole texture. The style is spare and transparent, with much writing for pairs of voices, and the Et incarnatus of the Credo moves into hushed chords. The mass circulated in manuscript and was first printed in 1539. It is admired as an example of Josquin's late, concentrated style.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

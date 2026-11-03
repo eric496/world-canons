@@ -72,4 +72,4 @@ Codex Amiatinus is a giant single-volume Bible of over a thousand leaves, weighi
 The Book of Kells contains the four Gospels in Latin, on 340 surviving vellum leaves. It was probably begun in the monastery of Iona, off the west coast of Scotland, around 800 and taken to Kells in Ireland after Viking raids, though where each part was made is debated. Its decoration is extraordinary: full-page portraits of Christ, the Virgin and Child and the evangelists, symbols of the four evangelists, and dense carpet-like pages of knotwork and spirals, most famously the Chi-Rho page, where the monogram of Christ's name swells to fill the page, with cats, mice and otters hidden in its ornament. Even ordinary text pages are enlivened with animals and figures. The manuscript, recorded at Kells in the 11th century, was stolen in 1007 and its gold cover lost. It came to Trinity College Dublin in the 17th century, where it is displayed, a page turned regularly.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

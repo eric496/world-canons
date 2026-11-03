@@ -32,4 +32,4 @@ Michelet's History of France and History of the French Revolution aimed at the '
 Michelet published the first six volumes of his Histoire de France, on the Middle Ages, between 1833 and 1844, using his privileged access to the National Archives. He then interrupted it to write his History of the French Revolution (1847–53), and returned to complete the story from the Renaissance to 1789 in eleven more volumes, finished in 1867. His famous 'Tableau de la France' describes the regions of the country as a living landscape, and his portrait of Joan of Arc as a saint of the people became a national icon. The volumes on the sixteenth century popularised the word Renaissance for the age of rediscovery of the world and of man. Later volumes are more anticlerical and polemical. Michelet's ambition was to resurrect the whole life of the past.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

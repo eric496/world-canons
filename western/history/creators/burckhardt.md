@@ -28,4 +28,4 @@ Burckhardt turned from political narrative to the study of a whole culture: its 
 Die Kultur der Renaissance in Italien, published in 1860, is organised not as a narrative but in six thematic parts: the state as a work of art, the development of the individual, the revival of antiquity, the discovery of the world and of man, society and festivals, and morality and religion. Burckhardt argued that in Italy the medieval veil of faith and illusion first melted away, so that people became conscious of themselves as individuals. He drew on chronicles, letters, poetry and biographies rather than archives of state. The book created the modern image of the Renaissance, and much later scholarship, stressing medieval continuities and the role of northern Europe, has been a dialogue with it. Burckhardt himself called it simply an essay.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

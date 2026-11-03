@@ -1,4 +1,4 @@
-# Western timeline
+# Timeline: The Western Canon
 
 Every work in every section, in one chronology.
 

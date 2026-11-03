@@ -24,4 +24,4 @@ Eckhart wrote scholastic works in Latin but is best known for his German sermons
 Eckhart's German sermons, of which over a hundred are attributed to him, survive in notes and copies made by his hearers and followers rather than in his own edition, so their authenticity has had to be established by modern scholarship. Preached to Dominican nuns, Beguines and townspeople, they use paradox and striking images to speak of the soul's 'ground', where God is born, of 'detachment' (Abgeschiedenheit) from all created things and even from one's own will, and of a God beyond God, the silent desert of the Godhead. Some sentences were condemned by Pope John XXII in 1329, and Eckhart's followers preserved his teaching discreetly. Translated in the 19th and 20th centuries, the sermons have attracted philosophers, poets and readers interested in comparisons with Zen and Vedanta.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

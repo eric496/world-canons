@@ -32,4 +32,4 @@ In his short career Géricault rejected the cool idealism of David's school for 
 In July 1816 the French frigate Méduse ran aground off the coast of Mauritania through the incompetence of its captain, a returned aristocrat appointed by the restored monarchy. About 150 people were left on a makeshift raft. During 13 days adrift, they suffered starvation, madness, murder and cannibalism, and only 15 survived. Géricault interviewed survivors, built a model of the raft, and studied corpses and severed limbs in hospitals. His huge canvas, about 5 by 7 metres, shows the moment the survivors sight a distant ship on the horizon. The figures rise in a pyramid from the dead and despairing to a Black man waving a cloth. Shown at the 1819 Salon, it was both a political scandal and a manifesto of Romanticism. It is in the Louvre.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

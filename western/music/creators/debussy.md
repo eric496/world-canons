@@ -63,4 +63,4 @@ Debussy set Maurice Maeterlinck's Symbolist play almost word for word. In the my
 Debussy wrote La mer mainly in Burgundy and Jersey, far from the sea, which he said he preferred to know through memory. Its three movements are From Dawn to Noon on the Sea, Play of the Waves and Dialogue of the Wind and the Sea. Rather than painting literal pictures, the music evokes the changing light, motion and power of the sea through constantly transforming motifs and orchestral textures. At his request, the cover of the first edition reproduced part of Hokusai's woodblock print The Great Wave off Kanagawa. The first performance was poorly received, partly due to the scandal of Debussy's divorce. It later became one of the most frequently performed orchestral works of the twentieth century.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

@@ -48,4 +48,4 @@ Painted in 1509–11 in the Stanza della Segnatura, probably Julius II's library
 Raphael painted this altarpiece in 1512–13 for the Benedictine church of San Sisto in Piacenza. The Virgin, carrying the Christ Child, walks forward on clouds as green curtains are drawn back, flanked by St Sixtus and St Barbara. Below, two winged cherubs lean on the ledge looking up dreamily. They have become some of the most reproduced images in the world, appearing on everything from postcards to stamps. Augustus III, King of Poland and Elector of Saxony, bought the painting in 1754 for Dresden. Soviet troops took it to Moscow in 1945, and it was returned to Dresden in 1955.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

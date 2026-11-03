@@ -68,4 +68,4 @@ The Rite of Spring was conceived by Stravinsky and the painter and archaeologist
 The conductor Serge Koussevitzky commissioned this symphony for the fiftieth anniversary of the Boston Symphony Orchestra, but its premiere took place in Brussels a few days earlier. Stravinsky, who had returned to the Russian Orthodox Church in 1926, set Latin texts from the Psalms in the Vulgate translation. He omitted violins, violas and clarinets, giving prominence to woodwinds, brass, two pianos and a harp. The first movement is a prayer, the second a double fugue, and the third, the longest, ends with a slow 'Laudate Dominum' over a repeated figure in the bass, like bells. It is one of the masterpieces of Stravinsky's neoclassical period.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

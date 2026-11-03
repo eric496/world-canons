@@ -62,4 +62,4 @@ Paul wrote this letter from Ephesus to the church he had founded in Corinth, a c
 Paul wrote Romans, probably from Corinth around 57, to a church he had not founded, preparing for a visit on his way to Spain. He argues that all people, Jews and gentiles, have fallen short and are made righteous by God through faith in Christ, not by works of the law; that believers die and rise with Christ in baptism and live by the Spirit; and, in chapters 9–11, that God has not abandoned Israel, which will ultimately be saved. The letter ends with ethical exhortation and greetings to many named individuals, including women such as Phoebe and Junia. Romans was pivotal for Augustine's conversion and for Luther, Calvin and Barth. Since the 1970s the 'New Perspective on Paul' has argued that Paul was addressing the inclusion of gentiles more than individual guilt, a reading that remains debated.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

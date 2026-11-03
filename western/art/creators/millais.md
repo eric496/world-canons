@@ -32,4 +32,4 @@ Millais's early Pre-Raphaelite work is distinguished by brilliant, jewel-like co
 Painted in 1851–52 and now in Tate Britain, this painting illustrates the death of Ophelia in Shakespeare's Hamlet: after her father's death and Hamlet's rejection, she falls into a stream and drowns while singing. Millais spent months painting the riverbank background on the spot beside the Hogsmill River in Surrey, recording every plant in meticulous detail, many with symbolic meaning: the poppy for death, violets for faithfulness, daisies for innocence. The model was Elizabeth Siddal, who posed in a bath of water in his London studio. The lamps under the bath went out, she caught a severe cold, and her father demanded that Millais pay the doctor's bills.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

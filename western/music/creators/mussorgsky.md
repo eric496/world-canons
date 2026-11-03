@@ -44,4 +44,4 @@ Mussorgsky based his opera on Pushkin's drama about Boris Godunov, who became Ts
 Mussorgsky wrote this piano suite in a few weeks in 1874 after a memorial exhibition of drawings and watercolours by his friend the artist and architect Viktor Hartmann, who had died the previous year. Ten pieces depict individual pictures, such as a gnome, an old castle, a Polish ox-cart, unhatched chicks in their shells, the witch Baba Yaga's hut on hen's legs and Hartmann's design for a great gate in Kiev. They are linked by a recurring Promenade, representing the visitor walking around the gallery. Only a few of Hartmann's pictures survive. The suite was published only after Mussorgsky's death. It became famous in Ravel's brilliant orchestration of 1922, commissioned by the conductor Serge Koussevitzky.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

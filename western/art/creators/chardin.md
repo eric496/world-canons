@@ -32,4 +32,4 @@ Chardin's still lifes of copper pots, bread, fruit and game are painted with a t
 This large still life of 1728, in the Louvre, helped win Chardin admission to the Royal Academy. In a kitchen, a gutted skate (ray) hangs from a hook, its pale belly forming an eerie, almost human face, its red insides glistening. Beside it, a cat with bristling fur steps over a pile of oysters, eyeing the food. A knife sticks out from the table edge, and pots, a jug and a cloth complete the scene. Chardin's thick, tactile paint makes each texture palpable. Later artists including Cézanne, Matisse and Soutine studied and copied it.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

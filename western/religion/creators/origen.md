@@ -40,4 +40,4 @@ Written in Alexandria, On First Principles sets out in four books what the churc
 The Hexapla ('sixfold') set out the Old Testament in parallel columns: the Hebrew text, a Greek transliteration of the Hebrew, and the Greek versions of Aquila, Symmachus, the Septuagint and Theodotion, with extra columns for some books. In the Septuagint column Origen used critical signs borrowed from Alexandrian scholars of Homer to mark where the Greek had more or less than the Hebrew. The enormous work, perhaps some 6,000 leaves, was kept in the library at Caesarea, where Jerome consulted it, and was probably destroyed in the 7th century. Only fragments survive, in quotations, a Syriac translation of the Septuagint column and a few palimpsest leaves. It established a model for comparing biblical texts and shaped the Septuagint text used by later copyists.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

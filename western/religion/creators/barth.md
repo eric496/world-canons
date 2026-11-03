@@ -50,4 +50,4 @@ In May 1934 representatives of Lutheran, Reformed and United churches met at Bar
 Barth began the Church Dogmatics in Bonn in 1932 and continued it in Basel until 1967, producing over 9,000 pages in four volumes divided into thirteen part-volumes: the Word of God, the doctrine of God, creation and reconciliation; a planned fifth volume on redemption was never written. Everything is centred on God's self-revelation in Jesus Christ. Among its most influential parts are its reconstruction of the doctrine of election, in which Christ is both the electing God and the elected human being, and its extensive small-print discussions of the Bible and the history of theology. It is widely studied by Protestant and Catholic theologians.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

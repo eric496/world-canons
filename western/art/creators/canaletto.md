@@ -32,4 +32,4 @@ Canaletto's vedute (view paintings) combine topographical accuracy with careful 
 Painted around 1725, early in his career, this view in the National Gallery, London, shows not a famous monument but the everyday Campo San Vidal in Venice, temporarily turned into a stonemasons' workshop. In the foreground, masons dress blocks of stone for the rebuilding of the church of San Vidal. A mother rushes to a toddler who has fallen, women gossip at a window, and laundry hangs from a balcony. Across the Grand Canal, sunlit, rises the church and bell tower of Santa Maria della Carità. The warm light, the strong shadows and the sense of real working life make it one of Canaletto's finest paintings.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

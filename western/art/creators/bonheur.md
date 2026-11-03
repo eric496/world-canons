@@ -32,4 +32,4 @@ Bonheur lived for decades with her partner Nathalie Micas, and later with the Am
 Bonheur spent around 18 months attending the horse market on the boulevard de l'Hôpital in Paris, near the Salpêtrière hospital, dressed in men's clothing to avoid attention. This huge canvas, about 5 metres wide, was first shown at the 1853 Salon and reworked over the next two years. It shows grooms struggling to control powerful Percheron horses as they are paraded and sold, in a whirl of movement and dust. Bonheur is said to have included herself among the riders. The painting toured Britain, where Queen Victoria saw it in a private viewing, and it was bought by the American railroad magnate Cornelius Vanderbilt, who gave it to the Metropolitan Museum of Art in 1887.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

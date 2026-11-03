@@ -28,4 +28,4 @@ Tradition holds the Zohar to be the ancient teaching of Shimon bar Yochai. Gersh
 The Zohar ('Radiance') is a vast collection of mystical interpretations of the Torah, the Song of Songs, Ruth and other texts, written in an artificial literary Aramaic. Its stories portray Rabbi Shimon bar Yochai and his companions wandering through Galilee, discussing the hidden meanings of scripture. It develops the kabbalistic doctrine of the ten sefirot, the aspects through which the hidden God (Ein Sof) is manifest, and speaks of the divine feminine presence, the Shekhinah, of exile and redemption, and of how human deeds affect the divine realm. Tradition attributes it to bar Yochai. Most scholars since Gershom Scholem date it to late 13th-century Castile and link it to Moses de León, some seeing it as the work of a circle of kabbalists composed over time. It became a sacred text for many Jews, central to the Kabbalah of Safed and to Hasidism.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

@@ -40,4 +40,4 @@ Paul Sacher commissioned this work for the tenth anniversary of the Basel Chambe
 Bartók, ill and depressed in American exile, received a commission for an orchestral work from Serge Koussevitzky in 1943, which revived him. He explained that the title referred to the way single instruments or groups are treated in a concertante or soloistic manner. Its five movements move from darkness to life. The second, Game of Pairs, presents wind instruments in pairs at different intervals; the fourth, Interrupted Intermezzo, parodies a march theme from Shostakovich's Seventh Symphony, then widely broadcast; and the brilliant finale is based on folk dances. It became one of the most popular orchestral works of the twentieth century.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

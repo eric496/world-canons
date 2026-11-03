@@ -40,4 +40,4 @@ Al-Kitab al-mukhtasar fi hisab al-jabr wal-muqabala was written in Baghdad for t
 Al-Khwarizmi's book on arithmetic with Indian numerals is lost in Arabic and survives only in a twelfth-century Latin version, probably made in Spain, which begins 'Dixit Algorizmi', thus spoke al-Khwarizmi. It explains the nine Indian digits and the small circle for zero, how place value works, and methods for addition, subtraction, halving, doubling, multiplication, division and square roots, as well as calculation with fractions. Indian mathematicians had developed decimal place value with zero by around the sixth century, and the system reached Baghdad by the eighth. Through this and related Latin treatises, the Hindu-Arabic numerals spread among European scholars, and the methods of calculating with them became known as algorism, the origin of the modern word algorithm. They took centuries to displace Roman numerals in everyday use.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

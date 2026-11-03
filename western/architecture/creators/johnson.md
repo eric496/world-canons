@@ -28,4 +28,4 @@ Johnson was an arbiter of taste more than an innovator, moving from Miesian mode
 Philip Johnson built his own home on a wooded estate in New Canaan, completing it before Mies's Farnsworth House, which he had seen in design. It is a single room, about 17 by 10 metres, with walls of glass on a steel frame painted charcoal, and a brick cylinder containing the bathroom and fireplace as its only enclosed element. Low cabinets divide living, dining and sleeping areas. Opposite stands a windowless brick guest house. Over the next fifty years Johnson added an underground painting gallery, a sculpture gallery, a pavilion on the pond, a studio and other follies across the estate, a catalogue of his changing tastes. He and his partner David Whitney lived there until their deaths in 2005, leaving it to the National Trust for Historic Preservation, which opened it to the public.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

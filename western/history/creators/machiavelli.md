@@ -59,4 +59,4 @@ The Discourses on the First Ten Books of Titus Livy, written around 1513–19, u
 In 1520 Cardinal Giulio de' Medici, soon to be Pope Clement VII, commissioned Machiavelli to write a history of Florence. He presented the eight completed books to the pope in 1525. Unlike Bruni, Machiavelli was interested less in the city's external glories than in its internal divisions, which he believed had weakened Florence, in contrast to the productive conflicts of ancient Rome. The narrative covers the barbarian invasions, Guelfs and Ghibellines, the revolt of the Ciompi wool workers of 1378, the rise of the Medici, and the Pazzi conspiracy of 1478, ending with the death of Lorenzo the Magnificent in 1492. Writing for Medici patrons, Machiavelli put some of his sharpest judgments into the mouths of historical characters.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

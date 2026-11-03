@@ -72,4 +72,4 @@ Luke and Acts, addressed to a certain Theophilus, were written as a single work 
 John differs markedly from the other three, 'synoptic', Gospels. It begins with a hymn to the Logos, the Word who was with God and became flesh, and arranges Jesus's ministry around seven 'signs', such as turning water into wine at Cana and raising Lazarus, and long discourses with 'I am' sayings: the bread of life, the light of the world, the good shepherd. Its chronology, with several visits to Jerusalem, also differs. The Gospel refers to an anonymous 'disciple whom Jesus loved' as its witness; tradition identified him with the apostle John, writing at Ephesus in old age. Many scholars instead think of a 'Johannine community' whose traditions were edited in stages and completed around 90–110. Its high Christology was decisive for later doctrine of the Trinity, and its depiction of 'the Jews' as opponents is much discussed in modern Jewish-Christian dialogue.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

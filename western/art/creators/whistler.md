@@ -32,4 +32,4 @@ Whistler believed in 'art for art's sake': a painting should be an arrangement o
 Whistler painted his mother, Anna McNeill Whistler, in his London studio in 1871. She had stepped in when another model failed to appear and sat in profile because she was too tired to stand. Seated against a grey wall in a black dress and white lace cap, she is part of a carefully balanced composition of rectangles: a curtain with a Japanese-style pattern, a framed print on the wall and the footstool. Whistler insisted that the title expressed its true subject, an arrangement of colours and forms. The Royal Academy nearly rejected it. In 1891 the French state bought it, and in the 20th century it became an American icon of motherhood, even appearing on a US postage stamp. It is in the Musée d'Orsay.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

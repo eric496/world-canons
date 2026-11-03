@@ -40,4 +40,4 @@ Rashi explains the Torah phrase by phrase, clarifying difficult words, grammar a
 Rashi's commentary on the Babylonian Talmud explains the flow of the argument, defines terms, supplies the background and identifies speakers, enabling students without a teacher to follow the dense Aramaic discussions. It covers most of the tractates; for a few, the commentary was completed by his students and grandsons. Since Daniel Bomberg's Venice edition of 1520–23, it has been printed in the inner column of every standard Talmud page, opposite the Tosafot, the critical glosses of Rashi's successors. Its distinctive semi-cursive script, used for commentaries, is called 'Rashi script'. It is essential to traditional Talmud study.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

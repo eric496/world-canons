@@ -62,4 +62,4 @@ Painted in 1863 and shown at the 1865 Salon, Olympia reworks Titian's Venus of U
 Manet's last major painting, shown at the Salon of 1882, is set in the famous Parisian music hall. A barmaid stands behind a marble counter loaded with champagne, bottles of English Bass beer, a bowl of oranges and flowers. Behind her, a mirror reflects the glittering crowded hall, a chandelier and the green-booted legs of a trapeze artist at the top left. But the reflection doesn't match. The barmaid's reflection appears too far to the right, talking to a man in a top hat who should be standing where we are. Her detached expression contrasts with the bustle, and the painting has been read as a meditation on modern alienation and commerce. The collector Samuel Courtauld bought it in 1926, and it is in the Courtauld Gallery, London.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

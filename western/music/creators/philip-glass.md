@@ -24,4 +24,4 @@ Glass prefers to speak of 'music with repetitive structures' rather than minimal
 Glass and the director Robert Wilson created Einstein on the Beach, a work without a conventional plot about the figure of Albert Einstein, organised around images such as a train, a trial and a spaceship, connected by short interludes called knee plays. The texts include numbers, solfège syllables and spoken texts by Christopher Knowles, Lucinda Childs and Samuel M. Johnson. The music, for the amplified Philip Glass Ensemble, chorus and solo violin, is built on repeated patterns, with additive rhythmic processes. It lasts around five hours without an interval, and the audience is free to come and go. The two sold-out performances at the Metropolitan Opera in 1976 left Glass in debt. It is regarded as a landmark of contemporary opera.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

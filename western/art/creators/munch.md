@@ -32,4 +32,4 @@ Munch used simplified, flowing forms, symbolic colour and expressive distortion 
 Munch described an experience while walking at sunset along a road above the Oslo fjord: the sky turned blood-red, and he felt what he called an infinite scream passing through nature. In The Scream, a skull-like figure on a bridge clasps its face and seems to scream, or to hear a scream, while two figures walk away behind it. The blood-red sky and the blue fjord swirl in rhythmic lines. Munch made several versions: this painting in tempera and crayon on cardboard of 1893, in the National Museum in Oslo; a crayon drawing and a later painting in the Munch Museum; a pastel of 1895, sold in 2012 for nearly $120 million; and a lithograph. Research in 2021 confirmed that a pencil note on this version saying it could only have been painted by a madman was written by Munch himself. Two versions have been stolen and recovered, in 1994 and 2004. It has become a universal image of modern anxiety.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

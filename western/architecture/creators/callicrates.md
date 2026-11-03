@@ -27,4 +27,4 @@ How the work on the Parthenon was divided between Ictinus and Callicrates is not
 The temple of Athena Nike, Athena as goddess of victory, stands on a projecting bastion beside the Propylaea, the gateway to the Acropolis. A decree of the mid-fifth century entrusted its design to Callicrates, but it was built only in the 420s, during the Peloponnesian War. It is an amphiprostyle temple, with four slender Ionic columns at front and back and none along the sides, and a sculpted frieze showing gods and battles, including Greeks fighting Persians. A parapet around the bastion carried famous reliefs of winged Victories, among them one adjusting her sandal, now in the Acropolis Museum. The Ottomans dismantled the temple in 1686 to build a gun battery; it was reassembled from its original blocks in the 1830s and again in recent decades.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

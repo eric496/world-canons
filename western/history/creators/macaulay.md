@@ -32,4 +32,4 @@ Macaulay's History of England from the Accession of James the Second, published 
 Macaulay originally planned to carry his history from 1685 to the early nineteenth century, but he managed only the reigns of James II and William III; the fifth volume, edited by his sister, appeared after his death in 1859. The famous third chapter surveys the state of England in 1685, its population, roads, towns and social classes, an early attempt at social history. The narrative portrays James II as a would-be absolutist and William III as the deliverer of English liberties, and the Revolution of 1688 as the foundation of national greatness. The first two volumes sold tens of thousands of copies in Britain and many more in America. It is the classic example of what Butterfield later criticised as the Whig interpretation of history.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

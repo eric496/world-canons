@@ -32,4 +32,4 @@ Gregory's Ten Books of Histories run from the Creation to 591, but most of them 
 Gregory called his work simply the Ten Books of Histories; the title History of the Franks was added later. It begins with the Creation and a summary of world history, but from the fifth book onward it describes Gregory's own time in great detail: the struggles between the sons and grandsons of Clovis, the feud between queens Brunhild and Fredegund, plagues, famines and portents, and the day-to-day affairs of the Church. Clovis's conversion and baptism, told in book 2, became a founding moment in French national memory. Gregory writes as a bishop interpreting events morally, and he often appears in his own pages. Without him the history of sixth-century Gaul would be almost unknown.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

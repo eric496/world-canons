@@ -28,4 +28,4 @@ Arrian consciously modelled himself on Xenophon, calling himself a new Xenophon.
 Arrian's Anabasis of Alexander, named after Xenophon's work, follows Alexander from his accession in 336 BC through the conquest of the Persian Empire, the campaigns in Central Asia and India, and the return to Babylon, where he died in 323 BC. Arrian explains that he relied principally on Ptolemy, Alexander's general and later king of Egypt, and on Aristobulus, an engineer on the expedition, because both had taken part and wrote after Alexander's death, when they had less reason to flatter him. He clearly marks other material as hearsay. Though admiring, he criticises Alexander's excesses, such as the killing of Cleitus. Because the contemporary sources are lost, Arrian is the foundation of most modern narratives of Alexander.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

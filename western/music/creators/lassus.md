@@ -31,4 +31,4 @@ Lassus mastered every genre of his age: masses, motets, Magnificats, Italian mad
 Lassus completed this cycle in May 1594, three weeks before his death, and dedicated it to Pope Clement VIII. It sets twenty stanzas from Luigi Tansillo's poem on Peter's remorse after denying Christ three times, followed by a Latin motet in which Christ speaks from the cross. The seven voices may symbolise the seven sorrows of the Virgin or the seven deadly sins, and the cycle moves systematically through the eight church modes. The music is grave, intensely expressive and harmonically searching, the work of a composer who had suffered from depression in his last years. It is regarded as the culmination of the spiritual madrigal.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

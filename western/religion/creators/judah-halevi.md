@@ -28,4 +28,4 @@ Halevi wrote some 800 Hebrew poems, secular and religious, including his 'Songs 
 The Kuzari is built on the historical tradition that the ruling class of the Khazars, a Turkic people of the Caucasus steppes, converted to Judaism in the 8th or 9th century. In Halevi's book the king, told in a dream that his intentions are pleasing to God but not his actions, interviews a philosopher, a Christian scholar and a Muslim scholar before turning to a rabbi. The rabbi grounds his faith not in philosophical proofs but in God's revelation in history, witnessed publicly by the whole people at Sinai, and speaks of the special religious capacity of Israel and the holiness of the Land of Israel. The book closes with the rabbi's decision to go to Jerusalem, as Halevi himself did. It has remained a classic of Jewish thought.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

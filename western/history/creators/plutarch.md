@@ -32,4 +32,4 @@ Besides the Parallel Lives he wrote a huge range of essays on ethics, religion, 
 The Parallel Lives consist of twenty-three surviving pairs of biographies, each linking a Greek and a Roman, such as Alexander and Caesar, Demosthenes and Cicero, or Theseus and Romulus, most followed by a short comparison, plus four single lives. Plutarch explained that he was writing lives, not histories, and that a small action, a phrase or a jest often reveals character better than battles. His aim was moral: to offer examples to imitate and to avoid. Translated into French by Jacques Amyot in 1559 and into English by Thomas North in 1579, the Lives became one of the most influential books of the Renaissance. Shakespeare took the plots of his Roman plays from North's translation, and the American and French revolutionaries drew republican models from it.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

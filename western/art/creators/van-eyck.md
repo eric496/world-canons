@@ -48,4 +48,4 @@ This huge folding altarpiece was commissioned by the Ghent merchant Joos Vijd an
 Dated 1434, this small oak panel shows a wealthy Italian merchant, usually identified as Giovanni di Nicolao Arnolfini, and a woman, standing in a room of their house in Bruges. Every detail is rendered with astonishing precision: the dog, the oranges on the sill, the brass chandelier with a single lit candle, the discarded clogs. A convex mirror on the back wall reflects the couple from behind and two more figures in the doorway. Above it Van Eyck wrote in elaborate script, 'Johannes de eyck fuit hic 1434' ('Jan van Eyck was here'). It was long read as a wedding contract with the painter as witness. Scholars now debate whether it records a betrothal, celebrates a marriage, or even commemorates a dead wife. The National Gallery in London bought it in 1842.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

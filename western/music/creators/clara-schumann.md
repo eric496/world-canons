@@ -31,4 +31,4 @@ Clara Schumann composed mostly before 1854, including a Piano Concerto begun at 
 Clara Wieck began this concerto when she was about thirteen, writing what became its finale first as a one-movement piece, possibly with help from Robert Schumann on the orchestration. She completed it in 1835 and played it at the Leipzig Gewandhaus with Mendelssohn conducting. Its three movements are linked without pauses. The slow movement is a remarkable Romanze in which the orchestra falls silent, leaving the piano in duet with a solo cello, an idea that Brahms later echoed in his Second Piano Concerto. The work shows the influence of Chopin and of the virtuoso concertos of the day. After decades of neglect, it has been recorded and performed frequently since the late twentieth century.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

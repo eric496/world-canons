@@ -28,4 +28,4 @@ Burnham was an organiser of genius whose large office became a model of the mode
 The Fuller Company commissioned D. H. Burnham and Company to design a twenty-two-storey office building on the triangular plot formed by Broadway and Fifth Avenue at 23rd Street. Its steel frame, one of the earliest in New York for so tall a building, is clad in limestone and terracotta, organised like a classical column into base, shaft and capital, with Renaissance ornament. The narrow point is only about two metres wide. The building's shape, likened to a clothes iron, gave it its popular name, and the wind gusts around it became a legend. Photographers such as Alfred Stieglitz and Edward Steichen made it an icon of the modern city. Long used as offices, it is undergoing conversion to apartments.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

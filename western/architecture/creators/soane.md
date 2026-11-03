@@ -32,4 +32,4 @@ Soane stripped classicism down to incised lines, shallow domes and arches, and u
 Soane bought and rebuilt three adjoining houses on Lincoln's Inn Fields between 1792 and 1824, turning them into a home, an office for his practice and a museum for his students. Behind a façade with a projecting loggia of Portland stone, small rooms open into each other through arches, shafts and domes, lit from above by coloured glass and multiplied by convex mirrors. Casts, fragments, models, drawings and urns cover the walls, around a domed space and a crypt containing the sarcophagus of the Egyptian pharaoh Seti I, bought in 1824. A picture room with hinged panels holds Hogarth's series A Rake's Progress and An Election, as well as paintings by Canaletto and Turner. An Act of Parliament of 1833 preserved the house as Soane left it, free to visitors, and so it remains.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

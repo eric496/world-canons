@@ -44,4 +44,4 @@ Mendelssohn translated the Five Books of Moses into elegant High German, printin
 In the first part of Jerusalem, Mendelssohn argues that neither state nor church may coerce belief; the state may compel actions, but religion concerns convictions, so religious bodies should have no power of excommunication or punishment. In the second part, responding to the charge that Judaism itself was a coercive religion, he presents it as a revealed legislation, a law of actions given to Israel, whose eternal truths about God and morality are accessible to all people by reason. He urges Jews to keep the law while taking part in civil society, and calls on states to grant them civil equality. Kant praised the book. It became a founding text of modern Jewish thought and of liberal arguments for religious toleration.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

@@ -59,4 +59,4 @@ Augustine worked on On the Trinity for some twenty years. The first books set ou
 When the Visigoths sacked Rome in 410, pagans blamed the disaster on the abandonment of the old gods. In twenty-two books written over thirteen years, Augustine first argues that the gods had never protected Rome and that pagan religion and philosophy cannot give true happiness, then traces through history two 'cities', defined by two loves: the earthly city of self-love, and the city of God, a community of the faithful on pilgrimage through this world toward its fulfilment beyond history. Along the way he discusses creation, the fall, the Roman Empire, providence, peace and the last things. The work shaped medieval ideas of church and state and Western philosophies of history, and it was one of the most copied books of the Middle Ages.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

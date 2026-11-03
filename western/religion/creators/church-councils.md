@@ -91,4 +91,4 @@ During the English Civil War, Parliament called an assembly of divines to Westmi
 Convened by John XXIII and continued under Paul VI, the Second Vatican Council brought some 2,500 bishops to Rome in four sessions from 1962 to 1965, with Protestant and Orthodox observers present. Its sixteen documents include four constitutions: on the liturgy (Sacrosanctum concilium), which permitted the use of vernacular languages in the Mass; on the church (Lumen gentium), emphasising the church as the people of God and the collegiality of bishops; on revelation (Dei verbum); and on the church in the modern world (Gaudium et spes). The declaration Nostra aetate (1965) repudiated the charge that the Jews as a people were collectively guilty for Christ's death and spoke respectfully of Islam and other religions, and Dignitatis humanae affirmed religious freedom. How to interpret the council's reforms, as continuity or rupture, remains debated within Catholicism.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

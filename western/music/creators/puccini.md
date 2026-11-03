@@ -67,4 +67,4 @@ Tosca is based on Victorien Sardou's play, which Puccini had seen with Sarah Ber
 Madama Butterfly is based on David Belasco's play, itself drawn from a short story by John Luther Long. The American naval lieutenant Pinkerton marries the fifteen-year-old geisha Cio-Cio-San in Nagasaki, a marriage he does not take seriously. She waits faithfully for years with their son, singing 'Un bel dì'; when he returns with an American wife to take the boy, she kills herself. Puccini studied Japanese melodies, which he wove into the score, together with a quotation from The Star-Spangled Banner. The premiere at La Scala was a fiasco; after revisions it succeeded in Brescia three months later. Its depiction of Japan and its exoticism have been reconsidered in recent decades, but it remains one of the most performed operas.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

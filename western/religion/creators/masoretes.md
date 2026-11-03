@@ -44,4 +44,4 @@ The Aleppo Codex is a parchment codex of the whole Hebrew Bible written around 9
 Copied in Cairo around 1008–1010 by the scribe Samuel ben Jacob, who states that he corrected it according to manuscripts of the Ben Asher school, the Leningrad Codex contains the entire Hebrew Bible with vowels, accents and Masoretic notes. It also includes 'carpet pages' of geometric decoration, with micrographic Masoretic notes written in tiny letters forming patterns. The manuscript was acquired by the Karaite collector Abraham Firkovich and came to the Imperial Public Library in St Petersburg in the 19th century. Because the Aleppo Codex is incomplete, the Leningrad Codex is the basis of the scholarly editions Biblia Hebraica (from its third edition, 1937), Biblia Hebraica Stuttgartensia and Biblia Hebraica Quinta, and so of most modern translations of the Old Testament.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

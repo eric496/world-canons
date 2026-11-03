@@ -27,4 +27,4 @@ The Barbican combines three residential towers, long terrace blocks raised on co
 The Cripplegate area of the City of London was destroyed by bombing in 1940, and the City Corporation decided to rebuild it as a residential district for about 4,000 people. Chamberlin, Powell and Bon designed some 2,000 flats in three triangular towers, among the tallest residential buildings in London when completed, and long terrace blocks raised on columns around lakes, gardens and the surviving medieval church of St Giles Cripplegate, with the City of London School for Girls and the Guildhall School of Music and Drama. Pedestrian walkways separate people from traffic. The arts centre, opened by the Queen in 1982, contains concert hall, theatres, cinemas, a library and a conservatory. Its bush-hammered concrete was much disliked, but the estate was listed Grade II in 2001 and is now among the most sought-after addresses in London.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

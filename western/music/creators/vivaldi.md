@@ -31,4 +31,4 @@ Vivaldi wrote about five hundred concertos, many for violin but also for bassoon
 The Four Seasons are the first four concertos of Vivaldi's Op. 8, published in Amsterdam in 1725 under the title The Contest between Harmony and Invention, but probably written several years earlier, perhaps in Mantua. Each concerto in three movements is accompanied by a sonnet, possibly by Vivaldi himself, and letters in the score link lines of poetry to musical details: birdsong in Spring, a barking dog, a summer storm, drunken peasants and hunting in Autumn, chattering teeth and slipping on ice in Winter. The vivid pictorialism fits within ritornello form, and the solo violin part is brilliant. The works were popular in Vivaldi's time but forgotten later; after a recording revival from the 1940s they became among the most recorded pieces of classical music.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

@@ -36,4 +36,4 @@ Only five short chapters long, The Mystical Theology begins with a prayer to the
 The Celestial Hierarchy explains the biblical names of heavenly beings by arranging them into three ranks of three: seraphim, cherubim and thrones; dominions, powers and authorities; principalities, archangels and angels. Each rank receives divine illumination from the one above and passes it on below, so that the whole hierarchy draws creatures back toward God. Its companion, The Ecclesiastical Hierarchy, describes the church's sacraments and orders as reflecting the heavenly ones. The scheme was taken up by Gregory the Great, Aquinas and Dante, whose Paradiso follows it, and it shaped medieval art and ideas of order in church and society. Abbot Suger's Gothic rebuilding of Saint-Denis has often been linked to its theology of light, though the extent of that influence is debated.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

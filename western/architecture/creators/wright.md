@@ -58,4 +58,4 @@ Edgar J. Kaufmann, a Pittsburgh department store owner, asked Wright for a weeke
 Solomon R. Guggenheim and the artist Hilla Rebay, director of his foundation for non-objective art, commissioned Wright in 1943 to design a museum. After years of revisions, delays and conflicts with building officials, it opened in October 1959, six months after Wright's death. The building is a concrete spiral, wider at the top than the bottom, facing Central Park. Inside, a continuous ramp winds up around a central atrium under a glass dome, so visitors see the art as they descend and look across the open space at other works. Many artists and critics objected that its sloping floors and curved walls made paintings hard to hang. A tower by Gwathmey Siegel was added in 1992. The museum is part of the UNESCO World Heritage Site of Wright's architecture.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

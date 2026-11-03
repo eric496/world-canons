@@ -32,4 +32,4 @@ Tintoretto reportedly aimed to combine 'the drawing of Michelangelo and the colo
 Tintoretto painted this canvas in 1592–94, at the end of his life, for the chancel of Palladio's church of San Giorgio Maggiore in Venice, where it still hangs. Rather than the calm frontal arrangement used by Leonardo, he set the table on a steep diagonal running into the dark depths of a tavern-like room. Christ, at the centre, gives bread to the apostles, his halo blazing. Servants busy themselves with food and dishes, and a cat pokes into a basket. Smoke from a hanging oil lamp turns into the ghostly forms of angels swirling overhead, merging the everyday and the supernatural in one dramatic image of the Eucharist.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

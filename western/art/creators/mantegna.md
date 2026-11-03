@@ -48,4 +48,4 @@ Between 1465 and 1474 Mantegna frescoed a room in the Castello di San Giorgio, p
 In this painting from around 1480, now in the Brera in Milan, the dead Christ lies on a marble slab seen from his feet. He is drastically foreshortened so that the wounds in his feet and hands are thrust towards the viewer. Mantegna actually shortened the legs and enlarged the head to make the image readable and heighten its impact. At the left, the weeping Virgin, St John and Mary Magdalene squeeze into the edge of the picture. The colours are muted, almost like stone. The painting was found in Mantegna's studio after his death, which suggests he kept it for his own devotion.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

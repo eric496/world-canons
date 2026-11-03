@@ -33,4 +33,4 @@ Bede wrote biblical commentaries, works on grammar, poetry, science and time-rec
 Bede completed the Historia ecclesiastica gentis Anglorum in 731. It runs from Caesar's invasion of Britain to Bede's own day, focusing on the conversion of the Anglo-Saxon kingdoms by missionaries from Rome and from Ireland and Iona, the decision at the Synod of Whitby in 664 to follow Roman customs, and the lives of saints such as Aidan and Cuthbert. In his preface Bede names the people who supplied him with information, and he quotes letters and documents, an unusual practice that makes his work exceptionally valuable. Memorable passages include Pope Gregory's pun on Angles and angels and the image of human life as a sparrow flying through a lighted hall. Bede's use of anno Domini dating helped spread the system. Two manuscripts copied within a few years of his death survive.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

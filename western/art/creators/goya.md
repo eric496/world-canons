@@ -48,4 +48,4 @@ On 2 May 1808 the people of Madrid rose up against French occupation troops. The
 Between 1819 and 1823, Goya, now old, deaf and disillusioned, painted 14 dark murals directly on the plaster walls of his house outside Madrid, known as the Quinta del Sordo ('House of the Deaf Man'). This image, painted in the dining room, shows the Roman god Saturn (Kronos), who devoured his children for fear that one of them would overthrow him. Out of the black, a wild-eyed giant tears into the headless, bloody body of a child. The scene has been read as a symbol of time, of the destruction of Spain by its rulers, or of Goya's own despair. The titles were given by others after his death. In the 1870s the murals were transferred to canvas, and they were donated to the Prado in 1881.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

@@ -71,4 +71,4 @@ Saint-Sernin was built over the tomb of Saint Saturninus, first bishop of Toulou
 Durham Cathedral was begun in 1093 by Bishop William of St Calais, one of the Norman prelates installed after the Conquest, to house the shrine of Saint Cuthbert and the remains of Bede. Set high above a loop of the River Wear beside the castle, it was built largely in forty years. Its nave alternates huge compound piers with cylindrical columns carved with chevrons, spirals and flutes, and its stone ribbed vaults, with pointed transverse arches in the nave, are among the earliest in Europe, anticipating the structural system of Gothic. The Galilee Chapel and the Chapel of the Nine Altars were added in the twelfth and thirteenth centuries. Together with the castle it forms a UNESCO World Heritage Site and is often called the finest Norman building in England.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

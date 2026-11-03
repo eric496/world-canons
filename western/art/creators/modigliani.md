@@ -28,4 +28,4 @@ Modigliani's style is instantly recognisable: elongated faces and necks, almond-
 Painted in 1917–18, this large painting belongs to the series of reclining nudes that Modigliani made for his dealer Léopold Zborowski. Some of these nudes caused the police to close his only solo exhibition in 1917. A woman with a pale, elongated face and closed eyes lies across the whole width of the canvas, her warm, glowing body set against dark red and blue drapery. It draws on the tradition of Giorgione, Titian, Ingres and Manet, but with a frank, modern sensuality. In 2015 it sold at auction for $170.4 million to the Chinese collector Liu Yiqian, one of the highest prices ever paid for a painting at auction.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

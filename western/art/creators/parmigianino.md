@@ -48,4 +48,4 @@ Painted around 1524, when Parmigianino was about 21, this self-portrait is on a 
 Commissioned in 1534 for a chapel in the church of Santa Maria dei Servi in Parma, this altarpiece was still unfinished when Parmigianino died in 1540. The Virgin, with a swan-like neck and tapering fingers, presides over an impossibly long, sleeping Christ Child, whose pose foreshadows the dead Christ of the Pietà. Crowded angels press in at the left, and in the strangely scaled background a tiny prophet unrolls a scroll beside a row of unfinished columns. The disproportion is deliberate: the elongated beauty refers to medieval poetic images of the Virgin's neck as an ivory tower, and it was meant to delight connoisseurs. It is now in the Uffizi.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

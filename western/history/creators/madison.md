@@ -32,4 +32,4 @@ Madison's political thought centred on the problem of faction. He argued that a 
 Many opponents of the Constitution demanded a bill of rights, and several states ratified only on the understanding that one would follow. In June 1789 James Madison, drawing on the Virginia Declaration of Rights and the proposals of the state conventions, introduced amendments in the first Congress. Congress sent twelve to the states in September 1789, and ten were ratified by December 1791. They protect freedom of religion, speech, press, assembly and petition, the right to keep and bear arms, protection against unreasonable searches, the rights to due process, a speedy and public jury trial and counsel, and freedom from cruel and unusual punishment, and they reserve other powers to the states or the people. Originally they restrained only the federal government; after the Fourteenth Amendment the Supreme Court gradually applied most of them to the states.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

@@ -42,4 +42,4 @@ In July 1962 Warhol's first solo exhibition of paintings, at the Ferus Gallery i
 Marilyn Monroe died in August 1962. Within weeks, Warhol began silkscreening a publicity photograph of her from the 1953 film Niagara onto canvas. In the Marilyn Diptych, 50 images of her face are arranged in a grid across two panels. On the left, 25 images are printed in garish colours of yellow hair, pink skin and turquoise eye shadow. On the right, 25 are printed in black and white, increasingly smeared or faded, as if fading away. The work comments on celebrity, mass media, repetition and death. It was bought by the collectors Burton and Emily Tremaine, and Tate acquired it in 1980.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

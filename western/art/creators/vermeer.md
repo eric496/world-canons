@@ -76,4 +76,4 @@ Painted around 1665, this is not a portrait of a known sitter but a tronie, a Du
 In this painting of around 1666–68, in the Kunsthistorisches Museum in Vienna, a heavy tapestry curtain is pulled back to reveal a painter, seen from behind in a fine slashed doublet, at work. His model is dressed as Clio, the Muse of history, with a laurel wreath, a trumpet and a book. On the wall hangs a large map of the Seventeen Provinces of the Netherlands, with a crease that some see as dividing the Dutch Republic from the Spanish Netherlands. An elaborate chandelier displays the double-headed Habsburg eagle. Vermeer seems to have valued the painting greatly: after his death his widow tried to keep it from his creditors. Adolf Hitler bought it in 1940, and after the war it went to the Vienna museum. A restitution claim by heirs of the former owners was rejected by an Austrian advisory board in 2011.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

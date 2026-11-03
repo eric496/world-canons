@@ -25,4 +25,4 @@ His Gifford Lectures, published as The Varieties of Religious Experience (1902),
 Delivered as Gifford Lectures in Edinburgh, the Varieties defines religion, for his purposes, as the feelings, acts and experiences of individuals in relation to whatever they consider the divine. Drawing on autobiographies of saints, mystics, converts and ordinary people, James contrasts the 'healthy-minded' with the 'sick soul' and the 'twice-born', and analyses conversion, saintliness and mysticism, proposing four marks of mystical experience: ineffability, a noetic quality, transiency and passivity. Judging religion pragmatically by its fruits, he concludes that it is open to the reality of a 'more' beyond conscious life. The book has remained continuously in print.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

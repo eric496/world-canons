@@ -40,4 +40,4 @@ Francis's first, very simple rule of about 1209 consisted mainly of Gospel passa
 According to early sources, Francis composed the Canticle of the Creatures, also called the Canticle of Brother Sun, in 1225 while ill and nearly blind at San Damiano. In Umbrian Italian rather than Latin, it praises the Lord 'through' (or 'for', the Italian per being ambiguous) Brother Sun, Sister Moon and the stars, Brothers Wind and Fire, Sister Water and Mother Earth. Francis later added a stanza on pardon and peace, reportedly to reconcile the bishop and mayor of Assisi, and a final one welcoming Sister Bodily Death. It is among the earliest literary works in Italian. Its vision of creation as a family has made it one of the best-loved Christian texts, and Pope Francis took its opening words, Laudato si', as the title of his 2015 encyclical on the environment.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

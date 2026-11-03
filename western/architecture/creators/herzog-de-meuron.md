@@ -44,4 +44,4 @@ Bankside Power Station, designed by Giles Gilbert Scott and built in stages from
 The Elbphilharmonie stands on the tip of a peninsula in Hamburg's harbour, on top of the Kaispeicher A, a brick warehouse of the 1960s for cocoa, tea and tobacco. Herzog & de Meuron raised a glass structure on it whose roof rises and falls like waves, made of curved panes partly printed with dots. Between the old warehouse and the new building, a public plaza 37 metres above the ground gives views over the city and harbour. Inside are a hotel, apartments and three concert halls; the great hall, with seats rising in vineyard terraces around the stage, is lined with 10,000 gypsum panels individually milled to scatter sound, designed with the acoustician Yasuhisa Toyota. Costs rose from an estimated 77 million to about 789 million euros and the opening was delayed by years, but since 2017 it has become a symbol of Hamburg.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

@@ -32,4 +32,4 @@ Millet depicted the labour of French peasants, sowing, reaping, gleaning and dig
 Shown at the Salon of 1857, this painting shows three peasant women bending over the stubble of a harvested field to pick up the stray stalks of wheat left behind. Gleaning was a right granted to the poorest members of the rural community. In the bright background, a huge harvest is being loaded under the eye of an overseer on horseback. The women's heavy, monumental bodies and rhythmic poses give their back-breaking labour a timeless, almost religious dignity. Conservative critics saw it as a dangerous socialist reminder of rural poverty after the 1848 revolution. It is in the Musée d'Orsay.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

@@ -185,4 +185,4 @@ Relativity and quantum physics, Freud, two world wars; modernism breaks with tra
 - 1939–1940 · **Feudal Society**, [Marc Bloch](../history/creators/bloch.md)
 
 ---
-[← Romanticism to the Fin de Siècle](nineteenth-century.md) · [Western canon](../README.md) · [Since 1945 →](contemporary.md)
+[← Romanticism to the Fin de Siècle](nineteenth-century.md) · [The Western Canon](../README.md) · [Since 1945 →](contemporary.md)

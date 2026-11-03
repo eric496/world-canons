@@ -48,4 +48,4 @@ John Talbot, 16th Earl of Shrewsbury, the richest English Catholic, funded a par
 The great clock tower at the north end of the Palace of Westminster, known as the Clock Tower until 2012 and now as the Elizabeth Tower, was designed by Pugin in 1852, the last major design before his breakdown and death; he based it on an earlier tower he had designed. About 96 metres high, it is of brick clad in stone, with a cast-iron spire. The clock mechanism, designed by Edmund Beckett Denison and built by Edward John Dent and his stepson, began keeping time in 1859 and was famous for its accuracy. The name Big Ben properly belongs to the largest bell, which cracked soon after installation and was given a quarter turn so its hammer would strike elsewhere. A restoration was completed in 2022.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

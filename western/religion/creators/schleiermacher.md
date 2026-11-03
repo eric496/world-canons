@@ -45,4 +45,4 @@ Written while Schleiermacher was a hospital chaplain in Berlin among the early R
 In The Christian Faith Schleiermacher defines religion, or piety, as the 'feeling of absolute dependence', consciousness of being in relation with God, and Christianity as the form of piety in which everything is related to the redemption accomplished by Jesus of Nazareth. Doctrines are treated as descriptions of Christian religious self-consciousness, and some traditional teachings, such as the Trinity, which he placed in a conclusion, are reinterpreted. Its method made it the founding work of liberal Protestant theology, and it was the main target of Karl Barth's critique a century later.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

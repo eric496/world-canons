@@ -49,4 +49,4 @@ This scene belongs to the cycle of frescoes Giotto painted around 1305 for the S
 Painted around 1310 for the church of the Ognissanti (All Saints) in Florence, this altarpiece more than three metres tall shows the Virgin enthroned with the Child, surrounded by saints and angels. Compared with Cimabue's and Duccio's Madonnas, Giotto's Virgin has a weighty, three-dimensional body: her knees and breast press against her robes, and she sits firmly in a Gothic throne that recedes into space. Kneeling angels offer flowers, and the saints behind them overlap convincingly. It was a landmark in giving sacred figures physical presence.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

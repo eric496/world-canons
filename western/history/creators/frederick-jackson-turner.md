@@ -24,4 +24,4 @@ Turner presented his thesis at the American Historical Association meeting held 
 Turner read his paper to the American Historical Association, meeting in Chicago during the World's Columbian Exposition in July 1893. Starting from the Census Bureau's announcement that there was no longer a continuous frontier line, he argued that the existence of an area of free land, its continuous recession and the advance of American settlement westward explained American development. The frontier, he claimed, had stripped settlers of European habits, promoted individualism, self-reliance and democracy, and created a composite nationality. Initially little noticed, the thesis came to dominate American historical writing. From the 1980s the New Western historians criticised it for treating the West as empty, ignoring Native Americans, Mexicans, women and the environmental and violent costs of expansion, but it remains a reference point.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

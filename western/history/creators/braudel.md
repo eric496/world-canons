@@ -24,4 +24,4 @@ Braudel distinguished three speeds of historical time: the almost motionless his
 Braudel began research on Philip II's Mediterranean policy in the 1920s, but turned the sea itself into his subject. He wrote much of the book from memory as a prisoner of war in Germany from 1940 to 1945, defending it as a thesis in 1947 and publishing it in 1949; a revised edition followed in 1966. Its three parts move at three speeds of time: the almost unchanging environment of mountains, plains, seas and climate; the slow rhythms of economies, states, societies and civilisations; and the fast-moving history of events, culminating in the war between the Spanish and Ottoman empires and the battle of Lepanto. It is the classic work of the Annales school and of the 'long duration'.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

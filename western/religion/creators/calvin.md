@@ -48,4 +48,4 @@ The first edition, of six chapters, was published in Basel in 1536 with a dedica
 Calvin believed that congregations should sing chiefly the Psalms, in the vernacular and in unison. Beginning with a small collection in Strasbourg in 1539, he worked with the poets Clément Marot and Théodore de Bèze, who versified the psalms in French, and with musicians such as Louis Bourgeois, who composed or adapted many of the melodies, to produce the complete Genevan Psalter of 1562. Printed in tens of thousands of copies, it was translated into Dutch, German, English and other languages and remains in use in Reformed churches. The melody now known as the 'Old Hundredth', sung in English to 'All people that on earth do dwell', comes from it.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

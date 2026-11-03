@@ -32,4 +32,4 @@ Rubens was also a highly educated humanist and a diplomat. He helped negotiate p
 Rubens painted this huge triptych in 1610–11, soon after returning from Italy, for the high altar of the church of St Walburga in Antwerp. It was moved to the Cathedral of Our Lady in 1816, after being taken to Paris under Napoleon and returned. Across all three panels, muscular men strain to haul the cross with Christ upright along a dramatic diagonal. In the side wings, mourners grieve at left and Roman officers watch at right. The heroic bodies show what Rubens learned from Michelangelo's nudes and Hellenistic sculpture, and the dramatic light owes something to Caravaggio. With his Descent from the Cross in the same cathedral, it established him as the leading painter of the Southern Netherlands.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

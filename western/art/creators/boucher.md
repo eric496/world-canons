@@ -32,4 +32,4 @@ Boucher embodied the Rococo: pastel-coloured mythologies of Venus and her nymphs
 Boucher painted this full-length portrait of Jeanne-Antoinette Poisson, Marquise de Pompadour, mistress of Louis XV, in 1756. She reclines on a sofa in a magnificent sea-green silk gown trimmed with pink ribbons and roses. Around her are signs of her intellectual and artistic patronage: books, a writing desk with letters and a quill, engravings and a mirror reflecting a bookcase. Her little spaniel lies at her feet. The portrait presents her as an enlightened patron of the arts and letters rather than just a royal favourite. It is in the Alte Pinakothek in Munich.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

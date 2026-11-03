@@ -44,4 +44,4 @@ Alvar Aalto won a competition in 1929 for a tuberculosis sanatorium in a pine fo
 Harry and Maire Gullichsen, an industrialist couple and patrons of modern art, commissioned the Aaltos to design a house on the family estate near Pori, asking for an experiment in modern living. The L-shaped house encloses a garden with a kidney-shaped pool and a turf-roofed sauna. Inside, the large living space flows freely, its black-painted steel columns wrapped in rattan or grouped with wooden poles evoking the surrounding forest, while a stair is screened by vertical poles. White render, timber cladding, stone and a curved wooden studio mix the international and the vernacular. Villa Mairea is often described as Aalto's most personal work and an example of a softer, more humane modernism. It remains in the family and can be visited by appointment.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

@@ -55,4 +55,4 @@ In the Mishneh Torah ('Repetition of the Torah') Maimonides set out to summarise
 Addressed to a student perplexed by apparent conflicts between scripture and philosophy, the Guide interprets the Bible's anthropomorphic language about God figuratively, argues that God can only be described by negations, discusses whether the world is eternal or created (favouring creation while admitting it cannot be proven), and explains prophecy, providence, evil and the reasons for the commandments. Maimonides warned that he wrote it deliberately obscurely in places, and readers have long debated its true teaching. Its rationalism provoked fierce controversy in the 13th century, with copies burned in Montpellier in 1232. In Latin translation it influenced Aquinas and other scholastics, and later Spinoza and Leibniz.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

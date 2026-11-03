@@ -49,4 +49,4 @@ After nine months in the United States in 1831–32, Tocqueville published the f
 In L'Ancien Régime et la Révolution Tocqueville used provincial archives, especially those of the intendants, to study France before 1789. He argued that the Revolution was less a break than a continuation of trends, above all the centralisation of administration under the absolute monarchy, which had already deprived the nobility of its political role while leaving its privileges, making them hated. He observed that revolutions tend to come not when conditions are at their worst but when a bad government begins to reform. The book was planned as the first part of a larger work that his death prevented. It is a pioneering example of archival social and administrative history.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

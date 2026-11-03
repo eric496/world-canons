@@ -32,4 +32,4 @@ Constable painted the familiar landscape of the Stour valley ('Constable Country
 Exhibited at the Royal Academy in 1821 as Landscape: Noon, this large canvas shows a horse-drawn hay cart (wain) crossing a ford in the River Stour at Flatford Mill in Suffolk. Constable knew the spot intimately since childhood. At the left stands the cottage of the farmer Willy Lott, and on the right, beyond the trees, haymakers work in sunlit meadows under a vast sky of clouds. Constable worked up the composition from a full-size oil sketch, and his flickering white highlights convey sparkling light on water and leaves. The painting failed to sell in England, but at the Paris Salon of 1824 it won a gold medal from Charles X and inspired Delacroix and other French painters. It is in the National Gallery, London.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

@@ -28,4 +28,4 @@ Ancient writers linked him romantically with the celebrated courtesan Phryne, sa
 According to Pliny, Praxiteles made two statues of Aphrodite. The people of Kos chose the modestly draped one, and the city of Knidos bought the nude one, which made the city famous. The goddess is shown about to bathe, lowering her robe onto a water jar and lifting one hand before her body in a gesture later called the Venus Pudica (modest Venus). She stood in a round shrine that let visitors walk all the way around her, and ancient writers told stories of travellers overwhelmed by her beauty. The original is lost. Roman copies such as the Colonna Venus in the Vatican and the version in Rome's Palazzo Altemps preserve its composition, the first monumental fully nude goddess in Greek art.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

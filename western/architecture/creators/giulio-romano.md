@@ -32,4 +32,4 @@ At the Palazzo Te, Giulio played with the expectations of educated visitors who 
 Federico II Gonzaga built the Palazzo Te on an island at the edge of Mantua, where his family had stables, as a villa for leisure and for meeting his mistress. Giulio Romano designed the building and its decoration. A low, square building around a courtyard, it plays with classical rules: in the courtyard, triglyphs drop out of the frieze as if slipping, rough and smooth stone alternate, and keystones project unexpectedly, jokes intended for viewers who knew the rules. Inside, frescoes by Giulio and his workshop include the Sala di Psiche, with erotic scenes from the story of Cupid and Psyche, and the Sala dei Giganti, painted from floor to vaulted ceiling with Jupiter's thunderbolts striking down giants as columns collapse around the viewer. It is now a museum.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

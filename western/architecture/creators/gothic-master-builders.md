@@ -85,4 +85,4 @@ Cologne Cathedral was begun in 1248 under Master Gerhard to house the relics of 
 Henry VI founded King's College in 1441 and laid the foundation stone of its chapel in 1446, but the Wars of the Roses interrupted building, and it was completed under Henry VII and Henry VIII. The chapel is a single tall space, nearly 90 metres long, in the Perpendicular Gothic style, with walls almost entirely of glass framed by buttresses. The master mason John Wastell built its fan vault in 1508–15, a stone ceiling of cone-shaped fans with fine tracery, the largest of its kind. The windows, made mostly in the 1510s–40s by Flemish and English glaziers, form the most complete set of Renaissance-era glass in England, and Henry VIII's oak screen bears the initials of Anne Boleyn. The college choir's Christmas Eve Festival of Nine Lessons and Carols, broadcast since 1928, has made the interior famous worldwide.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

@@ -74,4 +74,4 @@ Schubert set twenty-four poems by Wilhelm Müller in Winterreise (Winter Journey
 Schubert completed the String Quintet in the late summer of 1828, two months before his death, and it was neither performed nor published in his lifetime. Unlike Mozart's quintets, which add a second viola, it adds a second cello, giving the sound richness and depth. The first movement is vast and lyrical; the Adagio, in which the inner voices sing a slow hymn over pizzicato bass and violin figures, is surrounded by a violent central section; the scherzo is energetic and the finale has a Hungarian character. Many musicians consider it the greatest work of chamber music, and the Adagio is often requested at funerals and played at moments of mourning.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

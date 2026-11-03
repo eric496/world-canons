@@ -162,4 +162,4 @@ A rebirth of classical learning that begins in Italy: perspective and the new ar
 - 1598 · **Edict of Nantes**, [Henry IV of France](../history/creators/henry-iv-of-france.md)
 
 ---
-[← The Middle Ages](middle-ages.md) · [Western canon](../README.md) · [Baroque & the Scientific Revolution →](seventeenth-century.md)
+[← The Middle Ages](middle-ages.md) · [The Western Canon](../README.md) · [Baroque & the Scientific Revolution →](seventeenth-century.md)

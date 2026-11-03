@@ -32,4 +32,4 @@ The Decline and Fall, published in six volumes from 1776 to 1789, covers thirtee
 Gibbon published the first volume in 1776 and the last two in 1788, having finished the work in his garden house at Lausanne in June 1787. Its seventy-one chapters run from the empire at its height in the second century to the fall of Constantinople to the Ottomans in 1453, covering the barbarian invasions, the rise of Christianity, Justinian, Muhammad and the Arab conquests, the crusades and the Mongols. Gibbon combined the critical erudition of antiquarian scholars with the irony and broad view of the Enlightenment, and his footnotes are famously witty. He attributed the fall in part to the triumph of barbarism and religion, and chapters 15 and 16, which treated early Christianity's growth and martyrdoms as human phenomena, provoked furious replies. The work has never been out of print and is regarded as one of the summits of historical writing.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

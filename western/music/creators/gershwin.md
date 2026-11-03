@@ -44,4 +44,4 @@ The bandleader Paul Whiteman announced a concert entitled An Experiment in Moder
 Porgy and Bess is based on DuBose Heyward's novel Porgy and the play by DuBose and Dorothy Heyward, with lyrics by DuBose Heyward and Ira Gershwin. Set in Catfish Row, a fictional African American tenement in Charleston, South Carolina, it tells of the disabled beggar Porgy, who tries to rescue Bess from her violent lover Crown and the drug dealer Sportin' Life. Gershwin called it a folk opera and insisted on an all-Black cast of classically trained singers. Its songs, including Summertime, I Got Plenty o' Nuttin' and It Ain't Necessarily So, mix jazz, blues, spirituals and operatic writing. The first Broadway run was a financial failure. Some African American critics criticised its stereotypes, and its reception is still debated, but the Metropolitan Opera staged it in 1985 and it is now part of the international repertory.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

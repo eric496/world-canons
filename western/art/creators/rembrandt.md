@@ -62,4 +62,4 @@ Painted in the last years of his life, around 1665–69, this self-portrait show
 This late painting, probably from around 1668, in the Hermitage in St Petersburg, illustrates Jesus's parable of the son who squanders his inheritance and returns home in disgrace, only to be welcomed with love by his father. The ragged son kneels with his shaven head buried against his father's chest, one sandal falling from his worn foot. The old, almost blind father bends over him and lays both hands on his back. Viewers have often noted that one hand looks larger and masculine and the other more slender. At the right, the stern elder brother watches, and other figures emerge from the deep warm shadows. It is one of the most moving images of forgiveness in art.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

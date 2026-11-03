@@ -32,4 +32,4 @@ His History of the Kings of Britain, finished around 1136, claimed to translate 
 Geoffrey of Monmouth claimed to have translated a very ancient book in the British language given to him by Walter, archdeacon of Oxford, though most scholars believe this is a fiction covering his own invention combined with material from earlier chronicles and Welsh tradition. The Historia describes the founding of Britain by Brutus, great-grandson of Aeneas, a long line of kings including Lear and Cymbeline, the prophecies of Merlin, and above all the reign of Arthur, who defeats the Saxons and conquers much of Europe before being betrayed by Mordred. Some medieval critics dismissed it as fable, but it became enormously popular and was accepted as history by many for centuries. It provided material for Arthurian romance, for Shakespeare and Spenser, and for royal propaganda.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

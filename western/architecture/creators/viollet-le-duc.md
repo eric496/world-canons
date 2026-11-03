@@ -28,4 +28,4 @@ He defined restoration as reinstating a building in a complete state that may ne
 Pierrefonds was built around 1400 by Louis of Orléans, brother of Charles VI, and dismantled on the orders of Cardinal Richelieu in 1617. Napoleon III, who visited the ruins, commissioned Viollet-le-Duc in 1857 to restore part of it as a residence, and the project expanded into a full reconstruction. Viollet-le-Duc rebuilt walls, towers, machicolations and battlements according to his understanding of medieval military architecture, but the interiors, with painted decoration and carvings, are a nineteenth-century fantasy. Work stopped after the fall of the Second Empire in 1870 and finished after his death. Pierrefonds is a textbook case of the restoration philosophy of its architect, admired for its imagination and criticised for inventing rather than preserving.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

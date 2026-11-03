@@ -35,4 +35,4 @@ Sappho wrote in her local Aeolic dialect, in metres that include the stanza late
 The Ode to Aphrodite is the only one of Sappho's poems known to survive complete, preserved because the critic Dionysius of Halicarnassus quoted it in full in the first century BC as an example of polished style. Written in seven Sapphic stanzas, it takes the form of a hymn: the poet calls on Aphrodite to come to her, as she has before, and recalls a previous visit when the goddess descended in a chariot drawn by sparrows, smiled and asked whom she should persuade to love Sappho this time. The goddess promises that the one who flees will soon pursue. The poem blends ritual prayer with personal desire and gentle self-mockery, and is notable for naming the speaker as Sappho. Together with the fragment known as Sappho 31, which describes the physical symptoms of desire, it has been among the most imitated and translated lyric poems in Western literature.
 
 ---
-[← All authors](../CREATORS.md) · [Literature](../README.md) · [Western canon](../../README.md)
+[← All authors](../CREATORS.md) · [Literature](../README.md) · [The Western Canon](../../README.md)

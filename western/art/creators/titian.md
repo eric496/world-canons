@@ -48,4 +48,4 @@ This enormous altarpiece, nearly 7 metres high, was installed on the high altar 
 Painted in 1538 and bought by Guidobaldo della Rovere, soon to be Duke of Urbino, this canvas shows a nude woman reclining on a white sheet, looking directly at the viewer with a small bouquet of roses in her hand. A little dog sleeps at her feet. In the background, two maids search a chest (cassone) for clothes. The painting has been read as a celebration of married love, with the dog symbolising fidelity and the chests a bride's trousseau, and also as a frankly sensual image for private pleasure. It transformed Giorgione's sleeping Venus into a wakeful, knowing woman, and it later inspired Manet's Olympia. It is in the Uffizi.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

@@ -28,4 +28,4 @@ Einhard's Life of Charlemagne, written probably in the 820s, borrows its structu
 Einhard wrote his Life of Charlemagne some years after the emperor's death in 814; its exact date is debated. Following the structure of Suetonius' lives, especially that of Augustus, it describes Charlemagne's wars against the Saxons, Lombards and Avars, his building works and his coronation as emperor in Rome in 800, and then his family, appearance, habits and death. Einhard records that the king tried to learn to write late in life, keeping tablets under his pillow, but without success. It is an idealised portrait, but by someone who knew him well, and it shaped the image of Charlemagne for the rest of the Middle Ages. More than eighty medieval manuscripts survive.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

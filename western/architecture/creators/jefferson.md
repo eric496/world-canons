@@ -49,4 +49,4 @@ Jefferson began building on his 'little mountain' near Charlottesville in 1769, 
 Jefferson conceived the University of Virginia as an 'academical village', a community of scholars instead of a single great building. A long terraced lawn is flanked by two rows of five pavilions, each a professor's house and classroom in a different classical order taken from ancient Roman examples, linked by colonnades in front of student rooms; behind are gardens and further ranges. At the head stands the Rotunda, the library, a half-scale version of the Pantheon in Rome, completed in 1826. Enslaved workers built much of it. Its brick and white-columned style became the model of American campuses. The Rotunda burned in 1895 and was rebuilt by Stanford White, and was later restored to Jefferson's design. In 1976 members of the American Institute of Architects voted it the proudest achievement of American architecture of the previous two hundred years.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

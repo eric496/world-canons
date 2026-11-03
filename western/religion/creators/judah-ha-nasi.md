@@ -28,4 +28,4 @@ Rabbinic tradition holds that Judah gathered and arranged the oral teachings of 
 The Mishnah collects the legal teachings of the rabbis known as Tannaim, from roughly the 1st century BC to about 200 AD, edited according to tradition by Judah ha-Nasi. Written in a concise Hebrew, it is arranged in six orders covering agriculture and blessings, Sabbath and festivals, women and marriage, damages and civil law, holy things and sacrifices, and purity, divided into sixty-three tractates. It often records disagreements between named sages, such as the houses of Hillel and Shammai, alongside anonymous rulings. Remarkably, much of it discusses Temple rituals that could no longer be performed, showing how the rabbis preserved and reinterpreted the tradition. The tractate Avot, 'Sayings of the Fathers', is a widely loved collection of ethical maxims. The Mishnah became the basis of both Talmuds and of the study of Jewish law ever since.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

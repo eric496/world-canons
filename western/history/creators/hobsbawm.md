@@ -36,4 +36,4 @@ The Age of Revolution argued that the modern world was made by a dual revolution
 The Age of Extremes divides the period from 1914 to 1991 into an 'age of catastrophe' of world wars, depression and the rise of fascism, a 'golden age' of economic growth and social transformation after 1945, and a 'landslide' of crisis and the collapse of the Soviet bloc. Hobsbawm, who had lived through much of it, wrote with personal involvement and global range. It was a bestseller and widely translated. Reviewers praised its breadth and insight while some criticised its treatment of communism as too indulgent of Soviet crimes, a charge Hobsbawm partly acknowledged.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

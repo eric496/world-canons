@@ -27,4 +27,4 @@ Lichtenstein took images from comic strips and advertisements and repainted them
 Painted in 1963, this large two-panel painting, about 4 metres wide, is based on a panel from a 1962 DC war comic, All-American Men of War. In the left panel, a fighter pilot fires a missile, with a speech balloon in the comic's style. In the right panel, an enemy plane explodes in a burst of red and yellow flame, with the giant onomatopoeic word 'WHAAM!'. Lichtenstein enlarged the comic image, simplified it and painted it with flat colours, black outlines and Ben-Day dots, giving a throwaway image the scale and presence of a history painting. Its acquisition by Tate in 1966 was controversial.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

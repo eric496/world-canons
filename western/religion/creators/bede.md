@@ -33,4 +33,4 @@ Bede wrote biblical commentaries, works on grammar, natural science and chronolo
 Completed in 731, Bede's Historia ecclesiastica gentis Anglorum tells, in five books, the story of Britain from the Roman invasion to his own day, centred on the conversion of the Anglo-Saxon kingdoms through Pope Gregory's mission to Kent in 597 and the Irish mission from Iona to Northumbria. It records the Synod of Whitby of 664, the lives of saints such as Aidan and Cuthbert, the cowherd poet Cædmon and many miracles. Bede named his sources and used documents obtained from Canterbury and Rome, and he dated events by the year of the Lord, popularising AD dating. Historians value it highly while noting its Northumbrian and Roman sympathies. It survives in over 150 manuscripts and was translated into Old English in the reign of Alfred.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

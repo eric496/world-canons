@@ -71,4 +71,4 @@ The Erechtheion, on the north side of the Acropolis, housed the ancient olive-wo
 The theatre in the sanctuary of Asclepius at Epidaurus, a healing centre that drew pilgrims from across Greece, was built in the late fourth century BC and extended in the second. Pausanias attributed it to Polykleitos the Younger, an attribution modern scholars treat with caution. Its limestone seats, for around 13,000 spectators, rise in a slightly more than semicircular bowl around a full circular orchestra, set into a natural hillside. The theatre is famous for its acoustics, which carry even a whisper from the orchestra to the upper rows, an effect researchers have linked to the way the rows of seats filter low-frequency noise. Buried for centuries and excavated from 1881, it is again used for performances of ancient drama each summer.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

@@ -32,4 +32,4 @@ Wycliffe's followers, known as Lollards, produced English translations of the wh
 The Wycliffite Bible exists in two versions: an early, very literal translation of the Vulgate made around 1382, and a later, more idiomatic revision of the 1390s, associated with John Purvey, whose role scholars now question. Wycliffe's personal involvement is debated; the translation was the work of a team of Oxford scholars inspired by his teaching that scripture should be available to all. In 1409 the Constitutions of Oxford, under Archbishop Arundel, forbade translating or owning the Bible in English without episcopal approval, and Lollards were prosecuted. Nevertheless, some 250 manuscripts survive, more than of any other medieval English text, many apparently owned by orthodox readers. It was a forerunner of the Reformation Bibles.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

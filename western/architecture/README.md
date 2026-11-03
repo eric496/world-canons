@@ -55,4 +55,4 @@ Western architecture from the temples of ancient Greece to the present, told thr
 **Images.** All photographs and pictures are hosted on Wikimedia Commons and link to their file pages, where the photographer, licence and attribution are given. Photographs of modern buildings are shown as Commons hosts them under the freedom-of-panorama rules of each country. Portraits of architects are paintings, drawings, engravings or sculptures in the public domain only; architects known only from photographs have no portrait.
 
 ---
-[← Western canon](../README.md) · [All people](../PEOPLE.md) · [Western timeline](../TIMELINE.md)
+[← The Western Canon](../README.md) · [All people](../PEOPLE.md) · [Timeline](../TIMELINE.md)

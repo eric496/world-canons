@@ -40,4 +40,4 @@ In six books, Chrysostom imagines a conversation with his friend Basil (not Basi
 The Divine Liturgy of St John Chrysostom is the standard eucharistic service of the Byzantine rite, used on most Sundays and weekdays in Orthodox and Eastern Catholic churches; the longer Liturgy of St Basil is used on certain feasts. Its central prayer, the anaphora, may go back to Chrysostom's time in Antioch or Constantinople, and scholars think he may have adapted an earlier anaphora; much of the rest of the service grew around it over the following centuries in the imperial capital. It includes litanies, the Little and Great Entrances, the Cherubic Hymn, the Creed, the consecration and communion. It has been translated into many languages and set to music by composers such as Tchaikovsky and Rachmaninoff.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

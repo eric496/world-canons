@@ -27,4 +27,4 @@ Brâncuși carved directly in stone and wood and refined his forms in polished b
 Brâncuși began the theme of the bird around 1910 with Maiastra, a magic bird from Romanian folklore. In 1923 he made the first Bird in Space, and he went on to make around 16 versions in marble and polished bronze. The bird's wings and feathers are eliminated, leaving a slender, tapering form that rises from a narrow foot and seems to soar, the essence of flight rather than an image of a bird. When a version was shipped to the United States in 1926, customs officials refused to classify it as art and taxed it as a manufactured metal object. In 1928 a court ruled in Brâncuși's favour, a landmark decision for modern art. Versions are in the Museum of Modern Art, the Metropolitan Museum, the Philadelphia Museum of Art and elsewhere.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

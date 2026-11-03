@@ -32,4 +32,4 @@ Rastrelli's buildings have long, rhythmic façades of coloured stucco with white
 Empress Elizabeth commissioned Rastrelli to build a new Winter Palace on the Neva, the fourth on the site. Completed in 1762, just after her death, it is a four-sided block around a courtyard, with over a thousand rooms and façades on the river and Palace Square, punctuated by columns, window surrounds and statues on the roofline. Rastrelli's Jordan Staircase survived a fire in 1837, after which much of the interior was rebuilt by Vasily Stasov and Alexander Bryullov. The palace was the main residence of the tsars until 1904, the scene of the massacre of Bloody Sunday in 1905, and in October 1917 the seat of the Provisional Government stormed by the Bolsheviks. It is now part of the State Hermitage Museum, founded on Catherine the Great's collection.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

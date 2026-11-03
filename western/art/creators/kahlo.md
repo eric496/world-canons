@@ -27,4 +27,4 @@ Kahlo painted around 200 works, about a third of them self-portraits, combining 
 Kahlo painted this large double self-portrait, about 1.7 metres square, in 1939, around the time of her divorce from Diego Rivera. Two Fridas sit side by side holding hands under a stormy sky. At the right, the Frida in a Tehuana dress, which Rivera loved, holds a tiny portrait of him. At the left, the Frida in a white European Victorian dress tries to stop the bleeding from a severed artery with surgical forceps, and blood drips onto her skirt. Their exposed hearts are connected by a single vein. The painting expresses her divided identity, Mexican and European, loved and abandoned. It was shown at the International Surrealist Exhibition in Mexico City in 1940 and is in the Museo de Arte Moderno in Mexico City.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

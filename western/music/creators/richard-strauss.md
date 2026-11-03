@@ -59,4 +59,4 @@ Strauss set Hedwig Lachmann's German translation of Oscar Wilde's play Salome, i
 Der Rosenkavalier (The Knight of the Rose), with a libretto by Hugo von Hofmannsthal, is set in Maria Theresa's Vienna. The Marschallin, a princess in her thirties, has a young lover, Octavian. Octavian is sent to present a silver rose to Sophie on behalf of the boorish Baron Ochs, but falls in love with her. The Marschallin, reflecting on time and age, gives him up, and the opera ends with a trio for three sopranos (Octavian is a trouser role) and a duet. Strauss filled the score with anachronistic waltzes and lush harmony, a deliberate turn from the modernism of Elektra. The premiere was such a success that special trains ran from Berlin to Dresden. It is one of the most beloved operas of the twentieth century.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

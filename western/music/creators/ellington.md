@@ -36,4 +36,4 @@ Mood Indigo, credited to Ellington, Barney Bigard and Irving Mills, was first re
 Ellington premiered Black, Brown and Beige at his first Carnegie Hall concert in 1943, a fundraiser for Russian war relief. Lasting about forty-five minutes, it was described as a tone parallel to the history of African Americans, from Africa and slavery (Black), through emancipation and the contributions of Black soldiers (Brown) to life in Harlem in the 1920s and 1930s (Beige). It includes the spiritual-like melody Come Sunday, played by the alto saxophonist Johnny Hodges. Some critics, both jazz and classical, received it coolly, and Ellington never again recorded it complete, preferring excerpts. It is now recognised as a landmark attempt to create extended composition in jazz.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

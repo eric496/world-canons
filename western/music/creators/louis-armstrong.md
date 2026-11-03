@@ -24,4 +24,4 @@ Armstrong's improvisations showed that a jazz solo could tell a coherent, dramat
 West End Blues was written by King Oliver, Armstrong's mentor, and named after a resort on Lake Pontchartrain in New Orleans. Armstrong recorded it in Chicago in 1928 with his Hot Five, including the pianist Earl Hines. It opens with a dazzling unaccompanied trumpet cadenza, then moves through a slow blues with solos for trombone and clarinet, the latter in call and response with Armstrong's wordless scat singing, and a piano solo by Hines, before Armstrong returns with a long held high note and a descending phrase. The recording showed that jazz improvisation could reach the expressive and structural ambition of composed music. It was inducted into the Grammy Hall of Fame in 1974.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

@@ -27,4 +27,4 @@ Notre-Dame began as an early Gothic building with sexpartite vaults and gallerie
 Bishop Maurice de Sully began Notre-Dame in 1163, and the choir, nave and west façade were built over the next eighty years. The early design, with galleries over the aisles and six-part vaults, was enlarged in the thirteenth century with taller clerestory windows, flying buttresses among the earliest of their kind, and the great rose windows of the transepts by Jean de Chelles and Pierre de Montreuil. The west front, with its three sculpted portals, gallery of kings and twin towers, is a model of balance. Damaged in the Revolution and neglected, the cathedral was made famous anew by Victor Hugo's novel of 1831 and restored by Lassus and Viollet-le-Duc, who added the spire. On 15 April 2019 a fire destroyed the roof and spire; after five years of reconstruction, the cathedral reopened in December 2024.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

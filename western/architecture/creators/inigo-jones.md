@@ -48,4 +48,4 @@ Anne of Denmark, wife of James I, commissioned Inigo Jones in 1616 to build a ho
 James I commissioned Inigo Jones to build a new Banqueting House in the Palace of Whitehall, for court ceremonies and the masques Jones himself designed. Its façade, with Ionic and Corinthian orders in Portland stone, is modelled on Palladian palaces. Inside, a double cube hall, 110 by 55 feet, has a gallery and a flat ceiling divided into panels, which Charles I commissioned Peter Paul Rubens to paint with an allegory of the wise rule of his father, installed in 1636. Masques were stopped to protect the paintings from candle smoke. On 30 January 1649 Charles I walked through the hall to a scaffold outside a window, where he was executed. The rest of the palace burned in 1698, and the Banqueting House alone survives.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

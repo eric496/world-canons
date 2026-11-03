@@ -49,4 +49,4 @@ Voltaire worked on Le Siècle de Louis XIV for some twenty years, publishing it 
 The Essai sur les mœurs et l'esprit des nations grew out of Voltaire's wish to give Émilie du Châtelet a history worth reading, and was published in 1756 and repeatedly enlarged. Deliberately answering Bossuet's Discourse on Universal History, which centred on the Jews and Christianity, Voltaire opened with China, India and Persia and the Islamic world before turning to Europe, treating Christianity as one civilisation among others. He was interested in laws, customs, arts and beliefs rather than battles and dynasties, and he relentlessly attacked fanaticism and superstition. Later editions included an introduction he called the Philosophy of History. The work's scope was revolutionary, though its scholarship was uneven and its judgments often polemical.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

@@ -28,4 +28,4 @@ The four long hymns, to Demeter, Apollo, Hermes and Aphrodite, are among the mos
 This hymn of nearly five hundred lines tells how Hades, with Zeus's consent, seized Persephone, daughter of the grain goddess Demeter, and carried her to the underworld. Demeter wanders the earth in mourning, disguised as an old woman, and takes service as a nurse in the royal house of Eleusis. When her divinity is revealed she orders a temple built there and withholds the growth of crops until Zeus forces Hades to return Persephone. Because Persephone has eaten a pomegranate seed she must spend part of each year below. Before returning to Olympus, Demeter teaches the Eleusinians her secret rites, which bring blessing to initiates in this life and the next. The Eleusinian Mysteries were celebrated for about a thousand years until they were suppressed at the end of the 4th century AD, and the hymn is one of the principal sources for them, although it guards their secrets.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

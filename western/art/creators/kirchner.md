@@ -32,4 +32,4 @@ Kirchner's art, with its jagged forms, flattened space, clashing non-naturalisti
 Kirchner painted this street scene in Dresden in 1908 and reworked it in 1919. Fashionably dressed women and other figures crowd the pavement in strident, unnatural colours of pink, orange and green, and their mask-like faces stare blankly. The pavement tilts upward, and a tram is visible in the background. The sense of crowding and isolation, the tension and the lurid colour express the anxiety of the modern city. It anticipates his famous Berlin street scenes of 1913–15. It is in the Museum of Modern Art, New York.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

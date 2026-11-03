@@ -27,4 +27,4 @@ Pollock laid canvases on the floor and poured, dripped and flung paint from stic
 Pollock painted this huge canvas, more than 5 metres wide, at his studio in Springs, Long Island, in the autumn of 1950, at the height of his drip-painting period. He laid the unprimed canvas on the floor and poured and flung black, white, brown and teal enamel paint onto it with sticks and brushes, working from all sides. The result is a dense, rhythmic web of lines and splatters with no single focal point, which seems to extend beyond the edges of the canvas. It conveys the physical energy of its making. The Metropolitan Museum of Art acquired it in 1957, a year after Pollock's death.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

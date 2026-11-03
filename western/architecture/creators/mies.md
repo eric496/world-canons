@@ -72,4 +72,4 @@ Edith Farnsworth, a Chicago physician, commissioned Mies to design a weekend ret
 Samuel Bronfman, head of the distillers Seagram, planned a headquarters on Park Avenue; his daughter Phyllis Lambert persuaded him to hire Mies van der Rohe, with Philip Johnson as collaborator. Mies set the 38-storey tower back from the street behind an open granite plaza with two pools, an unusual gift of space in Manhattan that influenced New York's later zoning rules. The structure is concrete-encased steel, but its façade is clad in bronze mullions and amber-tinted glass, with non-structural bronze I-beams applied to express the frame, an expensive refinement. Johnson designed the interiors, including the Four Seasons restaurant. Lavishly built and precisely detailed, the Seagram was the model for countless glass office towers worldwide.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

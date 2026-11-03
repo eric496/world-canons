@@ -32,4 +32,4 @@ His Histories, in forty books of which five survive complete, cover the years fr
 Polybius asked a question he thought no one could ignore: how and under what kind of government the Romans had brought nearly the whole inhabited world under their rule in less than fifty-three years. To answer it he wrote a history linking events in Italy, Greece, Africa and Asia, which he saw as having become a single interconnected story. The surviving books cover the Punic Wars and Hannibal's invasion of Italy in detail, and book 6 contains his famous analysis of the Roman constitution as a balance of consuls, Senate and people. He set out strict principles for historians, insisting on personal inquiry, knowledge of geography and politics, and impartiality. His theory of mixed government passed through Cicero and Machiavelli to Montesquieu and the American founders.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

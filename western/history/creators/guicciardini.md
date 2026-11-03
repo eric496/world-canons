@@ -28,4 +28,4 @@ Guicciardini's History of Italy covers the years from the French invasion of 149
 Guicciardini wrote the Storia d'Italia in retirement in the last years of his life, revising it repeatedly. It covers the forty years from the French invasion of 1494 to the death of Clement VII in 1534, years in which Italy became the battlefield of France, Spain and the empire and its states lost their independence. He had taken part in many of the events as a diplomat, governor and commander, and he drew on official documents. His explanations are psychological and political, based on the ambitions, fears and miscalculations of rulers, and he often notes how events turned out contrary to expectations. The work was published by his nephew two decades after his death, with some passages critical of the papacy removed, and it was quickly translated into Latin, French and English.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

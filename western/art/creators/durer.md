@@ -62,4 +62,4 @@ This watercolour and gouache study of 1502, in the Albertina in Vienna, is one o
 One of Dürer's three 'Master Engravings' of 1513–14, Melencolia I shows a brooding winged figure seated amid scattered tools: a compass, plane, saw, nails, a large polyhedron, a sphere, an hourglass, scales, a bell and a ladder. A starved dog sleeps at her feet and a comet blazes over the sea. On the wall is a 'magic square' whose rows, columns and diagonals all add up to 34, with the date 1514 in the bottom row. The print draws on Renaissance ideas that melancholy, one of the four temperaments, was the condition of creative genius and also of paralysing doubt. It has been interpreted endlessly and is one of the most discussed images in Western art.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

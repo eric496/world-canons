@@ -32,4 +32,4 @@ Burke defended inherited institutions, gradual reform and the wisdom embodied in
 Written as a letter to a young Frenchman and published in November 1790, before the Terror, the Reflections responded to a sermon by the Dissenting minister Richard Price praising the Revolution. Burke argued that the revolutionaries' abstract theories of rights would destroy the institutions, customs and habits of deference that held society together, and predicted that the Revolution would lead to anarchy and military dictatorship. He contrasted it with the English Revolution of 1688, which he presented as a preservation of ancient liberties. His lament for Marie Antoinette and the passing of the age of chivalry became famous. The book sold widely and provoked many replies, including Paine's Rights of Man and Mary Wollstonecraft's Vindication of the Rights of Men. It remains central to debates about reform and revolution.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

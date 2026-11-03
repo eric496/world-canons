@@ -32,4 +32,4 @@ Bosch painted moral and religious allegories crowded with tiny figures, hybrid m
 Painted around 1490–1510, probably for the Nassau family's palace in Brussels, this triptych shows the world's history from creation to damnation. Closed, its shutters show the world on the third day of creation, painted in grey tones inside a crystal sphere. Open, the left panel shows God presenting Eve to Adam in Eden. The vast central panel is a paradise of naked men and women frolicking with giant birds, oversized fruit and fantastic structures, perhaps humanity lost in sensual pleasure. The right panel is a nightmarish hell where sinners are tortured with giant musical instruments, gamblers are punished, and a pale 'Tree-Man' gazes out from among the flames. Philip II acquired it in 1593, and it is now the most famous work in the Prado.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

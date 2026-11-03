@@ -32,4 +32,4 @@ Schinkel was equally at home in Greek and Gothic and believed each age must find
 King Frederick William III of Prussia agreed to open the royal collections to the public, and Schinkel designed a museum facing the royal palace across the Lustgarten. Its façade is a single colonnade of eighteen Ionic columns raised on a podium, recalling a Greek stoa. Behind it, a two-storey rotunda modelled on the Pantheon, lined with ancient statues, forms the heart of the building, with galleries for sculpture on the ground floor and paintings above around two courtyards. An open staircase between the columns let visitors look back over the city. It opened in 1830 and was the first building on what became Museum Island, a UNESCO World Heritage Site. Damaged in the Second World War, it was restored and today shows the classical antiquities collection.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

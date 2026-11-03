@@ -32,4 +32,4 @@ Holbein's portraits combine extraordinary realism, cool unflattering observation
 Painted in London in 1533, this double portrait shows Jean de Dinteville, French ambassador to Henry VIII, and his friend Georges de Selve, Bishop of Lavaur. Between them stands a two-tiered table covered with scientific instruments, a globe, a lute with a broken string and a Lutheran hymn book. These symbols of learning and the arts may also hint at discord in religion and politics during the Reformation. Across the floor floats a strange diagonal shape. Seen from the right side, close to the wall, it resolves into a human skull, an anamorphic memento mori reminding the viewer of death. A tiny crucifix half-hidden by the curtain at top left offers the hope of salvation. The National Gallery bought it in 1890.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

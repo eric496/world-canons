@@ -32,4 +32,4 @@ Bramante's Roman works, such as the cloister of Santa Maria della Pace and the T
 The Tempietto, 'little temple', stands in the cloister of San Pietro in Montorio on the Janiculum, on the spot where tradition held that Saint Peter was crucified. It was commissioned by Ferdinand and Isabella of Spain; its date is debated, though an inscription gives 1502. Bramante based it on round Roman temples such as that at Tivoli: a cylindrical cella ringed by sixteen Tuscan Doric columns, a balustrade, a drum and a hemispherical dome, with a crypt below. Only about four and a half metres across inside, it has a monumental gravity. Bramante planned a circular colonnaded courtyard around it, which was not built but is known from Serlio's treatise. Serlio published it, and Palladio included it in his Four Books as the only modern building among the ancient temples; it inspired domes such as that of St Paul's.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

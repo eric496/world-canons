@@ -40,4 +40,4 @@ Charles Wesley's original hymn, published in 1739, began 'Hark how all the welki
 In 1780 John Wesley gathered 525 hymns, the great majority by Charles, into a collection organised not by the church year but by the stages of Christian experience: exhortation to sinners, the pleasantness of religion, repentance, seeking for redemption, believers rejoicing, fighting, praying, watching, suffering and seeking full redemption. His preface called it 'a little body of experimental and practical divinity'. It includes hymns such as 'O for a thousand tongues to sing' and 'And can it be'. The collection shaped Methodist worship and theology, and through it the Wesleys' hymns entered the hymnals of many denominations.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

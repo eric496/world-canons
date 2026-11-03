@@ -48,4 +48,4 @@ Velázquez painted Pope Innocent X during his second visit to Rome in 1650. The 
 This large painting of 1656, in the Prado, is one of the most analysed works in Western art. In a room of the Alcázar palace in Madrid, the five-year-old Infanta Margarita Teresa stands at the centre, attended by two maids of honour (the meninas), a chaperone, a bodyguard, the dwarfs Maribárbola and Nicolasito, and a sleepy mastiff. At the left, Velázquez himself stands at a huge canvas, brush in hand, wearing the red cross of the Order of Santiago, probably added after his knighthood in 1659. In a mirror on the back wall we see King Philip IV and Queen Mariana, apparently standing where we are. The picture raises endless questions about who is looking at whom and what is being painted. In 1957 Picasso painted 58 variations on it, now in the Museu Picasso in Barcelona.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

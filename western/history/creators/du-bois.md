@@ -40,4 +40,4 @@ The Souls of Black Folk gathers fourteen essays, several previously published, t
 Black Reconstruction in America: An Essay Toward a History of the Part Which Black Folk Played in the Attempt to Reconstruct Democracy in America, 1860–1880 challenged the dominant 'Dunning school', which portrayed Reconstruction as a disastrous period of corruption caused by Black suffrage. Du Bois argued that enslaved people had freed themselves by a 'general strike', leaving the plantations to work for and fight with the Union, and that Reconstruction governments had achieved real advances such as public schools before being overthrown by violence. His use of Marxist categories and his final chapter, 'The Propaganda of History', attacking white historians, ensured it was largely ignored by the profession at the time. From the 1960s historians increasingly vindicated his interpretation, and it is now regarded as a classic.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

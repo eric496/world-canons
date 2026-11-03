@@ -43,4 +43,4 @@ After a fire in 1981 destroyed much of the Vitra furniture company's factory at 
 Named after the former president of Azerbaijan and father of his successor, the centre was commissioned by the government as a symbol of the modernising, oil-rich state. Zaha Hadid Architects designed a building in which the landscaped plaza seems to rise, fold and curve into a continuous white surface that becomes walls and roof, without a visible break, over a conference hall, a museum and galleries. A space frame of steel supports the cladding of glass-fibre reinforced panels, whose forms were developed digitally. The building won the Design Museum's Design of the Year award in 2014. It also drew criticism over the commissioning government's record on human rights and the evictions associated with the site.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

@@ -31,4 +31,4 @@ Tallis's music moves from the florid Latin antiphons of the pre-Reformation chur
 Spem in alium (I have never put my hope in any other) is written for eight choirs of five voices each, forty separate parts. Its origins are uncertain; a later account suggests it was composed to rival an Italian work for forty voices, perhaps by Alessandro Striggio, who visited London in 1567. It may have been performed at Arundel House in London or at Nonsuch Palace. The music begins with a single voice, and the sound passes around the choirs, which would have stood in a ring, before all forty join in great climaxes, with dramatic pauses before the close. The oldest surviving source was copied for the investiture of Henry as Prince of Wales in 1610 with an English text. It is a landmark of the English Renaissance and has inspired modern works, including Janet Cardiff's sound installation The Forty Part Motet.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

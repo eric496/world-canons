@@ -49,4 +49,4 @@ When the Sorbonne moved to censure the Jansenist theologian Antoine Arnauld in 1
 At his death Pascal left almost a thousand notes, some a few words, some several pages, for an apology for the Christian religion. His friends at Port-Royal published a selection in 1670, and the order of the fragments has been debated by editors ever since. Pascal describes the human condition as a mix of greatness and wretchedness, the human being as 'a reed, the feeblest thing in nature, but a thinking reed', and the restless diversions by which people avoid thinking of death. The famous wager argues that, since reason cannot decide whether God exists, one should bet on God, for if he exists the gain is infinite. Other fragments contrast the 'esprit de géométrie' with the 'esprit de finesse', and declare that 'the heart has its reasons which reason does not know'. The Pensées are a classic of French literature and of religious thought.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

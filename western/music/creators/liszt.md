@@ -44,4 +44,4 @@ Liszt completed his only piano sonata in Weimar in 1853 and dedicated it to Robe
 Les préludes is the third of Liszt's thirteen symphonic poems, one-movement orchestral works inspired by literature or art. It originated as the overture to an unfinished choral work, and Liszt later connected it to a poem by Alphonse de Lamartine, presenting life as a series of preludes to the unknown song of death, a link that scholars think was added after the music was written. A three-note motif is transformed through scenes of love, storm, pastoral peace and a battle-like triumph. The technique of thematic transformation influenced Wagner, Strauss and many others. The work's final fanfare was sadly misused in Nazi newsreels during the Second World War.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

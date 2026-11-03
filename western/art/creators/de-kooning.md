@@ -27,4 +27,4 @@ De Kooning was a leading gestural Abstract Expressionist, but unlike Pollock he 
 De Kooning worked on Woman I from 1950 to 1952, painting, scraping and repainting it dozens of times. At one point he abandoned it, and the art historian Meyer Schapiro reportedly encouraged him to continue. The result is a ferocious female figure with huge staring eyes, a toothy grin and massive breasts, built up from slashing, violent brushstrokes of pink, yellow, green and blue that merge with the background. Drawing on ancient fertility figures and American billboard pin-ups, it shocked critics who saw abstraction as the only serious path. It has been criticised as misogynistic and praised as a powerful image. The Museum of Modern Art acquired it in 1953.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

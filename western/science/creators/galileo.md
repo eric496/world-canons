@@ -76,4 +76,4 @@ Written in Italian for a broad readership, the Dialogue presents four days of co
 Discourses and Mathematical Demonstrations Relating to Two New Sciences was written while Galileo was under house arrest at Arcetri and, since he was forbidden to publish, smuggled out to the Protestant Netherlands and printed by Elsevier in Leiden. The same three speakers as in the Dialogue discuss the first science, the strength of materials, explaining why large animals and buildings need proportionally thicker supports, and the second, local motion. Galileo showed that freely falling bodies accelerate uniformly, so that distance increases with the square of time, which he tested by rolling balls down inclined planes, and that a projectile follows a parabola, combining uniform horizontal motion with accelerated fall. He also discussed pendulums and the paradoxes of infinite sets. The book founded the modern science of mechanics on which Newton built.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

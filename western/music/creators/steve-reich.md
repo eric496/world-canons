@@ -24,4 +24,4 @@ Reich's music emphasises audible processes: listeners can hear how the music is 
 Reich wrote Music for 18 Musicians for his own ensemble, which consists of violin, cello, two clarinets doubling bass clarinet, four women's voices, four pianos, three marimbas, two xylophones and a metallophone. The work begins and ends with a cycle of eleven chords, and each chord becomes the basis of a short section, lasting about five minutes. There is no conductor: the metallophone gives cues for changes, as in a Balinese gamelan or West African drumming, and the length of some passages depends on the breath of the singers and clarinettists. The 1978 ECM recording sold more than 100,000 copies, which was unusual for new music. It is often considered Reich's masterpiece and one of the defining works of minimalism.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

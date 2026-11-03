@@ -48,4 +48,4 @@ The first edition of Systema Naturae, printed in Leiden when Linnaeus was a 28-y
 Species Plantarum, The Species of Plants, published in two volumes in 1753, describes about 5,900 species, everything Linnaeus knew of the world's flora, arranged by his sexual system. For each species he gave a short Latin descriptive phrase and, in the margin, a 'trivial name', a single word that combined with the genus name formed a convenient two-word label such as Bellis perennis for the daisy. Linnaeus meant these names as a practical shorthand, but they proved so useful that they replaced the long phrases. International rules of botanical nomenclature take 1 May 1753, the nominal publication date of this book, as the starting point for the names of most plants, so that many names still used today date from it. The specimens he used are preserved by the Linnean Society of London and are consulted to fix the meaning of names.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

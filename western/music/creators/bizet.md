@@ -35,4 +35,4 @@ Bizet's music is marked by vivid melody, clear orchestration and dramatic direct
 Carmen, with a libretto by Henri Meilhac and Ludovic Halévy after Prosper Mérimée's novella, is set in Seville. Carmen, a cigarette-factory worker, seduces the soldier Don José, who deserts the army to join her and a band of smugglers. When she leaves him for the bullfighter Escamillo, José stabs her to death outside the bullring. The Opéra-Comique was a family theatre, and its directors were shocked by the realism and immorality of the story, which some critics condemned. Bizet's score is full of memorable numbers, including Carmen's Habanera, based on a song by Sebastián Yradier, the Seguidilla and the Toreador Song, and Spanish rhythms that he largely invented himself. Bizet died three months after the premiere. A version with sung recitatives by Ernest Guiraud spread the opera worldwide, and it is one of the most performed operas.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

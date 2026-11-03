@@ -44,4 +44,4 @@ Santa Croce was begun in 1294 for the Franciscan friars, who needed a vast hall 
 The Palazzo dei Priori, later called the Palazzo Vecchio, was built from 1299 to house the government of the Florentine republic, the Signoria. Vasari attributed it to Arnolfo di Cambio, a plausible but undocumented attribution. It is a massive block of rusticated stone, crowned by projecting battlements on corbels and by a slender tower 94 metres tall, built over an older tower and set off-centre. The Medici, who became dukes, lived here in the sixteenth century and had Vasari remodel the interiors, including the vast Hall of the Five Hundred; Leonardo and Michelangelo had been commissioned to paint battle scenes for it, which were never completed. It remains Florence's town hall and a museum, and Michelangelo's David stood before it until 1873, where a copy now stands.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

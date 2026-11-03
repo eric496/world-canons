@@ -32,4 +32,4 @@ Ghiberti's workshop was a training ground for the next generation, including Don
 In 1425 Ghiberti was commissioned to make a third set of bronze doors for the Florence Baptistery, the east doors facing the cathedral. He worked on them until 1452. Abandoning the Gothic four-lobed frames of earlier doors, he made ten large square panels of gilded bronze telling Old Testament stories from Adam and Eve to Solomon and the Queen of Sheba. Each panel uses the new linear perspective to create deep architectural and landscape settings, with figures modelled from almost fully round in front to faint low relief at the back. Small heads in the frame include a self-portrait. Michelangelo reportedly said the doors were worthy to be the Gates of Paradise. After flood damage in 1966 and long restoration, the originals are now in the cathedral museum, and copies hang on the Baptistery.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

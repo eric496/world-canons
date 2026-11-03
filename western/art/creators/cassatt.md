@@ -32,4 +32,4 @@ Cassatt is best known for intimate scenes of women's daily lives: reading, takin
 In this painting of 1893, in the Art Institute of Chicago, a mother in a striped dress sits holding her small child on her lap and washing the child's feet in a basin. Both look down at the water, absorbed. Cassatt's high viewpoint, flat patterns on the carpet, wallpaper and dress, and strong outlines owe much to the Japanese prints she had seen in Paris in 1890. The scene is intimate and ordinary but monumental in its composition, and it is one of Cassatt's best-known works.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

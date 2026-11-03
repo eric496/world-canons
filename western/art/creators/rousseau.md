@@ -32,4 +32,4 @@ Rousseau's flat, meticulously detailed, dreamlike pictures, with lush vegetation
 In this painting of 1897, a mandolin player in a striped robe lies asleep on a desert under a full moon, a water jug beside her. A lion approaches and sniffs at her, but seems not to attack. The scene is utterly still and mysterious, painted in Rousseau's smooth, flat style with crisp outlines and pale colours. Rousseau offered it to the town council of his home town, Laval, which turned it down. It disappeared for years, was rediscovered in 1923 and acclaimed by the Surrealists for its dreamlike quality. It is in the Museum of Modern Art, New York.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

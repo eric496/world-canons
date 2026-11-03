@@ -42,4 +42,4 @@ Painted in 1912, this painting shows a figure walking down a spiral staircase br
 In April 1917 the Society of Independent Artists in New York announced an exhibition open to anyone who paid the fee. Duchamp, a member of its board, submitted a standard porcelain urinal, laid on its back and signed 'R. Mutt 1917'. The committee refused to show it, and it was hidden during the exhibition. The photographer Alfred Stieglitz photographed it, and the photograph appeared in a small magazine, The Blind Man, with an article arguing that the artist's choice is what makes something art. The original was lost. In 1964 Duchamp authorised a small edition of replicas, now in museums including Tate. In 2004 a poll of 500 art experts named it the most influential work of modern art. Some scholars have suggested that the Dada artist Elsa von Freytag-Loringhoven may have been involved in the idea, though this is debated.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

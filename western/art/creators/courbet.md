@@ -48,4 +48,4 @@ This enormous canvas, more than 6 metres wide, was painted in 1849–50 and show
 Courbet's full title for this vast work of 1855 is The Painter's Studio: A Real Allegory Summing Up a Seven-Year Phase of My Artistic and Moral Life. At the centre he sits painting a landscape, watched by a nude model and a small boy. At the left are figures representing society and its victims and exploiters: a hunter, a rabbi, a laborer, a prostitute, a priest and others. At the right are his friends and supporters, including the poet Baudelaire reading, the socialist philosopher Proudhon, the critic Champfleury and his patron Alfred Bruyas. The jury of the 1855 World's Fair rejected it, and Courbet showed it in his own Pavilion of Realism. It is in the Musée d'Orsay.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

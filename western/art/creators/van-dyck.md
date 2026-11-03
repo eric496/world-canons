@@ -32,4 +32,4 @@ Van Dyck created a new kind of aristocratic portrait: relaxed yet dignified, ele
 In this portrait of around 1635, Van Dyck shows King Charles I not in armour or royal robes but as a gentleman out hunting. He has dismounted and stands casually with his hand on a cane, looking down at the viewer with an air of effortless superiority. A groom and a page attend his horse, which bows its head as if paying homage. The relaxed pose conceals Charles's short stature and conveys his belief in his natural, divine right to rule. The painting later entered the French royal collection and is now in the Louvre.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

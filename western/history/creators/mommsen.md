@@ -28,4 +28,4 @@ Mommsen's History of Rome (1854–56), a vivid, partisan narrative that portraye
 The first three volumes of Mommsen's Römische Geschichte, published in 1854–56, cover Rome from its origins to Caesar's victory at Thapsus in 46 BC. Mommsen wrote with the energy of a political pamphleteer, treating the Roman aristocracy as a decadent oligarchy and Caesar as a genius who created a new order; he described the politics of the Republic in the vocabulary of nineteenth-century parties. The planned fourth volume on the empire was never written, but in 1885 he published a fifth on the provinces of the empire, a masterpiece of scholarly synthesis. The Nobel committee in 1902 described him as the greatest living master of the art of historical writing, with special reference to this work.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

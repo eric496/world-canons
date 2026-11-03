@@ -36,4 +36,4 @@ La Société féodale, published in two volumes in 1939 and 1940, sought to unde
 Bloch wrote Apologie pour l'histoire, ou Métier d'historien between 1941 and 1943, while living under persecution and joining the Resistance, without access to his library. It opens with a child asking his father what history is for. Bloch defines history as the science of men in time, discusses observation, criticism of evidence and analysis, warns against the 'idol of origins', and insists that historians must understand the past through the present and the present through the past. The manuscript was unfinished when he was arrested and shot in 1944, and Lucien Febvre published it in 1949. It remains one of the most widely read introductions to the historian's work.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

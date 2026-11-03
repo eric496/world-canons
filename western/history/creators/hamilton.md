@@ -32,4 +32,4 @@ Hamilton argued for a strong national government and a commercial economy, again
 The Federalist essays appeared in New York newspapers from October 1787 to August 1788 under the pseudonym Publius, to persuade the state to ratify the proposed Constitution. Alexander Hamilton conceived the project and wrote about fifty-one essays, James Madison about twenty-nine and John Jay five; the authorship of a few was long disputed. The essays explain and defend each part of the Constitution. Madison's Federalist No. 10 argues that a large republic can control the effects of faction, and No. 51 that ambition must be made to counteract ambition; Hamilton's No. 78 describes the judiciary as the least dangerous branch. Collected in two volumes in 1788, the essays are still cited by the Supreme Court as evidence of the framers' intentions, and the Anti-Federalist writings that answered them are increasingly studied alongside them.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

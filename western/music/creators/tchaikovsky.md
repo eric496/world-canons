@@ -62,4 +62,4 @@ The Nutcracker is based on Alexandre Dumas's adaptation of E. T. A. Hoffmann's s
 Tchaikovsky wrote his last symphony in 1893 and considered it the best thing he had composed. The title Pathétique, roughly 'passionate' or 'emotional' in Russian, was suggested by his brother Modest. It breaks with symphonic tradition by ending in a slow, quiet movement that fades away into darkness, after a march-like third movement whose energetic conclusion often prompts applause. The second movement is a graceful waltz in an irregular 5/4 metre. Tchaikovsky conducted the premiere nine days before his death, and the symphony has been heard as a requiem for himself, an interpretation encouraged by speculation about the circumstances of his death, though he had planned a hidden programme of his own that he never disclosed.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

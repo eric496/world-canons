@@ -62,4 +62,4 @@ Painted in 1875 at Argenteuil, this painting in the National Gallery of Art, Was
 In his last decades Monet painted his water garden at Giverny obsessively, producing around 250 paintings of water lilies. After the Armistice of November 1918 he offered the French state a monumental ensemble of water lily paintings as a monument to peace. With the help of his friend Georges Clemenceau, it was installed in two oval rooms in the Musée de l'Orangerie in Paris, which opened in 1927, a few months after his death. The eight huge panels, each about two metres high and together about 100 metres long, surround the visitor with the surface of the pond: water, lilies, reflected clouds, willows, at different times of day. They are often seen as the first immersive installation and a forerunner of abstract painting.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

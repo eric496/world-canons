@@ -67,4 +67,4 @@ Monteverdi published this collection in Venice in 1610 together with a conservat
 Written for the public opera houses of Venice at the end of Monteverdi's life, to a libretto by Giovanni Francesco Busenello, Poppea tells how the Roman emperor Nero sets aside his wife Ottavia and the counsel of the philosopher Seneca to crown his mistress Poppea empress. It is one of the first operas on a historical subject, and it ends with the lovers' rapturous duet Pur ti miro, while the noble characters are exiled or dead. The music mixes recitative, arioso and songs to portray a wide range of characters, comic and tragic. The two surviving scores, from Venice and Naples, differ, and parts of the music, including probably the final duet, are by younger composers, a question of authorship that remains debated. Poppea is now regularly staged.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

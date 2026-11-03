@@ -32,4 +32,4 @@ Fuseli painted dramatic, sometimes violent and erotic scenes from Shakespeare, M
 Fuseli's sensational painting of 1781, shown at the Royal Academy in 1782, made him famous overnight. A young woman in white lies sprawled across a bed, her head and arms hanging backwards in a deep, troubled sleep. On her chest squats a demonic incubus, and a wild-eyed horse, a pun on 'mare', thrusts its head through the curtains. The picture fused eroticism, horror and dream at a time of growing interest in the irrational. Engravings spread it widely, it was parodied in caricatures, and Fuseli painted several versions. This first version is in the Detroit Institute of Arts.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

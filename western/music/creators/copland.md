@@ -36,4 +36,4 @@ In 1942 the conductor Eugene Goossens asked American composers to write fanfares
 Copland wrote this ballet for the dancer and choreographer Martha Graham, commissioned by the patron Elizabeth Sprague Coolidge. Its scenario concerns a young pioneer couple building a farmhouse in Pennsylvania in the early nineteenth century, with a revivalist preacher and a pioneer woman. The original score was for thirteen instruments; the orchestral suite of 1945 made it famous. Graham suggested the title, from a poem by Hart Crane, after the music was written. Its open, spacious harmonies and the variations on the Shaker song Simple Gifts became an image of American landscape and community. It won the Pulitzer Prize for Music in 1945.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

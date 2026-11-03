@@ -55,4 +55,4 @@ Mahler wrote The Song of the Earth in 1908–09, after the death of his daughter
 Mahler wrote his Ninth Symphony in 1909–10 in his summer composing hut in Toblach, South Tyrol, and between his conducting seasons in New York. Like the Pathétique of Tchaikovsky, it ends with a slow movement. The first movement, with its hesitant rhythm, which some have linked to Mahler's irregular heartbeat, builds to catastrophic climaxes; the second is a grotesque series of Ländler; the third a savage Rondo-Burleske. The final Adagio fades away into near silence over its last pages, marked ersterbend (dying away). Alban Berg described the first movement as the most heavenly thing Mahler wrote. Bruno Walter conducted the premiere after Mahler's death.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

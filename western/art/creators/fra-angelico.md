@@ -32,4 +32,4 @@ Fra Angelico combined the new Renaissance tools of perspective, solid figures an
 Fra Angelico painted this fresco around 1440–45 at the top of the staircase leading to the friars' dormitory in the convent of San Marco, where every friar would see it daily. The angel Gabriel, with rainbow-coloured wings, kneels before the Virgin, who sits on a simple stool and crosses her arms in humble acceptance. The setting is a light, airy loggia with slender columns close to the convent's real architecture by Michelozzo, opening onto an enclosed garden that symbolises her purity. An inscription below asks those passing to say a Hail Mary. The picture's quiet colours and clear space were designed for contemplation.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

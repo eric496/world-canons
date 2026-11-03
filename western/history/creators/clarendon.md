@@ -28,4 +28,4 @@ Clarendon wrote his History in two periods of exile, combining narrative with me
 Clarendon began his History in 1646 while in exile in Jersey, intending it as a confidential account for the king, and resumed it during his second exile after 1667, combining it with his autobiography. It covers the conflict from the accession of Charles I in 1625 to the Restoration of 1660. Clarendon defends the monarchy and the Church of England but criticises the errors of both sides, and his portraits of figures such as Lord Falkland, Hampden and Cromwell are celebrated for their insight and balance. Published by his son in three volumes in 1702–04, at a time of party conflict, it was immediately influential and profitable, its proceeds helping to fund the Clarendon Building in Oxford.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

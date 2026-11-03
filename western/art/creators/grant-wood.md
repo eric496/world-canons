@@ -28,4 +28,4 @@ Wood's paintings, with their crisp outlines, smooth surfaces and stylised, round
 In 1930 Grant Wood saw a small white house in Eldon, Iowa, with a Gothic Revival window in the gable, and imagined the kind of people who might live there. He painted a stern farmer holding a pitchfork and a woman beside him in front of the house. The models were his sister, Nan Wood Graham, and his dentist, Byron McKeeby. Wood said they were meant to be a father and his daughter, not husband and wife. The pitchfork's three tines are echoed in the stitching of the man's overalls and the window. The painting won a prize at the Art Institute of Chicago in 1930, which bought it. It quickly became an icon of rural America and one of the most parodied images in art. Whether it satirises small-town Midwestern values or celebrates them is still debated.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

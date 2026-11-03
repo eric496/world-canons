@@ -28,4 +28,4 @@ Horta used exposed iron and glass in domestic architecture and let the whiplash 
 Émile Tassel, a professor of descriptive geometry at the Free University of Brussels, commissioned his friend Victor Horta to build a house on a narrow plot in the Rue Paul-Émile Janson. Horta abandoned the conventional corridor plan of Brussels houses and arranged the rooms around an octagonal hall and a central staircase lit from above, with levels shifting by half-storeys. Exposed iron columns branch at the top like plant stems, and their whiplash curves continue in the painted walls, mosaic floor, stair rail and stained glass, all designed by Horta. The stone façade swells into a central bay window carried on iron. The house's unity of structure and ornament defined Art Nouveau. Divided into flats and altered in the twentieth century, it was restored in the 1980s and is part of a UNESCO World Heritage Site with three other Horta houses.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

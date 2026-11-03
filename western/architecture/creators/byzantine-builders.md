@@ -57,4 +57,4 @@ San Vitale was begun under Bishop Ecclesius when Ravenna was ruled by the Ostrog
 St Mark's was built as the chapel of the Doge of Venice to house the relics of Saint Mark, stolen from Alexandria in 828. The present church, begun in 1063 and consecrated in 1094, follows the plan of the lost Church of the Holy Apostles in Constantinople: a Greek cross with a dome over the crossing and each arm. Over the following centuries the Venetians covered it with more than 8,000 square metres of gold-ground mosaic, raised taller outer domes, and encrusted the façade with marble, sculptures and spoils, including the bronze horses taken from Constantinople in the Fourth Crusade of 1204. Its mixture of Byzantine, Romanesque, Gothic and Islamic elements reflects Venice's position between East and West. It became the cathedral of Venice in 1807.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

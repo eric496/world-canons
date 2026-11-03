@@ -153,6 +153,8 @@ class Subject:
             movs = ", ".join(f"[{self.mov_by_id[m]['name']}](../movements/{m}.md)"
                              for m in c.get("movements", []) if m in self.mov_by_id)
             out = [f"# {c['name']}", ""]
+            if c.get("name_native"):
+                out += [f"*{c['name_native']}*", ""]
             pf = c.get("portrait_file")
             if pf and pf in self.images:
                 cap = c.get("portrait_caption", "Portrait")
@@ -201,7 +203,7 @@ class Subject:
                         out += ["- **Links:** " + " · ".join(f"[{l['name']}]({l['url']})" for l in w["links"])]
                     out += [""]
                     out += [w.get("description") or w.get("note", ""), ""]
-            out += ["---", f"[← All {L['creators'].lower()}](../CREATORS.md) · [{self.title}](../README.md) · [Western canon](../../README.md)"]
+            out += ["---", f"[← All {L['creators'].lower()}](../CREATORS.md) · [{self.title}](../README.md) · [{TRAD_TITLE}](../../README.md)"]
             write(ROOT / here / f"{c['id']}.md", "\n".join(out))
         # movements
         for i, m in enumerate(self.movements):
@@ -209,7 +211,7 @@ class Subject:
             members = sorted([c for c in self.creators if m["id"] in c.get("movements", [])], key=born_year)
             ids = {c["id"] for c in members if self.first_movement(c) == m["id"]}
             ws = [w for w in self.works if w["creator"] in ids]
-            out = [f"# {m['name']}", "", f"*{m.get('dates', '')}*", ""]
+            out = [f"# {m['name']}" + (f" ({m['name_native']})" if m.get("name_native") else ""), "", f"*{m.get('dates', '')}*", ""]
             if m.get("period") in PERIODS:
                 out += [f"Era: [{PERIODS[m['period']]['name']}](../../periods/{m['period']}.md)", ""]
             out += [m.get("summary", ""), ""]
@@ -287,7 +289,7 @@ class Subject:
         extra = ROOT / P / "README.extra.md"
         if extra.exists():
             out += ["", extra.read_text(encoding="utf-8").strip()]
-        out += ["", "---", "[← Western canon](../README.md) · [All people](../PEOPLE.md) · [Western timeline](../TIMELINE.md)"]
+        out += ["", "---", f"[← {TRAD_TITLE}](../README.md) · [All people](../PEOPLE.md) · [Timeline](../TIMELINE.md)"]
         write(ROOT / P / "README.md", "\n".join(out))
 
     def build_csv(self):
@@ -304,7 +306,8 @@ class Subject:
 
 # --------------------------------------------------------------- tradition ---
 def build_tradition(tdir, subjects):
-    global PERIODS
+    global PERIODS, TRAD_TITLE
+    TRAD_TITLE = load(ROOT / tdir / "tradition.json", {"title": tdir.title()})["title"]
     periods = load(ROOT / tdir / "periods.json", [])
     PERIODS = {p["id"]: p for p in periods}
     for s in subjects:
@@ -321,9 +324,9 @@ def build_tradition(tdir, subjects):
     for s in subjects:
         for c in s.creators:
             people.setdefault(c["id"], []).append((s, c))
-    out = ["# People of the Western canon", "",
+    out = [f"# People of {TRAD_TITLE.replace('The ', 'the ')}", "",
            f"Everyone in every section, {len(people)} people in all, ordered by date of birth. "
-           "People who appear in more than one section (Michelangelo, Goethe, Leonardo…) are listed once.", "",
+           "People who appear in more than one section are listed once.", "",
            "| | Name | Life | Sections |", "|---|---|---|---|"]
     for pid, entries in sorted(people.items(), key=lambda kv: born_year(kv[1][0][1])):
         s0, c0 = next(((s, c) for s, c in entries if c.get("portrait_file") in s.images), entries[0])
@@ -332,7 +335,7 @@ def build_tradition(tdir, subjects):
     write(ROOT / tdir / "PEOPLE.md", "\n".join(out))
     # combined timeline
     allw = sorted([(w, s) for s in subjects for w in s.works], key=lambda x: x[0].get("sort", 0))
-    out = ["# Western timeline", "", "Every work in every section, in one chronology.", ""]
+    out = [f"# Timeline: {TRAD_TITLE}", "", "Every work in every section, in one chronology.", ""]
     cur = None
     for w, s in allw:
         lab = century_label(w.get("sort", 0))
@@ -363,7 +366,7 @@ def build_tradition(tdir, subjects):
         nav = []
         if i > 0:
             nav.append(f"[← {periods[i-1]['name']}]({periods[i-1]['id']}.md)")
-        nav.append("[Western canon](../README.md)")
+        nav.append(f"[{TRAD_TITLE}](../README.md)")
         if i < len(periods) - 1:
             nav.append(f"[{periods[i+1]['name']} →]({periods[i+1]['id']}.md)")
         out += ["---", " · ".join(nav)]
@@ -388,6 +391,7 @@ def build_tradition(tdir, subjects):
 
 
 PERIODS = {}
+TRAD_TITLE = ""
 PEOPLE_SUBJECTS = defaultdict(list)
 
 
@@ -397,6 +401,7 @@ def main():
     for t in traditions:
         subjects = [Subject(f"{t}/{p.parent.parent.name}") for p in sorted((ROOT / t).glob("*/data/subject.json"))]
         subjects.sort(key=lambda s: s.meta.get("order", 99))
+        PEOPLE_SUBJECTS.clear()
         for s in subjects:
             for c in s.creators:
                 PEOPLE_SUBJECTS[c["id"]].append(s)

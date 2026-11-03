@@ -32,4 +32,4 @@ Morisot painted the private world she knew: mothers and children, women dressing
 Morisot painted this picture in 1872. It shows her elder sister Edma, who had given up painting after her marriage, watching over her sleeping baby daughter Blanche. A gauzy white veil drawn across the cradle frames the child, and Edma's arm and gaze create a diagonal connecting mother and child. Its tender subject and delicate handling of whites and transparent fabric made it one of the most admired works at the first Impressionist exhibition in 1874. The Louvre acquired it in 1930, and it is now in the Musée d'Orsay.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

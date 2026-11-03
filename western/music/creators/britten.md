@@ -36,4 +36,4 @@ Britten read an article by E. M. Forster about the Suffolk poet George Crabbe wh
 Britten wrote the War Requiem for the consecration of the new Coventry Cathedral, built next to the ruins of the medieval cathedral destroyed by German bombing in 1940. He interwove the Latin requiem mass, sung by soprano, chorus and orchestra, with nine poems by Wilfred Owen, killed in the last week of the First World War, sung by tenor and baritone with a chamber orchestra, and a boys' choir with organ placed in the distance. He intended the three soloists to be from Britain, Germany and the Soviet Union, though the Soviet soprano Galina Vishnevskaya was not allowed to travel for the premiere. The work ends with Owen's Strange Meeting, in which two dead soldiers from opposing sides meet. The Decca recording of 1963 sold hundreds of thousands of copies.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

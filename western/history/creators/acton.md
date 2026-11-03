@@ -24,4 +24,4 @@ Acton collected a huge library and planned a history of liberty that he never wr
 Acton delivered his inaugural lecture as Regius Professor of Modern History at Cambridge in June 1895. He argued that modern history began with the discoveries and the Renaissance around 1500 and that its unifying theme was the progress of liberty, especially liberty of conscience. He praised the critical method of Ranke and the German historians and the opening of archives, but also insisted that historians must uphold the moral law and not debase it by excusing crimes. The lecture, published with extensive notes and quotations, is a classic statement of Victorian liberal historiography. Acton went on to plan the Cambridge Modern History, published after his death.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

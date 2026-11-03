@@ -36,4 +36,4 @@ Messiaen was captured as a soldier in 1940 and held at Stalag VIII-A at Görlitz
 Serge Koussevitzky commissioned Turangalîla for the Boston Symphony Orchestra, and the young Leonard Bernstein conducted the premiere. The title combines two Sanskrit words, which Messiaen explained as meaning love song, hymn to joy, time, movement, rhythm, life and death. It is the central work of a trilogy on the theme of Tristan and Isolde. Its ten movements use a huge orchestra with prominent piano, played at the premiere by Yvonne Loriod, and the ondes Martenot, an early electronic instrument with a sliding, eerie tone. Recurring themes include the heavy 'statue theme' and a tender 'love theme', and the rhythms are inspired by Indian talas. It is one of the most performed large orchestral works of the post-war era.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

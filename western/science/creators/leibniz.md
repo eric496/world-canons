@@ -45,4 +45,4 @@ Leibniz's six-page paper, A New Method for Maxima and Minima, and for Tangents, 
 Leibniz had worked on counting with only two digits since the 1670s, and in this paper for the Paris Academy he explained how all numbers can be written using only 0 and 1, and how addition, subtraction, multiplication and division can be done in this system, with remarkable regularities in the patterns. He had recently learned from the Jesuit missionary Joachim Bouvet in China about the 64 hexagrams of the Yijing, the Book of Changes, built from broken and unbroken lines, and argued that they matched the binary numbers from 0 to 63, which he took as evidence of ancient Chinese wisdom. Leibniz also saw religious meaning in binary, with all things created from one and nothing. The binary system had little practical use until the twentieth century, when Boolean logic and electronic switching made it the basis of all digital computers.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

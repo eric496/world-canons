@@ -32,4 +32,4 @@ Boccioni tried to show movement, energy and the fusion of objects with their sur
 Boccioni modelled this striding figure in plaster in 1913, his most famous sculpture and the key work of Futurism. It shows a human body in motion, its muscles stretched and swept back as if shaped by the speed and the air around it, so that the figure merges with its own movement. Boccioni wanted to show not a body at a single moment but the continuous flow of its motion. The plaster original is in São Paulo. The bronze casts in New York, London and Milan were made after his death, in 1931 and later. The sculpture appears on the reverse of the Italian 20-cent euro coin.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

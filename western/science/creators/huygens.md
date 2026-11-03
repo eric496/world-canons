@@ -48,4 +48,4 @@ Huygens built the first pendulum clock in 1656 and had it made by the clockmaker
 Huygens read his Traité de la lumière to the Paris Academy in 1679 but published it only in 1690. He proposed that light is a disturbance travelling at a finite speed through an elastic ether, and that each point on a wave front acts as the source of new spherical wavelets, whose common envelope forms the next wave front. This construction, Huygens's principle, gave elegant explanations of reflection and refraction, and he used it to explain the strange double refraction of Iceland spar, a crystal that splits light into two rays. His theory was eclipsed for a century by Newton's view that light consists of particles, but it was revived when Thomas Young and Augustin Fresnel showed in the early nineteenth century that light waves can interfere, and Huygens's principle remains part of optics today.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

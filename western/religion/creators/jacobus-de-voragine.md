@@ -32,4 +32,4 @@ His Legenda aurea, compiled around 1260, retells the lives of the saints and the
 Organised by the liturgical calendar from Advent onward, the Golden Legend gathers some 180 chapters on saints and feasts: the lives and martyrdoms of saints such as George and the dragon, Catherine of Alexandria and Christopher, along with explanations of feasts such as Christmas and the Assumption. Jacobus drew on earlier collections and often offered several versions of a story, with fanciful etymologies of saints' names. It was a handbook for preachers and became immensely popular, translated into most European languages and printed in many editions from the 1470s. Humanists such as Juan Luis Vives criticised its legends, and the Reformation and later Catholic critical scholarship reduced its authority. Its stories shaped the iconography of medieval and Renaissance art, providing the attributes by which saints are recognised in painting and stained glass.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

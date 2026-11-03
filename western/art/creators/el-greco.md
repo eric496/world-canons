@@ -48,4 +48,4 @@ Commissioned in 1586 for the parish church of Santo Tomé in Toledo, where it st
 One of only two surviving landscapes by El Greco, this painting of around 1596–1600 shows his adopted city under a stormy sky of churning blue-black clouds. Toledo spreads over its hill above the River Tagus, its buildings glowing an eerie silver-green. El Greco took liberties: he moved the cathedral bell tower to sit beside the Alcázar for dramatic effect. The scene is less a topographical record than a spiritual vision of the city, and its expressive distortion and colour made it an icon for modern painters. It is in the Metropolitan Museum of Art, New York.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

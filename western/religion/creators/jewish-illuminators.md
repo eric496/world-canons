@@ -44,4 +44,4 @@ The Golden Haggadah was made in or near Barcelona in the early 14th century. Its
 The Sarajevo Haggadah was made in Catalonia, probably Barcelona, around 1350. Besides the text of the Passover service, it contains thirty-four full-page miniatures in gold and colour, from the creation of the world to the death of Moses, together with a picture of a Spanish synagogue. It probably left Spain with refugees after the expulsion of 1492, and notes in it show that it was in Italy in 1609, when a Catholic censor approved it. It was sold to the National Museum in Sarajevo in 1894. During the Second World War it was hidden from the Nazis, according to the best-known account, by the museum's Muslim librarian Derviš Korkut; it survived again during the siege of Sarajevo in the 1990s. Its story inspired Geraldine Brooks's novel People of the Book.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

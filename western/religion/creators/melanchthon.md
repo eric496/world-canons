@@ -40,4 +40,4 @@ Loci communes rerum theologicarum ('common places of theology') grew out of Mela
 When Charles V summoned the Diet of Augsburg in 1530 to settle the religious question, the Lutheran princes and cities presented a statement of their faith drafted by Melanchthon, Luther being under imperial ban and remaining at Coburg. Its twenty-eight articles set out Lutheran teaching on God, sin, justification by faith, the church and sacraments, emphasising continuity with the Catholic tradition, and then describe abuses that had been corrected, such as communion in one kind and compulsory clerical celibacy. It was read aloud in German before the emperor on 25 June. The Catholic theologians replied with a Confutation, to which Melanchthon answered with his Apology. The Augsburg Confession remains the defining statement of Lutheran churches worldwide.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

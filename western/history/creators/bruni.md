@@ -28,4 +28,4 @@ Bruni translated Plato, Aristotle and Plutarch into elegant Latin and wrote live
 Bruni began his Historiae Florentini populi around 1415 and worked on it until shortly before his death; it runs from the city's founding to 1402. Written in elegant classical Latin modelled on Livy, it rejects the legends of earlier chroniclers about Florence's origins, explains events through human causes rather than divine providence, and draws on documents from the city's archives. Its theme is Florentine liberty, which Bruni traced to the city's foundation under the Roman Republic rather than the empire. The Florentine government granted him tax exemptions for his work, and it was translated into Italian in 1473. It set the pattern for humanist histories of cities and states across Europe.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

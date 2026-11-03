@@ -45,4 +45,4 @@ On 2 July 1776 the Second Continental Congress voted for independence from Brita
 Jefferson drafted the bill in 1777, but it was enacted by the Virginia General Assembly only in January 1786, steered through by James Madison while Jefferson was in France. It declared that no one should be compelled to attend or support any religious worship or suffer for their religious opinions, and that such opinions should not affect civil capacities. Its preamble argued that truth is great and will prevail if left free. The statute ended the established church in Virginia and was a direct precursor of the religion clauses of the First Amendment. Jefferson listed it among the three achievements to be engraved on his tombstone.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

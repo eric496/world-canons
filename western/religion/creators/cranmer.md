@@ -32,4 +32,4 @@ Cranmer's lasting monument is the liturgy of the Book of Common Prayer (1549 and
 Under Edward VI, Cranmer replaced the various Latin service books of medieval England with a single book in English, combining services for morning and evening prayer, holy communion, baptism, marriage, burial and the church year, with a lectionary covering the Bible and the Psalter. The first Book of Common Prayer (1549) was conservative; the second (1552) was more firmly Protestant. Abolished under Mary I and restored under Elizabeth, it was revised in 1662, the version that remains a standard of the Church of England. Cranmer translated and adapted prayers from Latin sources and wrote new ones, in a cadenced English that gave the language phrases such as 'till death us do part' and 'ashes to ashes, dust to dust'. Versions of the prayer book shaped Anglican worship throughout the world.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

@@ -32,4 +32,4 @@ Marc believed animals were purer and closer to nature and the spiritual than hum
 In this painting of 1911, the year he co-founded the Blue Rider, three massive blue horses are packed tightly together, their bodies curving and overlapping in rhythmic arcs, set against rolling red and yellow hills and green and red trees. For Marc, blue symbolised the masculine and spiritual, and horses embodied a pure, innocent relationship with nature that humans had lost. The painting's harmony of bold colour and curving form makes it one of the icons of German Expressionism. It is in the Walker Art Center in Minneapolis.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

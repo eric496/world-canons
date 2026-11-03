@@ -28,4 +28,4 @@ None of Myron's originals survive, so he is known through Roman marble copies an
 Myron's bronze original of about 460–450 BC is lost, but its fame led the Romans to make many marble copies. The best known is the Lancellotti Discobolus, found in Rome in 1781, now in the Palazzo Massimo. The athlete is caught at the top of his backswing, the instant before he unwinds to throw. His body forms two interlocking arcs, like a drawn bow, yet his face is completely calm. The pose is not quite anatomically possible, which shows that Myron was designing a perfect image rather than recording a real movement. It has become a universal emblem of athletics and the Olympic ideal.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

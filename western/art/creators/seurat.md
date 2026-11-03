@@ -32,4 +32,4 @@ Seurat developed a technique, later called Pointillism or Divisionism, of placin
 Seurat worked on this huge canvas, about 2 by 3 metres, from 1884 to 1886, making some 60 drawings and oil studies on the spot. It shows Parisians of different classes relaxing on La Grande Jatte, an island in the Seine on the outskirts of Paris: strolling couples, a woman with a monkey on a leash, a girl skipping, soldiers, boaters and a man playing a horn. Seurat painted it with tiny dots and dashes of contrasting colour, according to scientific colour theories, and later added a painted border of dots. The stiff, statue-like figures give the scene a strange, frozen solemnity. It caused a sensation at the last Impressionist exhibition of 1886, and it is in the Art Institute of Chicago. It inspired Stephen Sondheim's musical Sunday in the Park with George (1984).
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

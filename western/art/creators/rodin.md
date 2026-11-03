@@ -48,4 +48,4 @@ Rodin's Thinker was conceived around 1880 as a figure of the poet Dante, seated 
 This sculpture of lovers in an embrace represents Paolo and Francesca from Dante's Inferno. Francesca, married to Paolo's brother, fell in love with him while they were reading together about Lancelot and Guinevere, and they were killed by her husband. Rodin originally designed the group for the Gates of Hell but removed it, perhaps because its happy sensuality did not fit the theme of suffering. The French state commissioned this large marble version, now in the Musée Rodin, in 1888. The book the lovers were reading is still visible in Paolo's hand. Other marble versions are in Tate and in Copenhagen.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

@@ -28,4 +28,4 @@ Rublev's style, with its soft colours, flowing lines and calm, gentle figures, i
 The icon depicts the three angels who visited Abraham at Mamre (Genesis 18), a scene traditionally read by Christians as a revelation of the Trinity. Rublev left out Abraham and Sarah, who usually appear, and concentrated on the three figures seated around a table bearing a chalice, their heads inclined toward each other in a circle of silent communion. Behind them are a house, a tree and a mountain. The soft blues, greens and golds and the balance of the composition have made it a symbol of harmony and peace. Painted for the Trinity monastery of St Sergius, perhaps in his memory, it was transferred to the Tretyakov Gallery in 1929. The Russian Church council of 1551 held it up as a model for representing the Trinity.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

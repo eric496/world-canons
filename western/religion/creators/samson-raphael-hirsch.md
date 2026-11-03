@@ -24,4 +24,4 @@ Against the Reform movement, which was revising Jewish law and liturgy, Hirsch t
 Published under the pseudonym Ben Uziel, the Nineteen Letters respond to Benjamin, a young Jew drawn to European culture who doubts the value of the commandments. Hirsch's rabbi, Naphtali, explains Judaism as a divinely given way of life whose laws educate humanity toward justice and service of God, argues that the Jewish mission in exile is to witness to God among the nations, and calls for a renewal of Jewish education rooted in the Torah but open to general culture. Appearing as Reform Judaism was gaining ground in Germany, it became a manifesto of Neo-Orthodoxy.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

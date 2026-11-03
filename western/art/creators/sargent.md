@@ -28,4 +28,4 @@ Sargent's brushwork is fluent, bold and economical, influenced by Velázquez and
 Virginie Amélie Avegno Gautreau was an American-born Parisian society beauty, married to a French banker, known for her lavender-powdered skin and striking profile. Sargent persuaded her to sit for him and painted her in 1883–84 in a daringly low-cut black satin gown with jewelled straps, her head in sharp profile and her body turned towards us. At the Salon of 1884, the pose and the original right strap, painted slipping off her shoulder, caused a scandal. Sargent repainted the strap, and he moved to London soon afterwards. He kept the painting for more than 30 years and sold it in 1916 to the Metropolitan Museum of Art, calling it the best thing he had ever done. The anonymous title was meant to protect the sitter's identity.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

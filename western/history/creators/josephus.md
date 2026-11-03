@@ -49,4 +49,4 @@ Josephus first wrote an account of the war in Aramaic for the peoples of the Eas
 In the twenty books of the Antiquities, completed around 93 or 94, Josephus retold the history of the Jews from the creation of the world, following the Hebrew Bible, through the Persian, Hellenistic and Hasmonean periods to the reign of Herod the Great and the Roman governors of Judaea. He wrote to present his people's laws and traditions as ancient and admirable to Greek and Roman readers. For the period after the Bible he is often the only source, preserving decrees and documents. The work contains brief references to John the Baptist and James, the brother of Jesus, and the Testimonium Flavianum on Jesus, generally believed to contain Christian additions. Christians preserved and copied the Antiquities throughout the Middle Ages.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

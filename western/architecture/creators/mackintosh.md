@@ -32,4 +32,4 @@ Mackintosh combined the massing of Scottish baronial castles with elongated, geo
 Mackintosh won the competition for a new building for the Glasgow School of Art in 1896, and it was built in two phases, the east half in 1897–99 and the west in 1907–09, on a steep sloping site. The north front has huge studio windows for steady light, framed by stone and decorated with wrought-iron brackets and finials. The west wing is more severe and vertical, with tall oriel windows. Its library, of dark wood with suspended lamps and slender posts, was regarded as one of the finest interiors of its era. Mackintosh designed the furniture and fittings. A fire in 2014 destroyed the library, and as restoration neared completion a second fire in 2018 gutted the building. The school has committed to rebuilding it.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

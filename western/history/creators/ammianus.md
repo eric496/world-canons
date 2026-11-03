@@ -32,4 +32,4 @@ His Res Gestae continued Tacitus, covering the years from 96 to 378, but only th
 Ammianus wrote his history in Rome in the late 380s and early 390s, continuing Tacitus from the reign of Nerva. The first thirteen books are lost; the surviving books 14 to 31 cover the years 353 to 378 in great detail, drawing on his own experience as a staff officer. Highlights include the siege of Amida, which he escaped, the career of the emperor Julian, whom he admired, the arrival of the Huns, and the catastrophic defeat and death of the emperor Valens at Adrianople. He includes digressions on geography, science and the vices of the Roman aristocracy and populace. Writing as a pagan in a Christian empire, he is generally fair-minded. Gibbon relied on him heavily.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

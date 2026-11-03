@@ -49,4 +49,4 @@ The Manifest der Kommunistischen Partei was commissioned by the Communist League
 Written between December 1851 and March 1852, immediately after Louis-Napoleon's coup d'état, this essay analyses the French revolution of 1848 and its collapse into a new Bonapartist dictatorship. Marx famously observes that men make their own history, but not under circumstances of their own choosing, and that history happens twice, the first time as tragedy, the second as farce. He traces the shifting alliances of classes and parties and explains how Louis-Napoleon could rise by balancing between them, with the support of the small-holding peasantry. It is considered his most brilliant piece of historical writing and a classic of political analysis.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

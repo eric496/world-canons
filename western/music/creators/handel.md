@@ -78,4 +78,4 @@ Handel composed Messiah in about three and a half weeks in August and September 
 George II commissioned this music to accompany a fireworks display in Green Park celebrating the Peace of Aix-la-Chapelle, which ended the War of the Austrian Succession. The king wanted only military instruments, so Handel scored it for a large band of 24 oboes, 12 bassoons, 9 trumpets, 9 horns and timpani, adding strings later for concert performance. A public rehearsal at Vauxhall Gardens on 21 April reportedly drew 12,000 people and caused a traffic jam on London Bridge. At the display itself, part of the elaborate wooden structure caught fire. The suite consists of an overture, a bourrée, La paix, La réjouissance and two minuets.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

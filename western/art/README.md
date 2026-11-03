@@ -56,4 +56,4 @@ All pictures come from Wikimedia Commons and are shown as thumbnails linked from
 **Movement images** reuse a representative public-domain work, usually one already in the gallery. Dada is shown through Alfred Stieglitz's 1917 photograph of Duchamp's *Fountain*, published in *The Blind Man* and in the public domain.
 
 ---
-[← Western canon](../README.md) · [All people](../PEOPLE.md) · [Western timeline](../TIMELINE.md)
+[← The Western Canon](../README.md) · [All people](../PEOPLE.md) · [Timeline](../TIMELINE.md)

@@ -32,4 +32,4 @@ Fischer created an imperial Baroque that combined Roman grandeur with symbols of
 During the plague of 1713, Emperor Charles VI vowed a church to his patron saint, Charles Borromeo, and Fischer von Erlach won the competition to design it. After his death in 1723 his son Joseph Emanuel completed it, modifying the design. The façade combines a classical temple portico, an oval dome on a high drum and two giant columns modelled on Trajan's Column, wound with reliefs of the saint's life, flanked by low pavilions. The columns also recalled the Pillars of Hercules on the Habsburg emblem and the Temple of Solomon, so that the church brought together Rome, Jerusalem and imperial power. Inside, the oval dome is painted with frescoes by Johann Michael Rottmayr. The church, which faces Karlsplatz, is a symbol of Vienna.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

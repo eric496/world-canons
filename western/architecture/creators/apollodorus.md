@@ -28,4 +28,4 @@ According to the historian Cassius Dio, Apollodorus mocked the young Hadrian's a
 Trajan's Column stood in a courtyard between the libraries of Trajan's Forum, a complex usually credited to Apollodorus of Damascus, and was dedicated in 113. About thirty metres tall, it is built from nineteen drums of Carrara marble, hollowed out to contain a spiral staircase lit by small windows. A continuous relief band some 200 metres long spirals twenty-three times around the shaft, depicting Trajan's two campaigns against the Dacians with over 2,500 figures: marching, building, fighting and negotiating. The emperor's ashes were placed in its base, and a statue of Trajan crowned it until it was replaced in 1587 by Saint Peter. Its relief is a key source for the Roman army, and the column inspired imitations from the column of Marcus Aurelius to the Vendôme Column in Paris.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

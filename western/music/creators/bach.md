@@ -123,4 +123,4 @@ In 1733 Bach presented a Kyrie and Gloria to the new Elector of Saxony in Dresde
 Bach worked on The Art of Fugue in his last decade. It consists of some fourteen fugues, called contrapuncti, and four canons, all derived from a single theme in D minor, presented in increasingly complex forms: in inversion, augmentation, mirror forms that can be played upside down, and multiple subjects. No instrumentation is specified. The final fugue, which introduces the notes B-A-C-H (B flat, A, C, B natural in German naming) as a subject, breaks off. A note by his son Carl Philipp Emanuel says the composer died during its writing, though scholars think it was interrupted earlier. Published in 1751, it sold few copies, but it is now regarded as one of the summits of contrapuntal art.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

@@ -62,4 +62,4 @@ Paolo Almerico, a retired cleric of the papal court, asked Palladio for a reside
 During a plague that killed perhaps a third of Venice's population, the Senate vowed in 1576 to build a church dedicated to Christ the Redeemer, and Palladio was chosen to design it on the island of Giudecca, run by Capuchin friars. Its white façade, facing the city across the Giudecca canal, interlocks a tall temple front with a lower, wider one, a solution for adapting a temple front to a church with a high nave and lower side chapels. Inside, a single nave with side chapels leads to a domed crossing and a choir screened by a curved row of columns, with the friars' choir beyond, reached through clear spatial stages. Every July, during the Festa del Redentore, a pontoon bridge is built across the canal so that Venetians can walk to the church, as the doge once did.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

@@ -44,4 +44,4 @@ Jonas Salk, developer of the polio vaccine, founded an institute for biological 
 In 1962 the government of Pakistan commissioned Kahn to design a second capital complex at Dhaka, then the capital of East Pakistan. After the war of independence of 1971 the new nation of Bangladesh continued the project as its parliament. The assembly building is a cluster of massive concrete volumes inlaid with bands of white marble, around the central chamber, and pierced by huge circles, triangles and rectangles that bring light into the interior and shade it from the tropical sun. A lake surrounds much of it. Kahn died in 1974, and the building was completed in 1982 by his former associates. Its story is told in his son Nathaniel Kahn's documentary My Architect (2003).
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

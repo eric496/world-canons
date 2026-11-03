@@ -44,4 +44,4 @@ Grieg wrote his Piano Concerto at the age of twenty-four during a summer in Denm
 Ibsen asked Grieg to write music for the first staging of his verse play Peer Gynt, about a boastful, wandering Norwegian peasant who seeks himself around the world and finally returns home to the faithful Solveig. Grieg found the task difficult and called some parts loathsome, but the score became one of his best-loved works. He later extracted two orchestral suites (1888 and 1891). Morning Mood, actually set in the Moroccan desert, evokes a sunrise; In the Hall of the Mountain King grows from a quiet march into a frantic dance of trolls; and Solveig's Song is a melancholy Norwegian melody. The music has become inseparable from images of Norway.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

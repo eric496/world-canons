@@ -48,4 +48,4 @@ The Schönborn prince-bishops of Würzburg, rich and ambitious rulers in Francon
 Vierzehnheiligen, on a hillside above the Main valley, marks the place where a shepherd reported visions of the Christ Child and the Fourteen Holy Helpers, saints invoked against disease and misfortune, in 1445–46. The Cistercian abbey of Langheim commissioned a new pilgrimage church, and after another architect had begun building in the wrong place, Neumann took over in 1743. He had to keep the altar of the apparition in the middle of the nave, and designed a plan of interlocking ovals that places it at the heart of the church. The interior, decorated by the Feichtmayr and Übelherr workshops with stucco, and with frescoes by Giuseppe Appiani, is white, pink and gold, with abundant windows. The free-standing altar of the Fourteen Holy Helpers, shaped like a Rococo carriage or coral reef, is the focus of pilgrimage to this day.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

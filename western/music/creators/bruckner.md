@@ -31,4 +31,4 @@ Bruckner's eleven symphonies, including two early ones, unfold on a huge scale t
 Bruckner began his Seventh Symphony in 1881, opening it with a long, rising cello melody that he said came to him in a dream. While writing the slow movement he heard of Wagner's illness and death in Venice in February 1883, and he ended the Adagio with a funeral lament for four Wagner tubas, the instruments Wagner had designed for the Ring. The premiere in Leipzig under Arthur Nikisch and a performance in Munich under Hermann Levi brought Bruckner his first wide recognition at the age of sixty. The work is dedicated to King Ludwig II of Bavaria. Unlike several of his symphonies, it survives essentially in one version, although the cymbal clash at the climax of the Adagio is disputed.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

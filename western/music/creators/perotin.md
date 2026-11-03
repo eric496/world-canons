@@ -24,4 +24,4 @@ Pérotin's four-voice organa build huge blocks of sound above sustained chant no
 Viderunt omnes is the gradual chant for Christmas Day, and Pérotin's setting for four voices is one of the grandest works of the Notre-Dame school. An edict of Bishop Odo of Sully in 1198 ordered organum in three or four parts for the Christmas season, and this setting is usually linked with it. The lowest voice sings the original chant in enormously long held notes, so that a single syllable may last a minute, while three upper voices weave rhythmic patterns above it in the long-short rhythmic modes, echoing and swapping phrases. The result is a radiant wall of sound suited to the vast new Gothic cathedral then under construction. Only the solo portions of the chant were set in polyphony; the choir sang the rest in plain chant. The work survives in several manuscripts of the Magnus liber and has become one of the most recorded pieces of medieval music.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

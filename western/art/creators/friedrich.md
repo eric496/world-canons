@@ -32,4 +32,4 @@ Friedrich turned landscape into a vehicle for religious and philosophical meanin
 Painted around 1818 and now in the Hamburger Kunsthalle, this small painting has become the definitive image of Romanticism. A man in a dark green frock coat stands with his back to us on a rocky summit, leaning on a stick. He looks out over a sea of fog from which rocky peaks and distant mountains emerge. We see what he sees, and we are left to imagine his thoughts and feelings in the face of nature's vastness. The landscape is a composite of studies made in the Elbe Sandstone Mountains. The figure has been interpreted as a self-portrait, an image of the individual before God, or a memorial to a fallen officer.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

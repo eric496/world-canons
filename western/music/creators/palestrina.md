@@ -31,4 +31,4 @@ Palestrina wrote more than a hundred masses, several hundred motets, hymns, Magn
 The Pope Marcellus Mass is named after Marcellus II, who reigned for only three weeks in 1555 and reportedly urged that church music be sung with reverence and intelligible words. Palestrina's six-voice setting balances polyphonic richness with unusual clarity of text, especially in the long Gloria and Credo, where voices often declaim together. A story first told decades later, and elaborated in Hans Pfitzner's 1917 opera Palestrina, holds that the mass convinced the Council of Trent not to ban polyphony; historians regard this as a legend, though the Council did debate the intelligibility of sacred music. The work was printed in 1567 and became the classic model of Counter-Reformation polyphony, sung in the Sistine Chapel for centuries.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

@@ -36,4 +36,4 @@ In three parts written in aphoristic prose, Buber argues that human existence is
 From his first books in 1906 onward, Buber retold the stories of the Hasidic rabbis, from the Baal Shem Tov to the masters of the 19th century, in polished German prose. The two-volume Tales of the Hasidim (The Early Masters and The Later Masters) brings together his mature collection, with introductions explaining the movement's spirit. Buber presented Hasidism as a joyful hallowing of everyday life. Scholars such as Gershom Scholem argued that he neglected its theological and legal teachings, but the books shaped the image of Hasidism for generations of readers.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

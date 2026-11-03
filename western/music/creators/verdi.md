@@ -89,4 +89,4 @@ After the death of Rossini in 1868, Verdi proposed a joint requiem by Italian co
 After Aida Verdi announced his retirement, but his publisher Giulio Ricordi and the composer-poet Arrigo Boito lured him back with a libretto based on Shakespeare's Othello. Boito compressed the play, dropping the Venice act, and wrote Iago a 'Credo' in which he declares his belief in a cruel God. The opera opens in the middle of a storm and moves through continuous music, with Otello's love duet with Desdemona, his growing jealousy and the final scene, in which Desdemona sings the Willow Song and Ave Maria before Otello kills her and then himself. The premiere at La Scala was a national event. It is widely regarded as the summit of Italian tragic opera.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

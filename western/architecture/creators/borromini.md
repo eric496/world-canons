@@ -48,4 +48,4 @@ The Spanish Trinitarian order commissioned Borromini to build a monastery and ch
 Borromini was given the church at the end of the courtyard of the Sapienza, the university of Rome, whose existing two-storey arcades he had to respect. His plan is based on a six-pointed star formed by two triangles, with alternating concave and convex-ended apses, an emblem associated with wisdom and with the bee of Pope Urban VIII's family, the Barberini. From the floor, the pattern rises unbroken into a white dome, with no drum, to the lantern. Outside, the concave façade continues the courtyard, and over it rise a stepped drum and a lantern that twists in a spiral like a corkscrew, topped by a flame and a crown. It is one of the most original buildings in Rome and has been compared to the spiralling towers of ancient legend.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

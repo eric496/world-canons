@@ -32,4 +32,4 @@ Klee produced around 10,000 works of great variety: drawings, watercolours, oils
 In this small work of 1922, made with Klee's oil-transfer drawing technique and watercolour, four birdlike creatures with spindly legs perch on a thin wire or branch connected to a hand crank, beaks open. If the crank were turned, they would presumably twitter. Against a misty pinkish-blue background, the image is both whimsical and slightly sinister: the birds may be lures, and below them is a pit. It has been read as a satire on mechanised society and the mechanisation of nature and art. In 1937 the Nazis confiscated it from the National Gallery in Berlin as 'degenerate', and in 1939 the Museum of Modern Art in New York acquired it.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

@@ -36,4 +36,4 @@ Written from his teaching at the illegal Confessing Church seminary at Finkenwal
 After his arrest in April 1943, Bonhoeffer wrote letters to his family and above all to his friend Eberhard Bethge, smuggled out by sympathetic guards, as well as poems such as 'Who am I?' and 'By gracious powers'. From April 1944 the letters explore new theological ideas: that the world has 'come of age' and no longer needs God as a stopgap, that Christianity must be 'religionless', and that the church must exist for others. Bethge published them in 1951 as Widerstand und Ergebung ('Resistance and Submission'). Their fragmentary, provocative thoughts stimulated the 'secular theology' of the 1960s and continue to be debated.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

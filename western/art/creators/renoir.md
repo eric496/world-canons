@@ -48,4 +48,4 @@ In 1876 Renoir rented a studio in Montmartre so that he could paint on the spot 
 Painted in 1880–81, this painting shows Renoir's friends relaxing after lunch on the balcony of the Maison Fournaise, a restaurant on an island in the Seine at Chatou, popular with boaters. At the left, the seamstress Aline Charigot, his future wife, plays with a small dog. At the right, the painter Gustave Caillebotte sits astride a chair in a white boating shirt. The tablecloth, glasses and bottles, the striped awning and the river beyond create a festive atmosphere. The American collector Duncan Phillips bought it in 1923, and it is the centrepiece of the Phillips Collection in Washington, D.C.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

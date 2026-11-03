@@ -28,4 +28,4 @@ In Complexity and Contradiction in Architecture (1966) Venturi defended ambiguit
 Robert Venturi designed this house for his widowed mother, Vanna, revising it repeatedly. Its front façade is a broad gable, split in the middle above the entrance, with a thin applied arch and a strip moulding, and windows of different shapes placed according to the rooms behind, not the symmetry of the front. Inside, a fireplace and chimney compete with the staircase for the centre of the house, and the stair narrows awkwardly around it. Small in size, the house plays with the conventional image of home, full of the complexity and contradiction Venturi was championing in his book of 1966. It received the American Institute of Architects' Twenty-five Year Award in 1989 and is often called the first postmodern building.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

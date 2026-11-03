@@ -62,4 +62,4 @@ This was one of a pair of large canvases that made Caravaggio famous when they w
 In Luke's Gospel, two disciples meet a stranger on the road to Emmaus after the Crucifixion and recognise him as the risen Christ only when he blesses bread at supper. Caravaggio painted the instant of recognition in 1601, for the Roman nobleman Ciriaco Mattei. One disciple starts to rise from his chair, the other flings his arms wide, and his outstretched hand seems to pierce the picture plane. The innkeeper looks on, puzzled. Christ is shown young and beardless, which is unusual. A basket of fruit perches precariously on the very edge of the table, about to fall into our space. It is in the National Gallery, London.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

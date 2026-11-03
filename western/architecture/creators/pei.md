@@ -43,4 +43,4 @@ President François Mitterrand's Grand Louvre project moved the finance ministry
 The Bank of China commissioned Pei, whose father had been a senior figure in the bank, to design its Hong Kong headquarters, to be finished before the handover of the colony to China in 1997. The 367-metre tower, the tallest in Asia when completed in 1990, rises from a square divided diagonally into four triangles, which terminate at different heights like the shoots of bamboo, an image of growth. Its structure is a space frame of diagonal braces expressed on the façade in triangles, which carries wind loads efficiently with much less steel than a conventional tower. Its sharp angles drew criticism from practitioners of feng shui.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

@@ -33,4 +33,4 @@ His design for the campanile, slender and clad in white, green and pink marble, 
 Giotto, appointed master of works of the cathedral in 1334, laid the foundations of the bell tower that year and built its lowest storey. After his death in 1337 Andrea Pisano continued it, adding the niches for statues, and Francesco Talenti completed it around 1359 with the tall windowed upper storeys, abandoning the spire Giotto may have planned. Some 85 metres tall, the square tower is clad in white Carrara, green Prato and pink Maremma marble in geometric panels matching the cathedral. Its lower storeys carry hexagonal and lozenge reliefs by Pisano, Luca della Robbia and others showing the creation of man, the arts and sciences, the planets and the sacraments, and its niches once held statues by Donatello, now in the cathedral museum. It is part of the historic centre of Florence, a UNESCO World Heritage Site.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

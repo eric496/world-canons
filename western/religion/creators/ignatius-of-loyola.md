@@ -32,4 +32,4 @@ The Jesuits, bound by a special vow of obedience to the pope regarding missions,
 The Spiritual Exercises is not a book to be read straight through but a manual for a director guiding someone through a retreat, usually of about thirty days, divided into four 'weeks'. The first focuses on sin and God's mercy; the second on the life of Christ, with the famous meditations on the Two Standards and the call of the King; the third on the Passion; and the fourth on the resurrection, ending with the 'Contemplation to Attain Love'. It teaches methods of prayer using the imagination to place oneself within Gospel scenes, daily examination of conscience, and rules for 'discernment of spirits' in making decisions. Ignatius drafted it at Manresa in 1522–23 and refined it for decades; Pope Paul III approved it in 1548. It formed every Jesuit and remains widely used by Catholics and others.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

@@ -49,4 +49,4 @@ Scivias, short for Scito vias Domini, 'Know the ways of the Lord', records twent
 In ten visions Hildegard sets out a theology of creation in which the universe, with its winds, elements and heavenly bodies, is held in the embrace of divine love, and the human being, made of the same elements, is a microcosm of the whole. She also interprets the opening of John's Gospel and the history of salvation. The famous illuminated manuscript of the early 13th century in Lucca shows a cosmic figure embracing the circles of the universe, with a human figure at its centre. The work reflects Hildegard's interest in medicine and nature and has been much admired in modern times for its integrated vision of humanity and creation.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

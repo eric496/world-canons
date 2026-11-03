@@ -28,4 +28,4 @@ Duccio kept the gold, line and elegance of Byzantine painting but added warmth, 
 Siena was dedicated to the Virgin, and its cathedral commissioned Duccio in 1308 to paint a new high altarpiece. When it was finished in June 1311, the painting was carried from his workshop to the cathedral in a solemn procession with the whole city following, bells ringing and candles lit. The front shows the Virgin and Child enthroned among saints and angels, with Siena's four patron saints kneeling in front. The back held dozens of small scenes from the life and Passion of Christ, full of vivid storytelling. The altarpiece was sawn apart in 1771. Most of it is in Siena's cathedral museum, but some predella and back panels were sold and are now in London, New York, Washington and elsewhere.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

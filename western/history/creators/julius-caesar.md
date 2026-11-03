@@ -44,4 +44,4 @@ Caesar wrote seven books of commentaries covering his campaigns in Gaul from 58 
 The Civil War covers the years 49 and 48 BC: Caesar's invasion of Italy, his campaigns in Spain, the siege of Massilia, the war in Greece culminating in the battle of Pharsalus and Pompey's flight to Egypt, where he was murdered. Caesar presents himself as a moderate, merciful leader forced to defend his dignity and the rights of the tribunes against a narrow faction, and his opponents as arrogant and divided. The work is unfinished and may not have been published in his lifetime. It is a key source for the fall of the Roman Republic and a classic example of political self-justification.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

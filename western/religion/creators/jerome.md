@@ -32,4 +32,4 @@ Jerome's insistence on translating the Old Testament from the Hebrew rather than
 In 382 Pope Damasus asked Jerome to revise the existing Old Latin versions of the Gospels, which varied widely. Jerome went further: in Bethlehem he translated most of the Old Testament directly from the Hebrew between about 390 and 405, an innovation that some, including Augustine, at first opposed. The other New Testament books in the Vulgate were revised by other, unknown scholars, and some books, such as the Psalms in their liturgical form, came from his earlier revisions based on the Greek. The resulting collection, later called the versio vulgata, 'common version', gradually displaced other Latin texts, and the Carolingians produced careful editions. The Council of Trent declared it authentic in 1546, and an official edition, the Sixto-Clementine Vulgate, followed in 1592. Its Latin shaped the language of the liturgy, theology, and much medieval European literature and art.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

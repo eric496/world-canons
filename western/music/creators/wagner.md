@@ -70,4 +70,4 @@ Wagner worked on the Ring for more than a quarter of a century. He wrote the tex
 Parsifal, based on Wolfram von Eschenbach's medieval epic, tells of a guileless youth who becomes the redeemer of the Grail knights, whose king Amfortas suffers from a wound that will not heal. Through compassion and resistance to the temptation of Kundry, Parsifal recovers the sacred spear and heals the wound. Wagner called it a festival play for the consecration of the stage and wanted it performed only at Bayreuth; this exclusivity lasted until the Metropolitan Opera staged it in New York in 1903 and other houses after copyright expired in 1913. The music is slow-moving, luminous and harmonically rich. Its religious themes, its mixture of Christian and Buddhist ideas and its possible racial undertones have long been debated.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

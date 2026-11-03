@@ -35,4 +35,4 @@ Satie rejected the grandeur of Wagner and the refinement of Debussy alike, favou
 Satie wrote the three Gymnopédies in 1888 while working as a pianist in Montmartre. The title probably refers to an ancient Spartan festival at which naked young men danced, perhaps taken from a poem by his friend J. P. Contamine de Latour. Each piece has a slow, simple melody over a gently rocking accompaniment of alternating bass notes and chords, with unusual, modal harmonies. Their restraint and repetitiveness were the opposite of the expansive Romantic style. Debussy orchestrated the first and third in 1897. The pieces became widely known in the twentieth century, used in films and advertising, and are often cited as precursors of ambient music.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

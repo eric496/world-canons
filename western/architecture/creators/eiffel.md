@@ -28,4 +28,4 @@ Eiffel's structures are calculated lattices of wrought iron in which every membe
 For the Exposition Universelle of 1889, celebrating the centenary of the Revolution, the government held a competition for a tower 300 metres high. Eiffel's company won with a design developed by its engineers Maurice Koechlin and Émile Nouguier and the architect Stephen Sauvestre. About 18,000 wrought-iron parts, designed and prefabricated in the company's workshops, were joined with some 2.5 million rivets in just over two years. Four curved legs, shaped to resist the wind, rise to three platforms. Prominent artists and writers protested in 1887 against what they called a useless and monstrous tower. It was meant to stand only for twenty years, but its usefulness for radio transmission saved it. The tallest structure in the world until the Chrysler Building of 1930, it became the symbol of Paris and one of the most visited monuments in the world.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

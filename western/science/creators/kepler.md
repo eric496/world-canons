@@ -62,4 +62,4 @@ Astronomia nova grew out of Kepler's 'war with Mars', years of calculation using
 In The Harmony of the World Kepler pursued his lifelong belief that God created the cosmos according to geometrical and musical harmony. Its five books discuss regular polygons and solids, musical consonance, astrology and the motions of the planets, whose varying speeds he translated into musical intervals, giving each planet a melody and imagining the heavens singing in polyphony. Amid this, in the fifth book, he announced the discovery, made on 15 May 1618, that the squares of the planets' periods are proportional to the cubes of their mean distances from the Sun. This third law, along with the two of 1609, became the foundation of Newton's theory of gravitation. Kepler regarded the book as his greatest achievement, and its mixture of mysticism and mathematics shows how differently from modern scientists the founders of modern science could think.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

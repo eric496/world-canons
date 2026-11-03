@@ -58,4 +58,4 @@ Painted in Constantinople around 1130, this icon was sent to Kievan Rus' and tak
 The Deësis ('supplication') mosaic in the south gallery of Hagia Sophia shows Christ in majesty between the Virgin and John the Baptist, who turn toward him in prayer on behalf of humankind. It is usually dated to around 1261, after Byzantine forces recovered Constantinople from the Latin crusaders, though some scholars have suggested other dates. The faces are modelled with exceptionally fine tesserae and subtle gradations of colour, giving them a softness and humanity that anticipate developments in Italian painting. Much of the lower part has been lost. After 1453 Hagia Sophia became a mosque and the mosaics were covered; they were uncovered and restored in the 1930s, when the building became a museum, and remain visible in the gallery.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

@@ -28,4 +28,4 @@ Where van Eyck was the cool observer of light and texture, Rogier was the painte
 Painted around 1435 for the chapel of the Crossbowmen's Guild in Leuven, this panel compresses ten life-size figures into a shallow gold box, like a carved and painted altar shrine come to life. Small crossbows in the upper corners refer to the patrons. Christ's pale body is lowered from the cross, and the Virgin collapses in a faint that exactly echoes her son's pose, expressing her compassion: she suffers with him. Each mourner shows grief differently, and the tears are painted as glassy drops on their cheeks. The painting so impressed the Habsburgs that it was acquired by Mary of Hungary and later Philip II, which is how it reached the Prado.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

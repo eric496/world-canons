@@ -158,4 +158,4 @@ The Cold War, decolonisation, the computer and the double helix; Abstract Expres
 - 1994 · **The Age of Extremes: The Short Twentieth Century, 1914–1991**, [Eric Hobsbawm](../history/creators/hobsbawm.md)
 
 ---
-[← Modernism](modern.md) · [Western canon](../README.md)
+[← Modernism](modern.md) · [The Western Canon](../README.md)

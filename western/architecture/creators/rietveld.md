@@ -28,4 +28,4 @@ Rietveld translated Mondrian's paintings into three dimensions: planes, lines an
 Truus Schröder-Schräder, a widow with three children, commissioned Rietveld to design a house at the end of a row of brick houses on the edge of Utrecht, and she took an active part in the design. The house is composed of planes, lines and coloured elements, white and grey walls, red, yellow, blue and black lines, that seem to slide apart, with balconies and roof slabs projecting beyond the walls. The ground floor has conventional rooms, but the upper floor can be opened as a single space or divided into rooms by sliding and folding partitions. Windows open at right angles to the façade so that the corner disappears. Schröder lived there until her death in 1985. It is a museum and a UNESCO World Heritage Site.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

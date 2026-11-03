@@ -32,4 +32,4 @@ Ledoux reduced architecture to elemental geometry, cubes, cylinders, pyramids an
 Salt was a royal monopoly and a valuable source of tax. Ledoux, as inspector of saltworks in Franche-Comté, designed a new works near the forest of Chaux, which supplied wood to fire the brine evaporation pans; the brine was piped from Salins. Buildings are arranged on a semicircle: the director's house at the centre, with a temple portico of columns banded with stone drums and a chapel, flanked by the two salt-boiling halls, and around the arc the houses of workers, coopers and blacksmiths, with gardens behind. The gatehouse is a grotto-like portico of heavy Doric columns, with carved urns spilling petrified salt water. The works operated until 1895. Ledoux later imagined it as the centre of an ideal city. Restored after the 1920s, it is a UNESCO World Heritage Site.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

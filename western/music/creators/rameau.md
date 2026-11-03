@@ -31,4 +31,4 @@ Rameau's Traité argued that harmony rests on a fundamental bass and on chords b
 Rameau was fifty when this opera, with a libretto by the Abbé Simon-Joseph Pellegrin after Racine's Phèdre, was staged in Paris in 1733. It tells of the love of Hippolyte, son of Theseus, and Aricie, threatened by the jealousy of his stepmother Phèdre. While keeping Lully's form of the tragédie en musique, Rameau brought a new richness of harmony and orchestration, with vivid instrumental scenes such as a storm and a hunt. The second trio of the Fates was so difficult that the orchestra could not perform it as written. The work provoked a dispute between the supporters of Rameau, the 'Ramistes', and the defenders of Lully, the 'Lullistes'. It remains a centrepiece of the French Baroque revival.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

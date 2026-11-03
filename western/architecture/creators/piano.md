@@ -28,4 +28,4 @@ Piano's architecture is detailed with craftsmanlike care, uses light roofs and f
 The developer Irvine Sellar commissioned Renzo Piano to design a tower beside London Bridge station, and Piano is said to have sketched it on a napkin. The building tapers to 310 metres, its faceted glass planes splitting apart at the top, where they appear unfinished, so that the tower seems to dissolve into the sky. It contains offices, restaurants, a hotel, apartments and a public viewing gallery near the summit. Its slim, pointed form was intended to sit lightly among London's church spires, though conservation bodies objected to its effect on views of St Paul's and the Tower. On completion in 2012 it was the tallest building in the European Union.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

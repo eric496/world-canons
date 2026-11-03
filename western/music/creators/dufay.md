@@ -31,4 +31,4 @@ Du Fay's career spans the change from late medieval to Renaissance music. His ea
 Pope Eugenius IV consecrated Florence Cathedral, Santa Maria del Fiore, on 25 March 1436, after Brunelleschi had completed his great dome, and Du Fay, then a singer in the papal chapel, wrote this motet for the ceremony. Its text speaks of roses given by the pope to the church. Two lower voices sing a chant melody, Terribilis est locus iste, in canon at the fifth, while two upper voices weave freer lines above. The work falls into four sections whose lengths are in the proportion 6:4:2:3, and a much-discussed theory proposed that these mirror the proportions of the cathedral or of Solomon's Temple; later scholars have questioned the link to the building. Either way, it is a superb example of music written for a specific moment of civic and religious splendour.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

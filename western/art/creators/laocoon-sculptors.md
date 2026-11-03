@@ -28,4 +28,4 @@ Whether the Laocoön is a Hellenistic original of about 200 BC, a Roman copy of 
 In Virgil's Aeneid, Laocoön was the Trojan priest who warned against the wooden horse. The gods sent two great sea serpents to crush him and his sons. The sculptors show the moment of agony: the father's body twists and strains, his face contorted, while the serpents coil around all three. The group was dug up in a Roman vineyard in January 1506. Michelangelo and the architect Giuliano da Sangallo identified it on the spot from Pliny's description, and Pope Julius II bought it for the Vatican's Belvedere courtyard. Laocoön's missing right arm was restored as stretched upward. The original bent arm was found by the archaeologist Ludwig Pollak in 1906 and reattached in the 1950s. The group inspired Renaissance and Baroque artists and Lessing's famous essay on the limits of painting and poetry, Laokoon (1766).
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

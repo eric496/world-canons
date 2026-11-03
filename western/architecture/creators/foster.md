@@ -58,4 +58,4 @@ After German reunification, the Bundestag decided to move back to the Reichstag 
 The tower stands on the site of the Baltic Exchange, damaged by an IRA bomb in 1992. Commissioned by the reinsurance company Swiss Re, Foster and Partners designed a 41-storey tower, 180 metres high, whose circular plan swells in the middle and narrows to the top. Its diagonally braced steel structure, the diagrid, sits on the perimeter, freeing the floors of columns, and spiral light wells formed by rotating each floor plan draw air and daylight through the building, reducing energy use. Only one piece of curved glass, the lens at the summit, is used; the rest of the curve is made of flat panes. It won the RIBA Stirling Prize in 2004 and became a symbol of the City of London.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

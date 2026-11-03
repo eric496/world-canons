@@ -44,4 +44,4 @@ Newman wrote the Essay while trying to decide whether the Roman Catholic Church 
 In January 1864 the novelist Charles Kingsley wrote that truth for its own sake had never been a virtue of the Roman clergy, citing Newman. Newman responded first with an exchange of letters and then, in seven weekly pamphlets written at great speed, with a history of his religious opinions: his evangelical conversion as a boy, his Oxford years, the Oxford Movement and the Tracts for the Times, his growing doubts about the Anglican claim, and his reception into the Catholic Church in 1845. The candour and beauty of the book won wide admiration in Victorian England and restored his reputation. It is a classic of English autobiography and of religious literature.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

@@ -28,4 +28,4 @@ None of her writings survives under her name. Ancient sources credit her with co
 None of Hypatia's works survives under her own name, but the heading of the third book of Theon of Alexandria's commentary on Ptolemy's Almagest describes it as an edition revised by his daughter, the philosopher Hypatia. Scholars debate whether this means she edited the commentary or prepared the text of the Almagest itself, and some think the surviving text of Ptolemy may descend from her version. Ancient sources, especially the Byzantine Suda, also credit her with commentaries on the Arithmetica of Diophantus, a pioneering work on number problems, and on the Conics of Apollonius, and with an astronomical canon. Her pupil Synesius of Cyrene wrote to her about building an astrolabe and a hydrometer. Through such teaching and editing, the work of Greek mathematicians was preserved for Byzantine and later Arabic scholars.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

@@ -114,4 +114,4 @@ The Codex Purpureus Rossanensis contains the Gospels of Matthew and most of Mark
 According to its colophon, this Syriac Gospel book was completed in 586 by the scribe Rabbula at the monastery of St John of Beth Zagba in northern Mesopotamia. Its decorated canon tables, which concord parallel passages of the four Gospels, are framed by arcades with birds, plants and small scenes, and several full-page miniatures show the Ascension, Pentecost and the Crucifixion, with Christ wearing a long purple robe between the two thieves. Some scholars think the full-page miniatures were added from another manuscript. It has been in Florence since the 15th century. It is an important witness both to Syriac Christianity, one of the great branches of the early church, and to the formation of Christian iconography later shared by East and West.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

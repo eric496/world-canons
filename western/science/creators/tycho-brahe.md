@@ -48,4 +48,4 @@ On 11 November 1572 Tycho noticed a brilliant new star in Cassiopeia, as bright 
 Instruments for the Restored Astronomy was printed in 1598 after Tycho had left Denmark, as a lavish presentation volume to win the patronage of Emperor Rudolf II. It describes and illustrates with handsome hand-coloured woodcuts and engravings the instruments he had developed at Uraniborg and Stjerneborg, including great quadrants, sextants, armillary spheres and a large brass celestial globe, together with views of the buildings, and his autobiography. The most famous plate shows the mural quadrant, a large arc fixed to a wall, with Tycho pointing at the sky and his assistants at work in the observatory behind. The book explains how he improved accuracy, for example with new sights and transversal scales, and how errors could be checked by multiple instruments. It is a key document of the rise of precision measurement.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

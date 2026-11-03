@@ -152,4 +152,4 @@ After the fall of the Western Roman Empire, monasteries, cathedrals and universi
 - c. 1240–1259 · **Chronica Majora**, [Matthew Paris](../history/creators/matthew-paris.md)
 
 ---
-[← Classical Antiquity](antiquity.md) · [Western canon](../README.md) · [The Renaissance →](renaissance.md)
+[← Classical Antiquity](antiquity.md) · [The Western Canon](../README.md) · [The Renaissance →](renaissance.md)

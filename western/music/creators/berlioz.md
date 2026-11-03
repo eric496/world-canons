@@ -31,4 +31,4 @@ Berlioz drew inspiration from literature, from Shakespeare, Byron, Goethe and Vi
 Berlioz wrote the Symphonie fantastique, subtitled 'Episode in the life of an artist', in 1830, inspired by his unrequited passion for the Irish Shakespearean actress Harriet Smithson. A printed programme tells how a young musician, in despair over love, poisons himself with opium and dreams. His beloved is represented by a melody, the idée fixe, which recurs in each movement: at a ball, in a pastoral scene with shepherds' pipes and distant thunder, at his own execution in a march to the scaffold, and finally, grotesquely distorted, at a witches' sabbath that quotes the Dies irae chant. Berlioz's orchestra included cor anglais, E-flat clarinet, harps, bells and four timpani for the thunder. Smithson attended a performance in 1832, and the two married the following year. The work is a founding example of the Romantic programme symphony.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

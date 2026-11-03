@@ -29,4 +29,4 @@ Hume's History of England, published in six volumes from 1754 to 1762, ran from 
 Hume published his History in reverse order, beginning with two volumes on the Stuarts in 1754 and 1756, followed by the Tudors in 1759 and the earlier period in 1762. The first volume was attacked for its sympathy for Charles I and its scepticism about religious enthusiasm on both sides, but the whole became the most popular history of England until Macaulay. Hume argued that English liberty was not an ancient inheritance, as Whig writers claimed, but a recent and somewhat accidental product of conflict, and he gave attention to manners, commerce, learning and the arts. Its elegant prose made it a standard text for generations. Its title page described Hume simply as 'David Hume, Esq.'
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

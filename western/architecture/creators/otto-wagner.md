@@ -28,4 +28,4 @@ Wagner's later buildings are clad in thin panels of marble or tile fixed with vi
 The Postsparkasse, the Austrian postal savings bank founded in 1883, held a competition for its headquarters on the Ringstrasse, won by Otto Wagner. The façade is clad in thin marble slabs fixed by aluminium-capped bolts that make the means of attachment visible, while aluminium figures and acroteria crown the cornice. The main banking hall has a glass ceiling carried on slender steel columns, with a glass floor bringing light to the level below, and aluminium heating ducts and fittings, then a new material, all designed by Wagner. The building expresses his argument that architecture should be shaped by modern needs and materials. It is still used by the bank and houses a museum.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

@@ -32,4 +32,4 @@ Donatello revived antique types that had not been made for a thousand years, inc
 Donatello's bronze David is the first free-standing life-size nude statue made in Europe since antiquity. Its date is debated, usually placed between the 1430s and the 1450s. It was made for the Medici, probably to stand in the courtyard of their palace. The slender young hero wears only a wide-brimmed shepherd's hat and boots, and he rests one foot on the severed head of Goliath, his sword at his side. His relaxed contrapposto stance, soft adolescent body and dreamy expression have prompted endless discussion of its meaning, from a symbol of Florence's freedom to an expression of sensual beauty. When the Medici were expelled in 1495 the statue was moved to the Palazzo della Signoria as a civic emblem.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

@@ -41,4 +41,4 @@ Written at Bec as a sequel to his Monologion, the Proslogion ('address') takes t
 In this dialogue with his pupil Boso, Anselm argues 'leaving Christ out of view' that human sin dishonours God and requires satisfaction greater than anything humans can give, yet owed by humans; only one who is both God and man can make it, and Christ's freely offered death does so. The book rejected the older idea that Christ's death paid a ransom to the devil. Its 'satisfaction theory' strongly influenced medieval and Reformation teaching on atonement, including later theories of penal substitution, and has also been criticised, by Abelard in his own time and by modern theologians, for emphasising justice over love.
 
 ---
-[← All figures](../CREATORS.md) · [Religion](../README.md) · [Western canon](../../README.md)
+[← All figures](../CREATORS.md) · [Religion](../README.md) · [The Western Canon](../../README.md)

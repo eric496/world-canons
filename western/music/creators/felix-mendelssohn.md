@@ -44,4 +44,4 @@ Mendelssohn wrote the concert overture to Shakespeare's A Midsummer Night's Drea
 Mendelssohn promised a concerto to his friend Ferdinand David, leader of the Gewandhaus Orchestra, in 1838 and completed it in 1844 after long consultation with him. Its innovations include the soloist's immediate entry without an orchestral introduction, the placing of the cadenza before the recapitulation rather than near the end of the first movement, and the linking of all three movements without pauses, with a single bassoon note leading to the slow movement. The finale is a sparkling, elfin rondo. The concerto quickly became a cornerstone of the violin repertoire.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

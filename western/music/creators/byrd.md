@@ -31,4 +31,4 @@ Byrd's output covers almost every genre of his time. His three masses, for three
 Byrd published three masses, for four, three and five voices, between about 1592 and 1595, each a single slim set of part-books without a title page, which would have reduced the danger of owning them. They were intended for Catholic masses held in private houses, which were illegal in Elizabethan England, such as those at the Petre family's house in Essex. The five-voice mass is the most richly textured, using imitation and expressive word-setting with restraint suited to small groups of singers. Unlike Continental masses, which usually reworked existing music, Byrd's are freely composed. The Agnus Dei, with its plea for peace, is often heard as an expression of the plight of English Catholics. The masses were revived in the twentieth century and are sung in both Catholic and Anglican cathedrals.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

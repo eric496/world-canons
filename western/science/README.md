@@ -49,4 +49,4 @@ Western science, mathematics and medicine from the first Greek attempts to expla
 - **Pictures.** Portraits are paintings, drawings, engravings, sculpture or coins only, never photographs, so several twentieth-century scientists have no portrait. Works are illustrated with first-edition title pages, manuscript pages, plates, diagrams and surviving instruments. Where no free image exists, the entry has no picture.
 
 ---
-[← Western canon](../README.md) · [All people](../PEOPLE.md) · [Western timeline](../TIMELINE.md)
+[← The Western Canon](../README.md) · [All people](../PEOPLE.md) · [Timeline](../TIMELINE.md)

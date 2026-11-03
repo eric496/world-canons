@@ -32,4 +32,4 @@ The Herrerian style, called estilo desornamentado, the unornamented style, strip
 Philip II founded the monastery of San Lorenzo de El Escorial to commemorate the Spanish victory over France at Saint-Quentin in 1557 and to serve as a burial place for his father Charles V and his dynasty. Juan Bautista de Toledo drew up the plan, a vast rectangle of courtyards, and after his death Juan de Herrera completed the work. Built of grey granite with little ornament, it combines a monastery, a basilica with a dome, a royal palace, a library, a college and a pantheon of kings, where most Spanish monarchs since Charles V are buried. Philip governed his empire from a modest suite beside the basilica's high altar. The library has frescoed vaults and important manuscripts. El Escorial expressed the Catholic piety and imperial power of Habsburg Spain and is a UNESCO World Heritage Site.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

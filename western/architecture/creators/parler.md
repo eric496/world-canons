@@ -32,4 +32,4 @@ Parler was among the most inventive architects of the late Middle Ages. His net 
 When Prague became an archbishopric in 1344, the future Emperor Charles IV began a new cathedral within Prague Castle, first under Matthias of Arras, who built a French-style choir, and from 1356 under Peter Parler. Parler and his sons built the upper choir with its innovative net vault, the chapel of Saint Wenceslas lined with semi-precious stones and wall paintings, the Golden Gate with its mosaic of the Last Judgement, and the base of the great tower. The triforium contains busts of the royal family, archbishops and the architects themselves. The Hussite wars stopped work, and the nave and west front were completed only between 1873 and 1929 in a Gothic Revival style. It holds the tombs of Bohemian kings and the Bohemian crown jewels.
 
 ---
-[← All architects](../CREATORS.md) · [Architecture](../README.md) · [Western canon](../../README.md)
+[← All architects](../CREATORS.md) · [Architecture](../README.md) · [The Western Canon](../../README.md)

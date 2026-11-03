@@ -32,4 +32,4 @@ From around 1920 Mondrian developed what he called Neoplasticism: a pure, univer
 Mondrian arrived in New York in 1940 and loved the city's energy and its boogie-woogie jazz. This painting of 1942–43, completed shortly before his death and bought by the Museum of Modern Art in 1943, abandons his usual black lines. Instead, a grid of yellow lines, broken by small squares of red, blue and grey, suggests the street grid of Manhattan, the flashing lights of Broadway, traffic and the syncopated rhythms of the music. A few larger blocks of colour float within the grid. His last, unfinished work, Victory Boogie Woogie, is in The Hague.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

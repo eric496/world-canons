@@ -48,4 +48,4 @@ Eusebius' Ecclesiastical History, which he revised several times before reaching
 Written after Constantine's death in 337 and left unfinished at Eusebius' own death in 339, the Life of Constantine praises the emperor as God's chosen servant. It reports Constantine's own account, told to Eusebius under oath, of seeing a cross of light in the sky with the words 'by this, conquer' before his victory over Maxentius in 312. It describes his church-building, the Council of Nicaea and his laws, quoting many imperial letters. The authenticity of these documents was once doubted but is now largely accepted, while the work as a whole is read as a panegyric rather than a balanced biography. It shaped the medieval image of the Christian ruler.
 
 ---
-[← All historians & authors](../CREATORS.md) · [History](../README.md) · [Western canon](../../README.md)
+[← All historians & authors](../CREATORS.md) · [History](../README.md) · [The Western Canon](../../README.md)

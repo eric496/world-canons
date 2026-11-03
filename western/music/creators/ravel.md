@@ -44,4 +44,4 @@ Ravel wrote Daphnis et Chloé for Sergei Diaghilev's Ballets Russes, based on th
 The dancer Ida Rubinstein commissioned Boléro from Ravel for her company. Ravel described it as an experiment: a single melody in two parts, repeated eighteen times over an insistent snare-drum rhythm, with no development, only an orchestral crescendo, as each repetition is given to different instruments and combinations. In the last minutes the music modulates abruptly and collapses. Ravel was surprised by its popularity, and once said it contained no music. The original choreography by Bronislava Nijinska was set in a Spanish tavern. It became one of the most performed orchestral works of the twentieth century, and its copyright long earned huge royalties.
 
 ---
-[← All composers](../CREATORS.md) · [Music](../README.md) · [Western canon](../../README.md)
+[← All composers](../CREATORS.md) · [Music](../README.md) · [The Western Canon](../../README.md)

@@ -27,4 +27,4 @@ Braque's later still lifes, his series of Studio interiors and his images of bir
 Painted in 1910 at the height of Analytic Cubism, this painting in the San Francisco Museum of Modern Art breaks a still life of a violin and a candlestick into overlapping fragments of planes and facets in muted browns and greys, so that object and space merge. Fragments of the violin's scroll, strings and f-holes can be made out at the lower left, and the candlestick's base and flame at the centre. The painting shows several viewpoints at once and invites the viewer to reconstruct the objects in the mind.
 
 ---
-[← All artists](../CREATORS.md) · [Art](../README.md) · [Western canon](../../README.md)
+[← All artists](../CREATORS.md) · [Art](../README.md) · [The Western Canon](../../README.md)

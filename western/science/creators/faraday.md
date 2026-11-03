@@ -44,4 +44,4 @@ After Hans Christian Ørsted showed in 1820 that an electric current deflects a 
 Faraday gave the Royal Institution's Christmas lectures for young people nineteen times, and his series on The Chemical History of a Candle, first given in 1848 and repeated in 1860–61, became the most famous. In six lectures he used the burning candle to explain capillary action, the shape of the flame, the products of combustion, the composition of water and air, the properties of hydrogen, oxygen and carbon dioxide, and finally respiration, comparing the slow burning of carbon in our bodies to the candle. Each lecture was full of demonstrations. The lectures were taken down in shorthand by William Crookes and published in 1861, and have been in print ever since in many languages. Faraday ended by wishing that his listeners might, like the candle, shine as lights to those about them. The Christmas lectures continue today, broadcast on television.
 
 ---
-[← All scientists](../CREATORS.md) · [Science](../README.md) · [Western canon](../../README.md)
+[← All scientists](../CREATORS.md) · [Science](../README.md) · [The Western Canon](../../README.md)

@@ -172,4 +172,4 @@ Greece and Rome lay the foundations: epic and tragedy, philosophy, geometry, his
 - c. AD 390 · **Res Gestae (History)**, [Ammianus Marcellinus](../history/creators/ammianus.md)
 
 ---
-[Western canon](../README.md) · [The Middle Ages →](middle-ages.md)
+[The Western Canon](../README.md) · [The Middle Ages →](middle-ages.md)
