@@ -1,0 +1,162 @@
+[
+ {
+  "id": "shang-zhou-bronzes",
+  "name": "Shang & Zhou ritual bronzes",
+  "name_native": "商周青銅器",
+  "dates": "c. 1600–221 BC",
+  "period": "early-dynasties",
+  "summary": "For more than a thousand years the most prestigious art in China was cast bronze: vessels for offering food and wine to the ancestors, bells and weapons. Shang foundries at Anyang used piece-mould casting on a scale unmatched anywhere in the ancient world, covering vessels with the staring taotie mask. Zhou bronzes carry long cast inscriptions that are among the earliest Chinese historical texts, and in Sichuan the Sanxingdui culture made strange bronze heads and figures with no parallel in the Yellow River valley."
+ },
+ {
+  "id": "qin-han-tomb-art",
+  "name": "Qin and Han tomb art",
+  "name_native": "秦漢墓葬藝術",
+  "dates": "221 BC – AD 220",
+  "period": "empire-formation",
+  "summary": "The first emperors believed the dead needed a whole world below ground. Qin Shi Huang's mausoleum was guarded by thousands of life-size terracotta soldiers, and Han tombs were furnished with jade suits, lacquer, painted silk banners, bronze lamps and pottery models of houses, granaries and animals. Much of what we know of early Chinese painting and sculpture comes from these burials."
+ },
+ {
+  "id": "six-dynasties-art",
+  "name": "Six Dynasties calligraphy & figure painting",
+  "name_native": "六朝書畫",
+  "dates": "220–589",
+  "period": "empire-formation",
+  "summary": "In the centuries of division after the Han, calligraphy and painting became the arts of educated gentlemen. Wang Xizhi set the standard for the brush-written character, Gu Kaizhi painted the earliest figure scrolls to survive in copies, and Xie He wrote the Six Principles of painting, headed by spirit resonance, which critics cited for the next 1,500 years."
+ },
+ {
+  "id": "buddhist-sculpture",
+  "name": "Buddhist sculpture and cave temples",
+  "name_native": "佛教造像",
+  "dates": "c. 400–800",
+  "period": "cosmopolitan-age",
+  "summary": "Buddhism reached China along the Silk Road and passed on to Korea and Japan, bringing with it the image of the Buddha. Rulers and believers carved colossal Buddhas into cliffs at Yungang and Longmen, painted hundreds of caves at Dunhuang, and cast gilt-bronze bodhisattvas in Korea and Japan. Styles travelled fast: a Nara statue can echo a Tang model which in turn echoes Gupta India. Buddhist art also spread south into Vietnam, where Champa and Đại Việt developed their own traditions."
+ },
+ {
+  "id": "tang-art",
+  "name": "Tang painting & sancai",
+  "name_native": "唐代繪畫與三彩",
+  "dates": "618–907",
+  "period": "cosmopolitan-age",
+  "summary": "The Tang capital Chang'an was the largest city in the world and its art was confident and cosmopolitan. Court painters such as Yan Liben, Han Gan and Zhou Fang painted emperors, horses and plump court ladies; Wu Daozi was celebrated for his sweeping temple murals, now lost. Tomb potters made figures of camels, horses and foreign merchants in three-colour sancai glazes, and calligraphers such as Yan Zhenqing gave the brush new monumental force."
+ },
+ {
+  "id": "song-landscape",
+  "name": "Monumental landscape (Five Dynasties & Northern Song)",
+  "name_native": "北宋山水",
+  "dates": "c. 900–1127",
+  "period": "song-heian-goryeo",
+  "summary": "In the tenth and eleventh centuries landscape became the highest subject of Chinese painting. Painters such as Dong Yuan, Fan Kuan and Guo Xi built towering mountains from layers of ink texture strokes, with tiny travellers and temples to give scale. These hanging scrolls express a Neo-Confucian sense of the order of nature, and they remained the classical model for every later landscape painter in East Asia."
+ },
+ {
+  "id": "song-academy-literati",
+  "name": "Song academy & literati painting",
+  "name_native": "宋代畫院與文人畫",
+  "dates": "c. 1100–1279",
+  "period": "song-heian-goryeo",
+  "summary": "Emperor Huizong made the court painting academy a demanding school of exact observation, and after the court fled south its painters, above all Ma Yuan and Xia Gui, invented an intimate, misty style with one-cornered compositions. At the same time scholar-officials such as Su Shi argued that painting should express the character of the painter, not imitate appearances, laying the foundation of literati painting. Chan (Zen) monk-painters such as Muqi and Liang Kai worked in swift, splashed ink that was treasured above all in Japan."
+ },
+ {
+  "id": "song-goryeo-ceramics",
+  "name": "Song and Goryeo ceramics",
+  "name_native": "宋代陶瓷·고려청자",
+  "dates": "960–1392",
+  "period": "song-heian-goryeo",
+  "summary": "Song potters pursued subtle, monochrome glazes rather than painted decoration: the bluish crackled Ru ware of the imperial court, Jun, Ding and Longquan wares, and the dark Jian tea bowls prized by Japanese tea masters. In Korea, Goryeo potters developed celadon of a famous kingfisher green and the unique inlay technique called sanggam. Vietnamese kilns of the Lý and Trần dynasties made their own celadons and brown-painted wares in dialogue with China."
+ },
+ {
+  "id": "yuan-literati",
+  "name": "Yuan literati painting",
+  "name_native": "元代文人畫",
+  "dates": "1271–1368",
+  "period": "song-heian-goryeo",
+  "summary": "Under Mongol rule many Chinese scholars withdrew from office and painted for themselves and their friends. Zhao Mengfu looked back to earlier masters to renew painting, and the Four Masters of the Yuan, Huang Gongwang, Wu Zhen, Ni Zan and Wang Meng, made the dry, calligraphic brushstroke and the inscribed poem central to the scholar's art. In the same period the Jingdezhen kilns began making blue-and-white porcelain."
+ },
+ {
+  "id": "yamato-e-emaki",
+  "name": "Yamato-e and narrative handscrolls",
+  "name_native": "大和絵・絵巻",
+  "dates": "c. 900–1333",
+  "period": "song-heian-goryeo",
+  "summary": "From the Heian period Japanese painters developed yamato-e, painting of Japanese subjects in a Japanese manner, as opposed to kara-e on Chinese themes. Its greatest achievement is the emakimono, the narrative handscroll, from the courtly Tale of Genji scrolls with their roofless rooms and stylised faces to the comic animals of the Chōjū-giga and the battle scenes of the Heiji scrolls. In Kamakura Japan, sculptors of the Kei school such as Unkei gave Buddhist statues a new muscular realism."
+ },
+ {
+  "id": "muromachi-ink",
+  "name": "Muromachi ink painting",
+  "name_native": "室町水墨画",
+  "dates": "c. 1350–1573",
+  "period": "ming-muromachi-joseon",
+  "summary": "Zen monks brought Chinese ink painting to Japan, and in the monasteries of Kyoto painters such as Josetsu and Shūbun adapted Song and Yuan models. Sesshū, who travelled to Ming China, gave suiboku-ga (water-and-ink painting) a forceful Japanese voice. Ink painting became bound up with Zen practice, the tea ceremony and the shoin reception room."
+ },
+ {
+  "id": "ming-painting-porcelain",
+  "name": "Ming painting & porcelain",
+  "name_native": "明代書畫與瓷器",
+  "dates": "1368–1644",
+  "period": "ming-muromachi-joseon",
+  "summary": "Ming painting divided between the professional Zhe school, heir to the Song academy, and the Wu school of scholar-painters in Suzhou led by Shen Zhou and Wen Zhengming, with Tang Yin and Qiu Ying between the two. At the end of the dynasty Dong Qichang's theory of Northern and Southern schools defined the literati canon. The imperial kilns at Jingdezhen made blue-and-white porcelain that was exported across Asia, the Islamic world and Europe, and court workshops produced carved lacquer and cloisonné."
+ },
+ {
+  "id": "kano-rinpa",
+  "name": "Momoyama and Edo decorative painting (Kanō and Rinpa)",
+  "name_native": "狩野派・琳派",
+  "dates": "c. 1550–1850",
+  "period": "ming-muromachi-joseon",
+  "summary": "The warlords who reunified Japan built castles whose rooms were lined with sliding doors and folding screens on gold leaf. The Kanō school, led by Kanō Eitoku, supplied bold, monumental pines and cypresses, while Hasegawa Tōhaku could paint both gold screens and the misty ink Pine Trees. In Kyoto, Hon'ami Kōetsu and Tawaraya Sōtatsu created the style later called Rinpa after Ogata Kōrin: flat, daring designs drawn from courtly literature, revived in Edo by Sakai Hōitsu."
+ },
+ {
+  "id": "joseon-painting",
+  "name": "Joseon painting and ceramics",
+  "name_native": "조선 회화",
+  "dates": "1392–1910",
+  "period": "qing-edo-late-joseon",
+  "summary": "Early Joseon painters such as An Gyeon worked in Chinese landscape modes, but in the eighteenth century Jeong Seon began painting real Korean mountains in true-view (jingyeong) landscapes, and Kim Hong-do and Shin Yun-bok painted the everyday life of commoners and the pleasures of the elite. Kim Jeong-hui led a late scholarly revival. Joseon potters made buncheong ware and austere white porcelain, including the moon jars."
+ },
+ {
+  "id": "qing-painting",
+  "name": "Qing painting: Orthodox masters and Individualists",
+  "name_native": "清代繪畫",
+  "dates": "1644–1912",
+  "period": "qing-edo-late-joseon",
+  "summary": "After the Manchu conquest, the Four Wangs of the Orthodox school followed Dong Qichang in synthesising the old masters, and Wang Hui led the court's great documentary scrolls. Loyalist monk-painters such as Bada Shanren and Shitao, descendants of the Ming imperial house, turned to eccentric, expressive styles. At the Qianlong court the Italian Jesuit Giuseppe Castiglione blended European shading with Chinese media, and the Jingdezhen kilns reached new technical heights with famille rose enamels."
+ },
+ {
+  "id": "edo-painting",
+  "name": "Edo individualists, Maruyama–Shijō and Nanga",
+  "name_native": "江戸絵画",
+  "dates": "c. 1700–1850",
+  "period": "qing-edo-late-joseon",
+  "summary": "Eighteenth-century Kyoto was full of independent painters. Itō Jakuchū painted birds and flowers with obsessive, brilliant detail; Maruyama Ōkyo introduced a calm naturalism based on sketching from life; and Ike no Taiga and Yosa Buson created Japanese literati painting (nanga or bunjinga) after Chinese models they knew mostly from books and prints."
+ },
+ {
+  "id": "ukiyo-e",
+  "name": "Ukiyo-e",
+  "name_native": "浮世絵",
+  "dates": "c. 1670–1900",
+  "period": "qing-edo-late-joseon",
+  "summary": "Pictures of the floating world: woodblock prints and paintings of the actors, courtesans, beauties and pleasures of Edo's licensed quarters and kabuki theatres. Polychrome brocade prints (nishiki-e) appeared in 1765 with Suzuki Harunobu. Utamaro and Sharaku took the beauty and actor portrait to its height in the 1790s, and in the nineteenth century Hokusai and Hiroshige made the landscape print a mass-market sensation. Exported to Europe, ukiyo-e inspired Japonisme and the Impressionists."
+ },
+ {
+  "id": "shanghai-school",
+  "name": "Shanghai school and modern Chinese ink",
+  "name_native": "海上畫派",
+  "dates": "c. 1850–1950",
+  "period": "east-asian-modern",
+  "summary": "In the treaty port of Shanghai, painters sold to a new merchant public rather than to scholar-officials. Ren Bonian and Wu Changshuo combined bright colour, bold calligraphic brushwork and the archaic flavour of seal carving. Their heirs, above all Qi Baishi, made popular, vigorous ink painting of flowers, shrimps and insects, while Xu Beihong, trained in Paris, sought to reform Chinese painting with Western realism."
+ },
+ {
+  "id": "nihonga-yoga",
+  "name": "Nihonga and yōga in modern Japan",
+  "name_native": "日本画・洋画",
+  "dates": "1868–1945",
+  "period": "east-asian-modern",
+  "summary": "After the Meiji Restoration Japanese artists had to choose between Western oil painting (yōga), taught by teachers such as Kuroda Seiki who had studied in Paris, and a modernised Japanese painting (nihonga) championed by Okakura Kakuzō and Ernest Fenollosa. Nihonga painters such as Kanō Hōgai, Yokoyama Taikan and Uemura Shōen used mineral pigments and silk but absorbed Western ideas of space and atmosphere."
+ },
+ {
+  "id": "postwar-avant-garde",
+  "name": "Postwar avant-gardes",
+  "name_native": "戰後前衛",
+  "dates": "1945–2000",
+  "period": "east-asian-contemporary",
+  "summary": "After 1945 East Asian artists joined, and sometimes led, the international avant-garde. In Japan the Gutai group staged performance and action painting from 1954, and Mono-ha in the late 1960s worked with raw materials. Korean artists developed Dansaekhwa monochrome painting, Nam June Paik invented video art, Yayoi Kusama worked in New York, and in post-Mao China artists of the 1985 New Wave such as Xu Bing questioned the written word itself. Ink modernists in Taiwan and Hong Kong reworked the brush for a new age."
+ }
+]

@@ -1,0 +1,162 @@
+[
+ {
+  "id": "shijing-chuci",
+  "name": "Book of Songs & Songs of Chu",
+  "name_native": "詩經 · 楚辭",
+  "dates": "c. 1000–200 BC",
+  "period": "early-dynasties",
+  "summary": "Chinese poetry begins with the Shijing, a Zhou-dynasty anthology of 305 songs from court, temple and countryside, mostly in four-character lines, which Confucius was said to have edited and which became a Confucian classic. From the southern state of Chu came a different voice: the Chuci, long shamanistic and allegorical poems of exile and spirit journeys traditionally linked to Qu Yuan. Together the northern 'airs' and the southern 'songs' became the twin sources of the whole tradition."
+ },
+ {
+  "id": "han-fu-yuefu",
+  "name": "Han rhapsody & Music Bureau songs",
+  "name_native": "漢賦 · 樂府",
+  "dates": "c. 200 BC – AD 220",
+  "period": "empire-formation",
+  "summary": "The Han court favoured the fu or rhapsody, an extravagant mix of prose and rhyme that catalogued hunting parks, palaces and capitals in dazzling vocabulary; Sima Xiangru was its master. At the same time the imperial Music Bureau (yuefu) collected and composed popular ballads, whose plain narrative style and five-character line, refined in the anonymous Nineteen Old Poems, set the pattern for classical shi poetry."
+ },
+ {
+  "id": "six-dynasties-poetry",
+  "name": "Six Dynasties poetry",
+  "name_native": "六朝詩",
+  "dates": "c. 220–589",
+  "period": "empire-formation",
+  "summary": "In the centuries of division after the Han, poets turned inward and toward nature. Cao Zhi and the Jian'an poets wrote of war and loss; Tao Yuanming made farming, wine and retirement into poetry; Xie Lingyun invented the landscape poem of mountains and rivers. Southern courts polished parallel prose, tonal rules and anthologies such as the Wenxuan, laying the technical foundations of Tang verse."
+ },
+ {
+  "id": "nara-anthologies",
+  "name": "Nara chronicles & the Man'yōshū",
+  "name_native": "奈良文学",
+  "dates": "c. 700–800",
+  "period": "cosmopolitan-age",
+  "summary": "Japan's written literature begins in the eighth century with works that adapted Chinese characters to the Japanese language. The Kojiki (712) and Nihon shoki (720) set down myths and royal genealogies, the Kaifūsō collected poems in Chinese, and the Man'yōshū gathered some 4,500 Japanese poems, from long chōka by court poets such as Kakinomoto no Hitomaro to frontier guards' songs, written in the phonetic man'yōgana script."
+ },
+ {
+  "id": "silla-goryeo-literature",
+  "name": "Silla hyangga & Goryeo literature",
+  "name_native": "鄕歌 · 高麗文學",
+  "dates": "c. 600–1392",
+  "period": "cosmopolitan-age",
+  "summary": "Early Korean literature was written in two ways: in classical Chinese, the shared learned language of East Asia, by scholars such as Choe Chiwon who studied in Tang China; and as hyangga, 'native songs' in Korean recorded with Chinese characters used for sound and meaning. Only 25 hyangga survive, mostly Buddhist poems preserved in the Samguk yusa and a Goryeo biography. Goryeo added songs (gayo), anecdotal prose and the first stirrings of fiction."
+ },
+ {
+  "id": "high-tang-poetry",
+  "name": "High Tang poetry",
+  "name_native": "盛唐詩",
+  "dates": "c. 700–770",
+  "period": "cosmopolitan-age",
+  "summary": "The first half of the eighth century, under Emperor Xuanzong, is regarded as the summit of Chinese poetry. Regulated verse with strict tonal patterns reached perfection alongside freer old-style ballads. Li Bai brought Daoist abandon and wine, Wang Wei a Buddhist stillness in landscape, and Du Fu, writing through the catastrophe of the An Lushan rebellion (755–763), a moral seriousness and technical range later ages treated as the standard."
+ },
+ {
+  "id": "mid-late-tang",
+  "name": "Mid & late Tang poetry and guwen prose",
+  "name_native": "中晚唐 · 古文",
+  "dates": "c. 770–907",
+  "period": "cosmopolitan-age",
+  "summary": "After the rebellion, poetry diversified. Bai Juyi wrote plain, socially critical ballads meant to be understood by anyone; Han Yu and Liu Zongyuan led the guwen ('ancient prose') movement, rejecting ornate parallel prose for the direct style of the classics; and in the late Tang Li Shangyin and Du Mu wrote dense, allusive and ambiguous verse. Tang tales (chuanqi) of love and the supernatural also flourished."
+ },
+ {
+  "id": "heian-court-literature",
+  "name": "Heian court literature",
+  "name_native": "平安文学",
+  "dates": "c. 900–1185",
+  "period": "song-heian-goryeo",
+  "summary": "At the Heian court in Kyoto, the new kana syllabary allowed Japanese to be written fluently, and aristocratic women created one of the world's first great prose literatures. Imperial anthologies of waka beginning with the Kokinshū (905) set poetic taste for a thousand years; diaries, poem-tales and the Pillow Book recorded court life; and Murasaki Shikibu's Tale of Genji turned the monogatari into a psychological novel of immense scope."
+ },
+ {
+  "id": "song-ci",
+  "name": "Song ci and Song letters",
+  "name_native": "宋詞",
+  "dates": "960–1279",
+  "period": "song-heian-goryeo",
+  "summary": "The ci, lyrics written to existing tunes with lines of uneven length, began in the entertainment quarters of the Tang and became the signature form of the Song dynasty. Su Shi widened it from love and parting to philosophy and history, Li Qingzhao gave it its most delicate personal voice, and Xin Qiji and Lu You filled it with patriotic grief after the loss of the north to the Jurchen. Song prose, led by Ouyang Xiu and Su Shi, perfected the familiar essay."
+ },
+ {
+  "id": "kamakura-muromachi",
+  "name": "War tales, recluses & Noh",
+  "name_native": "軍記物語 · 隠者文学 · 能",
+  "dates": "c. 1185–1600",
+  "period": "song-heian-goryeo",
+  "summary": "As warriors took power in Japan, literature turned to impermanence. Blind biwa-playing monks chanted the war tales of the Taira and Minamoto; Buddhist recluses such as Kamo no Chōmei and Yoshida Kenkō wrote short essays from their huts; and the Shin Kokinshū pursued a melancholy, suggestive beauty. In the Muromachi period Zeami turned sarugaku into Noh, a masked dance-drama of ghosts and memory guided by the ideal of yūgen."
+ },
+ {
+  "id": "yuan-drama",
+  "name": "Yuan drama",
+  "name_native": "元雜劇",
+  "dates": "1271–1368",
+  "period": "song-heian-goryeo",
+  "summary": "Under Mongol rule, when the civil-service examinations were suspended and many scholars lost their careers, writers turned to the theatre. Zaju, four-act plays in which one lead role sings arias in each act, became China's first mature drama. Guan Hanqing wrote of injustice and resourceful women, Wang Shifu of romance, and Ma Zhiyuan of melancholy scholars; their colloquial lyrics (sanqu) were a new poetry in themselves."
+ },
+ {
+  "id": "ming-novel-drama",
+  "name": "Ming novels & chuanqi drama",
+  "name_native": "明代小說 · 傳奇",
+  "dates": "1368–1644",
+  "period": "ming-muromachi-joseon",
+  "summary": "Storytellers' cycles about heroes, rebels and pilgrims were shaped into long vernacular novels: Romance of the Three Kingdoms, Water Margin, Journey to the West and the startlingly frank Jin Ping Mei, later called the Four Masterworks of the Ming. Printing spread them widely. On stage, long southern chuanqi plays replaced zaju, culminating in Tang Xianzu's Peony Pavilion, while Feng Menglong's collections made the vernacular short story a literary form."
+ },
+ {
+  "id": "joseon-sijo-gasa",
+  "name": "Joseon sijo, gasa & early Hangul fiction",
+  "name_native": "時調 · 歌辭",
+  "dates": "1392–1700",
+  "period": "ming-muromachi-joseon",
+  "summary": "The invention of Hangul in 1443 let Koreans write their own language easily, though classical Chinese remained the language of scholarship. The sijo, a three-line sung poem, was cultivated by Confucian officials and kisaeng entertainers alike, Hwang Jini above all; the longer gasa was perfected by Jeong Cheol. Prose fiction began with Kim Si-seup's tales in Chinese and grew into Hangul novels such as The Tale of Hong Gildong and Kim Man-jung's Cloud Dream of the Nine."
+ },
+ {
+  "id": "edo-literature",
+  "name": "Edo literature",
+  "name_native": "江戸文学",
+  "dates": "1603–1868",
+  "period": "qing-edo-late-joseon",
+  "summary": "Peace and prosperous cities under the Tokugawa shogunate created a commercial literature for merchants as well as samurai. Ihara Saikaku wrote witty 'books of the floating world'; Chikamatsu Monzaemon wrote plays for puppet (jōruri) and kabuki theatres; Matsuo Bashō transformed linked verse into haikai poetry and travel journals, followed by Buson and Issa. Later came supernatural tales, comic travel novels and Bakin's vast historical romances."
+ },
+ {
+  "id": "qing-fiction-drama",
+  "name": "Qing fiction & drama",
+  "name_native": "清代小說",
+  "dates": "1644–1911",
+  "period": "qing-edo-late-joseon",
+  "summary": "The Qing dynasty produced the most refined Chinese novels and plays. Pu Songling wrote classical-language tales of ghosts and fox spirits, Wu Jingzi satirised the examination system in The Scholars, and Cao Xueqin's Dream of the Red Chamber portrayed the decline of a great family with unmatched depth. Kong Shangren and Hong Sheng wrote the last great chuanqi dramas, and Shen Fu's memoir opened an intimate personal prose."
+ },
+ {
+  "id": "late-joseon-prose",
+  "name": "Late Joseon pansori & Silhak prose",
+  "name_native": "판소리 · 實學",
+  "dates": "1700–1897",
+  "period": "qing-edo-late-joseon",
+  "summary": "In the eighteenth and nineteenth centuries Korean literature broadened beyond the yangban elite. Pansori singers performed long sung stories such as Chunhyang and Sim Cheong for village and court audiences, and these spread as printed Hangul novels. Practical-learning (Silhak) scholars such as Pak Ji-won wrote satirical tales and travel diaries in a lively Chinese, and court women produced memoirs in Hangul, above all Lady Hyegyeong."
+ },
+ {
+  "id": "meiji-modern",
+  "name": "Meiji to early Shōwa modern literature",
+  "name_native": "近代文学",
+  "dates": "1868–1945",
+  "period": "east-asian-modern",
+  "summary": "Opening to the West brought translations, newspapers and a new written language closer to speech (genbun itchi). Mori Ōgai and Natsume Sōseki created the modern Japanese novel of the self; Higuchi Ichiyō wrote of Tokyo's poor in a last classical style; Masaoka Shiki reformed haiku and tanka. In the Taishō and early Shōwa years Akutagawa perfected the short story, while Tanizaki and Kawabata began careers that spanned the war."
+ },
+ {
+  "id": "may-fourth-modern",
+  "name": "May Fourth & modern Chinese literature",
+  "name_native": "五四新文學",
+  "dates": "1917–1949",
+  "period": "east-asian-modern",
+  "summary": "The New Culture movement, crystallised in the student protests of 4 May 1919, rejected classical Chinese for baihua, the written vernacular, and Confucian tradition for science and democracy. Lu Xun's short stories inaugurated modern Chinese fiction; Mao Dun, Ba Jin, Lao She and Shen Congwen wrote novels of a society in upheaval; and in occupied Shanghai Eileen Chang wrote stories of love and survival. After 1949 literature in the mainland was subordinated to politics."
+ },
+ {
+  "id": "modern-korean",
+  "name": "Modern Korean literature",
+  "name_native": "韓國現代文學",
+  "dates": "1906–1950",
+  "period": "east-asian-modern",
+  "summary": "New-style fiction and poetry in Hangul emerged at the end of Joseon and grew under Japanese colonial rule (1910–45). Yi Kwang-su's Mujeong (1917) is counted the first modern Korean novel; Han Yong-un and Kim Sowol wrote lyric poetry of loss and longing; Yi Sang experimented with modernist fiction and verse; and Yun Dong-ju, who died in a Japanese prison, became the poet of conscience of the colonial era."
+ },
+ {
+  "id": "postwar-japanese",
+  "name": "Postwar Japanese literature",
+  "name_native": "戦後文学",
+  "dates": "1945–1990s",
+  "period": "east-asian-contemporary",
+  "summary": "Defeat, occupation and recovery shaped a generation of writers. Dazai Osamu voiced the despair of the immediate postwar years; Tanizaki and Kawabata wrote late masterpieces of a vanishing Japan, and Kawabata became the first Japanese Nobel laureate in 1968; Mishima Yukio fused aestheticism and nationalism; and Ōe Kenzaburō wrote of the atomic bomb, disability and responsibility, winning the Nobel Prize in 1994."
+ }
+]

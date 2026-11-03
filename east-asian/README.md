@@ -6,6 +6,7 @@ The art, buildings, thought, literature, music, religion, science and history of
 
 | | Section | People | Works | Images |
 |---|---|---|---|---|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China_%28cropped%29.jpg" width="120"> | [**Philosophy**](philosophy/README.md)<br>From Confucius and Laozi to Zhu Xi, Wang Yangming, Toegye and the Kyoto School | 65 | 107 | 59 |
 
 ## Eras
 
@@ -22,7 +23,7 @@ The same eras are used in every section, so you can see what was happening acros
 
 ## Across sections
 
-- [**People**](PEOPLE.md): all 0 people, with links to every section they appear in
+- [**People**](PEOPLE.md): all 65 people, with links to every section they appear in
 - [**Timeline**](TIMELINE.md): every work from every section in one chronology
 
 ---
