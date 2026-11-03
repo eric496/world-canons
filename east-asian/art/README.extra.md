@@ -1,0 +1,11 @@
+## Notes
+
+**Names and romanization.** Chinese names are in pinyin (with Wade-Giles or familiar spellings mentioned where useful, e.g. Zhang Daqian, also written Chang Dai-chien), Japanese in Hepburn with macrons, Korean in Revised Romanization. Family names come first. Many East Asian artists are best known by an art name (*hao*, *gō*, *ho*): Bada Shanren, Shitao, Hokusai, Danwon (Kim Hong-do). We use the name by which each is usually known in English and give the original script.
+
+**Anonymous makers.** Much of the greatest East Asian art was made by workshops whose members are not recorded: Shang bronze foundries, the Qin terracotta workshops, cave-temple carvers, Song, Goryeo, Jingdezhen and Joseon potters, the court painters of the Heian handscrolls. These appear as collective entries (for example `chinese-bronze-casters`, `goryeo-celadon-potters`) rather than invented individuals.
+
+**Attribution and copies.** Chinese painting was handed down through copies, and copying the old masters was a normal part of training and homage. Many of the most famous early works, including the *Admonitions Scroll*, the *Orchid Pavilion Preface* and the paintings associated with Yan Liben and Gu Hongzhong, survive only in later copies, and attributions to emperors such as Huizong often mean work done in his name by court painters. Descriptions say where an attribution is traditional or debated. Seals and inscriptions added by later owners are part of a painting's history, not damage.
+
+**About the images.** All pictures come from Wikimedia Commons. Portraits of artists are paintings, drawings or sculptures, never photographs; many are later, imagined likenesses (for Wang Xizhi, Su Shi and others), and captions say so. Modern artists for whom only photographs exist have no portrait. Works by artists who died less than about seventy years ago (Qi Baishi, Yokoyama Taikan, Zhang Daqian, Park Soo-keun, Tanaka Atsuko, Yayoi Kusama, Lee Ufan, Nam June Paik) are not reproduced; where possible they link to a museum page. Where the exact object described could not be found on Commons, a closely similar example is shown and the caption says so.
+
+**Vietnam.** Vietnamese art, from Đông Sơn bronze drums to Lý–Trần ceramics and Champa sculpture, is closely linked to the traditions here and is mentioned in the movement notes; it deserves a section of its own.

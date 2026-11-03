@@ -1,0 +1,17 @@
+{
+ "title": "Art",
+ "order": 1,
+ "tagline": "Bronzes, brush and woodblock from the Shang to the late twentieth century",
+ "hero_file": "Tsunami by hokusai 19th century.jpg",
+ "hero_caption": "Katsushika Hokusai, The Great Wave off Kanagawa, c. 1831",
+ "labels": {
+  "creator": "Artist",
+  "creators": "Artists",
+  "work": "Artwork",
+  "works": "Artworks",
+  "movement": "Movement",
+  "movements": "Movements & schools",
+  "location": "Where to see it"
+ },
+ "intro": "The art of China, Japan and Korea from Shang ritual bronzes to the postwar avant-garde: painting and calligraphy, Buddhist sculpture, ceramics, lacquer and woodblock prints. Every artist, including the anonymous workshops behind many masterpieces, has a biography and every work a full introduction. Public-domain works are shown from Wikimedia Commons; works still under copyright link to a museum page instead."
+}

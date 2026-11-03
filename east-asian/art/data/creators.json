@@ -271,7 +271,9 @@
   "bio_full": [
    "Wang Xizhi came from the powerful Wang clan of Langya, which moved south when northern China fell to invaders in the early fourth century. He served the Eastern Jin dynasty as an official, eventually as general of the right army and governor of Kuaiji (Shaoxing), before retiring to a life of Daoist pursuits. In 353 he hosted a gathering of friends at the Orchid Pavilion near Kuaiji, where they drank wine and composed poems; his preface to the collection became legendary. Stories tell of his love of geese, whose curving necks were said to inspire his brushwork.",
    "Wang Xizhi's running and cursive scripts combined elegance and strength with a natural, unforced rhythm, and they became the classical model for all later calligraphy. Emperor Taizong of Tang collected his work passionately and, according to tradition, was buried with the original Orchid Pavilion Preface. No undisputed original survives; his writing is known through tracing copies and stone-engraved rubbings, and calligraphers in China, Korea and Japan have copied these for over 1,500 years. His son Wang Xianzhi was also a celebrated calligrapher."
-  ]
+  ],
+  "portrait_file": "Portraits of Famous Men - Wang Xizhi (cropped).jpg",
+  "portrait_caption": "Later imagined portrait of Wang Xizhi"
  },
  {
   "id": "yan-liben",
@@ -345,7 +347,9 @@
   "bio_full": [
    "Yan Zhenqing came from a family of scholars and passed the civil service examination in 734. During the An Lushan rebellion of 755 he organised loyalist resistance in Hebei, and many of his relatives were killed, including his cousin Yan Gaoqing and his nephew Yan Jiming. He served in high office under several emperors, often clashing with powerful ministers. In old age he was sent to negotiate with the rebel general Li Xilie, who held him captive and had him strangled in 785. He was honoured as a model of loyalty.",
    "Yan Zhenqing broke with the elegant manner of Wang Xizhi to create a regular script of broad, muscular strokes and balanced, square structure, long used to teach children to write. His Draft of a Requiem to My Nephew, written in grief and anger with corrections and blots, is valued as a spontaneous outpouring of feeling. Song critics such as Su Shi and Ouyang Xiu saw his writing as the visible expression of his moral character, an idea central to Chinese calligraphy ever since."
-  ]
+  ],
+  "portrait_file": "颜鲁公.jpg",
+  "portrait_caption": "Later imagined portrait of Yan Zhenqing"
  },
  {
   "id": "gu-hongzhong",
@@ -438,7 +442,9 @@
   "bio_full": [
    "Zhao Ji, the eleventh son of Emperor Shenzong, became emperor in 1100. He was a passionate collector and patron, expanding the imperial collections of paintings, calligraphy and antique bronzes and commissioning catalogues of them. He reformed the court painting academy, setting examinations based on lines of poetry and insisting on close observation of nature. His government, however, was weakened by costly projects and corruption. In 1125 the Jurchen Jin invaded; Huizong abdicated in favour of his son, but both were captured when Kaifeng fell in 1127 and taken north, where Huizong died in captivity in 1135.",
    "Huizong invented the slender, elegant slender-gold (shoujin) script, and his bird-and-flower paintings are precise and refined. Many works bearing his signature were probably made by academy painters in his name, and scholars debate which are truly his own hand. Auspicious Cranes in the Liaoning Provincial Museum is among the most celebrated. For later historians he was both the model of the artist-emperor and a warning of an artist who neglected the state."
-  ]
+  ],
+  "portrait_file": "Seated Portrait of Emperor Song Huizong.tif",
+  "portrait_caption": "Song court portrait of Emperor Huizong, National Palace Museum, Taipei"
  },
  {
   "id": "zhang-zeduan",
@@ -492,7 +498,9 @@
   "bio_full": [
    "Su Shi passed the imperial examinations in 1057 with his brother Su Zhe and began a career in government that was repeatedly interrupted by factional politics. Opposed to Wang Anshi's reforms, he was arrested in 1079 on charges of slandering the emperor in his poems and banished to Huangzhou, where he farmed a plot on an eastern slope (Dongpo), which gave him his literary name. Later he held high office again before further exile to Huizhou and finally to Hainan island. He died in 1101 on his way back north.",
    "Su Shi is among the greatest Chinese poets, and in calligraphy one of the Four Masters of the Song. His Cold Food Observance, written in exile, is regarded as one of the finest works of running script. As a painter he made ink bamboo and withered trees, and as a critic he argued that judging a painting by likeness was the view of a child: painting should express the mind and character of the artist, as poetry does. These ideas became the foundation of literati painting in China, Korea and Japan."
-  ]
+  ],
+  "portrait_file": "Su shi.jpg",
+  "portrait_caption": "Traditional portrait of Su Shi"
  },
  {
   "id": "ma-yuan",
@@ -585,7 +593,9 @@
   "bio_full": [
    "Zhao Mengfu was a descendant of the founder of the Song dynasty. After the Mongol conquest he lived in retirement in Huzhou until 1286, when he accepted a summons to serve the Yuan court of Khubilai Khan, a decision that later loyalist critics held against him. He rose to high office in the Hanlin Academy. His wife Guan Daosheng was a noted painter and calligrapher of bamboo.",
    "Zhao Mengfu argued that painting must have the spirit of antiquity (guyi) and turned back from Southern Song styles to Tang and Five Dynasties masters. He painted horses, figures, bamboo and landscapes, and his Autumn Colors on the Qiao and Hua Mountains of 1295 is a turning point toward the scholarly landscape. His calligraphy, in all scripts, became a standard model for centuries, and his insistence that calligraphy and painting share the same brushwork shaped the Yuan literati tradition."
-  ]
+  ],
+  "portrait_file": "趙魏公小像.jpg",
+  "portrait_caption": "Traditional portrait of Zhao Mengfu"
  },
  {
   "id": "huang-gongwang",
@@ -603,7 +613,9 @@
   "bio_full": [
    "Born Lu Jian in Changshu, Huang Gongwang was adopted as a child by an old man named Huang and took his name. He worked as a minor clerk, was imprisoned for a time after his superior was implicated in a scandal, and then turned to Daoism, joining the Quanzhen sect. He made a living as a fortune-teller and teacher and began to paint seriously only in his fifties.",
    "Huang Gongwang wrote a short treatise on painting landscape and developed a style of layered, dry hemp-fibre strokes that build up rounded hills. His masterpiece, Dwelling in the Fuchun Mountains, painted between 1347 and 1350, was later burned in a collector's fire and survives in two pieces in Hangzhou and Taipei. Ming and Qing painters regarded him as the greatest of the Four Masters, and the Orthodox school took him as its chief model."
-  ]
+  ],
+  "portrait_file": "黃公望像.jpg",
+  "portrait_caption": "Traditional portrait of Huang Gongwang"
  },
  {
   "id": "ni-zan",
@@ -621,7 +633,9 @@
   "bio_full": [
    "Ni Zan was born to a wealthy landowning family in Wuxi and lived as a cultivated gentleman, collecting books, art and antiquities in his Qingbige pavilion. Many stories tell of his fastidiousness. In the 1350s, amid rebellion and heavy taxation, he gave away much of his property and spent about twenty years travelling by boat on the lakes of the Yangzi delta, staying with friends and painting for them.",
    "Ni Zan's landscapes are built from a nearly unvarying formula: a near shore with a few thin trees and an empty pavilion, a wide stretch of blank water, and low distant hills, drawn with dry, pale ink. They were seen as the perfect expression of the noble recluse's detachment, and owning or imitating a Ni Zan became a mark of taste. The Rongxi Studio of 1372 in Taipei is one of his best-known works."
-  ]
+  ],
+  "portrait_file": "Ni Zan Portrait Yuan.jpg",
+  "portrait_caption": "Yuan-dynasty portrait of Ni Zan, National Palace Museum, Taipei"
  },
  {
   "id": "wang-meng",
@@ -659,7 +673,9 @@
   "bio_full": [
    "Shen Zhou belonged to a wealthy, cultured family of the Suzhou region. Like his father and grandfather, he chose not to sit the examinations or seek office, partly to look after his mother, and lived as a gentleman scholar on the family estate, surrounded by friends, books and art. Generous and good-humoured, he painted for anyone who asked and was widely copied and forged even in his lifetime. Wen Zhengming was his pupil.",
    "Shen Zhou studied all the Yuan masters and earlier models but painted with a broad, sturdy, relaxed brush of his own. He extended literati painting to new subjects, including garden scenes, local landmarks and studies of animals and vegetables. His Lofty Mount Lu, painted in 1467 as a birthday gift for his teacher, is in the manner of Wang Meng. Through him, Suzhou became the centre of Ming scholarly painting."
-  ]
+  ],
+  "portrait_file": "Shen Zhou at age 80.Palace Museum Beijing.jpg",
+  "portrait_caption": "Self-portrait at the age of eighty, Palace Museum, Beijing"
  },
  {
   "id": "wen-zhengming",
@@ -678,7 +694,9 @@
   "bio_full": [
    "Wen Zhengming failed the provincial examinations ten times. In 1523 he was recommended for a post at the Hanlin Academy in Beijing, but after three unhappy years he resigned and returned to Suzhou, where he spent the rest of his long life painting, writing and teaching. His sons, nephews and many pupils carried on his style, and his friendship circle included Tang Yin and the calligrapher Zhu Yunming.",
    "Wen Zhengming painted in both fine, detailed styles and broader manners, favouring scholars in gardens, old trees and cypresses, and the scenery of Suzhou. His album of the Garden of the Humble Administrator records one of the city's great gardens. He was also among the finest calligraphers of the Ming. His refined, sometimes austere art became the model of the Suzhou gentleman's taste."
-  ]
+  ],
+  "portrait_file": "Portrait of Wen Zhengming.jpg",
+  "portrait_caption": "Portrait of Wen Zhengming"
  },
  {
   "id": "tang-yin",
@@ -697,7 +715,9 @@
   "bio_full": [
    "Tang Yin was the son of a Suzhou restaurant owner and became famous young for his talent; in 1498 he came first in the provincial examination. The next year, in Beijing, he was accused of having bought the questions for the metropolitan examination. He was imprisoned, stripped of his degree and barred from office. He returned to Suzhou and lived by selling paintings, building a retreat called the Peach Blossom Hermitage, and became a legendary figure of romance and dissipation in later popular fiction.",
    "Tang Yin studied with the professional painter Zhou Chen and also with Shen Zhou, and he combined academic skill with scholarly expression. His works include landscapes in the manner of Li Tang, refined paintings of beautiful women and poems in an elegant hand. He is usually counted with Shen Zhou, Wen Zhengming and Qiu Ying as one of the Four Masters of the Ming."
-  ]
+  ],
+  "portrait_file": "唐寅.jpg",
+  "portrait_caption": "Traditional portrait of Tang Yin"
  },
  {
   "id": "qiu-ying",
@@ -754,7 +774,9 @@
   "bio_full": [
    "Dong Qichang passed the highest examination in 1589 and had a long career in government, rising to be Minister of Rites in Nanjing, though he withdrew from office several times during factional struggles. He was also a powerful landowner, and in 1616 a mob angered by his family's behaviour burned his house in Songjiang. He was the foremost connoisseur and collector of his day and wrote inscriptions on many of the most famous old paintings.",
    "Dong Qichang's theory, borrowing the terms of Chan Buddhism, opposed a Southern school of scholar-amateurs, from Wang Wei through Dong Yuan to the Four Yuan Masters, to a Northern school of professionals and academicians. Painters should transform the old masters, not copy nature. His own landscapes, such as The Qingbian Mountains of 1617 in Cleveland, rearrange forms in abstract, almost geometric masses. His ideas governed the Orthodox school of the Qing and still shape how Chinese painting is studied."
-  ]
+  ],
+  "portrait_file": "董其昌.jpg",
+  "portrait_caption": "Portrait of Dong Qichang"
  },
  {
   "id": "bada-shanren",
@@ -773,7 +795,9 @@
   "bio_full": [
    "Bada Shanren, born Zhu Da (or Zhu Tong), was a descendant of the Ming imperial family living in Nanchang. After the Manchu conquest of 1644 he took refuge as a Buddhist monk. Around 1680 he suffered a mental crisis, said by some sources to have been feigned, during which he tore his monk's robes and returned to secular life. In later years he lived in Nanchang as a professional painter, and from 1684 signed his works Bada Shanren, written so that it seems to read both 'to cry' and 'to laugh'.",
    "His paintings use a few bold strokes of ink and large empty spaces. Birds stand on one leg on rocks too small for them, fish look up with resentful eyes, and lotus leaves sway in splashed ink. Scholars debate how far these images carry loyalist political meaning. His radical simplification and expressive power influenced Qing and twentieth-century painters from the Yangzhou eccentrics to Qi Baishi and Zhang Daqian."
-  ]
+  ],
+  "portrait_file": "个山小像（局部）.jpg",
+  "portrait_caption": "Huang Anping, portrait of Bada Shanren (Geshan xiaoxiang), 1674, detail"
  },
  {
   "id": "shitao",
@@ -792,7 +816,9 @@
   "bio_full": [
    "Shitao, born Zhu Ruoji, was a descendant of the Ming royal house. In 1645 his father was killed in a power struggle among Ming loyalists, and the infant was saved by a servant and raised as a Buddhist monk. He travelled widely, lived in Xuancheng and Nanjing, twice met the Kangxi Emperor on his southern tours, and spent three years in Beijing seeking patronage. Late in life he left the Buddhist order and settled in Yangzhou as a professional painter.",
    "Shitao's paintings range widely, from wet, spontaneous landscapes and orchids to detailed albums of real places such as Mount Huang. His treatise Remarks on Painting (Huayu lu) centres on the single brushstroke (yihua) and rejects slavish imitation of the ancients. He influenced the Yangzhou eccentrics and was taken up in the twentieth century as a forerunner of modern individualism; Zhang Daqian forged his works so well that some still hang in museums."
-  ]
+  ],
+  "portrait_file": "Shitao-autoportrait.jpg",
+  "portrait_caption": "Self-portrait"
  },
  {
   "id": "wang-hui",
@@ -965,7 +991,9 @@
   "bio_full": [
    "Unkei was the son of the sculptor Kōkei, head of a Nara workshop. When the Taira burned Tōdai-ji and Kōfuku-ji in 1180, the Kei school was engaged in their rebuilding, and Unkei also worked for the new warrior rulers in eastern Japan. In 1203, with Kaikei and their assistants, he carved the two eight-metre guardian kings at the Great South Gate of Tōdai-ji in about seventy days. His sons, including Tankei, continued the workshop.",
    "Unkei's figures have a new physical presence: muscular bodies, tense poses and faces of individual character, sometimes with inlaid crystal eyes. His portrait statues of the Indian monks Muchaku and Seshin at Kōfuku-ji are among the finest portrait sculptures in the world. His realism reflected both a study of Nara and Song Chinese art and the vigorous taste of the warrior class."
-  ]
+  ],
+  "portrait_file": "Unkei Rokuharamitsuji.jpg",
+  "portrait_caption": "Seated wooden statue of Unkei, Rokuharamitsu-ji, Kyoto"
  },
  {
   "id": "josetsu",
@@ -1002,7 +1030,9 @@
   "bio_full": [
    "Sesshū was born in Bitchū province and entered the Zen temple Hōfuku-ji as a boy; a famous legend says he drew a mouse with his tears when tied to a pillar as punishment. He trained at Shōkoku-ji in Kyoto, where Shūbun was the leading painter, and in his thirties moved to Yamaguchi under the patronage of the Ōuchi family. In 1467–69 he joined an official mission to Ming China, where he visited monasteries and studied Chinese painting. On his return he settled in western Japan and travelled widely, painting until his death around 1506.",
    "Sesshū's landscapes combine the Southern Song and Ming models he studied with strong, angular brushwork and a firm sense of structure, as in his Autumn and Winter Landscapes in the Tokyo National Museum. His Long Landscape Scroll of 1486 is a sixteen-metre journey through the seasons, while his splashed-ink (haboku) landscape of 1495 shows a few wet strokes. Six of his works are National Treasures, more than of any other Japanese painter, and the Kanō and Unkoku schools traced their lineage to him."
-  ]
+  ],
+  "portrait_file": "Portrait of Sesshu.jpg",
+  "portrait_caption": "Portrait of Sesshū, traditionally after a self-portrait"
  },
  {
   "id": "kano-eitoku",
@@ -1116,7 +1146,9 @@
   "bio_full": [
    "Jakuchū was the eldest son of a wholesale greengrocer in Kyoto's Nishiki market and took over the business in 1739, but he had little interest in commerce. He studied Kanō painting and copied Chinese works in Zen temples, then kept chickens in his garden to observe them from life. Around 1755 he handed the business to his brother and devoted himself to painting, becoming a lay Buddhist. His house was destroyed in the great Kyoto fire of 1788, and he spent his last years near the temple of Sekihō-ji.",
    "Between about 1757 and 1766 Jakuchū painted the thirty scrolls of the Colorful Realm of Living Beings, which he donated with a Shaka triad to Shōkoku-ji; they were later given to the imperial household. He also painted bold ink works and experimental screens made of thousands of small squares. Neglected for a long time, he became one of the most popular Japanese painters after exhibitions in the 2000s."
-  ]
+  ],
+  "portrait_file": "Portrait of Itō Jakuchū by Kubota Beisen.jpg",
+  "portrait_caption": "Kubota Beisen, imagined portrait of Jakuchū (Meiji period)"
  },
  {
   "id": "maruyama-okyo",
@@ -1135,7 +1167,9 @@
   "bio_full": [
    "Ōkyo was born to a farming family in Tanba and went to Kyoto as a youth, working in a toy shop where he painted megane-e, perspective pictures viewed through a lens device, which introduced him to Western linear perspective. He studied with a Kanō painter but filled sketchbooks with studies from life of plants, animals and people. With the patronage of the abbot Yūjō of Enman-in and wealthy merchants, he became the most sought-after painter in Kyoto.",
    "Ōkyo's work combines direct observation with elegant composition, as in his Pine Trees in Snow screens in the Mitsui Memorial Museum, painted with almost no outline. His Maruyama school, and its offshoot the Shijō school of Matsumura Goshun, dominated Kyoto painting into the twentieth century and laid the ground for the realism of modern nihonga."
-  ]
+  ],
+  "portrait_file": "円山応挙 近世名家肖像.jpg",
+  "portrait_caption": "Portrait from the album Kinsei meika shōzō"
  },
  {
   "id": "ike-no-taiga",
@@ -1154,7 +1188,9 @@
   "bio_full": [
    "Ike no Taiga was born in Kyoto, the son of a poor family, and was a child prodigy at calligraphy. He ran a fan shop as a young man and learned Chinese painting from books, imported woodblock manuals and the Ōbaku Zen monks of Uji. He travelled widely, climbing Mount Fuji and other mountains, and married the painter and poet Gyokuran. He was famous for his unworldliness and good nature.",
    "Taiga drew on Chinese literati models but painted with a light, playful freedom of his own, using finger painting and broad, rhythmic dotting. In 1771 he and Yosa Buson painted an album illustrating poems by the Chinese writer Li Yu on the joys of country life, Taiga taking the Ten Conveniences and Buson the Ten Pleasures; it is a National Treasure. With Buson he defined Japanese nanga."
-  ]
+  ],
+  "portrait_file": "A portrait of Ike Taiga by Fukuhara Gogaku 池大雅像 福原五岳.jpg",
+  "portrait_caption": "Fukuhara Gogaku, portrait of Ike no Taiga"
  },
  {
   "id": "hishikawa-moronobu",
@@ -1173,7 +1209,9 @@
   "bio_full": [
    "Moronobu was the son of a textile embroiderer and dyer in Awa province on the Bōsō peninsula, and he learned design in his father's trade. He moved to Edo around the 1660s, studied Tosa and Kanō painting, and became the most prolific book illustrator of his time, producing more than a hundred illustrated books on the pleasure quarters, kabuki, famous places and erotic subjects.",
    "Moronobu gave the illustration a strong, flowing black line and began issuing single-sheet prints not tied to a text, which made him the first great ukiyo-e master. He also painted handscrolls and screens of the pleasure districts. His painting Beauty Looking Back, in the Tokyo National Museum, created the type of the elegantly turning courtesan that later artists repeated for two centuries."
-  ]
+  ],
+  "portrait_file": "Self-portrait by Hishikawa Moronobu.jpg",
+  "portrait_caption": "Self-portrait"
  },
  {
   "id": "suzuki-harunobu",
@@ -1246,7 +1284,9 @@
   "bio_full": [
    "Hokusai was born in the Katsushika district of Edo and apprenticed as a woodblock carver before joining the studio of the actor-print artist Katsukawa Shunshō in 1779. He soon broke away, studied Kanō, Chinese and even European painting, and moved through many styles and names, illustrating novels, designing luxury privately issued surimono, and from 1814 publishing the sketchbooks known as Hokusai Manga. Around 1830, in his seventies, he designed the Thirty-six Views of Mount Fuji, his most famous work. He was poor for much of his life, moved house dozens of times, and was helped in his last years by his daughter Katsushika Ōi, herself a fine painter. He died in 1849 aged eighty-eight.",
    "Hokusai's energy and curiosity were boundless: he drew everything, from gods and ghosts to fishermen, waterfalls and bridges, and he combined Japanese line with Western perspective and imported Prussian blue pigment. In the postscript to his One Hundred Views of Mount Fuji he wrote that nothing he had drawn before seventy was worth noticing, and hoped to keep improving until he was a hundred and ten. His prints and the Manga had a profound influence on European artists such as Monet, Degas and Van Gogh, and the Great Wave has become the most recognisable image of Japanese art."
-  ]
+  ],
+  "portrait_file": "Hokusai as an old man.jpg",
+  "portrait_caption": "Self-portrait as an old man"
  },
  {
   "id": "hiroshige",
@@ -1265,7 +1305,9 @@
   "bio_full": [
    "Hiroshige, born Andō Tokutarō, was the son of a fire warden of the shogun's fire brigade in Edo, and inherited his father's post in 1809. He joined the studio of Utagawa Toyohiro and produced actor prints and pictures of women before turning to landscape around 1830. In 1832, according to tradition, he travelled along the Tōkaidō highway with an official delegation to Kyoto; the resulting series of The Fifty-three Stations of the Tōkaidō, published from 1833, made him famous. He produced thousands of prints, became a Buddhist monk in 1856, and died in the cholera epidemic of 1858.",
    "Where Hokusai's landscapes are dramatic and structured, Hiroshige's are lyrical, with rain, snow, mist and moonlight, travellers and local people, and subtle colour gradations (bokashi). His late One Hundred Famous Views of Edo, in vertical format with bold close-up foregrounds, was copied in oil by Van Gogh and influenced Whistler and the Impressionists."
-  ]
+  ],
+  "portrait_file": "Memorial Portrait of Utagawa Hiroshige (5765350019).jpg",
+  "portrait_caption": "Utagawa Kunisada, memorial portrait of Hiroshige, 1858"
  },
  {
   "id": "kuniyoshi",
@@ -1486,7 +1528,9 @@
   "bio_full": [
    "Kim Jeong-hui came from an aristocratic family related to the royal house. In 1809 he accompanied his father on an embassy to Beijing, where he met the Qing scholars Weng Fanggang and Ruan Yuan and became an enthusiast for the study of ancient inscriptions; back in Korea he identified the Bukhansan monument of King Jinheung of Silla. He held high office but fell victim to factional politics and spent nine years in exile on Jeju Island (1840–48) and later more in the north.",
    "Kim Jeong-hui developed the Chusa style of calligraphy, based on ancient clerical script, with angular, unbalanced, powerful strokes. As a painter he advocated the Chinese literati ideal of expressing the mind, and his ink orchids and Sehando are its purest Korean expression. He was the central figure of Korean scholarly culture in the nineteenth century."
-  ]
+  ],
+  "portrait_file": "Kim Jeong-hui.jpg",
+  "portrait_caption": "Painted portrait of Kim Jeong-hui, attributed to Yi Han-cheol"
  },
  {
   "id": "yun-du-seo",
@@ -1505,7 +1549,9 @@
   "bio_full": [
    "Yun Du-seo was born into the eminent Haenam Yun family and passed the lower civil examination in 1693, but because his faction, the Southerners, was out of power he never held office. He lived in Seoul and later on the family estate in Haenam, studying geography, astronomy, mathematics and painting in the spirit of practical learning (silhak). His son Yun Deok-hui and grandson Yun Yong were also painters.",
    "Yun Du-seo painted horses, figures and early genre scenes of ordinary people working, which anticipated the genre painting of Kim Hong-do. His Self-portrait, owned by his descendants in Haenam and designated a National Treasure, shows only his face and beard, staring at the viewer with extraordinary intensity, painted in fine lines."
-  ]
+  ],
+  "portrait_file": "Yun Du-seo.jpg",
+  "portrait_caption": "Self-portrait, c. 1710"
  },
  {
   "id": "park-soo-keun",
@@ -1560,6 +1606,24 @@
   "bio_full": [
    "Nam June Paik was born in Seoul to a wealthy family that fled the Korean War to Hong Kong and Japan. He studied aesthetics at the University of Tokyo and music in Germany, where he met John Cage and joined the Fluxus movement. In 1963 he showed altered television sets in Wuppertal, and after moving to New York in 1964 he used one of the first portable video cameras, working with the cellist Charlotte Moorman and engineers on video synthesisers. He died in Miami in 2006.",
    "Paik foresaw the importance of television and electronic networks, coining the phrase electronic superhighway. TV Buddha (1974), in which a statue of the Buddha watches its own image on a monitor, is a meditation on technology and contemplation. His works are under copyright."
+  ]
+ },
+ {
+  "id": "goryeo-buddhist-painters",
+  "name": "Goryeo Buddhist painters",
+  "name_native": "고려 불화 화가",
+  "born": "c. 1270",
+  "died": "c. 1392",
+  "sort": 1270,
+  "birthplace": "Gaegyeong (Kaesong), Korea",
+  "nationality": "Korean",
+  "movements": [
+   "song-goryeo-ceramics"
+  ],
+  "bio": "The court and professional painters of late Goryeo who made luxurious Buddhist paintings in gold and mineral colours, most of which survive in Japan.",
+  "bio_full": [
+   "Buddhism was the state religion of the Goryeo dynasty (918–1392), and in the late thirteenth and fourteenth centuries, under Mongol Yuan overlordship, the royal family and aristocracy commissioned devotional paintings on silk for temples and private chapels. The painters were usually anonymous professionals or court painters, though a few, such as Seo Gubang and Kim U-mun, are known from inscriptions. Subjects include Amitabha welcoming souls to the Pure Land, Ksitigarbha, and above all the Water-Moon Avalokiteshvara.",
+   "Goryeo Buddhist paintings are celebrated for their refinement: translucent veils painted over brilliant robes, fine gold line and patterning, and colours applied partly from the back of the silk. About 160 survive, most of them in Japanese temples and museums, where they arrived through trade, gifts and the looting of the sixteenth-century invasions; only a handful remain in Korea. Their rediscovery in the late twentieth century made them a focus of Korean art history."
   ]
  }
 ]

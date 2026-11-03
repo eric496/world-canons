@@ -1,0 +1,35 @@
+# Yuan literati painting (元代文人畫)
+
+*1271–1368*
+
+Era: [Song, Heian & Goryeo](../../periods/song-heian-goryeo.md)
+
+Under Mongol rule many Chinese scholars withdrew from office and painted for themselves and their friends. Zhao Mengfu looked back to earlier masters to renew painting, and the Four Masters of the Yuan, Huang Gongwang, Wu Zhen, Ni Zan and Wang Meng, made the dry, calligraphic brushstroke and the inscribed poem central to the scholar's art. In the same period the Jingdezhen kilns began making blue-and-white porcelain.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dwelling_in_the_Fuchun_Mountains_%28first_half%29.JPG/1280px-Dwelling_in_the_Fuchun_Mountains_%28first_half%29.JPG" width="100%" alt="Yuan literati painting">
+
+<sub>Huang Gongwang, Dwelling in the Fuchun Mountains · [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dwelling_in_the_Fuchun_Mountains_%28first_half%29.JPG)</sub>
+
+## Artists
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/%E8%B6%99%E9%AD%8F%E5%85%AC%E5%B0%8F%E5%83%8F.jpg" width="40" alt="Zhao Mengfu"> [Zhao Mengfu](../creators/zhao-mengfu.md) (1254 – 1322)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/%E9%BB%83%E5%85%AC%E6%9C%9B%E5%83%8F.jpg/330px-%E9%BB%83%E5%85%AC%E6%9C%9B%E5%83%8F.jpg" width="40" alt="Huang Gongwang"> [Huang Gongwang](../creators/huang-gongwang.md) (1269 – 1354)
+-  [Jingdezhen porcelain potters](../creators/jingdezhen-potters.md) (c. 1300 – c. 1912)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Ni_Zan_Portrait_Yuan.jpg" width="40" alt="Ni Zan"> [Ni Zan](../creators/ni-zan.md) (1301 – 1374)
+-  [Wang Meng](../creators/wang-meng.md) (c. 1308 – 1385)
+
+## Key artworks
+
+| Image | Year | Artwork | Artist | Where to see it |
+|---|---|---|---|---|
+| <a href="https://commons.wikimedia.org/wiki/File:2_Zhao_Mengfu_Autumn_Colors_on_the_Qiao_and_Hua_Mountains_Handscroll%2C_ink_and_colors_on_paper%2C_28.4_x_93.2_cm_National_Palace_Museum%2C_Taipei..jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2_Zhao_Mengfu_Autumn_Colors_on_the_Qiao_and_Hua_Mountains_Handscroll%2C_ink_and_colors_on_paper%2C_28.4_x_93.2_cm_National_Palace_Museum%2C_Taipei..jpg/330px-2_Zhao_Mengfu_Autumn_Colors_on_the_Qiao_and_Hua_Mountains_Handscroll%2C_ink_and_colors_on_paper%2C_28.4_x_93.2_cm_National_Palace_Museum%2C_Taipei..jpg" width="140" alt="Autumn Colors on the Qiao and Hua Mountains"></a> | 1295 | **Autumn Colors on the Qiao and Hua Mountains** | [Zhao Mengfu](../creators/zhao-mengfu.md) | National Palace Museum, Taipei |
+| <a href="https://commons.wikimedia.org/wiki/File:Dwelling_in_the_Fuchun_Mountains_%28first_half%29.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dwelling_in_the_Fuchun_Mountains_%28first_half%29.JPG/330px-Dwelling_in_the_Fuchun_Mountains_%28first_half%29.JPG" width="140" alt="Dwelling in the Fuchun Mountains"></a> | 1347–1350 | **Dwelling in the Fuchun Mountains** | [Huang Gongwang](../creators/huang-gongwang.md) | National Palace Museum, Taipei, and Zhejiang Provincial Museum, Hangzhou |
+| <a href="https://commons.wikimedia.org/wiki/File:The_David_Vases.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/The_David_Vases.jpg/330px-The_David_Vases.jpg" width="140" alt="The David Vases"></a> | 1351 | **The David Vases** | [Jingdezhen porcelain potters](../creators/jingdezhen-potters.md) | British Museum, London |
+| <a href="https://commons.wikimedia.org/wiki/File:Wang_Meng_Dwelling_in_the_Qingbian_Mountains._ink_on_paper._1366._141x42%2C2_cm._Shanghai_Museum.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wang_Meng_Dwelling_in_the_Qingbian_Mountains._ink_on_paper._1366._141x42%2C2_cm._Shanghai_Museum.jpg/330px-Wang_Meng_Dwelling_in_the_Qingbian_Mountains._ink_on_paper._1366._141x42%2C2_cm._Shanghai_Museum.jpg" width="140" alt="Dwelling in the Qingbian Mountains"></a> | 1366 | **Dwelling in the Qingbian Mountains** | [Wang Meng](../creators/wang-meng.md) | Shanghai Museum |
+| <a href="https://commons.wikimedia.org/wiki/File:Ni_Zan._The_Rongxi_Studio.1372._74%2C7x35%2C3._National_Palace_Museum%2C_Taipei.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ni_Zan._The_Rongxi_Studio.1372._74%2C7x35%2C3._National_Palace_Museum%2C_Taipei.jpg/330px-Ni_Zan._The_Rongxi_Studio.1372._74%2C7x35%2C3._National_Palace_Museum%2C_Taipei.jpg" width="140" alt="The Rongxi Studio"></a> | 1372 | **The Rongxi Studio** | [Ni Zan](../creators/ni-zan.md) | National Palace Museum, Taipei |
+| <a href="https://commons.wikimedia.org/wiki/File:Blue_and_white_Ming_Xuande_1426_1435.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Blue_and_white_Ming_Xuande_1426_1435.jpg/330px-Blue_and_white_Ming_Xuande_1426_1435.jpg" width="140" alt="Blue-and-white palace bowl with a dragon"></a> | Xuande period (1426–1435) | **Blue-and-white palace bowl with a dragon** | [Jingdezhen porcelain potters](../creators/jingdezhen-potters.md) | Palace Museum, Beijing (many in museums worldwide) |
+| <a href="https://commons.wikimedia.org/wiki/File:%E6%98%8E%E6%88%90%E5%8C%96_%E6%99%AF%E5%BE%B7%E9%8E%AE%E7%AA%AF%E9%AC%A5%E5%BD%A9%E9%9B%9E%E7%BC%B8%E6%9D%AF-Chicken_Cup_MET_1987_85_2015AT_001_%28cropped%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%E6%98%8E%E6%88%90%E5%8C%96_%E6%99%AF%E5%BE%B7%E9%8E%AE%E7%AA%AF%E9%AC%A5%E5%BD%A9%E9%9B%9E%E7%BC%B8%E6%9D%AF-Chicken_Cup_MET_1987_85_2015AT_001_%28cropped%29.jpg/330px-%E6%98%8E%E6%88%90%E5%8C%96_%E6%99%AF%E5%BE%B7%E9%8E%AE%E7%AA%AF%E9%AC%A5%E5%BD%A9%E9%9B%9E%E7%BC%B8%E6%9D%AF-Chicken_Cup_MET_1987_85_2015AT_001_%28cropped%29.jpg" width="140" alt="Doucai chicken cup"></a> | Chenghua period (1465–1487) | **Doucai chicken cup** | [Jingdezhen porcelain potters](../creators/jingdezhen-potters.md) | Palace Museum, Beijing; National Palace Museum, Taipei; private collections |
+| <a href="https://commons.wikimedia.org/wiki/File:%E6%B8%85%E4%B8%AD%E6%9C%9F_%E6%99%AF%E5%BE%B7%E9%8E%AE%E7%AA%AF%E7%B2%89%E5%BD%A9%E5%AD%90%E6%AF%8D%E9%9B%9E%E7%9B%A4-Dish_with_Rooster%2C_Hen%2C_and_Chickens_MET_LC-79_2_577_001.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%E6%B8%85%E4%B8%AD%E6%9C%9F_%E6%99%AF%E5%BE%B7%E9%8E%AE%E7%AA%AF%E7%B2%89%E5%BD%A9%E5%AD%90%E6%AF%8D%E9%9B%9E%E7%9B%A4-Dish_with_Rooster%2C_Hen%2C_and_Chickens_MET_LC-79_2_577_001.jpg/330px-%E6%B8%85%E4%B8%AD%E6%9C%9F_%E6%99%AF%E5%BE%B7%E9%8E%AE%E7%AA%AF%E7%B2%89%E5%BD%A9%E5%AD%90%E6%AF%8D%E9%9B%9E%E7%9B%A4-Dish_with_Rooster%2C_Hen%2C_and_Chickens_MET_LC-79_2_577_001.jpg" width="140" alt="Famille rose porcelain"></a> | Yongzheng and Qianlong periods (1723–1795) | **Famille rose porcelain** | [Jingdezhen porcelain potters](../creators/jingdezhen-potters.md) | Metropolitan Museum of Art, New York; Palace Museum, Beijing; and many other collections |
+
+---
+[← Song and Goryeo ceramics](song-goryeo-ceramics.md) · [Art](../README.md) · [Yamato-e and narrative handscrolls →](yamato-e-emaki.md)
